@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>mjesec u zadnjoj četvrti s licem</string>
+	<key>🤚</key>
+	<string>vanjska strana dlana</string>
+	<key>😛</key>
+	<string>lice s isplaženim jezikom</string>
+	<key>👩‍🔧</key>
+	<string>mehaničarka</string>
+	<key>🌝</key>
+	<string>puni mjesec s licem</string>
+	<key>🤛</key>
+	<string>šaka okrenuta lijevo</string>
+	<key>😜</key>
+	<string>lice s isplaženim jezikom koje namiguje</string>
+	<key>🌞</key>
+	<string>Sunce s licem</string>
+	<key>🤜</key>
+	<string>šaka okrenuta desno</string>
+	<key>😝</key>
+	<string>lice s isplaženim jezikom i škiljavim očima</string>
+	<key>🌟</key>
+	<string>sjajna zvijezda</string>
+	<key>🤝</key>
+	<string>rukovanje</string>
+	<key>😞</key>
+	<string>razočarano lice</string>
+	<key>🌠</key>
+	<string>zvijezda padalica</string>
+	<key>🤞</key>
+	<string>prekriženi prsti</string>
+	<key>😟</key>
+	<string>zabrinuto lice</string>
+	<key>🐈‍⬛</key>
+	<string>crna mačka</string>
+	<key>🤟</key>
+	<string>gesta za volim te</string>
+	<key>😠</key>
+	<string>ljutito lice</string>
+	<key>⚜️</key>
+	<string>heraldički ljiljan</string>
+	<key>⛴️</key>
+	<string>trajekt</string>
+	<key>🤠</key>
+	<string>lice kauboja</string>
+	<key>😡</key>
+	<string>crveno ljutito lice</string>
+	<key>🤡</key>
+	<string>lice klauna</string>
+	<key>😢</key>
+	<string>lice koje plače</string>
+	<key>⬛️</key>
+	<string>veliki crni kvadrat</string>
+	<key>🤢</key>
+	<string>lice kojem je pozlilo</string>
+	<key>😣</key>
+	<string>izmučeno lice</string>
+	<key>🤣</key>
+	<string>lice koje se valja po podu od smijeha</string>
+	<key>😤</key>
+	<string>lice s parom iz nosa</string>
+	<key>🤤</key>
+	<string>lice koje slini</string>
+	<key>😥</key>
+	<string>tužno lice s dozom olakšanja</string>
+	<key>🤥</key>
+	<string>lice koje laže</string>
+	<key>😦</key>
+	<string>namršteno lice s otvorenim ustima</string>
+	<key>🤦</key>
+	<string>osoba s dlanom preko lica</string>
+	<key>😧</key>
+	<string>zapanjeno lice</string>
+	<key>🤧</key>
+	<string>lice koje kiše</string>
+	<key>😨</key>
+	<string>preplašeno lice</string>
+	<key>🤨</key>
+	<string>lice s podignutom obrvom</string>
+	<key>😩</key>
+	<string>iscrpljeno lice</string>
+	<key>🤩</key>
+	<string>lice sa zvjezdastim očima</string>
+	<key>⚕️</key>
+	<string>Asklepijev štap</string>
+	<key>😪</key>
+	<string>pospano lice</string>
+	<key>👁️‍🗨️</key>
+	<string>Ja sam svjedok</string>
+	<key>🤪</key>
+	<string>šašavo lice</string>
+	<key>😫</key>
+	<string>izbezumljeno lice</string>
+	<key>🌭</key>
+	<string>hot dog</string>
+	<key>🤫</key>
+	<string>lice koje ušutkuje</string>
+	<key>😬</key>
+	<string>lice s grimasom</string>
+	<key>🌮</key>
+	<string>taco</string>
+	<key>🤬</key>
+	<string>lice sa simbolima preko usta</string>
+	<key>😭</key>
+	<string>lice koje glasno plače</string>
+	<key>🌯</key>
+	<string>burito</string>
+	<key>🤭</key>
+	<string>lice s rukom preko usta i nasmijanim očima</string>
+	<key>😮</key>
+	<string>iznenađeno lice s otvorenim ustima</string>
+	<key>🌰</key>
+	<string>lješnjak</string>
+	<key>🤮</key>
+	<string>lice koje povraća</string>
+	<key>😯</key>
+	<string>iznenađeno lice</string>
+	<key>🌱</key>
+	<string>sadnica</string>
+	<key>🤯</key>
+	<string>glava koja eksplodira</string>
+	<key>😰</key>
+	<string>nervozno lice sa znojem</string>
+	<key>🌲</key>
+	<string>zimzeleno drvo</string>
+	<key>🤰</key>
+	<string>trudnica</string>
+	<key>😱</key>
+	<string>lice koje vrišti od straha</string>
+	<key>🌳</key>
+	<string>stablo</string>
+	<key>🤱</key>
+	<string>dojenje</string>
+	<key>😲</key>
+	<string>zadivljeno lice</string>
+	<key>🛡️</key>
+	<string>štit</string>
+	<key>🌴</key>
+	<string>palma</string>
+	<key>🤲</key>
+	<string>dlanovi zajedno okrenuti prema gore</string>
+	<key>😳</key>
+	<string>lice sa širom otvorenim očima</string>
+	<key>🌵</key>
+	<string>kaktus</string>
+	<key>🤳</key>
+	<string>selfi</string>
+	<key>😴</key>
+	<string>lice koje spava</string>
+	<key>🤴</key>
+	<string>princ</string>
+	<key>😵</key>
+	<string>ošamućeno lice</string>
+	<key>👩‍🌾</key>
+	<string>farmerica</string>
+	<key>🌷</key>
+	<string>tulipan</string>
+	<key>🤵</key>
+	<string>osoba u smokingu</string>
+	<key>😶</key>
+	<string>lice bez usta</string>
+	<key>🌸</key>
+	<string>cvijet trešnje</string>
+	<key>🤶</key>
+	<string>Baka Božićnjak</string>
+	<key>😷</key>
+	<string>lice s medicinskom maskom</string>
+	<key>🌹</key>
+	<string>ruža</string>
+	<key>🤷</key>
+	<string>osoba koja sliježe ramenima</string>
+	<key>😸</key>
+	<string>lice mačke koja se ceri</string>
+	<key>🌺</key>
+	<string>hibiskus</string>
+	<key>🤸</key>
+	<string>osoba koja radi zvijezdu</string>
+	<key>😹</key>
+	<string>lice mačke sa suzama radosnicama</string>
+	<key>🌻</key>
+	<string>suncokret</string>
+	<key>🤹</key>
+	<string>osoba žonglira</string>
+	<key>😺</key>
+	<string>sretno lice mačke</string>
+	<key>🌼</key>
+	<string>cvijet</string>
+	<key>🤺</key>
+	<string>mačevalac</string>
+	<key>😻</key>
+	<string>nasmiješeno lice mačke s očima u obliku srca</string>
+	<key>🌽</key>
+	<string>klip kukuruza</string>
+	<key>😼</key>
+	<string>lice mačke koja se smijulji</string>
+	<key>🇿🇦</key>
+	<string>zastava Južnoafričke Republike</string>
+	<key>👩‍🔬</key>
+	<string>znanstvenica</string>
+	<key>🌾</key>
+	<string>klasje pšenice</string>
+	<key>🤼</key>
+	<string>osobe se hrvaju</string>
+	<key>😽</key>
+	<string>lice mačke koja šalje poljubac</string>
+	<key>🇻🇦</key>
+	<string>zastava Vatikana</string>
+	<key>🌿</key>
+	<string>trava</string>
+	<key>🤽</key>
+	<string>osoba igra vaterpolo</string>
+	<key>😾</key>
+	<string>lice mačke koja se duri</string>
+	<key>☯️</key>
+	<string>jin jang</string>
+	<key>🍀</key>
+	<string>djetelina s četiri lista</string>
+	<key>🤾</key>
+	<string>osoba igra rukomet</string>
+	<key>😿</key>
+	<string>lice mačke koja plače</string>
+	<key>🍁</key>
+	<string>javorov list</string>
+	<key>🤿</key>
+	<string>maska za ronjenje</string>
+	<key>🧑‍🍳</key>
+	<string>kuhar</string>
+	<key>🇳🇦</key>
+	<string>zastava Namibije</string>
+	<key>🙀</key>
+	<string>lice mačke koja vrišti od straha</string>
+	<key>🧗‍♀️</key>
+	<string>penjačica po stijenama</string>
+	<key>⁉️</key>
+	<string>crveni uskličnik i upitnik</string>
+	<key>🍂</key>
+	<string>otpalo lišće</string>
+	<key>🥀</key>
+	<string>uvenula ruža</string>
+	<key>🙁</key>
+	<string>lagano namršteno lice</string>
+	<key>🍃</key>
+	<string>lišće koje leprša na vjetru</string>
+	<key>🥁</key>
+	<string>bubanj</string>
+	<key>🙂</key>
+	<string>lagano nasmiješeno lice</string>
+	<key>⬆️</key>
+	<string>strelica gore</string>
+	<key>🍄</key>
+	<string>gljiva</string>
+	<key>🥂</key>
+	<string>nazdravljanje čašama</string>
+	<key>🙃</key>
+	<string>naopako okrenuto lice</string>
+	<key>5️⃣</key>
+	<string>tipka broj pet</string>
+	<key>🍅</key>
+	<string>rajčica</string>
+	<key>🥃</key>
+	<string>čaša</string>
+	<key>🙄</key>
+	<string>lice s kolutajućim očima</string>
+	<key>🇻🇨</key>
+	<string>zastava Svetog Vincenta i Grenadina</string>
+	<key>🇧🇦</key>
+	<string>zastava Bosne i Hercegovine</string>
+	<key>↩️</key>
+	<string>desna strelica zakrivljena ulijevo</string>
+	<key>🍆</key>
+	<string>patliđan</string>
+	<key>🥄</key>
+	<string>žlica</string>
+	<key>🙅</key>
+	<string>osoba koja gestikulira ne</string>
+	<key>🍇</key>
+	<string>grožđe</string>
+	<key>🥅</key>
+	<string>mreža gola</string>
+	<key>🙆</key>
+	<string>osoba koja gestikulira OK</string>
+	<key>🛣️</key>
+	<string>autoput</string>
+	<key>🍈</key>
+	<string>dinja</string>
+	<key>🙇</key>
+	<string>osoba koja se klanja</string>
+	<key>🇳🇨</key>
+	<string>zastava Nove Kaledonije</string>
+	<key>🍉</key>
+	<string>lubenica</string>
+	<key>🇧🇧</key>
+	<string>zastava Barbadosa</string>
+	<key>🥇</key>
+	<string>zlatna medalja</string>
+	<key>🙈</key>
+	<string>majmun s poklopljenim očima</string>
+	<key>🍊</key>
+	<string>mandarina</string>
+	<key>🥈</key>
+	<string>srebrna medalja</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>zastava Škotske</string>
+	<key>🙉</key>
+	<string>majmun s poklopljenim ušima</string>
+	<key>🍋</key>
+	<string>limun</string>
+	<key>🥉</key>
+	<string>brončana medalja</string>
+	<key>🙊</key>
+	<string>majmun s poklopljenim ustima</string>
+	<key>🍌</key>
+	<string>banana</string>
+	<key>🥊</key>
+	<string>boksačka rukavica</string>
+	<key>🇻🇪</key>
+	<string>zastava Venezuele</string>
+	<key>🙋</key>
+	<string>osoba s podignutom rukom</string>
+	<key>🍍</key>
+	<string>ananas</string>
+	<key>🥋</key>
+	<string>uniforma za borilačke vještine</string>
+	<key>🙌</key>
+	<string>podignute ruke u znak slavlja</string>
+	<key>🇷🇪</key>
+	<string>zastava Réuniona</string>
+	<key>🍎</key>
+	<string>crvena jabuka</string>
+	<key>🥌</key>
+	<string>kugla za curling</string>
+	<key>🙍</key>
+	<string>namrštena osoba</string>
+	<key>🍏</key>
+	<string>zelena jabuka</string>
+	<key>🇳🇪</key>
+	<string>zastava Nigera</string>
+	<key>🥍</key>
+	<string>palica i loptica za lacrosse</string>
+	<key>🙎</key>
+	<string>nadurena osoba</string>
+	<key>🅾️</key>
+	<string>krvna grupa 0</string>
+	<key>🇧🇩</key>
+	<string>zastava Bangladeša</string>
+	<key>🍐</key>
+	<string>kruška</string>
+	<key>🥎</key>
+	<string>softball</string>
+	<key>🇯🇪</key>
+	<string>zastava Jerseya</string>
+	<key>🙏</key>
+	<string>spojeni dlanovi</string>
+	<key>🍑</key>
+	<string>breskva</string>
+	<key>🥏</key>
+	<string>leteći disk</string>
+	<key>🍒</key>
+	<string>trešnje</string>
+	<key>🥐</key>
+	<string>kroasan</string>
+	<key>🇳🇫</key>
+	<string>zastava otoka Norfolk</string>
+	<key>🍓</key>
+	<string>jagoda</string>
+	<key>🇻🇬</key>
+	<string>zastava Britanskih Djevičanskih otoka</string>
+	<key>🇧🇪</key>
+	<string>zastava Belgije</string>
+	<key>🥑</key>
+	<string>avokado</string>
+	<key>🍔</key>
+	<string>hamburger</string>
+	<key>🥒</key>
+	<string>krastavac</string>
+	<key>⛑️</key>
+	<string>kaciga s bijelim križem</string>
+	<key>🍕</key>
+	<string>pizza</string>
+	<key>🥓</key>
+	<string>slanina</string>
+	<key>🇳🇬</key>
+	<string>zastava Nigerije</string>
+	<key>🍖</key>
+	<string>meso na kosti</string>
+	<key>🥔</key>
+	<string>krumpir</string>
+	<key>👨‍🍳</key>
+	<string>kuhar</string>
+	<key>🇧🇫</key>
+	<string>zastava Burkine Faso</string>
+	<key>🍗</key>
+	<string>batak</string>
+	<key>👮‍♀️</key>
+	<string>policajka</string>
+	<key>🥕</key>
+	<string>mrkva</string>
+	<key>⭐️</key>
+	<string>zvijezda</string>
+	<key>🍘</key>
+	<string>kreker od riže</string>
+	<key>🥖</key>
+	<string>baget</string>
+	<key>🗝️</key>
+	<string>stari ključ</string>
+	<key>🌶️</key>
+	<string>ljuta papričica</string>
+	<key>🍙</key>
+	<string>okruglica od riže</string>
+	<key>🥗</key>
+	<string>zelena salata</string>
+	<key>🏃‍♂️</key>
+	<string>trkač</string>
+	<key>🇻🇮</key>
+	<string>zastava Američkih Djevičanskih otoka</string>
+	<key>🇧🇬</key>
+	<string>zastava Bugarske</string>
+	<key>🍚</key>
+	<string>kuhana riža</string>
+	<key>🥘</key>
+	<string>tava s hranom</string>
+	<key>🍛</key>
+	<string>curry i riža</string>
+	<key>🥙</key>
+	<string>pita sendvič</string>
+	<key>🍜</key>
+	<string>zdjela iz koje se diže para</string>
+	<key>🥚</key>
+	<string>jaje</string>
+	<key>🛥️</key>
+	<string>motorni čamac</string>
+	<key>🇳🇮</key>
+	<string>zastava Nikaragve</string>
+	<key>🍝</key>
+	<string>špageti</string>
+	<key>🥛</key>
+	<string>čaša mlijeka</string>
+	<key>🇧🇭</key>
+	<string>zastava Bahreina</string>
+	<key>🍞</key>
+	<string>kruh</string>
+	<key>🥜</key>
+	<string>kikiriki</string>
+	<key>🍟</key>
+	<string>pomfrit</string>
+	<key>👨‍👨‍👦</key>
+	<string>obitelj s dva oca i sinom</string>
+	<key>🥝</key>
+	<string>kivi</string>
+	<key>🇫🇮</key>
+	<string>zastava Finske</string>
+	<key>🤾‍♂️</key>
+	<string>muškarac igra rukomet</string>
+	<key>🍠</key>
+	<string>pečeni slatki krumpir</string>
+	<key>🖲️</key>
+	<string>pomična kuglica</string>
+	<key>🥞</key>
+	<string>palačinke</string>
+	<key>🇧🇮</key>
+	<string>zastava Burundija</string>
+	<key>🍡</key>
+	<string>dango</string>
+	<key>🥟</key>
+	<string>okruglica</string>
+	<key>🍢</key>
+	<string>oden</string>
+	<key>🥠</key>
+	<string>kolačić sudbine</string>
+	<key>🇫🇯</key>
+	<string>zastava Fidžija</string>
+	<key>🍣</key>
+	<string>sushi</string>
+	<key>🥡</key>
+	<string>kutija za hranu</string>
+	<key>🍤</key>
+	<string>prženi škamp</string>
+	<key>🥢</key>
+	<string>kineski štapići</string>
+	<key>🇧🇯</key>
+	<string>zastava Benina</string>
+	<key>↔️</key>
+	<string>strelica lijevo-desno</string>
+	<key>🍥</key>
+	<string>panirana riba s vrtlogom</string>
+	<key>🥣</key>
+	<string>zdjela sa žlicom</string>
+	<key>🍦</key>
+	<string>sladoled iz automata</string>
+	<key>🇿🇲</key>
+	<string>zastava Zambije</string>
+	<key>🇫🇰</key>
+	<string>zastava Falklandskih otoka</string>
+	<key>🥤</key>
+	<string>čaša za van</string>
+	<key>🏌️‍♀️</key>
+	<string>golferica</string>
+	<key>🇳🇱</key>
+	<string>zastava Nizozemske</string>
+	<key>🍧</key>
+	<string>drobljeni led</string>
+	<key>🥥</key>
+	<string>kokos</string>
+	<key>🍨</key>
+	<string>sladoled</string>
+	<key>🥦</key>
+	<string>brokula</string>
+	<key>🍩</key>
+	<string>krafna</string>
+	<key>🥧</key>
+	<string>pita</string>
+	<key>🖇️</key>
+	<string>spojene spajalice za papir</string>
+	<key>🍪</key>
+	<string>keks</string>
+	<key>🥨</key>
+	<string>perec</string>
+	<key>🇻🇳</key>
+	<string>zastava Vijetnama</string>
+	<key>💂‍♀️</key>
+	<string>stražarica</string>
+	<key>🇧🇱</key>
+	<string>zastava Svetog Bartolomeja</string>
+	<key>🍫</key>
+	<string>čokolada</string>
+	<key>🇯🇲</key>
+	<string>zastava Jamajke</string>
+	<key>🥩</key>
+	<string>odrezak</string>
+	<key>🍬</key>
+	<string>bombon</string>
+	<key>🥪</key>
+	<string>sendvič</string>
+	<key>⛹️‍♀️</key>
+	<string>košarkašica</string>
+	<key>🍭</key>
+	<string>lizalica</string>
+	<key>🇫🇲</key>
+	<string>zastava Mikronezije</string>
+	<key>🥫</key>
+	<string>hrana u konzervi</string>
+	<key>🍮</key>
+	<string>krema</string>
+	<key>👨‍❤️‍👨</key>
+	<string>dva muškarca sa srcem</string>
+	<key>🥬</key>
+	<string>lisnato povrće</string>
+	<key>🇧🇲</key>
+	<string>zastava Bermude</string>
+	<key>🍯</key>
+	<string>tegla meda</string>
+	<key>🥭</key>
+	<string>mango</string>
+	<key>🇷🇴</key>
+	<string>zastava Rumunjske</string>
+	<key>🍰</key>
+	<string>tortica</string>
+	<key>🥮</key>
+	<string>mjesečev kolač</string>
+	<key>🍱</key>
+	<string>kutija za ručak</string>
+	<key>🇳🇴</key>
+	<string>zastava Norveške</string>
+	<key>🥯</key>
+	<string>pecivo</string>
+	<key>🇧🇳</key>
+	<string>zastava Bruneja</string>
+	<key>🧚‍♀️</key>
+	<string>vila</string>
+	<key>🍲</key>
+	<string>zdjelica s hranom</string>
+	<key>🇯🇴</key>
+	<string>zastava Jordana</string>
+	<key>🥰</key>
+	<string>nasmiješeno lice sa srcima</string>
+	<key>🍳</key>
+	<string>kuhanje</string>
+	<key>🥱</key>
+	<string>lice koje zijeva</string>
+	<key>🇫🇴</key>
+	<string>zastava Farskih otoka</string>
+	<key>🍴</key>
+	<string>vilica i nož</string>
+	<key>🥲</key>
+	<string>nasmiješeno lice sa suzom</string>
+	<key>🇳🇵</key>
+	<string>zastava Nepala</string>
+	<key>✔️</key>
+	<string>kvačica</string>
+	<key>🍵</key>
+	<string>šalica za čaj bez drške</string>
+	<key>🥳</key>
+	<string>lice koje se zabavlja</string>
+	<key>🇧🇴</key>
+	<string>zastava Bolivije</string>
+	<key>🇯🇵</key>
+	<string>zastava Japana</string>
+	<key>🍶</key>
+	<string>boca sakea i čašica</string>
+	<key>🥴</key>
+	<string>ošamućeno lice</string>
+	<key>🍷</key>
+	<string>vinska čaša</string>
+	<key>🥵</key>
+	<string>pregrijano lice</string>
+	<key>🍸</key>
+	<string>čaša za koktel</string>
+	<key>🥶</key>
+	<string>smrznuto lice</string>
+	<key>🍹</key>
+	<string>tropsko piće</string>
+	<key>🥷</key>
+	<string>nindža</string>
+	<key>🍺</key>
+	<string>pivska krigla</string>
+	<key>🥸</key>
+	<string>prerušeno lice</string>
+	<key>🚶‍♀️</key>
+	<string>pješakinja</string>
+	<key>🍻</key>
+	<string>nazdravljanje pivskim kriglama</string>
+	<key>🥹</key>
+	<string>nasmiješeno lice koje suspreže suze</string>
+	<key>🇳🇷</key>
+	<string>zastava Naurua</string>
+	<key>🍼</key>
+	<string>dječja bočica</string>
+	<key>🇧🇶</key>
+	<string>zastava Bonairea</string>
+	<key>🥺</key>
+	<string>molećivo lice</string>
+	<key>🧑‍🍼</key>
+	<string>osoba koja hrani bebu</string>
+	<key>🥻</key>
+	<string>sari</string>
+	<key>🇷🇸</key>
+	<string>zastava Srbije</string>
+	<key>🍾</key>
+	<string>boca s čepom koji iskače</string>
+	<key>🇫🇷</key>
+	<string>zastava Francuske</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>muškarac i žena koji se ljube</string>
+	<key>🥼</key>
+	<string>laboratorijska kuta</string>
+	<key>✍️</key>
+	<string>ruka koja piše</string>
+	<key>🍿</key>
+	<string>kokice</string>
+	<key>🥽</key>
+	<string>zaštitne naočale</string>
+	<key>🇧🇷</key>
+	<string>zastava Brazila</string>
+	<key>🗡️</key>
+	<string>bodež</string>
+	<key>⏮️</key>
+	<string>simbol za prijelaz unatrag</string>
+	<key>🎀</key>
+	<string>vrpca u mašni</string>
+	<key>🥾</key>
+	<string>planinarska cipela</string>
+	<key>🎁</key>
+	<string>dar</string>
+	<key>🥿</key>
+	<string>ravna cipela</string>
+	<key>🚀</key>
+	<string>raketa</string>
+	<key>🎂</key>
+	<string>rođendanska torta</string>
+	<key>🦀</key>
+	<string>rak</string>
+	<key>🚁</key>
+	<string>helikopter</string>
+	<key>🇻🇺</key>
+	<string>zastava Vanuatua</string>
+	<key>🇧🇸</key>
+	<string>zastava Bahama</string>
+	<key>🎃</key>
+	<string>izdubljena bundeva</string>
+	<key>🕵️‍♀️</key>
+	<string>detektivka</string>
+	<key>🦁</key>
+	<string>lice lava</string>
+	<key>🚂</key>
+	<string>parna lokomotiva</string>
+	<key>🎄</key>
+	<string>Božićno drvce</string>
+	<key>🇷🇺</key>
+	<string>zastava Rusije</string>
+	<key>🦂</key>
+	<string>škorpion</string>
+	<key>🚃</key>
+	<string>vagon vlaka</string>
+	<key>🎅</key>
+	<string>Djed Božićnjak</string>
+	<key>🦃</key>
+	<string>purica</string>
+	<key>🚄</key>
+	<string>brzi vlak</string>
+	<key>🇳🇺</key>
+	<string>zastava Niuea</string>
+	<key>🛩️</key>
+	<string>mali zrakoplov</string>
+	<key>◾️</key>
+	<string>srednje mali crni kvadrat</string>
+	<key>🎆</key>
+	<string>vatromet</string>
+	<key>🇧🇹</key>
+	<string>zastava Butana</string>
+	<key>🦄</key>
+	<string>jednorog</string>
+	<key>🚅</key>
+	<string>brzi vlak s lokomotivom u obliku metka</string>
+	<key>🎇</key>
+	<string>prskalica</string>
+	<key>🦅</key>
+	<string>orao</string>
+	<key>🚆</key>
+	<string>vlak</string>
+	<key>👱‍♀️</key>
+	<string>plavokosa žena</string>
+	<key>🎈</key>
+	<string>balon</string>
+	<key>🇿🇼</key>
+	<string>zastava Zimbabvea</string>
+	<key>🦆</key>
+	<string>patka</string>
+	<key>🚇</key>
+	<string>vlak podzemne željeznice</string>
+	<key>😮‍💨</key>
+	<string>lice koje izdiše</string>
+	<key>🎉</key>
+	<string>top konfeta</string>
+	<key>🦇</key>
+	<string>šišmiš</string>
+	<key>🚈</key>
+	<string>gradska željeznica</string>
+	<key>🎊</key>
+	<string>kugla s konfetima</string>
+	<key>🦈</key>
+	<string>morski pas</string>
+	<key>🚉</key>
+	<string>postaja</string>
+	<key>🇷🇼</key>
+	<string>zastava Ruande</string>
+	<key>🎋</key>
+	<string>tanabata stablo</string>
+	<key>🦉</key>
+	<string>sova</string>
+	<key>🚊</key>
+	<string>tramvaj</string>
+	<key>🎌</key>
+	<string>prekrižene zastave</string>
+	<key>🦊</key>
+	<string>lice lisice</string>
+	<key>🚋</key>
+	<string>tramvaj</string>
+	<key>🎍</key>
+	<string>dekoracija u obliku bora</string>
+	<key>🇧🇻</key>
+	<string>zastava otoka Bouvet</string>
+	<key>🦋</key>
+	<string>leptir</string>
+	<key>🚌</key>
+	<string>autobus</string>
+	<key>🎎</key>
+	<string>Japanske lutke</string>
+	<key>🦌</key>
+	<string>jelen</string>
+	<key>🚍</key>
+	<string>dolazeći autobus</string>
+	<key>🎏</key>
+	<string>koinobori zastavica</string>
+	<key>🦍</key>
+	<string>gorila</string>
+	<key>🚎</key>
+	<string>trolejbus</string>
+	<key>🚏</key>
+	<string>autobusna stanica</string>
+	<key>🎐</key>
+	<string>vjetrena zvona</string>
+	<key>🦎</key>
+	<string>gušter</string>
+	<key>🇧🇼</key>
+	<string>zastava Bocvane</string>
+	<key>🚐</key>
+	<string>minibus</string>
+	<key>♏️</key>
+	<string>Škorpion</string>
+	<key>🎑</key>
+	<string>ceremonija gledanja mjeseca</string>
+	<key>🦏</key>
+	<string>nosorog</string>
+	<key>🚑</key>
+	<string>hitna pomoć</string>
+	<key>👨‍🍼</key>
+	<string>muškarac koji hrani bebu</string>
+	<key>⚧️</key>
+	<string>simbol za transrodnu osobu</string>
+	<key>👨‍👨‍👧</key>
+	<string>obitelj s dva oca i kćeri</string>
+	<key>🖋️</key>
+	<string>nalivpero</string>
+	<key>🚒</key>
+	<string>vatrogasna kola</string>
+	<key>🎒</key>
+	<string>ruksak</string>
+	<key>🎓</key>
+	<string>maturantska kapa</string>
+	<key>🦐</key>
+	<string>škamp</string>
+	<key>🦑</key>
+	<string>lignja</string>
+	<key>🚓</key>
+	<string>policijski automobil</string>
+	<key>❗️</key>
+	<string>crveni uskličnik</string>
+	<key>🦒</key>
+	<string>žirafa</string>
+	<key>🙇‍♀️</key>
+	<string>žena se klanja</string>
+	<key>🗣️</key>
+	<string>silueta glave koja govori</string>
+	<key>🚔</key>
+	<string>dolazeći policijski automobil</string>
+	<key>🦓</key>
+	<string>zebra</string>
+	<key>🚕</key>
+	<string>taxi</string>
+	<key>🦔</key>
+	<string>jež</string>
+	<key>🇳🇿</key>
+	<string>zastava Novog Zelanda</string>
+	<key>🦕</key>
+	<string>dinosaur</string>
+	<key>🚖</key>
+	<string>dolazeći taxi</string>
+	<key>🇧🇾</key>
+	<string>zastava Bjelorusije</string>
+	<key>🦖</key>
+	<string>tiranosaur</string>
+	<key>🚗</key>
+	<string>automobil</string>
+	<key>🦗</key>
+	<string>cvrčak</string>
+	<key>🚘</key>
+	<string>dolazeći automobil</string>
+	<key>🦘</key>
+	<string>klokan</string>
+	<key>🚙</key>
+	<string>terensko vozilo</string>
+	<key>🇧🇿</key>
+	<string>zastava Belizea</string>
+	<key>🦙</key>
+	<string>ljama</string>
+	<key>🚚</key>
+	<string>dostavni kamion</string>
+	<key>♈️</key>
+	<string>Ovan</string>
+	<key>🦚</key>
+	<string>paun</string>
+	<key>🚛</key>
+	<string>kamion</string>
+	<key>⚠️</key>
+	<string>upozorenje</string>
+	<key>🦛</key>
+	<string>nilski konj</string>
+	<key>🚜</key>
+	<string>traktor</string>
+	<key>⛸️</key>
+	<string>klizaljka</string>
+	<key>🧘‍♂️</key>
+	<string>muškarac u lotus položaju</string>
+	<key>🧑‍🚀</key>
+	<string>astronaut</string>
+	<key>🦜</key>
+	<string>papiga</string>
+	<key>🚝</key>
+	<string>pruga s jednim kolosijekom</string>
+	<key>🦝</key>
+	<string>rakun</string>
+	<key>🚞</key>
+	<string>planinska željeznica</string>
+	<key>🎠</key>
+	<string>konjić iz zabavnog parka</string>
+	<key>🦞</key>
+	<string>jastog</string>
+	<key>🚟</key>
+	<string>viseća željeznica</string>
+	<key>🎡</key>
+	<string>panoramski kotač</string>
+	<key>🦟</key>
+	<string>komarac</string>
+	<key>🚠</key>
+	<string>planinska žičara</string>
+	<key>🎢</key>
+	<string>vlak smrti</string>
+	<key>🦠</key>
+	<string>mikrob</string>
+	<key>🚡</key>
+	<string>žičara</string>
+	<key>🧝‍♀️</key>
+	<string>vilenjakinja</string>
+	<key>🎣</key>
+	<string>ribički štap i riba</string>
+	<key>🦡</key>
+	<string>jazavac</string>
+	<key>🚢</key>
+	<string>brod</string>
+	<key>🎤</key>
+	<string>mikrofon</string>
+	<key>🦢</key>
+	<string>labud</string>
+	<key>🚣</key>
+	<string>osoba vesla u čamcu</string>
+	<key>🎥</key>
+	<string>filmska kamera</string>
+	<key>🦣</key>
+	<string>mamut</string>
+	<key>🚤</key>
+	<string>gliser</string>
+	<key>🎦</key>
+	<string>simbol za kino</string>
+	<key>🦤</key>
+	<string>ptica dodo</string>
+	<key>🚥</key>
+	<string>vodoravni semafor</string>
+	<key>⚙️</key>
+	<string>zupčanik</string>
+	<key>🚴‍♂️</key>
+	<string>biciklist</string>
+	<key>🎧</key>
+	<string>slušalice</string>
+	<key>🦥</key>
+	<string>ljenivac</string>
+	<key>🚦</key>
+	<string>okomiti semafor</string>
+	<key>⛱️</key>
+	<string>suncobran</string>
+	<key>🖍️</key>
+	<string>voštane boje</string>
+	<key>🎨</key>
+	<string>umjetnička paleta</string>
+	<key>🦦</key>
+	<string>vidra</string>
+	<key>🚧</key>
+	<string>znak za gradnju</string>
+	<key>🎩</key>
+	<string>cilindar</string>
+	<key>🦧</key>
+	<string>orangutan</string>
+	<key>🚨</key>
+	<string>svjetlo policijskog automobila</string>
+	<key>➡️</key>
+	<string>strelica udesno</string>
+	<key>🎪</key>
+	<string>cirkuski šator</string>
+	<key>🦨</key>
+	<string>tvor</string>
+	<key>🚩</key>
+	<string>trokutasta zastava na stupu</string>
+	<key>🎫</key>
+	<string>ulaznica</string>
+	<key>🦩</key>
+	<string>plamenac</string>
+	<key>🚪</key>
+	<string>vrata</string>
+	<key>🦸‍♀️</key>
+	<string>superjunakinja</string>
+	<key>🎬</key>
+	<string>filmska klapa</string>
+	<key>🦪</key>
+	<string>kamenica</string>
+	<key>🚫</key>
+	<string>zabranjeno</string>
+	<key>🎖️</key>
+	<string>vojna medalja</string>
+	<key>🎭</key>
+	<string>izvedbene umjetnosti</string>
+	<key>🦫</key>
+	<string>dabar</string>
+	<key>🚬</key>
+	<string>cigareta</string>
+	<key>🎮</key>
+	<string>igraći kontroler</string>
+	<key>🦬</key>
+	<string>bizon</string>
+	<key>🚭</key>
+	<string>znak zabrane pušenja</string>
+	<key>🎯</key>
+	<string>centar mete</string>
+	<key>🦭</key>
+	<string>tuljan</string>
+	<key>🚮</key>
+	<string>simbol za stavljanje otpada na odgovarajuće mjesto</string>
+	<key>☺️</key>
+	<string>smješkajuće lice</string>
+	<key>🎰</key>
+	<string>automat za igre</string>
+	<key>🦮</key>
+	<string>pas vodič</string>
+	<key>🚯</key>
+	<string>zabrana bacanja smeća</string>
+	<key>⚒️</key>
+	<string>čekić i pijuk</string>
+	<key>🎱</key>
+	<string>biljar</string>
+	<key>🦯</key>
+	<string>bijeli štap</string>
+	<key>🚰</key>
+	<string>slavina</string>
+	<key>🧑‍🎄</key>
+	<string>Mraz</string>
+	<key>⛪️</key>
+	<string>crkva</string>
+	<key>🎲</key>
+	<string>igraća kocka</string>
+	<key>🤵‍♀️</key>
+	<string>žena u smokingu</string>
+	<key>⌛️</key>
+	<string>pješčani sat</string>
+	<key>🏋️‍♂️</key>
+	<string>dizač utega</string>
+	<key>🚱</key>
+	<string>voda koja nije za piće</string>
+	<key>🎳</key>
+	<string>kugla za kuglanje i čunjevi</string>
+	<key>👯‍♂️</key>
+	<string>plesači sa zečjim ušima</string>
+	<key>👨‍🚀</key>
+	<string>astronaut</string>
+	<key>🚲</key>
+	<string>bicikl</string>
+	<key>🎴</key>
+	<string>igraće karte s cvijećem</string>
+	<key>🚳</key>
+	<string>zabrana za bicikle</string>
+	<key>👩‍👦‍👦</key>
+	<string>obitelj s majkom i dva sina</string>
+	<key>🎵</key>
+	<string>glazbena nota</string>
+	<key>👨‍🤝‍👨</key>
+	<string>muškarci koji se drže za ruke</string>
+	<key>🚴</key>
+	<string>biciklist</string>
+	<key>🎶</key>
+	<string>glazbene note</string>
+	<key>🦴</key>
+	<string>kost</string>
+	<key>🚵</key>
+	<string>brdski biciklist</string>
+	<key>🎷</key>
+	<string>saksofon</string>
+	<key>🦵</key>
+	<string>noga</string>
+	<key>🚶</key>
+	<string>pješak</string>
+	<key>🎸</key>
+	<string>gitara</string>
+	<key>🦶</key>
+	<string>stopalo</string>
+	<key>🚷</key>
+	<string>zabrana za pješake</string>
+	<key>🎹</key>
+	<string>klavijatura</string>
+	<key>🦷</key>
+	<string>zub</string>
+	<key>🚸</key>
+	<string>djeca prelaze preko ceste</string>
+	<key>🎺</key>
+	<string>truba</string>
+	<key>🦸</key>
+	<string>superjunak</string>
+	<key>🚹</key>
+	<string>simbol za muškarce</string>
+	<key>🎻</key>
+	<string>violina</string>
+	<key>🦹</key>
+	<string>superzlikovac</string>
+	<key>🚺</key>
+	<string>simbol za žene</string>
+	<key>🎼</key>
+	<string>glazbena ljestvica</string>
+	<key>🦺</key>
+	<string>sigurnosni prsluk</string>
+	<key>🚻</key>
+	<string>wc</string>
+	<key>🎽</key>
+	<string>majica za trčanje</string>
+	<key>🦻</key>
+	<string>uho sa slušnim pomagalom</string>
+	<key>🚼</key>
+	<string>simbol bebe</string>
+	<key>🎾</key>
+	<string>teniska loptica</string>
+	<key>🦼</key>
+	<string>motorizirana invalidska kolica</string>
+	<key>🚽</key>
+	<string>toalet</string>
+	<key>🎿</key>
+	<string>skije</string>
+	<key>🦽</key>
+	<string>ručna invalidska kolica</string>
+	<key>🚾</key>
+	<string>vodokotlić</string>
+	<key>🏀</key>
+	<string>košarkaška lopta</string>
+	<key>🦾</key>
+	<string>mehanička ruka</string>
+	<key>🙅‍♂️</key>
+	<string>muškarac gestikulira ne</string>
+	<key>🚿</key>
+	<string>tuš</string>
+	<key>🏁</key>
+	<string>kockasta zastava</string>
+	<key>🦿</key>
+	<string>mehanička noga</string>
+	<key>🛀</key>
+	<string>osoba se kupa</string>
+	<key>🏂</key>
+	<string>snowboarder</string>
+	<key>🧀</key>
+	<string>kriška sira</string>
+	<key>🛁</key>
+	<string>kada</string>
+	<key>🚣‍♂️</key>
+	<string>muškarac vesla u čamcu</string>
+	<key>🏃</key>
+	<string>trkač</string>
+	<key>🧁</key>
+	<string>muffin</string>
+	<key>🛂</key>
+	<string>carinska kontrola</string>
+	<key>🏄</key>
+	<string>surfer</string>
+	<key>🧂</key>
+	<string>sol</string>
+	<key>🛃</key>
+	<string>carina</string>
+	<key>🏅</key>
+	<string>sportska medalja</string>
+	<key>🧃</key>
+	<string>sok u tetrapaku</string>
+	<key>🛄</key>
+	<string>pokretna traka za prtljagu</string>
+	<key>🏆</key>
+	<string>trofej</string>
+	<key>🧄</key>
+	<string>češnjak</string>
+	<key>🛅</key>
+	<string>ostavljena prtljaga</string>
+	<key>🏇</key>
+	<string>džokej na trkaćem konju</string>
+	<key>🧅</key>
+	<string>luk</string>
+	<key>✴️</key>
+	<string>osmerokraka zvijezda</string>
+	<key>🖼️</key>
+	<string>okvir sa slikom</string>
+	<key>🏈</key>
+	<string>Američki nogomet</string>
+	<key>🧆</key>
+	<string>falafel</string>
+	<key>🏉</key>
+	<string>ragbi</string>
+	<key>🧇</key>
+	<string>vafl</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>obitelj s dva oca, sinom i kćeri</string>
+	<key>🏊</key>
+	<string>plivač</string>
+	<key>🧈</key>
+	<string>maslac</string>
+	<key>🧑‍⚖️</key>
+	<string>sudac</string>
+	<key>3️⃣</key>
+	<string>tipka broj tri</string>
+	<key>🧉</key>
+	<string>maté</string>
+	<key>🧊</key>
+	<string>led</string>
+	<key>🧋</key>
+	<string>tajvanski čaj</string>
+	<key>🛌</key>
+	<string>osoba spava</string>
+	<key>🧛‍♂️</key>
+	<string>vampir</string>
+	<key>🧌</key>
+	<string>trol</string>
+	<key>🏏</key>
+	<string>palica i loptica za kriket</string>
+	<key>🧍</key>
+	<string>osoba koja stoji</string>
+	<key>🏐</key>
+	<string>odbojkaška lopta</string>
+	<key>🧎</key>
+	<string>osoba koja kleči</string>
+	<key>🏑</key>
+	<string>štap i loptica za hokej na travi</string>
+	<key>🧏</key>
+	<string>Gluha osoba</string>
+	<key>🛐</key>
+	<string>mjesto bogoštovlja</string>
+	<key>🏒</key>
+	<string>štap i pak za hokej na ledu</string>
+	<key>🧐</key>
+	<string>lice s monoklom</string>
+	<key>🛑</key>
+	<string>osmerokutni znak</string>
+	<key>🏓</key>
+	<string>reket i loptica za stolni tenis</string>
+	<key>🧑</key>
+	<string>odrasla osoba</string>
+	<key>🛒</key>
+	<string>kolica za kupovinu</string>
+	<key>🧒</key>
+	<string>dijete</string>
+	<key>🧓</key>
+	<string>starija osoba</string>
+	<key>🎚️</key>
+	<string>kliznik razine</string>
+	<key>🧔</key>
+	<string>bradata osoba</string>
+	<key>🛕</key>
+	<string>hinduistički hram</string>
+	<key>🧕</key>
+	<string>žena s maramom za glavu</string>
+	<key>🛖</key>
+	<string>koliba</string>
+	<key>🧖</key>
+	<string>osoba u sauni</string>
+	<key>🛗</key>
+	<string>dizalo</string>
+	<key>🧗</key>
+	<string>penjač po stijenama</string>
+	<key>🧘</key>
+	<string>osoba u lotus položaju</string>
+	<key>🧙</key>
+	<string>mag</string>
+	<key>🧚</key>
+	<string>vila</string>
+	<key>👩‍💻</key>
+	<string>tehnologinja</string>
+	<key>🧛</key>
+	<string>vampir</string>
+	<key>🛜</key>
+	<string>simbol bežičnog signala</string>
+	<key>🧜</key>
+	<string>sirena</string>
+	<key>🛝</key>
+	<string>tobogan</string>
+	<key>🧝</key>
+	<string>vilenjak</string>
+	<key>🛞</key>
+	<string>kotač</string>
+	<key>👨‍⚖️</key>
+	<string>sudac</string>
+	<key>🏠</key>
+	<string>kuća</string>
+	<key>🧞</key>
+	<string>duh iz boce</string>
+	<key>↘️</key>
+	<string>strelica dolje-desno</string>
+	<key>🛟</key>
+	<string>pojas za spašavanje</string>
+	<key>🏡</key>
+	<string>kuća s vrtom</string>
+	<key>🧟</key>
+	<string>zombi</string>
+	<key>🤸‍♀️</key>
+	<string>žena koja radi zvijezdu</string>
+	<key>🏢</key>
+	<string>zgrada s uredima</string>
+	<key>🧠</key>
+	<string>mozak</string>
+	<key>🏣</key>
+	<string>Japanski poštanski ured</string>
+	<key>🧡</key>
+	<string>narančasto srce</string>
+	<key>👩‍💼</key>
+	<string>uredska djelatnica</string>
+	<key>🏤</key>
+	<string>Europski poštanski ured</string>
+	<key>🧢</key>
+	<string>šilterica</string>
+	<key>🏥</key>
+	<string>bolnica</string>
+	<key>🧣</key>
+	<string>šal</string>
+	<key>🏦</key>
+	<string>banka</string>
+	<key>🧤</key>
+	<string>rukavice</string>
+	<key>🏧</key>
+	<string>Znak za bankomat</string>
+	<key>🧥</key>
+	<string>kaput</string>
+	<key>👷‍♀️</key>
+	<string>građevinska radnica</string>
+	<key>🏨</key>
+	<string>hotel</string>
+	<key>🧦</key>
+	<string>čarape</string>
+	<key>🏩</key>
+	<string>ljubavni hotel</string>
+	<key>🧧</key>
+	<string>crvena poklon omotnica</string>
+	<key>ℹ️</key>
+	<string>izvor informacija</string>
+	<key>🏪</key>
+	<string>maloprodajna trgovina</string>
+	<key>🧨</key>
+	<string>petarda</string>
+	<key>🏫</key>
+	<string>škola</string>
+	<key>🧩</key>
+	<string>dio slagalice</string>
+	<key>🏬</key>
+	<string>robna kuća</string>
+	<key>🧪</key>
+	<string>epruveta</string>
+	<key>🛫</key>
+	<string>polijetanje zrakoplova</string>
+	<key>🛳️</key>
+	<string>putnički brod</string>
+	<key>🏭</key>
+	<string>tvornica</string>
+	<key>🧫</key>
+	<string>petrijeva zdjelica</string>
+	<key>🛬</key>
+	<string>slijetanje zrakoplova</string>
+	<key>♨️</key>
+	<string>termalno vrelo</string>
+	<key>🏮</key>
+	<string>izakaya lanterna</string>
+	<key>🧬</key>
+	<string>DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>obitelj s majkom, ocem i sinom</string>
+	<key>🏯</key>
+	<string>Japanski dvorac</string>
+	<key>🧭</key>
+	<string>kompas</string>
+	<key>🧏‍♀️</key>
+	<string>Gluha žena</string>
+	<key>🏰</key>
+	<string>Europski dvorac</string>
+	<key>🧮</key>
+	<string>abakus</string>
+	<key>🧯</key>
+	<string>aparat za gašenje požara</string>
+	<key>⏹️</key>
+	<string>simbol za stop</string>
+	<key>🧰</key>
+	<string>kutija s alatom</string>
+	<key>🧱</key>
+	<string>cigle</string>
+	<key>🏴</key>
+	<string>crna zastava</string>
+	<key>🧲</key>
+	<string>magnet</string>
+	<key>🙍‍♀️</key>
+	<string>žena se mršti</string>
+	<key>🧳</key>
+	<string>prtljaga</string>
+	<key>🛴</key>
+	<string>romobil</string>
+	<key>🧴</key>
+	<string>bočica losiona</string>
+	<key>🛵</key>
+	<string>skuter</string>
+	<key>👨‍👦</key>
+	<string>obitelj s ocem i sinom</string>
+	<key>🧵</key>
+	<string>konac</string>
+	<key>💆‍♂️</key>
+	<string>muškarac prima masažu glave</string>
+	<key>🛶</key>
+	<string>kanu</string>
+	<key>🏸</key>
+	<string>reket i loptice za badminton</string>
+	<key>🧶</key>
+	<string>pređa</string>
+	<key>🛷</key>
+	<string>sanjke</string>
+	<key>🏹</key>
+	<string>luk i strijela</string>
+	<key>🧷</key>
+	<string>ziherica</string>
+	<key>🛸</key>
+	<string>NLO</string>
+	<key>🏺</key>
+	<string>amfora</string>
+	<key>🧸</key>
+	<string>medvjedić</string>
+	<key>🛹</key>
+	<string>skateboard</string>
+	<key>🧹</key>
+	<string>metla</string>
+	<key>🛺</key>
+	<string>autorikša</string>
+	<key>⏲️</key>
+	<string>brojač</string>
+	<key>🧺</key>
+	<string>košara</string>
+	<key>🛻</key>
+	<string>kamionet</string>
+	<key>🧻</key>
+	<string>rola papira</string>
+	<key>🛼</key>
+	<string>koturaljka</string>
+	<key>👨‍👧</key>
+	<string>obitelj s ocem i kćeri</string>
+	<key>🧼</key>
+	<string>sapun</string>
+	<key>🧞‍♂️</key>
+	<string>muški duh</string>
+	<key>🧽</key>
+	<string>spužva</string>
+	<key>🎞️</key>
+	<string>filmske sličice</string>
+	<key>🧾</key>
+	<string>račun</string>
+	<key>▪️</key>
+	<string>mali crni kvadrat</string>
+	<key>🧿</key>
+	<string>amajlija nazar</string>
+	<key>☂️</key>
+	<string>kišobran</string>
+	<key>🗂️</key>
+	<string>kartice za indeksiranje</string>
+	<key>🦹‍♂️</key>
+	<string>superzlikovac</string>
+	<key>🏋️</key>
+	<string>dizač utega</string>
+	<key>◻️</key>
+	<string>srednji bijeli kvadrat</string>
+	<key>♓️</key>
+	<string>Ribe</string>
+	<key>⚫️</key>
+	<string>crni krug</string>
+	<key>⏩</key>
+	<string>simbol za pretraživanje unaprijed</string>
+	<key>⏪</key>
+	<string>simbol za pretraživanje unatrag</string>
+	<key>⏫</key>
+	<string>dvostruki trokut okrenut prema gore</string>
+	<key>⏬</key>
+	<string>dvostruki trokut okrenut prema dolje</string>
+	<key>🗯️</key>
+	<string>ljutiti oblak za govor</string>
+	<key>⏰</key>
+	<string>budilica</string>
+	<key>⏳</key>
+	<string>pješčani sat s pijeskom koji curi</string>
+	<key>🧑‍🎓</key>
+	<string>student</string>
+	<key>🧑‍🚒</key>
+	<string>vatrogasac</string>
+	<key>♌️</key>
+	<string>Lav</string>
+	<key>🗄️</key>
+	<string>ormarić za dokumente</string>
+	<key>🧍‍♂️</key>
+	<string>muškarac koji stoji</string>
+	<key>🏍️</key>
+	<string>motocikl</string>
+	<key>🙋‍♂️</key>
+	<string>muškarac s podignutom rukom</string>
+	<key>👨‍👩‍👧</key>
+	<string>obitelj s majkom, ocem i kćeri</string>
+	<key>🇸🇦</key>
+	<string>zastava Saudijske Arabije</string>
+	<key>⛵️</key>
+	<string>jedrilica</string>
+	<key>👩‍🏫</key>
+	<string>učiteljica</string>
+	<key>⬜️</key>
+	<string>veliki bijeli kvadrat</string>
+	<key>🇸🇧</key>
+	<string>zastava Solomonskih otoka</string>
+	<key>🇬🇦</key>
+	<string>zastava Gabona</string>
+	<key>🇨🇦</key>
+	<string>zastava Kanade</string>
+	<key>🇸🇨</key>
+	<string>zastava Sejšela</string>
+	<key>🇬🇧</key>
+	<string>zastava Ujedinjenog Kraljevstva</string>
+	<key>👨‍🎓</key>
+	<string>student</string>
+	<key>👨‍🚒</key>
+	<string>vatrogasac</string>
+	<key>⚖️</key>
+	<string>vaga</string>
+	<key>🇸🇩</key>
+	<string>zastava Sudana</string>
+	<key>🇨🇨</key>
+	<string>zastava Kokosovih (Keeling) otoka</string>
+	<key>⏏️</key>
+	<string>simbol za izbacivanje</string>
+	<key>🇸🇪</key>
+	<string>zastava Švedske</string>
+	<key>🇬🇩</key>
+	<string>zastava Grenade</string>
+	<key>👩‍🏭</key>
+	<string>tvornička radnica</string>
+	<key>🇼🇫</key>
+	<string>zastava Wallisa i Futune</string>
+	<key>🇨🇩</key>
+	<string>zastava Demokratske Republike Kongo</string>
+	<key>🇰🇪</key>
+	<string>zastava Kenije</string>
+	<key>🛎️</key>
+	<string>recepcijsko zvonce</string>
+	<key>🇬🇪</key>
+	<string>zastava Gruzije</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>obitelj s dvije majke, sinom i kćeri</string>
+	<key>🇸🇬</key>
+	<string>zastava Singapura</string>
+	<key>🇬🇫</key>
+	<string>zastava Francuske Gvajane</string>
+	<key>🇨🇫</key>
+	<string>zastava Srednjoafričke Republike</string>
+	<key>🇰🇬</key>
+	<string>zastava Kirgistana</string>
+	<key>🗳️</key>
+	<string>glasačka kutija s glasačkim listićem</string>
+	<key>🇸🇭</key>
+	<string>zastava Svete Helene</string>
+	<key>🇬🇬</key>
+	<string>zastava Guernseya</string>
+	<key>🧑‍⚕️</key>
+	<string>zdravstveni djelatnik</string>
+	<key>🏃‍♀️</key>
+	<string>trkačica</string>
+	<key>🇨🇬</key>
+	<string>zastava Republike Kongo</string>
+	<key>🇰🇭</key>
+	<string>zastava Kambodže</string>
+	<key>🤹‍♂️</key>
+	<string>muškarac žonglira</string>
+	<key>🇸🇮</key>
+	<string>zastava Slovenije</string>
+	<key>🇬🇭</key>
+	<string>zastava Gane</string>
+	<key>〽️</key>
+	<string>znak za djelomičnu zamjenu</string>
+	<key>🇨🇭</key>
+	<string>zastava Švicarske</string>
+	<key>🇰🇮</key>
+	<string>zastava Kiribatija</string>
+	<key>🇸🇯</key>
+	<string>zastava Svalbarda i Jan Mayena</string>
+	<key>🕰️</key>
+	<string>kaminski sat</string>
+	<key>8️⃣</key>
+	<string>tipka broj osam</string>
+	<key>🇬🇮</key>
+	<string>zastava Gibraltara</string>
+	<key>🤾‍♀️</key>
+	<string>žena igra rukomet</string>
+	<key>🇨🇮</key>
+	<string>zastava Côte d’Ivoirea</string>
+	<key>⬇️</key>
+	<string>strelica dolje</string>
+	<key>👩‍✈️</key>
+	<string>pilotkinja</string>
+	<key>👩‍👧‍👦</key>
+	<string>obitelj s majkom, sinom i kćeri</string>
+	<key>🇸🇰</key>
+	<string>zastava Slovačke</string>
+	<key>🌡️</key>
+	<string>termometar</string>
+	<key>↪️</key>
+	<string>lijeva strelica zakrivljena udesno</string>
+	<key>🇸🇱</key>
+	<string>zastava Sijera Leonea</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>dva muškarca se ljube</string>
+	<key>🇨🇰</key>
+	<string>zastava Cookovih otoka</string>
+	<key>🇸🇲</key>
+	<string>zastava San Marina</string>
+	<key>🇬🇱</key>
+	<string>zastava Grenlanda</string>
+	<key>🇴🇲</key>
+	<string>zastava Omana</string>
+	<key>🇨🇱</key>
+	<string>zastava Čilea</string>
+	<key>🇰🇲</key>
+	<string>zastava Komora</string>
+	<key>🇸🇳</key>
+	<string>zastava Senegala</string>
+	<key>🇬🇲</key>
+	<string>zastava Gambije</string>
+	<key>1️⃣</key>
+	<string>tipka broj jedan</string>
+	<key>Ⓜ️</key>
+	<string>zaokruženo M</string>
+	<key>🇨🇲</key>
+	<string>zastava Kameruna</string>
+	<key>👨‍⚕️</key>
+	<string>zdravstveni djelatnik</string>
+	<key>🙎‍♂️</key>
+	<string>muškarac se duri</string>
+	<key>🇰🇳</key>
+	<string>zastava Svetog Kristofora i Nevisa</string>
+	<key>🇸🇴</key>
+	<string>zastava Somalije</string>
+	<key>🇬🇳</key>
+	<string>zastava Gvineje</string>
+	<key>🇨🇳</key>
+	<string>zastava Kine</string>
+	<key>☢️</key>
+	<string>radioaktivno</string>
+	<key>🇨🇴</key>
+	<string>zastava Kolumbije</string>
+	<key>‼️</key>
+	<string>crveni dvostruki uskličnik</string>
+	<key>🃏</key>
+	<string>joker</string>
+	<key>🇰🇵</key>
+	<string>zastava Sjeverne Koreje</string>
+	<key>🇬🇵</key>
+	<string>zastava Gvadalupe</string>
+	<key>㊗️</key>
+	<string>Japanski znak za "čestitke"</string>
+	<key>🐿️</key>
+	<string>vjeverica</string>
+	<key>🇨🇵</key>
+	<string>zastava otoka Clipperton</string>
+	<key>🇸🇷</key>
+	<string>zastava Surinama</string>
+	<key>🏳️‍⚧️</key>
+	<string>zastava transrodnih osoba</string>
+	<key>🇬🇶</key>
+	<string>zastava Ekvatorske Gvineje</string>
+	<key>🇼🇸</key>
+	<string>zastava Samoe</string>
+	<key>*️⃣</key>
+	<string>tipka zvjezdica</string>
+	<key>🇰🇷</key>
+	<string>zastava Južne Koreje</string>
+	<key>🇸🇸</key>
+	<string>zastava Južnog Sudana</string>
+	<key>🇬🇷</key>
+	<string>zastava Grčke</string>
+	<key>🇨🇷</key>
+	<string>zastava Kostarike</string>
+	<key>®️</key>
+	<string>znak za registrirani zaštitni znak</string>
+	<key>🇸🇹</key>
+	<string>zastava Svetog Tome i Principa</string>
+	<key>🇬🇸</key>
+	<string>zastava Južne Georgije i Južnih Sendvičkih otoka</string>
+	<key>↕️</key>
+	<string>strelica gore-dolje</string>
+	<key>🇬🇹</key>
+	<string>zastava Gvatemale</string>
+	<key>☔️</key>
+	<string>kišobran s kapima kiše</string>
+	<key>🏳️‍🌈</key>
+	<string>zastava duginih boja</string>
+	<key>🇸🇻</key>
+	<string>zastava Salvadora</string>
+	<key>🕴️</key>
+	<string>muškarac u poslovnom odijelu levitira</string>
+	<key>⛄️</key>
+	<string>snjegović</string>
+	<key>🇬🇺</key>
+	<string>zastava Guama</string>
+	<key>🇨🇺</key>
+	<string>zastava Kube</string>
+	<key>#️⃣</key>
+	<string>znak za ljestve</string>
+	<key>🤼‍♂️</key>
+	<string>muškarci se hrvaju</string>
+	<key>🌥️</key>
+	<string>Sunce iza velikog oblaka</string>
+	<key>👁️</key>
+	<string>oko</string>
+	<key>🇨🇻</key>
+	<string>zastava Zelenortskih otoka</string>
+	<key>🍽️</key>
+	<string>vilica i nož s tanjurom</string>
+	<key>🇰🇼</key>
+	<string>zastava Kuvajta</string>
+	<key>🇸🇽</key>
+	<string>zastava Svetog Martina</string>
+	<key>🇬🇼</key>
+	<string>zastava Gvineje Bisau</string>
+	<key>🏕️</key>
+	<string>kampiranje</string>
+	<key>🩰</key>
+	<string>baletne cipele</string>
+	<key>🇨🇼</key>
+	<string>zastava Curaçaa</string>
+	<key>🩱</key>
+	<string>jednodijelni kupaći kostim</string>
+	<key>🇸🇾</key>
+	<string>zastava Sirije</string>
+	<key>♥️</key>
+	<string>herc</string>
+	<key>🩲</key>
+	<string>gaćice</string>
+	<key>🕉️</key>
+	<string>simbol oma</string>
+	<key>⚽️</key>
+	<string>nogometna lopta</string>
+	<key>🩳</key>
+	<string>kratke hlačice</string>
+	<key>🇨🇽</key>
+	<string>zastava Božićnog otoka</string>
+	<key>🩴</key>
+	<string>sandala</string>
+	<key>🇰🇾</key>
+	<string>zastava Kajmanskih otoka</string>
+	<key>🇸🇿</key>
+	<string>zastava Esvantinija</string>
+	<key>🩵</key>
+	<string>svjetloplavo srce</string>
+	<key>👩‍👧‍👧</key>
+	<string>obitelj s majkom i dvije kćeri</string>
+	<key>🇬🇾</key>
+	<string>zastava Gvajane</string>
+	<key>🩶</key>
+	<string>sivo srce</string>
+	<key>🩷</key>
+	<string>ružičasto srce</string>
+	<key>🇨🇾</key>
+	<string>zastava Cipra</string>
+	<key>🇰🇿</key>
+	<string>zastava Kazahstana</string>
+	<key>🩸</key>
+	<string>kap krvi</string>
+	<key>🩹</key>
+	<string>flaster</string>
+	<key>🩺</key>
+	<string>stetoskop</string>
+	<key>🇨🇿</key>
+	<string>zastava Češke</string>
+	<key>🩻</key>
+	<string>Rendgen</string>
+	<key>🩼</key>
+	<string>štaka</string>
+	<key>🕶️</key>
+	<string>sunčane naočale</string>
+	<key>🧘‍♀️</key>
+	<string>žena u lotus položaju</string>
+	<key>⏯️</key>
+	<string>simbol reprodukcije/pauziranja</string>
+	<key>🪀</key>
+	<string>jo-jo</string>
+	<key>🌧️</key>
+	<string>oblak s kišom</string>
+	<key>🪁</key>
+	<string>papirnati zmaj</string>
+	<key>🪂</key>
+	<string>padobran</string>
+	<key>🧑‍🎤</key>
+	<string>pjevač</string>
+	<key>🪃</key>
+	<string>bumerang</string>
+	<key>🪄</key>
+	<string>čarobni štapić</string>
+	<key>🏗️</key>
+	<string>gradilište</string>
+	<key>🪅</key>
+	<string>pinjata</string>
+	<key>🪆</key>
+	<string>babuške</string>
+	<key>🚴‍♀️</key>
+	<string>biciklistica</string>
+	<key>🪇</key>
+	<string>marake</string>
+	<key>🐀</key>
+	<string>štakor</string>
+	<key>🪈</key>
+	<string>flauta</string>
+	<key>🐁</key>
+	<string>miš</string>
+	<key>🐂</key>
+	<string>vol</string>
+	<key>🐃</key>
+	<string>vodeni bivol</string>
+	<key>🐄</key>
+	<string>krava</string>
+	<key>🅱️</key>
+	<string>krvna grupa B</string>
+	<key>🐅</key>
+	<string>tigar</string>
+	<key>🐆</key>
+	<string>leopard</string>
+	<key>🐇</key>
+	<string>zec</string>
+	<key>🐈</key>
+	<string>mačka</string>
+	<key>🪐</key>
+	<string>planet</string>
+	<key>♐️</key>
+	<string>Strijelac</string>
+	<key>🐉</key>
+	<string>zmaj</string>
+	<key>🪑</key>
+	<string>stolac</string>
+	<key>🕸️</key>
+	<string>paukova mreža</string>
+	<key>🐊</key>
+	<string>krokodil</string>
+	<key>🪒</key>
+	<string>britvica</string>
+	<key>👩‍🍳</key>
+	<string>kuharica</string>
+	<key>🐋</key>
+	<string>kit</string>
+	<key>👯‍♀️</key>
+	<string>plesačice sa zečjim ušima</string>
+	<key>🪓</key>
+	<string>sjekira</string>
+	<key>🐌</key>
+	<string>puž</string>
+	<key>🪔</key>
+	<string>uljna svjetiljka</string>
+	<key>🐍</key>
+	<string>zmija</string>
+	<key>🪕</key>
+	<string>bendžo</string>
+	<key>🏄‍♂️</key>
+	<string>surfer</string>
+	<key>🌩️</key>
+	<string>oblak s munjom</string>
+	<key>🐎</key>
+	<string>konj</string>
+	<key>🪖</key>
+	<string>vojna kaciga</string>
+	<key>🐏</key>
+	<string>jarac</string>
+	<key>🪗</key>
+	<string>harmonika</string>
+	<key>🐐</key>
+	<string>koza</string>
+	<key>🪘</key>
+	<string>dugi bubanj</string>
+	<key>👨‍🎤</key>
+	<string>pjevač</string>
+	<key>🏙️</key>
+	<string>panorama grada</string>
+	<key>🐑</key>
+	<string>ovca</string>
+	<key>🪙</key>
+	<string>kovanica</string>
+	<key>🐒</key>
+	<string>majmun</string>
+	<key>🪚</key>
+	<string>ručna pila</string>
+	<key>♉️</key>
+	<string>Bik</string>
+	<key>🐓</key>
+	<string>pijevac</string>
+	<key>🪛</key>
+	<string>odvijač</string>
+	<key>⚡️</key>
+	<string>munja</string>
+	<key>🐔</key>
+	<string>pile</string>
+	<key>🪜</key>
+	<string>ljestve</string>
+	<key>⛹️</key>
+	<string>košarkaš</string>
+	<key>🖥️</key>
+	<string>stolno računalo</string>
+	<key>🐕</key>
+	<string>pas</string>
+	<key>🪝</key>
+	<string>kuka</string>
+	<key>🧑‍🎨</key>
+	<string>umjetnik</string>
+	<key>🐖</key>
+	<string>svinja</string>
+	<key>🪞</key>
+	<string>zrcalo</string>
+	<key>🐗</key>
+	<string>vepar</string>
+	<key>🪟</key>
+	<string>prozor</string>
+	<key>🐘</key>
+	<string>slon</string>
+	<key>🙅‍♀️</key>
+	<string>žena gestikulira ne</string>
+	<key>🪠</key>
+	<string>odčepljivač</string>
+	<key>🐙</key>
+	<string>hobotnica</string>
+	<key>🪡</key>
+	<string>igla za šivanje</string>
+	<key>🐚</key>
+	<string>školjka</string>
+	<key>🪢</key>
+	<string>čvor</string>
+	<key>🚣‍♀️</key>
+	<string>žena vesla u čamcu</string>
+	<key>🐛</key>
+	<string>kukac</string>
+	<key>🪣</key>
+	<string>kanta</string>
+	<key>🐜</key>
+	<string>mrav</string>
+	<key>🪤</key>
+	<string>mišolovka</string>
+	<key>🐝</key>
+	<string>pčela</string>
+	<key>🪥</key>
+	<string>četkica za zube</string>
+	<key>🐞</key>
+	<string>bubamara</string>
+	<key>🪦</key>
+	<string>nadgrobni spomenik</string>
+	<key>⛲️</key>
+	<string>fontana</string>
+	<key>🐟</key>
+	<string>riba</string>
+	<key>🪧</key>
+	<string>znak</string>
+	<key>🐠</key>
+	<string>tropska riba</string>
+	<key>🗒️</key>
+	<string>blok sa spiralnim uvezom</string>
+	<key>🪨</key>
+	<string>kamen</string>
+	<key>🐡</key>
+	<string>napuhača</string>
+	<key>🪩</key>
+	<string>kugla sa zrcalima</string>
+	<key>🧖‍♂️</key>
+	<string>muškarac u sauni</string>
+	<key>🌫️</key>
+	<string>magla</string>
+	<key>🐢</key>
+	<string>kornjača</string>
+	<key>🪪</key>
+	<string>identifikacijska isprava</string>
+	<key>🐣</key>
+	<string>izlegnuto pile</string>
+	<key>🪫</key>
+	<string>slaba baterija</string>
+	<key>🐤</key>
+	<string>pilić</string>
+	<key>🪬</key>
+	<string>hamsa</string>
+	<key>🐥</key>
+	<string>pile koje stoji</string>
+	<key>😶‍🌫️</key>
+	<string>lice u oblacima</string>
+	<key>🏛️</key>
+	<string>klasična građevina</string>
+	<key>🪭</key>
+	<string>preklopna lepeza</string>
+	<key>🐦</key>
+	<string>ptica</string>
+	<key>🧛‍♀️</key>
+	<string>vampirica</string>
+	<key>🪮</key>
+	<string>češljić za kosu</string>
+	<key>🐧</key>
+	<string>pingvin</string>
+	<key>🪯</key>
+	<string>simbol khanda</string>
+	<key>🐨</key>
+	<string>lice koale</string>
+	<key>⚓️</key>
+	<string>sidro</string>
+	<key>🪰</key>
+	<string>muha</string>
+	<key>🐩</key>
+	<string>pudlica</string>
+	<key>🪱</key>
+	<string>crv</string>
+	<key>🐪</key>
+	<string>deva</string>
+	<key>🪲</key>
+	<string>buba</string>
+	<key>👨‍🎨</key>
+	<string>umjetnik</string>
+	<key>🐫</key>
+	<string>dvogrba deva</string>
+	<key>🪳</key>
+	<string>žohar</string>
+	<key>🐬</key>
+	<string>delfin</string>
+	<key>🪴</key>
+	<string>biljka u tegli</string>
+	<key>🐭</key>
+	<string>lice miša</string>
+	<key>🪵</key>
+	<string>drvo</string>
+	<key>🐮</key>
+	<string>lice krave</string>
+	<key>🪶</key>
+	<string>pero</string>
+	<key>🐯</key>
+	<string>lice tigra</string>
+	<key>🪷</key>
+	<string>lotus</string>
+	<key>🐕‍🦺</key>
+	<string>radni pas</string>
+	<key>🐰</key>
+	<string>lice zeca</string>
+	<key>🪸</key>
+	<string>koralj</string>
+	<key>🐱</key>
+	<string>lice mačke</string>
+	<key>🪹</key>
+	<string>prazno gnijezdo</string>
+	<key>🐲</key>
+	<string>glava zmaja</string>
+	<key>🪺</key>
+	<string>gnijezdo s jajima</string>
+	<key>🐳</key>
+	<string>kit koji pršće</string>
+	<key>🪻</key>
+	<string>zumbul</string>
+	<key>🐴</key>
+	<string>glava konja</string>
+	<key>🪼</key>
+	<string>meduza</string>
+	<key>🐵</key>
+	<string>lice majmuna</string>
+	<key>🪽</key>
+	<string>krilo</string>
+	<key>🐶</key>
+	<string>lice psa</string>
+	<key>🐷</key>
+	<string>lice svinje</string>
+	<key>🪿</key>
+	<string>guska</string>
+	<key>🐸</key>
+	<string>lice žabe</string>
+	<key>🫀</key>
+	<string>anatomsko srce</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>zastava Engleske</string>
+	<key>🐹</key>
+	<string>lice hrčka</string>
+	<key>🫁</key>
+	<string>pluća</string>
+	<key>🐺</key>
+	<string>vuk</string>
+	<key>🏝️</key>
+	<string>napušteni otok</string>
+	<key>🫂</key>
+	<string>osobe koje se grle</string>
+	<key>🐻</key>
+	<string>lice medvjeda</string>
+	<key>🏌️‍♂️</key>
+	<string>golfer</string>
+	<key>🫃</key>
+	<string>trudni muškarac</string>
+	<key>🐼</key>
+	<string>lice pande</string>
+	<key>🫄</key>
+	<string>trudna osoba</string>
+	<key>6️⃣</key>
+	<string>tipka broj šest</string>
+	<key>🐽</key>
+	<string>nos svinje</string>
+	<key>🫅</key>
+	<string>osoba s krunom</string>
+	<key>🐾</key>
+	<string>otisci šapa</string>
+	<key>👀</key>
+	<string>oči</string>
+	<key>👂</key>
+	<string>uho</string>
+	<key>👃</key>
+	<string>nos</string>
+	<key>👄</key>
+	<string>usta</string>
+	<key>👅</key>
+	<string>jezik</string>
+	<key>☦️</key>
+	<string>Pravoslavni križ</string>
+	<key>👆</key>
+	<string>vanjska strana šake s kažiprstom usmjerenim prema gore</string>
+	<key>👩‍🍼</key>
+	<string>žena koja hrani bebu</string>
+	<key>🫎</key>
+	<string>lice losa</string>
+	<key>♾️</key>
+	<string>beskonačno</string>
+	<key>👇</key>
+	<string>vanjska strana šake s kažiprstom usmjerenim prema dolje</string>
+	<key>🫏</key>
+	<string>magarac</string>
+	<key>👈</key>
+	<string>vanjska strana šake s kažiprstom usmjerenim ulijevo</string>
+	<key>🫐</key>
+	<string>borovnice</string>
+	<key>👉</key>
+	<string>vanjska strana šake s kažiprstom usmjerenim udesno</string>
+	<key>🫑</key>
+	<string>babura paprika</string>
+	<key>👊</key>
+	<string>zatvorena šaka</string>
+	<key>🫒</key>
+	<string>maslina</string>
+	<key>⭕️</key>
+	<string>kružna oznaka</string>
+	<key>💁‍♂️</key>
+	<string>muškarac s informacijskog pulta</string>
+	<key>👋</key>
+	<string>ruka maše</string>
+	<key>🫓</key>
+	<string>pogača</string>
+	<key>👌</key>
+	<string>znak prstima za OK</string>
+	<key>🫔</key>
+	<string>tamale</string>
+	<key>👍</key>
+	<string>palac gore</string>
+	<key>🫕</key>
+	<string>fondue</string>
+	<key>👎</key>
+	<string>palac dolje</string>
+	<key>🫖</key>
+	<string>čajnik</string>
+	<key>🏟️</key>
+	<string>stadion</string>
+	<key>👏</key>
+	<string>ruke koje plješću</string>
+	<key>🫗</key>
+	<string>izlijevanje tekućine</string>
+	<key>💆‍♀️</key>
+	<string>žena prima masažu glave</string>
+	<key>👐</key>
+	<string>otvoreni dlanovi</string>
+	<key>🫘</key>
+	<string>grah</string>
+	<key>🐦‍⬛</key>
+	<string>crna ptica</string>
+	<key>🧑‍🦯</key>
+	<string>osoba s bijelim štapom</string>
+	<key>🫙</key>
+	<string>staklenka</string>
+	<key>🧙‍♂️</key>
+	<string>muškarac mag</string>
+	<key>👑</key>
+	<string>kruna</string>
+	<key>⛏️</key>
+	<string>pijuk</string>
+	<key>👒</key>
+	<string>šešir s mašnom</string>
+	<key>🫚</key>
+	<string>korijen đumbira</string>
+	<key>👓</key>
+	<string>naočale</string>
+	<key>🫛</key>
+	<string>mahuna graška</string>
+	<key>👔</key>
+	<string>košulja i kravata</string>
+	<key>👕</key>
+	<string>polo majica</string>
+	<key>👖</key>
+	<string>traper</string>
+	<key>🧞‍♀️</key>
+	<string>ženski duh</string>
+	<key>👗</key>
+	<string>haljina</string>
+	<key>↙️</key>
+	<string>strelica dolje-lijevo</string>
+	<key>🧑‍🦰</key>
+	<string>osoba crvene kose</string>
+	<key>🕵️‍♂️</key>
+	<string>detektiv</string>
+	<key>👘</key>
+	<string>kimono</string>
+	<key>🟠</key>
+	<string>narančasti krug</string>
+	<key>🫠</key>
+	<string>lice koje se topi</string>
+	<key>🟡</key>
+	<string>žuti krug</string>
+	<key>👩‍❤️‍👨</key>
+	<string>muškarac i žena sa srcem</string>
+	<key>👙</key>
+	<string>bikini</string>
+	<key>◀️</key>
+	<string>trokut ulijevo</string>
+	<key>🫡</key>
+	<string>lice koje salutira</string>
+	<key>🟢</key>
+	<string>zeleni krug</string>
+	<key>👚</key>
+	<string>bluza</string>
+	<key>☘️</key>
+	<string>djetelina</string>
+	<key>🫢</key>
+	<string>lice s otvorenim očima i rukom preko usta</string>
+	<key>🚵‍♂️</key>
+	<string>brdski biciklist</string>
+	<key>🟣</key>
+	<string>ljubičasti krug</string>
+	<key>👛</key>
+	<string>torbica</string>
+	<key>🫣</key>
+	<string>lice s očima koje zure</string>
+	<key>🟤</key>
+	<string>smeđi krug</string>
+	<key>👜</key>
+	<string>torbica</string>
+	<key>⛈️</key>
+	<string>oblak s munjom i kišom</string>
+	<key>🫤</key>
+	<string>lice s dijagonalnim ustima</string>
+	<key>🟥</key>
+	<string>crveni kvadrat</string>
+	<key>👝</key>
+	<string>naramak</string>
+	<key>🫥</key>
+	<string>lice od točkaste crte</string>
+	<key>🟦</key>
+	<string>plavi kvadrat</string>
+	<key>👞</key>
+	<string>elegantna cipela</string>
+	<key>🧑‍🦱</key>
+	<string>osoba kovrčave kose</string>
+	<key>🫦</key>
+	<string>grizenje usana</string>
+	<key>🟧</key>
+	<string>narančasti kvadrat</string>
+	<key>🦹‍♀️</key>
+	<string>superzlikovica</string>
+	<key>👟</key>
+	<string>tenisica</string>
+	<key>🫧</key>
+	<string>mjehurići</string>
+	<key>🟨</key>
+	<string>žuti kvadrat</string>
+	<key>❤️‍🔥</key>
+	<string>goruće srce</string>
+	<key>👠</key>
+	<string>cipela s visokom petom</string>
+	<key>🟩</key>
+	<string>zeleni kvadrat</string>
+	<key>🫨</key>
+	<string>lice koje se trese</string>
+	<key>👡</key>
+	<string>sandala s petom</string>
+	<key>🟪</key>
+	<string>ljubičasti kvadrat</string>
+	<key>👢</key>
+	<string>čizme s petom</string>
+	<key>🟫</key>
+	<string>smeđi kvadrat</string>
+	<key>👣</key>
+	<string>otisci stopala</string>
+	<key>🛠️</key>
+	<string>čekić i ključ</string>
+	<key>📽️</key>
+	<string>filmski projektor</string>
+	<key>👤</key>
+	<string>silueta osobe</string>
+	<key>☑️</key>
+	<string>glasačka kutija s kvačicom</string>
+	<key>🧑‍🦲</key>
+	<string>osoba bez kose</string>
+	<key>👥</key>
+	<string>silueta dvije osobe</string>
+	<key>👦</key>
+	<string>dječak</string>
+	<key>👨‍🦯</key>
+	<string>muškarac s bijelim štapom</string>
+	<key>👧</key>
+	<string>djevojčica</string>
+	<key>👰‍♂️</key>
+	<string>muškarac s velom</string>
+	<key>👩‍🚀</key>
+	<string>astronautkinja</string>
+	<key>🟰</key>
+	<string>znak jednako</string>
+	<key>🏴‍☠️</key>
+	<string>gusarska zastava</string>
+	<key>👨</key>
+	<string>muškarac</string>
+	<key>🫰</key>
+	<string>ruka s prekriženim kažiprstom i palcem</string>
+	<key>⏺️</key>
+	<string>simbol za snimanje</string>
+	<key>👩</key>
+	<string>žena</string>
+	<key>🫱</key>
+	<string>ruka okrenuta udesno</string>
+	<key>👪</key>
+	<string>obitelj</string>
+	<key>🫲</key>
+	<string>ruka okrenuta ulijevo</string>
+	<key>👫</key>
+	<string>muškarac i žena drže se za ruke</string>
+	<key>🫳</key>
+	<string>dlan okrenut prema dolje</string>
+	<key>🧑‍🦳</key>
+	<string>osoba bijele kose</string>
+	<key>👬</key>
+	<string>dva muškarca drže se za ruke</string>
+	<key>🫴</key>
+	<string>dlan okrenut prema gore</string>
+	<key>👭</key>
+	<string>dvije žene drže se za ruke</string>
+	<key>👨‍🦰</key>
+	<string>muškarac crvene kose</string>
+	<key>🫵</key>
+	<string>kažiprst uperen prema gledatelju</string>
+	<key>👮</key>
+	<string>policajac</string>
+	<key>🏊‍♂️</key>
+	<string>plivač</string>
+	<key>🫶</key>
+	<string>ruke u obliku srca</string>
+	<key>👯</key>
+	<string>plesači sa zečjim ušima</string>
+	<key>🫷</key>
+	<string>ruka koja gura ulijevo</string>
+	<key>👰</key>
+	<string>osoba s velom</string>
+	<key>🫸</key>
+	<string>ruka koja gura udesno</string>
+	<key>👱</key>
+	<string>osoba plave kose</string>
+	<key>✒️</key>
+	<string>nalivpero</string>
+	<key>👲</key>
+	<string>muškarac s kineskom kapom</string>
+	<key>🧍‍♀️</key>
+	<string>žena koja stoji</string>
+	<key>👳</key>
+	<string>osoba s turbanom</string>
+	<key>👨‍🦱</key>
+	<string>muškarac kovrčave kose</string>
+	<key>👴</key>
+	<string>starac</string>
+	<key>🙆‍♂️</key>
+	<string>muškarac gestikulira OK</string>
+	<key>👵</key>
+	<string>starica</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>obitelj s majkom, ocem, sinom i kćeri</string>
+	<key>👶</key>
+	<string>beba</string>
+	<key>👷</key>
+	<string>građevinski radnik</string>
+	<key>▫️</key>
+	<string>mali bijeli kvadrat</string>
+	<key>👸</key>
+	<string>princeza</string>
+	<key>🛢️</key>
+	<string>bačva za naftu</string>
+	<key>☃️</key>
+	<string>snjegović s pahuljama</string>
+	<key>👹</key>
+	<string>čudovište</string>
+	<key>🙋‍♀️</key>
+	<string>žena s podignutom rukom</string>
+	<key>👺</key>
+	<string>goblin</string>
+	<key>👨‍🦲</key>
+	<string>muškarac bez kose</string>
+	<key>🇹🇦</key>
+	<string>zastava Tristana da Cunhe</string>
+	<key>👻</key>
+	<string>duh</string>
+	<key>🇵🇦</key>
+	<string>zastava Paname</string>
+	<key>👼</key>
+	<string>dijete anđeo</string>
+	<key>❣️</key>
+	<string>crveno srce kao uskličnik</string>
+	<key>👽</key>
+	<string>vanzemaljac</string>
+	<key>🇱🇦</key>
+	<string>zastava Laosa</string>
+	<key>👾</key>
+	<string>izvanzemaljsko čudovište</string>
+	<key>👿</key>
+	<string>ljuto lice s rogovima</string>
+	<key>💀</key>
+	<string>lubanja</string>
+	<key>🇱🇧</key>
+	<string>zastava Libanona</string>
+	<key>👨‍🦳</key>
+	<string>muškarac bijele kose</string>
+	<key>💁</key>
+	<string>osoba s informacijskog pulta</string>
+	<key>🇹🇨</key>
+	<string>zastava otoka Turks i Caicos</string>
+	<key>🧜‍♂️</key>
+	<string>muška sirena</string>
+	<key>💂</key>
+	<string>stražar</string>
+	<key>💃</key>
+	<string>žena pleše</string>
+	<key>◼️</key>
+	<string>srednji crni kvadrat</string>
+	<key>🇱🇨</key>
+	<string>zastava Svete Lucije</string>
+	<key>💄</key>
+	<string>ruž</string>
+	<key>🇹🇩</key>
+	<string>zastava Čada</string>
+	<key>💅</key>
+	<string>lak za nokte</string>
+	<key>💆</key>
+	<string>osoba prima masažu glave</string>
+	<key>💇</key>
+	<string>osoba koja se šiša</string>
+	<key>🗜️</key>
+	<string>stezaljka</string>
+	<key>💈</key>
+	<string>stup s prugama</string>
+	<key>💉</key>
+	<string>injekcija</string>
+	<key>🇵🇪</key>
+	<string>zastava Perua</string>
+	<key>💊</key>
+	<string>pilula</string>
+	<key>💋</key>
+	<string>otisak usana</string>
+	<key>🇹🇫</key>
+	<string>zastava Francuskih južnih teritorija</string>
+	<key>💌</key>
+	<string>ljubavno pismo</string>
+	<key>👩‍❤️‍👩</key>
+	<string>dvije žene sa srcem</string>
+	<key>🇵🇫</key>
+	<string>zastava Francuske Polinezije</string>
+	<key>🛤️</key>
+	<string>tračnice</string>
+	<key>💍</key>
+	<string>prsten</string>
+	<key>🆎</key>
+	<string>krvna grupa AB</string>
+	<key>🇩🇪</key>
+	<string>zastava Njemačke</string>
+	<key>🈂️</key>
+	<string>Japanski znak za “uslugu” ili “cijenu usluge”</string>
+	<key>💎</key>
+	<string>dragi kamen</string>
+	<key>♍️</key>
+	<string>Djevica</string>
+	<key>🇹🇬</key>
+	<string>zastava Toga</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>dvije žene se ljube</string>
+	<key>💏</key>
+	<string>par koji se ljubi</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>osobe se drže za ruke</string>
+	<key>💐</key>
+	<string>buket</string>
+	<key>⛽️</key>
+	<string>benzinska pumpa</string>
+	<key>🇵🇬</key>
+	<string>zastava Papua Nove Gvineje</string>
+	<key>🖱️</key>
+	<string>miš za računalo</string>
+	<key>🆑</key>
+	<string>CL znak</string>
+	<key>💑</key>
+	<string>par sa srcem</string>
+	<key>🆒</key>
+	<string>znak za cool</string>
+	<key>🇹🇭</key>
+	<string>zastava Tajlanda</string>
+	<key>💒</key>
+	<string>vjenčanje</string>
+	<key>🆓</key>
+	<string>znak za slobodno</string>
+	<key>💓</key>
+	<string>kucajuće srce</string>
+	<key>🆔</key>
+	<string>znak za identifikaciju</string>
+	<key>🇵🇭</key>
+	<string>zastava Filipina</string>
+	<key>👩‍⚖️</key>
+	<string>sutkinja</string>
+	<key>💔</key>
+	<string>slomljeno srce</string>
+	<key>🇩🇬</key>
+	<string>zastava Diega Garcije</string>
+	<key>🆕</key>
+	<string>novi znak</string>
+	<key>🅿️</key>
+	<string>znak za parkiralište</string>
+	<key>💕</key>
+	<string>dva srca</string>
+	<key>🤹‍♀️</key>
+	<string>žena žonglira</string>
+	<key>🆖</key>
+	<string>znak da nije dobro</string>
+	<key>💖</key>
+	<string>sjajno srce</string>
+	<key>🆗</key>
+	<string>znak za OK</string>
+	<key>💗</key>
+	<string>srce koje raste</string>
+	<key>👳‍♂️</key>
+	<string>muškarac s turbanom</string>
+	<key>🆘</key>
+	<string>SOS znak</string>
+	<key>💘</key>
+	<string>srce sa strelicom</string>
+	<key>🇱🇮</key>
+	<string>zastava Lihtenštajna</string>
+	<key>🆙</key>
+	<string>znak za gore</string>
+	<key>🈯️</key>
+	<string>Japanski znak za "rezervirano"</string>
+	<key>🇹🇯</key>
+	<string>zastava Tadžikistana</string>
+	<key>💙</key>
+	<string>plavo srce</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>obitelj s dva oca i dva sina</string>
+	<key>🆚</key>
+	<string>uokviren vs</string>
+	<key>💚</key>
+	<string>zeleno srce</string>
+	<key>🇽🇰</key>
+	<string>zastava Kosova</string>
+	<key>💛</key>
+	<string>žuto srce</string>
+	<key>🗞️</key>
+	<string>zarolane novine</string>
+	<key>💜</key>
+	<string>ljubičasto srce</string>
+	<key>🇹🇰</key>
+	<string>zastava Tokelaua</string>
+	<key>💝</key>
+	<string>srce s vrpcom</string>
+	<key>🇵🇰</key>
+	<string>zastava Pakistana</string>
+	<key>💞</key>
+	<string>rotirajuća srca</string>
+	<key>🇩🇯</key>
+	<string>zastava Džibutija</string>
+	<key>💟</key>
+	<string>dekoracija u obliku srca</string>
+	<key>🇱🇰</key>
+	<string>zastava Šri Lanke</string>
+	<key>🇹🇱</key>
+	<string>zastava Istočnog Timora</string>
+	<key>👩‍🤝‍👨</key>
+	<string>žena i muškarac koji se drže za ruke</string>
+	<key>💠</key>
+	<string>oblik dijamanta s točkom unutra</string>
+	<key>🇭🇰</key>
+	<string>zastava Hong Konga</string>
+	<key>💡</key>
+	<string>žarulja</string>
+	<key>🇵🇱</key>
+	<string>zastava Poljske</string>
+	<key>🇩🇰</key>
+	<string>zastava Danske</string>
+	<key>💢</key>
+	<string>simbol za ljutnju</string>
+	<key>🇹🇲</key>
+	<string>zastava Turkmenistana</string>
+	<key>💣</key>
+	<string>bomba</string>
+	<key>⚗️</key>
+	<string>retorta</string>
+	<key>💤</key>
+	<string>znak za spavanje</string>
+	<key>🇵🇲</key>
+	<string>zastava Svetog Petra i Mikelona</string>
+	<key>💥</key>
+	<string>eksplozija</string>
+	<key>❇️</key>
+	<string>iskra</string>
+	<key>💦</key>
+	<string>kapljice vode</string>
+	<key>🇹🇳</key>
+	<string>zastava Tunisa</string>
+	<key>🧑‍🦼</key>
+	<string>osoba u motoriziranim invalidskim kolicima</string>
+	<key>💧</key>
+	<string>kapljica</string>
+	<key>🇭🇲</key>
+	<string>zastava otoka Heard i McDonald</string>
+	<key>🇵🇳</key>
+	<string>zastava Pitcairna</string>
+	<key>💨</key>
+	<string>nalet zraka</string>
+	<key>🇩🇲</key>
+	<string>zastava Dominike</string>
+	<key>💩</key>
+	<string>hrpica izmeta</string>
+	<key>🙎‍♀️</key>
+	<string>žena se duri</string>
+	<key>🇹🇴</key>
+	<string>zastava Tonge</string>
+	<key>💪</key>
+	<string>zategnuti biceps</string>
+	<key>🇭🇳</key>
+	<string>zastava Hondurasa</string>
+	<key>👩‍👦</key>
+	<string>obitelj s majkom i sinom</string>
+	<key>💫</key>
+	<string>simbol za vrtnju</string>
+	<key>💇‍♂️</key>
+	<string>muškarac se šiša</string>
+	<key>💬</key>
+	<string>oblačić za govor</string>
+	<key>☸️</key>
+	<string>kotač dharme</string>
+	<key>💭</key>
+	<string>balon za misli</string>
+	<key>🧑‍🦽</key>
+	<string>osoba u ručnim invalidskim kolicima</string>
+	<key>💮</key>
+	<string>bijeli cvijet</string>
+	<key>💯</key>
+	<string>simbol za sto bodova</string>
+	<key>🇩🇴</key>
+	<string>zastava Dominikanske Republike</string>
+	<key>💰</key>
+	<string>vreća novaca</string>
+	<key>💱</key>
+	<string>mjenjačnica</string>
+	<key>😵‍💫</key>
+	<string>lice sa spiralnim očima</string>
+	<key>👩‍👧</key>
+	<string>obitelj s majkom i kćeri</string>
+	<key>🧟‍♂️</key>
+	<string>muški zombi</string>
+	<key>💲</key>
+	<string>znak za dolar</string>
+	<key>💳</key>
+	<string>kreditna kartica</string>
+	<key>🇹🇷</key>
+	<string>zastava Turske</string>
+	<key>💴</key>
+	<string>novčanice jena</string>
+	<key>💵</key>
+	<string>novčanice dolara</string>
+	<key>🇵🇷</key>
+	<string>zastava Portorika</string>
+	<key>💶</key>
+	<string>novčanice eura</string>
+	<key>🇱🇷</key>
+	<string>zastava Liberije</string>
+	<key>💷</key>
+	<string>novčanice funti</string>
+	<key>💸</key>
+	<string>snop novčanica s krilima</string>
+	<key>🇭🇷</key>
+	<string>zastava Hrvatske</string>
+	<key>🇵🇸</key>
+	<string>zastava Palestinskih Područja</string>
+	<key>💹</key>
+	<string>grafikon s uzlaznom krivuljom i znakom jena</string>
+	<key>💺</key>
+	<string>sjedalo</string>
+	<key>🇱🇸</key>
+	<string>zastava Lesota</string>
+	<key>🇹🇹</key>
+	<string>zastava Trinidada i Tobaga</string>
+	<key>💻</key>
+	<string>laptop</string>
+	<key>💼</key>
+	<string>aktovka</string>
+	<key>👨‍🦼</key>
+	<string>muškarac u motoriziranim invalidskim kolicima</string>
+	<key>🇵🇹</key>
+	<string>zastava Portugala</string>
+	<key>💽</key>
+	<string>minidisk</string>
+	<key>🇱🇹</key>
+	<string>zastava Litve</string>
+	<key>💾</key>
+	<string>disketa</string>
+	<key>🇭🇹</key>
+	<string>zastava Haitija</string>
+	<key>💿</key>
+	<string>cd</string>
+	<key>📀</key>
+	<string>dvd</string>
+	<key>🤷‍♂️</key>
+	<string>muškarac sliježe ramenima</string>
+	<key>📁</key>
+	<string>zatvorena mapa za dokumente</string>
+	<key>🇱🇺</key>
+	<string>zastava Luksemburga</string>
+	<key>☪️</key>
+	<string>zvijezda i mladi mjesec</string>
+	<key>🇹🇻</key>
+	<string>zastava Tuvalua</string>
+	<key>📂</key>
+	<string>otvorena mapa za dokumente</string>
+	<key>4️⃣</key>
+	<string>tipka broj četiri</string>
+	<key>🇭🇺</key>
+	<string>zastava Mađarske</string>
+	<key>👨‍🦽</key>
+	<string>muškarac u ručnim invalidskim kolicima</string>
+	<key>📃</key>
+	<string>listanje stranice</string>
+	<key>🖊️</key>
+	<string>kemijska olovka</string>
+	<key>📄</key>
+	<string>stranica okrenuta prema gore</string>
+	<key>🇱🇻</key>
+	<string>zastava Latvije</string>
+	<key>🇹🇼</key>
+	<string>zastava Tajvana</string>
+	<key>📅</key>
+	<string>kalendar</string>
+	<key>🤼‍♀️</key>
+	<string>žene se hrvaju</string>
+	<key>📆</key>
+	<string>zidni kalendar</string>
+	<key>🇵🇼</key>
+	<string>zastava Palaua</string>
+	<key>📇</key>
+	<string>indeks kartice</string>
+	<key>📈</key>
+	<string>grafikon s uzlaznom krivuljom</string>
+	<key>🧑‍🔧</key>
+	<string>mehaničar</string>
+	<key>📉</key>
+	<string>grafikon sa silaznom krivuljom</string>
+	<key>〰️</key>
+	<string>valovita crtica</string>
+	<key>📊</key>
+	<string>trakasti grafikon</string>
+	<key>📋</key>
+	<string>držač za papir sa štipaljkom</string>
+	<key>☣️</key>
+	<string>biološka opasnost</string>
+	<key>📌</key>
+	<string>pribadača</string>
+	<key>♻️</key>
+	<string>simbol za recikliranje</string>
+	<key>📍</key>
+	<string>okrugla pribadača</string>
+	<key>🇵🇾</key>
+	<string>zastava Paragvaja</string>
+	<key>⛓️</key>
+	<string>lanci</string>
+	<key>📎</key>
+	<string>spajalica za papir</string>
+	<key>🧎‍♂️</key>
+	<string>muškarac koji kleči</string>
+	<key>🇱🇾</key>
+	<string>zastava Libije</string>
+	<key>📏</key>
+	<string>ravnalo</string>
+	<key>🇹🇿</key>
+	<string>zastava Tanzanije</string>
+	<key>📐</key>
+	<string>trokut</string>
+	<key>📑</key>
+	<string>kartice knjižnih oznaka</string>
+	<key>📒</key>
+	<string>poslovna knjiga</string>
+	<key>📓</key>
+	<string>bilježnica</string>
+	<key>👩‍🤝‍👩</key>
+	<string>žene koje se drže se za ruke</string>
+	<key>📔</key>
+	<string>notes s dekorativnim omotom</string>
+	<key>🇩🇿</key>
+	<string>zastava Alžira</string>
+	<key>📕</key>
+	<string>crveni udžbenik</string>
+	<key>📖</key>
+	<string>otvorena knjiga</string>
+	<key>📗</key>
+	<string>zeleni udžbenik</string>
+	<key>🖌️</key>
+	<string>četka za bojenje</string>
+	<key>📘</key>
+	<string>plavi udžbenik</string>
+	<key>📙</key>
+	<string>narančasti udžbenik</string>
+	<key>👩‍👩‍👦</key>
+	<string>obitelj s dvije majke i sinom</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>obitelj s dva oca i dvije kćeri</string>
+	<key>📚</key>
+	<string>knjige</string>
+	<key>📛</key>
+	<string>bedž s imenom</string>
+	<key>📜</key>
+	<string>svitak</string>
+	<key>📝</key>
+	<string>podsjetnik</string>
+	<key>↖️</key>
+	<string>strelica gore-lijevo</string>
+	<key>🤦‍♂️</key>
+	<string>muškarac s dlanom preko lica</string>
+	<key>📞</key>
+	<string>telefonska slušalica</string>
+	<key>👩‍🎓</key>
+	<string>studentica</string>
+	<key>👩‍🚒</key>
+	<string>vatrogaskinja</string>
+	<key>⤴️</key>
+	<string>desna strelica zakrivljena prema gore</string>
+	<key>👨‍🔧</key>
+	<string>mehaničar</string>
+	<key>📟</key>
+	<string>pager</string>
+	<key>☕️</key>
+	<string>topli napitak</string>
+	<key>📠</key>
+	<string>faks</string>
+	<key>📡</key>
+	<string>satelitska antena</string>
+	<key>⛅️</key>
+	<string>Sunce iza oblaka</string>
+	<key>📢</key>
+	<string>zvučnik</string>
+	<key>🧑‍🌾</key>
+	<string>farmer</string>
+	<key>✝️</key>
+	<string>Latinski križ</string>
+	<key>📣</key>
+	<string>megafon</string>
+	<key>📤</key>
+	<string>odlazni pretinac</string>
+	<key>📥</key>
+	<string>dolazni pretinac</string>
+	<key>📦</key>
+	<string>paket</string>
+	<key>📧</key>
+	<string>e-mail</string>
+	<key>📨</key>
+	<string>dolazna omotnica</string>
+	<key>📩</key>
+	<string>omotnica sa strelicom</string>
+	<key>▶️</key>
+	<string>trokut udesno</string>
+	<key>🧑‍🔬</key>
+	<string>znanstvenik</string>
+	<key>📪</key>
+	<string>zatvoreni sandučić sa spuštenom zastavicom</string>
+	<key>☎️</key>
+	<string>telefon</string>
+	<key>🈷️</key>
+	<string>Japanski znak za "mjesečnu količinu"</string>
+	<key>♦️</key>
+	<string>karo</string>
+	<key>📫</key>
+	<string>zatvoreni sandučić s podignutom zastavicom</string>
+	<key>📬</key>
+	<string>otvoreni sandučić s podignutom zastavicom</string>
+	<key>⚾️</key>
+	<string>loptica za bejzbol</string>
+	<key>📭</key>
+	<string>otvoreni sandučić sa spuštenom zastavicom</string>
+	<key>✖️</key>
+	<string>simbol za množenje</string>
+	<key>📮</key>
+	<string>poštanski pretinac</string>
+	<key>📯</key>
+	<string>poštanska truba</string>
+	<key>🏄‍♀️</key>
+	<string>surferica</string>
+	<key>📰</key>
+	<string>novine</string>
+	<key>📱</key>
+	<string>mobitel</string>
+	<key>🎗️</key>
+	<string>spomen-vrpca</string>
+	<key>📲</key>
+	<string>telefon sa strelicom</string>
+	<key>📳</key>
+	<string>vibracijski način rada</string>
+	<key>📴</key>
+	<string>mobitel isključen</string>
+	<key>📵</key>
+	<string>zabranjeni mobilni telefoni</string>
+	<key>♟️</key>
+	<string>šahovski pijun</string>
+	<key>📶</key>
+	<string>crtice mobitelskog signala</string>
+	<key>📷</key>
+	<string>fotoaparat</string>
+	<key>✏️</key>
+	<string>olovka</string>
+	<key>📸</key>
+	<string>fotoaparat s bljeskalicom</string>
+	<key>👨‍🌾</key>
+	<string>farmer</string>
+	<key>📹</key>
+	<string>videokamera</string>
+	<key>📺</key>
+	<string>televizor</string>
+	<key>🐻‍❄️</key>
+	<string>polarni medvjed</string>
+	<key>📻</key>
+	<string>radio</string>
+	<key>📼</key>
+	<string>videokaseta</string>
+	<key>☀️</key>
+	<string>Sunce</string>
+	<key>📿</key>
+	<string>molitvena brojanica</string>
+	<key>👨‍🔬</key>
+	<string>znanstvenik</string>
+	<key>🔀</key>
+	<string>simbol za reprodukciju slučajnim slijedom</string>
+	<key>🈁</key>
+	<string>Japanski znak za “ovdje”</string>
+	<key>⚰️</key>
+	<string>lijes</string>
+	<key>🔁</key>
+	<string>simbol za ponavljanje</string>
+	<key>🖐️</key>
+	<string>podignuta ruka s raširenim prstima</string>
+	<key>✈️</key>
+	<string>zrakoplov</string>
+	<key>🔂</key>
+	<string>simbol za ponavljanje jednog zapisa</string>
+	<key>🗨️</key>
+	<string>lijevi oblak za govor</string>
+	<key>🔃</key>
+	<string>okomite strelice u smjeru kazaljki sata</string>
+	<key>🧖‍♀️</key>
+	<string>žena u sauni</string>
+	<key>🔄</key>
+	<string>strelice u smjeru obrnutom od kazaljki sata</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>obitelj s dvije majke i dva sina</string>
+	<key>👩‍⚕️</key>
+	<string>zdravstvena djelatnica</string>
+	<key>™️</key>
+	<string>znak trgovačke marke</string>
+	<key>🔅</key>
+	<string>simbol niske svjetline</string>
+	<key>🔆</key>
+	<string>simbol visoke svjetline</string>
+	<key>🎙️</key>
+	<string>studijski mikrofon</string>
+	<key>🔇</key>
+	<string>isključen zvučnik</string>
+	<key>🔈</key>
+	<string>zvučnik</string>
+	<key>🛰️</key>
+	<string>satelit</string>
+	<key>🔉</key>
+	<string>srednje glasan zvučnik</string>
+	<key>♑️</key>
+	<string>Jarac</string>
+	<key>🔊</key>
+	<string>glasan zvučnik</string>
+	<key>🔋</key>
+	<string>baterija</string>
+	<key>🔌</key>
+	<string>strujni utikač</string>
+	<key>👩‍👩‍👧</key>
+	<string>obitelj s dvije majke i kćeri</string>
+	<key>🔍</key>
+	<string>povećalo okrenuto ulijevo</string>
+	<key>🔎</key>
+	<string>povećalo okrenuto udesno</string>
+	<key>🔏</key>
+	<string>lokot s nalivperom</string>
+	<key>🔐</key>
+	<string>zatvoreni lokot s ključem</string>
+	<key>🔑</key>
+	<string>ključ</string>
+	<key>🔒</key>
+	<string>zatvoreni lokot</string>
+	<key>🔓</key>
+	<string>otvoreni lokot</string>
+	<key>♊️</key>
+	<string>Blizanci</string>
+	<key>🔔</key>
+	<string>zvono</string>
+	<key>🔕</key>
+	<string>isključeno zvono</string>
+	<key>⛺️</key>
+	<string>šator</string>
+	<key>🔖</key>
+	<string>knjižna oznaka</string>
+	<key>🔗</key>
+	<string>simbol veze</string>
+	<key>🔘</key>
+	<string>kružić za označavanje</string>
+	<key>🔙</key>
+	<string>strelica unatrag</string>
+	<key>🔚</key>
+	<string>završna strelica</string>
+	<key>🔛</key>
+	<string>strelica on!</string>
+	<key>🎛️</key>
+	<string>upravljačke ručice</string>
+	<key>🔜</key>
+	<string>strelica “soon”</string>
+	<key>🏳️</key>
+	<string>bijela zastava</string>
+	<key>🔝</key>
+	<string>strelica “top”</string>
+	<key>🔞</key>
+	<string>zabrana za mlađe od osamnaest</string>
+	<key>🔟</key>
+	<string>tipka broj deset</string>
+	<key>⚛️</key>
+	<string>simbol atoma</string>
+	<key>🔠</key>
+	<string>simbol unosa za velika slova</string>
+	<key>⛳️</key>
+	<string>golf rupa sa zastavicom</string>
+	<key>🔡</key>
+	<string>simbol unosa za mala slova</string>
+	<key>🤽‍♂️</key>
+	<string>muškarac igra vaterpolo</string>
+	<key>🔢</key>
+	<string>simbol unosa za brojeve</string>
+	<key>🔣</key>
+	<string>simbol unosa za simbole</string>
+	<key>🔤</key>
+	<string>simbol unosa za slova</string>
+	<key>🔥</key>
+	<string>vatra</string>
+	<key>🔦</key>
+	<string>ručna svjetiljka</string>
+	<key>🔧</key>
+	<string>francuski ključ</string>
+	<key>🔨</key>
+	<string>čekić</string>
+	<key>🔩</key>
+	<string>matica i vijak</string>
+	<key>⚔️</key>
+	<string>ukriženi mačevi</string>
+	<key>🔪</key>
+	<string>nož</string>
+	<key>🔫</key>
+	<string>pištolj na vodu</string>
+	<key>❄️</key>
+	<string>snježna pahulja</string>
+	<key>🔬</key>
+	<string>mikroskop</string>
+	<key>💁‍♀️</key>
+	<string>žena s informacijskog pulta</string>
+	<key>🔭</key>
+	<string>teleskop</string>
+	<key>🔮</key>
+	<string>kristalna kugla</string>
+	<key>🧔‍♂️</key>
+	<string>bradati muškarac</string>
+	<key>🔯</key>
+	<string>šesterokraka zvijezda s točkom u sredini</string>
+	<key>🔰</key>
+	<string>Japanski simbol za početnika</string>
+	<key>🔱</key>
+	<string>amblem trozuba</string>
+	<key>🈲</key>
+	<string>Japanski znak za "zabranjeno"</string>
+	<key>🏵️</key>
+	<string>rozeta</string>
+	<key>🔲</key>
+	<string>crna kvadratna tipka</string>
+	<key>🈳</key>
+	<string>Japanski znak za “slobodno mjesto”</string>
+	<key>🔳</key>
+	<string>bijela kvadratna tipka</string>
+	<key>🈴</key>
+	<string>Japanski znak za "prolaznu ocjenu"</string>
+	<key>🧙‍♀️</key>
+	<string>žena mag</string>
+	<key>🔴</key>
+	<string>crveni krug</string>
+	<key>🈵</key>
+	<string>Japanski znak za "puno; nema slobodnih mjesta"</string>
+	<key>🔵</key>
+	<string>plavi krug</string>
+	<key>🈶</key>
+	<string>Japanski znak za "nije besplatno"</string>
+	<key>🔶</key>
+	<string>veliki narančasti dijamant</string>
+	<key>🔷</key>
+	<string>veliki plavi dijamant</string>
+	<key>🈸</key>
+	<string>Japanski znak za "aplikaciju"</string>
+	<key>🔸</key>
+	<string>mali narančasti dijamant</string>
+	<key>🈹</key>
+	<string>Japanski znak za "popust"</string>
+	<key>🔹</key>
+	<string>mali plavi dijamant</string>
+	<key>9️⃣</key>
+	<string>tipka broj devet</string>
+	<key>🈺</key>
+	<string>Japanski znak za "otvoreno"</string>
+	<key>🔺</key>
+	<string>crveni trokut okrenut prema gore</string>
+	<key>🔻</key>
+	<string>crveni trokut okrenut prema dolje</string>
+	<key>🀄️</key>
+	<string>mahjong pločica crvenog zmaja</string>
+	<key>🔼</key>
+	<string>trokut prema gore</string>
+	<key>🚵‍♀️</key>
+	<string>brdska biciklistica</string>
+	<key>☮️</key>
+	<string>simbol mira</string>
+	<key>🔽</key>
+	<string>trokut prema dolje</string>
+	<key>👨‍👦‍👦</key>
+	<string>obitelj s ocem i dva sina</string>
+	<key>⬅️</key>
+	<string>strelica ulijevo</string>
+	<key>⛎</key>
+	<string>Zmijonosac</string>
+	<key>🎟️</key>
+	<string>ulaznica</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>obitelj s dvije majke i dvije kćeri</string>
+	<key>🏷️</key>
+	<string>etiketa</string>
+	<key>2️⃣</key>
+	<string>tipka broj dva</string>
+	<key>♿️</key>
+	<string>simbol za invalidska kolica</string>
+	<key>👰‍♀️</key>
+	<string>žena s velom</string>
+	<key>🗃️</key>
+	<string>kutija za registratore</string>
+	<key>🕋</key>
+	<string>Ćaba</string>
+	<key>🕌</key>
+	<string>džamija</string>
+	<key>🕍</key>
+	<string>sinagoga</string>
+	<key>🕎</key>
+	<string>menora</string>
+	<key>👩‍🎤</key>
+	<string>pjevačica</string>
+	<key>🉐</key>
+	<string>Japanski znak za "cjenkanje"</string>
+	<key>🏌️</key>
+	<string>golfaš</string>
+	<key>🛋️</key>
+	<string>kauč i svjetiljka</string>
+	<key>🕐</key>
+	<string>jedan sat</string>
+	<key>🏊‍♀️</key>
+	<string>plivačica</string>
+	<key>🉑</key>
+	<string>Japanski znak za "prihvatljivo"</string>
+	<key>☠️</key>
+	<string>lubanja i prekrižene kosti</string>
+	<key>🕑</key>
+	<string>dva sata</string>
+	<key>🕒</key>
+	<string>tri sata</string>
+	<key>🏋️‍♀️</key>
+	<string>dizačica utega</string>
+	<key>🕓</key>
+	<string>četiri sata</string>
+	<key>🕔</key>
+	<string>pet sati</string>
+	<key>🕕</key>
+	<string>šest sati</string>
+	<key>🕖</key>
+	<string>sedam sati</string>
+	<key>🙆‍♀️</key>
+	<string>žena gestikulira OK</string>
+	<key>🕗</key>
+	<string>osam sati</string>
+	<key>🕘</key>
+	<string>devet sati</string>
+	<key>🕙</key>
+	<string>deset sati</string>
+	<key>🕚</key>
+	<string>jedanaest sati</string>
+	<key>🕛</key>
+	<string>dvanaest sati</string>
+	<key>🕜</key>
+	<string>jedan i trideset</string>
+	<key>🇺🇦</key>
+	<string>zastava Ukrajine</string>
+	<key>🕝</key>
+	<string>dva i trideset</string>
+	<key>🇶🇦</key>
+	<string>zastava Katara</string>
+	<key>🕞</key>
+	<string>tri i trideset</string>
+	<key>✡️</key>
+	<string>Davidova zvijezda</string>
+	<key>🇲🇦</key>
+	<string>zastava Maroka</string>
+	<key>🕟</key>
+	<string>četiri i trideset</string>
+	<key>🧗‍♂️</key>
+	<string>penjač po stijenama</string>
+	<key>🕠</key>
+	<string>pet i trideset</string>
+	<key>🕡</key>
+	<string>šest i trideset</string>
+	<key>🇪🇦</key>
+	<string>zastava Ceute i Melille</string>
+	<key>🕢</key>
+	<string>sedam i trideset</string>
+	<key>✅</key>
+	<string>simbol kvačice</string>
+	<key>🕣</key>
+	<string>osam i trideset</string>
+	<key>🧜‍♀️</key>
+	<string>sirena</string>
+	<key>🏎️</key>
+	<string>trkaći automobil</string>
+	<key>🕤</key>
+	<string>devet i trideset</string>
+	<key>🛍️</key>
+	<string>vrećice za kupnju</string>
+	<key>🕥</key>
+	<string>deset i trideset</string>
+	<key>✊</key>
+	<string>podignuta šaka</string>
+	<key>🇲🇨</key>
+	<string>zastava Monaka</string>
+	<key>✋</key>
+	<string>podignuta ruka</string>
+	<key>🕦</key>
+	<string>jedanaest i trideset</string>
+	<key>🕧</key>
+	<string>dvanaest i trideset</string>
+	<key>🇮🇨</key>
+	<string>zastava Kanarskih otoka</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>zastava Walesa</string>
+	<key>🇾🇪</key>
+	<string>zastava Jemena</string>
+	<key>🇪🇨</key>
+	<string>zastava Ekvadora</string>
+	<key>👩‍🎨</key>
+	<string>umjetnica</string>
+	<key>🇲🇩</key>
+	<string>zastava Moldavije</string>
+	<key>🇦🇨</key>
+	<string>zastava otoka Ascension</string>
+	<key>🇮🇩</key>
+	<string>zastava Indonezije</string>
+	<key>🇲🇪</key>
+	<string>zastava Crne Gore</string>
+	<key>🇦🇩</key>
+	<string>zastava Andore</string>
+	<key>🇮🇪</key>
+	<string>zastava Irske</string>
+	<key>🇪🇪</key>
+	<string>zastava Estonije</string>
+	<key>🇲🇫</key>
+	<string>zastava Svetog Martina</string>
+	<key>🇺🇬</key>
+	<string>zastava Ugande</string>
+	<key>♣️</key>
+	<string>tref</string>
+	<key>🇦🇪</key>
+	<string>zastava Ujedinjenih Arapskih Emirata</string>
+	<key>🕯️</key>
+	<string>svijeća</string>
+	<key>🇲🇬</key>
+	<string>zastava Madagaskara</string>
+	<key>🇦🇫</key>
+	<string>zastava Afganistana</string>
+	<key>👮‍♂️</key>
+	<string>policajac</string>
+	<key>🇪🇬</key>
+	<string>zastava Egipta</string>
+	<key>🇲🇭</key>
+	<string>zastava Maršalovih Otoka</string>
+	<key>✨</key>
+	<string>iskre</string>
+	<key>🇦🇬</key>
+	<string>zastava Antigve i Barbude</string>
+	<key>🛏️</key>
+	<string>krevet</string>
+	<key>👳‍♀️</key>
+	<string>žena s turbanom</string>
+	<key>🇪🇭</key>
+	<string>zastava Zapadne Sahare</string>
+	<key>☄️</key>
+	<string>komet</string>
+	<key>🕺</key>
+	<string>muškarac pleše</string>
+	<key>✌️</key>
+	<string>znak mir rukom</string>
+	<key>❤️</key>
+	<string>crveno srce</string>
+	<key>⏭️</key>
+	<string>simbol za prijelaz unaprijed</string>
+	<key>🇦🇮</key>
+	<string>zastava Angvile</string>
+	<key>🇲🇰</key>
+	<string>zastava Sjeverne Makedonije</string>
+	<key>◽️</key>
+	<string>srednje mali bijeli kvadrat</string>
+	<key>🇲🇱</key>
+	<string>zastava Malija</string>
+	<key>🈚️</key>
+	<string>Japanski znak za "besplatno"</string>
+	<key>🇺🇲</key>
+	<string>zastava Malih udaljenih otoka SAD-a</string>
+	<key>🇮🇱</key>
+	<string>zastava Izraela</string>
+	<key>🇲🇲</key>
+	<string>zastava Mjanmara (Burme)</string>
+	<key>💂‍♂️</key>
+	<string>stražar</string>
+	<key>🇺🇳</key>
+	<string>zastava Ujedinjenih naroda</string>
+	<key>🇦🇱</key>
+	<string>zastava Albanije</string>
+	<key>🧑‍💻</key>
+	<string>tehnolog</string>
+	<key>🇮🇲</key>
+	<string>zastava otoka Man</string>
+	<key>⛹️‍♂️</key>
+	<string>košarkaš</string>
+	<key>🇲🇳</key>
+	<string>zastava Mongolije</string>
+	<key>🇦🇲</key>
+	<string>zastava Armenije</string>
+	<key>🇮🇳</key>
+	<string>zastava Indije</string>
+	<key>❌</key>
+	<string>oznaka križića</string>
+	<key>💇‍♀️</key>
+	<string>žena se šiša</string>
+	<key>❎</key>
+	<string>X znak</string>
+	<key>🇲🇴</key>
+	<string>zastava Makaa</string>
+	<key>♎️</key>
+	<string>Vaga</string>
+	<key>🧚‍♂️</key>
+	<string>muška vila</string>
+	<key>🧑‍💼</key>
+	<string>uredski djelatnik</string>
+	<key>🇮🇴</key>
+	<string>zastava Britanskog Indijskooceanskog teritorija</string>
+	<key>❓</key>
+	<string>crveni upitnik</string>
+	<key>❔</key>
+	<string>bijeli upitnik</string>
+	<key>🇲🇵</key>
+	<string>zastava Sjevernomarijanskih otoka</string>
+	<key>❕</key>
+	<string>bijeli uskličnik</string>
+	<key>🇦🇴</key>
+	<string>zastava Angole</string>
+	<key>🧟‍♀️</key>
+	<string>ženski zombi</string>
+	<key>🖕</key>
+	<string>srednji prst</string>
+	<key>🇲🇶</key>
+	<string>zastava Martinika</string>
+	<key>🖖</key>
+	<string>ruka s prstima razdvojenim između srednjaka i prstenjaka</string>
+	<key>🇮🇶</key>
+	<string>zastava Iraka</string>
+	<key>🚶‍♂️</key>
+	<string>pješak</string>
+	<key>🇲🇷</key>
+	<string>zastava Mauritanije</string>
+	<key>🇺🇸</key>
+	<string>zastava Sjedinjenih Država</string>
+	<key>🇦🇶</key>
+	<string>zastava Antarktike</string>
+	<key>🇮🇷</key>
+	<string>zastava Irana</string>
+	<key>🕳️</key>
+	<string>rupa</string>
+	<key>⌨️</key>
+	<string>tipkovnica</string>
+	<key>🇾🇹</key>
+	<string>zastava Mayotte</string>
+	<key>🇪🇷</key>
+	<string>zastava Eritreje</string>
+	<key>⛷️</key>
+	<string>skijaš</string>
+	<key>🇲🇸</key>
+	<string>zastava Montserrata</string>
+	<key>🇦🇷</key>
+	<string>zastava Argentine</string>
+	<key>🇮🇸</key>
+	<string>zastava Islanda</string>
+	<key>👨‍💻</key>
+	<string>tehnolog</string>
+	<key>🌤️</key>
+	<string>Sunce iza malog oblaka</string>
+	<key>🇪🇸</key>
+	<string>zastava Španjolske</string>
+	<key>🇲🇹</key>
+	<string>zastava Malte</string>
+	<key>🇦🇸</key>
+	<string>zastava Američke Samoe</string>
+	<key>🇮🇹</key>
+	<string>zastava Italije</string>
+	<key>❤️‍🩹</key>
+	<string>oporavljajuće srce</string>
+	<key>🏔️</key>
+	<string>planina sa snježnim vrhom</string>
+	<key>🇪🇹</key>
+	<string>zastava Etiopije</string>
+	<key>🤷‍♀️</key>
+	<string>žena sliježe ramenima</string>
+	<key>🇲🇺</key>
+	<string>zastava Mauricijusa</string>
+	<key>🇦🇹</key>
+	<string>zastava Austrije</string>
+	<key>🖤</key>
+	<string>crno srce</string>
+	<key>👩‍🦯</key>
+	<string>žena s bijelim štapom</string>
+	<key>👱‍♂️</key>
+	<string>plavokosi muškarac</string>
+	<key>👨‍💼</key>
+	<string>uredski djelatnik</string>
+	<key>⛰️</key>
+	<string>planina</string>
+	<key>🇪🇺</key>
+	<string>zastava Europske unije</string>
+	<key>🇲🇻</key>
+	<string>zastava Maldiva</string>
+	<key>🇦🇺</key>
+	<string>zastava Australije</string>
+	<key>🇲🇼</key>
+	<string>zastava Malavija</string>
+	<key>👩‍🦰</key>
+	<string>žena crvene kose</string>
+	<key>🇲🇽</key>
+	<string>zastava Meksika</string>
+	<key>🇺🇾</key>
+	<string>zastava Urugvaja</string>
+	<key>🇦🇼</key>
+	<string>zastava Arube</string>
+	<key>☹️</key>
+	<string>namršteno lice</string>
+	<key>⌚️</key>
+	<string>sat</string>
+	<key>🕵️</key>
+	<string>detektiv</string>
+	<key>⛩️</key>
+	<string>Šintoističko svetište</string>
+	<key>🇲🇾</key>
+	<string>zastava Malezije</string>
+	<key>🧎‍♀️</key>
+	<string>žena koja kleči</string>
+	<key>🇺🇿</key>
+	<string>zastava Uzbekistana</string>
+	<key>🇦🇽</key>
+	<string>zastava Ålandskih otoka</string>
+	<key>👩‍🦱</key>
+	<string>žena kovrčave kose</string>
+	<key>🙇‍♂️</key>
+	<string>muškarac se klanja</string>
+	<key>🌦️</key>
+	<string>Sunce iza kišnog oblaka</string>
+	<key>🇲🇿</key>
+	<string>zastava Mozambika</string>
+	<key>🏖️</key>
+	<string>plaža sa suncobranom</string>
+	<key>👩‍🦲</key>
+	<string>žena bez kose</string>
+	<key>🇦🇿</key>
+	<string>zastava Azerbajdžana</string>
+	<key>➕</key>
+	<string>simbol za plus</string>
+	<key>🕊️</key>
+	<string>grlica</string>
+	<key>➖</key>
+	<string>simbol za minus</string>
+	<key>➗</key>
+	<string>simbol za dijeljenje</string>
+	<key>🗺️</key>
+	<string>karta svijeta</string>
+	<key>👩‍🦳</key>
+	<string>žena bijele kose</string>
+	<key>7️⃣</key>
+	<string>tipka broj sedam</string>
+	<key>🅰️</key>
+	<string>krvna grupa A</string>
+	<key>🤦‍♀️</key>
+	<string>žena s dlanom preko lica</string>
+	<key>🧝‍♂️</key>
+	<string>vilenjak</string>
+	<key>🕷️</key>
+	<string>pauk</string>
+	<key>✳️</key>
+	<string>zvjezdica s osam krakova</string>
+	<key>🌨️</key>
+	<string>oblak sa snijegom</string>
+	<key>🦸‍♂️</key>
+	<string>superjunak</string>
+	<key>➰</key>
+	<string>kovrčava petlja</string>
+	<key>🏘️</key>
+	<string>niz kuća</string>
+	<key>0️⃣</key>
+	<string>tipka broj nula</string>
+	<key>🤵‍♂️</key>
+	<string>muškarac u smokingu</string>
+	<key>⛔️</key>
+	<string>zabranjen ulaz</string>
+	<key>👨‍👧‍👦</key>
+	<string>obitelj s ocem, sinom i kćeri</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>obitelj s majkom, ocem i dva sina</string>
+	<key>🧑‍🏫</key>
+	<string>učitelj</string>
+	<key>➿</key>
+	<string>dvostruka kovrčava petlja</string>
+	<key>㊙️</key>
+	<string>Japanski znak za "tajnu"</string>
+	<key>☝️</key>
+	<string>kažiprst usmjeren prema gore</string>
+	<key>🕹️</key>
+	<string>igraća palica</string>
+	<key>🗑️</key>
+	<string>koš za otpatke</string>
+	<key>🌪️</key>
+	<string>tornado</string>
+	<key>🧑‍🏭</key>
+	<string>tvornički radnik</string>
+	<key>↗️</key>
+	<string>strelica gore-desno</string>
+	<key>⤵️</key>
+	<string>desna strelica zakrivljena prema dolje</string>
+	<key>🏚️</key>
+	<string>napuštena kuća</string>
+	<key>©️</key>
+	<string>znak za autorsko pravo</string>
+	<key>👨‍🏫</key>
+	<string>učitelj</string>
+	<key>🗓️</key>
+	<string>kalendar sa spiralnim uvezom</string>
+	<key>⏸️</key>
+	<string>simbol za pauzu</string>
+	<key>🧑‍✈️</key>
+	<string>pilot</string>
+	<key>🌬️</key>
+	<string>lice koje puše vjetar</string>
+	<key>👨‍🏭</key>
+	<string>tvornički radnik</string>
+	<key>🏜️</key>
+	<string>pustinja</string>
+	<key>♠️</key>
+	<string>pik</string>
+	<key>🖨️</key>
+	<string>pisač</string>
+	<key>⏱️</key>
+	<string>štoperica</string>
+	<key>👩‍🦼</key>
+	<string>žena u motoriziranim invalidskim kolicima</string>
+	<key>🗻</key>
+	<string>planina Fuji</string>
+	<key>🫱‍🫲</key>
+	<string>rukovanje</string>
+	<key>🗼</key>
+	<string>Tokijski toranj</string>
+	<key>🗽</key>
+	<string>Kip slobode</string>
+	<key>🗾</key>
+	<string>silueta Japana</string>
+	<key>🤸‍♂️</key>
+	<string>muškarac koji radi zvijezdu</string>
+	<key>🌀</key>
+	<string>tajfun</string>
+	<key>🗿</key>
+	<string>skulptura s Uskršnjeg otoka</string>
+	<key>☁️</key>
+	<string>oblak</string>
+	<key>🌁</key>
+	<string>most u magli</string>
+	<key>😀</key>
+	<string>nacereno lice</string>
+	<key>👩‍🦽</key>
+	<string>žena u ručnim invalidskim kolicima</string>
+	<key>🌂</key>
+	<string>zatvoren kišobran</string>
+	<key>😁</key>
+	<string>lice sa širokim osmijehom i nasmiješenim očima</string>
+	<key>⚱️</key>
+	<string>pogrebna urna</string>
+	<key>🌃</key>
+	<string>noć sa zvijezdama</string>
+	<key>😂</key>
+	<string>lice sa suzama radosnicama</string>
+	<key>✉️</key>
+	<string>omotnica</string>
+	<key>👨‍👧‍👧</key>
+	<string>obitelj s ocem i dvije kćeri</string>
+	<key>🤽‍♀️</key>
+	<string>žena igra vaterpolo</string>
+	<key>🌄</key>
+	<string>izlazak Sunca iznad planina</string>
+	<key>😃</key>
+	<string>nacereno lice s velikim očima</string>
+	<key>🌅</key>
+	<string>izlazak Sunca</string>
+	<key>😄</key>
+	<string>nacereno lice s nasmješenim očima</string>
+	<key>👷‍♂️</key>
+	<string>građevinski radnik</string>
+	<key>👨‍✈️</key>
+	<string>pilot</string>
+	<key>🌆</key>
+	<string>panorama grada u sumrak</string>
+	<key>😅</key>
+	<string>nacereno lice sa znojem</string>
+	<key>🌇</key>
+	<string>zalazak Sunca iza zgrada</string>
+	<key>😆</key>
+	<string>nacereno lice sa škiljajućim očima</string>
+	<key>🌈</key>
+	<string>duga</string>
+	<key>😇</key>
+	<string>nasmiješeno lice s aureolom</string>
+	<key>🌉</key>
+	<string>most noću</string>
+	<key>😈</key>
+	<string>nasmiješeno lice s rogovima</string>
+	<key>🏞️</key>
+	<string>nacionalni park</string>
+	<key>🌊</key>
+	<string>val</string>
+	<key>😉</key>
+	<string>lice koje namiguje</string>
+	<key>🌋</key>
+	<string>vulkan</string>
+	<key>😊</key>
+	<string>nasmiješeno lice s nasmiješenim očima</string>
+	<key>♒️</key>
+	<string>Vodenjak</string>
+	<key>🌌</key>
+	<string>Mliječna staza</string>
+	<key>😋</key>
+	<string>nasmiješeno lice koje oblizuje usne</string>
+	<key>⚪️</key>
+	<string>bijeli krug</string>
+	<key>🌍</key>
+	<string>globus na kojem se vide Europa i Afrika</string>
+	<key>😌</key>
+	<string>lice s izrazom olakšanja</string>
+	<key>🧏‍♂️</key>
+	<string>Gluhi muškarac</string>
+	<key>✂️</key>
+	<string>škare</string>
+	<key>🌎</key>
+	<string>globus na kojem se vide Amerike</string>
+	<key>🤌</key>
+	<string>stisnuti prsti</string>
+	<key>😍</key>
+	<string>nasmiješeno lice s očima u obliku srca</string>
+	<key>🌏</key>
+	<string>globus na kojem se vide Azija i Australija</string>
+	<key>🤍</key>
+	<string>bijelo srce</string>
+	<key>😎</key>
+	<string>nasmiješeno lice sa sunčanim naočalama</string>
+	<key>🌐</key>
+	<string>globus s meridijanima</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>obitelj s majkom, ocem i dvije kćeri</string>
+	<key>🤎</key>
+	<string>smeđe srce</string>
+	<key>😏</key>
+	<string>lice koje se smijulji</string>
+	<key>🌑</key>
+	<string>novi mjesec</string>
+	<key>🤏</key>
+	<string>ruka koja štipa</string>
+	<key>😐</key>
+	<string>neutralno lice</string>
+	<key>🧔‍♀️</key>
+	<string>bradata žena</string>
+	<key>🌒</key>
+	<string>mladi mjesec</string>
+	<key>🤐</key>
+	<string>lice sa zatvaračem preko usta</string>
+	<key>😑</key>
+	<string>lice bez izražaja</string>
+	<key>🙍‍♂️</key>
+	<string>muškarac se mršti</string>
+	<key>🌓</key>
+	<string>prva četvrt mjeseca</string>
+	<key>🤑</key>
+	<string>lice s novcem umjesto usta</string>
+	<key>😒</key>
+	<string>lice kojem je dosadno</string>
+	<key>🌔</key>
+	<string>srpoliki mjesec</string>
+	<key>🤒</key>
+	<string>lice s termometrom</string>
+	<key>😓</key>
+	<string>pokunjeno lice sa znojem</string>
+	<key>🌕</key>
+	<string>puni mjesec</string>
+	<key>🤓</key>
+	<string>nasmiješeno lice s naočalama</string>
+	<key>😔</key>
+	<string>tužno sjetno lice</string>
+	<key>♋️</key>
+	<string>Rak</string>
+	<key>🌖</key>
+	<string>srpoliki mjesec</string>
+	<key>🤔</key>
+	<string>zamišljeno lice</string>
+	<key>😕</key>
+	<string>zbunjeno lice</string>
+	<key>🌗</key>
+	<string>mjesec u zadnjoj četvrti</string>
+	<key>🤕</key>
+	<string>lice sa zavojem na glavi</string>
+	<key>😖</key>
+	<string>zgroženo lice</string>
+	<key>🌘</key>
+	<string>mladi mjesec</string>
+	<key>🤖</key>
+	<string>robotsko lice</string>
+	<key>😗</key>
+	<string>lice koje šalje poljubac</string>
+	<key>🌙</key>
+	<string>polumjesec</string>
+	<key>🤗</key>
+	<string>lice koje grli</string>
+	<key>😘</key>
+	<string>lice koje šalje poljubac</string>
+	<key>🌚</key>
+	<string>novi mjesec s licem</string>
+	<key>🤘</key>
+	<string>znak za rogove</string>
+	<key>😙</key>
+	<string>lice koje šalje poljubac s nasmijanim očima</string>
+	<key>🌛</key>
+	<string>prva četvrt mjeseca s licem</string>
+	<key>🤙</key>
+	<string>znak šakom za poziv</string>
+	<key>😚</key>
+	<string>lice koje šalje poljubac sa zatvorenim očima</string>
+</dict>
+</plist>

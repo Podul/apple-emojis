@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>måne i sista kvarteret med ansikte</string>
+	<key>🤚</key>
+	<string>handens baksida</string>
+	<key>😛</key>
+	<string>ansikte med utsträckt tunga</string>
+	<key>👩‍🔧</key>
+	<string>kvinna som är mekaniker</string>
+	<key>🌝</key>
+	<string>fullmåne med ansikte</string>
+	<key>🤛</key>
+	<string>knytnäve vänd åt vänster</string>
+	<key>😜</key>
+	<string>blinkning med ett öga och utsträckt tunga</string>
+	<key>🌞</key>
+	<string>sol med ansikte</string>
+	<key>🤜</key>
+	<string>knytnäve vänd åt höger</string>
+	<key>😝</key>
+	<string>ansikte med utsträckt tunga och kisande ögon</string>
+	<key>🌟</key>
+	<string>lysande stjärna</string>
+	<key>🤝</key>
+	<string>handskakning</string>
+	<key>😞</key>
+	<string>besviket ansikte</string>
+	<key>🌠</key>
+	<string>stjärnfall</string>
+	<key>🤞</key>
+	<string>fingrar i kors</string>
+	<key>😟</key>
+	<string>oroligt ansikte</string>
+	<key>🐈‍⬛</key>
+	<string>svart katt</string>
+	<key>🤟</key>
+	<string>älskar dig-gest</string>
+	<key>😠</key>
+	<string>argt ansikte</string>
+	<key>⚜️</key>
+	<string>fransk lilja</string>
+	<key>⛴️</key>
+	<string>färja</string>
+	<key>🤠</key>
+	<string>cowboyansikte</string>
+	<key>😡</key>
+	<string>rött argt ansikte</string>
+	<key>🤡</key>
+	<string>clownansikte</string>
+	<key>😢</key>
+	<string>gråtande ansikte</string>
+	<key>⬛️</key>
+	<string>stor svart kvadrat</string>
+	<key>🤢</key>
+	<string>äcklat ansikte</string>
+	<key>😣</key>
+	<string>ihärdigt ansikte</string>
+	<key>🤣</key>
+	<string>gapskrattande ansikte</string>
+	<key>😤</key>
+	<string>ansikte med ånga som kommer ut ur näsan</string>
+	<key>🤤</key>
+	<string>dreglande ansikte</string>
+	<key>😥</key>
+	<string>ledset men lättat ansikte</string>
+	<key>🤥</key>
+	<string>ljugande ansikte</string>
+	<key>😦</key>
+	<string>surt ansikte med öppen mun</string>
+	<key>🤦</key>
+	<string>person som tar sig för pannan</string>
+	<key>😧</key>
+	<string>plågat ansikte</string>
+	<key>🤧</key>
+	<string>nysande ansikte</string>
+	<key>😨</key>
+	<string>skrämt ansikte</string>
+	<key>🤨</key>
+	<string>ansikte med höjt ögonbryn</string>
+	<key>😩</key>
+	<string>uttröttat ansikte</string>
+	<key>🤩</key>
+	<string>ansikte med stjärnor i ögonen</string>
+	<key>⚕️</key>
+	<string>Eskulapstaven</string>
+	<key>😪</key>
+	<string>sömnigt ansikte</string>
+	<key>👁️‍🗨️</key>
+	<string>Jag är ett vittne</string>
+	<key>🤪</key>
+	<string>tokigt ansikte</string>
+	<key>😫</key>
+	<string>hysteriskt ansikte</string>
+	<key>🌭</key>
+	<string>varmkorv</string>
+	<key>🤫</key>
+	<string>hyssjande ansikte</string>
+	<key>😬</key>
+	<string>grimaserande ansikte</string>
+	<key>🌮</key>
+	<string>taco</string>
+	<key>🤬</key>
+	<string>ansikte med symboler över munnen</string>
+	<key>😭</key>
+	<string>storgråtande ansikte</string>
+	<key>🌯</key>
+	<string>burrito</string>
+	<key>🤭</key>
+	<string>ansikte med handen över munnen och leende ögon</string>
+	<key>😮</key>
+	<string>överraskat ansikte med öppen mun</string>
+	<key>🌰</key>
+	<string>kastanj</string>
+	<key>🤮</key>
+	<string>ansikte som kräks</string>
+	<key>😯</key>
+	<string>överraskat ansikte</string>
+	<key>🌱</key>
+	<string>stickling</string>
+	<key>🤯</key>
+	<string>exploderande huvud</string>
+	<key>😰</key>
+	<string>oroligt svettigt ansikte</string>
+	<key>🌲</key>
+	<string>barrträd</string>
+	<key>🤰</key>
+	<string>gravid kvinna</string>
+	<key>😱</key>
+	<string>ansikte som skriker av fasa</string>
+	<key>🌳</key>
+	<string>träd</string>
+	<key>🤱</key>
+	<string>amma</string>
+	<key>😲</key>
+	<string>förvånat ansikte</string>
+	<key>🛡️</key>
+	<string>sköld</string>
+	<key>🌴</key>
+	<string>palmträd</string>
+	<key>🤲</key>
+	<string>handflator tillsammans vända uppåt</string>
+	<key>😳</key>
+	<string>ansikte med vidöppna ögon</string>
+	<key>🌵</key>
+	<string>kaktus</string>
+	<key>🤳</key>
+	<string>selfie</string>
+	<key>😴</key>
+	<string>sovande ansikte</string>
+	<key>🤴</key>
+	<string>prins</string>
+	<key>😵</key>
+	<string>omtumlat ansikte</string>
+	<key>👩‍🌾</key>
+	<string>kvinna som är bonde</string>
+	<key>🌷</key>
+	<string>tulpan</string>
+	<key>🤵</key>
+	<string>person i smoking</string>
+	<key>😶</key>
+	<string>ansikte utan mun</string>
+	<key>🌸</key>
+	<string>körsbärsblomma</string>
+	<key>🤶</key>
+	<string>jultomtens fru</string>
+	<key>😷</key>
+	<string>ansikte med munskydd</string>
+	<key>🌹</key>
+	<string>ros</string>
+	<key>🤷</key>
+	<string>person som rycker på axlarna</string>
+	<key>😸</key>
+	<string>flinande kattansikte</string>
+	<key>🌺</key>
+	<string>hibiskus</string>
+	<key>🤸</key>
+	<string>person som hjular</string>
+	<key>😹</key>
+	<string>kattansikte med glädjetårar</string>
+	<key>🌻</key>
+	<string>solros</string>
+	<key>🤹</key>
+	<string>person som jonglerar</string>
+	<key>😺</key>
+	<string>glatt kattansikte</string>
+	<key>🌼</key>
+	<string>blomma</string>
+	<key>🤺</key>
+	<string>fäktare</string>
+	<key>😻</key>
+	<string>leende kattansikte med hjärtformade ögon</string>
+	<key>🌽</key>
+	<string>majskolv</string>
+	<key>😼</key>
+	<string>småleende kattansikte</string>
+	<key>🇿🇦</key>
+	<string>sydafrikansk flagga</string>
+	<key>👩‍🔬</key>
+	<string>kvinna som är forskare</string>
+	<key>🌾</key>
+	<string>risax</string>
+	<key>🤼</key>
+	<string>personer som brottas</string>
+	<key>😽</key>
+	<string>pussande kattansikte</string>
+	<key>🇻🇦</key>
+	<string>Vatikanstatens flagga</string>
+	<key>🌿</key>
+	<string>ört</string>
+	<key>🤽</key>
+	<string>person som spelar vattenpolo</string>
+	<key>😾</key>
+	<string>plutande kattansikte</string>
+	<key>☯️</key>
+	<string>yin och yang</string>
+	<key>🍀</key>
+	<string>fyrklöver</string>
+	<key>🤾</key>
+	<string>person som spelar handboll</string>
+	<key>😿</key>
+	<string>gråtande kattansikte</string>
+	<key>🍁</key>
+	<string>lönnlöv</string>
+	<key>🤿</key>
+	<string>dykarmask</string>
+	<key>🧑‍🍳</key>
+	<string>kock</string>
+	<key>🇳🇦</key>
+	<string>namibisk flagga</string>
+	<key>🙀</key>
+	<string>kattansikte som skriker av fasa</string>
+	<key>🧗‍♀️</key>
+	<string>kvinna som är bergsklättrare</string>
+	<key>⁉️</key>
+	<string>rött utropstecken och frågetecken</string>
+	<key>🍂</key>
+	<string>fallna löv</string>
+	<key>🥀</key>
+	<string>vissnad ros</string>
+	<key>🙁</key>
+	<string>småsurt ansikte</string>
+	<key>🍃</key>
+	<string>löv som virvlar i vinden</string>
+	<key>🥁</key>
+	<string>trumma</string>
+	<key>🙂</key>
+	<string>småleende ansikte</string>
+	<key>⬆️</key>
+	<string>uppåtpil</string>
+	<key>🍄</key>
+	<string>svamp</string>
+	<key>🥂</key>
+	<string>glas som skålar</string>
+	<key>🙃</key>
+	<string>uppochnedvänt ansikte</string>
+	<key>5️⃣</key>
+	<string>tangent med siffran fem</string>
+	<key>🍅</key>
+	<string>tomat</string>
+	<key>🥃</key>
+	<string>dricksglas</string>
+	<key>🙄</key>
+	<string>ansikte som himlar med ögonen</string>
+	<key>🇻🇨</key>
+	<string>S:t Vincent och Grenadinernas flagga</string>
+	<key>🇧🇦</key>
+	<string>Bosnien-Hercegovinas flagga</string>
+	<key>↩️</key>
+	<string>högerpil böjd åt vänster</string>
+	<key>🍆</key>
+	<string>aubergine</string>
+	<key>🥄</key>
+	<string>sked</string>
+	<key>🙅</key>
+	<string>person som gestikulerar nej</string>
+	<key>🍇</key>
+	<string>vindruvor</string>
+	<key>🥅</key>
+	<string>målnät</string>
+	<key>🙆</key>
+	<string>person som gestikulerar OK</string>
+	<key>🛣️</key>
+	<string>motorväg</string>
+	<key>🍈</key>
+	<string>melon</string>
+	<key>🙇</key>
+	<string>person som bugar</string>
+	<key>🇳🇨</key>
+	<string>nykaledonsk flagga</string>
+	<key>🍉</key>
+	<string>vattenmelon</string>
+	<key>🇧🇧</key>
+	<string>Barbados flagga</string>
+	<key>🥇</key>
+	<string>guldmedalj</string>
+	<key>🙈</key>
+	<string>inte se-apa</string>
+	<key>🍊</key>
+	<string>mandarin</string>
+	<key>🥈</key>
+	<string>silvermedalj</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>skotsk flagga</string>
+	<key>🙉</key>
+	<string>inte höra-apa</string>
+	<key>🍋</key>
+	<string>citron</string>
+	<key>🥉</key>
+	<string>bronsmedalj</string>
+	<key>🙊</key>
+	<string>inte säga-apa</string>
+	<key>🍌</key>
+	<string>banan</string>
+	<key>🥊</key>
+	<string>boxhandske</string>
+	<key>🇻🇪</key>
+	<string>venezuelansk flagga</string>
+	<key>🙋</key>
+	<string>person som räcker upp en hand</string>
+	<key>🍍</key>
+	<string>ananas</string>
+	<key>🥋</key>
+	<string>kampsportsuniform</string>
+	<key>🙌</key>
+	<string>händer som sträcks upp i jubel</string>
+	<key>🇷🇪</key>
+	<string>réunionsk flagga</string>
+	<key>🍎</key>
+	<string>rött äpple</string>
+	<key>🥌</key>
+	<string>curlingsten</string>
+	<key>🙍</key>
+	<string>person med hängande huvud</string>
+	<key>🍏</key>
+	<string>grönt äpple</string>
+	<key>🇳🇪</key>
+	<string>nigerisk flagga</string>
+	<key>🥍</key>
+	<string>lacrosseklubba och -boll</string>
+	<key>🙎</key>
+	<string>person som plutar</string>
+	<key>🅾️</key>
+	<string>blodgrupp 0</string>
+	<key>🇧🇩</key>
+	<string>bangladeshisk flagga</string>
+	<key>🍐</key>
+	<string>päron</string>
+	<key>🥎</key>
+	<string>softboll</string>
+	<key>🇯🇪</key>
+	<string>Jerseys flagga</string>
+	<key>🙏</key>
+	<string>sammanpressade händer</string>
+	<key>🍑</key>
+	<string>persika</string>
+	<key>🥏</key>
+	<string>frisbee</string>
+	<key>🍒</key>
+	<string>körsbär</string>
+	<key>🥐</key>
+	<string>croissant</string>
+	<key>🇳🇫</key>
+	<string>Norfolköns flagga</string>
+	<key>🍓</key>
+	<string>jordgubbe</string>
+	<key>🇻🇬</key>
+	<string>Brittiska Jungfruöarnas flagga</string>
+	<key>🇧🇪</key>
+	<string>belgisk flagga</string>
+	<key>🥑</key>
+	<string>avokado</string>
+	<key>🍔</key>
+	<string>hamburgare</string>
+	<key>🥒</key>
+	<string>gurka</string>
+	<key>⛑️</key>
+	<string>hjälm med vitt kors</string>
+	<key>🍕</key>
+	<string>pizza</string>
+	<key>🥓</key>
+	<string>bacon</string>
+	<key>🇳🇬</key>
+	<string>nigeriansk flagga</string>
+	<key>🍖</key>
+	<string>kött på ben</string>
+	<key>🥔</key>
+	<string>potatis</string>
+	<key>👨‍🍳</key>
+	<string>man som är kock</string>
+	<key>🇧🇫</key>
+	<string>Burkina Fasos flagga</string>
+	<key>🍗</key>
+	<string>kycklingklubba</string>
+	<key>👮‍♀️</key>
+	<string>kvinnlig polis</string>
+	<key>🥕</key>
+	<string>morot</string>
+	<key>⭐️</key>
+	<string>stjärna</string>
+	<key>🍘</key>
+	<string>riskex</string>
+	<key>🥖</key>
+	<string>baguette</string>
+	<key>🗝️</key>
+	<string>gammal nyckel</string>
+	<key>🌶️</key>
+	<string>chilifrukt</string>
+	<key>🍙</key>
+	<string>risboll</string>
+	<key>🥗</key>
+	<string>grön sallad</string>
+	<key>🏃‍♂️</key>
+	<string>man som är löpare</string>
+	<key>🇻🇮</key>
+	<string>Amerikanska Jungfruöarnas flagga</string>
+	<key>🇧🇬</key>
+	<string>bulgarisk flagga</string>
+	<key>🍚</key>
+	<string>kokat ris</string>
+	<key>🥘</key>
+	<string>gryta med mat</string>
+	<key>🍛</key>
+	<string>curry och ris</string>
+	<key>🥙</key>
+	<string>pitasmörgås</string>
+	<key>🍜</key>
+	<string>ångande skål</string>
+	<key>🥚</key>
+	<string>ägg</string>
+	<key>🛥️</key>
+	<string>motorbåt</string>
+	<key>🇳🇮</key>
+	<string>nicaraguansk flagga</string>
+	<key>🍝</key>
+	<string>spaghetti</string>
+	<key>🥛</key>
+	<string>glas med mjölk</string>
+	<key>🇧🇭</key>
+	<string>bahrainsk flagga</string>
+	<key>🍞</key>
+	<string>bröd</string>
+	<key>🥜</key>
+	<string>jordnötter</string>
+	<key>🍟</key>
+	<string>pommes frites</string>
+	<key>👨‍👨‍👦</key>
+	<string>familj med två pappor och son</string>
+	<key>🥝</key>
+	<string>kiwi</string>
+	<key>🇫🇮</key>
+	<string>finsk flagga</string>
+	<key>🤾‍♂️</key>
+	<string>man som spelar handboll</string>
+	<key>🍠</key>
+	<string>rostad sötpotatis</string>
+	<key>🖲️</key>
+	<string>styrkula</string>
+	<key>🥞</key>
+	<string>pannkakor</string>
+	<key>🇧🇮</key>
+	<string>burundisk flagga</string>
+	<key>🍡</key>
+	<string>dango</string>
+	<key>🥟</key>
+	<string>dumpling</string>
+	<key>🍢</key>
+	<string>oden</string>
+	<key>🥠</key>
+	<string>lyckokaka</string>
+	<key>🇫🇯</key>
+	<string>fijiansk flagga</string>
+	<key>🍣</key>
+	<string>sushi</string>
+	<key>🥡</key>
+	<string>hämtmatslåda</string>
+	<key>🍤</key>
+	<string>friterad räka</string>
+	<key>🥢</key>
+	<string>ätpinnar</string>
+	<key>🇧🇯</key>
+	<string>beninsk flagga</string>
+	<key>↔️</key>
+	<string>vänster- och högerpil</string>
+	<key>🍥</key>
+	<string>fiskkaka med virveldesign</string>
+	<key>🥣</key>
+	<string>skål med sked</string>
+	<key>🍦</key>
+	<string>mjukglass</string>
+	<key>🇿🇲</key>
+	<string>zambisk flagga</string>
+	<key>🇫🇰</key>
+	<string>Falklandsöarnas flagga</string>
+	<key>🥤</key>
+	<string>mugg</string>
+	<key>🏌️‍♀️</key>
+	<string>kvinna som är golfspelare</string>
+	<key>🇳🇱</key>
+	<string>nederländsk flagga</string>
+	<key>🍧</key>
+	<string>flingad is</string>
+	<key>🥥</key>
+	<string>kokosnöt</string>
+	<key>🍨</key>
+	<string>glass</string>
+	<key>🥦</key>
+	<string>broccoli</string>
+	<key>🍩</key>
+	<string>munk</string>
+	<key>🥧</key>
+	<string>paj</string>
+	<key>🖇️</key>
+	<string>hoplänkade gem</string>
+	<key>🍪</key>
+	<string>kaka</string>
+	<key>🥨</key>
+	<string>kringla</string>
+	<key>🇻🇳</key>
+	<string>vietnamesisk flagga</string>
+	<key>💂‍♀️</key>
+	<string>kvinnlig grenadjär</string>
+	<key>🇧🇱</key>
+	<string>Saint-Barthélemys flagga</string>
+	<key>🍫</key>
+	<string>chokladkaka</string>
+	<key>🇯🇲</key>
+	<string>jamaicansk flagga</string>
+	<key>🥩</key>
+	<string>stek</string>
+	<key>🍬</key>
+	<string>godis</string>
+	<key>🥪</key>
+	<string>smörgås</string>
+	<key>⛹️‍♀️</key>
+	<string>kvinna som är basketbollspelare</string>
+	<key>🍭</key>
+	<string>godisklubba</string>
+	<key>🇫🇲</key>
+	<string>mikronesisk flagga</string>
+	<key>🥫</key>
+	<string>konservburk</string>
+	<key>🍮</key>
+	<string>vaniljpudding</string>
+	<key>👨‍❤️‍👨</key>
+	<string>två män med hjärta</string>
+	<key>🥬</key>
+	<string>sallad</string>
+	<key>🇧🇲</key>
+	<string>Bermudas flagga</string>
+	<key>🍯</key>
+	<string>honungskruka</string>
+	<key>🥭</key>
+	<string>mango</string>
+	<key>🇷🇴</key>
+	<string>rumänsk flagga</string>
+	<key>🍰</key>
+	<string>bakelse</string>
+	<key>🥮</key>
+	<string>månkaka</string>
+	<key>🍱</key>
+	<string>bentolåda</string>
+	<key>🇳🇴</key>
+	<string>norsk flagga</string>
+	<key>🥯</key>
+	<string>bagel</string>
+	<key>🇧🇳</key>
+	<string>bruneisk flagga</string>
+	<key>🧚‍♀️</key>
+	<string>kvinnlig älva</string>
+	<key>🍲</key>
+	<string>skål med mat</string>
+	<key>🇯🇴</key>
+	<string>jordansk flagga</string>
+	<key>🥰</key>
+	<string>leende ansikte med hjärtan</string>
+	<key>🍳</key>
+	<string>matlagning</string>
+	<key>🥱</key>
+	<string>gäspande ansikte</string>
+	<key>🇫🇴</key>
+	<string>Färöarnas flagga</string>
+	<key>🍴</key>
+	<string>kniv och gaffel</string>
+	<key>🥲</key>
+	<string>leende ansikte med tår</string>
+	<key>🇳🇵</key>
+	<string>nepalisk flagga</string>
+	<key>✔️</key>
+	<string>bockmarkering</string>
+	<key>🍵</key>
+	<string>tekopp utan öra</string>
+	<key>🥳</key>
+	<string>partyansikte</string>
+	<key>🇧🇴</key>
+	<string>boliviansk flagga</string>
+	<key>🇯🇵</key>
+	<string>japansk flagga</string>
+	<key>🍶</key>
+	<string>sakeflaska och kopp</string>
+	<key>🥴</key>
+	<string>yrt ansikte</string>
+	<key>🍷</key>
+	<string>vinglas</string>
+	<key>🥵</key>
+	<string>varmt ansikte</string>
+	<key>🍸</key>
+	<string>cocktailglas</string>
+	<key>🥶</key>
+	<string>kallt ansikte</string>
+	<key>🍹</key>
+	<string>tropisk drink</string>
+	<key>🥷</key>
+	<string>ninja</string>
+	<key>🍺</key>
+	<string>ölstop</string>
+	<key>🥸</key>
+	<string>dolt ansikte</string>
+	<key>🚶‍♀️</key>
+	<string>kvinna som är fotgängare</string>
+	<key>🍻</key>
+	<string>skålande ölstop</string>
+	<key>🥹</key>
+	<string>leende ansikte som håller tillbaka tårarna</string>
+	<key>🇳🇷</key>
+	<string>Naurus flagga</string>
+	<key>🍼</key>
+	<string>nappflaska</string>
+	<key>🇧🇶</key>
+	<string>Bonaires flagga</string>
+	<key>🥺</key>
+	<string>bönfallande ansikte</string>
+	<key>🧑‍🍼</key>
+	<string>person som matar en bebis</string>
+	<key>🥻</key>
+	<string>sari</string>
+	<key>🇷🇸</key>
+	<string>serbisk flagga</string>
+	<key>🍾</key>
+	<string>flaska med smällande kork</string>
+	<key>🇫🇷</key>
+	<string>fransk flagga</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>man och kvinna som kysser</string>
+	<key>🥼</key>
+	<string>labbrock</string>
+	<key>✍️</key>
+	<string>skrivande hand</string>
+	<key>🍿</key>
+	<string>popcorn</string>
+	<key>🥽</key>
+	<string>skyddsglasögon</string>
+	<key>🇧🇷</key>
+	<string>brasiliansk flagga</string>
+	<key>🗡️</key>
+	<string>dolk</string>
+	<key>⏮️</key>
+	<string>symbol för att hoppa bakåt</string>
+	<key>🎀</key>
+	<string>bandrosett</string>
+	<key>🥾</key>
+	<string>vandringskänga</string>
+	<key>🎁</key>
+	<string>present</string>
+	<key>🥿</key>
+	<string>platt sko</string>
+	<key>🚀</key>
+	<string>raket</string>
+	<key>🎂</key>
+	<string>födelsedagstårta</string>
+	<key>🦀</key>
+	<string>krabba</string>
+	<key>🚁</key>
+	<string>helikopter</string>
+	<key>🇻🇺</key>
+	<string>vanuatisk flagga</string>
+	<key>🇧🇸</key>
+	<string>Bahamas flagga</string>
+	<key>🎃</key>
+	<string>lyktgubbe</string>
+	<key>🕵️‍♀️</key>
+	<string>kvinna som är detektiv</string>
+	<key>🦁</key>
+	<string>lejonansikte</string>
+	<key>🚂</key>
+	<string>ånglok</string>
+	<key>🎄</key>
+	<string>julgran</string>
+	<key>🇷🇺</key>
+	<string>rysk flagga</string>
+	<key>🦂</key>
+	<string>skorpion</string>
+	<key>🚃</key>
+	<string>tågvagn</string>
+	<key>🎅</key>
+	<string>Jultomten</string>
+	<key>🦃</key>
+	<string>kalkon</string>
+	<key>🚄</key>
+	<string>snabbtåg</string>
+	<key>🇳🇺</key>
+	<string>Niues flagga</string>
+	<key>🛩️</key>
+	<string>litet flygplan</string>
+	<key>◾️</key>
+	<string>ganska liten svart kvadrat</string>
+	<key>🎆</key>
+	<string>fyrverkerier</string>
+	<key>🇧🇹</key>
+	<string>buthansk flagga</string>
+	<key>🦄</key>
+	<string>enhörning</string>
+	<key>🚅</key>
+	<string>snabbtåg med spetsig nos</string>
+	<key>🎇</key>
+	<string>tomtebloss</string>
+	<key>🦅</key>
+	<string>örn</string>
+	<key>🚆</key>
+	<string>tåg</string>
+	<key>👱‍♀️</key>
+	<string>kvinna med blont hår</string>
+	<key>🎈</key>
+	<string>ballong</string>
+	<key>🇿🇼</key>
+	<string>zimbabwisk flagga</string>
+	<key>🦆</key>
+	<string>anka</string>
+	<key>🚇</key>
+	<string>tunnelbanetåg</string>
+	<key>😮‍💨</key>
+	<string>ansikte som andas ut</string>
+	<key>🎉</key>
+	<string>partybomb</string>
+	<key>🦇</key>
+	<string>fladdermus</string>
+	<key>🚈</key>
+	<string>pendeltåg</string>
+	<key>🎊</key>
+	<string>konfettiboll</string>
+	<key>🦈</key>
+	<string>haj</string>
+	<key>🚉</key>
+	<string>station</string>
+	<key>🇷🇼</key>
+	<string>rwandisk flagga</string>
+	<key>🎋</key>
+	<string>tanabataträd</string>
+	<key>🦉</key>
+	<string>uggla</string>
+	<key>🚊</key>
+	<string>spårvagn</string>
+	<key>🎌</key>
+	<string>korsade flaggor</string>
+	<key>🦊</key>
+	<string>rävansikte</string>
+	<key>🚋</key>
+	<string>spårvagnsvagn</string>
+	<key>🎍</key>
+	<string>japansk nyårsdekoration</string>
+	<key>🇧🇻</key>
+	<string>Bouvetöns flagga</string>
+	<key>🦋</key>
+	<string>fjäril</string>
+	<key>🚌</key>
+	<string>buss</string>
+	<key>🎎</key>
+	<string>Japanska dockor</string>
+	<key>🦌</key>
+	<string>hjort</string>
+	<key>🚍</key>
+	<string>ankommande buss</string>
+	<key>🎏</key>
+	<string>karpdrake</string>
+	<key>🦍</key>
+	<string>gorilla</string>
+	<key>🚎</key>
+	<string>trådbuss</string>
+	<key>🚏</key>
+	<string>busshållplats</string>
+	<key>🎐</key>
+	<string>vindspel</string>
+	<key>🦎</key>
+	<string>ödla</string>
+	<key>🇧🇼</key>
+	<string>botswansk flagga</string>
+	<key>🚐</key>
+	<string>minibuss</string>
+	<key>♏️</key>
+	<string>Skorpionen</string>
+	<key>🎑</key>
+	<string>japansk skördemåne</string>
+	<key>🦏</key>
+	<string>noshörning</string>
+	<key>🚑</key>
+	<string>ambulans</string>
+	<key>👨‍🍼</key>
+	<string>man som matar bebis</string>
+	<key>⚧️</key>
+	<string>transgendersymbol</string>
+	<key>👨‍👨‍👧</key>
+	<string>familj med två pappor och dotter</string>
+	<key>🖋️</key>
+	<string>reservoarpenna</string>
+	<key>🚒</key>
+	<string>brandbil</string>
+	<key>🎒</key>
+	<string>ryggsäck</string>
+	<key>🎓</key>
+	<string>examensmössa</string>
+	<key>🦐</key>
+	<string>räka</string>
+	<key>🦑</key>
+	<string>bläckfisk</string>
+	<key>🚓</key>
+	<string>polisbil</string>
+	<key>❗️</key>
+	<string>rött utropstecken</string>
+	<key>🦒</key>
+	<string>giraff</string>
+	<key>🙇‍♀️</key>
+	<string>kvinna som bugar</string>
+	<key>🗣️</key>
+	<string>talande huvud i silhuett</string>
+	<key>🚔</key>
+	<string>ankommande polisbil</string>
+	<key>🦓</key>
+	<string>zebra</string>
+	<key>🚕</key>
+	<string>taxi</string>
+	<key>🦔</key>
+	<string>igelkott</string>
+	<key>🇳🇿</key>
+	<string>nyzeeländsk flagga</string>
+	<key>🦕</key>
+	<string>dinosaurie</string>
+	<key>🚖</key>
+	<string>ankommande taxi</string>
+	<key>🇧🇾</key>
+	<string>belarusisk flagga</string>
+	<key>🦖</key>
+	<string>T-rex</string>
+	<key>🚗</key>
+	<string>bil</string>
+	<key>🦗</key>
+	<string>syrsa</string>
+	<key>🚘</key>
+	<string>ankommande bil</string>
+	<key>🦘</key>
+	<string>känguru</string>
+	<key>🚙</key>
+	<string>stadsjeep</string>
+	<key>🇧🇿</key>
+	<string>belizisk flagga</string>
+	<key>🦙</key>
+	<string>lama</string>
+	<key>🚚</key>
+	<string>budbil</string>
+	<key>♈️</key>
+	<string>Väduren</string>
+	<key>🦚</key>
+	<string>påfågel</string>
+	<key>🚛</key>
+	<string>långtradare</string>
+	<key>⚠️</key>
+	<string>varning</string>
+	<key>🦛</key>
+	<string>flodhäst</string>
+	<key>🚜</key>
+	<string>traktor</string>
+	<key>⛸️</key>
+	<string>skridsko</string>
+	<key>🧘‍♂️</key>
+	<string>man i lotusposition</string>
+	<key>🧑‍🚀</key>
+	<string>astronaut</string>
+	<key>🦜</key>
+	<string>papegoja</string>
+	<key>🚝</key>
+	<string>monorail</string>
+	<key>🦝</key>
+	<string>tvättbjörn</string>
+	<key>🚞</key>
+	<string>bergsbana</string>
+	<key>🎠</key>
+	<string>karusellhäst</string>
+	<key>🦞</key>
+	<string>hummer</string>
+	<key>🚟</key>
+	<string>hängande tåg</string>
+	<key>🎡</key>
+	<string>pariserhjul</string>
+	<key>🦟</key>
+	<string>mygga</string>
+	<key>🚠</key>
+	<string>linbana</string>
+	<key>🎢</key>
+	<string>berg-och-dal-bana</string>
+	<key>🦠</key>
+	<string>mikrob</string>
+	<key>🚡</key>
+	<string>kabinbana</string>
+	<key>🧝‍♀️</key>
+	<string>kvinnlig alv</string>
+	<key>🎣</key>
+	<string>fiskespö och fisk</string>
+	<key>🦡</key>
+	<string>grävling</string>
+	<key>🚢</key>
+	<string>skepp</string>
+	<key>🎤</key>
+	<string>mikrofon</string>
+	<key>🦢</key>
+	<string>svan</string>
+	<key>🚣</key>
+	<string>person som ror</string>
+	<key>🎥</key>
+	<string>filmkamera</string>
+	<key>🦣</key>
+	<string>mammut</string>
+	<key>🚤</key>
+	<string>motorbåt</string>
+	<key>🎦</key>
+	<string>biosymbol</string>
+	<key>🦤</key>
+	<string>drontfågel</string>
+	<key>🚥</key>
+	<string>horisontellt trafikljus</string>
+	<key>⚙️</key>
+	<string>kugghjul</string>
+	<key>🚴‍♂️</key>
+	<string>man som är cyklist</string>
+	<key>🎧</key>
+	<string>hörlurar</string>
+	<key>🦥</key>
+	<string>sengångare</string>
+	<key>🚦</key>
+	<string>vertikalt trafikljus</string>
+	<key>⛱️</key>
+	<string>strandparasoll</string>
+	<key>🖍️</key>
+	<string>färgkrita</string>
+	<key>🎨</key>
+	<string>målarpalett</string>
+	<key>🦦</key>
+	<string>utter</string>
+	<key>🚧</key>
+	<string>byggskylt</string>
+	<key>🎩</key>
+	<string>cylinderhatt</string>
+	<key>🦧</key>
+	<string>orangutang</string>
+	<key>🚨</key>
+	<string>polisbilsljus</string>
+	<key>➡️</key>
+	<string>högerpil</string>
+	<key>🎪</key>
+	<string>cirkustält</string>
+	<key>🦨</key>
+	<string>skunk</string>
+	<key>🚩</key>
+	<string>triangulär flagga på stång</string>
+	<key>🎫</key>
+	<string>biljett</string>
+	<key>🦩</key>
+	<string>flamingo</string>
+	<key>🚪</key>
+	<string>dörr</string>
+	<key>🦸‍♀️</key>
+	<string>kvinna som är superhjälte</string>
+	<key>🎬</key>
+	<string>klappa</string>
+	<key>🦪</key>
+	<string>ostron</string>
+	<key>🚫</key>
+	<string>förbjudet</string>
+	<key>🎖️</key>
+	<string>militär medalj</string>
+	<key>🎭</key>
+	<string>dans och teater</string>
+	<key>🦫</key>
+	<string>bäver</string>
+	<key>🚬</key>
+	<string>cigarett</string>
+	<key>🎮</key>
+	<string>handkontroll för videospel</string>
+	<key>🦬</key>
+	<string>bison</string>
+	<key>🚭</key>
+	<string>rökning förbjuden-skylt</string>
+	<key>🎯</key>
+	<string>mitt i prick</string>
+	<key>🦭</key>
+	<string>säl</string>
+	<key>🚮</key>
+	<string>lägg skräp i papperskorgen-skylt</string>
+	<key>☺️</key>
+	<string>leende ansikte</string>
+	<key>🎰</key>
+	<string>enarmad bandit</string>
+	<key>🦮</key>
+	<string>ledarhund</string>
+	<key>🚯</key>
+	<string>nedskräpning förbjudet</string>
+	<key>⚒️</key>
+	<string>hammare och hacka</string>
+	<key>🎱</key>
+	<string>biljard</string>
+	<key>🦯</key>
+	<string>vit käpp</string>
+	<key>🚰</key>
+	<string>vattenkran</string>
+	<key>🧑‍🎄</key>
+	<string>Könsneutral tomte</string>
+	<key>⛪️</key>
+	<string>kyrka</string>
+	<key>🎲</key>
+	<string>tärning</string>
+	<key>🤵‍♀️</key>
+	<string>kvinna i smoking</string>
+	<key>⌛️</key>
+	<string>timglas</string>
+	<key>🏋️‍♂️</key>
+	<string>man som är tyngdlyftare</string>
+	<key>🚱</key>
+	<string>ej drickbart vatten</string>
+	<key>🎳</key>
+	<string>bowlingklot och käglor</string>
+	<key>👯‍♂️</key>
+	<string>dansande män med kaninöron</string>
+	<key>👨‍🚀</key>
+	<string>man som är astronaut</string>
+	<key>🚲</key>
+	<string>cykel</string>
+	<key>🎴</key>
+	<string>blomspelkort</string>
+	<key>🚳</key>
+	<string>cyklar förbjudna</string>
+	<key>👩‍👦‍👦</key>
+	<string>familj med mamma och två söner</string>
+	<key>🎵</key>
+	<string>musiknot</string>
+	<key>👨‍🤝‍👨</key>
+	<string>män som håller hand</string>
+	<key>🚴</key>
+	<string>cyklist</string>
+	<key>🎶</key>
+	<string>musiknoter</string>
+	<key>🦴</key>
+	<string>skelettben</string>
+	<key>🚵</key>
+	<string>mountainbikecyklist</string>
+	<key>🎷</key>
+	<string>saxofon</string>
+	<key>🦵</key>
+	<string>ben</string>
+	<key>🚶</key>
+	<string>fotgängare</string>
+	<key>🎸</key>
+	<string>gitarr</string>
+	<key>🦶</key>
+	<string>fot</string>
+	<key>🚷</key>
+	<string>gångtrafik förbjuden</string>
+	<key>🎹</key>
+	<string>klaviatur</string>
+	<key>🦷</key>
+	<string>tand</string>
+	<key>🚸</key>
+	<string>barn som går över gatan</string>
+	<key>🎺</key>
+	<string>trumpet</string>
+	<key>🦸</key>
+	<string>superhjälte</string>
+	<key>🚹</key>
+	<string>manssymbol</string>
+	<key>🎻</key>
+	<string>violin</string>
+	<key>🦹</key>
+	<string>superskurk</string>
+	<key>🚺</key>
+	<string>kvinnosymbol</string>
+	<key>🎼</key>
+	<string>partitur</string>
+	<key>🦺</key>
+	<string>säkerhetsväst</string>
+	<key>🚻</key>
+	<string>toalett</string>
+	<key>🎽</key>
+	<string>löptröja</string>
+	<key>🦻</key>
+	<string>öra med hörapparat</string>
+	<key>🚼</key>
+	<string>bebissymbol</string>
+	<key>🎾</key>
+	<string>tennisboll</string>
+	<key>🦼</key>
+	<string>motordriven rullstol</string>
+	<key>🚽</key>
+	<string>toalett</string>
+	<key>🎿</key>
+	<string>skidor</string>
+	<key>🦽</key>
+	<string>manuell rullstol</string>
+	<key>🚾</key>
+	<string>WC-tecken</string>
+	<key>🏀</key>
+	<string>basketboll</string>
+	<key>🦾</key>
+	<string>armprotes</string>
+	<key>🙅‍♂️</key>
+	<string>man som gestikulerar nej</string>
+	<key>🚿</key>
+	<string>dusch</string>
+	<key>🏁</key>
+	<string>rutig flagga</string>
+	<key>🦿</key>
+	<string>benprotes</string>
+	<key>🛀</key>
+	<string>person som badar</string>
+	<key>🏂</key>
+	<string>snowboardåkare</string>
+	<key>🧀</key>
+	<string>ostbit</string>
+	<key>🛁</key>
+	<string>badkar</string>
+	<key>🚣‍♂️</key>
+	<string>man som ror en båt</string>
+	<key>🏃</key>
+	<string>löpare</string>
+	<key>🧁</key>
+	<string>muffins</string>
+	<key>🛂</key>
+	<string>passkontroll</string>
+	<key>🏄</key>
+	<string>surfare</string>
+	<key>🧂</key>
+	<string>salt</string>
+	<key>🛃</key>
+	<string>tull</string>
+	<key>🏅</key>
+	<string>sportmedalj</string>
+	<key>🧃</key>
+	<string>juicekartong</string>
+	<key>🛄</key>
+	<string>bagageutlämning</string>
+	<key>🏆</key>
+	<string>trofé</string>
+	<key>🧄</key>
+	<string>vitlök</string>
+	<key>🛅</key>
+	<string>kvarglömt bagage</string>
+	<key>🏇</key>
+	<string>jockey på kapplöpningshäst</string>
+	<key>🧅</key>
+	<string>lök</string>
+	<key>✴️</key>
+	<string>åttauddig stjärna</string>
+	<key>🖼️</key>
+	<string>ram med bild</string>
+	<key>🏈</key>
+	<string>Amerikansk fotboll</string>
+	<key>🧆</key>
+	<string>falafel</string>
+	<key>🏉</key>
+	<string>rugby-fotboll</string>
+	<key>🧇</key>
+	<string>våffla</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>familj med två pappor, son och dotter</string>
+	<key>🏊</key>
+	<string>simmare</string>
+	<key>🧈</key>
+	<string>smör</string>
+	<key>🧑‍⚖️</key>
+	<string>domare</string>
+	<key>3️⃣</key>
+	<string>tangent med siffran tre</string>
+	<key>🧉</key>
+	<string>maté</string>
+	<key>🧊</key>
+	<string>is</string>
+	<key>🧋</key>
+	<string>bubbelte</string>
+	<key>🛌</key>
+	<string>person som sover</string>
+	<key>🧛‍♂️</key>
+	<string>man som är vampyr</string>
+	<key>🧌</key>
+	<string>troll</string>
+	<key>🏏</key>
+	<string>slagträ och boll</string>
+	<key>🧍</key>
+	<string>person som står</string>
+	<key>🏐</key>
+	<string>volleyboll</string>
+	<key>🧎</key>
+	<string>person på knä</string>
+	<key>🏑</key>
+	<string>landhockeyklubba och boll</string>
+	<key>🧏</key>
+	<string>Döv person</string>
+	<key>🛐</key>
+	<string>religiös samlingsplats</string>
+	<key>🏒</key>
+	<string>ishockeyklubba och puck</string>
+	<key>🧐</key>
+	<string>ansikte med monokel</string>
+	<key>🛑</key>
+	<string>åttkantig skylt</string>
+	<key>🏓</key>
+	<string>bordtennisracket och boll</string>
+	<key>🧑</key>
+	<string>vuxen</string>
+	<key>🛒</key>
+	<string>kundvagn</string>
+	<key>🧒</key>
+	<string>barn</string>
+	<key>🧓</key>
+	<string>äldre person</string>
+	<key>🎚️</key>
+	<string>reglage</string>
+	<key>🧔</key>
+	<string>person med skägg</string>
+	<key>🛕</key>
+	<string>hindutempel</string>
+	<key>🧕</key>
+	<string>kvinna i slöja</string>
+	<key>🛖</key>
+	<string>hydda</string>
+	<key>🧖</key>
+	<string>person i en bastu</string>
+	<key>🛗</key>
+	<string>hiss</string>
+	<key>🧗</key>
+	<string>bergsklättrare</string>
+	<key>🧘</key>
+	<string>person i lotusposition</string>
+	<key>🧙</key>
+	<string>magiker</string>
+	<key>🧚</key>
+	<string>älva</string>
+	<key>👩‍💻</key>
+	<string>kvinna som är teknolog</string>
+	<key>🧛</key>
+	<string>vampyr</string>
+	<key>🛜</key>
+	<string>symbol för trådlöst</string>
+	<key>🧜</key>
+	<string>vattuperson</string>
+	<key>🛝</key>
+	<string>rutschkana</string>
+	<key>🧝</key>
+	<string>alv</string>
+	<key>🛞</key>
+	<string>hjul</string>
+	<key>👨‍⚖️</key>
+	<string>man som är domare</string>
+	<key>🏠</key>
+	<string>hus</string>
+	<key>🧞</key>
+	<string>djinn</string>
+	<key>↘️</key>
+	<string>nedåtpekande högerpil</string>
+	<key>🛟</key>
+	<string>livboj</string>
+	<key>🏡</key>
+	<string>hus med trädgård</string>
+	<key>🧟</key>
+	<string>zombie</string>
+	<key>🤸‍♀️</key>
+	<string>kvinna som hjular</string>
+	<key>🏢</key>
+	<string>kontorsbyggnad</string>
+	<key>🧠</key>
+	<string>hjärna</string>
+	<key>🏣</key>
+	<string>Japanskt postkontor</string>
+	<key>🧡</key>
+	<string>orangefärgat hjärta</string>
+	<key>👩‍💼</key>
+	<string>kvinna som är kontorsarbetare</string>
+	<key>🏤</key>
+	<string>Europeiskt postkontor</string>
+	<key>🧢</key>
+	<string>keps</string>
+	<key>🏥</key>
+	<string>sjukhus</string>
+	<key>🧣</key>
+	<string>halsduk</string>
+	<key>🏦</key>
+	<string>bank</string>
+	<key>🧤</key>
+	<string>handskar</string>
+	<key>🏧</key>
+	<string>bankomatskylt</string>
+	<key>🧥</key>
+	<string>kappa</string>
+	<key>👷‍♀️</key>
+	<string>kvinna som är byggarbetare</string>
+	<key>🏨</key>
+	<string>hotell</string>
+	<key>🧦</key>
+	<string>sockor</string>
+	<key>🏩</key>
+	<string>kärlekshotell</string>
+	<key>🧧</key>
+	<string>rött presentkuvert</string>
+	<key>ℹ️</key>
+	<string>informationskälla</string>
+	<key>🏪</key>
+	<string>jourbutik</string>
+	<key>🧨</key>
+	<string>smällare</string>
+	<key>🏫</key>
+	<string>skola</string>
+	<key>🧩</key>
+	<string>pusselbit</string>
+	<key>🏬</key>
+	<string>varuhus</string>
+	<key>🧪</key>
+	<string>provrör</string>
+	<key>🛫</key>
+	<string>flygplan som lyfter</string>
+	<key>🛳️</key>
+	<string>passagerarfärja</string>
+	<key>🏭</key>
+	<string>fabrik</string>
+	<key>🧫</key>
+	<string>petriskål</string>
+	<key>🛬</key>
+	<string>flygplan som landar</string>
+	<key>♨️</key>
+	<string>varm källa</string>
+	<key>🏮</key>
+	<string>izakaya-lampa</string>
+	<key>🧬</key>
+	<string>DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>familj med mamma, pappa och son</string>
+	<key>🏯</key>
+	<string>Japanskt slott</string>
+	<key>🧭</key>
+	<string>kompass</string>
+	<key>🧏‍♀️</key>
+	<string>Döv kvinna</string>
+	<key>🏰</key>
+	<string>europeiskt slott</string>
+	<key>🧮</key>
+	<string>kulram</string>
+	<key>🧯</key>
+	<string>brandsläckare</string>
+	<key>⏹️</key>
+	<string>stoppsymbol</string>
+	<key>🧰</key>
+	<string>verktygslåda</string>
+	<key>🧱</key>
+	<string>tegelstenar</string>
+	<key>🏴</key>
+	<string>svart flagga</string>
+	<key>🧲</key>
+	<string>magnet</string>
+	<key>🙍‍♀️</key>
+	<string>kvinna med hängande huvud</string>
+	<key>🧳</key>
+	<string>bagage</string>
+	<key>🛴</key>
+	<string>skoter</string>
+	<key>🧴</key>
+	<string>lotionflaska</string>
+	<key>🛵</key>
+	<string>motordriven skoter</string>
+	<key>👨‍👦</key>
+	<string>familj med pappa och son</string>
+	<key>🧵</key>
+	<string>trådrulle</string>
+	<key>💆‍♂️</key>
+	<string>man som får en huvudmassage</string>
+	<key>🛶</key>
+	<string>kanot</string>
+	<key>🏸</key>
+	<string>badmintonracket och badmintonboll</string>
+	<key>🧶</key>
+	<string>garn</string>
+	<key>🛷</key>
+	<string>släde</string>
+	<key>🏹</key>
+	<string>pil och båge</string>
+	<key>🧷</key>
+	<string>säkerhetsnål</string>
+	<key>🛸</key>
+	<string>UFO</string>
+	<key>🏺</key>
+	<string>amfora</string>
+	<key>🧸</key>
+	<string>nallebjörn</string>
+	<key>🛹</key>
+	<string>skateboard</string>
+	<key>🧹</key>
+	<string>kvast</string>
+	<key>🛺</key>
+	<string>automatisk riksha</string>
+	<key>⏲️</key>
+	<string>timer</string>
+	<key>🧺</key>
+	<string>korg</string>
+	<key>🛻</key>
+	<string>pickup</string>
+	<key>🧻</key>
+	<string>pappersrulle</string>
+	<key>🛼</key>
+	<string>rullskridsko</string>
+	<key>👨‍👧</key>
+	<string>familj med pappa och dotter</string>
+	<key>🧼</key>
+	<string>tvål</string>
+	<key>🧞‍♂️</key>
+	<string>manlig djinn</string>
+	<key>🧽</key>
+	<string>svamp</string>
+	<key>🎞️</key>
+	<string>filmbildrutor</string>
+	<key>🧾</key>
+	<string>kvitto</string>
+	<key>▪️</key>
+	<string>liten svart kvadrat</string>
+	<key>🧿</key>
+	<string>nazar-amulett</string>
+	<key>☂️</key>
+	<string>paraply</string>
+	<key>🗂️</key>
+	<string>kortindexavdelare</string>
+	<key>🦹‍♂️</key>
+	<string>man som är superskurk</string>
+	<key>🏋️</key>
+	<string>tyngdlyftare</string>
+	<key>◻️</key>
+	<string>medelstor vit kvadrat</string>
+	<key>♓️</key>
+	<string>Fiskarna</string>
+	<key>⚫️</key>
+	<string>svart cirkel</string>
+	<key>⏩</key>
+	<string>framåtspolningssymbol</string>
+	<key>⏪</key>
+	<string>bakåtspolningssymbol</string>
+	<key>⏫</key>
+	<string>uppåtpekande dubbla trianglar</string>
+	<key>⏬</key>
+	<string>nedåtpekande dubbla trianglar</string>
+	<key>🗯️</key>
+	<string>arg pratbubbla</string>
+	<key>⏰</key>
+	<string>väckarklocka</string>
+	<key>⏳</key>
+	<string>timglas med rinnande sand</string>
+	<key>🧑‍🎓</key>
+	<string>elev</string>
+	<key>🧑‍🚒</key>
+	<string>brandsoldat</string>
+	<key>♌️</key>
+	<string>Lejonet</string>
+	<key>🗄️</key>
+	<string>dokumentskåp</string>
+	<key>🧍‍♂️</key>
+	<string>man som står</string>
+	<key>🏍️</key>
+	<string>motorcykel</string>
+	<key>🙋‍♂️</key>
+	<string>man som räcker upp en hand</string>
+	<key>👨‍👩‍👧</key>
+	<string>familj med mamma, pappa och dotter</string>
+	<key>🇸🇦</key>
+	<string>saudiarabisk flagga</string>
+	<key>⛵️</key>
+	<string>segelbåt</string>
+	<key>👩‍🏫</key>
+	<string>kvinna som är lärare</string>
+	<key>⬜️</key>
+	<string>stor vit kvadrat</string>
+	<key>🇸🇧</key>
+	<string>Salomonöarnas flagga</string>
+	<key>🇬🇦</key>
+	<string>gabonsk flagga</string>
+	<key>🇨🇦</key>
+	<string>kanadensisk flagga</string>
+	<key>🇸🇨</key>
+	<string>Seychellernas flagga</string>
+	<key>🇬🇧</key>
+	<string>Storbritanniens flagga</string>
+	<key>👨‍🎓</key>
+	<string>man som är student</string>
+	<key>👨‍🚒</key>
+	<string>man som är brandsoldat</string>
+	<key>⚖️</key>
+	<string>våg</string>
+	<key>🇸🇩</key>
+	<string>sudansk flagga</string>
+	<key>🇨🇨</key>
+	<string>Kokosöarnas flagga</string>
+	<key>⏏️</key>
+	<string>utmatningssymbol</string>
+	<key>🇸🇪</key>
+	<string>svensk flagga</string>
+	<key>🇬🇩</key>
+	<string>Grenadas flagga</string>
+	<key>👩‍🏭</key>
+	<string>kvinna som är fabriksarbetare</string>
+	<key>🇼🇫</key>
+	<string>Wallis- och Futunaöarnas flagga</string>
+	<key>🇨🇩</key>
+	<string>Demokratiska republiken Kongos flagga</string>
+	<key>🇰🇪</key>
+	<string>kenyansk flagga</string>
+	<key>🛎️</key>
+	<string>ringklocka</string>
+	<key>🇬🇪</key>
+	<string>georgisk flagga</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>familj med två mammor, son och dotter</string>
+	<key>🇸🇬</key>
+	<string>singaporiansk flagga</string>
+	<key>🇬🇫</key>
+	<string>Franska Guyanas flagga</string>
+	<key>🇨🇫</key>
+	<string>Centralafrikanska republikens flagga</string>
+	<key>🇰🇬</key>
+	<string>kirgizistansk flagga</string>
+	<key>🗳️</key>
+	<string>valurna med röstsedel</string>
+	<key>🇸🇭</key>
+	<string>Sankta Helenas flagga</string>
+	<key>🇬🇬</key>
+	<string>Guernseys flagga</string>
+	<key>🧑‍⚕️</key>
+	<string>hälsovårdsarbetare</string>
+	<key>🏃‍♀️</key>
+	<string>kvinna som är löpare</string>
+	<key>🇨🇬</key>
+	<string>Republiken Kongos flagga</string>
+	<key>🇰🇭</key>
+	<string>kambodjansk flagga</string>
+	<key>🤹‍♂️</key>
+	<string>man som jonglerar</string>
+	<key>🇸🇮</key>
+	<string>slovensk flagga</string>
+	<key>🇬🇭</key>
+	<string>ghanansk flagga</string>
+	<key>〽️</key>
+	<string>delalterneringstecken</string>
+	<key>🇨🇭</key>
+	<string>schweizisk flagga</string>
+	<key>🇰🇮</key>
+	<string>kiribatisk flagga</string>
+	<key>🇸🇯</key>
+	<string>flaggan för Svalbard och Jan Mayen</string>
+	<key>🕰️</key>
+	<string>pendyl</string>
+	<key>8️⃣</key>
+	<string>tangent med siffran åtta</string>
+	<key>🇬🇮</key>
+	<string>Gibraltars flagga</string>
+	<key>🤾‍♀️</key>
+	<string>kvinna som spelar handboll</string>
+	<key>🇨🇮</key>
+	<string>Côte d’Ivoires flagga</string>
+	<key>⬇️</key>
+	<string>nedåtpil</string>
+	<key>👩‍✈️</key>
+	<string>kvinna som är pilot</string>
+	<key>👩‍👧‍👦</key>
+	<string>familj med mamma, son och dotter</string>
+	<key>🇸🇰</key>
+	<string>slovakisk flagga</string>
+	<key>🌡️</key>
+	<string>termometer</string>
+	<key>↪️</key>
+	<string>vänsterpil böjd åt höger</string>
+	<key>🇸🇱</key>
+	<string>Sierra Leones flagga</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>två män som kysser</string>
+	<key>🇨🇰</key>
+	<string>Cooköarnas flagga</string>
+	<key>🇸🇲</key>
+	<string>san marinsk flagga</string>
+	<key>🇬🇱</key>
+	<string>grönländsk flagga</string>
+	<key>🇴🇲</key>
+	<string>omansk flagga</string>
+	<key>🇨🇱</key>
+	<string>chilensk flagga</string>
+	<key>🇰🇲</key>
+	<string>komoransk flagga</string>
+	<key>🇸🇳</key>
+	<string>senegalesisk flagga</string>
+	<key>🇬🇲</key>
+	<string>gambiansk flagga</string>
+	<key>1️⃣</key>
+	<string>tangent med siffran ett</string>
+	<key>Ⓜ️</key>
+	<string>M i cirkel</string>
+	<key>🇨🇲</key>
+	<string>kamerunsk flagga</string>
+	<key>👨‍⚕️</key>
+	<string>man som är hälsovårdsarbetare</string>
+	<key>🙎‍♂️</key>
+	<string>man som plutar</string>
+	<key>🇰🇳</key>
+	<string>S:t Kitts och Nevis flagga</string>
+	<key>🇸🇴</key>
+	<string>somalisk flagga</string>
+	<key>🇬🇳</key>
+	<string>Guineas flagga</string>
+	<key>🇨🇳</key>
+	<string>kinesisk flagga</string>
+	<key>☢️</key>
+	<string>radioaktiv</string>
+	<key>🇨🇴</key>
+	<string>colombiansk flagga</string>
+	<key>‼️</key>
+	<string>rött dubbelt utropstecken</string>
+	<key>🃏</key>
+	<string>joker</string>
+	<key>🇰🇵</key>
+	<string>nordkoreansk flagga</string>
+	<key>🇬🇵</key>
+	<string>Guadeloupes flagga</string>
+	<key>㊗️</key>
+	<string>Japanskt tecken som betyder ”grattis”</string>
+	<key>🐿️</key>
+	<string>ekorre</string>
+	<key>🇨🇵</key>
+	<string>Clippertonöns flagga</string>
+	<key>🇸🇷</key>
+	<string>surinamsk flagga</string>
+	<key>🏳️‍⚧️</key>
+	<string>transgenderflagga</string>
+	<key>🇬🇶</key>
+	<string>Ekvatorialguineas flagga</string>
+	<key>🇼🇸</key>
+	<string>samoansk flagga</string>
+	<key>*️⃣</key>
+	<string>tangent med asterisk</string>
+	<key>🇰🇷</key>
+	<string>sydkoreansk flagga</string>
+	<key>🇸🇸</key>
+	<string>sydsudansk flagga</string>
+	<key>🇬🇷</key>
+	<string>grekisk flagga</string>
+	<key>🇨🇷</key>
+	<string>costaricansk flagga</string>
+	<key>®️</key>
+	<string>registrerattecken</string>
+	<key>🇸🇹</key>
+	<string>São Tomé och Príncipes flagga</string>
+	<key>🇬🇸</key>
+	<string>Sydgeorgien och Södra Sandwichöarnas flagga</string>
+	<key>↕️</key>
+	<string>upp- och nedåtpil</string>
+	<key>🇬🇹</key>
+	<string>Guatemalas flagga</string>
+	<key>☔️</key>
+	<string>paraply med regndroppar</string>
+	<key>🏳️‍🌈</key>
+	<string>regnbågsflagga</string>
+	<key>🇸🇻</key>
+	<string>El Salvadors flagga</string>
+	<key>🕴️</key>
+	<string>man i kostym som svävar</string>
+	<key>⛄️</key>
+	<string>snögubbe</string>
+	<key>🇬🇺</key>
+	<string>Guams flagga</string>
+	<key>🇨🇺</key>
+	<string>kubansk flagga</string>
+	<key>#️⃣</key>
+	<string>nummertecken</string>
+	<key>🤼‍♂️</key>
+	<string>män som brottas</string>
+	<key>🌥️</key>
+	<string>sol bakom stort moln</string>
+	<key>👁️</key>
+	<string>öga</string>
+	<key>🇨🇻</key>
+	<string>Kap Verdes flagga</string>
+	<key>🍽️</key>
+	<string>kniv och gaffel med tallrik</string>
+	<key>🇰🇼</key>
+	<string>kuwaitisk flagga</string>
+	<key>🇸🇽</key>
+	<string>Sint Maartens flagga</string>
+	<key>🇬🇼</key>
+	<string>Guinea-Bissaus flagga</string>
+	<key>🏕️</key>
+	<string>camping</string>
+	<key>🩰</key>
+	<string>balettskor</string>
+	<key>🇨🇼</key>
+	<string>Curaçaos flagga</string>
+	<key>🩱</key>
+	<string>baddräkt i ett stycke</string>
+	<key>🇸🇾</key>
+	<string>syrisk flagga</string>
+	<key>♥️</key>
+	<string>hjärter</string>
+	<key>🩲</key>
+	<string>underbyxor</string>
+	<key>🕉️</key>
+	<string>om-symbol</string>
+	<key>⚽️</key>
+	<string>fotboll</string>
+	<key>🩳</key>
+	<string>shorts</string>
+	<key>🇨🇽</key>
+	<string>Julöns flagga</string>
+	<key>🩴</key>
+	<string>sandal</string>
+	<key>🇰🇾</key>
+	<string>Caymanöarnas flagga</string>
+	<key>🇸🇿</key>
+	<string>Eswatini-flagga</string>
+	<key>🩵</key>
+	<string>ljusblått hjärta</string>
+	<key>👩‍👧‍👧</key>
+	<string>familj med mamma och två döttrar</string>
+	<key>🇬🇾</key>
+	<string>guyansk flagga</string>
+	<key>🩶</key>
+	<string>grått hjärta</string>
+	<key>🩷</key>
+	<string>rosa hjärta</string>
+	<key>🇨🇾</key>
+	<string>cypriotisk flagga</string>
+	<key>🇰🇿</key>
+	<string>kazakstansk flagga</string>
+	<key>🩸</key>
+	<string>bloddroppe</string>
+	<key>🩹</key>
+	<string>självhäftande bandage</string>
+	<key>🩺</key>
+	<string>stetoskop</string>
+	<key>🇨🇿</key>
+	<string>tjeckisk flagga</string>
+	<key>🩻</key>
+	<string>röntgenbild</string>
+	<key>🩼</key>
+	<string>krycka</string>
+	<key>🕶️</key>
+	<string>solglasögon</string>
+	<key>🧘‍♀️</key>
+	<string>kvinna i lotusposition</string>
+	<key>⏯️</key>
+	<string>symbol för att spela upp/pausa</string>
+	<key>🪀</key>
+	<string>jojo</string>
+	<key>🌧️</key>
+	<string>moln med regn</string>
+	<key>🪁</key>
+	<string>drake</string>
+	<key>🪂</key>
+	<string>fallskärm</string>
+	<key>🧑‍🎤</key>
+	<string>sångare</string>
+	<key>🪃</key>
+	<string>bumerang</string>
+	<key>🪄</key>
+	<string>trollstav</string>
+	<key>🏗️</key>
+	<string>byggnadskonstruktion</string>
+	<key>🪅</key>
+	<string>piñata</string>
+	<key>🪆</key>
+	<string>ryska dockor</string>
+	<key>🚴‍♀️</key>
+	<string>kvinna som är cyklist</string>
+	<key>🪇</key>
+	<string>maracas</string>
+	<key>🐀</key>
+	<string>råtta</string>
+	<key>🪈</key>
+	<string>flöjt</string>
+	<key>🐁</key>
+	<string>mus</string>
+	<key>🐂</key>
+	<string>oxe</string>
+	<key>🐃</key>
+	<string>vattenbuffel</string>
+	<key>🐄</key>
+	<string>ko</string>
+	<key>🅱️</key>
+	<string>blodgrupp B</string>
+	<key>🐅</key>
+	<string>tiger</string>
+	<key>🐆</key>
+	<string>leopard</string>
+	<key>🐇</key>
+	<string>kanin</string>
+	<key>🐈</key>
+	<string>katt</string>
+	<key>🪐</key>
+	<string>planet</string>
+	<key>♐️</key>
+	<string>Skytten</string>
+	<key>🐉</key>
+	<string>drake</string>
+	<key>🪑</key>
+	<string>stol</string>
+	<key>🕸️</key>
+	<string>spindelnät</string>
+	<key>🐊</key>
+	<string>krokodil</string>
+	<key>🪒</key>
+	<string>rakhyvel</string>
+	<key>👩‍🍳</key>
+	<string>kvinna som är kock</string>
+	<key>🐋</key>
+	<string>val</string>
+	<key>👯‍♀️</key>
+	<string>dansande kvinnor med kaninöron</string>
+	<key>🪓</key>
+	<string>yxa</string>
+	<key>🐌</key>
+	<string>snigel</string>
+	<key>🪔</key>
+	<string>oljelampa</string>
+	<key>🐍</key>
+	<string>orm</string>
+	<key>🪕</key>
+	<string>banjo</string>
+	<key>🏄‍♂️</key>
+	<string>man som är surfare</string>
+	<key>🌩️</key>
+	<string>moln med blixt</string>
+	<key>🐎</key>
+	<string>häst</string>
+	<key>🪖</key>
+	<string>militärhjälm</string>
+	<key>🐏</key>
+	<string>bock</string>
+	<key>🪗</key>
+	<string>dragspel</string>
+	<key>🐐</key>
+	<string>get</string>
+	<key>🪘</key>
+	<string>lång trumma</string>
+	<key>👨‍🎤</key>
+	<string>man som är sångare</string>
+	<key>🏙️</key>
+	<string>stadsbild</string>
+	<key>🐑</key>
+	<string>får</string>
+	<key>🪙</key>
+	<string>mynt</string>
+	<key>🐒</key>
+	<string>apa</string>
+	<key>🪚</key>
+	<string>handsåg</string>
+	<key>♉️</key>
+	<string>Oxen</string>
+	<key>🐓</key>
+	<string>tupp</string>
+	<key>🪛</key>
+	<string>skruvmejsel</string>
+	<key>⚡️</key>
+	<string>blixt</string>
+	<key>🐔</key>
+	<string>höna</string>
+	<key>🪜</key>
+	<string>stege</string>
+	<key>⛹️</key>
+	<string>basketbollspelare</string>
+	<key>🖥️</key>
+	<string>stationär dator</string>
+	<key>🐕</key>
+	<string>hund</string>
+	<key>🪝</key>
+	<string>krok</string>
+	<key>🧑‍🎨</key>
+	<string>konstnär</string>
+	<key>🐖</key>
+	<string>gris</string>
+	<key>🪞</key>
+	<string>spegel</string>
+	<key>🐗</key>
+	<string>vildsvin</string>
+	<key>🪟</key>
+	<string>fönster</string>
+	<key>🐘</key>
+	<string>elefant</string>
+	<key>🙅‍♀️</key>
+	<string>kvinna som gestikulerar nej</string>
+	<key>🪠</key>
+	<string>vaskrensare</string>
+	<key>🐙</key>
+	<string>bläckfisk</string>
+	<key>🪡</key>
+	<string>synål</string>
+	<key>🐚</key>
+	<string>snäckskal</string>
+	<key>🪢</key>
+	<string>knop</string>
+	<key>🚣‍♀️</key>
+	<string>kvinna som ror en båt</string>
+	<key>🐛</key>
+	<string>insekt</string>
+	<key>🪣</key>
+	<string>hink</string>
+	<key>🐜</key>
+	<string>myra</string>
+	<key>🪤</key>
+	<string>musfälla</string>
+	<key>🐝</key>
+	<string>bi</string>
+	<key>🪥</key>
+	<string>tandborste</string>
+	<key>🐞</key>
+	<string>nyckelpiga</string>
+	<key>🪦</key>
+	<string>gravsten</string>
+	<key>⛲️</key>
+	<string>fontän</string>
+	<key>🐟</key>
+	<string>fisk</string>
+	<key>🪧</key>
+	<string>skylt</string>
+	<key>🐠</key>
+	<string>tropisk fisk</string>
+	<key>🗒️</key>
+	<string>spiralbundet anteckningsblock</string>
+	<key>🪨</key>
+	<string>sten</string>
+	<key>🐡</key>
+	<string>blåsfisk</string>
+	<key>🪩</key>
+	<string>spegelboll</string>
+	<key>🧖‍♂️</key>
+	<string>man i en bastu</string>
+	<key>🌫️</key>
+	<string>dimma</string>
+	<key>🐢</key>
+	<string>sköldpadda</string>
+	<key>🪪</key>
+	<string>ID-kort</string>
+	<key>🐣</key>
+	<string>kyckling som kläcks</string>
+	<key>🪫</key>
+	<string>låg batterinivå</string>
+	<key>🐤</key>
+	<string>kyckling</string>
+	<key>🪬</key>
+	<string>hamsa</string>
+	<key>🐥</key>
+	<string>stående kyckling</string>
+	<key>😶‍🌫️</key>
+	<string>ansikte i moln</string>
+	<key>🏛️</key>
+	<string>klassisk byggnad</string>
+	<key>🪭</key>
+	<string>hopfällbar solfjäder</string>
+	<key>🐦</key>
+	<string>fågel</string>
+	<key>🧛‍♀️</key>
+	<string>kvinna som är vampyr</string>
+	<key>🪮</key>
+	<string>afrokam</string>
+	<key>🐧</key>
+	<string>pingvin</string>
+	<key>🪯</key>
+	<string>khandasymbol</string>
+	<key>🐨</key>
+	<string>koalaansikte</string>
+	<key>⚓️</key>
+	<string>ankare</string>
+	<key>🪰</key>
+	<string>fluga</string>
+	<key>🐩</key>
+	<string>pudel</string>
+	<key>🪱</key>
+	<string>mask</string>
+	<key>🐪</key>
+	<string>dromedar</string>
+	<key>🪲</key>
+	<string>skalbagge</string>
+	<key>👨‍🎨</key>
+	<string>man som är konstnär</string>
+	<key>🐫</key>
+	<string>kamel</string>
+	<key>🪳</key>
+	<string>kackerlacka</string>
+	<key>🐬</key>
+	<string>delfin</string>
+	<key>🪴</key>
+	<string>krukväxt</string>
+	<key>🐭</key>
+	<string>musansikte</string>
+	<key>🪵</key>
+	<string>trä</string>
+	<key>🐮</key>
+	<string>koansikte</string>
+	<key>🪶</key>
+	<string>fjäder</string>
+	<key>🐯</key>
+	<string>tigeransikte</string>
+	<key>🪷</key>
+	<string>lotus</string>
+	<key>🐕‍🦺</key>
+	<string>servicehund</string>
+	<key>🐰</key>
+	<string>kaninansikte</string>
+	<key>🪸</key>
+	<string>korall</string>
+	<key>🐱</key>
+	<string>kattansikte</string>
+	<key>🪹</key>
+	<string>tomt fågelbo</string>
+	<key>🐲</key>
+	<string>drakhuvud</string>
+	<key>🪺</key>
+	<string>fågelbo med ägg</string>
+	<key>🐳</key>
+	<string>sprutande val</string>
+	<key>🪻</key>
+	<string>hyacint</string>
+	<key>🐴</key>
+	<string>hästhuvud</string>
+	<key>🪼</key>
+	<string>manet</string>
+	<key>🐵</key>
+	<string>apansikte</string>
+	<key>🪽</key>
+	<string>vinge</string>
+	<key>🐶</key>
+	<string>hundansikte</string>
+	<key>🐷</key>
+	<string>grisansikte</string>
+	<key>🪿</key>
+	<string>gås</string>
+	<key>🐸</key>
+	<string>grodansikte</string>
+	<key>🫀</key>
+	<string>anatomiskt hjärta</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>engelsk flagga</string>
+	<key>🐹</key>
+	<string>hamsteransikte</string>
+	<key>🫁</key>
+	<string>lungor</string>
+	<key>🐺</key>
+	<string>varg</string>
+	<key>🏝️</key>
+	<string>öde ö</string>
+	<key>🫂</key>
+	<string>personer som kramas</string>
+	<key>🐻</key>
+	<string>björnansikte</string>
+	<key>🏌️‍♂️</key>
+	<string>man som är golfspelare</string>
+	<key>🫃</key>
+	<string>gravid man</string>
+	<key>🐼</key>
+	<string>pandaansikte</string>
+	<key>🫄</key>
+	<string>gravid person</string>
+	<key>6️⃣</key>
+	<string>tangent med siffran sex</string>
+	<key>🐽</key>
+	<string>gristryne</string>
+	<key>🫅</key>
+	<string>person med krona</string>
+	<key>🐾</key>
+	<string>tassavtryck</string>
+	<key>👀</key>
+	<string>ögon</string>
+	<key>👂</key>
+	<string>öra</string>
+	<key>👃</key>
+	<string>näsa</string>
+	<key>👄</key>
+	<string>mun</string>
+	<key>👅</key>
+	<string>tunga</string>
+	<key>☦️</key>
+	<string>Ortodoxt kors</string>
+	<key>👆</key>
+	<string>handrygg med pekfingret uppåt</string>
+	<key>👩‍🍼</key>
+	<string>kvinna som matar en bebis</string>
+	<key>🫎</key>
+	<string>älgansikte</string>
+	<key>♾️</key>
+	<string>oändlighet</string>
+	<key>👇</key>
+	<string>handrygg med pekfingret nedåt</string>
+	<key>🫏</key>
+	<string>åsna</string>
+	<key>👈</key>
+	<string>handrygg med pekfingret åt vänster</string>
+	<key>🫐</key>
+	<string>blåbär</string>
+	<key>👉</key>
+	<string>handrygg med pekfingret åt höger</string>
+	<key>🫑</key>
+	<string>paprika</string>
+	<key>👊</key>
+	<string>knuten näve</string>
+	<key>🫒</key>
+	<string>olivgrön</string>
+	<key>⭕️</key>
+	<string>cirkelmarkering</string>
+	<key>💁‍♂️</key>
+	<string>man i informationsdisken</string>
+	<key>👋</key>
+	<string>vinkande hand</string>
+	<key>🫓</key>
+	<string>tunnbröd</string>
+	<key>👌</key>
+	<string>OK-handtecken</string>
+	<key>🫔</key>
+	<string>tamale</string>
+	<key>👍</key>
+	<string>tummen upp</string>
+	<key>🫕</key>
+	<string>fondue</string>
+	<key>👎</key>
+	<string>tummen ned</string>
+	<key>🫖</key>
+	<string>tekanna</string>
+	<key>🏟️</key>
+	<string>stadion</string>
+	<key>👏</key>
+	<string>klappande händer</string>
+	<key>🫗</key>
+	<string>hälla vätska</string>
+	<key>💆‍♀️</key>
+	<string>kvinna som får en huvudmassage</string>
+	<key>👐</key>
+	<string>öppna händer</string>
+	<key>🫘</key>
+	<string>bönor</string>
+	<key>🐦‍⬛</key>
+	<string>svart fågel</string>
+	<key>🧑‍🦯</key>
+	<string>person med vit käpp</string>
+	<key>🫙</key>
+	<string>burk</string>
+	<key>🧙‍♂️</key>
+	<string>man som är magiker</string>
+	<key>👑</key>
+	<string>krona</string>
+	<key>⛏️</key>
+	<string>hacka</string>
+	<key>👒</key>
+	<string>hatt med rosett</string>
+	<key>🫚</key>
+	<string>ingefärsrot</string>
+	<key>👓</key>
+	<string>glasögon</string>
+	<key>🫛</key>
+	<string>ärtskida</string>
+	<key>👔</key>
+	<string>skjorta och slips</string>
+	<key>👕</key>
+	<string>tenniströja</string>
+	<key>👖</key>
+	<string>jeans</string>
+	<key>🧞‍♀️</key>
+	<string>kvinnlig djinn</string>
+	<key>👗</key>
+	<string>klänning</string>
+	<key>↙️</key>
+	<string>nedåtpekande vänsterpil</string>
+	<key>🧑‍🦰</key>
+	<string>person med rött hår</string>
+	<key>🕵️‍♂️</key>
+	<string>man som är detektiv</string>
+	<key>👘</key>
+	<string>kimono</string>
+	<key>🟠</key>
+	<string>orangefärgad cirkel</string>
+	<key>🫠</key>
+	<string>ansikte som smälter</string>
+	<key>🟡</key>
+	<string>gul cirkel</string>
+	<key>👩‍❤️‍👨</key>
+	<string>man och kvinna med hjärta</string>
+	<key>👙</key>
+	<string>bikini</string>
+	<key>◀️</key>
+	<string>vänsterpekande triangel</string>
+	<key>🫡</key>
+	<string>ansikte som gör honnör</string>
+	<key>🟢</key>
+	<string>grön cirkel</string>
+	<key>👚</key>
+	<string>blus</string>
+	<key>☘️</key>
+	<string>treklöver</string>
+	<key>🫢</key>
+	<string>ansikte med öppna ögon och handen för munnen</string>
+	<key>🚵‍♂️</key>
+	<string>man som är mountainbikecyklist</string>
+	<key>🟣</key>
+	<string>lila cirkel</string>
+	<key>👛</key>
+	<string>portmonnä</string>
+	<key>🫣</key>
+	<string>ansikte med öga som kikar fram</string>
+	<key>🟤</key>
+	<string>brun cirkel</string>
+	<key>👜</key>
+	<string>handväska</string>
+	<key>⛈️</key>
+	<string>moln med blixt och regn</string>
+	<key>🫤</key>
+	<string>ansikte med diagonal mun</string>
+	<key>🟥</key>
+	<string>röd kvadrat</string>
+	<key>👝</key>
+	<string>necessär</string>
+	<key>🫥</key>
+	<string>ansikte med punkter</string>
+	<key>🟦</key>
+	<string>blå kvadrat</string>
+	<key>👞</key>
+	<string>elegant sko</string>
+	<key>🧑‍🦱</key>
+	<string>person med lockigt hår</string>
+	<key>🫦</key>
+	<string>biter sig i läppen</string>
+	<key>🟧</key>
+	<string>orangefärgad kvadrat</string>
+	<key>🦹‍♀️</key>
+	<string>kvinna som är superskurk</string>
+	<key>👟</key>
+	<string>tennissko</string>
+	<key>🫧</key>
+	<string>bubblor</string>
+	<key>🟨</key>
+	<string>gul kvadrat</string>
+	<key>❤️‍🔥</key>
+	<string>hjärta som brinner</string>
+	<key>👠</key>
+	<string>högklackad sko</string>
+	<key>🟩</key>
+	<string>grön kvadrat</string>
+	<key>🫨</key>
+	<string>skakande ansikte</string>
+	<key>👡</key>
+	<string>sandal med klack</string>
+	<key>🟪</key>
+	<string>lila kvadrat</string>
+	<key>👢</key>
+	<string>stövlar med klack</string>
+	<key>🟫</key>
+	<string>brun kvadrat</string>
+	<key>👣</key>
+	<string>fotspår</string>
+	<key>🛠️</key>
+	<string>hammare och skiftnyckel</string>
+	<key>📽️</key>
+	<string>filmprojektor</string>
+	<key>👤</key>
+	<string>silhuett av en person</string>
+	<key>☑️</key>
+	<string>bockad ruta</string>
+	<key>🧑‍🦲</key>
+	<string>person utan hår</string>
+	<key>👥</key>
+	<string>silhuett av två personer</string>
+	<key>👦</key>
+	<string>pojke</string>
+	<key>👨‍🦯</key>
+	<string>man med vit käpp</string>
+	<key>👧</key>
+	<string>flicka</string>
+	<key>👰‍♂️</key>
+	<string>man med slöja</string>
+	<key>👩‍🚀</key>
+	<string>kvinna som är astronaut</string>
+	<key>🟰</key>
+	<string>lika med-tecken</string>
+	<key>🏴‍☠️</key>
+	<string>sjörövarflagga</string>
+	<key>👨</key>
+	<string>man</string>
+	<key>🫰</key>
+	<string>hand med korsat pekfinger och tumme</string>
+	<key>⏺️</key>
+	<string>inspelningssymbol</string>
+	<key>👩</key>
+	<string>kvinna</string>
+	<key>🫱</key>
+	<string>hand vänd åt höger</string>
+	<key>👪</key>
+	<string>familj</string>
+	<key>🫲</key>
+	<string>hand vänd åt vänster</string>
+	<key>👫</key>
+	<string>man och kvinna som håller hand</string>
+	<key>🫳</key>
+	<string>hand med handflatan nedåt</string>
+	<key>🧑‍🦳</key>
+	<string>person med vitt hår</string>
+	<key>👬</key>
+	<string>två män som håller hand</string>
+	<key>🫴</key>
+	<string>hand med handflatan uppåt</string>
+	<key>👭</key>
+	<string>två kvinnor som håller hand</string>
+	<key>👨‍🦰</key>
+	<string>man med rött hår</string>
+	<key>🫵</key>
+	<string>pekfinger som pekar på läsaren</string>
+	<key>👮</key>
+	<string>polis</string>
+	<key>🏊‍♂️</key>
+	<string>man som är simmare</string>
+	<key>🫶</key>
+	<string>hjärthänder</string>
+	<key>👯</key>
+	<string>dansande människor med kaninöron</string>
+	<key>🫷</key>
+	<string>hand som trycker åt vänster</string>
+	<key>👰</key>
+	<string>person med slöja</string>
+	<key>🫸</key>
+	<string>hand som trycker åt höger</string>
+	<key>👱</key>
+	<string>person med blont hår</string>
+	<key>✒️</key>
+	<string>reservoarpenna</string>
+	<key>👲</key>
+	<string>man med kinesisk hatt</string>
+	<key>🧍‍♀️</key>
+	<string>kvinna som står</string>
+	<key>👳</key>
+	<string>person med turban</string>
+	<key>👨‍🦱</key>
+	<string>man med lockigt hår</string>
+	<key>👴</key>
+	<string>gammal man</string>
+	<key>🙆‍♂️</key>
+	<string>man som gestikulerar OK</string>
+	<key>👵</key>
+	<string>gammal kvinna</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>familj med mamma, pappa, son och dotter</string>
+	<key>👶</key>
+	<string>bebis</string>
+	<key>👷</key>
+	<string>byggarbetare</string>
+	<key>▫️</key>
+	<string>liten vit kvadrat</string>
+	<key>👸</key>
+	<string>prinsessa</string>
+	<key>🛢️</key>
+	<string>oljetrumma</string>
+	<key>☃️</key>
+	<string>snögubbe med snöflingor</string>
+	<key>👹</key>
+	<string>stort troll</string>
+	<key>🙋‍♀️</key>
+	<string>kvinna som räcker upp en hand</string>
+	<key>👺</key>
+	<string>troll</string>
+	<key>👨‍🦲</key>
+	<string>man utan hår</string>
+	<key>🇹🇦</key>
+	<string>Tristan da Cunhas flagga</string>
+	<key>👻</key>
+	<string>spöke</string>
+	<key>🇵🇦</key>
+	<string>panamansk flagga</string>
+	<key>👼</key>
+	<string>bebisängel</string>
+	<key>❣️</key>
+	<string>rött hjärta som ett utropstecken</string>
+	<key>👽</key>
+	<string>utomjording</string>
+	<key>🇱🇦</key>
+	<string>laotisk flagga</string>
+	<key>👾</key>
+	<string>rymdmonster</string>
+	<key>👿</key>
+	<string>argt ansikte med horn</string>
+	<key>💀</key>
+	<string>dödskalle</string>
+	<key>🇱🇧</key>
+	<string>libanesisk flagga</string>
+	<key>👨‍🦳</key>
+	<string>man med vitt hår</string>
+	<key>💁</key>
+	<string>person i informationsdisken</string>
+	<key>🇹🇨</key>
+	<string>Turks- och Caicosöarnas flagga</string>
+	<key>🧜‍♂️</key>
+	<string>havsman</string>
+	<key>💂</key>
+	<string>grenadjär</string>
+	<key>💃</key>
+	<string>kvinna som dansar</string>
+	<key>◼️</key>
+	<string>medelstor svart kvadrat</string>
+	<key>🇱🇨</key>
+	<string>S:t Lucias flagga</string>
+	<key>💄</key>
+	<string>läppstift</string>
+	<key>🇹🇩</key>
+	<string>Tchads flagga</string>
+	<key>💅</key>
+	<string>nagellack</string>
+	<key>💆</key>
+	<string>person som får en huvudmassage</string>
+	<key>💇</key>
+	<string>person som blir klippt</string>
+	<key>🗜️</key>
+	<string>tving</string>
+	<key>💈</key>
+	<string>barberarstång</string>
+	<key>💉</key>
+	<string>spruta</string>
+	<key>🇵🇪</key>
+	<string>peruansk flagga</string>
+	<key>💊</key>
+	<string>piller</string>
+	<key>💋</key>
+	<string>pussmärke</string>
+	<key>🇹🇫</key>
+	<string>Franska Syd- och Antarktisregionernas flagga</string>
+	<key>💌</key>
+	<string>kärleksbrev</string>
+	<key>👩‍❤️‍👩</key>
+	<string>två kvinnor med hjärta</string>
+	<key>🇵🇫</key>
+	<string>Franska Polynesiens flagga</string>
+	<key>🛤️</key>
+	<string>järnvägsspår</string>
+	<key>💍</key>
+	<string>ring</string>
+	<key>🆎</key>
+	<string>blodgrupp AB</string>
+	<key>🇩🇪</key>
+	<string>tysk flagga</string>
+	<key>🈂️</key>
+	<string>Japanskt tecken som betyder ”service” eller ”serviceavgift”</string>
+	<key>💎</key>
+	<string>ädelsten</string>
+	<key>♍️</key>
+	<string>Jungfrun</string>
+	<key>🇹🇬</key>
+	<string>togolesisk flagga</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>två kvinnor som kysser</string>
+	<key>💏</key>
+	<string>par som kysser</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>personer som håller händerna</string>
+	<key>💐</key>
+	<string>bukett</string>
+	<key>⛽️</key>
+	<string>bränslepump</string>
+	<key>🇵🇬</key>
+	<string>Papua Nya Guineas flagga</string>
+	<key>🖱️</key>
+	<string>datormus</string>
+	<key>🆑</key>
+	<string>CL-tecken</string>
+	<key>💑</key>
+	<string>par med hjärta</string>
+	<key>🆒</key>
+	<string>cool-skylt</string>
+	<key>🇹🇭</key>
+	<string>thailändsk flagga</string>
+	<key>💒</key>
+	<string>bröllop</string>
+	<key>🆓</key>
+	<string>free-skylt</string>
+	<key>💓</key>
+	<string>pulserande hjärta</string>
+	<key>🆔</key>
+	<string>ID-skylt</string>
+	<key>🇵🇭</key>
+	<string>filippinsk flagga</string>
+	<key>👩‍⚖️</key>
+	<string>kvinna som är domare</string>
+	<key>💔</key>
+	<string>brustet hjärta</string>
+	<key>🇩🇬</key>
+	<string>Diego Garcias flagga</string>
+	<key>🆕</key>
+	<string>new-skylt</string>
+	<key>🅿️</key>
+	<string>parkeringsskylt</string>
+	<key>💕</key>
+	<string>två hjärtan</string>
+	<key>🤹‍♀️</key>
+	<string>kvinna som jonglerar</string>
+	<key>🆖</key>
+	<string>no good-skylt</string>
+	<key>💖</key>
+	<string>glittrande hjärta</string>
+	<key>🆗</key>
+	<string>OK-skylt</string>
+	<key>💗</key>
+	<string>växande hjärta</string>
+	<key>👳‍♂️</key>
+	<string>man med turban</string>
+	<key>🆘</key>
+	<string>SOS-skylt</string>
+	<key>💘</key>
+	<string>hjärta med pil</string>
+	<key>🇱🇮</key>
+	<string>liechtensteinsk flagga</string>
+	<key>🆙</key>
+	<string>up-skylt</string>
+	<key>🈯️</key>
+	<string>Japanskt tecken som betyder ”reserverat”</string>
+	<key>🇹🇯</key>
+	<string>tadzjikistansk flagga</string>
+	<key>💙</key>
+	<string>blått hjärta</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>familj med två pappor och två söner</string>
+	<key>🆚</key>
+	<string>kvadrat med vs</string>
+	<key>💚</key>
+	<string>grönt hjärta</string>
+	<key>🇽🇰</key>
+	<string>Kosovos flagga</string>
+	<key>💛</key>
+	<string>gult hjärta</string>
+	<key>🗞️</key>
+	<string>hoprullad tidning</string>
+	<key>💜</key>
+	<string>lila hjärta</string>
+	<key>🇹🇰</key>
+	<string>Tokelauöarnas flagga</string>
+	<key>💝</key>
+	<string>hjärta med rosett</string>
+	<key>🇵🇰</key>
+	<string>pakistansk flagga</string>
+	<key>💞</key>
+	<string>snurrande hjärtan</string>
+	<key>🇩🇯</key>
+	<string>djiboutisk flagga</string>
+	<key>💟</key>
+	<string>hjärtdekoration</string>
+	<key>🇱🇰</key>
+	<string>Sri Lankas flagga</string>
+	<key>🇹🇱</key>
+	<string>Östtimors flagga</string>
+	<key>👩‍🤝‍👨</key>
+	<string>kvinna och man som håller hand</string>
+	<key>💠</key>
+	<string>diamantform med prick inuti</string>
+	<key>🇭🇰</key>
+	<string>hongkongsk flagga</string>
+	<key>💡</key>
+	<string>glödlampa</string>
+	<key>🇵🇱</key>
+	<string>polsk flagga</string>
+	<key>🇩🇰</key>
+	<string>dansk flagga</string>
+	<key>💢</key>
+	<string>ilskesymbol</string>
+	<key>🇹🇲</key>
+	<string>turkmenistansk flagga</string>
+	<key>💣</key>
+	<string>bomb</string>
+	<key>⚗️</key>
+	<string>destilleringskolv</string>
+	<key>💤</key>
+	<string>sovtecken</string>
+	<key>🇵🇲</key>
+	<string>S:t Pierre och Miquelons flagga</string>
+	<key>💥</key>
+	<string>explosion</string>
+	<key>❇️</key>
+	<string>glitter</string>
+	<key>💦</key>
+	<string>vattendroppar</string>
+	<key>🇹🇳</key>
+	<string>tunisisk flagga</string>
+	<key>🧑‍🦼</key>
+	<string>person i motordriven rullstol</string>
+	<key>💧</key>
+	<string>droppe</string>
+	<key>🇭🇲</key>
+	<string>Heard- och McDonaldöarnas flagga</string>
+	<key>🇵🇳</key>
+	<string>Pitcairns flagga</string>
+	<key>💨</key>
+	<string>vindpust</string>
+	<key>🇩🇲</key>
+	<string>dominicansk flagga</string>
+	<key>💩</key>
+	<string>bajshög</string>
+	<key>🙎‍♀️</key>
+	<string>kvinna som plutar</string>
+	<key>🇹🇴</key>
+	<string>tongansk flagga</string>
+	<key>💪</key>
+	<string>spänd biceps</string>
+	<key>🇭🇳</key>
+	<string>honduransk flagga</string>
+	<key>👩‍👦</key>
+	<string>familj med mamma och son</string>
+	<key>💫</key>
+	<string>yrselsymbol</string>
+	<key>💇‍♂️</key>
+	<string>man som blir klippt</string>
+	<key>💬</key>
+	<string>pratbubbla</string>
+	<key>☸️</key>
+	<string>dharmahjulet</string>
+	<key>💭</key>
+	<string>tankebubbla</string>
+	<key>🧑‍🦽</key>
+	<string>person i manuell rullstol</string>
+	<key>💮</key>
+	<string>vit blomma</string>
+	<key>💯</key>
+	<string>hundra poäng-symbol</string>
+	<key>🇩🇴</key>
+	<string>Dominikanska republikens flagga</string>
+	<key>💰</key>
+	<string>pengasäck</string>
+	<key>💱</key>
+	<string>valutaväxling</string>
+	<key>😵‍💫</key>
+	<string>ansikte med spiralögon</string>
+	<key>👩‍👧</key>
+	<string>familj med mamma och dotter</string>
+	<key>🧟‍♂️</key>
+	<string>man som är zombie</string>
+	<key>💲</key>
+	<string>dollartecken</string>
+	<key>💳</key>
+	<string>kreditkort</string>
+	<key>🇹🇷</key>
+	<string>Turkiets flagga</string>
+	<key>💴</key>
+	<string>yensedlar</string>
+	<key>💵</key>
+	<string>dollarsedlar</string>
+	<key>🇵🇷</key>
+	<string>puerto ricansk flagga</string>
+	<key>💶</key>
+	<string>eurosedlar</string>
+	<key>🇱🇷</key>
+	<string>liberisk flagga</string>
+	<key>💷</key>
+	<string>pundsedlar</string>
+	<key>💸</key>
+	<string>pengar med vingar</string>
+	<key>🇭🇷</key>
+	<string>kroatisk flagga</string>
+	<key>🇵🇸</key>
+	<string>Palestinska territoriets flagga</string>
+	<key>💹</key>
+	<string>diagram med uppåtgående trend och yentecken</string>
+	<key>💺</key>
+	<string>säte</string>
+	<key>🇱🇸</key>
+	<string>Lesothos flagga</string>
+	<key>🇹🇹</key>
+	<string>Trinidad och Tobagos flagga</string>
+	<key>💻</key>
+	<string>bärbar dator</string>
+	<key>💼</key>
+	<string>portfölj</string>
+	<key>👨‍🦼</key>
+	<string>man i motordriven rullstol</string>
+	<key>🇵🇹</key>
+	<string>portugisisk flagga</string>
+	<key>💽</key>
+	<string>minidisc</string>
+	<key>🇱🇹</key>
+	<string>litauisk flagga</string>
+	<key>💾</key>
+	<string>diskett</string>
+	<key>🇭🇹</key>
+	<string>haitisk flagga</string>
+	<key>💿</key>
+	<string>CD</string>
+	<key>📀</key>
+	<string>DVD</string>
+	<key>🤷‍♂️</key>
+	<string>man som rycker på axlarna</string>
+	<key>📁</key>
+	<string>stängd mapp</string>
+	<key>🇱🇺</key>
+	<string>luxemburgsk flagga</string>
+	<key>☪️</key>
+	<string>stjärna och halvmåne</string>
+	<key>🇹🇻</key>
+	<string>tuvaluansk flagga</string>
+	<key>📂</key>
+	<string>öppen mapp</string>
+	<key>4️⃣</key>
+	<string>tangent med siffran fyra</string>
+	<key>🇭🇺</key>
+	<string>ungersk flagga</string>
+	<key>👨‍🦽</key>
+	<string>man i manuell rullstol</string>
+	<key>📃</key>
+	<string>sida med rullad kant</string>
+	<key>🖊️</key>
+	<string>kulspetspenna</string>
+	<key>📄</key>
+	<string>uppåtvänd sida</string>
+	<key>🇱🇻</key>
+	<string>lettländsk flagga</string>
+	<key>🇹🇼</key>
+	<string>taiwanesisk flagga</string>
+	<key>📅</key>
+	<string>kalender</string>
+	<key>🤼‍♀️</key>
+	<string>kvinnor som brottas</string>
+	<key>📆</key>
+	<string>kalender med rivbara dagar</string>
+	<key>🇵🇼</key>
+	<string>palauisk flagga</string>
+	<key>📇</key>
+	<string>kortindex</string>
+	<key>📈</key>
+	<string>diagram med uppåtgående trend</string>
+	<key>🧑‍🔧</key>
+	<string>mekaniker</string>
+	<key>📉</key>
+	<string>diagram med nedåtgående trend</string>
+	<key>〰️</key>
+	<string>vågigt bindestreck</string>
+	<key>📊</key>
+	<string>stapeldiagram</string>
+	<key>📋</key>
+	<string>skrivplatta</string>
+	<key>☣️</key>
+	<string>biologisk fara</string>
+	<key>📌</key>
+	<string>häftstift</string>
+	<key>♻️</key>
+	<string>återvinningssymbol</string>
+	<key>📍</key>
+	<string>kartnål med runt huvud</string>
+	<key>🇵🇾</key>
+	<string>paraguayansk flagga</string>
+	<key>⛓️</key>
+	<string>kedjor</string>
+	<key>📎</key>
+	<string>gem</string>
+	<key>🧎‍♂️</key>
+	<string>man på knä</string>
+	<key>🇱🇾</key>
+	<string>libysk flagga</string>
+	<key>📏</key>
+	<string>rak linjal</string>
+	<key>🇹🇿</key>
+	<string>tanzaniansk flagga</string>
+	<key>📐</key>
+	<string>vinkellinjal</string>
+	<key>📑</key>
+	<string>bokmärkesflik</string>
+	<key>📒</key>
+	<string>kassabok</string>
+	<key>📓</key>
+	<string>kompositionsanteckningsbok</string>
+	<key>👩‍🤝‍👩</key>
+	<string>kvinnor som håller hand</string>
+	<key>📔</key>
+	<string>anteckningsbok med dekorativt omslag</string>
+	<key>🇩🇿</key>
+	<string>algerisk flagga</string>
+	<key>📕</key>
+	<string>röd lärobok</string>
+	<key>📖</key>
+	<string>öppen bok</string>
+	<key>📗</key>
+	<string>grön lärobok</string>
+	<key>🖌️</key>
+	<string>målarpensel</string>
+	<key>📘</key>
+	<string>blå lärobok</string>
+	<key>📙</key>
+	<string>orange lärobok</string>
+	<key>👩‍👩‍👦</key>
+	<string>familj med två mammor och son</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>familj med två pappor och två döttrar</string>
+	<key>📚</key>
+	<string>böcker</string>
+	<key>📛</key>
+	<string>namnbricka</string>
+	<key>📜</key>
+	<string>bokrulle</string>
+	<key>📝</key>
+	<string>memo</string>
+	<key>↖️</key>
+	<string>upp- och vänsterpil</string>
+	<key>🤦‍♂️</key>
+	<string>man som tar sig för pannan</string>
+	<key>📞</key>
+	<string>telefonlur</string>
+	<key>👩‍🎓</key>
+	<string>kvinna som är student</string>
+	<key>👩‍🚒</key>
+	<string>kvinna som är brandsoldat</string>
+	<key>⤴️</key>
+	<string>högerpil böjd uppåt</string>
+	<key>👨‍🔧</key>
+	<string>man som är mekaniker</string>
+	<key>📟</key>
+	<string>personsökare</string>
+	<key>☕️</key>
+	<string>varm dryck</string>
+	<key>📠</key>
+	<string>fax</string>
+	<key>📡</key>
+	<string>satellitantenn</string>
+	<key>⛅️</key>
+	<string>sol bakom moln</string>
+	<key>📢</key>
+	<string>offentlig högtalare</string>
+	<key>🧑‍🌾</key>
+	<string>bonde</string>
+	<key>✝️</key>
+	<string>Latinskt kors</string>
+	<key>📣</key>
+	<string>jublande megafon</string>
+	<key>📤</key>
+	<string>utkorg</string>
+	<key>📥</key>
+	<string>inkorg</string>
+	<key>📦</key>
+	<string>paket</string>
+	<key>📧</key>
+	<string>e-post</string>
+	<key>📨</key>
+	<string>inkommande kuvert</string>
+	<key>📩</key>
+	<string>kuvert med pil</string>
+	<key>▶️</key>
+	<string>högerpekande triangel</string>
+	<key>🧑‍🔬</key>
+	<string>forskare</string>
+	<key>📪</key>
+	<string>stängd brevlåda med nedfälld flagga</string>
+	<key>☎️</key>
+	<string>telefon</string>
+	<key>🈷️</key>
+	<string>Japanskt tecken som betyder ”månadsbelopp”</string>
+	<key>♦️</key>
+	<string>ruter</string>
+	<key>📫</key>
+	<string>stängd brevlåda med uppfälld flagga</string>
+	<key>📬</key>
+	<string>öppen brevlåda med uppfälld flagga</string>
+	<key>⚾️</key>
+	<string>baseball</string>
+	<key>📭</key>
+	<string>öppen brevlåda med nedfälld flagga</string>
+	<key>✖️</key>
+	<string>multiplikationstecken</string>
+	<key>📮</key>
+	<string>postlåda</string>
+	<key>📯</key>
+	<string>posthorn</string>
+	<key>🏄‍♀️</key>
+	<string>kvinna som är surfare</string>
+	<key>📰</key>
+	<string>dagstidning</string>
+	<key>📱</key>
+	<string>mobiltelefon</string>
+	<key>🎗️</key>
+	<string>påminnelseband</string>
+	<key>📲</key>
+	<string>telefon med pil</string>
+	<key>📳</key>
+	<string>vibreringsläge</string>
+	<key>📴</key>
+	<string>mobiltelefon av</string>
+	<key>📵</key>
+	<string>mobiltelefoner förbjudna</string>
+	<key>♟️</key>
+	<string>schackbonde</string>
+	<key>📶</key>
+	<string>signalstyrkestaplar</string>
+	<key>📷</key>
+	<string>kamera</string>
+	<key>✏️</key>
+	<string>penna</string>
+	<key>📸</key>
+	<string>kamera med blixt</string>
+	<key>👨‍🌾</key>
+	<string>man som är bonde</string>
+	<key>📹</key>
+	<string>videokamera</string>
+	<key>📺</key>
+	<string>TV</string>
+	<key>🐻‍❄️</key>
+	<string>isbjörn</string>
+	<key>📻</key>
+	<string>radio</string>
+	<key>📼</key>
+	<string>videokassett</string>
+	<key>☀️</key>
+	<string>sol</string>
+	<key>📿</key>
+	<string>radband</string>
+	<key>👨‍🔬</key>
+	<string>man som är forskare</string>
+	<key>🔀</key>
+	<string>symbol för blandning av spår</string>
+	<key>🈁</key>
+	<string>Japanskt tecken som betyder ”här”</string>
+	<key>⚰️</key>
+	<string>kista</string>
+	<key>🔁</key>
+	<string>upprepningssymbol</string>
+	<key>🖐️</key>
+	<string>höjd hand med utspretade fingrar</string>
+	<key>✈️</key>
+	<string>flygplan</string>
+	<key>🔂</key>
+	<string>symbol för upprepning av ett spår</string>
+	<key>🗨️</key>
+	<string>pratbubbla riktad åt vänster</string>
+	<key>🔃</key>
+	<string>medsols vertikala pilar</string>
+	<key>🧖‍♀️</key>
+	<string>kvinna i en bastu</string>
+	<key>🔄</key>
+	<string>motsols pilar</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>familj med två mammor och två söner</string>
+	<key>👩‍⚕️</key>
+	<string>kvinna som är hälsovårdsarbetare</string>
+	<key>™️</key>
+	<string>varumärkessymbol</string>
+	<key>🔅</key>
+	<string>symbol för låg ljusstyrka</string>
+	<key>🔆</key>
+	<string>symbol för hög ljusstyrka</string>
+	<key>🎙️</key>
+	<string>studiomikrofon</string>
+	<key>🔇</key>
+	<string>dämpad högtalare</string>
+	<key>🔈</key>
+	<string>högtalare</string>
+	<key>🛰️</key>
+	<string>satellit</string>
+	<key>🔉</key>
+	<string>högtalare med mellanhög volym</string>
+	<key>♑️</key>
+	<string>Stenbocken</string>
+	<key>🔊</key>
+	<string>högtalare med hög volym</string>
+	<key>🔋</key>
+	<string>batteri</string>
+	<key>🔌</key>
+	<string>elkontakt</string>
+	<key>👩‍👩‍👧</key>
+	<string>familj med två mammor och dotter</string>
+	<key>🔍</key>
+	<string>vänsterpekande förstoringsglas</string>
+	<key>🔎</key>
+	<string>högerpekande förstoringsglas</string>
+	<key>🔏</key>
+	<string>lås med bläckpenna</string>
+	<key>🔐</key>
+	<string>låst lås med nyckel</string>
+	<key>🔑</key>
+	<string>nyckel</string>
+	<key>🔒</key>
+	<string>låst lås</string>
+	<key>🔓</key>
+	<string>öppet lås</string>
+	<key>♊️</key>
+	<string>Tvillingarna</string>
+	<key>🔔</key>
+	<string>bjällra</string>
+	<key>🔕</key>
+	<string>dämpad bjällra</string>
+	<key>⛺️</key>
+	<string>tält</string>
+	<key>🔖</key>
+	<string>bokmärke</string>
+	<key>🔗</key>
+	<string>länksymbol</string>
+	<key>🔘</key>
+	<string>radioknapp</string>
+	<key>🔙</key>
+	<string>back-pil</string>
+	<key>🔚</key>
+	<string>end-pil</string>
+	<key>🔛</key>
+	<string>on!-pil</string>
+	<key>🎛️</key>
+	<string>kontrollrattar</string>
+	<key>🔜</key>
+	<string>soon-pil</string>
+	<key>🏳️</key>
+	<string>vit flagga</string>
+	<key>🔝</key>
+	<string>top-pil</string>
+	<key>🔞</key>
+	<string>ingen under arton tillåten</string>
+	<key>🔟</key>
+	<string>tangent 10</string>
+	<key>⚛️</key>
+	<string>atomsymbol</string>
+	<key>🔠</key>
+	<string>inmatningssymbol för stora bokstäver</string>
+	<key>⛳️</key>
+	<string>golfhål med flagga</string>
+	<key>🔡</key>
+	<string>inmatningssymbol för små bokstäver</string>
+	<key>🤽‍♂️</key>
+	<string>man som spelar vattenpolo</string>
+	<key>🔢</key>
+	<string>inmatningssymbol för siffror</string>
+	<key>🔣</key>
+	<string>inmatningssymbol för symboler</string>
+	<key>🔤</key>
+	<string>inmatningssymbol för bokstäver</string>
+	<key>🔥</key>
+	<string>eld</string>
+	<key>🔦</key>
+	<string>ficklampa</string>
+	<key>🔧</key>
+	<string>skiftnyckel</string>
+	<key>🔨</key>
+	<string>hammare</string>
+	<key>🔩</key>
+	<string>skruv och mutter</string>
+	<key>⚔️</key>
+	<string>korsade svärd</string>
+	<key>🔪</key>
+	<string>kniv</string>
+	<key>🔫</key>
+	<string>vattenpistol</string>
+	<key>❄️</key>
+	<string>snöflinga</string>
+	<key>🔬</key>
+	<string>mikroskop</string>
+	<key>💁‍♀️</key>
+	<string>kvinna i informationsdisken</string>
+	<key>🔭</key>
+	<string>teleskop</string>
+	<key>🔮</key>
+	<string>kristallkula</string>
+	<key>🧔‍♂️</key>
+	<string>man med skägg</string>
+	<key>🔯</key>
+	<string>sexuddig stjärna med prick i mitten</string>
+	<key>🔰</key>
+	<string>Japansk symbol för nybörjare</string>
+	<key>🔱</key>
+	<string>treuddigt emblem</string>
+	<key>🈲</key>
+	<string>Japanskt tecken som betyder ”förbjudet”</string>
+	<key>🏵️</key>
+	<string>rosett</string>
+	<key>🔲</key>
+	<string>svart kvadratknapp</string>
+	<key>🈳</key>
+	<string>Japanskt tecken som betyder ”lediga rum”</string>
+	<key>🔳</key>
+	<string>vit kvadratknapp</string>
+	<key>🈴</key>
+	<string>Japanskt tecken som betyder ”godkänt (betyg)”</string>
+	<key>🧙‍♀️</key>
+	<string>kvinna som är magiker</string>
+	<key>🔴</key>
+	<string>röd cirkel</string>
+	<key>🈵</key>
+	<string>Japanskt tecken som betyder ”fullt, inga lediga rum”</string>
+	<key>🔵</key>
+	<string>blå cirkel</string>
+	<key>🈶</key>
+	<string>Japanskt tecken som betyder ”inte gratis”</string>
+	<key>🔶</key>
+	<string>stor orange romb</string>
+	<key>🔷</key>
+	<string>stor blå romb</string>
+	<key>🈸</key>
+	<string>Japanskt tecken som betyder ”ansökan”</string>
+	<key>🔸</key>
+	<string>liten orange romb</string>
+	<key>🈹</key>
+	<string>Japanskt tecken som betyder ”rabatt”</string>
+	<key>🔹</key>
+	<string>liten blå romb</string>
+	<key>9️⃣</key>
+	<string>tangent med siffran nio</string>
+	<key>🈺</key>
+	<string>Japanskt tecken som betyder ”öppet”</string>
+	<key>🔺</key>
+	<string>röd uppåtpekande triangel</string>
+	<key>🔻</key>
+	<string>röd nedåtpekande triangel</string>
+	<key>🀄️</key>
+	<string>mahjongbrickan röd drake</string>
+	<key>🔼</key>
+	<string>uppåtpekande triangel</string>
+	<key>🚵‍♀️</key>
+	<string>kvinna som är mountainbikecyklist</string>
+	<key>☮️</key>
+	<string>fredssymbol</string>
+	<key>🔽</key>
+	<string>nedåtpekande triangel</string>
+	<key>👨‍👦‍👦</key>
+	<string>familj med pappa och två söner</string>
+	<key>⬅️</key>
+	<string>vänsterpil</string>
+	<key>⛎</key>
+	<string>Ormbäraren</string>
+	<key>🎟️</key>
+	<string>inträdesbiljett</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>familj med två mammor och två döttrar</string>
+	<key>🏷️</key>
+	<string>etikett</string>
+	<key>2️⃣</key>
+	<string>tangent med siffran två</string>
+	<key>♿️</key>
+	<string>rullstolssymbol</string>
+	<key>👰‍♀️</key>
+	<string>kvinna med slöja</string>
+	<key>🗃️</key>
+	<string>kortregisterlåda</string>
+	<key>🕋</key>
+	<string>Kaba</string>
+	<key>🕌</key>
+	<string>moské</string>
+	<key>🕍</key>
+	<string>synagoga</string>
+	<key>🕎</key>
+	<string>menora</string>
+	<key>👩‍🎤</key>
+	<string>kvinna som är sångare</string>
+	<key>🉐</key>
+	<string>Japanskt tecken som betyder ”fynd”</string>
+	<key>🏌️</key>
+	<string>golfspelare</string>
+	<key>🛋️</key>
+	<string>soffa och lampa</string>
+	<key>🕐</key>
+	<string>klockan ett</string>
+	<key>🏊‍♀️</key>
+	<string>kvinna som är simmare</string>
+	<key>🉑</key>
+	<string>Japanskt tecken som betyder ”godtagbart”</string>
+	<key>☠️</key>
+	<string>dödskalle med korsade ben</string>
+	<key>🕑</key>
+	<string>klockan två</string>
+	<key>🕒</key>
+	<string>klockan tre</string>
+	<key>🏋️‍♀️</key>
+	<string>kvinna som är tyngdlyftare</string>
+	<key>🕓</key>
+	<string>klockan fyra</string>
+	<key>🕔</key>
+	<string>klockan fem</string>
+	<key>🕕</key>
+	<string>klockan sex</string>
+	<key>🕖</key>
+	<string>klockan sju</string>
+	<key>🙆‍♀️</key>
+	<string>kvinna som gestikulerar OK</string>
+	<key>🕗</key>
+	<string>klockan åtta</string>
+	<key>🕘</key>
+	<string>klockan nio</string>
+	<key>🕙</key>
+	<string>klockan tio</string>
+	<key>🕚</key>
+	<string>klockan elva</string>
+	<key>🕛</key>
+	<string>klockan tolv</string>
+	<key>🕜</key>
+	<string>halv två</string>
+	<key>🇺🇦</key>
+	<string>ukrainsk flagga</string>
+	<key>🕝</key>
+	<string>halv tre</string>
+	<key>🇶🇦</key>
+	<string>qatarisk flagga</string>
+	<key>🕞</key>
+	<string>halv fyra</string>
+	<key>✡️</key>
+	<string>Davidsstjärna</string>
+	<key>🇲🇦</key>
+	<string>marockansk flagga</string>
+	<key>🕟</key>
+	<string>halv fem</string>
+	<key>🧗‍♂️</key>
+	<string>man som är bergsklättrare</string>
+	<key>🕠</key>
+	<string>halv sex</string>
+	<key>🕡</key>
+	<string>halv sju</string>
+	<key>🇪🇦</key>
+	<string>Ceutas och Melillas flagga</string>
+	<key>🕢</key>
+	<string>halv åtta</string>
+	<key>✅</key>
+	<string>bockmarkeringssymbol</string>
+	<key>🕣</key>
+	<string>halv nio</string>
+	<key>🧜‍♀️</key>
+	<string>sjöjungfru</string>
+	<key>🏎️</key>
+	<string>racerbil</string>
+	<key>🕤</key>
+	<string>halv tio</string>
+	<key>🛍️</key>
+	<string>shoppingkassar</string>
+	<key>🕥</key>
+	<string>halv elva</string>
+	<key>✊</key>
+	<string>höjd knytnäve</string>
+	<key>🇲🇨</key>
+	<string>monegaskisk flagga</string>
+	<key>✋</key>
+	<string>uppräckt hand</string>
+	<key>🕦</key>
+	<string>halv tolv</string>
+	<key>🕧</key>
+	<string>halv ett</string>
+	<key>🇮🇨</key>
+	<string>Kanarieöarnas flagga</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>walesisk flagga</string>
+	<key>🇾🇪</key>
+	<string>Jemens flagga</string>
+	<key>🇪🇨</key>
+	<string>ecuadoriansk flagga</string>
+	<key>👩‍🎨</key>
+	<string>kvinna som är konstnär</string>
+	<key>🇲🇩</key>
+	<string>moldovisk flagga</string>
+	<key>🇦🇨</key>
+	<string>ascensionsk flagga</string>
+	<key>🇮🇩</key>
+	<string>indonesisk flagga</string>
+	<key>🇲🇪</key>
+	<string>montenegrisk flagga</string>
+	<key>🇦🇩</key>
+	<string>andorransk flagga</string>
+	<key>🇮🇪</key>
+	<string>irländsk flagga</string>
+	<key>🇪🇪</key>
+	<string>estländsk flagga</string>
+	<key>🇲🇫</key>
+	<string>Saint Martins flagga</string>
+	<key>🇺🇬</key>
+	<string>ugandisk flagga</string>
+	<key>♣️</key>
+	<string>klöver</string>
+	<key>🇦🇪</key>
+	<string>Förenade Arabemiratens flagga</string>
+	<key>🕯️</key>
+	<string>stearinljus</string>
+	<key>🇲🇬</key>
+	<string>madagaskarisk flagga</string>
+	<key>🇦🇫</key>
+	<string>afghanistansk flagga</string>
+	<key>👮‍♂️</key>
+	<string>manlig polis</string>
+	<key>🇪🇬</key>
+	<string>egyptisk flagga</string>
+	<key>🇲🇭</key>
+	<string>Marshallöarnas flagga</string>
+	<key>✨</key>
+	<string>glitter</string>
+	<key>🇦🇬</key>
+	<string>Antigua och Barbudas flagga</string>
+	<key>🛏️</key>
+	<string>säng</string>
+	<key>👳‍♀️</key>
+	<string>kvinna med turban</string>
+	<key>🇪🇭</key>
+	<string>västsaharisk flagga</string>
+	<key>☄️</key>
+	<string>komet</string>
+	<key>🕺</key>
+	<string>man som dansar</string>
+	<key>✌️</key>
+	<string>fredshandtecken</string>
+	<key>❤️</key>
+	<string>rött hjärta</string>
+	<key>⏭️</key>
+	<string>symbol för att hoppa framåt</string>
+	<key>🇦🇮</key>
+	<string>anguillansk flagga</string>
+	<key>🇲🇰</key>
+	<string>nordmakedonsk flagga</string>
+	<key>◽️</key>
+	<string>ganska liten vit kvadrat</string>
+	<key>🇲🇱</key>
+	<string>malisk flagga</string>
+	<key>🈚️</key>
+	<string>Japanskt tecken som betyder ”gratis”</string>
+	<key>🇺🇲</key>
+	<string>flaggan för USA:s mindre öar i Oceanien och Västindien</string>
+	<key>🇮🇱</key>
+	<string>israelisk flagga</string>
+	<key>🇲🇲</key>
+	<string>myanmarisk (burmesisk) flagga</string>
+	<key>💂‍♂️</key>
+	<string>grenadjär</string>
+	<key>🇺🇳</key>
+	<string>FN-flaggan</string>
+	<key>🇦🇱</key>
+	<string>albansk flagga</string>
+	<key>🧑‍💻</key>
+	<string>teknolog</string>
+	<key>🇮🇲</key>
+	<string>Isle of Mans flagga</string>
+	<key>⛹️‍♂️</key>
+	<string>man som är basketbollspelare</string>
+	<key>🇲🇳</key>
+	<string>mongolisk flagga</string>
+	<key>🇦🇲</key>
+	<string>armenisk flagga</string>
+	<key>🇮🇳</key>
+	<string>indisk flagga</string>
+	<key>❌</key>
+	<string>kryssmärke</string>
+	<key>💇‍♀️</key>
+	<string>kvinna som blir klippt</string>
+	<key>❎</key>
+	<string>X-tecken</string>
+	<key>🇲🇴</key>
+	<string>macaosk flagga</string>
+	<key>♎️</key>
+	<string>Vågen</string>
+	<key>🧚‍♂️</key>
+	<string>manlig älva</string>
+	<key>🧑‍💼</key>
+	<string>kontorsarbetare</string>
+	<key>🇮🇴</key>
+	<string>Brittiska territoriet i Indiska Oceanens flagga</string>
+	<key>❓</key>
+	<string>rött frågetecken</string>
+	<key>❔</key>
+	<string>vitt frågetecken</string>
+	<key>🇲🇵</key>
+	<string>Norra Marianaöarnas flagga</string>
+	<key>❕</key>
+	<string>vitt utropstecken</string>
+	<key>🇦🇴</key>
+	<string>angolansk flagga</string>
+	<key>🧟‍♀️</key>
+	<string>kvinna som är zombie</string>
+	<key>🖕</key>
+	<string>långfinger</string>
+	<key>🇲🇶</key>
+	<string>Martiniques flagga</string>
+	<key>🖖</key>
+	<string>hand med fingrarna separerade mellan långfingret och ringfingret</string>
+	<key>🇮🇶</key>
+	<string>irakisk flagga</string>
+	<key>🚶‍♂️</key>
+	<string>man som är fotgängare</string>
+	<key>🇲🇷</key>
+	<string>mauretansk flagga</string>
+	<key>🇺🇸</key>
+	<string>USA:s flagga</string>
+	<key>🇦🇶</key>
+	<string>antarktisk flagga</string>
+	<key>🇮🇷</key>
+	<string>iransk flagga</string>
+	<key>🕳️</key>
+	<string>hål</string>
+	<key>⌨️</key>
+	<string>tangentbord</string>
+	<key>🇾🇹</key>
+	<string>Mayottes flagga</string>
+	<key>🇪🇷</key>
+	<string>eritreansk flagga</string>
+	<key>⛷️</key>
+	<string>skidåkare</string>
+	<key>🇲🇸</key>
+	<string>Montserrats flagga</string>
+	<key>🇦🇷</key>
+	<string>argentinsk flagga</string>
+	<key>🇮🇸</key>
+	<string>isländsk flagga</string>
+	<key>👨‍💻</key>
+	<string>man som är teknolog</string>
+	<key>🌤️</key>
+	<string>sol bakom litet moln</string>
+	<key>🇪🇸</key>
+	<string>spansk flagga</string>
+	<key>🇲🇹</key>
+	<string>maltesisk flagga</string>
+	<key>🇦🇸</key>
+	<string>Amerikanska Samoas flagga</string>
+	<key>🇮🇹</key>
+	<string>italiensk flagga</string>
+	<key>❤️‍🩹</key>
+	<string>helande hjärta</string>
+	<key>🏔️</key>
+	<string>snöbeklätt berg</string>
+	<key>🇪🇹</key>
+	<string>etiopisk flagga</string>
+	<key>🤷‍♀️</key>
+	<string>kvinna som rycker på axlarna</string>
+	<key>🇲🇺</key>
+	<string>Mauritius flagga</string>
+	<key>🇦🇹</key>
+	<string>österrikisk flagga</string>
+	<key>🖤</key>
+	<string>svart hjärta</string>
+	<key>👩‍🦯</key>
+	<string>kvinna med vit käpp</string>
+	<key>👱‍♂️</key>
+	<string>man med blont hår</string>
+	<key>👨‍💼</key>
+	<string>man som är kontorsarbetare</string>
+	<key>⛰️</key>
+	<string>berg</string>
+	<key>🇪🇺</key>
+	<string>EU:s flagga</string>
+	<key>🇲🇻</key>
+	<string>Maldivernas flagga</string>
+	<key>🇦🇺</key>
+	<string>australisk flagga</string>
+	<key>🇲🇼</key>
+	<string>malawisk flagga</string>
+	<key>👩‍🦰</key>
+	<string>kvinna med rött hår</string>
+	<key>🇲🇽</key>
+	<string>mexikansk flagga</string>
+	<key>🇺🇾</key>
+	<string>uruguayisk flagga</string>
+	<key>🇦🇼</key>
+	<string>arubisk flagga</string>
+	<key>☹️</key>
+	<string>surt ansikte</string>
+	<key>⌚️</key>
+	<string>klocka</string>
+	<key>🕵️</key>
+	<string>detektiv</string>
+	<key>⛩️</key>
+	<string>Shinto-helgedom</string>
+	<key>🇲🇾</key>
+	<string>malaysisk flagga</string>
+	<key>🧎‍♀️</key>
+	<string>kvinna på knä</string>
+	<key>🇺🇿</key>
+	<string>uzbekistansk flagga</string>
+	<key>🇦🇽</key>
+	<string>Ålands flagga</string>
+	<key>👩‍🦱</key>
+	<string>kvinna med lockigt hår</string>
+	<key>🙇‍♂️</key>
+	<string>man som bugar</string>
+	<key>🌦️</key>
+	<string>sol bakom regnmoln</string>
+	<key>🇲🇿</key>
+	<string>Moçambiques flagga</string>
+	<key>🏖️</key>
+	<string>strand med parasoll</string>
+	<key>👩‍🦲</key>
+	<string>kvinna utan hår</string>
+	<key>🇦🇿</key>
+	<string>azerbajdzjansk flagga</string>
+	<key>➕</key>
+	<string>plustecken</string>
+	<key>🕊️</key>
+	<string>duva</string>
+	<key>➖</key>
+	<string>minustecken</string>
+	<key>➗</key>
+	<string>divisionstecken</string>
+	<key>🗺️</key>
+	<string>världskarta</string>
+	<key>👩‍🦳</key>
+	<string>kvinna med vitt hår</string>
+	<key>7️⃣</key>
+	<string>tangent med siffran sju</string>
+	<key>🅰️</key>
+	<string>blodgrupp A</string>
+	<key>🤦‍♀️</key>
+	<string>kvinna som tar sig för pannan</string>
+	<key>🧝‍♂️</key>
+	<string>manlig alv</string>
+	<key>🕷️</key>
+	<string>spindel</string>
+	<key>✳️</key>
+	<string>åttauddig asterisk</string>
+	<key>🌨️</key>
+	<string>moln med snö</string>
+	<key>🦸‍♂️</key>
+	<string>man som är superhjälte</string>
+	<key>➰</key>
+	<string>ögla</string>
+	<key>🏘️</key>
+	<string>husgrupp</string>
+	<key>0️⃣</key>
+	<string>tangent med siffran noll</string>
+	<key>🤵‍♂️</key>
+	<string>man i smoking</string>
+	<key>⛔️</key>
+	<string>infart förbjuden</string>
+	<key>👨‍👧‍👦</key>
+	<string>familj med pappa, son och dotter</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>familj med mamma, pappa och två söner</string>
+	<key>🧑‍🏫</key>
+	<string>lärare</string>
+	<key>➿</key>
+	<string>dubbla öglor</string>
+	<key>㊙️</key>
+	<string>Japanskt tecken som betyder ”hemligt”</string>
+	<key>☝️</key>
+	<string>pekfingret uppåt</string>
+	<key>🕹️</key>
+	<string>styrspak</string>
+	<key>🗑️</key>
+	<string>papperskorg</string>
+	<key>🌪️</key>
+	<string>tornado</string>
+	<key>🧑‍🏭</key>
+	<string>fabriksarbetare</string>
+	<key>↗️</key>
+	<string>upp- och högerpil</string>
+	<key>⤵️</key>
+	<string>högerpil böjd nedåt</string>
+	<key>🏚️</key>
+	<string>fallfärdigt hus</string>
+	<key>©️</key>
+	<string>copyright-tecken</string>
+	<key>👨‍🏫</key>
+	<string>man som är lärare</string>
+	<key>🗓️</key>
+	<string>spiralbunden kalender</string>
+	<key>⏸️</key>
+	<string>paussymbol</string>
+	<key>🧑‍✈️</key>
+	<string>pilot</string>
+	<key>🌬️</key>
+	<string>ansikte som blåser vind</string>
+	<key>👨‍🏭</key>
+	<string>man som är fabriksarbetare</string>
+	<key>🏜️</key>
+	<string>öken</string>
+	<key>♠️</key>
+	<string>spader</string>
+	<key>🖨️</key>
+	<string>skrivare</string>
+	<key>⏱️</key>
+	<string>tidtagarur</string>
+	<key>👩‍🦼</key>
+	<string>kvinna i motordriven rullstol</string>
+	<key>🗻</key>
+	<string>fujiberget</string>
+	<key>🫱‍🫲</key>
+	<string>handskakning</string>
+	<key>🗼</key>
+	<string>Tokyo tower</string>
+	<key>🗽</key>
+	<string>Frihetsgudinnan</string>
+	<key>🗾</key>
+	<string>silhuett av Japan</string>
+	<key>🤸‍♂️</key>
+	<string>man som hjular</string>
+	<key>🌀</key>
+	<string>cyklon</string>
+	<key>🗿</key>
+	<string>påsköstaty</string>
+	<key>☁️</key>
+	<string>moln</string>
+	<key>🌁</key>
+	<string>bro under dimma</string>
+	<key>😀</key>
+	<string>flinande ansikte</string>
+	<key>👩‍🦽</key>
+	<string>kvinna i manuell rullstol</string>
+	<key>🌂</key>
+	<string>nedfällt paraply</string>
+	<key>😁</key>
+	<string>storleende ansikte med kisande ögon</string>
+	<key>⚱️</key>
+	<string>gravurna</string>
+	<key>🌃</key>
+	<string>natt med stjärnor</string>
+	<key>😂</key>
+	<string>ansikte med glädjetårar</string>
+	<key>✉️</key>
+	<string>kuvert</string>
+	<key>👨‍👧‍👧</key>
+	<string>familj med pappa och två döttrar</string>
+	<key>🤽‍♀️</key>
+	<string>kvinna som spelar vattenpolo</string>
+	<key>🌄</key>
+	<string>soluppgång över berg</string>
+	<key>😃</key>
+	<string>flinande ansikte med stora ögon</string>
+	<key>🌅</key>
+	<string>soluppgång</string>
+	<key>😄</key>
+	<string>flinande ansikte med leende ögon</string>
+	<key>👷‍♂️</key>
+	<string>man som är byggarbetare</string>
+	<key>👨‍✈️</key>
+	<string>man som är pilot</string>
+	<key>🌆</key>
+	<string>stadsbild i skymning</string>
+	<key>😅</key>
+	<string>flinande ansikte med svett</string>
+	<key>🌇</key>
+	<string>solnedgång över byggnader</string>
+	<key>😆</key>
+	<string>flinande ansikte med kisande ögon</string>
+	<key>🌈</key>
+	<string>regnbåge</string>
+	<key>😇</key>
+	<string>leende ansikte med gloria</string>
+	<key>🌉</key>
+	<string>bro på kvällen</string>
+	<key>😈</key>
+	<string>leende ansikte med horn</string>
+	<key>🏞️</key>
+	<string>nationalpark</string>
+	<key>🌊</key>
+	<string>våg</string>
+	<key>😉</key>
+	<string>blinkning med ett öga</string>
+	<key>🌋</key>
+	<string>vulkan</string>
+	<key>😊</key>
+	<string>leende ansikte med kisande ögon</string>
+	<key>♒️</key>
+	<string>Vattumannen</string>
+	<key>🌌</key>
+	<string>Vintergatan</string>
+	<key>😋</key>
+	<string>leende ansikte som slickar sig om läpparna</string>
+	<key>⚪️</key>
+	<string>vit cirkel</string>
+	<key>🌍</key>
+	<string>glob som visar Europa och Afrika</string>
+	<key>😌</key>
+	<string>lättat ansikte</string>
+	<key>🧏‍♂️</key>
+	<string>Döv man</string>
+	<key>✂️</key>
+	<string>sax</string>
+	<key>🌎</key>
+	<string>glob som visar Nord- och Sydamerika</string>
+	<key>🤌</key>
+	<string>hopknipna fingrar</string>
+	<key>😍</key>
+	<string>leende ansikte med hjärtformade ögon</string>
+	<key>🌏</key>
+	<string>glob som visar Asien och Australien</string>
+	<key>🤍</key>
+	<string>vitt hjärta</string>
+	<key>😎</key>
+	<string>leende ansikte med solglasögon</string>
+	<key>🌐</key>
+	<string>glob med meridianer</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>familj med mamma, pappa och två döttrar</string>
+	<key>🤎</key>
+	<string>brunt hjärta</string>
+	<key>😏</key>
+	<string>småleende ansikte</string>
+	<key>🌑</key>
+	<string>nymåne</string>
+	<key>🤏</key>
+	<string>nypande hand</string>
+	<key>😐</key>
+	<string>neutralt ansikte</string>
+	<key>🧔‍♀️</key>
+	<string>kvinna med skägg</string>
+	<key>🌒</key>
+	<string>tilltagande halvmåne</string>
+	<key>🤐</key>
+	<string>ansikte med blixtlås över munnen</string>
+	<key>😑</key>
+	<string>uttryckslöst ansikte</string>
+	<key>🙍‍♂️</key>
+	<string>man med hängande huvud</string>
+	<key>🌓</key>
+	<string>månen i första kvarteret</string>
+	<key>🤑</key>
+	<string>ansikte med pengamun</string>
+	<key>😒</key>
+	<string>ej roat ansikte</string>
+	<key>🌔</key>
+	<string>tilltagande fullmåne</string>
+	<key>🤒</key>
+	<string>ansikte med termometer</string>
+	<key>😓</key>
+	<string>nedslaget ansikte med svett</string>
+	<key>🌕</key>
+	<string>fullmåne</string>
+	<key>🤓</key>
+	<string>leende ansikte med glasögon</string>
+	<key>😔</key>
+	<string>ledset avvaktande ansikte</string>
+	<key>♋️</key>
+	<string>Kräftan</string>
+	<key>🌖</key>
+	<string>avtagande fullmåne</string>
+	<key>🤔</key>
+	<string>tänkande ansikte</string>
+	<key>😕</key>
+	<string>förvirrat ansikte</string>
+	<key>🌗</key>
+	<string>månen i sista kvarteret</string>
+	<key>🤕</key>
+	<string>ansikte med bandage på huvudet</string>
+	<key>😖</key>
+	<string>förbryllat ansikte</string>
+	<key>🌘</key>
+	<string>avtagande halvmåne</string>
+	<key>🤖</key>
+	<string>robotansikte</string>
+	<key>😗</key>
+	<string>pussande ansikte</string>
+	<key>🌙</key>
+	<string>halvmåne</string>
+	<key>🤗</key>
+	<string>kramande ansikte</string>
+	<key>😘</key>
+	<string>ansikte som ger en slängkyss</string>
+	<key>🌚</key>
+	<string>nymåne med ansikte</string>
+	<key>🤘</key>
+	<string>corna</string>
+	<key>😙</key>
+	<string>pussande ansikte med kisande ögon</string>
+	<key>🌛</key>
+	<string>måne i första kvarteret med ansikte</string>
+	<key>🤙</key>
+	<string>ring mig-handsignal</string>
+	<key>😚</key>
+	<string>pussande ansikte som blundar</string>
+</dict>
+</plist>

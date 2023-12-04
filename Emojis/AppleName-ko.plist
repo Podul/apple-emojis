@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>얼굴이 그려진 하현달</string>
+	<key>🤚</key>
+	<string>손등</string>
+	<key>😛</key>
+	<string>혀를 내밀고 있는 얼굴</string>
+	<key>👩‍🔧</key>
+	<string>여자 정비공</string>
+	<key>🌝</key>
+	<string>얼굴이 그려진 보름달</string>
+	<key>🤛</key>
+	<string>왼쪽을 향하는 주먹</string>
+	<key>😜</key>
+	<string>혀를 쏙 내밀고 윙크하는 얼굴</string>
+	<key>🌞</key>
+	<string>얼굴이 그려진 태양</string>
+	<key>🤜</key>
+	<string>오른쪽을 향하는 주먹</string>
+	<key>😝</key>
+	<string>혀를 내밀고 눈웃음짓는 얼굴</string>
+	<key>🌟</key>
+	<string>밝게 빛나는 별</string>
+	<key>🤝</key>
+	<string>악수</string>
+	<key>😞</key>
+	<string>실망한 얼굴</string>
+	<key>🌠</key>
+	<string>별똥별</string>
+	<key>🤞</key>
+	<string>행운 빌기</string>
+	<key>😟</key>
+	<string>걱정하는 얼굴</string>
+	<key>🐈‍⬛</key>
+	<string>검은 고양이</string>
+	<key>🤟</key>
+	<string>사랑해 제스처</string>
+	<key>😠</key>
+	<string>화난 얼굴</string>
+	<key>⚜️</key>
+	<string>백합 문장</string>
+	<key>⛴️</key>
+	<string>페리</string>
+	<key>🤠</key>
+	<string>카우보이 얼굴</string>
+	<key>😡</key>
+	<string>붉게 화난 얼굴</string>
+	<key>🤡</key>
+	<string>광대 얼굴</string>
+	<key>😢</key>
+	<string>울고 있는 얼굴</string>
+	<key>⬛️</key>
+	<string>큰 검은색 사각형</string>
+	<key>🤢</key>
+	<string>구역질을 하는 얼굴</string>
+	<key>😣</key>
+	<string>참아내는 얼굴</string>
+	<key>🤣</key>
+	<string>바닥을 구르며 웃는 얼굴</string>
+	<key>😤</key>
+	<string>콧김을 내뿜는 얼굴</string>
+	<key>🤤</key>
+	<string>침 흘리는 얼굴</string>
+	<key>😥</key>
+	<string>슬프지만 안도하는 얼굴</string>
+	<key>🤥</key>
+	<string>거짓말 하는 얼굴</string>
+	<key>😦</key>
+	<string>입을 벌리고 찌푸린 얼굴</string>
+	<key>🤦</key>
+	<string>골치 아파하는 사람</string>
+	<key>😧</key>
+	<string>괴로운 얼굴</string>
+	<key>🤧</key>
+	<string>재채기하는 얼굴</string>
+	<key>😨</key>
+	<string>두려워하는 얼굴</string>
+	<key>🤨</key>
+	<string>눈썹을 추켜올린 얼굴</string>
+	<key>😩</key>
+	<string>지친 얼굴</string>
+	<key>🤩</key>
+	<string>별 모양의 눈을 한 얼굴</string>
+	<key>⚕️</key>
+	<string>아이스쿨라피우스의 지팡이</string>
+	<key>😪</key>
+	<string>졸린 얼굴</string>
+	<key>👁️‍🗨️</key>
+	<string>목격자</string>
+	<key>🤪</key>
+	<string>바보 같은 얼굴</string>
+	<key>😫</key>
+	<string>괴로워하는 얼굴</string>
+	<key>🌭</key>
+	<string>핫도그</string>
+	<key>🤫</key>
+	<string>쉿 하는 얼굴</string>
+	<key>😬</key>
+	<string>찡그린 얼굴</string>
+	<key>🌮</key>
+	<string>타코</string>
+	<key>🤬</key>
+	<string>입에 기호 표시한 얼굴</string>
+	<key>😭</key>
+	<string>엉엉 우는 얼굴</string>
+	<key>🌯</key>
+	<string>부리토</string>
+	<key>🤭</key>
+	<string>웃는 눈으로 입 위에 손을 올린 얼굴</string>
+	<key>😮</key>
+	<string>입을 벌리고 있는 놀란 얼굴</string>
+	<key>🌰</key>
+	<string>밤</string>
+	<key>🤮</key>
+	<string>토하는 얼굴</string>
+	<key>😯</key>
+	<string>놀란 얼굴</string>
+	<key>🌱</key>
+	<string>묘목</string>
+	<key>🤯</key>
+	<string>뚜껑 열린 머리</string>
+	<key>😰</key>
+	<string>땀을 흘리며 걱정하는 얼굴</string>
+	<key>🌲</key>
+	<string>상록수</string>
+	<key>🤰</key>
+	<string>임산부</string>
+	<key>😱</key>
+	<string>공포에 절규하는 얼굴</string>
+	<key>🌳</key>
+	<string>나무</string>
+	<key>🤱</key>
+	<string>모유 수유</string>
+	<key>😲</key>
+	<string>깜짝 놀란 얼굴</string>
+	<key>🛡️</key>
+	<string>방패</string>
+	<key>🌴</key>
+	<string>야자수 나무</string>
+	<key>🤲</key>
+	<string>두 손 모아 위를 향한 손바닥</string>
+	<key>😳</key>
+	<string>눈을 크게 뜬 얼굴</string>
+	<key>🌵</key>
+	<string>선인장</string>
+	<key>🤳</key>
+	<string>셀피</string>
+	<key>😴</key>
+	<string>잠자는 얼굴</string>
+	<key>🤴</key>
+	<string>왕자</string>
+	<key>😵</key>
+	<string>어지러워하는 얼굴</string>
+	<key>👩‍🌾</key>
+	<string>여자 농부</string>
+	<key>🌷</key>
+	<string>튤립</string>
+	<key>🤵</key>
+	<string>턱시도를 입은 사람</string>
+	<key>😶</key>
+	<string>입이 없는 얼굴</string>
+	<key>🌸</key>
+	<string>벚꽃</string>
+	<key>🤶</key>
+	<string>산타 할머니</string>
+	<key>😷</key>
+	<string>의료용 마스크를 쓴 얼굴</string>
+	<key>🌹</key>
+	<string>장미</string>
+	<key>🤷</key>
+	<string>어깨를 으쓱하는 사람</string>
+	<key>😸</key>
+	<string>활짝 웃는 고양이 얼굴</string>
+	<key>🌺</key>
+	<string>히비스커스</string>
+	<key>🤸</key>
+	<string>옆구르기하는 사람</string>
+	<key>😹</key>
+	<string>기쁨의 눈물을 흘리는 고양이 얼굴</string>
+	<key>🌻</key>
+	<string>해바라기</string>
+	<key>🤹</key>
+	<string>저글링하는 사람</string>
+	<key>😺</key>
+	<string>행복한 고양이 얼굴</string>
+	<key>🌼</key>
+	<string>꽃</string>
+	<key>🤺</key>
+	<string>펜싱 선수</string>
+	<key>😻</key>
+	<string>하트 눈의 웃는 고양이 얼굴</string>
+	<key>🌽</key>
+	<string>옥수수</string>
+	<key>😼</key>
+	<string>히죽거리는 고양이 얼굴</string>
+	<key>🇿🇦</key>
+	<string>남아프리카 깃발</string>
+	<key>👩‍🔬</key>
+	<string>여자 과학자</string>
+	<key>🌾</key>
+	<string>벼 이삭</string>
+	<key>🤼</key>
+	<string>레슬링하는 사람</string>
+	<key>😽</key>
+	<string>키스하는 고양이 얼굴</string>
+	<key>🇻🇦</key>
+	<string>바티칸 시티 깃발</string>
+	<key>🌿</key>
+	<string>허브</string>
+	<key>🤽</key>
+	<string>수구하는 사람</string>
+	<key>😾</key>
+	<string>못마땅한 표정의 고양이 얼굴</string>
+	<key>☯️</key>
+	<string>음양</string>
+	<key>🍀</key>
+	<string>네잎 클로버</string>
+	<key>🤾</key>
+	<string>핸드볼하는 사람</string>
+	<key>😿</key>
+	<string>울고 있는 고양이 얼굴</string>
+	<key>🍁</key>
+	<string>단풍잎</string>
+	<key>🤿</key>
+	<string>다이빙 마스크</string>
+	<key>🧑‍🍳</key>
+	<string>요리사</string>
+	<key>🇳🇦</key>
+	<string>나미비아 깃발</string>
+	<key>🙀</key>
+	<string>공포에 절규하는 고양이 얼굴</string>
+	<key>🧗‍♀️</key>
+	<string>여자 암벽 등반가</string>
+	<key>⁉️</key>
+	<string>빨간색 느낌표와 물음표</string>
+	<key>🍂</key>
+	<string>낙엽</string>
+	<key>🥀</key>
+	<string>시든 장미</string>
+	<key>🙁</key>
+	<string>살짝 찌푸린 얼굴</string>
+	<key>🍃</key>
+	<string>바람에 날아다니는 잎</string>
+	<key>🥁</key>
+	<string>드럼</string>
+	<key>🙂</key>
+	<string>살짝 웃는 얼굴</string>
+	<key>⬆️</key>
+	<string>위쪽 화살표</string>
+	<key>🍄</key>
+	<string>버섯</string>
+	<key>🥂</key>
+	<string>건배하는 샴페인 잔</string>
+	<key>🙃</key>
+	<string>거꾸로 된 얼굴</string>
+	<key>5️⃣</key>
+	<string>숫자 5 키캡</string>
+	<key>🍅</key>
+	<string>토마토</string>
+	<key>🥃</key>
+	<string>유리잔</string>
+	<key>🙄</key>
+	<string>눈을 위로 굴리는 얼굴</string>
+	<key>🇻🇨</key>
+	<string>세인트 빈센트 그레나딘 깃발</string>
+	<key>🇧🇦</key>
+	<string>보스니아 헤르체고비나 깃발</string>
+	<key>↩️</key>
+	<string>오른쪽으로 가다가 왼쪽으로 꺾인 화살표</string>
+	<key>🍆</key>
+	<string>가지</string>
+	<key>🥄</key>
+	<string>숟가락</string>
+	<key>🙅</key>
+	<string>안된다는 제스처를 하는 사람</string>
+	<key>🍇</key>
+	<string>포도</string>
+	<key>🥅</key>
+	<string>골대</string>
+	<key>🙆</key>
+	<string>OK 제스처를 하는 사람</string>
+	<key>🛣️</key>
+	<string>고속도로</string>
+	<key>🍈</key>
+	<string>멜론</string>
+	<key>🙇</key>
+	<string>절하는 사람</string>
+	<key>🇳🇨</key>
+	<string>뉴칼레도니아 깃발</string>
+	<key>🍉</key>
+	<string>수박</string>
+	<key>🇧🇧</key>
+	<string>바베이도스 깃발</string>
+	<key>🥇</key>
+	<string>금메달</string>
+	<key>🙈</key>
+	<string>눈을 가리고 있는 원숭이</string>
+	<key>🍊</key>
+	<string>귤</string>
+	<key>🥈</key>
+	<string>은메달</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>스코틀랜드 깃발</string>
+	<key>🙉</key>
+	<string>귀를 막고 있는 원숭이</string>
+	<key>🍋</key>
+	<string>레몬</string>
+	<key>🥉</key>
+	<string>동메달</string>
+	<key>🙊</key>
+	<string>입을 막고 있는 원숭이</string>
+	<key>🍌</key>
+	<string>바나나</string>
+	<key>🥊</key>
+	<string>권투 장갑</string>
+	<key>🇻🇪</key>
+	<string>베네수엘라 깃발</string>
+	<key>🙋</key>
+	<string>한 손을 들고 있는 사람</string>
+	<key>🍍</key>
+	<string>파인애플</string>
+	<key>🥋</key>
+	<string>도복</string>
+	<key>🙌</key>
+	<string>환호하며 들어올린 양손</string>
+	<key>🇷🇪</key>
+	<string>레위니옹 깃발</string>
+	<key>🍎</key>
+	<string>빨간색 사과</string>
+	<key>🥌</key>
+	<string>컬링 스톤</string>
+	<key>🙍</key>
+	<string>약간 찌푸린 사람</string>
+	<key>🍏</key>
+	<string>초록색 사과</string>
+	<key>🇳🇪</key>
+	<string>니제르 깃발</string>
+	<key>🥍</key>
+	<string>라크로스 스틱과 공</string>
+	<key>🙎</key>
+	<string>못마땅한 표정의 사람</string>
+	<key>🅾️</key>
+	<string>O형</string>
+	<key>🇧🇩</key>
+	<string>방글라데시 깃발</string>
+	<key>🍐</key>
+	<string>배</string>
+	<key>🥎</key>
+	<string>소프트볼</string>
+	<key>🇯🇪</key>
+	<string>저지 깃발</string>
+	<key>🙏</key>
+	<string>동시에 맞닿은 손</string>
+	<key>🍑</key>
+	<string>복숭아</string>
+	<key>🥏</key>
+	<string>원반</string>
+	<key>🍒</key>
+	<string>체리</string>
+	<key>🥐</key>
+	<string>크로아상</string>
+	<key>🇳🇫</key>
+	<string>노퍽 섬 깃발</string>
+	<key>🍓</key>
+	<string>딸기</string>
+	<key>🇻🇬</key>
+	<string>영국령 버진 아일랜드 깃발</string>
+	<key>🇧🇪</key>
+	<string>벨기에 깃발</string>
+	<key>🥑</key>
+	<string>아보카도</string>
+	<key>🍔</key>
+	<string>햄버거</string>
+	<key>🥒</key>
+	<string>오이</string>
+	<key>⛑️</key>
+	<string>흰색 십자 모양이 있는 헬멧</string>
+	<key>🍕</key>
+	<string>피자</string>
+	<key>🥓</key>
+	<string>베이컨</string>
+	<key>🇳🇬</key>
+	<string>나이지리아 깃발</string>
+	<key>🍖</key>
+	<string>뼈에 붙어 있는 고기</string>
+	<key>🥔</key>
+	<string>감자</string>
+	<key>👨‍🍳</key>
+	<string>남자 요리사</string>
+	<key>🇧🇫</key>
+	<string>부르키나파소 깃발</string>
+	<key>🍗</key>
+	<string>닭다리</string>
+	<key>👮‍♀️</key>
+	<string>경찰(여자)</string>
+	<key>🥕</key>
+	<string>당근</string>
+	<key>⭐️</key>
+	<string>별표</string>
+	<key>🍘</key>
+	<string>쌀과자</string>
+	<key>🥖</key>
+	<string>바게트</string>
+	<key>🗝️</key>
+	<string>옛날식 열쇠</string>
+	<key>🌶️</key>
+	<string>매운 고추</string>
+	<key>🍙</key>
+	<string>주먹밥</string>
+	<key>🥗</key>
+	<string>야채 샐러드</string>
+	<key>🏃‍♂️</key>
+	<string>달리기하는 남자</string>
+	<key>🇻🇮</key>
+	<string>미국령 버진 아일랜드 깃발</string>
+	<key>🇧🇬</key>
+	<string>불가리아 깃발</string>
+	<key>🍚</key>
+	<string>밥</string>
+	<key>🥘</key>
+	<string>음식이 들어있는 팬</string>
+	<key>🍛</key>
+	<string>카레라이스</string>
+	<key>🥙</key>
+	<string>피타 샌드위치</string>
+	<key>🍜</key>
+	<string>김이 나는 그릇</string>
+	<key>🥚</key>
+	<string>달걀</string>
+	<key>🛥️</key>
+	<string>모터보트</string>
+	<key>🇳🇮</key>
+	<string>니카라과 깃발</string>
+	<key>🍝</key>
+	<string>스파게티</string>
+	<key>🥛</key>
+	<string>우유</string>
+	<key>🇧🇭</key>
+	<string>바레인 깃발</string>
+	<key>🍞</key>
+	<string>빵</string>
+	<key>🥜</key>
+	<string>땅콩</string>
+	<key>🍟</key>
+	<string>감자 튀김</string>
+	<key>👨‍👨‍👦</key>
+	<string>두 명의 아빠와 아들로 구성된 가족</string>
+	<key>🥝</key>
+	<string>키위</string>
+	<key>🇫🇮</key>
+	<string>핀란드 깃발</string>
+	<key>🤾‍♂️</key>
+	<string>핸드볼하는 남자</string>
+	<key>🍠</key>
+	<string>군고구마</string>
+	<key>🖲️</key>
+	<string>트랙 볼</string>
+	<key>🥞</key>
+	<string>팬케이크</string>
+	<key>🇧🇮</key>
+	<string>부룬디 깃발</string>
+	<key>🍡</key>
+	<string>당고</string>
+	<key>🥟</key>
+	<string>만두</string>
+	<key>🍢</key>
+	<string>어묵</string>
+	<key>🥠</key>
+	<string>포춘 쿠키</string>
+	<key>🇫🇯</key>
+	<string>피지 깃발</string>
+	<key>🍣</key>
+	<string>초밥</string>
+	<key>🥡</key>
+	<string>음식 포장용 용기</string>
+	<key>🍤</key>
+	<string>새우 튀김</string>
+	<key>🥢</key>
+	<string>젓가락</string>
+	<key>🇧🇯</key>
+	<string>베냉 깃발</string>
+	<key>↔️</key>
+	<string>양방향 화살표</string>
+	<key>🍥</key>
+	<string>소용돌이 모양의 어묵</string>
+	<key>🥣</key>
+	<string>그릇과 숟가락</string>
+	<key>🍦</key>
+	<string>소프트 아이스크림</string>
+	<key>🇿🇲</key>
+	<string>잠비아 깃발</string>
+	<key>🇫🇰</key>
+	<string>포클랜드 제도 깃발</string>
+	<key>🥤</key>
+	<string>테이크아웃 컵</string>
+	<key>🏌️‍♀️</key>
+	<string>여자 골퍼</string>
+	<key>🇳🇱</key>
+	<string>네덜란드 깃발</string>
+	<key>🍧</key>
+	<string>빙수</string>
+	<key>🥥</key>
+	<string>코코넛</string>
+	<key>🍨</key>
+	<string>아이스크림</string>
+	<key>🥦</key>
+	<string>브로콜리</string>
+	<key>🍩</key>
+	<string>도넛</string>
+	<key>🥧</key>
+	<string>파이</string>
+	<key>🖇️</key>
+	<string>연결된 클립</string>
+	<key>🍪</key>
+	<string>쿠키</string>
+	<key>🥨</key>
+	<string>프레첼</string>
+	<key>🇻🇳</key>
+	<string>베트남 깃발</string>
+	<key>💂‍♀️</key>
+	<string>여자 근위병</string>
+	<key>🇧🇱</key>
+	<string>생 바르텔르미 깃발</string>
+	<key>🍫</key>
+	<string>초콜릿바</string>
+	<key>🇯🇲</key>
+	<string>자메이카 깃발</string>
+	<key>🥩</key>
+	<string>스테이크</string>
+	<key>🍬</key>
+	<string>캔디</string>
+	<key>🥪</key>
+	<string>샌드위치</string>
+	<key>⛹️‍♀️</key>
+	<string>여자 농구 선수</string>
+	<key>🍭</key>
+	<string>막대 사탕</string>
+	<key>🇫🇲</key>
+	<string>미크로네시아 깃발</string>
+	<key>🥫</key>
+	<string>통조림 식품</string>
+	<key>🍮</key>
+	<string>커스터드</string>
+	<key>👨‍❤️‍👨</key>
+	<string>두 명의 남자와 하트</string>
+	<key>🥬</key>
+	<string>채소</string>
+	<key>🇧🇲</key>
+	<string>버뮤다 깃발</string>
+	<key>🍯</key>
+	<string>꿀단지</string>
+	<key>🥭</key>
+	<string>망고</string>
+	<key>🇷🇴</key>
+	<string>루마니아 깃발</string>
+	<key>🍰</key>
+	<string>쇼트케이크</string>
+	<key>🥮</key>
+	<string>월병</string>
+	<key>🍱</key>
+	<string>도시락</string>
+	<key>🇳🇴</key>
+	<string>노르웨이 깃발</string>
+	<key>🥯</key>
+	<string>베이글</string>
+	<key>🇧🇳</key>
+	<string>브루나이 깃발</string>
+	<key>🧚‍♀️</key>
+	<string>여자 요정</string>
+	<key>🍲</key>
+	<string>음식 그릇</string>
+	<key>🇯🇴</key>
+	<string>요르단 깃발</string>
+	<key>🥰</key>
+	<string>하트가 달린 웃는 얼굴</string>
+	<key>🍳</key>
+	<string>요리</string>
+	<key>🥱</key>
+	<string>하품하는 얼굴</string>
+	<key>🇫🇴</key>
+	<string>페로 제도 깃발</string>
+	<key>🍴</key>
+	<string>포크와 나이프</string>
+	<key>🥲</key>
+	<string>눈물을 흘리며 웃는 얼굴</string>
+	<key>🇳🇵</key>
+	<string>네팔 깃발</string>
+	<key>✔️</key>
+	<string>체크 표시</string>
+	<key>🍵</key>
+	<string>손잡이가 없는 찻잔</string>
+	<key>🥳</key>
+	<string>파티 중인 얼굴</string>
+	<key>🇧🇴</key>
+	<string>볼리비아 깃발</string>
+	<key>🇯🇵</key>
+	<string>일본 깃발</string>
+	<key>🍶</key>
+	<string>사케 술병과 잔</string>
+	<key>🥴</key>
+	<string>멍한 얼굴</string>
+	<key>🍷</key>
+	<string>와인잔</string>
+	<key>🥵</key>
+	<string>더운 얼굴</string>
+	<key>🍸</key>
+	<string>칵테일 잔</string>
+	<key>🥶</key>
+	<string>추운 얼굴</string>
+	<key>🍹</key>
+	<string>열대 음료</string>
+	<key>🥷</key>
+	<string>닌자</string>
+	<key>🍺</key>
+	<string>맥주잔</string>
+	<key>🥸</key>
+	<string>변장한 얼굴</string>
+	<key>🚶‍♀️</key>
+	<string>여자 보행자</string>
+	<key>🍻</key>
+	<string>건배하는 맥주잔</string>
+	<key>🥹</key>
+	<string>눈물을 참으면서 웃는 얼굴</string>
+	<key>🇳🇷</key>
+	<string>나우루 깃발</string>
+	<key>🍼</key>
+	<string>젖병</string>
+	<key>🇧🇶</key>
+	<string>보나이러 깃발</string>
+	<key>🥺</key>
+	<string>애원하는 얼굴</string>
+	<key>🧑‍🍼</key>
+	<string>수유하는 사람</string>
+	<key>🥻</key>
+	<string>사리</string>
+	<key>🇷🇸</key>
+	<string>세르비아 깃발</string>
+	<key>🍾</key>
+	<string>코르크가 펑하고 열리는 병</string>
+	<key>🇫🇷</key>
+	<string>프랑스 깃발</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>키스하고 있는 남녀</string>
+	<key>🥼</key>
+	<string>실험실 가운</string>
+	<key>✍️</key>
+	<string>글을 쓰는 손</string>
+	<key>🍿</key>
+	<string>팝콘</string>
+	<key>🥽</key>
+	<string>고글</string>
+	<key>🇧🇷</key>
+	<string>브라질 깃발</string>
+	<key>🗡️</key>
+	<string>단검</string>
+	<key>⏮️</key>
+	<string>뒤로 건너뛰기 기호</string>
+	<key>🎀</key>
+	<string>리본</string>
+	<key>🥾</key>
+	<string>등산화</string>
+	<key>🎁</key>
+	<string>선물</string>
+	<key>🥿</key>
+	<string>플랫 슈즈</string>
+	<key>🚀</key>
+	<string>로켓</string>
+	<key>🎂</key>
+	<string>생일 케이크</string>
+	<key>🦀</key>
+	<string>꽃게</string>
+	<key>🚁</key>
+	<string>헬리콥터</string>
+	<key>🇻🇺</key>
+	<string>바누아투 깃발</string>
+	<key>🇧🇸</key>
+	<string>바하마 깃발</string>
+	<key>🎃</key>
+	<string>호박등</string>
+	<key>🕵️‍♀️</key>
+	<string>여자 형사</string>
+	<key>🦁</key>
+	<string>사자 얼굴</string>
+	<key>🚂</key>
+	<string>증기 기관차</string>
+	<key>🎄</key>
+	<string>크리스마스 트리</string>
+	<key>🇷🇺</key>
+	<string>러시아 깃발</string>
+	<key>🦂</key>
+	<string>전갈</string>
+	<key>🚃</key>
+	<string>레일 기차</string>
+	<key>🎅</key>
+	<string>산타 할아버지</string>
+	<key>🦃</key>
+	<string>칠면조</string>
+	<key>🚄</key>
+	<string>고속열차</string>
+	<key>🇳🇺</key>
+	<string>니우에 깃발</string>
+	<key>🛩️</key>
+	<string>소형 비행기</string>
+	<key>◾️</key>
+	<string>약간 작은 검은색 사각형</string>
+	<key>🎆</key>
+	<string>불꽃놀이</string>
+	<key>🇧🇹</key>
+	<string>부탄 깃발</string>
+	<key>🦄</key>
+	<string>유니콘</string>
+	<key>🚅</key>
+	<string>굉음을 내며 달리는 고속열차</string>
+	<key>🎇</key>
+	<string>불꽃놀이 폭죽</string>
+	<key>🦅</key>
+	<string>독수리</string>
+	<key>🚆</key>
+	<string>기차</string>
+	<key>👱‍♀️</key>
+	<string>금발을 한 여자</string>
+	<key>🎈</key>
+	<string>풍선</string>
+	<key>🇿🇼</key>
+	<string>짐바브웨 깃발</string>
+	<key>🦆</key>
+	<string>오리</string>
+	<key>🚇</key>
+	<string>지하철</string>
+	<key>😮‍💨</key>
+	<string>숨을 내쉬는 얼굴</string>
+	<key>🎉</key>
+	<string>파티 폭죽</string>
+	<key>🦇</key>
+	<string>박쥐</string>
+	<key>🚈</key>
+	<string>경전철</string>
+	<key>🎊</key>
+	<string>박 터트리기</string>
+	<key>🦈</key>
+	<string>상어</string>
+	<key>🚉</key>
+	<string>역</string>
+	<key>🇷🇼</key>
+	<string>르완다 깃발</string>
+	<key>🎋</key>
+	<string>타나바타 나무</string>
+	<key>🦉</key>
+	<string>부엉이</string>
+	<key>🚊</key>
+	<string>트램</string>
+	<key>🎌</key>
+	<string>교차된 깃발</string>
+	<key>🦊</key>
+	<string>여우 얼굴</string>
+	<key>🚋</key>
+	<string>전차</string>
+	<key>🎍</key>
+	<string>소나무 장식</string>
+	<key>🇧🇻</key>
+	<string>부베 섬 깃발</string>
+	<key>🦋</key>
+	<string>나비</string>
+	<key>🚌</key>
+	<string>버스</string>
+	<key>🎎</key>
+	<string>일본 인형</string>
+	<key>🦌</key>
+	<string>사슴</string>
+	<key>🚍</key>
+	<string>다가오는 버스</string>
+	<key>🎏</key>
+	<string>잉어 깃발</string>
+	<key>🦍</key>
+	<string>고릴라</string>
+	<key>🚎</key>
+	<string>트롤리 버스</string>
+	<key>🚏</key>
+	<string>버스 정류장</string>
+	<key>🎐</key>
+	<string>윈드벨</string>
+	<key>🦎</key>
+	<string>도마뱀</string>
+	<key>🇧🇼</key>
+	<string>보츠와나 깃발</string>
+	<key>🚐</key>
+	<string>미니버스</string>
+	<key>♏️</key>
+	<string>전갈자리</string>
+	<key>🎑</key>
+	<string>달맞이</string>
+	<key>🦏</key>
+	<string>코뿔소</string>
+	<key>🚑</key>
+	<string>구급차</string>
+	<key>👨‍🍼</key>
+	<string>수유하는 남자</string>
+	<key>⚧️</key>
+	<string>트랜스젠더 기호</string>
+	<key>👨‍👨‍👧</key>
+	<string>두 명의 아빠와 딸로 구성된 가족</string>
+	<key>🖋️</key>
+	<string>만년필</string>
+	<key>🚒</key>
+	<string>소방차</string>
+	<key>🎒</key>
+	<string>배낭</string>
+	<key>🎓</key>
+	<string>학사모</string>
+	<key>🦐</key>
+	<string>새우</string>
+	<key>🦑</key>
+	<string>오징어</string>
+	<key>🚓</key>
+	<string>경찰차</string>
+	<key>❗️</key>
+	<string>빨간색 느낌표</string>
+	<key>🦒</key>
+	<string>기린</string>
+	<key>🙇‍♀️</key>
+	<string>절하는 여자</string>
+	<key>🗣️</key>
+	<string>말하는 사람의 머리 실루엣</string>
+	<key>🚔</key>
+	<string>다가오는 경찰차</string>
+	<key>🦓</key>
+	<string>얼룩말</string>
+	<key>🚕</key>
+	<string>택시</string>
+	<key>🦔</key>
+	<string>고슴도치</string>
+	<key>🇳🇿</key>
+	<string>뉴질랜드 깃발</string>
+	<key>🦕</key>
+	<string>공룡</string>
+	<key>🚖</key>
+	<string>다가오는 택시</string>
+	<key>🇧🇾</key>
+	<string>벨라루스 깃발</string>
+	<key>🦖</key>
+	<string>티라노사우루스</string>
+	<key>🚗</key>
+	<string>자동차</string>
+	<key>🦗</key>
+	<string>귀뚜라미</string>
+	<key>🚘</key>
+	<string>다가오는 자동차</string>
+	<key>🦘</key>
+	<string>캥거루</string>
+	<key>🚙</key>
+	<string>스포츠 유틸리티 차량</string>
+	<key>🇧🇿</key>
+	<string>벨리즈 깃발</string>
+	<key>🦙</key>
+	<string>라마</string>
+	<key>🚚</key>
+	<string>배달 트럭</string>
+	<key>♈️</key>
+	<string>양자리</string>
+	<key>🦚</key>
+	<string>공작</string>
+	<key>🚛</key>
+	<string>트레일러 트럭</string>
+	<key>⚠️</key>
+	<string>경고</string>
+	<key>🦛</key>
+	<string>하마</string>
+	<key>🚜</key>
+	<string>트랙터</string>
+	<key>⛸️</key>
+	<string>아이스 스케이트</string>
+	<key>🧘‍♂️</key>
+	<string>가부좌한 남자</string>
+	<key>🧑‍🚀</key>
+	<string>우주 비행사</string>
+	<key>🦜</key>
+	<string>앵무새</string>
+	<key>🚝</key>
+	<string>모노레일</string>
+	<key>🦝</key>
+	<string>너구리</string>
+	<key>🚞</key>
+	<string>산악 기차</string>
+	<key>🎠</key>
+	<string>회전목마</string>
+	<key>🦞</key>
+	<string>랍스터</string>
+	<key>🚟</key>
+	<string>선이 위에 달린 기차</string>
+	<key>🎡</key>
+	<string>회전식 관람차</string>
+	<key>🦟</key>
+	<string>모기</string>
+	<key>🚠</key>
+	<string>산악 케이블카</string>
+	<key>🎢</key>
+	<string>롤러코스터</string>
+	<key>🦠</key>
+	<string>미생물</string>
+	<key>🚡</key>
+	<string>케이블카</string>
+	<key>🧝‍♀️</key>
+	<string>여자 엘프</string>
+	<key>🎣</key>
+	<string>낚싯대에 걸린 물고기</string>
+	<key>🦡</key>
+	<string>오소리</string>
+	<key>🚢</key>
+	<string>배</string>
+	<key>🎤</key>
+	<string>마이크</string>
+	<key>🦢</key>
+	<string>백조</string>
+	<key>🚣</key>
+	<string>노 젓는 사람</string>
+	<key>🎥</key>
+	<string>영화 카메라</string>
+	<key>🦣</key>
+	<string>매머드</string>
+	<key>🚤</key>
+	<string>고속 모터보트</string>
+	<key>🎦</key>
+	<string>영사기 기호</string>
+	<key>🦤</key>
+	<string>도도새</string>
+	<key>🚥</key>
+	<string>가로형 신호등</string>
+	<key>⚙️</key>
+	<string>기어</string>
+	<key>🚴‍♂️</key>
+	<string>남자 사이클리스트</string>
+	<key>🎧</key>
+	<string>헤드폰</string>
+	<key>🦥</key>
+	<string>나무늘보</string>
+	<key>🚦</key>
+	<string>세로형 신호등</string>
+	<key>⛱️</key>
+	<string>해수욕장 파라솔</string>
+	<key>🖍️</key>
+	<string>크레용</string>
+	<key>🎨</key>
+	<string>아티스트 팔레트</string>
+	<key>🦦</key>
+	<string>수달</string>
+	<key>🚧</key>
+	<string>건설 구간 표시</string>
+	<key>🎩</key>
+	<string>실크해트</string>
+	<key>🦧</key>
+	<string>오랑우탄</string>
+	<key>🚨</key>
+	<string>경찰차 사이렌 불</string>
+	<key>➡️</key>
+	<string>오른쪽 화살표</string>
+	<key>🎪</key>
+	<string>서커스 천막</string>
+	<key>🦨</key>
+	<string>스컹크</string>
+	<key>🚩</key>
+	<string>정상에 있는 삼각 깃발</string>
+	<key>🎫</key>
+	<string>티켓</string>
+	<key>🦩</key>
+	<string>플라밍고</string>
+	<key>🚪</key>
+	<string>문</string>
+	<key>🦸‍♀️</key>
+	<string>여자 슈퍼히어로</string>
+	<key>🎬</key>
+	<string>크래퍼보드</string>
+	<key>🦪</key>
+	<string>굴</string>
+	<key>🚫</key>
+	<string>금지됨</string>
+	<key>🎖️</key>
+	<string>훈장</string>
+	<key>🎭</key>
+	<string>행위 예술</string>
+	<key>🦫</key>
+	<string>비버</string>
+	<key>🚬</key>
+	<string>담배</string>
+	<key>🎮</key>
+	<string>비디오 게임 컨트롤러</string>
+	<key>🦬</key>
+	<string>들소</string>
+	<key>🚭</key>
+	<string>금연 기호</string>
+	<key>🎯</key>
+	<string>과녁 명중</string>
+	<key>🦭</key>
+	<string>물개</string>
+	<key>🚮</key>
+	<string>쓰레기는 여기에 표시</string>
+	<key>☺️</key>
+	<string>웃는 얼굴</string>
+	<key>🎰</key>
+	<string>슬롯머신</string>
+	<key>🦮</key>
+	<string>안내견</string>
+	<key>🚯</key>
+	<string>쓰레기 투기 금지</string>
+	<key>⚒️</key>
+	<string>망치와 곡괭이</string>
+	<key>🎱</key>
+	<string>당구공</string>
+	<key>🦯</key>
+	<string>흰색 지팡이</string>
+	<key>🚰</key>
+	<string>수도꼭지</string>
+	<key>🧑‍🎄</key>
+	<string>산타</string>
+	<key>⛪️</key>
+	<string>교회</string>
+	<key>🎲</key>
+	<string>주사위 게임</string>
+	<key>🤵‍♀️</key>
+	<string>턱시도를 입은 여자</string>
+	<key>⌛️</key>
+	<string>모래시계</string>
+	<key>🏋️‍♂️</key>
+	<string>남자 역도 선수</string>
+	<key>🚱</key>
+	<string>물 음용 금지</string>
+	<key>🎳</key>
+	<string>볼링공과 볼링핀</string>
+	<key>👯‍♂️</key>
+	<string>토끼 귀를 쓰고 춤추는 남자</string>
+	<key>👨‍🚀</key>
+	<string>남자 우주 비행사</string>
+	<key>🚲</key>
+	<string>자전거</string>
+	<key>🎴</key>
+	<string>화투</string>
+	<key>🚳</key>
+	<string>자전거 금지</string>
+	<key>👩‍👦‍👦</key>
+	<string>엄마와 두 명의 아들로 구성된 가족</string>
+	<key>🎵</key>
+	<string>음표</string>
+	<key>👨‍🤝‍👨</key>
+	<string>손을 잡고 있는 두 명의 남자</string>
+	<key>🚴</key>
+	<string>사이클리스트</string>
+	<key>🎶</key>
+	<string>음표</string>
+	<key>🦴</key>
+	<string>뼈</string>
+	<key>🚵</key>
+	<string>산악자전거 타는 사람</string>
+	<key>🎷</key>
+	<string>색소폰</string>
+	<key>🦵</key>
+	<string>다리</string>
+	<key>🚶</key>
+	<string>보행자</string>
+	<key>🎸</key>
+	<string>기타</string>
+	<key>🦶</key>
+	<string>발</string>
+	<key>🚷</key>
+	<string>보행 금지</string>
+	<key>🎹</key>
+	<string>건반</string>
+	<key>🦷</key>
+	<string>치아</string>
+	<key>🚸</key>
+	<string>횡단보도를 건너는 아이들</string>
+	<key>🎺</key>
+	<string>트럼펫</string>
+	<key>🦸</key>
+	<string>슈퍼히어로</string>
+	<key>🚹</key>
+	<string>남자 기호</string>
+	<key>🎻</key>
+	<string>바이올린</string>
+	<key>🦹</key>
+	<string>슈퍼 악당</string>
+	<key>🚺</key>
+	<string>여자 기호</string>
+	<key>🎼</key>
+	<string>악보</string>
+	<key>🦺</key>
+	<string>안전 조끼</string>
+	<key>🚻</key>
+	<string>화장실</string>
+	<key>🎽</key>
+	<string>러닝 셔츠</string>
+	<key>🦻</key>
+	<string>보청기를 낀 귀</string>
+	<key>🚼</key>
+	<string>아기 기호</string>
+	<key>🎾</key>
+	<string>테니스 공</string>
+	<key>🦼</key>
+	<string>전동 휠체어</string>
+	<key>🚽</key>
+	<string>변기</string>
+	<key>🎿</key>
+	<string>스키</string>
+	<key>🦽</key>
+	<string>수동 휠체어</string>
+	<key>🚾</key>
+	<string>화장실 기호</string>
+	<key>🏀</key>
+	<string>농구공</string>
+	<key>🦾</key>
+	<string>기계 팔</string>
+	<key>🙅‍♂️</key>
+	<string>안된다는 제스처를 하는 남자</string>
+	<key>🚿</key>
+	<string>샤워기</string>
+	<key>🏁</key>
+	<string>체크 무늬 깃발</string>
+	<key>🦿</key>
+	<string>기계 다리</string>
+	<key>🛀</key>
+	<string>목욕하는 사람</string>
+	<key>🏂</key>
+	<string>스노보더</string>
+	<key>🧀</key>
+	<string>치즈 조각</string>
+	<key>🛁</key>
+	<string>욕조</string>
+	<key>🚣‍♂️</key>
+	<string>노 젓는 남자</string>
+	<key>🏃</key>
+	<string>달리는 사람</string>
+	<key>🧁</key>
+	<string>컵케이크</string>
+	<key>🛂</key>
+	<string>출국 수속</string>
+	<key>🏄</key>
+	<string>서핑하는 사람</string>
+	<key>🧂</key>
+	<string>소금</string>
+	<key>🛃</key>
+	<string>세관</string>
+	<key>🏅</key>
+	<string>스포츠 메달</string>
+	<key>🧃</key>
+	<string>종이팩 주스</string>
+	<key>🛄</key>
+	<string>수하물 찾는 곳</string>
+	<key>🏆</key>
+	<string>트로피</string>
+	<key>🧄</key>
+	<string>마늘</string>
+	<key>🛅</key>
+	<string>맡겨 둔 수하물</string>
+	<key>🏇</key>
+	<string>달리는 말을 타고 있는 기수</string>
+	<key>🧅</key>
+	<string>양파</string>
+	<key>✴️</key>
+	<string>8개의 꼭짓점으로 이루어진 별</string>
+	<key>🖼️</key>
+	<string>사진이 있는 프레임</string>
+	<key>🏈</key>
+	<string>미식축구공</string>
+	<key>🧆</key>
+	<string>팔라펠</string>
+	<key>🏉</key>
+	<string>럭비공</string>
+	<key>🧇</key>
+	<string>와플</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>두 명의 아빠, 아들과 딸로 구성된 가족</string>
+	<key>🏊</key>
+	<string>수영하는 사람</string>
+	<key>🧈</key>
+	<string>버터</string>
+	<key>🧑‍⚖️</key>
+	<string>판사</string>
+	<key>3️⃣</key>
+	<string>숫자 3 키캡</string>
+	<key>🧉</key>
+	<string>마테차</string>
+	<key>🧊</key>
+	<string>얼음</string>
+	<key>🧋</key>
+	<string>버블티</string>
+	<key>🛌</key>
+	<string>잠자는 사람</string>
+	<key>🧛‍♂️</key>
+	<string>남자 뱀파이어</string>
+	<key>🧌</key>
+	<string>트롤</string>
+	<key>🏏</key>
+	<string>크리켓 방망이와 공</string>
+	<key>🧍</key>
+	<string>서 있는 사람</string>
+	<key>🏐</key>
+	<string>배구공</string>
+	<key>🧎</key>
+	<string>무릎 꿇은 사람</string>
+	<key>🏑</key>
+	<string>필드하키 스틱과 공</string>
+	<key>🧏</key>
+	<string>청각 장애인</string>
+	<key>🛐</key>
+	<string>기도 장소</string>
+	<key>🏒</key>
+	<string>아이스하키 스틱과 퍽</string>
+	<key>🧐</key>
+	<string>단안경을 쓴 얼굴</string>
+	<key>🛑</key>
+	<string>8각형 표지판</string>
+	<key>🏓</key>
+	<string>탁구채와 공</string>
+	<key>🧑</key>
+	<string>어른</string>
+	<key>🛒</key>
+	<string>쇼핑 카트</string>
+	<key>🧒</key>
+	<string>어린이</string>
+	<key>🧓</key>
+	<string>노인</string>
+	<key>🎚️</key>
+	<string>레벨 슬라이더</string>
+	<key>🧔</key>
+	<string>수염 난 사람</string>
+	<key>🛕</key>
+	<string>힌두 사원</string>
+	<key>🧕</key>
+	<string>히잡을 두른 여자</string>
+	<key>🛖</key>
+	<string>오두막</string>
+	<key>🧖</key>
+	<string>사우나하는 사람</string>
+	<key>🛗</key>
+	<string>엘리베이터</string>
+	<key>🧗</key>
+	<string>암벽 등반가</string>
+	<key>🧘</key>
+	<string>가부좌한 사람</string>
+	<key>🧙</key>
+	<string>마법사</string>
+	<key>🧚</key>
+	<string>요정</string>
+	<key>👩‍💻</key>
+	<string>여자 기술 전문가</string>
+	<key>🧛</key>
+	<string>뱀파이어</string>
+	<key>🛜</key>
+	<string>무선 기호</string>
+	<key>🧜</key>
+	<string>인어</string>
+	<key>🛝</key>
+	<string>미끄럼틀</string>
+	<key>🧝</key>
+	<string>엘프</string>
+	<key>🛞</key>
+	<string>바퀴</string>
+	<key>👨‍⚖️</key>
+	<string>남자 판사</string>
+	<key>🏠</key>
+	<string>집</string>
+	<key>🧞</key>
+	<string>지니</string>
+	<key>↘️</key>
+	<string>오른쪽 아래 방향 화살표</string>
+	<key>🛟</key>
+	<string>구명 튜브</string>
+	<key>🏡</key>
+	<string>정원이 있는 집</string>
+	<key>🧟</key>
+	<string>좀비</string>
+	<key>🤸‍♀️</key>
+	<string>옆구르기하는 여자</string>
+	<key>🏢</key>
+	<string>사무실 건물</string>
+	<key>🧠</key>
+	<string>뇌</string>
+	<key>🏣</key>
+	<string>일본 우체국</string>
+	<key>🧡</key>
+	<string>주황색 하트</string>
+	<key>👩‍💼</key>
+	<string>사무실 여자 직원</string>
+	<key>🏤</key>
+	<string>유럽풍 우체국</string>
+	<key>🧢</key>
+	<string>야구 모자</string>
+	<key>🏥</key>
+	<string>병원</string>
+	<key>🧣</key>
+	<string>목도리</string>
+	<key>🏦</key>
+	<string>은행</string>
+	<key>🧤</key>
+	<string>장갑</string>
+	<key>🏧</key>
+	<string>ATM 기호</string>
+	<key>🧥</key>
+	<string>코트</string>
+	<key>👷‍♀️</key>
+	<string>건설 현장 여자 노동자</string>
+	<key>🏨</key>
+	<string>호텔</string>
+	<key>🧦</key>
+	<string>양말</string>
+	<key>🏩</key>
+	<string>러브 호텔</string>
+	<key>🧧</key>
+	<string>빨간색 선물 봉투</string>
+	<key>ℹ️</key>
+	<string>정보 표시</string>
+	<key>🏪</key>
+	<string>편의점</string>
+	<key>🧨</key>
+	<string>폭죽</string>
+	<key>🏫</key>
+	<string>학교</string>
+	<key>🧩</key>
+	<string>퍼즐 조각</string>
+	<key>🏬</key>
+	<string>백화점</string>
+	<key>🧪</key>
+	<string>시험관</string>
+	<key>🛫</key>
+	<string>이륙하는 비행기</string>
+	<key>🛳️</key>
+	<string>여객선</string>
+	<key>🏭</key>
+	<string>공장</string>
+	<key>🧫</key>
+	<string>페트리 접시</string>
+	<key>🛬</key>
+	<string>착륙하는 비행기</string>
+	<key>♨️</key>
+	<string>온천</string>
+	<key>🏮</key>
+	<string>이자카야 등</string>
+	<key>🧬</key>
+	<string>DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>엄마, 아빠, 아들로 구성된 가족</string>
+	<key>🏯</key>
+	<string>일본식 성</string>
+	<key>🧭</key>
+	<string>나침반</string>
+	<key>🧏‍♀️</key>
+	<string>청각 장애인 여자</string>
+	<key>🏰</key>
+	<string>유럽식 성</string>
+	<key>🧮</key>
+	<string>주판</string>
+	<key>🧯</key>
+	<string>소화기</string>
+	<key>⏹️</key>
+	<string>정지 기호</string>
+	<key>🧰</key>
+	<string>공구통</string>
+	<key>🧱</key>
+	<string>벽돌</string>
+	<key>🏴</key>
+	<string>검은색 깃발</string>
+	<key>🧲</key>
+	<string>자석</string>
+	<key>🙍‍♀️</key>
+	<string>약간 찌푸린 여자</string>
+	<key>🧳</key>
+	<string>수하물</string>
+	<key>🛴</key>
+	<string>스쿠터</string>
+	<key>🧴</key>
+	<string>로션통</string>
+	<key>🛵</key>
+	<string>전동 스쿠터</string>
+	<key>👨‍👦</key>
+	<string>아빠와 아들로 구성된 가족</string>
+	<key>🧵</key>
+	<string>실타래</string>
+	<key>💆‍♂️</key>
+	<string>머리 마사지를 받는 남자</string>
+	<key>🛶</key>
+	<string>카누</string>
+	<key>🏸</key>
+	<string>배드민턴 라켓과 셔틀콕</string>
+	<key>🧶</key>
+	<string>실뭉치</string>
+	<key>🛷</key>
+	<string>썰매</string>
+	<key>🏹</key>
+	<string>활과 화살</string>
+	<key>🧷</key>
+	<string>안전핀</string>
+	<key>🛸</key>
+	<string>유에프오</string>
+	<key>🏺</key>
+	<string>암포라 항아리</string>
+	<key>🧸</key>
+	<string>곰인형</string>
+	<key>🛹</key>
+	<string>스케이트보드</string>
+	<key>🧹</key>
+	<string>빗자루</string>
+	<key>🛺</key>
+	<string>삼륜차</string>
+	<key>⏲️</key>
+	<string>타이머 시계</string>
+	<key>🧺</key>
+	<string>바구니</string>
+	<key>🛻</key>
+	<string>픽업트럭</string>
+	<key>🧻</key>
+	<string>두루마리</string>
+	<key>🛼</key>
+	<string>롤러 스케이트</string>
+	<key>👨‍👧</key>
+	<string>아빠와 딸로 구성된 가족</string>
+	<key>🧼</key>
+	<string>비누</string>
+	<key>🧞‍♂️</key>
+	<string>남자 지니</string>
+	<key>🧽</key>
+	<string>스폰지</string>
+	<key>🎞️</key>
+	<string>영화 프레임</string>
+	<key>🧾</key>
+	<string>영수증</string>
+	<key>▪️</key>
+	<string>작은 검은색 사각형</string>
+	<key>🧿</key>
+	<string>악마의 눈</string>
+	<key>☂️</key>
+	<string>우산</string>
+	<key>🗂️</key>
+	<string>카드 색인 분리자</string>
+	<key>🦹‍♂️</key>
+	<string>남자 슈퍼 악당</string>
+	<key>🏋️</key>
+	<string>역도 선수</string>
+	<key>◻️</key>
+	<string>중간 크기의 흰색 사각형</string>
+	<key>♓️</key>
+	<string>물고기자리</string>
+	<key>⚫️</key>
+	<string>검은색 원</string>
+	<key>⏩</key>
+	<string>앞으로 빨리감기 기호</string>
+	<key>⏪</key>
+	<string>되감기 미디어 기호</string>
+	<key>⏫</key>
+	<string>위쪽 방향 이중 삼각형</string>
+	<key>⏬</key>
+	<string>아래쪽 방향 이중 삼각형</string>
+	<key>🗯️</key>
+	<string>화난 표현의 말하기 풍선</string>
+	<key>⏰</key>
+	<string>알람 시계</string>
+	<key>⏳</key>
+	<string>모래가 흘러내리는 모래시계</string>
+	<key>🧑‍🎓</key>
+	<string>학생</string>
+	<key>🧑‍🚒</key>
+	<string>소방관</string>
+	<key>♌️</key>
+	<string>사자자리</string>
+	<key>🗄️</key>
+	<string>파일 캐비닛</string>
+	<key>🧍‍♂️</key>
+	<string>서 있는 남자</string>
+	<key>🏍️</key>
+	<string>오토바이</string>
+	<key>🙋‍♂️</key>
+	<string>한 손을 들고 있는 남자</string>
+	<key>👨‍👩‍👧</key>
+	<string>엄마, 아빠, 딸로 구성된 가족</string>
+	<key>🇸🇦</key>
+	<string>사우디 아라비아 깃발</string>
+	<key>⛵️</key>
+	<string>돛단배</string>
+	<key>👩‍🏫</key>
+	<string>여자 선생님</string>
+	<key>⬜️</key>
+	<string>큰 흰색 사각형</string>
+	<key>🇸🇧</key>
+	<string>솔로몬 제도 깃발</string>
+	<key>🇬🇦</key>
+	<string>가봉 깃발</string>
+	<key>🇨🇦</key>
+	<string>캐나다 깃발</string>
+	<key>🇸🇨</key>
+	<string>세이셸 깃발</string>
+	<key>🇬🇧</key>
+	<string>영국 깃발</string>
+	<key>👨‍🎓</key>
+	<string>남학생</string>
+	<key>👨‍🚒</key>
+	<string>남자 소방관</string>
+	<key>⚖️</key>
+	<string>저울</string>
+	<key>🇸🇩</key>
+	<string>수단 깃발</string>
+	<key>🇨🇨</key>
+	<string>코코스(킬링) 제도 깃발</string>
+	<key>⏏️</key>
+	<string>추출 미디어 기호</string>
+	<key>🇸🇪</key>
+	<string>스웨덴 깃발</string>
+	<key>🇬🇩</key>
+	<string>그레나다 깃발</string>
+	<key>👩‍🏭</key>
+	<string>공장 여자 직원</string>
+	<key>🇼🇫</key>
+	<string>월리스 후투나 깃발</string>
+	<key>🇨🇩</key>
+	<string>콩고민주공화국 깃발</string>
+	<key>🇰🇪</key>
+	<string>케냐 깃발</string>
+	<key>🛎️</key>
+	<string>호출 벨</string>
+	<key>🇬🇪</key>
+	<string>조지아 깃발</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>두 명의 엄마, 아들과 딸로 구성된 가족</string>
+	<key>🇸🇬</key>
+	<string>싱가포르 깃발</string>
+	<key>🇬🇫</key>
+	<string>프랑스령 기아나 깃발</string>
+	<key>🇨🇫</key>
+	<string>중앙 아프리카 공화국 깃발</string>
+	<key>🇰🇬</key>
+	<string>키르기스스탄 깃발</string>
+	<key>🗳️</key>
+	<string>투표 용지와 투표 상자</string>
+	<key>🇸🇭</key>
+	<string>세인트 헬레나 깃발</string>
+	<key>🇬🇬</key>
+	<string>건지 깃발</string>
+	<key>🧑‍⚕️</key>
+	<string>의료인</string>
+	<key>🏃‍♀️</key>
+	<string>달리기하는 여자</string>
+	<key>🇨🇬</key>
+	<string>콩고 깃발</string>
+	<key>🇰🇭</key>
+	<string>캄보디아 깃발</string>
+	<key>🤹‍♂️</key>
+	<string>저글링하는 남자</string>
+	<key>🇸🇮</key>
+	<string>슬로베니아 깃발</string>
+	<key>🇬🇭</key>
+	<string>가나 깃발</string>
+	<key>〽️</key>
+	<string>부분 대체 표시</string>
+	<key>🇨🇭</key>
+	<string>스위스 깃발</string>
+	<key>🇰🇮</key>
+	<string>키리바시 깃발</string>
+	<key>🇸🇯</key>
+	<string>스발바르제도와 얀마옌 깃발</string>
+	<key>🕰️</key>
+	<string>맨틀피스 시계</string>
+	<key>8️⃣</key>
+	<string>숫자 8 키캡</string>
+	<key>🇬🇮</key>
+	<string>지브롤터 깃발</string>
+	<key>🤾‍♀️</key>
+	<string>핸드볼하는 여자</string>
+	<key>🇨🇮</key>
+	<string>코트디부아르 깃발</string>
+	<key>⬇️</key>
+	<string>아래쪽 화살표</string>
+	<key>👩‍✈️</key>
+	<string>여자 기장</string>
+	<key>👩‍👧‍👦</key>
+	<string>엄마, 아들, 딸로 구성된 가족</string>
+	<key>🇸🇰</key>
+	<string>슬로바키아 깃발</string>
+	<key>🌡️</key>
+	<string>체온계</string>
+	<key>↪️</key>
+	<string>왼쪽으로 가다가 오른쪽으로 꺾인 화살표</string>
+	<key>🇸🇱</key>
+	<string>시에라리온 깃발</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>키스하는 두 명의 남자</string>
+	<key>🇨🇰</key>
+	<string>쿡 제도 깃발</string>
+	<key>🇸🇲</key>
+	<string>산마리노 깃발</string>
+	<key>🇬🇱</key>
+	<string>그린란드 깃발</string>
+	<key>🇴🇲</key>
+	<string>오만 깃발</string>
+	<key>🇨🇱</key>
+	<string>칠레 깃발</string>
+	<key>🇰🇲</key>
+	<string>코모로 깃발</string>
+	<key>🇸🇳</key>
+	<string>세네갈 깃발</string>
+	<key>🇬🇲</key>
+	<string>감비아 깃발</string>
+	<key>1️⃣</key>
+	<string>숫자 1 키캡</string>
+	<key>Ⓜ️</key>
+	<string>원 안에 있는 M</string>
+	<key>🇨🇲</key>
+	<string>카메룬 깃발</string>
+	<key>👨‍⚕️</key>
+	<string>남자 의료인</string>
+	<key>🙎‍♂️</key>
+	<string>뿌루퉁한 얼굴의 남자</string>
+	<key>🇰🇳</key>
+	<string>세인트 키츠 네비스 깃발</string>
+	<key>🇸🇴</key>
+	<string>소말리아 깃발</string>
+	<key>🇬🇳</key>
+	<string>기니 깃발</string>
+	<key>🇨🇳</key>
+	<string>중국 깃발</string>
+	<key>☢️</key>
+	<string>방사성</string>
+	<key>🇨🇴</key>
+	<string>콜롬비아 깃발</string>
+	<key>‼️</key>
+	<string>빨간색 이중 느낌표</string>
+	<key>🃏</key>
+	<string>조커</string>
+	<key>🇰🇵</key>
+	<string>조선 민주주의 인민 공화국 깃발</string>
+	<key>🇬🇵</key>
+	<string>과들루프 깃발</string>
+	<key>㊗️</key>
+	<string>축하를 의미하는 일본어 한자 빌 ‘축’</string>
+	<key>🐿️</key>
+	<string>다람쥐</string>
+	<key>🇨🇵</key>
+	<string>클리퍼턴 섬 깃발</string>
+	<key>🇸🇷</key>
+	<string>수리남 깃발</string>
+	<key>🏳️‍⚧️</key>
+	<string>트랜스젠더 깃발</string>
+	<key>🇬🇶</key>
+	<string>적도 기니 깃발</string>
+	<key>🇼🇸</key>
+	<string>사모아 깃발</string>
+	<key>*️⃣</key>
+	<string>별표 키캡</string>
+	<key>🇰🇷</key>
+	<string>태극기</string>
+	<key>🇸🇸</key>
+	<string>남수단 깃발</string>
+	<key>🇬🇷</key>
+	<string>그리스 깃발</string>
+	<key>🇨🇷</key>
+	<string>코스타리카 깃발</string>
+	<key>®️</key>
+	<string>등록 상표</string>
+	<key>🇸🇹</key>
+	<string>상투메 프린시페 깃발</string>
+	<key>🇬🇸</key>
+	<string>사우스조지아 사우스샌드위치 제도 깃발</string>
+	<key>↕️</key>
+	<string>위아래 양쪽 화살표</string>
+	<key>🇬🇹</key>
+	<string>과테말라 깃발</string>
+	<key>☔️</key>
+	<string>빗방울을 맞고 있는 우산</string>
+	<key>🏳️‍🌈</key>
+	<string>무지개 깃발</string>
+	<key>🇸🇻</key>
+	<string>엘살바도르 깃발</string>
+	<key>🕴️</key>
+	<string>공중 부양하는 양복 입은 남자</string>
+	<key>⛄️</key>
+	<string>눈사람</string>
+	<key>🇬🇺</key>
+	<string>괌 깃발</string>
+	<key>🇨🇺</key>
+	<string>쿠바 깃발</string>
+	<key>#️⃣</key>
+	<string>숫자 기호</string>
+	<key>🤼‍♂️</key>
+	<string>레슬링하는 남자</string>
+	<key>🌥️</key>
+	<string>큰 구름에 가려진 태양</string>
+	<key>👁️</key>
+	<string>외눈</string>
+	<key>🇨🇻</key>
+	<string>카보베르데 깃발</string>
+	<key>🍽️</key>
+	<string>접시 및 포크와 나이프</string>
+	<key>🇰🇼</key>
+	<string>쿠웨이트 깃발</string>
+	<key>🇸🇽</key>
+	<string>신트마르턴 깃발</string>
+	<key>🇬🇼</key>
+	<string>기니비사우 깃발</string>
+	<key>🏕️</key>
+	<string>캠핑</string>
+	<key>🩰</key>
+	<string>발레화</string>
+	<key>🇨🇼</key>
+	<string>퀴라소 깃발</string>
+	<key>🩱</key>
+	<string>원피스형 수영복</string>
+	<key>🇸🇾</key>
+	<string>시리아 깃발</string>
+	<key>♥️</key>
+	<string>하트 카드</string>
+	<key>🩲</key>
+	<string>팬티</string>
+	<key>🕉️</key>
+	<string>옴 심볼</string>
+	<key>⚽️</key>
+	<string>축구공</string>
+	<key>🩳</key>
+	<string>반바지</string>
+	<key>🇨🇽</key>
+	<string>크리스마스 섬 깃발</string>
+	<key>🩴</key>
+	<string>샌들</string>
+	<key>🇰🇾</key>
+	<string>케이맨 제도 깃발</string>
+	<key>🇸🇿</key>
+	<string>에스와티니 깃발</string>
+	<key>🩵</key>
+	<string>밝은 파란색 하트</string>
+	<key>👩‍👧‍👧</key>
+	<string>엄마와 두 명의 딸로 구성된 가족</string>
+	<key>🇬🇾</key>
+	<string>가이아나 깃발</string>
+	<key>🩶</key>
+	<string>회색 하트</string>
+	<key>🩷</key>
+	<string>분홍색 하트</string>
+	<key>🇨🇾</key>
+	<string>키프로스 깃발</string>
+	<key>🇰🇿</key>
+	<string>카자흐스탄 깃발</string>
+	<key>🩸</key>
+	<string>핏방울</string>
+	<key>🩹</key>
+	<string>접착 밴드</string>
+	<key>🩺</key>
+	<string>청진기</string>
+	<key>🇨🇿</key>
+	<string>체코 깃발</string>
+	<key>🩻</key>
+	<string>엑스레이</string>
+	<key>🩼</key>
+	<string>목발</string>
+	<key>🕶️</key>
+	<string>선글라스</string>
+	<key>🧘‍♀️</key>
+	<string>가부좌한 여자</string>
+	<key>⏯️</key>
+	<string>재생/일시 정지 기호</string>
+	<key>🪀</key>
+	<string>요요</string>
+	<key>🌧️</key>
+	<string>비가 내리는 구름</string>
+	<key>🪁</key>
+	<string>연</string>
+	<key>🪂</key>
+	<string>낙하산</string>
+	<key>🧑‍🎤</key>
+	<string>가수</string>
+	<key>🪃</key>
+	<string>부메랑</string>
+	<key>🪄</key>
+	<string>마술 지팡이</string>
+	<key>🏗️</key>
+	<string>건물 공사</string>
+	<key>🪅</key>
+	<string>피냐타</string>
+	<key>🪆</key>
+	<string>마트료시카</string>
+	<key>🚴‍♀️</key>
+	<string>여자 사이클리스트</string>
+	<key>🪇</key>
+	<string>마라카스</string>
+	<key>🐀</key>
+	<string>쥐</string>
+	<key>🪈</key>
+	<string>피리</string>
+	<key>🐁</key>
+	<string>쥐</string>
+	<key>🐂</key>
+	<string>황소</string>
+	<key>🐃</key>
+	<string>물소</string>
+	<key>🐄</key>
+	<string>소</string>
+	<key>🅱️</key>
+	<string>B형</string>
+	<key>🐅</key>
+	<string>호랑이</string>
+	<key>🐆</key>
+	<string>표범</string>
+	<key>🐇</key>
+	<string>토끼</string>
+	<key>🐈</key>
+	<string>고양이</string>
+	<key>🪐</key>
+	<string>행성</string>
+	<key>♐️</key>
+	<string>사수자리</string>
+	<key>🐉</key>
+	<string>용</string>
+	<key>🪑</key>
+	<string>의자</string>
+	<key>🕸️</key>
+	<string>거미줄</string>
+	<key>🐊</key>
+	<string>악어</string>
+	<key>🪒</key>
+	<string>면도기</string>
+	<key>👩‍🍳</key>
+	<string>여자 요리사</string>
+	<key>🐋</key>
+	<string>고래</string>
+	<key>👯‍♀️</key>
+	<string>토끼 귀를 쓰고 춤추는 여자</string>
+	<key>🪓</key>
+	<string>도끼</string>
+	<key>🐌</key>
+	<string>달팽이</string>
+	<key>🪔</key>
+	<string>디야 램프</string>
+	<key>🐍</key>
+	<string>뱀</string>
+	<key>🪕</key>
+	<string>밴조</string>
+	<key>🏄‍♂️</key>
+	<string>서핑하는 남자</string>
+	<key>🌩️</key>
+	<string>번개가 치는 구름</string>
+	<key>🐎</key>
+	<string>말</string>
+	<key>🪖</key>
+	<string>군용 헬멧</string>
+	<key>🐏</key>
+	<string>뿔난 양</string>
+	<key>🪗</key>
+	<string>아코디언</string>
+	<key>🐐</key>
+	<string>염소</string>
+	<key>🪘</key>
+	<string>긴 드럼</string>
+	<key>👨‍🎤</key>
+	<string>남자 가수</string>
+	<key>🏙️</key>
+	<string>도시 풍경</string>
+	<key>🐑</key>
+	<string>하얀 양</string>
+	<key>🪙</key>
+	<string>동전</string>
+	<key>🐒</key>
+	<string>원숭이</string>
+	<key>🪚</key>
+	<string>톱</string>
+	<key>♉️</key>
+	<string>황소자리</string>
+	<key>🐓</key>
+	<string>수탉</string>
+	<key>🪛</key>
+	<string>스크루드라이버</string>
+	<key>⚡️</key>
+	<string>번개</string>
+	<key>🐔</key>
+	<string>닭</string>
+	<key>🪜</key>
+	<string>사다리</string>
+	<key>⛹️</key>
+	<string>농구 선수</string>
+	<key>🖥️</key>
+	<string>데스크탑 컴퓨터</string>
+	<key>🐕</key>
+	<string>개</string>
+	<key>🪝</key>
+	<string>갈고리</string>
+	<key>🧑‍🎨</key>
+	<string>아티스트</string>
+	<key>🐖</key>
+	<string>돼지</string>
+	<key>🪞</key>
+	<string>거울</string>
+	<key>🐗</key>
+	<string>멧돼지</string>
+	<key>🪟</key>
+	<string>창문</string>
+	<key>🐘</key>
+	<string>코끼리</string>
+	<key>🙅‍♀️</key>
+	<string>안된다는 제스처를 하는 여자</string>
+	<key>🪠</key>
+	<string>배관 청소 도구</string>
+	<key>🐙</key>
+	<string>문어</string>
+	<key>🪡</key>
+	<string>바늘</string>
+	<key>🐚</key>
+	<string>조개껍데기</string>
+	<key>🪢</key>
+	<string>매듭</string>
+	<key>🚣‍♀️</key>
+	<string>노 젓는 여자</string>
+	<key>🐛</key>
+	<string>벌레</string>
+	<key>🪣</key>
+	<string>양동이</string>
+	<key>🐜</key>
+	<string>개미</string>
+	<key>🪤</key>
+	<string>쥐덫</string>
+	<key>🐝</key>
+	<string>벌</string>
+	<key>🪥</key>
+	<string>칫솔</string>
+	<key>🐞</key>
+	<string>무당벌레</string>
+	<key>🪦</key>
+	<string>묘비</string>
+	<key>⛲️</key>
+	<string>분수대</string>
+	<key>🐟</key>
+	<string>물고기</string>
+	<key>🪧</key>
+	<string>표지판</string>
+	<key>🐠</key>
+	<string>열대어</string>
+	<key>🗒️</key>
+	<string>스프링 노트</string>
+	<key>🪨</key>
+	<string>바위</string>
+	<key>🐡</key>
+	<string>복어</string>
+	<key>🪩</key>
+	<string>미러볼</string>
+	<key>🧖‍♂️</key>
+	<string>사우나하는 남자</string>
+	<key>🌫️</key>
+	<string>안개</string>
+	<key>🐢</key>
+	<string>거북이</string>
+	<key>🪪</key>
+	<string>신분증</string>
+	<key>🐣</key>
+	<string>알에서 나오는 병아리</string>
+	<key>🪫</key>
+	<string>배터리 전원 부족</string>
+	<key>🐤</key>
+	<string>병아리</string>
+	<key>🪬</key>
+	<string>함사</string>
+	<key>🐥</key>
+	<string>서 있는 병아리</string>
+	<key>😶‍🌫️</key>
+	<string>구름 속의 얼굴</string>
+	<key>🏛️</key>
+	<string>고전 양식의 건축물</string>
+	<key>🪭</key>
+	<string>쥘부채</string>
+	<key>🐦</key>
+	<string>새</string>
+	<key>🧛‍♀️</key>
+	<string>여자 뱀파이어</string>
+	<key>🪮</key>
+	<string>머리빗</string>
+	<key>🐧</key>
+	<string>펭귄</string>
+	<key>🪯</key>
+	<string>칸다 기호</string>
+	<key>🐨</key>
+	<string>코알라 얼굴</string>
+	<key>⚓️</key>
+	<string>닻</string>
+	<key>🪰</key>
+	<string>파리</string>
+	<key>🐩</key>
+	<string>푸들</string>
+	<key>🪱</key>
+	<string>지렁이</string>
+	<key>🐪</key>
+	<string>낙타</string>
+	<key>🪲</key>
+	<string>딱정벌레</string>
+	<key>👨‍🎨</key>
+	<string>남자 아티스트</string>
+	<key>🐫</key>
+	<string>쌍봉낙타</string>
+	<key>🪳</key>
+	<string>바퀴벌레</string>
+	<key>🐬</key>
+	<string>돌고래</string>
+	<key>🪴</key>
+	<string>화분</string>
+	<key>🐭</key>
+	<string>쥐 얼굴</string>
+	<key>🪵</key>
+	<string>나무</string>
+	<key>🐮</key>
+	<string>소 얼굴</string>
+	<key>🪶</key>
+	<string>깃털</string>
+	<key>🐯</key>
+	<string>호랑이 얼굴</string>
+	<key>🪷</key>
+	<string>연꽃</string>
+	<key>🐕‍🦺</key>
+	<string>서비스견</string>
+	<key>🐰</key>
+	<string>토끼 얼굴</string>
+	<key>🪸</key>
+	<string>산호</string>
+	<key>🐱</key>
+	<string>고양이 얼굴</string>
+	<key>🪹</key>
+	<string>빈 둥지</string>
+	<key>🐲</key>
+	<string>용의 머리</string>
+	<key>🪺</key>
+	<string>알이 있는 둥지</string>
+	<key>🐳</key>
+	<string>물 뿜는 고래</string>
+	<key>🪻</key>
+	<string>히아신스</string>
+	<key>🐴</key>
+	<string>말 머리</string>
+	<key>🪼</key>
+	<string>해파리</string>
+	<key>🐵</key>
+	<string>원숭이 얼굴</string>
+	<key>🪽</key>
+	<string>날개</string>
+	<key>🐶</key>
+	<string>강아지 얼굴</string>
+	<key>🐷</key>
+	<string>돼지 얼굴</string>
+	<key>🪿</key>
+	<string>거위</string>
+	<key>🐸</key>
+	<string>개구리 얼굴</string>
+	<key>🫀</key>
+	<string>해부학 심장</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>잉글랜드 깃발</string>
+	<key>🐹</key>
+	<string>햄스터 얼굴</string>
+	<key>🫁</key>
+	<string>폐</string>
+	<key>🐺</key>
+	<string>늑대</string>
+	<key>🏝️</key>
+	<string>사막 섬</string>
+	<key>🫂</key>
+	<string>포옹하는 사람</string>
+	<key>🐻</key>
+	<string>곰 얼굴</string>
+	<key>🏌️‍♂️</key>
+	<string>남자 골퍼</string>
+	<key>🫃</key>
+	<string>임신한 남자</string>
+	<key>🐼</key>
+	<string>판다 얼굴</string>
+	<key>🫄</key>
+	<string>임신한 사람</string>
+	<key>6️⃣</key>
+	<string>숫자 6 키캡</string>
+	<key>🐽</key>
+	<string>돼지코</string>
+	<key>🫅</key>
+	<string>왕관을 쓴 사람</string>
+	<key>🐾</key>
+	<string>동물 발자국</string>
+	<key>👀</key>
+	<string>두눈</string>
+	<key>👂</key>
+	<string>귀</string>
+	<key>👃</key>
+	<string>코</string>
+	<key>👄</key>
+	<string>입</string>
+	<key>👅</key>
+	<string>혀</string>
+	<key>☦️</key>
+	<string>정교회 십자가</string>
+	<key>👆</key>
+	<string>집게손가락으로 위쪽을 가리키는 손등</string>
+	<key>👩‍🍼</key>
+	<string>수유하는 여자</string>
+	<key>🫎</key>
+	<string>무스 얼굴</string>
+	<key>♾️</key>
+	<string>무한대</string>
+	<key>👇</key>
+	<string>집게손가락으로 아래쪽을 가리키는 손등</string>
+	<key>🫏</key>
+	<string>당나귀</string>
+	<key>👈</key>
+	<string>집게손가락으로 왼쪽을 가리키는 손등</string>
+	<key>🫐</key>
+	<string>블루베리</string>
+	<key>👉</key>
+	<string>집게손가락으로 오른쪽을 가리키는 손등</string>
+	<key>🫑</key>
+	<string>피망</string>
+	<key>👊</key>
+	<string>주먹 쥔 손</string>
+	<key>🫒</key>
+	<string>올리브</string>
+	<key>⭕️</key>
+	<string>원 표시</string>
+	<key>💁‍♂️</key>
+	<string>남자 안내데스크 직원</string>
+	<key>👋</key>
+	<string>흔드는 손</string>
+	<key>🫓</key>
+	<string>플랫브레드</string>
+	<key>👌</key>
+	<string>오케이 손 기호</string>
+	<key>🫔</key>
+	<string>타말레</string>
+	<key>👍</key>
+	<string>올린 엄지</string>
+	<key>🫕</key>
+	<string>퐁뒤</string>
+	<key>👎</key>
+	<string>내린 엄지</string>
+	<key>🫖</key>
+	<string>찻주전자</string>
+	<key>🏟️</key>
+	<string>경기장</string>
+	<key>👏</key>
+	<string>박수치는 손 모양</string>
+	<key>🫗</key>
+	<string>쏟아지는 액체</string>
+	<key>💆‍♀️</key>
+	<string>머리 마사지를 받는 여자</string>
+	<key>👐</key>
+	<string>양손을 모아서 벌린 모양</string>
+	<key>🫘</key>
+	<string>콩</string>
+	<key>🐦‍⬛</key>
+	<string>검은 새</string>
+	<key>🧑‍🦯</key>
+	<string>흰색 지팡이를 든 사람</string>
+	<key>🫙</key>
+	<string>항아리</string>
+	<key>🧙‍♂️</key>
+	<string>남자 마법사</string>
+	<key>👑</key>
+	<string>왕관</string>
+	<key>⛏️</key>
+	<string>곡괭이</string>
+	<key>👒</key>
+	<string>리본이 달린 모자</string>
+	<key>🫚</key>
+	<string>생강 뿌리</string>
+	<key>👓</key>
+	<string>안경</string>
+	<key>🫛</key>
+	<string>완두콩 꼬투리</string>
+	<key>👔</key>
+	<string>셔츠 및 넥타이</string>
+	<key>👕</key>
+	<string>폴로 셔츠</string>
+	<key>👖</key>
+	<string>청바지</string>
+	<key>🧞‍♀️</key>
+	<string>여자 지니</string>
+	<key>👗</key>
+	<string>드레스</string>
+	<key>↙️</key>
+	<string>왼쪽 아래 방향 화살표</string>
+	<key>🧑‍🦰</key>
+	<string>빨간색 머리를 한 사람</string>
+	<key>🕵️‍♂️</key>
+	<string>남자 형사</string>
+	<key>👘</key>
+	<string>기모노</string>
+	<key>🟠</key>
+	<string>주황색 원</string>
+	<key>🫠</key>
+	<string>녹아내리는 얼굴</string>
+	<key>🟡</key>
+	<string>노란색 원</string>
+	<key>👩‍❤️‍👨</key>
+	<string>둘 사이에 하트가 있는 남녀</string>
+	<key>👙</key>
+	<string>비키니</string>
+	<key>◀️</key>
+	<string>왼쪽 방향 삼각형</string>
+	<key>🫡</key>
+	<string>경례하는 얼굴</string>
+	<key>🟢</key>
+	<string>초록색 원</string>
+	<key>👚</key>
+	<string>블라우스</string>
+	<key>☘️</key>
+	<string>토끼풀</string>
+	<key>🫢</key>
+	<string>눈을 뜨고 입 위에 손을 올린 얼굴</string>
+	<key>🚵‍♂️</key>
+	<string>산악자전거 타는 남자</string>
+	<key>🟣</key>
+	<string>보라색 원</string>
+	<key>👛</key>
+	<string>지갑</string>
+	<key>🫣</key>
+	<string>엿보는 얼굴</string>
+	<key>🟤</key>
+	<string>갈색 원</string>
+	<key>👜</key>
+	<string>핸드백</string>
+	<key>⛈️</key>
+	<string>번개가 치고 비가 내리는 구름</string>
+	<key>🫤</key>
+	<string>입이 대각선으로 비뚤어진 얼굴</string>
+	<key>🟥</key>
+	<string>빨간색 사각형</string>
+	<key>👝</key>
+	<string>파우치</string>
+	<key>🫥</key>
+	<string>윤곽이 점선으로 된 얼굴</string>
+	<key>🟦</key>
+	<string>파란색 사각형</string>
+	<key>👞</key>
+	<string>정장 구두</string>
+	<key>🧑‍🦱</key>
+	<string>곱슬머리를 한 사람</string>
+	<key>🫦</key>
+	<string>깨문 입술</string>
+	<key>🟧</key>
+	<string>주황색 사각형</string>
+	<key>🦹‍♀️</key>
+	<string>여자 슈퍼 악당</string>
+	<key>👟</key>
+	<string>테니스화</string>
+	<key>🫧</key>
+	<string>비눗방울</string>
+	<key>🟨</key>
+	<string>노란색 사각형</string>
+	<key>❤️‍🔥</key>
+	<string>불타는 하트</string>
+	<key>👠</key>
+	<string>하이힐</string>
+	<key>🟩</key>
+	<string>초록색 사각형</string>
+	<key>🫨</key>
+	<string>떨고 있는 얼굴</string>
+	<key>👡</key>
+	<string>굽있는 샌들</string>
+	<key>🟪</key>
+	<string>보라색 사각형</string>
+	<key>👢</key>
+	<string>굽있는 부츠</string>
+	<key>🟫</key>
+	<string>갈색 사각형</string>
+	<key>👣</key>
+	<string>발자국</string>
+	<key>🛠️</key>
+	<string>망치와 렌치</string>
+	<key>📽️</key>
+	<string>영사기</string>
+	<key>👤</key>
+	<string>사람 실루엣</string>
+	<key>☑️</key>
+	<string>확인 표시가 있는 상자</string>
+	<key>🧑‍🦲</key>
+	<string>대머리를 한 사람</string>
+	<key>👥</key>
+	<string>두 사람의 실루엣</string>
+	<key>👦</key>
+	<string>소년</string>
+	<key>👨‍🦯</key>
+	<string>흰색 지팡이를 든 남자</string>
+	<key>👧</key>
+	<string>소녀</string>
+	<key>👰‍♂️</key>
+	<string>면사포를 쓴 남자</string>
+	<key>👩‍🚀</key>
+	<string>여자 우주 비행사</string>
+	<key>🟰</key>
+	<string>등호 기호</string>
+	<key>🏴‍☠️</key>
+	<string>해적 깃발</string>
+	<key>👨</key>
+	<string>남자</string>
+	<key>🫰</key>
+	<string>손가락 하트</string>
+	<key>⏺️</key>
+	<string>녹음/녹화 기호</string>
+	<key>👩</key>
+	<string>여자</string>
+	<key>🫱</key>
+	<string>오른쪽을 향하는 손</string>
+	<key>👪</key>
+	<string>가족</string>
+	<key>🫲</key>
+	<string>왼쪽을 향하는 손</string>
+	<key>👫</key>
+	<string>손을 잡고 있는 남녀</string>
+	<key>🫳</key>
+	<string>손바닥이 아래를 향한 손</string>
+	<key>🧑‍🦳</key>
+	<string>백발을 한 사람</string>
+	<key>👬</key>
+	<string>손을 잡고 있는 두 명의 남자</string>
+	<key>🫴</key>
+	<string>손바닥이 위를 향한 손</string>
+	<key>👭</key>
+	<string>손을 잡고 있는 두 명의 여자</string>
+	<key>👨‍🦰</key>
+	<string>빨간색 머리를 한 남자</string>
+	<key>🫵</key>
+	<string>보는 사람을 가리키는 집게손가락</string>
+	<key>👮</key>
+	<string>경찰관</string>
+	<key>🏊‍♂️</key>
+	<string>수영하는 남자</string>
+	<key>🫶</key>
+	<string>손하트</string>
+	<key>👯</key>
+	<string>토끼 귀를 쓰고 춤추는 사람</string>
+	<key>🫷</key>
+	<string>왼쪽으로 미는 손</string>
+	<key>👰</key>
+	<string>면사포를 쓴 사람</string>
+	<key>🫸</key>
+	<string>오른쪽으로 미는 손</string>
+	<key>👱</key>
+	<string>금발을 한 사람</string>
+	<key>✒️</key>
+	<string>만년필</string>
+	<key>👲</key>
+	<string>중국 전통 모자를 쓰고 있는 남자</string>
+	<key>🧍‍♀️</key>
+	<string>서 있는 여자</string>
+	<key>👳</key>
+	<string>터번을 쓰고 있는 사람</string>
+	<key>👨‍🦱</key>
+	<string>곱슬머리를 한 남자</string>
+	<key>👴</key>
+	<string>할아버지</string>
+	<key>🙆‍♂️</key>
+	<string>ok라는 제스처를 하는 남자</string>
+	<key>👵</key>
+	<string>할머니</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>엄마, 아빠, 아들, 딸로 구성된 가족</string>
+	<key>👶</key>
+	<string>아기</string>
+	<key>👷</key>
+	<string>건설 현장 노동자</string>
+	<key>▫️</key>
+	<string>작은 흰색 사각형</string>
+	<key>👸</key>
+	<string>공주</string>
+	<key>🛢️</key>
+	<string>드럼통</string>
+	<key>☃️</key>
+	<string>눈송이와 눈사람</string>
+	<key>👹</key>
+	<string>괴물</string>
+	<key>🙋‍♀️</key>
+	<string>한 손을 들고 있는 여자</string>
+	<key>👺</key>
+	<string>도깨비</string>
+	<key>👨‍🦲</key>
+	<string>대머리를 한 남자</string>
+	<key>🇹🇦</key>
+	<string>트리스탄 다 쿤하 제도 깃발</string>
+	<key>👻</key>
+	<string>유령</string>
+	<key>🇵🇦</key>
+	<string>파나마 깃발</string>
+	<key>👼</key>
+	<string>아기 천사</string>
+	<key>❣️</key>
+	<string>느낌표 모양의 빨간색 하트</string>
+	<key>👽</key>
+	<string>외계인</string>
+	<key>🇱🇦</key>
+	<string>라오스 깃발</string>
+	<key>👾</key>
+	<string>외계 괴물</string>
+	<key>👿</key>
+	<string>머리에 뿔이 달린 화난 얼굴</string>
+	<key>💀</key>
+	<string>해골</string>
+	<key>🇱🇧</key>
+	<string>레바논 깃발</string>
+	<key>👨‍🦳</key>
+	<string>백발을 한 남자</string>
+	<key>💁</key>
+	<string>안내데스크 직원</string>
+	<key>🇹🇨</key>
+	<string>터크스 케이커스 제도 깃발</string>
+	<key>🧜‍♂️</key>
+	<string>남자 인어</string>
+	<key>💂</key>
+	<string>근위병</string>
+	<key>💃</key>
+	<string>춤추는 여자</string>
+	<key>◼️</key>
+	<string>중간 크기의 검은색 사각형</string>
+	<key>🇱🇨</key>
+	<string>세인트 루시아 깃발</string>
+	<key>💄</key>
+	<string>립스틱</string>
+	<key>🇹🇩</key>
+	<string>차드 깃발</string>
+	<key>💅</key>
+	<string>매니큐어</string>
+	<key>💆</key>
+	<string>머리 마사지를 받는 사람</string>
+	<key>💇</key>
+	<string>헤어컷 받는 사람</string>
+	<key>🗜️</key>
+	<string>죔쇠</string>
+	<key>💈</key>
+	<string>이발소 간판</string>
+	<key>💉</key>
+	<string>주사기</string>
+	<key>🇵🇪</key>
+	<string>페루 깃발</string>
+	<key>💊</key>
+	<string>알약</string>
+	<key>💋</key>
+	<string>입술 자국</string>
+	<key>🇹🇫</key>
+	<string>프랑스령 남방 깃발</string>
+	<key>💌</key>
+	<string>연애편지</string>
+	<key>👩‍❤️‍👩</key>
+	<string>두 명의 여자와 하트</string>
+	<key>🇵🇫</key>
+	<string>프랑스령 폴리네시아 깃발</string>
+	<key>🛤️</key>
+	<string>레일 트랙</string>
+	<key>💍</key>
+	<string>반지</string>
+	<key>🆎</key>
+	<string>AB형</string>
+	<key>🇩🇪</key>
+	<string>독일 깃발</string>
+	<key>🈂️</key>
+	<string>‘서비스’ 또는 ‘서비스 요금’을 의미하는 일본어</string>
+	<key>💎</key>
+	<string>보석</string>
+	<key>♍️</key>
+	<string>처녀자리</string>
+	<key>🇹🇬</key>
+	<string>토고 깃발</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>키스하는 두 명의 여자</string>
+	<key>💏</key>
+	<string>키스하는 커플</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>손을 잡고 있는 두 사람</string>
+	<key>💐</key>
+	<string>부케</string>
+	<key>⛽️</key>
+	<string>주유기</string>
+	<key>🇵🇬</key>
+	<string>파푸아 뉴기니 깃발</string>
+	<key>🖱️</key>
+	<string>컴퓨터 마우스</string>
+	<key>🆑</key>
+	<string>CL 기호</string>
+	<key>💑</key>
+	<string>사이에 하트가 있는 커플</string>
+	<key>🆒</key>
+	<string>Cool 표시 기호</string>
+	<key>🇹🇭</key>
+	<string>태국 깃발</string>
+	<key>💒</key>
+	<string>결혼식</string>
+	<key>🆓</key>
+	<string>free 표시</string>
+	<key>💓</key>
+	<string>두근거리는 하트</string>
+	<key>🆔</key>
+	<string>신원 기호</string>
+	<key>🇵🇭</key>
+	<string>필리핀 깃발</string>
+	<key>👩‍⚖️</key>
+	<string>여자 판사</string>
+	<key>💔</key>
+	<string>깨진 하트</string>
+	<key>🇩🇬</key>
+	<string>디에고가르시아 섬 깃발</string>
+	<key>🆕</key>
+	<string>New 표시</string>
+	<key>🅿️</key>
+	<string>주차장 표시</string>
+	<key>💕</key>
+	<string>두 개의 하트</string>
+	<key>🤹‍♀️</key>
+	<string>저글링하는 여자</string>
+	<key>🆖</key>
+	<string>NG 기호</string>
+	<key>💖</key>
+	<string>빛나는 하트</string>
+	<key>🆗</key>
+	<string>오케이 기호</string>
+	<key>💗</key>
+	<string>커지는 하트</string>
+	<key>👳‍♂️</key>
+	<string>터번을 쓰고 있는 남자</string>
+	<key>🆘</key>
+	<string>SOS 기호</string>
+	<key>💘</key>
+	<string>화살이 꽂힌 하트</string>
+	<key>🇱🇮</key>
+	<string>리히텐슈타인 깃발</string>
+	<key>🆙</key>
+	<string>Up 표시 기호</string>
+	<key>🈯️</key>
+	<string>지정을 의미하는 일본어 한자 가리킬 ‘지’</string>
+	<key>🇹🇯</key>
+	<string>타지키스탄 깃발</string>
+	<key>💙</key>
+	<string>파란색 하트</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>두 명의 아빠와 두 명의 아들로 구성된 가족</string>
+	<key>🆚</key>
+	<string>네모 안의 VS</string>
+	<key>💚</key>
+	<string>초록색 하트</string>
+	<key>🇽🇰</key>
+	<string>코소보 깃발</string>
+	<key>💛</key>
+	<string>노란색 하트</string>
+	<key>🗞️</key>
+	<string>말아올린 신문</string>
+	<key>💜</key>
+	<string>보라색 하트</string>
+	<key>🇹🇰</key>
+	<string>토켈라우 깃발</string>
+	<key>💝</key>
+	<string>리본이 달린 하트</string>
+	<key>🇵🇰</key>
+	<string>파키스탄 깃발</string>
+	<key>💞</key>
+	<string>회전하는 하트</string>
+	<key>🇩🇯</key>
+	<string>지부티 깃발</string>
+	<key>💟</key>
+	<string>하트 장식</string>
+	<key>🇱🇰</key>
+	<string>스리랑카 깃발</string>
+	<key>🇹🇱</key>
+	<string>동티모르 깃발</string>
+	<key>👩‍🤝‍👨</key>
+	<string>손을 잡고 있는 여자와 남자</string>
+	<key>💠</key>
+	<string>안쪽에 점이 찍혀 있는 다이아몬드 모양</string>
+	<key>🇭🇰</key>
+	<string>홍콩 깃발</string>
+	<key>💡</key>
+	<string>전구</string>
+	<key>🇵🇱</key>
+	<string>폴란드 깃발</string>
+	<key>🇩🇰</key>
+	<string>덴마크 깃발</string>
+	<key>💢</key>
+	<string>왕짜증 기호</string>
+	<key>🇹🇲</key>
+	<string>투르크메니스탄 깃발</string>
+	<key>💣</key>
+	<string>폭탄</string>
+	<key>⚗️</key>
+	<string>증류기</string>
+	<key>💤</key>
+	<string>수면 중 기호</string>
+	<key>🇵🇲</key>
+	<string>생피에르 미클롱 깃발</string>
+	<key>💥</key>
+	<string>폭발</string>
+	<key>❇️</key>
+	<string>반짝반짝</string>
+	<key>💦</key>
+	<string>물방울</string>
+	<key>🇹🇳</key>
+	<string>튀니지 깃발</string>
+	<key>🧑‍🦼</key>
+	<string>전동 휠체어를 탄 사람</string>
+	<key>💧</key>
+	<string>물방울</string>
+	<key>🇭🇲</key>
+	<string>허드 맥도널드 제도 깃발</string>
+	<key>🇵🇳</key>
+	<string>핏케언 깃발</string>
+	<key>💨</key>
+	<string>불어오는 바람</string>
+	<key>🇩🇲</key>
+	<string>도미니카 깃발</string>
+	<key>💩</key>
+	<string>똥덩어리</string>
+	<key>🙎‍♀️</key>
+	<string>뾰로통한 얼굴의 여자</string>
+	<key>🇹🇴</key>
+	<string>통가 깃발</string>
+	<key>💪</key>
+	<string>근육질의 구부린 팔뚝</string>
+	<key>🇭🇳</key>
+	<string>온두라스 깃발</string>
+	<key>👩‍👦</key>
+	<string>엄마와 아들로 구성된 가족</string>
+	<key>💫</key>
+	<string>어지러움 기호</string>
+	<key>💇‍♂️</key>
+	<string>헤어컷 받는 남자</string>
+	<key>💬</key>
+	<string>말하기 풍선</string>
+	<key>☸️</key>
+	<string>다르마 휠</string>
+	<key>💭</key>
+	<string>생각 풍선</string>
+	<key>🧑‍🦽</key>
+	<string>수동 휠체어를 탄 사람</string>
+	<key>💮</key>
+	<string>흰 꽃</string>
+	<key>💯</key>
+	<string>100점 표시</string>
+	<key>🇩🇴</key>
+	<string>도미니카 공화국 깃발</string>
+	<key>💰</key>
+	<string>돈주머니</string>
+	<key>💱</key>
+	<string>환전</string>
+	<key>😵‍💫</key>
+	<string>빙빙 도는 눈을 한 얼굴</string>
+	<key>👩‍👧</key>
+	<string>엄마와 딸로 구성된 가족</string>
+	<key>🧟‍♂️</key>
+	<string>남자 좀비</string>
+	<key>💲</key>
+	<string>달러 기호</string>
+	<key>💳</key>
+	<string>신용 카드</string>
+	<key>🇹🇷</key>
+	<string>튀르키예 깃발</string>
+	<key>💴</key>
+	<string>엔 지폐</string>
+	<key>💵</key>
+	<string>달러 지폐</string>
+	<key>🇵🇷</key>
+	<string>푸에르토리코 깃발</string>
+	<key>💶</key>
+	<string>유로 지폐</string>
+	<key>🇱🇷</key>
+	<string>라이베리아 깃발</string>
+	<key>💷</key>
+	<string>파운드 지폐</string>
+	<key>💸</key>
+	<string>날개 달린 돈</string>
+	<key>🇭🇷</key>
+	<string>크로아티아 깃발</string>
+	<key>🇵🇸</key>
+	<string>팔레스타인 깃발</string>
+	<key>💹</key>
+	<string>상승세를 보이는 엔화 차트</string>
+	<key>💺</key>
+	<string>의자</string>
+	<key>🇱🇸</key>
+	<string>레소토 깃발</string>
+	<key>🇹🇹</key>
+	<string>트리니다드 토바고 깃발</string>
+	<key>💻</key>
+	<string>노트북</string>
+	<key>💼</key>
+	<string>서류 가방</string>
+	<key>👨‍🦼</key>
+	<string>전동 휠체어를 탄 남자</string>
+	<key>🇵🇹</key>
+	<string>포르투갈 깃발</string>
+	<key>💽</key>
+	<string>미니 디스크</string>
+	<key>🇱🇹</key>
+	<string>리투아니아 깃발</string>
+	<key>💾</key>
+	<string>플로피 디스크</string>
+	<key>🇭🇹</key>
+	<string>아이티 깃발</string>
+	<key>💿</key>
+	<string>CD</string>
+	<key>📀</key>
+	<string>디비디</string>
+	<key>🤷‍♂️</key>
+	<string>어깨를 으쓱하는 남자</string>
+	<key>📁</key>
+	<string>닫혀 있는 파일 폴더</string>
+	<key>🇱🇺</key>
+	<string>룩셈부르크 깃발</string>
+	<key>☪️</key>
+	<string>별과 초승달</string>
+	<key>🇹🇻</key>
+	<string>투발루 깃발</string>
+	<key>📂</key>
+	<string>열려 있는 파일 폴더</string>
+	<key>4️⃣</key>
+	<string>숫자 4 키캡</string>
+	<key>🇭🇺</key>
+	<string>헝가리 깃발</string>
+	<key>👨‍🦽</key>
+	<string>수동 휠체어를 탄 남자</string>
+	<key>📃</key>
+	<string>말려 있는 페이지</string>
+	<key>🖊️</key>
+	<string>볼펜</string>
+	<key>📄</key>
+	<string>글씨가 쓰여 있는 종이</string>
+	<key>🇱🇻</key>
+	<string>라트비아 깃발</string>
+	<key>🇹🇼</key>
+	<string>대만 깃발</string>
+	<key>📅</key>
+	<string>달력</string>
+	<key>🤼‍♀️</key>
+	<string>레슬링하는 여자</string>
+	<key>📆</key>
+	<string>뜯어내는 달력</string>
+	<key>🇵🇼</key>
+	<string>팔라우 깃발</string>
+	<key>📇</key>
+	<string>카드 색인</string>
+	<key>📈</key>
+	<string>상승세를 보이는 차트</string>
+	<key>🧑‍🔧</key>
+	<string>정비공</string>
+	<key>📉</key>
+	<string>하락세를 보이는 차트</string>
+	<key>〰️</key>
+	<string>물결 모양의 대시</string>
+	<key>📊</key>
+	<string>막대 차트</string>
+	<key>📋</key>
+	<string>클립보드</string>
+	<key>☣️</key>
+	<string>생물학적 위험 표시</string>
+	<key>📌</key>
+	<string>압정</string>
+	<key>♻️</key>
+	<string>재활용 기호</string>
+	<key>📍</key>
+	<string>둥근 압정</string>
+	<key>🇵🇾</key>
+	<string>파라과이 깃발</string>
+	<key>⛓️</key>
+	<string>체인</string>
+	<key>📎</key>
+	<string>종이 클립</string>
+	<key>🧎‍♂️</key>
+	<string>무릎 꿇은 남자</string>
+	<key>🇱🇾</key>
+	<string>리비아 깃발</string>
+	<key>📏</key>
+	<string>자</string>
+	<key>🇹🇿</key>
+	<string>탄자니아 깃발</string>
+	<key>📐</key>
+	<string>삼각자</string>
+	<key>📑</key>
+	<string>책갈피 탭</string>
+	<key>📒</key>
+	<string>장부</string>
+	<key>📓</key>
+	<string>작문 노트</string>
+	<key>👩‍🤝‍👩</key>
+	<string>손을 잡고 있는 두 명의 여자</string>
+	<key>📔</key>
+	<string>표지로 싼 공책</string>
+	<key>🇩🇿</key>
+	<string>알제리 깃발</string>
+	<key>📕</key>
+	<string>빨간색 공책</string>
+	<key>📖</key>
+	<string>펼쳐 있는 책</string>
+	<key>📗</key>
+	<string>녹색 공책</string>
+	<key>🖌️</key>
+	<string>그림붓</string>
+	<key>📘</key>
+	<string>파란색 공책</string>
+	<key>📙</key>
+	<string>주황색 공책</string>
+	<key>👩‍👩‍👦</key>
+	<string>두 명의 엄마와 아들로 구성된 가족</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>두 명의 아빠와 두 명의 딸로 구성된 가족</string>
+	<key>📚</key>
+	<string>책</string>
+	<key>📛</key>
+	<string>이름표</string>
+	<key>📜</key>
+	<string>두루마리</string>
+	<key>📝</key>
+	<string>메모</string>
+	<key>↖️</key>
+	<string>왼쪽 위를 향한 화살표</string>
+	<key>🤦‍♂️</key>
+	<string>골치 아파하는 남자</string>
+	<key>📞</key>
+	<string>수화기</string>
+	<key>👩‍🎓</key>
+	<string>여학생</string>
+	<key>👩‍🚒</key>
+	<string>여자 소방관</string>
+	<key>⤴️</key>
+	<string>오른쪽으로 가다가 위로 꺾인 화살표</string>
+	<key>👨‍🔧</key>
+	<string>남자 정비공</string>
+	<key>📟</key>
+	<string>호출기</string>
+	<key>☕️</key>
+	<string>따뜻한 음료</string>
+	<key>📠</key>
+	<string>팩스</string>
+	<key>📡</key>
+	<string>위성 안테나</string>
+	<key>⛅️</key>
+	<string>구름에 가려진 태양</string>
+	<key>📢</key>
+	<string>공지용 확성기</string>
+	<key>🧑‍🌾</key>
+	<string>농부</string>
+	<key>✝️</key>
+	<string>라틴 십자가</string>
+	<key>📣</key>
+	<string>응원용 확성기</string>
+	<key>📤</key>
+	<string>보낸 편지함 상자</string>
+	<key>📥</key>
+	<string>받은 편지함 상자</string>
+	<key>📦</key>
+	<string>포장 박스</string>
+	<key>📧</key>
+	<string>이메일</string>
+	<key>📨</key>
+	<string>받는 메일 봉투</string>
+	<key>📩</key>
+	<string>화살표가 있는 봉투</string>
+	<key>▶️</key>
+	<string>오른쪽 방향 삼각형</string>
+	<key>🧑‍🔬</key>
+	<string>과학자</string>
+	<key>📪</key>
+	<string>깃발이 내려가고 문이 닫힌 우체통</string>
+	<key>☎️</key>
+	<string>전화기</string>
+	<key>🈷️</key>
+	<string>월정액을 의미하는 일본어 한자 달 ‘월’</string>
+	<key>♦️</key>
+	<string>다이아몬드 카드</string>
+	<key>📫</key>
+	<string>깃발이 올라가고 문이 닫힌 우체통</string>
+	<key>📬</key>
+	<string>깃발이 올라가고 문이 열린 우체통</string>
+	<key>⚾️</key>
+	<string>야구공</string>
+	<key>📭</key>
+	<string>깃발이 내려가고 문이 열린 우체통</string>
+	<key>✖️</key>
+	<string>곱하기 기호</string>
+	<key>📮</key>
+	<string>우체통</string>
+	<key>📯</key>
+	<string>신호 나팔</string>
+	<key>🏄‍♀️</key>
+	<string>서핑하는 여자</string>
+	<key>📰</key>
+	<string>신문</string>
+	<key>📱</key>
+	<string>스마트 폰</string>
+	<key>🎗️</key>
+	<string>기억의 리본</string>
+	<key>📲</key>
+	<string>화살표와 전화기</string>
+	<key>📳</key>
+	<string>진동 모드</string>
+	<key>📴</key>
+	<string>휴대 전화 끈 상태</string>
+	<key>📵</key>
+	<string>휴대 전화 사용 금지</string>
+	<key>♟️</key>
+	<string>체스 폰</string>
+	<key>📶</key>
+	<string>셀룰러 신호 막대</string>
+	<key>📷</key>
+	<string>카메라</string>
+	<key>✏️</key>
+	<string>연필</string>
+	<key>📸</key>
+	<string>플래시가 터지는 카메라</string>
+	<key>👨‍🌾</key>
+	<string>남자 농부</string>
+	<key>📹</key>
+	<string>비디오 카메라</string>
+	<key>📺</key>
+	<string>텔레비전</string>
+	<key>🐻‍❄️</key>
+	<string>북극곰</string>
+	<key>📻</key>
+	<string>라디오</string>
+	<key>📼</key>
+	<string>비디오 테이프</string>
+	<key>☀️</key>
+	<string>태양</string>
+	<key>📿</key>
+	<string>염주</string>
+	<key>👨‍🔬</key>
+	<string>남자 과학자</string>
+	<key>🔀</key>
+	<string>트랙 임의 재생 기호</string>
+	<key>🈁</key>
+	<string>‘여기’를 의미하는 일본어</string>
+	<key>⚰️</key>
+	<string>관</string>
+	<key>🔁</key>
+	<string>반복 미디어 기호</string>
+	<key>🖐️</key>
+	<string>손가락을 벌리고 들어 올린 손</string>
+	<key>✈️</key>
+	<string>비행기</string>
+	<key>🔂</key>
+	<string>트랙 하나 반복하기 기호</string>
+	<key>🗨️</key>
+	<string>왼쪽 말하기 풍선</string>
+	<key>🔃</key>
+	<string>두 개의 시계 방향 세로 화살표</string>
+	<key>🧖‍♀️</key>
+	<string>사우나하는 여자</string>
+	<key>🔄</key>
+	<string>반시계 방향 화살표</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>두 명의 엄마와 두 명의 아들로 구성된 가족</string>
+	<key>👩‍⚕️</key>
+	<string>여자 의료인</string>
+	<key>™️</key>
+	<string>상표 기호</string>
+	<key>🔅</key>
+	<string>밝기 낮음 기호</string>
+	<key>🔆</key>
+	<string>밝기 높음 기호</string>
+	<key>🎙️</key>
+	<string>스튜디오 마이크</string>
+	<key>🔇</key>
+	<string>소리가 나지 않는 스피커</string>
+	<key>🔈</key>
+	<string>스피커</string>
+	<key>🛰️</key>
+	<string>위성</string>
+	<key>🔉</key>
+	<string>소리를 중간으로 틀어 놓은 스피커</string>
+	<key>♑️</key>
+	<string>염소자리</string>
+	<key>🔊</key>
+	<string>소리를 크게 틀어 놓은 스피커</string>
+	<key>🔋</key>
+	<string>배터리</string>
+	<key>🔌</key>
+	<string>전기 플러그</string>
+	<key>👩‍👩‍👧</key>
+	<string>두 명의 엄마와 딸로 구성된 가족</string>
+	<key>🔍</key>
+	<string>왼쪽을 향해 있는 돋보기</string>
+	<key>🔎</key>
+	<string>오른쪽을 향해 있는 돋보기</string>
+	<key>🔏</key>
+	<string>잉크 펜과 자물쇠</string>
+	<key>🔐</key>
+	<string>잠겨있는 자물쇠와 열쇠</string>
+	<key>🔑</key>
+	<string>열쇠</string>
+	<key>🔒</key>
+	<string>잠겨 있는 자물쇠</string>
+	<key>🔓</key>
+	<string>열려 있는 자물쇠</string>
+	<key>♊️</key>
+	<string>쌍둥이자리</string>
+	<key>🔔</key>
+	<string>종소리</string>
+	<key>🔕</key>
+	<string>무음 종소리</string>
+	<key>⛺️</key>
+	<string>천막</string>
+	<key>🔖</key>
+	<string>책갈피</string>
+	<key>🔗</key>
+	<string>고리 기호</string>
+	<key>🔘</key>
+	<string>선택 버튼</string>
+	<key>🔙</key>
+	<string>뒤로 화살표</string>
+	<key>🔚</key>
+	<string>end 표시된 화살표</string>
+	<key>🔛</key>
+	<string>‘on!’이 표시된 화살표</string>
+	<key>🎛️</key>
+	<string>제어 노브</string>
+	<key>🔜</key>
+	<string>soon이 표시된 화살표</string>
+	<key>🏳️</key>
+	<string>흰색 깃발</string>
+	<key>🔝</key>
+	<string>위쪽 화살표</string>
+	<key>🔞</key>
+	<string>18세 미만 금지</string>
+	<key>🔟</key>
+	<string>숫자 10 키캡</string>
+	<key>⚛️</key>
+	<string>원자 기호</string>
+	<key>🔠</key>
+	<string>대문자 입력 기호</string>
+	<key>⛳️</key>
+	<string>깃발이 꽂힌 골프 홀</string>
+	<key>🔡</key>
+	<string>소문자 입력 기호</string>
+	<key>🤽‍♂️</key>
+	<string>수구하는 남자</string>
+	<key>🔢</key>
+	<string>숫자 입력 기호</string>
+	<key>🔣</key>
+	<string>기호 입력 기호</string>
+	<key>🔤</key>
+	<string>문자 입력 기호</string>
+	<key>🔥</key>
+	<string>화염</string>
+	<key>🔦</key>
+	<string>손전등</string>
+	<key>🔧</key>
+	<string>렌치</string>
+	<key>🔨</key>
+	<string>망치</string>
+	<key>🔩</key>
+	<string>너트와 볼트</string>
+	<key>⚔️</key>
+	<string>교차된 검</string>
+	<key>🔪</key>
+	<string>칼</string>
+	<key>🔫</key>
+	<string>물총</string>
+	<key>❄️</key>
+	<string>눈송이</string>
+	<key>🔬</key>
+	<string>현미경</string>
+	<key>💁‍♀️</key>
+	<string>여자 안내데스크 직원</string>
+	<key>🔭</key>
+	<string>망원경</string>
+	<key>🔮</key>
+	<string>수정 구슬</string>
+	<key>🧔‍♂️</key>
+	<string>수염 난 남자</string>
+	<key>🔯</key>
+	<string>가운데 점이 있는 육각 별</string>
+	<key>🔰</key>
+	<string>초보자를 의미하는 일본 기호</string>
+	<key>🔱</key>
+	<string>삼지창 상징</string>
+	<key>🈲</key>
+	<string>금지를 의미하는 일본어 한자 금할 ‘금’</string>
+	<key>🏵️</key>
+	<string>장미꽃 무늬</string>
+	<key>🔲</key>
+	<string>검은색 사각형 버튼</string>
+	<key>🈳</key>
+	<string>공석을 의미하는 일본어 한자 빌 ‘공’</string>
+	<key>🔳</key>
+	<string>흰색 사각형 버튼</string>
+	<key>🈴</key>
+	<string>합격을 의미하는 일본어 한자 합할 ‘합’</string>
+	<key>🧙‍♀️</key>
+	<string>여자 마법사</string>
+	<key>🔴</key>
+	<string>빨간색 원</string>
+	<key>🈵</key>
+	<string>만석을 의미하는 일본어 한자 찰 ‘만’</string>
+	<key>🔵</key>
+	<string>파란색 원</string>
+	<key>🈶</key>
+	<string>유료를 의미하는 일본어 한자 있을 ‘유’</string>
+	<key>🔶</key>
+	<string>큰 주황색 다이아몬드</string>
+	<key>🔷</key>
+	<string>큰 파란색 다이아몬드</string>
+	<key>🈸</key>
+	<string>신청을 의미하는 일본어 한자 거듭 ‘신’</string>
+	<key>🔸</key>
+	<string>작은 주황색 다이아몬드</string>
+	<key>🈹</key>
+	<string>할인을 의미하는 일본어 한자 벨 ‘할’</string>
+	<key>🔹</key>
+	<string>작은 파란색 다이아몬드</string>
+	<key>9️⃣</key>
+	<string>숫자 9 키캡</string>
+	<key>🈺</key>
+	<string>영업을 의미하는 일본어 한자 경영할 ‘영’</string>
+	<key>🔺</key>
+	<string>위쪽을 향하는 빨간색 삼각형</string>
+	<key>🔻</key>
+	<string>아래쪽를 향하는 빨간색 삼각형</string>
+	<key>🀄️</key>
+	<string>적룡 마작 타일</string>
+	<key>🔼</key>
+	<string>위쪽 방향 삼각형</string>
+	<key>🚵‍♀️</key>
+	<string>산악자전거 타는 여자</string>
+	<key>☮️</key>
+	<string>평화 기호</string>
+	<key>🔽</key>
+	<string>아래쪽 방향 삼각형</string>
+	<key>👨‍👦‍👦</key>
+	<string>아빠와 두 명의 아들로 구성된 가족</string>
+	<key>⬅️</key>
+	<string>왼쪽 화살표</string>
+	<key>⛎</key>
+	<string>뱀주인자리</string>
+	<key>🎟️</key>
+	<string>입장권</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>두 명의 엄마와 두 명의 딸로 구성된 가족</string>
+	<key>🏷️</key>
+	<string>레이블 태그</string>
+	<key>2️⃣</key>
+	<string>숫자 2 키캡</string>
+	<key>♿️</key>
+	<string>휠체어 기호</string>
+	<key>👰‍♀️</key>
+	<string>면사포를 쓴 여자</string>
+	<key>🗃️</key>
+	<string>카드 파일 박스</string>
+	<key>🕋</key>
+	<string>카바신전</string>
+	<key>🕌</key>
+	<string>모스크</string>
+	<key>🕍</key>
+	<string>유대교 회당</string>
+	<key>🕎</key>
+	<string>메노라 촛대</string>
+	<key>👩‍🎤</key>
+	<string>여자 가수</string>
+	<key>🉐</key>
+	<string>특별 판매를 의미하는 일본어 한자 얻을 ‘득’</string>
+	<key>🏌️</key>
+	<string>골퍼</string>
+	<key>🛋️</key>
+	<string>소파와 램프</string>
+	<key>🕐</key>
+	<string>1시</string>
+	<key>🏊‍♀️</key>
+	<string>수영하는 여자</string>
+	<key>🉑</key>
+	<string>허용을 의미하는 일본어 한자 옳을 ‘가’</string>
+	<key>☠️</key>
+	<string>엑스자로 배치한 두 개의 뼈와 해골</string>
+	<key>🕑</key>
+	<string>2시</string>
+	<key>🕒</key>
+	<string>3시</string>
+	<key>🏋️‍♀️</key>
+	<string>여자 역도 선수</string>
+	<key>🕓</key>
+	<string>4시</string>
+	<key>🕔</key>
+	<string>5시</string>
+	<key>🕕</key>
+	<string>6시</string>
+	<key>🕖</key>
+	<string>7시</string>
+	<key>🙆‍♀️</key>
+	<string>ok라는 제스처를 하는 여자</string>
+	<key>🕗</key>
+	<string>8시</string>
+	<key>🕘</key>
+	<string>9시</string>
+	<key>🕙</key>
+	<string>10시</string>
+	<key>🕚</key>
+	<string>11시</string>
+	<key>🕛</key>
+	<string>12시</string>
+	<key>🕜</key>
+	<string>1시 30분</string>
+	<key>🇺🇦</key>
+	<string>우크라이나 깃발</string>
+	<key>🕝</key>
+	<string>2시 30분</string>
+	<key>🇶🇦</key>
+	<string>카타르 깃발</string>
+	<key>🕞</key>
+	<string>3시 30분</string>
+	<key>✡️</key>
+	<string>다윗의 별</string>
+	<key>🇲🇦</key>
+	<string>모로코 깃발</string>
+	<key>🕟</key>
+	<string>4시 30분</string>
+	<key>🧗‍♂️</key>
+	<string>남자 암벽 등반가</string>
+	<key>🕠</key>
+	<string>5시 30분</string>
+	<key>🕡</key>
+	<string>6시 30분</string>
+	<key>🇪🇦</key>
+	<string>세우타와 멜리야 깃발</string>
+	<key>🕢</key>
+	<string>7시 30분</string>
+	<key>✅</key>
+	<string>체크 표시 기호</string>
+	<key>🕣</key>
+	<string>8시 30분</string>
+	<key>🧜‍♀️</key>
+	<string>여자 인어</string>
+	<key>🏎️</key>
+	<string>경주용 자동차</string>
+	<key>🕤</key>
+	<string>9시 30분</string>
+	<key>🛍️</key>
+	<string>쇼핑백</string>
+	<key>🕥</key>
+	<string>10시 30분</string>
+	<key>✊</key>
+	<string>바위 모양 손</string>
+	<key>🇲🇨</key>
+	<string>모나코 깃발</string>
+	<key>✋</key>
+	<string>보 모양 손</string>
+	<key>🕦</key>
+	<string>11시 30분</string>
+	<key>🕧</key>
+	<string>12시 30분</string>
+	<key>🇮🇨</key>
+	<string>카나리아 제도 깃발</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>웨일스 깃발</string>
+	<key>🇾🇪</key>
+	<string>예멘 깃발</string>
+	<key>🇪🇨</key>
+	<string>에콰도르 깃발</string>
+	<key>👩‍🎨</key>
+	<string>여자 아티스트</string>
+	<key>🇲🇩</key>
+	<string>몰도바 깃발</string>
+	<key>🇦🇨</key>
+	<string>어센션 섬 깃발</string>
+	<key>🇮🇩</key>
+	<string>인도네시아 깃발</string>
+	<key>🇲🇪</key>
+	<string>몬테네그로 깃발</string>
+	<key>🇦🇩</key>
+	<string>안도라 깃발</string>
+	<key>🇮🇪</key>
+	<string>아일랜드 깃발</string>
+	<key>🇪🇪</key>
+	<string>에스토니아 깃발</string>
+	<key>🇲🇫</key>
+	<string>생마르탱 깃발</string>
+	<key>🇺🇬</key>
+	<string>우간다 깃발</string>
+	<key>♣️</key>
+	<string>클로버 카드</string>
+	<key>🇦🇪</key>
+	<string>아랍 에미리트 연합국 깃발</string>
+	<key>🕯️</key>
+	<string>초</string>
+	<key>🇲🇬</key>
+	<string>마다가스카르 깃발</string>
+	<key>🇦🇫</key>
+	<string>아프가니스탄 깃발</string>
+	<key>👮‍♂️</key>
+	<string>경찰(남자)</string>
+	<key>🇪🇬</key>
+	<string>이집트 깃발</string>
+	<key>🇲🇭</key>
+	<string>마셜 제도 깃발</string>
+	<key>✨</key>
+	<string>광채</string>
+	<key>🇦🇬</key>
+	<string>앤티가 바부다 깃발</string>
+	<key>🛏️</key>
+	<string>침대</string>
+	<key>👳‍♀️</key>
+	<string>터번을 쓰고 있는 여자</string>
+	<key>🇪🇭</key>
+	<string>서사하라 깃발</string>
+	<key>☄️</key>
+	<string>혜성</string>
+	<key>🕺</key>
+	<string>춤추는 남자</string>
+	<key>✌️</key>
+	<string>평화의 손 모양</string>
+	<key>❤️</key>
+	<string>빨간색 하트</string>
+	<key>⏭️</key>
+	<string>앞으로 건너뛰기 기호</string>
+	<key>🇦🇮</key>
+	<string>앵귈라 깃발</string>
+	<key>🇲🇰</key>
+	<string>북마케도니아 깃발</string>
+	<key>◽️</key>
+	<string>약간 작은 흰색 사각형</string>
+	<key>🇲🇱</key>
+	<string>말리 깃발</string>
+	<key>🈚️</key>
+	<string>무료를 의미하는 일본어 한자 없을 ‘무’</string>
+	<key>🇺🇲</key>
+	<string>미국령 군소 제도 깃발</string>
+	<key>🇮🇱</key>
+	<string>이스라엘 깃발</string>
+	<key>🇲🇲</key>
+	<string>미얀마(버마) 깃발</string>
+	<key>💂‍♂️</key>
+	<string>남자 근위병</string>
+	<key>🇺🇳</key>
+	<string>유엔 깃발</string>
+	<key>🇦🇱</key>
+	<string>알바니아 깃발</string>
+	<key>🧑‍💻</key>
+	<string>기술 전문가</string>
+	<key>🇮🇲</key>
+	<string>맨섬 깃발</string>
+	<key>⛹️‍♂️</key>
+	<string>남자 농구 선수</string>
+	<key>🇲🇳</key>
+	<string>몽골 깃발</string>
+	<key>🇦🇲</key>
+	<string>아르메니아 깃발</string>
+	<key>🇮🇳</key>
+	<string>인도 깃발</string>
+	<key>❌</key>
+	<string>X자 표시</string>
+	<key>💇‍♀️</key>
+	<string>헤어컷 받는 여자</string>
+	<key>❎</key>
+	<string>X자 표시</string>
+	<key>🇲🇴</key>
+	<string>마카오 깃발</string>
+	<key>♎️</key>
+	<string>천칭자리</string>
+	<key>🧚‍♂️</key>
+	<string>남자 요정</string>
+	<key>🧑‍💼</key>
+	<string>사무실 직원</string>
+	<key>🇮🇴</key>
+	<string>영국령 인도양 지역 깃발</string>
+	<key>❓</key>
+	<string>빨간색 물음표</string>
+	<key>❔</key>
+	<string>흰색 물음표</string>
+	<key>🇲🇵</key>
+	<string>북마리아나 제도 깃발</string>
+	<key>❕</key>
+	<string>흰색 느낌표</string>
+	<key>🇦🇴</key>
+	<string>앙골라 깃발</string>
+	<key>🧟‍♀️</key>
+	<string>여자 좀비</string>
+	<key>🖕</key>
+	<string>가운데 손가락</string>
+	<key>🇲🇶</key>
+	<string>마르티니크 깃발</string>
+	<key>🖖</key>
+	<string>세 번째와 네 번째 손가락을 벌린 손</string>
+	<key>🇮🇶</key>
+	<string>이라크 깃발</string>
+	<key>🚶‍♂️</key>
+	<string>남자 보행자</string>
+	<key>🇲🇷</key>
+	<string>모리타니 깃발</string>
+	<key>🇺🇸</key>
+	<string>미국 깃발</string>
+	<key>🇦🇶</key>
+	<string>남극 대륙 깃발</string>
+	<key>🇮🇷</key>
+	<string>이란 깃발</string>
+	<key>🕳️</key>
+	<string>구멍</string>
+	<key>⌨️</key>
+	<string>키보드</string>
+	<key>🇾🇹</key>
+	<string>마요트 깃발</string>
+	<key>🇪🇷</key>
+	<string>에리트레아 깃발</string>
+	<key>⛷️</key>
+	<string>스키를 타는 사람</string>
+	<key>🇲🇸</key>
+	<string>몬트세라트 깃발</string>
+	<key>🇦🇷</key>
+	<string>아르헨티나 깃발</string>
+	<key>🇮🇸</key>
+	<string>아이슬란드 깃발</string>
+	<key>👨‍💻</key>
+	<string>남자 기술 전문가</string>
+	<key>🌤️</key>
+	<string>작은 구름에 가려진 태양</string>
+	<key>🇪🇸</key>
+	<string>스페인 깃발</string>
+	<key>🇲🇹</key>
+	<string>몰타 깃발</string>
+	<key>🇦🇸</key>
+	<string>미국령 사모아 깃발</string>
+	<key>🇮🇹</key>
+	<string>이탈리아 깃발</string>
+	<key>❤️‍🩹</key>
+	<string>회복 중인 하트</string>
+	<key>🏔️</key>
+	<string>눈 덮인 산</string>
+	<key>🇪🇹</key>
+	<string>에티오피아 깃발</string>
+	<key>🤷‍♀️</key>
+	<string>어깨를 으쓱하는 여자</string>
+	<key>🇲🇺</key>
+	<string>모리셔스 깃발</string>
+	<key>🇦🇹</key>
+	<string>오스트리아 깃발</string>
+	<key>🖤</key>
+	<string>검은색 하트</string>
+	<key>👩‍🦯</key>
+	<string>흰색 지팡이를 든 여자</string>
+	<key>👱‍♂️</key>
+	<string>금발을 한 남자</string>
+	<key>👨‍💼</key>
+	<string>사무실 남자 직원</string>
+	<key>⛰️</key>
+	<string>산</string>
+	<key>🇪🇺</key>
+	<string>유럽 연합 깃발</string>
+	<key>🇲🇻</key>
+	<string>몰디브 깃발</string>
+	<key>🇦🇺</key>
+	<string>오스트레일리아 깃발</string>
+	<key>🇲🇼</key>
+	<string>말라위 깃발</string>
+	<key>👩‍🦰</key>
+	<string>빨간색 머리를 한 여자</string>
+	<key>🇲🇽</key>
+	<string>멕시코 깃발</string>
+	<key>🇺🇾</key>
+	<string>우루과이 깃발</string>
+	<key>🇦🇼</key>
+	<string>아루바 깃발</string>
+	<key>☹️</key>
+	<string>찌푸린 얼굴</string>
+	<key>⌚️</key>
+	<string>시계</string>
+	<key>🕵️</key>
+	<string>탐정</string>
+	<key>⛩️</key>
+	<string>신도 신사</string>
+	<key>🇲🇾</key>
+	<string>말레이시아 깃발</string>
+	<key>🧎‍♀️</key>
+	<string>무릎 꿇은 여자</string>
+	<key>🇺🇿</key>
+	<string>우즈베키스탄 깃발</string>
+	<key>🇦🇽</key>
+	<string>올란드 제도 깃발</string>
+	<key>👩‍🦱</key>
+	<string>곱슬머리를 한 여자</string>
+	<key>🙇‍♂️</key>
+	<string>절하는 남자</string>
+	<key>🌦️</key>
+	<string>비구름에 가려진 태양</string>
+	<key>🇲🇿</key>
+	<string>모잠비크 깃발</string>
+	<key>🏖️</key>
+	<string>파라솔이 있는 해변</string>
+	<key>👩‍🦲</key>
+	<string>대머리를 한 여자</string>
+	<key>🇦🇿</key>
+	<string>아제르바이잔 깃발</string>
+	<key>➕</key>
+	<string>더하기 기호</string>
+	<key>🕊️</key>
+	<string>비둘기</string>
+	<key>➖</key>
+	<string>빼기 기호</string>
+	<key>➗</key>
+	<string>나누기 기호</string>
+	<key>🗺️</key>
+	<string>세계 지도</string>
+	<key>👩‍🦳</key>
+	<string>백발을 한 여자</string>
+	<key>7️⃣</key>
+	<string>숫자 7 키캡</string>
+	<key>🅰️</key>
+	<string>A형</string>
+	<key>🤦‍♀️</key>
+	<string>골치 아파하는 여자</string>
+	<key>🧝‍♂️</key>
+	<string>남자 엘프</string>
+	<key>🕷️</key>
+	<string>거미</string>
+	<key>✳️</key>
+	<string>팔각 별표</string>
+	<key>🌨️</key>
+	<string>눈이 내리는 구름</string>
+	<key>🦸‍♂️</key>
+	<string>남자 슈퍼히어로</string>
+	<key>➰</key>
+	<string>동그랗게 말린 고리</string>
+	<key>🏘️</key>
+	<string>여러 채의 집</string>
+	<key>0️⃣</key>
+	<string>숫자 0 키캡</string>
+	<key>🤵‍♂️</key>
+	<string>턱시도를 입은 남자</string>
+	<key>⛔️</key>
+	<string>출입 금지</string>
+	<key>👨‍👧‍👦</key>
+	<string>아빠, 아들과 딸로 구성된 가족</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>엄마, 아빠, 두 명의 아들로 구성된 가족</string>
+	<key>🧑‍🏫</key>
+	<string>선생님</string>
+	<key>➿</key>
+	<string>동그랗게 말린 이중 고리</string>
+	<key>㊙️</key>
+	<string>비밀을 의미하는 일본어 한자 숨길 ‘비’</string>
+	<key>☝️</key>
+	<string>위쪽을 가리키는 집게손가락</string>
+	<key>🕹️</key>
+	<string>조이스틱</string>
+	<key>🗑️</key>
+	<string>휴지통</string>
+	<key>🌪️</key>
+	<string>토네이도</string>
+	<key>🧑‍🏭</key>
+	<string>공장 직원</string>
+	<key>↗️</key>
+	<string>오른쪽 위를 향한 화살표</string>
+	<key>⤵️</key>
+	<string>오른쪽으로 가다가 밑으로 꺾인 화살표</string>
+	<key>🏚️</key>
+	<string>버려진 집</string>
+	<key>©️</key>
+	<string>저작권 기호</string>
+	<key>👨‍🏫</key>
+	<string>남자 선생님</string>
+	<key>🗓️</key>
+	<string>스프링 달력</string>
+	<key>⏸️</key>
+	<string>일시 정지 기호</string>
+	<key>🧑‍✈️</key>
+	<string>기장</string>
+	<key>🌬️</key>
+	<string>입김을 불고 있는 얼굴</string>
+	<key>👨‍🏭</key>
+	<string>공장 남자 직원</string>
+	<key>🏜️</key>
+	<string>사막</string>
+	<key>♠️</key>
+	<string>스페이드 카드</string>
+	<key>🖨️</key>
+	<string>프린터</string>
+	<key>⏱️</key>
+	<string>스톱워치</string>
+	<key>👩‍🦼</key>
+	<string>전동 휠체어를 탄 여자</string>
+	<key>🗻</key>
+	<string>후지산</string>
+	<key>🫱‍🫲</key>
+	<string>악수</string>
+	<key>🗼</key>
+	<string>도쿄 타워</string>
+	<key>🗽</key>
+	<string>자유의 여신상</string>
+	<key>🗾</key>
+	<string>일본 지도</string>
+	<key>🤸‍♂️</key>
+	<string>옆구르기하는 남자</string>
+	<key>🌀</key>
+	<string>태풍</string>
+	<key>🗿</key>
+	<string>이스터 섬 석상</string>
+	<key>☁️</key>
+	<string>흰구름</string>
+	<key>🌁</key>
+	<string>안개 속 다리</string>
+	<key>😀</key>
+	<string>활짝 웃는 얼굴</string>
+	<key>👩‍🦽</key>
+	<string>수동 휠체어를 탄 여자</string>
+	<key>🌂</key>
+	<string>접은 우산</string>
+	<key>😁</key>
+	<string>미소 짓는 눈으로 흡족해하는 얼굴</string>
+	<key>⚱️</key>
+	<string>유골 단지</string>
+	<key>🌃</key>
+	<string>별이 빛나는 밤</string>
+	<key>😂</key>
+	<string>기쁨의 눈물을 흘리는 얼굴</string>
+	<key>✉️</key>
+	<string>봉투</string>
+	<key>👨‍👧‍👧</key>
+	<string>아빠와 두 명의 딸로 구성된 가족</string>
+	<key>🤽‍♀️</key>
+	<string>수구하는 여자</string>
+	<key>🌄</key>
+	<string>산 위로 떠오르는 태양</string>
+	<key>😃</key>
+	<string>큰 눈으로 활짝 웃는 얼굴</string>
+	<key>🌅</key>
+	<string>일출</string>
+	<key>😄</key>
+	<string>미소 짓는 눈으로 활짝 웃는 얼굴</string>
+	<key>👷‍♂️</key>
+	<string>건설 현장 남자 노동자</string>
+	<key>👨‍✈️</key>
+	<string>남자 기장</string>
+	<key>🌆</key>
+	<string>해질 무렵의 도시 풍경</string>
+	<key>😅</key>
+	<string>땀 흘리며 활짝 웃는 얼굴</string>
+	<key>🌇</key>
+	<string>빌딩 사이로 지는 태양</string>
+	<key>😆</key>
+	<string>활짝 눈웃음짓는 얼굴</string>
+	<key>🌈</key>
+	<string>무지개</string>
+	<key>😇</key>
+	<string>머리에 후광이 비치는 웃는 얼굴</string>
+	<key>🌉</key>
+	<string>다리 야경</string>
+	<key>😈</key>
+	<string>머리에 뿔이 달린 웃는 얼굴</string>
+	<key>🏞️</key>
+	<string>국립공원</string>
+	<key>🌊</key>
+	<string>파도</string>
+	<key>😉</key>
+	<string>윙크하는 얼굴</string>
+	<key>🌋</key>
+	<string>화산</string>
+	<key>😊</key>
+	<string>미소 짓는 눈으로 살짝 웃는 얼굴</string>
+	<key>♒️</key>
+	<string>물병자리</string>
+	<key>🌌</key>
+	<string>은하수</string>
+	<key>😋</key>
+	<string>입맛을 다시며 웃는 얼굴</string>
+	<key>⚪️</key>
+	<string>흰색 원</string>
+	<key>🌍</key>
+	<string>유럽과 아프리카가 보이는 지구</string>
+	<key>😌</key>
+	<string>안도하는 얼굴</string>
+	<key>🧏‍♂️</key>
+	<string>청각 장애인 남자</string>
+	<key>✂️</key>
+	<string>가위</string>
+	<key>🌎</key>
+	<string>미국이 보이는 지구</string>
+	<key>🤌</key>
+	<string>오므린 손가락</string>
+	<key>😍</key>
+	<string>하트 눈의 웃는 얼굴</string>
+	<key>🌏</key>
+	<string>아시아와 호주가 보이는 지구</string>
+	<key>🤍</key>
+	<string>흰색 하트</string>
+	<key>😎</key>
+	<string>선글라스를 낀 웃는 얼굴</string>
+	<key>🌐</key>
+	<string>자오선이 있는 지구</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>엄마, 아빠, 두 명의 딸로 구성된 가족</string>
+	<key>🤎</key>
+	<string>갈색 하트</string>
+	<key>😏</key>
+	<string>히죽거리는 얼굴</string>
+	<key>🌑</key>
+	<string>삭월</string>
+	<key>🤏</key>
+	<string>꼬집는 손</string>
+	<key>😐</key>
+	<string>평상 시 얼굴</string>
+	<key>🧔‍♀️</key>
+	<string>수염 난 여자</string>
+	<key>🌒</key>
+	<string>차오르는 초승달</string>
+	<key>🤐</key>
+	<string>지퍼로 입을 잠근 얼굴</string>
+	<key>😑</key>
+	<string>무표정한 얼굴</string>
+	<key>🙍‍♂️</key>
+	<string>약간 찌푸린 남자</string>
+	<key>🌓</key>
+	<string>상현달</string>
+	<key>🤑</key>
+	<string>돈 모양의 입이 있는 얼굴</string>
+	<key>😒</key>
+	<string>지루해하는 얼굴</string>
+	<key>🌔</key>
+	<string>상현망간의 달</string>
+	<key>🤒</key>
+	<string>체온계를 입에 문 얼굴</string>
+	<key>😓</key>
+	<string>땀을 흘리며 눈을 내리뜬 얼굴</string>
+	<key>🌕</key>
+	<string>보름달</string>
+	<key>🤓</key>
+	<string>안경 낀 웃는 얼굴</string>
+	<key>😔</key>
+	<string>깊은 슬픔에 잠긴 얼굴</string>
+	<key>♋️</key>
+	<string>게자리</string>
+	<key>🌖</key>
+	<string>하현망간의 달</string>
+	<key>🤔</key>
+	<string>생각 중인 얼굴</string>
+	<key>😕</key>
+	<string>혼란스러운 얼굴</string>
+	<key>🌗</key>
+	<string>하현달</string>
+	<key>🤕</key>
+	<string>머리에 붕대를 감은 얼굴</string>
+	<key>😖</key>
+	<string>당황한 얼굴</string>
+	<key>🌘</key>
+	<string>그믐달</string>
+	<key>🤖</key>
+	<string>로봇 얼굴</string>
+	<key>😗</key>
+	<string>키스하는 얼굴</string>
+	<key>🌙</key>
+	<string>초승달</string>
+	<key>🤗</key>
+	<string>안아 주는 얼굴</string>
+	<key>😘</key>
+	<string>키스를 보내는 얼굴</string>
+	<key>🌚</key>
+	<string>얼굴이 그려진 삭월</string>
+	<key>🤘</key>
+	<string>뿔 모양 손짓</string>
+	<key>😙</key>
+	<string>미소 짓는 눈으로 키스하는 얼굴</string>
+	<key>🌛</key>
+	<string>얼굴이 그려진 상현달</string>
+	<key>🤙</key>
+	<string>전화를 걸라는 손 모양</string>
+	<key>😚</key>
+	<string>눈을 감은 채로 키스하는 얼굴</string>
+</dict>
+</plist>

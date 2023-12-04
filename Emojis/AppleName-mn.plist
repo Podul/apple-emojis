@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>нүүр | нүүртэй сүүлийн хагас сар | сар | хагас | нүүртэй сүүлийн хагас сар</string>
+	<key>🤚</key>
+	<string>гарын ар | өргөсөн | өргөсөн гарын ар | өргөсөн гарын ар</string>
+	<key>😛</key>
+	<string>гаргах | хэл | хэлээ гаргаж буй царай | царай | хэлээ гаргаж буй царай</string>
+	<key>👩‍🔧</key>
+	<string>механикч | сантехникч | худалдаачин | цахилгаанчин | эмэгтэй | эмэгтэй механикч</string>
+	<key>🌝</key>
+	<string>бүтэн | гэгээтэй | нүүр | нүүртэй бүтэн сар | сар | нүүртэй бүтэн сар</string>
+	<key>🤛</key>
+	<string>гар | зангидсан | зүүн | харсан | зүүн харсан зангидсан гар</string>
+	<key>😜</key>
+	<string>гаргах | ирмэх | нүд | хэл | хэлээ гаргаад, нүдээ ирмэж буй царай | царай | хэлээ гаргаад, нүдээ ирмэж буй царай</string>
+	<key>🌞</key>
+	<string>нар | нүүр | нүүртэй нар | цаг агаар | нүүртэй нар</string>
+	<key>🤜</key>
+	<string>баруун | гар | зангидсан | харсан | баруун харсан зангидсан гар</string>
+	<key>😝</key>
+	<string>гаргах | нүд | тас аних | хэл | хэлээ гаргаад, нүдээ тас аньсан царай | царай | хэлээ гаргаад, нүдээ тас аньсан царай</string>
+	<key>🌟</key>
+	<string>гялалзаж буй од | гялалзах | од | тэнгэр | гялалзаж буй од</string>
+	<key>🤝</key>
+	<string>барилт | гар | гар барилт</string>
+	<key>😞</key>
+	<string>урам хугарсан | урам хугарсан царай | царай | урам хугарсан царай</string>
+	<key>🌠</key>
+	<string>аз | од | харвах | од харвах</string>
+	<key>🤞</key>
+	<string>солбисон | хуруу | солбисон хуруу</string>
+	<key>😟</key>
+	<string>санаа зовсон | санаа зовсон царай | царай | санаа зовсон царай</string>
+	<key>🐈‍⬛</key>
+	<string>азгүй | муур | хар | Хар муур | Хар муур</string>
+	<key>🤟</key>
+	<string>БЧХ | гар | хайртай гэсэн дохио | хайртай гэсэн дохио</string>
+	<key>😠</key>
+	<string>ууртай | уцаартай | царай | ууртай царай</string>
+	<key>⚜️</key>
+	<string>fleur-de-lis</string>
+	<key>⛴️</key>
+	<string>ferry</string>
+	<key>🤠</key>
+	<string>ковбой | ковбой малгайтай царай | малгай | охин | царай | ковбой малгайтай царай</string>
+	<key>😡</key>
+	<string>маш их уурласан царай | улайсан | уурласан | царай | маш их уурласан царай</string>
+	<key>🤡</key>
+	<string>алиалагч | алиалагчийн царай | царай | алиалагчийн царай</string>
+	<key>😢</key>
+	<string>уйлж байгаа | уйлж байгаа царай | царай | уйлж байгаа царай</string>
+	<key>⬛️</key>
+	<string>black large square</string>
+	<key>🤢</key>
+	<string>дурамжхан | царай | дурамжхан царай</string>
+	<key>😣</key>
+	<string>царай | цөхрөлтгүй | цөхрөлтгүй царай</string>
+	<key>🤣</key>
+	<string>газар | инээж, газар өнхрөх царай | инээх | өнхрөх | царай | инээж, газар өнхрөх царай</string>
+	<key>😤</key>
+	<string>их | уурласан | царай | их уурласан царай</string>
+	<key>🤤</key>
+	<string>унжгар | царай | унжгар царай</string>
+	<key>😥</key>
+	<string>тайвширсан | урам хугарсан | урам хугарсан ч тайвширсан царай | царай | урам хугарсан ч тайвширсан царай</string>
+	<key>🤥</key>
+	<string>пиноккио | худалч | царай | худалч царай</string>
+	<key>😦</key>
+	<string>гайхсан | дурамжхан | царай | гайхсан дурамжхан царай</string>
+	<key>🤦</key>
+	<string>алга | нүүр | нүүр лүү алгадах | үл итгэл | нүүр лүү алгадах</string>
+	<key>😧</key>
+	<string>царай | шаналсан | шаналсан царай</string>
+	<key>🤧</key>
+	<string>найтаах | царай | найтаах царай</string>
+	<key>😨</key>
+	<string>айсан | царай | айсан царай</string>
+	<key>🤨</key>
+	<string>үл итгэх | хөмсгөө өргөсөн царай | эргэлзээ | хөмсгөө өргөсөн царай</string>
+	<key>😩</key>
+	<string>залхсан | царай | залхсан царай</string>
+	<key>🤩</key>
+	<string>инээх | нүд | од | одон нүдтэй инээж буй царай | царай | одон нүдтэй инээж буй царай</string>
+	<key>⚕️</key>
+	<string>staff of Aesculapius</string>
+	<key>😪</key>
+	<string>нойрмоглож буй царай | нойрмоглох | царай | нойрмоглож буй царай</string>
+	<key>👁️‍🗨️</key>
+	<string>I am a witness</string>
+	<key>🤪</key>
+	<string>галзуу царай | жижиг | нүд | том | галзуу царай</string>
+	<key>😫</key>
+	<string>царай | ядарсан | ядарсан царай</string>
+	<key>🌭</key>
+	<string>зайдас | хот-дог | хот-дог</string>
+	<key>🤫</key>
+	<string>чимээгүй | чишш | чишш гэсэн царай | чишш гэсэн царай</string>
+	<key>😬</key>
+	<string>царай | ярвалзсан | ярвалзсан царай</string>
+	<key>🌮</key>
+	<string>мексик | тако | тако</string>
+	<key>🤬</key>
+	<string>тэмдэгтүүд амандаа зуусан царай | хөлөрч байна | тэмдэгтүүд амандаа зуусан царай</string>
+	<key>😭</key>
+	<string>уйлaх | царай | цурхиран уйлж байгаа царай | цурхирах | цурхиран уйлж байгаа царай</string>
+	<key>🌯</key>
+	<string>буррито | мексик | буррито</string>
+	<key>🤭</key>
+	<string>амаа гараараа тагласан царай | дуу алдах | амаа гараараа тагласан царай</string>
+	<key>😮</key>
+	<string>царай | цочирдох | цочирдсон царай | цочирдсон царай</string>
+	<key>🌰</key>
+	<string>каштан | самар | каштан</string>
+	<key>🤮</key>
+	<string>бөөлжих | бөөлжсөн царай | өвчтэй | бөөлжсөн царай</string>
+	<key>😯</key>
+	<string>гайхширсан | царай | гайхширсан царай</string>
+	<key>🌱</key>
+	<string>ургамал | үрсэлгээ | үрсэлгээ</string>
+	<key>🤯</key>
+	<string>толгой дэлбэрэх | цочирдсон | толгой дэлбэрэх</string>
+	<key>😰</key>
+	<string>амаа ангайж, хүйтэн хөлс чахарсан царай | амаа ангайх | хөлс чахрах | хүйтэн | царай | амаа ангайж, хүйтэн хөлс чахарсан царай</string>
+	<key>🌲</key>
+	<string>гацуур | зул сар | мод | шинэ жил | гацуур</string>
+	<key>🤰</key>
+	<string>жирэмсэн | эмэгтэй | жирэмсэн эмэгтэй</string>
+	<key>😱</key>
+	<string>айгаад орилж байгаа царай | айх | орилох | царай | айгаад орилж байгаа царай</string>
+	<key>🌳</key>
+	<string>мод | навч | навчит мод | навчит мод</string>
+	<key>🤱</key>
+	<string>асрах | нялх хүүхэд | хөх | хөхөөр хооллох | хөхөөр хооллох</string>
+	<key>😲</key>
+	<string>мэл гайхсан | мэл гайхсан царай | царай | мэл гайхсан царай</string>
+	<key>🛡️</key>
+	<string>shield</string>
+	<key>🌴</key>
+	<string>дал | мод | ургамал | дал мод</string>
+	<key>🤲</key>
+	<string>алгаа хавсрах | мөргөлч | алгаа хавсрах</string>
+	<key>😳</key>
+	<string>ичсэн | царай | ягаарсан | ичсэн царай</string>
+	<key>🌵</key>
+	<string>кактус | ургамал | кактус</string>
+	<key>🤳</key>
+	<string>селфи | селфи</string>
+	<key>😴</key>
+	<string>унтаж буй царай | унтах | царай | унтаж буй царай</string>
+	<key>🤴</key>
+	<string>ханхүү | ханхүү</string>
+	<key>😵</key>
+	<string>толгой нь эргэсэн | толгой нь эргэсэн царай | царай | толгой нь эргэсэн царай</string>
+	<key>👩‍🌾</key>
+	<string>ногооч | тариачин | фермер | эм | эмэгтэй | эмэгтэй тариачин</string>
+	<key>🌷</key>
+	<string>алтан зул | алтан зул цэцэг | ургамал | цэцэг | алтан зул цэцэг</string>
+	<key>🤵</key>
+	<string>сүйт залуу | хослол | хослолтой хүн | хүн | хослолтой хүн</string>
+	<key>😶</key>
+	<string>амгүй | царай | амгүй царай</string>
+	<key>🌸</key>
+	<string>интоор | интоорын цэцэг | ургамал | цэцэг | интоорын цэцэг</string>
+	<key>🤶</key>
+	<string>Зулсар | Зулсарын хатагтай | Хатагтай | эх | Зулсарын хатагтай</string>
+	<key>😷</key>
+	<string>зүүсэн | маск | царай | маск зүүсэн царай</string>
+	<key>🌹</key>
+	<string>сарнай | ургамал | сарнай</string>
+	<key>🤷</key>
+	<string>мөр хавчих | мөрөө хавчих | үл хайхрах | эргэлзэх | мөрөө хавчих</string>
+	<key>😸</key>
+	<string>инээх | муур | нүд | нүдээрээ инээж байгаа ︱царай | нүдээрээ инээж байгаа муур | нүдээрээ инээж байгаа муур</string>
+	<key>🌺</key>
+	<string>гибискус | сарнай | ургамал | гибискус сарнай</string>
+	<key>🤸</key>
+	<string>гимнастик | сальто | сальто эргэх | спорт | хүн | сальто эргэх</string>
+	<key>😹</key>
+	<string>баярлах | муур | нулимс | нулимсаа гартал инээж байгаа муур | царай | нулимсаа гартал инээж байгаа муур</string>
+	<key>🌻</key>
+	<string>наран цэцэг | ургамал | наран цэцэг</string>
+	<key>🤹</key>
+	<string>жонглёрдох | тэнцвэр | ур чадвар | жонглёрдох</string>
+	<key>😺</key>
+	<string>ам | амаа ангайгаад инээж байгаа | амаа ангайгаад инээж байгаа муур | ангайх | инээсэн | муур | царай | амаа ангайгаад инээж байгаа муур</string>
+	<key>🌼</key>
+	<string>ургамал | цэцэг | цэцэг</string>
+	<key>🤺</key>
+	<string>сэлэм | туялзуур жадаар тоглогч | туялзуур сэлэм | туялзуур сэлэмчин | туялзуур сэлэмээр тоглогч | туялзуур жадаар тоглогч</string>
+	<key>😻</key>
+	<string>дурлал | зүрх | зүрхэн нүдтэй инээж байгаа муур | инээх | муур | нүд | царай | зүрхэн нүдтэй инээж байгаа муур</string>
+	<key>🌽</key>
+	<string>навч | ургамал | шош | шошны навч | шошны навч</string>
+	<key>😼</key>
+	<string>ёжтой | жоготой | жоготой инээмсэглэж байгаа муур | инээх | муур | царай | жоготой инээмсэглэж байгаа муур</string>
+	<key>🇿🇦</key>
+	<string>flag of South Africa</string>
+	<key>👩‍🔬</key>
+	<string>биологич | инженер | физикч | химич | эмэгтэй | эмэгтэй эрдэмтэн | эмэгтэй эрдэмтэн</string>
+	<key>🌾</key>
+	<string>будаа | будааны тариан түрүү | тариан түрүү | үр ургац | будааны тариан түрүү</string>
+	<key>🤼</key>
+	<string>барилдах | бөх | спорт | хүн | бөх</string>
+	<key>😽</key>
+	<string>муур | нүд | нүдээ аниад үнсэж байгаа муур | үнсэх | царай | нүдээ аниад үнсэж байгаа муур</string>
+	<key>🇻🇦</key>
+	<string>flag of Vatican City</string>
+	<key>🌿</key>
+	<string>навч | ургамал | ургамал</string>
+	<key>🤽</key>
+	<string>поло | спорт | ус | усны поло | хүн | усны поло</string>
+	<key>😾</key>
+	<string>муур | урвагар | урвагар царайлсан муур | царайлах | урвагар царайлсан муур</string>
+	<key>☯️</key>
+	<string>yin yang</string>
+	<key>🍀</key>
+	<string>4 | 4 навчтай хошоонгор | навч | ургамал | хошоонгор | 4 навчтай хошоонгор</string>
+	<key>🤾</key>
+	<string>бөмбөг | гар | гар бөмбөг тоглож буй хүн | спорт | хүн | гар бөмбөг тоглож буй хүн</string>
+	<key>😿</key>
+	<string>гунигтай | муур | нулимс | уйлах | уйлж байгаа муур | уйлж байгаа муур</string>
+	<key>🍁</key>
+	<string>агч | агч модны навч | мод | навч | ургамал | агч модны навч</string>
+	<key>🤿</key>
+	<string>скуба | сноркель | сноркельтой шумбах | шумбах | сноркель</string>
+	<key>🧑‍🍳</key>
+	<string>тогооч | хоол хийх | хоол хийх</string>
+	<key>🇳🇦</key>
+	<string>flag of Namibia</string>
+	<key>🙀</key>
+	<string>гайхшралд орох | гайхшралд орсон муур | муур | гайхшралд орсон муур</string>
+	<key>🧗‍♀️</key>
+	<string>woman rock climber</string>
+	<key>⁉️</key>
+	<string>red exclamation mark and question mark</string>
+	<key>🍂</key>
+	<string>навч | унаж байгаа навч | унах | ургамал | унаж байгаа навч</string>
+	<key>🥀</key>
+	<string>хатсан | цэцэг | хатсан цэцэг</string>
+	<key>🙁</key>
+	<string>бага зэрэг | бага зэрэг барайсан царай | барайсан | царай | бага зэрэг барайсан царай</string>
+	<key>🍃</key>
+	<string>навч | салхи | салхинд хийсч буй навч | хийсэх | салхинд хийсч буй навч</string>
+	<key>🥁</key>
+	<string>бөмбөр | хөгжим | цохиур | бөмбөр</string>
+	<key>🙂</key>
+	<string>бага зэрэг | бага зэрэг инээмсэглэсэн царай | инээмсэглэх | царай | бага зэрэг инээмсэглэсэн царай</string>
+	<key>⬆️</key>
+	<string>up arrow</string>
+	<key>🍄</key>
+	<string>мөөг | ургамал | мөөг</string>
+	<key>🥂</key>
+	<string>баяр тэмдэглэх | тулгах | уух | хундага | хундага тулгах</string>
+	<key>🙃</key>
+	<string>доошоо харсан царай | уруу харсан царай | доошоо харсан царай</string>
+	<key>5️⃣</key>
+	<string>keycap digit five</string>
+	<key>🍅</key>
+	<string>жимс | лооль | улаан | улаан лооль</string>
+	<key>🥃</key>
+	<string>архи | архины жүнз | виски | жүнз | хундага | архины жүнз</string>
+	<key>🙄</key>
+	<string>нүд | нүдээ эргэлдүүлэх царай | царай | эргэлдсэн | нүдээ эргэлдүүлэх царай</string>
+	<key>🇻🇨</key>
+	<string>flag of Saint Vincent &amp; Grenadines</string>
+	<key>🇧🇦</key>
+	<string>flag of Bosnia &amp; Herzegovina</string>
+	<key>↩️</key>
+	<string>right arrow curving left</string>
+	<key>🍆</key>
+	<string>ногоо | хаш | хаш</string>
+	<key>🥄</key>
+	<string>халбага | ширээний хэрэгсэл | халбага</string>
+	<key>🙅</key>
+	<string>дохио | үгүйсгэсэн дохио | үгүйсгэх | эмэгтэй | үгүйсгэсэн дохио</string>
+	<key>🍇</key>
+	<string>жимс | усан үзэм | усан үзэм</string>
+	<key>🥅</key>
+	<string>гоол | гоолын хаалга | тор | гоолын хаалга</string>
+	<key>🙆</key>
+	<string>дохио | зөвшөөрөх | зөвшөөрч байгаа дохио | эмэгтэй | зөвшөөрч байгаа дохио</string>
+	<key>🛣️</key>
+	<string>motorway</string>
+	<key>🍈</key>
+	<string>гуа | жимс | гуа</string>
+	<key>🙇</key>
+	<string>бөхийж буй хүн | бөхийх | дохио | уучлаарай | уучлал | бөхийж буй хүн</string>
+	<key>🇳🇨</key>
+	<string>flag of New Caledonia</string>
+	<key>🍉</key>
+	<string>жимс | тарвас | тарвас</string>
+	<key>🇧🇧</key>
+	<string>flag of Barbados</string>
+	<key>🥇</key>
+	<string>1-р байрны медаль | алт | медаль | нэгдүгээр | 1-р байрны медаль</string>
+	<key>🙈</key>
+	<string>дарах | дохио зангаа | итгэл үнэмшил | муу | муу үйлийг харахгүй | нуугдах | нүд | сармагчин | үйл | харахгүй | муу үйлийг харахгүй</string>
+	<key>🍊</key>
+	<string>жимс | мандарин | мандарин</string>
+	<key>🥈</key>
+	<string>2-р байрны медаль | медаль | мөнгө | хоёрдугаар | 2-р байрны медаль</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>flag of Scotland</string>
+	<key>🙉</key>
+	<string>дарах | итгэл үнэмшил | муу | муу үйлийг сонсохгүй | сармагчин | сонсохгүй | үйл | чих | муу үйлийг сонсохгүй</string>
+	<key>🍋</key>
+	<string>жимс | лемон | лимон | нимбэг | хүчил | лимон</string>
+	<key>🥉</key>
+	<string>3-р байрны медаль | гуравдугаар | медаль | хүрэл | 3-р байрны медаль</string>
+	<key>🙊</key>
+	<string>ам | дарах | итгэл үнэмшил | муу | муу үйлийг хэлэхгүй | сармагчин | үйл | хэлэхгүй | муу үйлийг хэлэхгүй</string>
+	<key>🍌</key>
+	<string>гадил | жимс | гадил</string>
+	<key>🥊</key>
+	<string>бокс | боксын бээлий | бээлий | боксын бээлий</string>
+	<key>🇻🇪</key>
+	<string>flag of Venezuela</string>
+	<key>🙋</key>
+	<string>баярлаж, гараа өргөсөн хүн | баярласан | гар | өргөх хүн | баярлаж, гараа өргөсөн хүн</string>
+	<key>🍍</key>
+	<string>жимс | хан боргоцой | хан боргоцой</string>
+	<key>🥋</key>
+	<string>жудо | зодооны өмсгөл | карате | өмсгөл | таэквондо | тулааны урлаг | зодооны өмсгөл</string>
+	<key>🙌</key>
+	<string>гар | гараа өргөж байгаа хүн | өргөх | хоёр гар | хүн | гараа өргөж байгаа хүн</string>
+	<key>🇷🇪</key>
+	<string>flag of Réunion</string>
+	<key>🍎</key>
+	<string>алим | жимс | улаан | улаан алим</string>
+	<key>🥌</key>
+	<string>кёрлинг | тоглоом | чулуу | кёрлинг</string>
+	<key>🙍</key>
+	<string>урвайсан хүн | урвайх | хүн | урвайсан хүн</string>
+	<key>🍏</key>
+	<string>алим | жимс | ногоон | ногоон алим</string>
+	<key>🇳🇪</key>
+	<string>flag of Niger</string>
+	<key>🥍</key>
+	<string>бөмбөг | гоол | лакрос | цохиур | лакрос</string>
+	<key>🙎</key>
+	<string>гайхах | гайхсан хүн | хүн | гайхсан хүн</string>
+	<key>🅾️</key>
+	<string>blood type O</string>
+	<key>🇧🇩</key>
+	<string>flag of Bangladesh</string>
+	<key>🍐</key>
+	<string>жимс | лийр | лийр</string>
+	<key>🥎</key>
+	<string>бөмбөг | бээлий | софтбол | суга | софтбол</string>
+	<key>🇯🇪</key>
+	<string>flag of Jersey</string>
+	<key>🙏</key>
+	<string>алга | гар | хавсарсан гарын алга | хавсрах | хавсарсан гарын алга</string>
+	<key>🍑</key>
+	<string>жимс | тоор | тоор</string>
+	<key>🥏</key>
+	<string>нисдэг таваг | нисдэг тоглоом | шилдэг | нисдэг тоглоом</string>
+	<key>🍒</key>
+	<string>жимс | интоор | интоор</string>
+	<key>🥐</key>
+	<string>ороомог | өглөөний цай | талх | франц | хүнс | ороомог талх</string>
+	<key>🇳🇫</key>
+	<string>flag of Norfolk Island</string>
+	<key>🍓</key>
+	<string>гүзээлзгэнэ | жимс | гүзээлзгэнэ</string>
+	<key>🇻🇬</key>
+	<string>flag of the British Virgin Islands</string>
+	<key>🇧🇪</key>
+	<string>flag of Belgium</string>
+	<key>🥑</key>
+	<string>авокадо | жимс | хүнс | авокадо</string>
+	<key>🍔</key>
+	<string>бургер | гамбургер | гамбургер</string>
+	<key>🥒</key>
+	<string>ногоо | өргөст хэмх | хүнс | өргөст хэмх</string>
+	<key>⛑️</key>
+	<string>helmet with white cross</string>
+	<key>🍕</key>
+	<string>бяслаг | зүсэм | пицца | пицца</string>
+	<key>🥓</key>
+	<string>гахайн мах | мах | өглөөний цай | хүнс | гахайн мах</string>
+	<key>🇳🇬</key>
+	<string>flag of Nigeria</string>
+	<key>🍖</key>
+	<string>мах | яс | ястай мах | ястай мах</string>
+	<key>🥔</key>
+	<string>ногоо | төмс | хүнс | төмс</string>
+	<key>👨‍🍳</key>
+	<string>тогооч | эр | эрэгтэй | эрэгтэй тогооч</string>
+	<key>🇧🇫</key>
+	<string>flag of Burkina Faso</string>
+	<key>🍗</key>
+	<string>тахиа | тахиан шарсан мөч | тахианы шарсан мөч | хөл | шувуу | яс | тахиан шарсан мөч</string>
+	<key>👮‍♀️</key>
+	<string>policewoman</string>
+	<key>🥕</key>
+	<string>лууван | ногоо | хүнс | лууван</string>
+	<key>⭐️</key>
+	<string>star</string>
+	<key>🍘</key>
+	<string>будаа | будааны жигнэмэг | жигнэмэг | будааны жигнэмэг</string>
+	<key>🥖</key>
+	<string>багет | талх | франц | хүнс | багет франц талх</string>
+	<key>🗝️</key>
+	<string>old key</string>
+	<key>🌶️</key>
+	<string>hot pepper</string>
+	<key>🍙</key>
+	<string>будаа | будааны ороомог | Японы | будааны ороомог</string>
+	<key>🥗</key>
+	<string>ногоон | ногооны салат | салад | хүнс | ногооны салат</string>
+	<key>🏃‍♂️</key>
+	<string>man runner</string>
+	<key>🇻🇮</key>
+	<string>flag of the US Virgin Islands</string>
+	<key>🇧🇬</key>
+	<string>flag of Bulgaria</string>
+	<key>🍚</key>
+	<string>агшаасан будаа | будаа | агшаасан будаа</string>
+	<key>🥘</key>
+	<string>тогоо | тогоотой хоол | хайруулын таваг | хоол | тогоотой хоол</string>
+	<key>🍛</key>
+	<string>будаа | карри | карритай будаа | карритай будаа</string>
+	<key>🥙</key>
+	<string>гиро | кебаб | фалафел | хавтгай талх | хавчуургатай | хавчуургатай ороомог | хүнс | хавчуургатай ороомог</string>
+	<key>🍜</key>
+	<string>гоймон | жигнэх | рамен | хул аяга | чанасан гоймон | чанасан гоймон</string>
+	<key>🥚</key>
+	<string>өндөг | хоол | хүнс | өндөг</string>
+	<key>🛥️</key>
+	<string>motorboat</string>
+	<key>🇳🇮</key>
+	<string>flag of Nicaragua</string>
+	<key>🍝</key>
+	<string>паста | шпагетти | шпагетти</string>
+	<key>🥛</key>
+	<string>аяга | сүү | унд | аяга сүү</string>
+	<key>🇧🇭</key>
+	<string>flag of Bahrain</string>
+	<key>🍞</key>
+	<string>талх | хүнс | талх</string>
+	<key>🥜</key>
+	<string>газрын самар | самар | хүнс | хүнсний ногоо | газрын самар</string>
+	<key>🍟</key>
+	<string>шарсан төмс | шарсан төмс</string>
+	<key>👨‍👨‍👦</key>
+	<string>family with two fathers and son</string>
+	<key>🥝</key>
+	<string>жимс | киви | киви жимс</string>
+	<key>🇫🇮</key>
+	<string>flag of Finland</string>
+	<key>🤾‍♂️</key>
+	<string>man playing handball</string>
+	<key>🍠</key>
+	<string>төмс | чихэрлэг | шарсан | шарсан чихэрлэг төмс</string>
+	<key>🖲️</key>
+	<string>trackball</string>
+	<key>🥞</key>
+	<string>бин | креп | өглөөний цай | хүнс | шарвин | бин</string>
+	<key>🇧🇮</key>
+	<string>flag of Burundi</string>
+	<key>🍡</key>
+	<string>амттан | данга | данго | Японы | данго</string>
+	<key>🥟</key>
+	<string>бууз | жигнэсэн банш | шарсан банш | бууз</string>
+	<key>🍢</key>
+	<string>далайн гаралтай хоол | иш | кебаб | удэн | шорлог | удэн</string>
+	<key>🥠</key>
+	<string>азын жигнэмэг | иш | азын жигнэмэг</string>
+	<key>🇫🇯</key>
+	<string>flag of Fiji</string>
+	<key>🍣</key>
+	<string>суши | суши</string>
+	<key>🥡</key>
+	<string>авч явах | эмгэн хумс | авч явах</string>
+	<key>🍤</key>
+	<string>сам хорхой | темпура | шарсан | шарсан сам хорхой | шарсан сам хорхой</string>
+	<key>🥢</key>
+	<string>савх | савх</string>
+	<key>🇧🇯</key>
+	<string>flag of Benin</string>
+	<key>↔️</key>
+	<string>left-right arrow</string>
+	<key>🍥</key>
+	<string>бялуу | загас | загасны бялуу | загасны бялуу</string>
+	<key>🥣</key>
+	<string>буудай | өглөөний цай | халбагатай сав | халбагатай сав</string>
+	<key>🍦</key>
+	<string>амттан | мөхөөлдөс | шинэхэн | шинэхэн мөхөөлдөс</string>
+	<key>🇿🇲</key>
+	<string>flag of Zambia</string>
+	<key>🇫🇰</key>
+	<string>flag of the Falkland Islands</string>
+	<key>🥤</key>
+	<string>жүүс | сода | соруултай аяга | соруултай аяга</string>
+	<key>🏌️‍♀️</key>
+	<string>woman golfer</string>
+	<key>🇳🇱</key>
+	<string>flag of Netherlands</string>
+	<key>🍧</key>
+	<string>амттан | мөс | хөлдөөсөн | хөлдөөсөн мөс</string>
+	<key>🥥</key>
+	<string>дал | наргил | наргил</string>
+	<key>🍨</key>
+	<string>амттан | крем | мөс | мөхөөлдөс | чихэрлэг | мөхөөлдөс</string>
+	<key>🥦</key>
+	<string>зэрлэг цэцэгт байцаа | цэцэгт байцаа | цэцэгт байцаа</string>
+	<key>🍩</key>
+	<string>амттан | донат | өглөөний цай | хайрсан нарийн боов | хөөмөл хайрсан боов | хайрсан нарийн боов</string>
+	<key>🥧</key>
+	<string>зүсэм бялуу | нарийн боов | зүсэм бялуу</string>
+	<key>🖇️</key>
+	<string>linked paperclips</string>
+	<key>🍪</key>
+	<string>амттан | жигнэмэг | жигнэмэг</string>
+	<key>🥨</key>
+	<string>ороомог | претцел | претцел</string>
+	<key>🇻🇳</key>
+	<string>flag of Vietnam</string>
+	<key>💂‍♀️</key>
+	<string>guardswoman</string>
+	<key>🇧🇱</key>
+	<string>flag of Saint Barthélemy</string>
+	<key>🍫</key>
+	<string>амттан | чихэр | шоколад | шоколад</string>
+	<key>🇯🇲</key>
+	<string>flag of Jamaica</string>
+	<key>🥩</key>
+	<string>гахайн хэрчим мах | зүсэм мах | стейк | хонины хэрчим мах | хэрчим мах | зүсэм мах</string>
+	<key>🍬</key>
+	<string>амттан | чихэр | чихэр</string>
+	<key>🥪</key>
+	<string>сэндвич | талх | сэндвич</string>
+	<key>⛹️‍♀️</key>
+	<string>woman basketball player</string>
+	<key>🍭</key>
+	<string>амттан | иш | иштэй чихэр | чихэр | иштэй чихэр</string>
+	<key>🇫🇲</key>
+	<string>flag of Micronesia</string>
+	<key>🥫</key>
+	<string>лааз | лаазтай хоол | лаазтай хоол</string>
+	<key>🍮</key>
+	<string>амттан | кастард | кастард</string>
+	<key>👨‍❤️‍👨</key>
+	<string>two men with heart</string>
+	<key>🥬</key>
+	<string>байцаа | буржгар байцаа | навчит ногоо | ногоон навч | юуцай | навчит ногоо</string>
+	<key>🇧🇲</key>
+	<string>flag of Bermuda</string>
+	<key>🍯</key>
+	<string>бал | зөгийн балны сав | сав | чихэрлэг | зөгийн балны сав</string>
+	<key>🥭</key>
+	<string>жимс | манго | халуун орны | манго</string>
+	<key>🇷🇴</key>
+	<string>flag of Romania</string>
+	<key>🍰</key>
+	<string>амттан | бялуу | бялууны зүсэм | зүсэм | бялууны зүсэм</string>
+	<key>🥮</key>
+	<string>баяр | намар | саран боов | саран боов</string>
+	<key>🍱</key>
+	<string>өдрийн хоол | сав | өдрийн хоол</string>
+	<key>🇳🇴</key>
+	<string>flag of Norway</string>
+	<key>🥯</key>
+	<string>нарийн боовны газар | өглөөний цай | цагирган талх | цагирган талх</string>
+	<key>🇧🇳</key>
+	<string>flag of Brunei</string>
+	<key>🧚‍♀️</key>
+	<string>woman fairy</string>
+	<key>🍲</key>
+	<string>тогоо сав | хоолтой тогоо | хоолтой тогоо</string>
+	<key>🇯🇴</key>
+	<string>flag of Jordan</string>
+	<key>🥰</key>
+	<string>дурлал | инээж буй зүрхтэй царай | шохоорхол | шүтэх | инээж буй зүрхтэй царай</string>
+	<key>🍳</key>
+	<string>өглөөний цай | өндөг | хайруулын таваг | хоол хийх | шарах | өндөг шарах</string>
+	<key>🥱</key>
+	<string>уйдсан | эвшээж буй царай | эвшээх | ядарсан | эвшээж буй царай</string>
+	<key>🇫🇴</key>
+	<string>flag of the Faroe Islands</string>
+	<key>🍴</key>
+	<string>сэрээ | хоол | хутга | хутга сэрээ</string>
+	<key>🥲</key>
+	<string>бахархсан | инээмсэглэсэн | нулимс | нулимстай инээсэн царай | сэтгэл догдолсон | талархсан | уужирсан | нулимстай инээсэн царай</string>
+	<key>🇳🇵</key>
+	<string>flag of Nepal</string>
+	<key>✔️</key>
+	<string>check mark</string>
+	<key>🍵</key>
+	<string>аяга | бариул | бариулгүй цайны аяга | уух | цай | бариулгүй цайны аяга</string>
+	<key>🥳</key>
+	<string>баяр тэмдэглэх | малгай | үдэшлэг | үдэшлэг дээр баярлаж буй царай | үлээх | үдэшлэг дээр баярлаж буй царай</string>
+	<key>🇧🇴</key>
+	<string>flag of Bolivia</string>
+	<key>🇯🇵</key>
+	<string>flag of Japan</string>
+	<key>🍶</key>
+	<string>сакэ | уух | шил | сакэ</string>
+	<key>🥴</key>
+	<string>толгой эргэсэн царай | толгой эргэх | том жижиг нүд | халамцуу | хордоогүй | хэл яриа ороолдсон | толгой эргэсэн царай</string>
+	<key>🍷</key>
+	<string>баар | виноны хундага | дарс | уух | уух юм | хундага | виноны хундага</string>
+	<key>🥵</key>
+	<string>наранд цохиулсан | улайсан царай | халуун | халуунтай | халууцсан царай | халууцсан царай</string>
+	<key>🍸</key>
+	<string>баар | коктэйл | уух | хундага | коктэйл</string>
+	<key>🥶</key>
+	<string>даарсан | даарсан царай | унжсан мөс | хөлдсөн | хөхөрсөн царай | хүйтэн | даарсан царай</string>
+	<key>🍹</key>
+	<string>баар | жимсний ундаа | уух юм | халуун орны | жимсний ундаа</string>
+	<key>🥷</key>
+	<string>нинжа | нуугдмал | нууцаар | тулаанч | нинжа</string>
+	<key>🍺</key>
+	<string>аяга | баар | уух | шар айраг | шар айраг</string>
+	<key>🥸</key>
+	<string>зүсээ хувиргасан | зүсээ хувиргах | өнгөлөн далдалсан царай | үл танигдах | хамар | царай | шилтэй | өнгөлөн далдалсан царай</string>
+	<key>🚶‍♀️</key>
+	<string>woman pedestrian</string>
+	<key>🍻</key>
+	<string>тулгаж буй шар айрагны хундага | тулгах | уух | хундага | шар айраг | тулгаж буй шар айрагны хундага</string>
+	<key>🥹</key>
+	<string>smiling face holding back tears</string>
+	<key>🇳🇷</key>
+	<string>flag of Nauru</string>
+	<key>🍼</key>
+	<string>нялх хүүхэд | сав | сүү | уух | хүүхдийн сүүний сав | хүүхдийн сүүний сав</string>
+	<key>🇧🇶</key>
+	<string>flag of Bonaire</string>
+	<key>🥺</key>
+	<string>гуйх | өрөвдөлтэй нүд | өршөөх | ямар нэг юм хүсч буй царай | ямар нэг юм хүсч буй царай</string>
+	<key>🧑‍🍼</key>
+	<string>нялх хүүхэд хооллож байгаа хүн | нялх хүүхэд, хооллох, асрах, хүн | нялх хүүхэд хооллож байгаа хүн</string>
+	<key>🥻</key>
+	<string>саарий | хувцас ︱ даашинз | саарий</string>
+	<key>🇷🇸</key>
+	<string>flag of Serbia</string>
+	<key>🍾</key>
+	<string>буудах | дарс | оргилуун | уух | оргилуун дарс</string>
+	<key>🇫🇷</key>
+	<string>flag of France</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>man and woman kissing</string>
+	<key>🥼</key>
+	<string>лабораторын өмсгөл | туршилт | шинжлэх ухаанч | эмч | лабораторын өмсгөл</string>
+	<key>✍️</key>
+	<string>writing hand</string>
+	<key>🍿</key>
+	<string>попкорн | попкорн</string>
+	<key>🥽</key>
+	<string>гагнуур | нүдний хамгаалалт | нүдний шил | усанд сэлэлт | нүдний шил</string>
+	<key>🇧🇷</key>
+	<string>flag of Brazil</string>
+	<key>🗡️</key>
+	<string>dagger</string>
+	<key>⏮️</key>
+	<string>skip backward symbol</string>
+	<key>🎀</key>
+	<string>баяр ёслол | тууз | тууз</string>
+	<key>🥾</key>
+	<string>гутал | кэмп | ууланд авирах | уулны гутал | үүргэвчтэй аялал | уулны гутал</string>
+	<key>🎁</key>
+	<string>баяр тэмдэглэх | боолттой | бэлэг | хайрцаг | боолттой бэлэг</string>
+	<key>🥿</key>
+	<string>гэрийн шаахай | намхан ултай гутал | үдээсгүй гутал | намхан ултай гутал</string>
+	<key>🚀</key>
+	<string>пуужин | сансар | тээврийн хэрэгсэл | пуужин</string>
+	<key>🎂</key>
+	<string>амттан | баяр | гурилан бүтээгдэхүүн | торт | төрсөн өдөр | төрсөн өдрийн бялуу | төрсөн өдрийн бялуу</string>
+	<key>🦀</key>
+	<string>өрнийн зурхай | хавч | хилэнц | хавч</string>
+	<key>🚁</key>
+	<string>нисдэг | тэрэг | тээвэр | нисдэг тэрэг</string>
+	<key>🇻🇺</key>
+	<string>flag of Vanuatu</string>
+	<key>🇧🇸</key>
+	<string>flag of Bahamas</string>
+	<key>🎃</key>
+	<string>аймшгийн баяр | дэнлүү | хулуу | хулуугаар хийсэн дэнлүү | хулуугаар хийсэн дэнлүү</string>
+	<key>🕵️‍♀️</key>
+	<string>woman detective</string>
+	<key>🦁</key>
+	<string>амьтан | арслан | арслангийн толгой | толгой | арслангийн толгой</string>
+	<key>🚂</key>
+	<string>зүтгүүр | төмөр зам | тэрэг | уур | зүтгүүр</string>
+	<key>🎄</key>
+	<string>Зул сар | зул сарын гацуур | мод | тэмдэглэх | зул сарын гацуур</string>
+	<key>🇷🇺</key>
+	<string>flag of Russia</string>
+	<key>🦂</key>
+	<string>орд | хилэнц | хилэнц</string>
+	<key>🚃</key>
+	<string>галт тэрэг | машин | төмөр зам | төмөр замын машин | трам | троллейбус | цахилгаан | төмөр замын машин</string>
+	<key>🎅</key>
+	<string>аав | баяр тэмдэглэх | Зул сарын баяр | клаус | санта | Санта Клаус | Санта Клаус</string>
+	<key>🦃</key>
+	<string>цацагт хяруул | шувуу | цацагт хяруул</string>
+	<key>🚄</key>
+	<string>галт | тэрэг | хурдан | хурдны галт тэрэг | хурдны галт тэрэг</string>
+	<key>🇳🇺</key>
+	<string>flag of Niue</string>
+	<key>🛩️</key>
+	<string>small airplane</string>
+	<key>◾️</key>
+	<string>black medium small square</string>
+	<key>🎆</key>
+	<string>баяр ёслол | галын наадам | шинэ жил | галын наадам</string>
+	<key>🇧🇹</key>
+	<string>flag of Bhutan</string>
+	<key>🦄</key>
+	<string>нүүр | нэг эвэртийн толгой | нэг эвэртийн толгой</string>
+	<key>🚅</key>
+	<string>галт тэрэг | сум | төмөр зам | хурд | хурдны сумт галт тэрэг | шинкансен | хурдны сумт галт тэрэг</string>
+	<key>🎇</key>
+	<string>баяр ёслол | бенгал | бенгалын гал | гал | гялалзах | бенгалын гал</string>
+	<key>🦅</key>
+	<string>бүргэд | шувуу | бүргэд</string>
+	<key>🚆</key>
+	<string>галт тэрэг | төмөр зам | галт тэрэг</string>
+	<key>👱‍♀️</key>
+	<string>woman with blonde hair</string>
+	<key>🎈</key>
+	<string>баяр ёслол | шаар | шаар</string>
+	<key>🇿🇼</key>
+	<string>flag of Zimbabwe</string>
+	<key>🦆</key>
+	<string>нугас | шувуу | нугас</string>
+	<key>🚇</key>
+	<string>метро | метро</string>
+	<key>😮‍💨</key>
+	<string>аахилах | амьсгаа гаргах | амьсгалж буй царай | исгэрэх | санаа алдах | санаа амрах | шүгэлдэх | амьсгалж буй царай</string>
+	<key>🎉</key>
+	<string>тэмдэглэх | үдэшлэг | үдэшлэгийн чимэглэл | үдэшлэгийн чимэглэл</string>
+	<key>🦇</key>
+	<string>амьтан | сарьсан багваахай | сарьсан багваахай</string>
+	<key>🚈</key>
+	<string>төмөр зам | хөнгөн | хөнгөн төмөр зам | хөнгөн төмөр зам</string>
+	<key>🎊</key>
+	<string>баяр ёслол | жингэнэгч хонх | жингэнэх | хонх | жингэнэгч хонх</string>
+	<key>🦈</key>
+	<string>акул | загас | акул</string>
+	<key>🚉</key>
+	<string>буудал | галт тэрэг | галт тэрэгний буудал | галт тэрэгний буудал</string>
+	<key>🇷🇼</key>
+	<string>flag of Rwanda</string>
+	<key>🎋</key>
+	<string>мод | танабата | япон | танабата мод</string>
+	<key>🦉</key>
+	<string>цэцэн | шар шувуу | шувуу | шар шувуу</string>
+	<key>🚊</key>
+	<string>машин | трамвай | трамвай</string>
+	<key>🎌</key>
+	<string>солбисон туг | солбих | туг | тэмдэглэлт өдөр | япон | солбисон туг</string>
+	<key>🦊</key>
+	<string>амьтан | үнэг | үнэг</string>
+	<key>🚋</key>
+	<string>машин | трамвай | троллейбус | трамвай машин</string>
+	<key>🎍</key>
+	<string>баяр тэмдэглэх | нарс | нарсан чимэглэл | хулс | Японы | нарсан чимэглэл</string>
+	<key>🇧🇻</key>
+	<string>flag of Bouvet Island</string>
+	<key>🦋</key>
+	<string>шавьж | эрвээхэй | эрвээхэй</string>
+	<key>🚌</key>
+	<string>автобус | тээврийн хэрэгсэл | автобус</string>
+	<key>🎎</key>
+	<string>хүүхэлдэй | япон | япон хүүхэлдэй</string>
+	<key>🦌</key>
+	<string>буга | буга</string>
+	<key>🚍</key>
+	<string>автобус | ирж буй | ирж буй автобус | ирж буй автобус</string>
+	<key>🎏</key>
+	<string>баяр | дарцаг | мөрөг загас | мөрөг загасан дарцаг | мөрөг загасан дарцаг</string>
+	<key>🦍</key>
+	<string>горилла | горилла</string>
+	<key>🚎</key>
+	<string>автобус | трамвай | троллейбус | троллейбус</string>
+	<key>🚏</key>
+	<string>автобус | автобусны зогсоол | зогсоол | автобусны зогсоол</string>
+	<key>🎐</key>
+	<string>баяр ёслол | салхи | салхин хонх | хонх | салхин хонх</string>
+	<key>🦎</key>
+	<string>гүрвэл | хэвлээр явагч | гүрвэл</string>
+	<key>🇧🇼</key>
+	<string>flag of Botswana</string>
+	<key>🚐</key>
+	<string>автобус | жижиг оврын автобус | жижиг оврын автобус</string>
+	<key>♏️</key>
+	<string>Scorpio</string>
+	<key>🎑</key>
+	<string>баяр | сар | сар харах баяр | тэмдэглэх | сар харах баяр</string>
+	<key>🦏</key>
+	<string>амьтан | хирс | хирс</string>
+	<key>🚑</key>
+	<string>тээврийн хэрэгсэл | эмнэлгийн машин | эмнэлгийн машин</string>
+	<key>👨‍🍼</key>
+	<string>асрах | нялх хүүхэд | нялх хүүхэд хооллож байгаа эрэгтэй | хооллох | эрэгтэй | нялх хүүхэд хооллож байгаа эрэгтэй</string>
+	<key>⚧️</key>
+	<string>transgender symbol</string>
+	<key>👨‍👨‍👧</key>
+	<string>family with two fathers and daughter</string>
+	<key>🖋️</key>
+	<string>fountain pen</string>
+	<key>🚒</key>
+	<string>ачааны машин | гал | галын машин | хөдөлгүүр | галын машин</string>
+	<key>🎒</key>
+	<string>аяны үүргэвч | сургууль | үүргэвч | цүнх | үүргэвч</string>
+	<key>🎓</key>
+	<string>малгай | төгсөлт | төгсөлтийн малгай | тэмдэглэх | хувцаслалт | төгсөлтийн малгай</string>
+	<key>🦐</key>
+	<string>жижиг | сам хорхой | усны амьтан | хавч | хүнс | сам хорхой</string>
+	<key>🦑</key>
+	<string>кальмар | наймаалж | усны амьтан | кальмар</string>
+	<key>🚓</key>
+	<string>машин | цагдаа | цагдаагийн машин | цагдаагийн машин</string>
+	<key>❗️</key>
+	<string>red exclamation mark</string>
+	<key>🦒</key>
+	<string>анааш | толбо | анааш</string>
+	<key>🙇‍♀️</key>
+	<string>woman bowing</string>
+	<key>🗣️</key>
+	<string>speaking silhouette head</string>
+	<key>🚔</key>
+	<string>ирж буй | ирж буй цагдаагийн машин | машин | цагдаа | ирж буй цагдаагийн машин</string>
+	<key>🦓</key>
+	<string>судалт тахь | тахь | тахь</string>
+	<key>🚕</key>
+	<string>такси | тээврийн хэрэгсэл | такси</string>
+	<key>🦔</key>
+	<string>зараа | өргөстэй | зараа</string>
+	<key>🇳🇿</key>
+	<string>flag of New Zealand</string>
+	<key>🦕</key>
+	<string>брачиосаурус | бронтосарус | диплодокус | сауропод | сауропод</string>
+	<key>🚖</key>
+	<string>ирж буй | ирж буй такси | такси | ирж буй такси</string>
+	<key>🇧🇾</key>
+	<string>flag of Belarus</string>
+	<key>🦖</key>
+	<string>Т-рекс | Тиранозавр рекс | Т-рекс</string>
+	<key>🚗</key>
+	<string>автомашин | машин | автомашин</string>
+	<key>🦗</key>
+	<string>хүрэлзгэнэ | царцаа | хүрэлзгэнэ</string>
+	<key>🚘</key>
+	<string>автомашин | ирж байгаа машин | ирж буй | машин | ирж байгаа машин</string>
+	<key>🦘</key>
+	<string>Австрали | имж | уутат амьтан | үсрэлт | цовхрой | имж</string>
+	<key>🚙</key>
+	<string>аялалын | спорт машин | спорт хэрэглээний | спорт машин</string>
+	<key>🇧🇿</key>
+	<string>flag of Belize</string>
+	<key>🦙</key>
+	<string>алпака лам гөрөөс | викуна лам гөрөөс | гуанако лам гөрөөс | ноос | тэмээн гөрөөс | тэмээн гөрөөс</string>
+	<key>🚚</key>
+	<string>ачааны машин | хүргэлт | хүргэлтийн ачааны тэрэг | хүргэлтийн ачааны тэрэг</string>
+	<key>♈️</key>
+	<string>Aries</string>
+	<key>🦚</key>
+	<string>бардамнал | гайхуулсан | тогос | шувуу | эм тогос | тогос</string>
+	<key>🚛</key>
+	<string>ачаа | бүхээг | бүхээгтэй ачааны тэрэг | тэрэг | бүхээгтэй ачааны тэрэг</string>
+	<key>⚠️</key>
+	<string>warning</string>
+	<key>🦛</key>
+	<string>усны үхэр | усны үхэр</string>
+	<key>🚜</key>
+	<string>трактор | тээврийн хэрэгсэл | трактор</string>
+	<key>⛸️</key>
+	<string>ice skate</string>
+	<key>🧘‍♂️</key>
+	<string>man in lotus position</string>
+	<key>🧑‍🚀</key>
+	<string>пуужин | сансрын нисэгч | сансрын нисэгч</string>
+	<key>🦜</key>
+	<string>далайн дээрэмчин | тоть | шувуу | яриа | тоть</string>
+	<key>🚝</key>
+	<string>дүүжин | дүүжин төмөр зам | төмөр зам | дүүжин төмөр зам</string>
+	<key>🦝</key>
+	<string>зальжин | сониуч | элбэнх | элбэнх</string>
+	<key>🚞</key>
+	<string>машин | төмөр зам | уул | уулын төмөр зам | уулын төмөр зам</string>
+	<key>🎠</key>
+	<string>морин тойруулга | морь | морин тойруулга</string>
+	<key>🦞</key>
+	<string>голын хавч | далайн хоол | сарвуу | хавчны зутан шөл | голын хавч</string>
+	<key>🚟</key>
+	<string>дүүжин тээвэр | төмөр зам | дүүжин тээвэр</string>
+	<key>🎡</key>
+	<string>алсыг харагч | соёл амралтын хүрээлэн | алсыг харагч</string>
+	<key>🦟</key>
+	<string>вирус | малариа | өвчин | халуурах | шавьж | шумуул | шумуул</string>
+	<key>🚠</key>
+	<string>зам | кабель | уул | уулын кабель зам | уулын кабель зам</string>
+	<key>🎢</key>
+	<string>галзуу хулгана | соёл амралтын хүрээлэн | галзуу хулгана</string>
+	<key>🦠</key>
+	<string>амёб | бактер | вирус | микроб | микроб</string>
+	<key>🚡</key>
+	<string>агаарын | гондол завь | кабель | машин | трамвай | агаарын трамвай</string>
+	<key>🧝‍♀️</key>
+	<string>woman elf</string>
+	<key>🎣</key>
+	<string>загас | загасны уурга | уурга | загасны уурга</string>
+	<key>🦡</key>
+	<string>дорго | залхаах | дорго</string>
+	<key>🚢</key>
+	<string>тээвэр | хөлөг онгоц | хөлөг онгоц</string>
+	<key>🎤</key>
+	<string>караоке | микрофон | микрофон</string>
+	<key>🦢</key>
+	<string>залуу хун | нугасны муухай дэгдээхэй | хун | шувуу | хун</string>
+	<key>🚣</key>
+	<string>завь | завь сэлүүрдэж буй хүн | сэлүүр | завь сэлүүрдэж буй хүн</string>
+	<key>🎥</key>
+	<string>камер | кино | кино театр | киноны камер | киноны камер</string>
+	<key>🦣</key>
+	<string>арслан заан | мөхсөн | ноосон | соёо | том | арслан заан</string>
+	<key>🚤</key>
+	<string>завь | хурдан | хурдан завь</string>
+	<key>🎦</key>
+	<string>камер | кино | кино театр | кино театр</string>
+	<key>🦤</key>
+	<string>додо шувуу | Маврики | мөхсөн | том | додо шувуу</string>
+	<key>🚥</key>
+	<string>гэрэл | зам | замын хөндлөн гэрэл | хөндлөн | замын хөндлөн гэрэл</string>
+	<key>⚙️</key>
+	<string>gear</string>
+	<key>🚴‍♂️</key>
+	<string>man cyclist</string>
+	<key>🎧</key>
+	<string>чихэвч | чихэвч</string>
+	<key>🦥</key>
+	<string>залхуу | залхууч | удаан | залхууч</string>
+	<key>🚦</key>
+	<string>босоо | гэрэл | зам | замын босоо гэрэл | замын босоо гэрэл</string>
+	<key>⛱️</key>
+	<string>beach umbrella</string>
+	<key>🖍️</key>
+	<string>crayon</string>
+	<key>🎨</key>
+	<string>паллет | уран зураг | уран зургийн паллет | уран зургийн паллет</string>
+	<key>🦦</key>
+	<string>загас барих ︱ хөгжилтэй | халиу | халиу</string>
+	<key>🚧</key>
+	<string>бүтээн байгуулалт | хаалт | бүтээн байгуулалт</string>
+	<key>🎩</key>
+	<string>малгай | өндөр | хувцас өмсгөл | өндөр малгай</string>
+	<key>🦧</key>
+	<string>бич | орангутан | орангутан</string>
+	<key>🚨</key>
+	<string>гэрэл | машин | цагдаа | цагдаагийн машины гэрэл | цагдаагийн машины дохиоллын гэрэл | эргэлддэг | цагдаагийн машины гэрэл</string>
+	<key>➡️</key>
+	<string>right arrow</string>
+	<key>🎪</key>
+	<string>майхан | цирк | циркийн майхан | циркийн майхан</string>
+	<key>🦨</key>
+	<string>өмхий | өмхий хүрнэ | өмхий хүрэн | өмхий хүрнэ</string>
+	<key>🚩</key>
+	<string>гурвалжин | туг | гурвалжин туг</string>
+	<key>🎫</key>
+	<string>тасалбар | элсэлт | тасалбар</string>
+	<key>🦩</key>
+	<string>халуун орон | ягаан | ягаан наль | ягаан наль</string>
+	<key>🚪</key>
+	<string>хаалга | хаалга</string>
+	<key>🦸‍♀️</key>
+	<string>woman superhero</string>
+	<key>🎬</key>
+	<string>кадр | кино | кадр</string>
+	<key>🦪</key>
+	<string>сувд | хясаа | хясаа</string>
+	<key>🚫</key>
+	<string>болохгүй | нэвтрэх | хориглосон | хориотой | хориглосон</string>
+	<key>🎖️</key>
+	<string>military medal</string>
+	<key>🎭</key>
+	<string>баг | жүжиг | театр | урлаг | жүжиг</string>
+	<key>🦫</key>
+	<string>далан | минж | минж</string>
+	<key>🚬</key>
+	<string>тамхи | тамхи татах | тамхи</string>
+	<key>🎮</key>
+	<string>видео | тоглоом | видео тоглоом</string>
+	<key>🦬</key>
+	<string>бизон | бух гөрөөс | мал сүрэг | одос үхэр | бизон</string>
+	<key>🚭</key>
+	<string>болохгүй | тамхи татах | тамхи татахыг хориглоно | хориглосон | хориотой | тамхи татахыг хориглоно</string>
+	<key>🎯</key>
+	<string>бай | бухын нүд | дартс | онох | тоглоом | шууд онох | дартс</string>
+	<key>🦭</key>
+	<string>далайн арслан | далайн хав | далайн хав</string>
+	<key>🚮</key>
+	<string>хог | хогийн сав | хогоо хогийн саванд хийх тэмдэг | хогоо хогийн саванд хийх тэмдэг</string>
+	<key>☺️</key>
+	<string>smiling face</string>
+	<key>🎰</key>
+	<string>машин | тоглоом | хонжвор | хонжворт тоглоомын машин | хонжворт тоглоомын машин</string>
+	<key>🦮</key>
+	<string>хараагүй | хөтөч | хөтөч нохой | хүртээмж | хөтөч нохой</string>
+	<key>🚯</key>
+	<string>хаях | хог | хог хаяхыг хориглоно | хориглох | хог хаяхыг хориглоно</string>
+	<key>⚒️</key>
+	<string>hammer and pick</string>
+	<key>🎱</key>
+	<string>8 | биллиард | бөмбөг | найм | пүүл бөмбөг 8 | тоглоом | биллиард</string>
+	<key>🦯</key>
+	<string>хараагүй хүн | хараагүй хүний таяг | хүртээмжтэй байдал | цагаан таяг | хараагүй хүний таяг</string>
+	<key>🚰</key>
+	<string>унд | ундны ус | ус | ундны ус</string>
+	<key>🧑‍🎄</key>
+	<string>Клаус, зул сар | хатагтай клаус | хатагтай клаус</string>
+	<key>⛪️</key>
+	<string>church</string>
+	<key>🎲</key>
+	<string>тоглоом | тоглоомон шоо | шоо | тоглоомон шоо</string>
+	<key>🤵‍♀️</key>
+	<string>woman in tuxedo</string>
+	<key>⌛️</key>
+	<string>hourglass</string>
+	<key>🏋️‍♂️</key>
+	<string>man weightlifter</string>
+	<key>🚱</key>
+	<string>ундны зориулалтын бус | ундны зориулалтын бус ус | ус | ундны зориулалтын бус ус</string>
+	<key>🎳</key>
+	<string>боулинг | бөмбөг | тоглоом | боулинг</string>
+	<key>👯‍♂️</key>
+	<string>dancing men wearing bunny ears</string>
+	<key>👨‍🚀</key>
+	<string>пуужин | сансрын нисэгч | эрэгтэй | эрэгтэй сансрын нисгэгч | эрэгтэй сансрын нисгэгч</string>
+	<key>🚲</key>
+	<string>дугуй | унадаг | унадаг дугуй</string>
+	<key>🎴</key>
+	<string>тоглоом | хөзөр | цэцэг | япон | хөзөр</string>
+	<key>🚳</key>
+	<string>болохгүй | дугуй | дугуй унахыг хориглоно | унадаг дугуй | унадаг дугуй унаж болохгүй | хориглосон | хориотой | дугуй унахыг хориглоно</string>
+	<key>👩‍👦‍👦</key>
+	<string>family with mother and two sons</string>
+	<key>🎵</key>
+	<string>нот | хөгжим | хөгжмийн нот | хөгжмийн нот</string>
+	<key>👨‍🤝‍👨</key>
+	<string>men holding hands</string>
+	<key>🚴</key>
+	<string>дугуйчин | дугүй | дугуйчин</string>
+	<key>🎶</key>
+	<string>нот | хөгжим | хөгжмийн нотнууд | хөгжмийн нотнууд</string>
+	<key>🦴</key>
+	<string>араг яс | яс | яс</string>
+	<key>🚵</key>
+	<string>дугуй | дугуйчин | уул | уулын дугуйчин | уулын дугуйчин</string>
+	<key>🎷</key>
+	<string>саксафон | хөгжим | саксафон</string>
+	<key>🦵</key>
+	<string>мөч | өшиглөх | хөл | хөл</string>
+	<key>🚶</key>
+	<string>алхаж буй хүн | алхах | хүн | алхаж буй хүн</string>
+	<key>🎸</key>
+	<string>гитар | хөгжим | гитар</string>
+	<key>🦶</key>
+	<string>өшиглөх | тавхай | товших | тавхай</string>
+	<key>🚷</key>
+	<string>хориглоно | хориотой | явган хүн | явган хүн явах хориотой | явган хүн явахыг хориглоно | явган хүн явах хориотой</string>
+	<key>🎹</key>
+	<string>товчлуур | төгөлдөр хуур | төгөлдөр хуурын товчлуур | хөгжим | төгөлдөр хуурын товчлуур</string>
+	<key>🦷</key>
+	<string>шүд | шүдний эмч | шүд</string>
+	<key>🚸</key>
+	<string>замын хөдөлгөөн | хүүхэд | хүүхэд зам гарах | явган хүн | хүүхэд зам гарах</string>
+	<key>🎺</key>
+	<string>хөгжим | эвэр бүрээ | эвэр бүрээ</string>
+	<key>🦸</key>
+	<string>баатар | сайн | супер баатар | супер хүч | супер баатар</string>
+	<key>🚹</key>
+	<string>00 | ариун цэврийн өрөө | жорлон | эрэгтэй | эрэгтэйчүүдийн өрөө | эрэгтэйчүүдийн өрөө</string>
+	<key>🎻</key>
+	<string>хийл | хөгжим | хийл</string>
+	<key>🦹</key>
+	<string>гэмт хэрэг | ид шидийн хүчтэй эсрэг дүр | супер хүч | чөтгөр | эсрэг гол дүр | ид шидийн хүчтэй эсрэг дүр</string>
+	<key>🚺</key>
+	<string>00 | ариун цэврийн өрөө | жорлон | эмэгтэй | эмэгтэйчүүдийн өрөө | эмэгтэйчүүдийн өрөө</string>
+	<key>🎼</key>
+	<string>нот | нотны шугам | хөгжим | шугам | нотны шугам</string>
+	<key>🦺</key>
+	<string>аврах | осол | тусламж | хантааз | аврах хантааз</string>
+	<key>🚻</key>
+	<string>00 | ариун цэврийн өрөө | жорлон | ариун цэврийн өрөө</string>
+	<key>🎽</key>
+	<string>биеийн тамир | гүйлт | гүйлтийн майк | майк | мөрөвч | гүйлтийн майк</string>
+	<key>🦻</key>
+	<string>сонсголын аппараттай чих | сонсголын бэрхшээл | хүртээмж | сонсголын аппараттай чих</string>
+	<key>🚼</key>
+	<string>нялх хүүхдийн дүрс тэмдэг | нялх хүүхэд | өөрчлөлт | нялх хүүхдийн дүрс тэмдэг</string>
+	<key>🎾</key>
+	<string>бөмбөг | теннис | цохиур | теннис</string>
+	<key>🦼</key>
+	<string>моторт тэргэнцэр | хүртээмж | моторт тэргэнцэр</string>
+	<key>🚽</key>
+	<string>жорлон | жорлон</string>
+	<key>🎿</key>
+	<string>спорт | цана | цас | цана</string>
+	<key>🦽</key>
+	<string>гар тэргэнцэр | хүртээмж | гар тэргэнцэр</string>
+	<key>🚾</key>
+	<string>00 | бие засах газар | жорлон | жорлонгийн суултуур | ус | жорлонгийн суултуур</string>
+	<key>🏀</key>
+	<string>сагсан бөмбөг | спорт | сагсан бөмбөг</string>
+	<key>🦾</key>
+	<string>механик гар | протез | хиймэл механик гар | хүртээмж | хиймэл механик гар</string>
+	<key>🙅‍♂️</key>
+	<string>man gesturing no</string>
+	<key>🚿</key>
+	<string>орох | ус | усанд орох | усанд орох</string>
+	<key>🏁</key>
+	<string>алаг | туг | уралдаан | алаг туг</string>
+	<key>🦿</key>
+	<string>механиз хөл | протез | хиймэл механик хөл | хүртээмж | хиймэл механик хөл</string>
+	<key>🛀</key>
+	<string>орох | ус | усанд орж байгаа хүн | хүн | усанд орж байгаа хүн</string>
+	<key>🏂</key>
+	<string>гулгагч | өвөл | спорт | цас | цасан дээр гулгагч | цасан дээр гулгагч</string>
+	<key>🧀</key>
+	<string>бяслаг | зүсэм | хүнс | зүсэм бяслаг</string>
+	<key>🛁</key>
+	<string>ванн | ванн</string>
+	<key>🚣‍♂️</key>
+	<string>man rowing boat</string>
+	<key>🏃</key>
+	<string>гүйж байгаа хүн | гүйх | хүн | гүйж байгаа хүн</string>
+	<key>🧁</key>
+	<string>амттан | аяган кекс | нарийн боовны газар | аяган кекс</string>
+	<key>🛂</key>
+	<string>паспортын шалгалт | пасспорт | шалгалт | паспортын шалгалт</string>
+	<key>🏄</key>
+	<string>гулгах | серфинг | серфингээр гулгаж байгаа хүн | спорт | хүн | серфингээр гулгаж байгаа хүн</string>
+	<key>🧂</key>
+	<string>давс | сэгсрэгч | хоол амтлагч | давс</string>
+	<key>🛃</key>
+	<string>гааль | гааль</string>
+	<key>🏅</key>
+	<string>медаль | спортын медаль | спортын медаль</string>
+	<key>🧃</key>
+	<string>соруул | ундааны хайрцаг | уух юм | хайрцаг | чихэрлэг | шүүс | ундааны хайрцаг</string>
+	<key>🛄</key>
+	<string>ачаа тээш | ачаа тээшээ авах | ачаа тээшээ авах хэсэг | ачаа тээшээ авах</string>
+	<key>🏆</key>
+	<string>цом | шагнал | цом</string>
+	<key>🧄</key>
+	<string>амтлагч | саримс | саримс</string>
+	<key>🛅</key>
+	<string>орхисон тээш | орхих | тээш | орхисон тээш</string>
+	<key>🏇</key>
+	<string>морин уралдаан | морь | спорт | уралдаан | морин уралдаан</string>
+	<key>🧅</key>
+	<string>амтлагч | сонгино | сонгино</string>
+	<key>✴️</key>
+	<string>eight pointed star</string>
+	<key>🖼️</key>
+	<string>frame with picture</string>
+	<key>🏈</key>
+	<string>америк | америк хөл бөмбөг | бөмбөг | хөлбөмбөг | америк хөл бөмбөг</string>
+	<key>🧆</key>
+	<string>бөөрөнхий мах | бөөрөнцөг | фалафель | шош | фалафель</string>
+	<key>🏉</key>
+	<string>бөмбөг | регби | регбигийн бөмбөг | хөлбөмбөг | регбигийн бөмбөг</string>
+	<key>🧇</key>
+	<string>вафль | ширэм | вафль</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>family with two fathers, son and daughter</string>
+	<key>🏊</key>
+	<string>сэлэгч | ус | усанд сэлэгч | усанд сэлэгч</string>
+	<key>🧈</key>
+	<string>цагаан идээ | цөцгийн тос | цөцгийн тос</string>
+	<key>🧑‍⚖️</key>
+	<string>judge</string>
+	<key>3️⃣</key>
+	<string>keycap digit three</string>
+	<key>🧉</key>
+	<string>матэ | унд | матэ</string>
+	<key>🧊</key>
+	<string>мөс | мөсөн уул | хүйтэн | мөс</string>
+	<key>🧋</key>
+	<string>бөмбөлөг | бөмбөлөгтэй цай | сувд | сүү | цай | бөмбөлөгтэй цай</string>
+	<key>🛌</key>
+	<string>зочид буудал | ор | орондоо байгаа хүн | унтах | хүн | орондоо байгаа хүн</string>
+	<key>🧛‍♂️</key>
+	<string>man vampire</string>
+	<key>🧌</key>
+	<string>troll</string>
+	<key>🏏</key>
+	<string>бөмбөг | крикет | тоглоом | цохиур | крикет</string>
+	<key>🧍</key>
+	<string>зогс | зогсож буй | зогсож буй хүн | зогсож буй хүн</string>
+	<key>🏐</key>
+	<string>гар бөмбөг | тоглоом | гар бөмбөг</string>
+	<key>🧎</key>
+	<string>сөхөрч буй | сөхөрч суусан хүн | сөхрөх | сөхөрч суусан хүн</string>
+	<key>🏑</key>
+	<string>бөмбөг | талбай | тоглоом | хоккей | цохиур | хоккей</string>
+	<key>🧏</key>
+	<string>дүлий | дүлий хүн | сонсголгүй | хөгжлийн бэрхшээл | чих | дүлий хүн</string>
+	<key>🛐</key>
+	<string>мөргөл | мөргөлийн газар | шашин | мөргөлийн газар</string>
+	<key>🏒</key>
+	<string>мөс | мөсөн хоккейны хэрэгсэл | тоглоом | хоккей | цохиур | шайб | мөсөн хоккейны хэрэгсэл</string>
+	<key>🧐</key>
+	<string>бүгчим | нэг нүдний нүдний шил зүүсэн царай | нэг нүдний нүдний шил зүүсэн царай</string>
+	<key>🛑</key>
+	<string>зогс | зогсох тэмдэг | октагональ | зогсох тэмдэг</string>
+	<key>🏓</key>
+	<string>теннис | ширээ | ширээний теннис | ширээний теннис</string>
+	<key>🧑</key>
+	<string>жендер-саармаг | том хүн | том хүн</string>
+	<key>🛒</key>
+	<string>дэлгүүр хэсэх | дэлгүүрийн тэрэг | тэргэнцэр | тэрэг | дэлгүүрийн тэрэг</string>
+	<key>🧒</key>
+	<string>жендер-саармаг | залуу | хүүхэд | хүүхэд</string>
+	<key>🧓</key>
+	<string>жендер-саармаг | настай хүн | хөгшин | настай хүн</string>
+	<key>🎚️</key>
+	<string>level slider</string>
+	<key>🧔</key>
+	<string>сахал | сахалтай хүн | сахалтай хүн</string>
+	<key>🛕</key>
+	<string>сүм | хиндү | хиндү сүм</string>
+	<key>🧕</key>
+	<string>мантила | тичэл | толгойндоо алчууртай эмэгтэй | толгойны алчуур | хижаб | толгойндоо алчууртай эмэгтэй</string>
+	<key>🛖</key>
+	<string>байшин | дугуй гэр | урц | урц</string>
+	<key>🧖</key>
+	<string>саун | уур савссан өрөө | уур савссан өрөөнд байгаа хүн | уур савссан өрөөнд байгаа хүн</string>
+	<key>🛗</key>
+	<string>лифт | өргөгч | хүртээмж | цахилгаан шат | лифт</string>
+	<key>🧗</key>
+	<string>авирагч | авирагч</string>
+	<key>🧘</key>
+	<string>бясалгал | ёог | лотус байрлалтай хүн | лотус байрлалтай хүн</string>
+	<key>🧙</key>
+	<string>mage</string>
+	<key>🧚</key>
+	<string>дагина | Оберон | Питания | Пук | дагина</string>
+	<key>👩‍💻</key>
+	<string>зохион бүтээгч | кодлогч | програм хангамж | технологич | хөгжүүлэгч | эмэгтэй технологич | эмэгтэй технологич</string>
+	<key>🧛</key>
+	<string>Дракула | үхээгүй | цус сорогч | цус сорогч</string>
+	<key>🛜</key>
+	<string>wireless symbol</string>
+	<key>🧜</key>
+	<string>лусын дагина | лусын хүн | лусын эмэгтэй | лусын эрэгтэй | лусын хүн</string>
+	<key>🛝</key>
+	<string>playground slide</string>
+	<key>🧝</key>
+	<string>ид шидийн | одой хүн | одой хүн</string>
+	<key>🛞</key>
+	<string>wheel</string>
+	<key>👨‍⚖️</key>
+	<string>man judge</string>
+	<key>🏠</key>
+	<string>house</string>
+	<key>🧞</key>
+	<string>Жин | жини | жини</string>
+	<key>↘️</key>
+	<string>down-right arrow</string>
+	<key>🛟</key>
+	<string>ring buoy</string>
+	<key>🏡</key>
+	<string>байшин | гэр | мод | цэцэрлэг | цэцэрлэгтэй байшин | цэцэрлэгтэй байшин</string>
+	<key>🧟</key>
+	<string>зомби | үхээгүй | зомби</string>
+	<key>🤸‍♀️</key>
+	<string>woman doing a cartwheel</string>
+	<key>🏢</key>
+	<string>барилга | оффис | оффисын барилга | оффисын барилга</string>
+	<key>🧠</key>
+	<string>тархи | ухаантай | тархи</string>
+	<key>🏣</key>
+	<string>барилга | шуудан | япон | японы шуудан | японы шуудан</string>
+	<key>🧡</key>
+	<string>улбар шар | улбар шар зүрх | улбар шар зүрх</string>
+	<key>👩‍💼</key>
+	<string>архитект | бизнес | менежер | оффисын ажилтан эмэгтэй | эмэгтэй | эмэгтэй оффисын ажилтан | эмэгтэй оффисын ажилтан</string>
+	<key>🏤</key>
+	<string>барилга | европ | шуудан | шуудан</string>
+	<key>🧢</key>
+	<string>бейсболын малгай | саравчтай малгай | саравчтай малгай</string>
+	<key>🏥</key>
+	<string>барилга | эмнэлэг | эмч | эмнэлэг</string>
+	<key>🧣</key>
+	<string>алчуур | хүзүү | алчуур</string>
+	<key>🏦</key>
+	<string>банк | барилга | банк</string>
+	<key>🧤</key>
+	<string>бээлий | гар | бээлий</string>
+	<key>🏧</key>
+	<string>ATM | ATM-н тэмдэг | автоматжуулсан | банк | теллер | ATM-н тэмдэг</string>
+	<key>🧥</key>
+	<string>хүрэм | цув | цув</string>
+	<key>👷‍♀️</key>
+	<string>woman construction worker</string>
+	<key>🏨</key>
+	<string>байшин | барилга | зочид буудал | зочид буудал</string>
+	<key>🧦</key>
+	<string>оймс | трико | оймс</string>
+	<key>🏩</key>
+	<string>зочид буудал | хайр | хайрын зочид буудал | хайрын зочид буудал</string>
+	<key>🧧</key>
+	<string>hóngbāo | lai see | амжилт хүсье | бэлэг | бэлэгний улаан дугтуй | мөнгө | бэлэгний улаан дугтуй</string>
+	<key>ℹ️</key>
+	<string>information source</string>
+	<key>🏪</key>
+	<string>24 цагийн дэлгүүр | дэлгүүр | 24 цагийн дэлгүүр</string>
+	<key>🧨</key>
+	<string>галын наадам | динамит | салют | тэсрэх бодис | салют</string>
+	<key>🏫</key>
+	<string>барилга | сургууль | сургууль</string>
+	<key>🧩</key>
+	<string>сэжим | таавар | харилцан хамаарал | хэсэг | эвлүүлдэг зураг | эвлүүлдэг зураг</string>
+	<key>🏬</key>
+	<string>барилга | их дэлгүүр | их дэлгүүр</string>
+	<key>🧪</key>
+	<string>лаб | туршилт | хими | химич | хуруу шил | шинжлэх ухаан | хуруу шил</string>
+	<key>🛫</key>
+	<string>бүртгүүлэх | нисэх онгоц | онгоц | хөөрөх | хөөрч буй онгоц | хөөрч буй онгоц</string>
+	<key>🛳️</key>
+	<string>passenger ship</string>
+	<key>🏭</key>
+	<string>барилга | үйлдвэр | үйлдвэр</string>
+	<key>🧫</key>
+	<string>бактер | биологи | биологич | лаб | петрийн аяга | соёл | петрийн аяга</string>
+	<key>🛬</key>
+	<string>газардах | ирж буй онгоц | ирэх нислэгүүд | нисэх онгоц | онгоц | ирж буй онгоц</string>
+	<key>♨️</key>
+	<string>hot springs</string>
+	<key>🏮</key>
+	<string>дэнлүү | улаан цаасан дэнлүү | цаас | цаасан дэнлүү | улаан цаасан дэнлүү</string>
+	<key>🧬</key>
+	<string>амьдрал | биологич | ген | генетик | ДНА | хувьсал | ДНА</string>
+	<key>👨‍👩‍👦</key>
+	<string>family with mother, father and son</string>
+	<key>🏯</key>
+	<string>ордон | Японы | японы ордон | японы ордон</string>
+	<key>🧭</key>
+	<string>луужин | навигаци | соронз | чиглүүлэх | луужин</string>
+	<key>🧏‍♀️</key>
+	<string>Deaf woman</string>
+	<key>🏰</key>
+	<string>европ | ордон | ордон</string>
+	<key>🧮</key>
+	<string>сампин | тооцоолол | сампин</string>
+	<key>🧯</key>
+	<string>гал | гал унтраагч | унтраах | гал унтраагч</string>
+	<key>⏹️</key>
+	<string>stop symbol</string>
+	<key>🧰</key>
+	<string>багаж | багажны хайрцаг | механик | чээж | багажны хайрцаг</string>
+	<key>🧱</key>
+	<string>зуурмаг | тоосго | хана | шавар | тоосго</string>
+	<key>🏴</key>
+	<string>даллах | туг | хар | хар туг</string>
+	<key>🧲</key>
+	<string>соронз | татах | тах | соронз</string>
+	<key>🙍‍♀️</key>
+	<string>woman frowning</string>
+	<key>🧳</key>
+	<string>ачаа тээш | ачаагаа баглах | аялал | ачаа тээш</string>
+	<key>🛴</key>
+	<string>жийх | самокат | скүүтэр | самокат</string>
+	<key>🧴</key>
+	<string>нарны тос | тос | тосны сав | чийгшүүлэгч | шампунь | тосны сав</string>
+	<key>🛵</key>
+	<string>мотор | моторт дугуй | моторт дугуй</string>
+	<key>👨‍👦</key>
+	<string>family with father and son</string>
+	<key>🧵</key>
+	<string>зүү | оёх | утас | утасны дамар | утас</string>
+	<key>💆‍♂️</key>
+	<string>man getting a head massage</string>
+	<key>🛶</key>
+	<string>завь | сэлүүр | сэлүүрт завь | сэлүүрт завь</string>
+	<key>🏸</key>
+	<string>агаар | агаарын теннис | теннис | агаарын теннис</string>
+	<key>🧶</key>
+	<string>бөөрөнхий | дэгээ зүүгээр нэхэх | нэхмэлийн утас | сүлжмэл | нэхмэлийн утас</string>
+	<key>🛷</key>
+	<string>чарга | чарга</string>
+	<key>🏹</key>
+	<string>нум | нумын орд | орд | сум | харваач | нум сум</string>
+	<key>🧷</key>
+	<string>живх | панк рок | сүлбээр зүү | сүлбээр зүү</string>
+	<key>🛸</key>
+	<string>нисдэг таваг | үл танигдах нисдэг биет | нисдэг таваг</string>
+	<key>🏺</key>
+	<string>бумба | зурхай | уух юм | хоол хийх | Хумх | бумба</string>
+	<key>🧸</key>
+	<string>зугаа | тоглоом | тэдди бамбарууш | хилэн | чихмэл | тэдди бамбарууш</string>
+	<key>🛹</key>
+	<string>скейтборд | хавтан | скейтборд</string>
+	<key>🧹</key>
+	<string>хогийн шүүр | цэвэрлэгээ | шулам | шүүрдэх | хогийн шүүр</string>
+	<key>🛺</key>
+	<string>рикша | тук тук | рикша</string>
+	<key>⏲️</key>
+	<string>timer clock</string>
+	<key>🧺</key>
+	<string>зугаалга | сагс | ферм | хувцас угаалга | сагс</string>
+	<key>🛻</key>
+	<string>ачааны машин | пикап | пикап хагас чиргүүлтэй машин | пикап хагас чиргүүлтэй машин</string>
+	<key>🧻</key>
+	<string>жорлонгийн цаас | хуйлсан цаас | цаасан алчуур | хуйлсан цаас</string>
+	<key>🛼</key>
+	<string>бул | дугуйтай тэшүүр | тэшүүр | дугуйтай тэшүүр</string>
+	<key>👨‍👧</key>
+	<string>family with father and daughter</string>
+	<key>🧼</key>
+	<string>саван | савангийн тавиур | усанд орох | хөөс | цэвэрлэгээ | саван</string>
+	<key>🧞‍♂️</key>
+	<string>man genie</string>
+	<key>🧽</key>
+	<string>хөвсгөр ус шингээгч резин | хөөстэй | цэвэрлэгээ | шингээх | хөвсгөр ус шингээгч резин</string>
+	<key>🎞️</key>
+	<string>film frames</string>
+	<key>🧾</key>
+	<string>баримт | данс хөтлөх | нотолгоо | нягтлан бодох | төлбөрийн баримт | төлбөрийн баримт</string>
+	<key>▪️</key>
+	<string>black small square</string>
+	<key>🧿</key>
+	<string>зүүлт | назар | талисман | увидас | цэнхэр нүд | чөтгөрийн нүд | цэнхэр нүд</string>
+	<key>☂️</key>
+	<string>umbrella</string>
+	<key>🗂️</key>
+	<string>card index dividers</string>
+	<key>🦹‍♂️</key>
+	<string>man supervillain</string>
+	<key>🏋️</key>
+	<string>weightlifter</string>
+	<key>◻️</key>
+	<string>white medium square</string>
+	<key>♓️</key>
+	<string>Pisces</string>
+	<key>⚫️</key>
+	<string>black circle</string>
+	<key>⏩</key>
+	<string>сум | урагшлуулах | хоёр дахин | хурдан | урагшлуулах</string>
+	<key>⏪</key>
+	<string>сум | ухраах | хоёр дахин | ухраах</string>
+	<key>⏫</key>
+	<string>нэмэх | сум | товчлуур | хурдан | хурдан нэмэх товчлуур</string>
+	<key>⏬</key>
+	<string>буулгах | сум | товчлуур | хурдан | хурдан буулгах товчлуур</string>
+	<key>🗯️</key>
+	<string>angry speech bubble</string>
+	<key>⏰</key>
+	<string>сэрүүлэгтэй цаг | цаг | сэрүүлэгтэй цаг</string>
+	<key>⏳</key>
+	<string>гойжих | цаг | элс | элс нь гойжиж буй элсэн цаг | элс нь гойжиж буй элсэн цаг</string>
+	<key>🧑‍🎓</key>
+	<string>оюутан | төгсөгч | оюутан</string>
+	<key>🧑‍🚒</key>
+	<string>гал сөнөөгч | гал унтраах машин | гал сөнөөгч</string>
+	<key>♌️</key>
+	<string>Leo</string>
+	<key>🗄️</key>
+	<string>file cabinet</string>
+	<key>🧍‍♂️</key>
+	<string>man standing</string>
+	<key>🏍️</key>
+	<string>motorcycle</string>
+	<key>🙋‍♂️</key>
+	<string>man raising one hand</string>
+	<key>👨‍👩‍👧</key>
+	<string>family with mother, father and daughter</string>
+	<key>🇸🇦</key>
+	<string>flag of Saudi Arabia</string>
+	<key>⛵️</key>
+	<string>sailboat</string>
+	<key>👩‍🏫</key>
+	<string>багш | профессор | сургагч | эм | эмэгтэй | эмэгтэй багш</string>
+	<key>⬜️</key>
+	<string>white large square</string>
+	<key>🇸🇧</key>
+	<string>flag of the Solomon Islands</string>
+	<key>🇬🇦</key>
+	<string>flag of Gabon</string>
+	<key>🇨🇦</key>
+	<string>flag of Canada</string>
+	<key>🇸🇨</key>
+	<string>flag of Seychelles</string>
+	<key>🇬🇧</key>
+	<string>flag of the United Kingdom</string>
+	<key>👨‍🎓</key>
+	<string>оюутан | төгсөгч | эр | эрэгтэй | эрэгтэй оюутан</string>
+	<key>👨‍🚒</key>
+	<string>гал командын машин | гал сөнөөгч | эр | эрэгтэй | эрэгтэй гал сөнөөгч | эрэгтэй гал сөнөөгч</string>
+	<key>⚖️</key>
+	<string>scales</string>
+	<key>🇸🇩</key>
+	<string>flag of Sudan</string>
+	<key>🇨🇨</key>
+	<string>flag of the Cocos (Keeling) Islands</string>
+	<key>⏏️</key>
+	<string>eject symbol</string>
+	<key>🇸🇪</key>
+	<string>flag of Sweden</string>
+	<key>🇬🇩</key>
+	<string>flag of Grenada</string>
+	<key>👩‍🏭</key>
+	<string>аж үйлдвэрийн | ажилтан | угсрах | үйлдвэр | эмэгтэй | эмэгтэй үйлдвэрийн ажилтан | эмэгтэй үйлдвэрийн ажилтан</string>
+	<key>🇼🇫</key>
+	<string>flag of Wallis &amp; Futuna</string>
+	<key>🇨🇩</key>
+	<string>flag of the Democratic Republic of the Congo</string>
+	<key>🇰🇪</key>
+	<string>flag of Kenya</string>
+	<key>🛎️</key>
+	<string>bellhop bell</string>
+	<key>🇬🇪</key>
+	<string>flag of Georgia</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>family with two mothers, son and daughter</string>
+	<key>🇸🇬</key>
+	<string>flag of Singapore</string>
+	<key>🇬🇫</key>
+	<string>flag of French Guiana</string>
+	<key>🇨🇫</key>
+	<string>flag of the Central African Republic</string>
+	<key>🇰🇬</key>
+	<string>flag of Kyrgyzstan</string>
+	<key>🗳️</key>
+	<string>ballot box with ballot</string>
+	<key>🇸🇭</key>
+	<string>flag of Saint Helena</string>
+	<key>🇬🇬</key>
+	<string>flag of Guernsey</string>
+	<key>🧑‍⚕️</key>
+	<string>health worker</string>
+	<key>🏃‍♀️</key>
+	<string>woman runner</string>
+	<key>🇨🇬</key>
+	<string>flag of the Republic of the Congo</string>
+	<key>🇰🇭</key>
+	<string>flag of Cambodia</string>
+	<key>🤹‍♂️</key>
+	<string>man juggling</string>
+	<key>🇸🇮</key>
+	<string>flag of Slovenia</string>
+	<key>🇬🇭</key>
+	<string>flag of Ghana</string>
+	<key>〽️</key>
+	<string>part alternation mark</string>
+	<key>🇨🇭</key>
+	<string>flag of Switzerland</string>
+	<key>🇰🇮</key>
+	<string>flag of Kiribati</string>
+	<key>🇸🇯</key>
+	<string>flag of Svalbard and Jan Mayen</string>
+	<key>🕰️</key>
+	<string>mantelpiece clock</string>
+	<key>8️⃣</key>
+	<string>keycap digit eight</string>
+	<key>🇬🇮</key>
+	<string>flag of Gibraltar</string>
+	<key>🤾‍♀️</key>
+	<string>woman playing handball</string>
+	<key>🇨🇮</key>
+	<string>flag of Côte d’Ivoire</string>
+	<key>⬇️</key>
+	<string>down arrow</string>
+	<key>👩‍✈️</key>
+	<string>woman pilot</string>
+	<key>👩‍👧‍👦</key>
+	<string>family with mother, son and daughter</string>
+	<key>🇸🇰</key>
+	<string>flag of Slovakia</string>
+	<key>🌡️</key>
+	<string>thermometer</string>
+	<key>↪️</key>
+	<string>left arrow curving right</string>
+	<key>🇸🇱</key>
+	<string>flag of Sierra Leone</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>two men kissing</string>
+	<key>🇨🇰</key>
+	<string>flag of the Cook Islands</string>
+	<key>🇸🇲</key>
+	<string>flag of San Marino</string>
+	<key>🇬🇱</key>
+	<string>flag of Greenland</string>
+	<key>🇴🇲</key>
+	<string>flag of Oman</string>
+	<key>🇨🇱</key>
+	<string>flag of Chile</string>
+	<key>🇰🇲</key>
+	<string>flag of Comoros</string>
+	<key>🇸🇳</key>
+	<string>flag of Senegal</string>
+	<key>🇬🇲</key>
+	<string>flag of Gambia</string>
+	<key>1️⃣</key>
+	<string>keycap digit one</string>
+	<key>Ⓜ️</key>
+	<string>circled M</string>
+	<key>🇨🇲</key>
+	<string>flag of Cameroon</string>
+	<key>👨‍⚕️</key>
+	<string>man health worker</string>
+	<key>🙎‍♂️</key>
+	<string>man pouting</string>
+	<key>🇰🇳</key>
+	<string>flag of Saint Kitts &amp; Nevis</string>
+	<key>🇸🇴</key>
+	<string>flag of Somalia</string>
+	<key>🇬🇳</key>
+	<string>flag of Guinea</string>
+	<key>🇨🇳</key>
+	<string>flag of China</string>
+	<key>☢️</key>
+	<string>radioactive</string>
+	<key>🇨🇴</key>
+	<string>flag of Colombia</string>
+	<key>‼️</key>
+	<string>red double exclamation mark</string>
+	<key>🃏</key>
+	<string>тоглоом | хөзөр | хөзрийн хүн | хүн | хөзрийн хүн</string>
+	<key>🇰🇵</key>
+	<string>flag of North Korea</string>
+	<key>🇬🇵</key>
+	<string>flag of Guadeloupe</string>
+	<key>㊗️</key>
+	<string>Japanese sign meaning “congratulations”</string>
+	<key>🐿️</key>
+	<string>chipmunk</string>
+	<key>🇨🇵</key>
+	<string>flag of Clipperton Island</string>
+	<key>🇸🇷</key>
+	<string>flag of Suriname</string>
+	<key>🏳️‍⚧️</key>
+	<string>transgender flag</string>
+	<key>🇬🇶</key>
+	<string>flag of Equatorial Guinea</string>
+	<key>🇼🇸</key>
+	<string>flag of Samoa</string>
+	<key>*️⃣</key>
+	<string>keycap asterisk</string>
+	<key>🇰🇷</key>
+	<string>flag of South Korea</string>
+	<key>🇸🇸</key>
+	<string>flag of South Sudan</string>
+	<key>🇬🇷</key>
+	<string>flag of Greece</string>
+	<key>🇨🇷</key>
+	<string>flag of Costa Rica</string>
+	<key>®️</key>
+	<string>registered sign</string>
+	<key>🇸🇹</key>
+	<string>flag of São Tomé &amp; Príncipe</string>
+	<key>🇬🇸</key>
+	<string>flag of South Georgia &amp; the South Sandwich Islands</string>
+	<key>↕️</key>
+	<string>up-down arrow</string>
+	<key>🇬🇹</key>
+	<string>flag of Guatemala</string>
+	<key>☔️</key>
+	<string>umbrella with rain drops</string>
+	<key>🏳️‍🌈</key>
+	<string>rainbow flag</string>
+	<key>🇸🇻</key>
+	<string>flag of El Salvador</string>
+	<key>🕴️</key>
+	<string>man in business suit levitating</string>
+	<key>⛄️</key>
+	<string>snowman</string>
+	<key>🇬🇺</key>
+	<string>flag of Guam</string>
+	<key>🇨🇺</key>
+	<string>flag of Cuba</string>
+	<key>#️⃣</key>
+	<string>number sign</string>
+	<key>🤼‍♂️</key>
+	<string>men wrestling</string>
+	<key>🌥️</key>
+	<string>sun behind large cloud</string>
+	<key>👁️</key>
+	<string>eye</string>
+	<key>🇨🇻</key>
+	<string>flag of Cape Verde</string>
+	<key>🍽️</key>
+	<string>fork and knife with plate</string>
+	<key>🇰🇼</key>
+	<string>flag of Kuwait</string>
+	<key>🇸🇽</key>
+	<string>flag of Sint Maarten</string>
+	<key>🇬🇼</key>
+	<string>flag of Guinea-Bissau</string>
+	<key>🏕️</key>
+	<string>camping</string>
+	<key>🩰</key>
+	<string>балет | балетын шаахай | бүжиг | балетын шаахай</string>
+	<key>🇨🇼</key>
+	<string>flag of Curaçao</string>
+	<key>🩱</key>
+	<string>усны үргэлж хувцас | усны хувцас | усны үргэлж хувцас</string>
+	<key>🇸🇾</key>
+	<string>flag of Syria</string>
+	<key>♥️</key>
+	<string>hearts suit</string>
+	<key>🩲</key>
+	<string>дотуур өмд | дотуур хувцас | купальник | салдаггүй | усны хувцас | дотуур өмд</string>
+	<key>🕉️</key>
+	<string>om symbol</string>
+	<key>⚽️</key>
+	<string>soccer ball</string>
+	<key>🩳</key>
+	<string>богино өмд | дотуур өмд | өмд | усны хувцас | богино өмд</string>
+	<key>🇨🇽</key>
+	<string>flag of Christmas Island</string>
+	<key>🩴</key>
+	<string>далайн эргийн сандаал | сандаал | углааш | углааш</string>
+	<key>🇰🇾</key>
+	<string>flag of the Cayman Islands</string>
+	<key>🇸🇿</key>
+	<string>flag of Eswatini</string>
+	<key>🩵</key>
+	<string>light blue heart</string>
+	<key>👩‍👧‍👧</key>
+	<string>family with mother and two daughters</string>
+	<key>🇬🇾</key>
+	<string>flag of Guyana</string>
+	<key>🩶</key>
+	<string>grey heart</string>
+	<key>🩷</key>
+	<string>pink heart</string>
+	<key>🇨🇾</key>
+	<string>flag of Cyprus</string>
+	<key>🇰🇿</key>
+	<string>flag of Kazakhstan</string>
+	<key>🩸</key>
+	<string>дусал цус | сарын тэмдэг | цус хандивлах | эмнэлэг | дусал цус</string>
+	<key>🩹</key>
+	<string>боолт | хурууны наалт | хурууны наалт</string>
+	<key>🩺</key>
+	<string>зүрх | чагнуур | эмнэлэг | эмч | чагнуур</string>
+	<key>🇨🇿</key>
+	<string>flag of Czechia</string>
+	<key>🩻</key>
+	<string>X-ray</string>
+	<key>🩼</key>
+	<string>crutch</string>
+	<key>🕶️</key>
+	<string>sunglasses</string>
+	<key>🧘‍♀️</key>
+	<string>woman in lotus position</string>
+	<key>⏯️</key>
+	<string>play/pause symbol</string>
+	<key>🪀</key>
+	<string>ёо-ёо | тоглоом | хэлбэлзэл | ёо-ёо</string>
+	<key>🌧️</key>
+	<string>cloud with rain</string>
+	<key>🪁</key>
+	<string>нисэх | цаасан шувуу | элин халих | цаасан шувуу</string>
+	<key>🪂</key>
+	<string>дельтаплан | шүхрээр буух | шүхэр | шүхэр</string>
+	<key>🧑‍🎤</key>
+	<string>дуучин | жүжигчин | од | рок | дуучин</string>
+	<key>🪃</key>
+	<string>boomerang | австрали | дахин ойх | тийрэлт | boomerang</string>
+	<key>🪄</key>
+	<string>ид шид | шидтэн | шидэт дохиур | шулам | шидэт дохиур</string>
+	<key>🏗️</key>
+	<string>building construction</string>
+	<key>🪅</key>
+	<string>пината | тэмдэглэх | үдэшлэг | пината</string>
+	<key>🪆</key>
+	<string>орос | угсардаг | хүүхэлдэй | угсардаг хүүхэлдэй</string>
+	<key>🚴‍♀️</key>
+	<string>woman cyclist</string>
+	<key>🪇</key>
+	<string>maracas</string>
+	<key>🐀</key>
+	<string>харх | харх</string>
+	<key>🪈</key>
+	<string>flute</string>
+	<key>🐁</key>
+	<string>хулгана | хулгана</string>
+	<key>🐂</key>
+	<string>бух | орд | үхрийн орд | шар үхэр | шар үхэр</string>
+	<key>🐃</key>
+	<string>амьтан | бух | бух</string>
+	<key>🐄</key>
+	<string>үнээ | үнээ</string>
+	<key>🅱️</key>
+	<string>blood type B</string>
+	<key>🐅</key>
+	<string>бар | бар</string>
+	<key>🐆</key>
+	<string>ирвэс | ирвэс</string>
+	<key>🐇</key>
+	<string>амьтан | туулай | туулай</string>
+	<key>🐈</key>
+	<string>гэрийн тэжээвэр амьтан | муур | муур</string>
+	<key>🪐</key>
+	<string>санчир | санчир гараг | тойрог замтай гараг | тойрог замтай гараг</string>
+	<key>♐️</key>
+	<string>Sagittarius</string>
+	<key>🐉</key>
+	<string>луу | шидэт үлгэр | луу</string>
+	<key>🪑</key>
+	<string>сандал | суудал | суух | сандал</string>
+	<key>🕸️</key>
+	<string>spiderweb</string>
+	<key>🐊</key>
+	<string>матар | матар</string>
+	<key>🪒</key>
+	<string>ир | сахал хусах | сахлын хутга | хутга | сахлын хутга</string>
+	<key>👩‍🍳</key>
+	<string>тогооч | эм | эмэгтэй | эмэгтэй тогооч</string>
+	<key>🐋</key>
+	<string>халим | халим</string>
+	<key>👯‍♀️</key>
+	<string>dancing women wearing bunny ears</string>
+	<key>🪓</key>
+	<string>мод | сүх | хагалах | цавчих | сүх</string>
+	<key>🐌</key>
+	<string>эмгэн хумс | эмгэн хумс</string>
+	<key>🪔</key>
+	<string>дэнлүү | тос | тосон дэн | тосон дэн</string>
+	<key>🐍</key>
+	<string>могой | өрнийн зурхай | хэвлээр явагч | могой</string>
+	<key>🪕</key>
+	<string>банжо | хөгжим | чавхдас | банжо</string>
+	<key>🏄‍♂️</key>
+	<string>man surfer</string>
+	<key>🌩️</key>
+	<string>cloud with lightning</string>
+	<key>🐎</key>
+	<string>морь | уралдаан | уралдааны морь | морь</string>
+	<key>🪖</key>
+	<string>арми | дайчин | дуулга | цэргийн | цэрэг | цэргийн дуулга</string>
+	<key>🐏</key>
+	<string>мал | хонины орд | хонь | хуц | хуц</string>
+	<key>🪗</key>
+	<string>аккордеон | баян хуур | аккордеон</string>
+	<key>🐐</key>
+	<string>мал | ямаа | ямаа</string>
+	<key>🪘</key>
+	<string>бөмбөр | конга бүжиг | ритм | урт бөмбөр | цохилт | урт бөмбөр</string>
+	<key>👨‍🎤</key>
+	<string>дуучин | жүжигчин | од | рок | эрэгтэй | эрэгтэй дуучин</string>
+	<key>🏙️</key>
+	<string>cityscape</string>
+	<key>🐑</key>
+	<string>мал | хонь | хонь</string>
+	<key>🪙</key>
+	<string>алт | зоос | метал | мөнгө | эрдэнэс | зоос</string>
+	<key>🐒</key>
+	<string>сармагчин | сармагчин</string>
+	<key>🪚</key>
+	<string>багаж | гуалин | мужаан | мужааны хөрөө | хөрөө | мужааны хөрөө</string>
+	<key>♉️</key>
+	<string>Taurus</string>
+	<key>🐓</key>
+	<string>азарган тахиа | шувуу | азарган тахиа</string>
+	<key>🪛</key>
+	<string>багаж | халив | эрэг шураг | халив</string>
+	<key>⚡️</key>
+	<string>lightning bolt</string>
+	<key>🐔</key>
+	<string>тахиа | шувуу | тахиа</string>
+	<key>🪜</key>
+	<string>алхам | өгсөх | шат | шатны гишгүүр | шат</string>
+	<key>⛹️</key>
+	<string>basketball player</string>
+	<key>🖥️</key>
+	<string>desktop computer</string>
+	<key>🐕</key>
+	<string>гэрийн тэжээвэр амьтан | нохой | нохой</string>
+	<key>🪝</key>
+	<string>барих | борлуулах цэг | дэгээ | муруй | урхидах | дэгээ</string>
+	<key>🧑‍🎨</key>
+	<string>зураач | палетр | уран бүтээлч | уран бүтээлч</string>
+	<key>🐖</key>
+	<string>амьтан | бие | гахай | гахай</string>
+	<key>🪞</key>
+	<string>ойлгогч | толь | тусгал | тэлэгч | толь</string>
+	<key>🐗</key>
+	<string>амьтан | бодон | гахай | бодон гахай</string>
+	<key>🪟</key>
+	<string>ил тод | онгойх | харагдац | хүрээ | цонх | цэвэр агаар | цонх</string>
+	<key>🐘</key>
+	<string>заан | заан</string>
+	<key>🙅‍♀️</key>
+	<string>woman gesturing no</string>
+	<key>🪠</key>
+	<string>бүлүүр | жорлон | жорлонгийн бөглөө гаргагч | резинэн аяга | сантехникч | сорох | жорлонгийн бөглөө гаргагч</string>
+	<key>🐙</key>
+	<string>наймаалж | наймаалж</string>
+	<key>🪡</key>
+	<string>зүү | оёдлын зүү | оёдол | оёх | хатгамал | эсгүүр | оёдлын зүү</string>
+	<key>🐚</key>
+	<string>дун | дунгийн хясаа | хясаа | дунгийн хясаа</string>
+	<key>🪢</key>
+	<string>зангилаа | олс | ороох | орооцолдох | орооцолдсон | уяа | зангилаа</string>
+	<key>🚣‍♀️</key>
+	<string>woman rowing boat</string>
+	<key>🐛</key>
+	<string>хорхой | шавж | хорхой</string>
+	<key>🪣</key>
+	<string>сав уулга | торх | хувин | хувин</string>
+	<key>🐜</key>
+	<string>шавж | шоргоолж | шоргоолж</string>
+	<key>🪤</key>
+	<string>өгөөш | урхи | хулганы хавх | хулганы хавх</string>
+	<key>🐝</key>
+	<string>зөгий | шавьж | зөгий</string>
+	<key>🪥</key>
+	<string>ванны өрөө | сойз | цэвэрлэх | шүд | шүдний | эрүүл ахуйн | шүдний сойз</string>
+	<key>🐞</key>
+	<string>цох хорхой | цох шавьж | цох хорхой</string>
+	<key>🪦</key>
+	<string>булшны чулуу | оршуулга | оршуулгын газар | хөшөө | хөшөө чулуу | хөшөө чулуу</string>
+	<key>⛲️</key>
+	<string>fountain</string>
+	<key>🐟</key>
+	<string>загас | загасны орд | өрнийн зурхай | загас</string>
+	<key>🪧</key>
+	<string>жагсаалт | зурагт хуудас | тэмдэглэгээ | харуул | эсэргүүцэл | зурагт хуудас</string>
+	<key>🐠</key>
+	<string>загас | халуун орны загас | халуун орон | халуун орны загас</string>
+	<key>🗒️</key>
+	<string>spiral notepad</string>
+	<key>🪨</key>
+	<string>хад | хатуу | хүнд | чулуу | хад</string>
+	<key>🐡</key>
+	<string>загас | нохой загас | нохой загас</string>
+	<key>🪩</key>
+	<string>mirror ball</string>
+	<key>🧖‍♂️</key>
+	<string>man in a sauna</string>
+	<key>🌫️</key>
+	<string>fog</string>
+	<key>🐢</key>
+	<string>яст мэлхий | яст мэлхий</string>
+	<key>🪪</key>
+	<string>identification card</string>
+	<key>🐣</key>
+	<string>дэгдээхэй | өндөг | хагарах | дэгдээхэй</string>
+	<key>🪫</key>
+	<string>low battery</string>
+	<key>🐤</key>
+	<string>ангаахай | шувуу | ангаахай</string>
+	<key>🪬</key>
+	<string>hamsa</string>
+	<key>🐥</key>
+	<string>дэгдээхэй | дэгдээхэй урд талаасаа | өхөөрдөм | тал | урд | дэгдээхэй урд талаасаа</string>
+	<key>😶‍🌫️</key>
+	<string>face in clouds</string>
+	<key>🏛️</key>
+	<string>classical building</string>
+	<key>🪭</key>
+	<string>folding hand fan</string>
+	<key>🐦</key>
+	<string>шувуу | шувуу</string>
+	<key>🧛‍♀️</key>
+	<string>woman vampire</string>
+	<key>🪮</key>
+	<string>hair pick</string>
+	<key>🐧</key>
+	<string>оцон шувуу | оцон шувуу</string>
+	<key>🪯</key>
+	<string>khanda symbol</string>
+	<key>🐨</key>
+	<string>амьтан | баавгай | коала | коала</string>
+	<key>⚓️</key>
+	<string>anchor</string>
+	<key>🪰</key>
+	<string>өвчин | өт | хортон шавж | ялаа | ялзрах | ялаа</string>
+	<key>🐩</key>
+	<string>нохой | пүүдл үүлдрийн нохой | пүүдл үүлдрийн нохой</string>
+	<key>🪱</key>
+	<string>өргөст хорхой | өт | өт хорхой | чийгийн өт | шимэгч | өт хорхой</string>
+	<key>🐪</key>
+	<string>бөх | мал | тэмээ | тэмээ</string>
+	<key>🪲</key>
+	<string>нисдэг шавж | хорхой шавж | хорхой шавж</string>
+	<key>👨‍🎨</key>
+	<string>будгийн хавтан | зураач | палет | эр | эрэгтэй | эрэгтэй зураач</string>
+	<key>🐫</key>
+	<string>2 бөхт тэмээ | бөх | мал | тэмээ | хоёр | 2 бөхт тэмээ</string>
+	<key>🪳</key>
+	<string>жоом | нисдэг шавж | хортон шавж | жоом</string>
+	<key>🐬</key>
+	<string>далайн гахай | сэлүүр | далайн гахай</string>
+	<key>🪴</key>
+	<string>байшин | ваартай ургамал | өсөх | уйтгартай | ургамал | ургуулах | хэрэгцээгүй | ваартай ургамал</string>
+	<key>🐭</key>
+	<string>амьтан | толгой | хулгана | хулганы толгой | хулганы толгой</string>
+	<key>🪵</key>
+	<string>банз | гуалин | дүнз | мод | мод</string>
+	<key>🐮</key>
+	<string>үнээ | үнээний толгой | үнээний толгой</string>
+	<key>🪶</key>
+	<string>нислэг | өд | өд сөд | хөнгөн | шувуу | өд</string>
+	<key>🐯</key>
+	<string>бар | барын толгой | барын толгой</string>
+	<key>🪷</key>
+	<string>lotus</string>
+	<key>🐕‍🦺</key>
+	<string>нохой | туслагч | үйлчлэгч | хөгжлийн бэрхшээл | хөтөч | үйлчлэгч нохой</string>
+	<key>🐰</key>
+	<string>амьтан | толгой | туулай | туулайны толгой | туулайны толгой</string>
+	<key>🪸</key>
+	<string>coral</string>
+	<key>🐱</key>
+	<string>гэрийн тэжээвэр амьтан | муур | муурын толгой | нүүр | муурын толгой</string>
+	<key>🪹</key>
+	<string>empty nest</string>
+	<key>🐲</key>
+	<string>луу | лууны толгой | үлгэр | царай | лууны толгой</string>
+	<key>🪺</key>
+	<string>nest with eggs</string>
+	<key>🐳</key>
+	<string>далай | оргилуулах | ус | ус оргилуулж байгаа халим | халим | ус оргилуулж байгаа халим</string>
+	<key>🪻</key>
+	<string>hyacinth</string>
+	<key>🐴</key>
+	<string>морины толгой | морь | морины толгой</string>
+	<key>🪼</key>
+	<string>jellyfish</string>
+	<key>🐵</key>
+	<string>нүүр | сармагчин | сармагчны толгой | сармагчны толгой</string>
+	<key>🪽</key>
+	<string>wing</string>
+	<key>🐶</key>
+	<string>гэрийн тэжээвэр амьтан | нохой | нохойны толгой | нохойны толгой</string>
+	<key>🐷</key>
+	<string>гахай | гахайны толгой | гахайны толгой</string>
+	<key>🪿</key>
+	<string>goose</string>
+	<key>🐸</key>
+	<string>мэлхий | мэлхийний царай | царай | мэлхийний царай</string>
+	<key>🫀</key>
+	<string>анатомийн | зүрх | зүрхний өвчин судлал | судасны цохилт | эрхтэн | зүрх</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>flag of England</string>
+	<key>🐹</key>
+	<string>амьтан | толгой | үхэр зусаг | үхэр зусгийн толгой | үхэр зусгийн толгой</string>
+	<key>🫁</key>
+	<string>амьсгаа авах | амьсгаа гаргах | амьсгал | уушиг | эрхтэн | уушиг</string>
+	<key>🐺</key>
+	<string>чоно | чонын толгой | чонын толгой</string>
+	<key>🏝️</key>
+	<string>desert island</string>
+	<key>🫂</key>
+	<string>баяртай | сайн уу | талархал | тэврэлдэж буй хүмүүс | тэврэлт | тэврэлдэж буй хүмүүс</string>
+	<key>🐻</key>
+	<string>баавгай | баавгайны толгой | нүүр | баавгайны толгой</string>
+	<key>🏌️‍♂️</key>
+	<string>man golfer</string>
+	<key>🫃</key>
+	<string>pregnant man</string>
+	<key>🐼</key>
+	<string>амьтан | баавгай | толгой | хулс | хулсны баавгайны толгой | хулсны баавгайны толгой</string>
+	<key>🫄</key>
+	<string>pregnant person</string>
+	<key>6️⃣</key>
+	<string>keycap digit six</string>
+	<key>🐽</key>
+	<string>амьтан | гахай | гахайны хоншоор | хоншоор | ягаан | гахайны хоншоор</string>
+	<key>🫅</key>
+	<string>person with crown</string>
+	<key>🐾</key>
+	<string>савар | саварны мөр | хээ | саварны мөр</string>
+	<key>👀</key>
+	<string>гайхах | нүд | хоёр | хоёр нүд</string>
+	<key>👂</key>
+	<string>бие | чих | чих</string>
+	<key>👃</key>
+	<string>бие | хамар | хамар</string>
+	<key>👄</key>
+	<string>ам | уруул | шүд | ам</string>
+	<key>👅</key>
+	<string>бие | хэл | хэл</string>
+	<key>☦️</key>
+	<string>Orthodox cross</string>
+	<key>👆</key>
+	<string>гар | гарын ар тал | дээшээ зааж буй алганы ар тал | дээшээ зааж буй долоовор хуруу | хуруу | дээшээ зааж буй алганы ар тал</string>
+	<key>👩‍🍼</key>
+	<string>асрах | нялх хүүхэд | нялх хүүхэд хооллож байгаа эмэгтэй | хооллох | эмэгтэй | нялх хүүхэд хооллож байгаа эмэгтэй</string>
+	<key>🫎</key>
+	<string>moose face</string>
+	<key>♾️</key>
+	<string>infinity</string>
+	<key>👇</key>
+	<string>гар | гарын ар тал | доошоо | доошоо зааж буй алганы ард тал | доошоо зааж буй долоовор хуруу | хуруу | доошоо зааж буй алганы ард тал</string>
+	<key>🫏</key>
+	<string>donkey</string>
+	<key>👈</key>
+	<string>гар | гарын ар тал | долоовор хуруугаараа зүүн тийш зааж буй гар | зүүн зүг зааж байгаа | хуруу | зүүн зүг зааж байгаа</string>
+	<key>🫐</key>
+	<string>жимс | нэрс | цэнхэр | нэрс</string>
+	<key>👉</key>
+	<string>баруун зүг зааж байгаа | баруун тийш зааж буй долоовор хуруу | гар | гарын ар тал | хуруу | баруун зүг зааж байгаа</string>
+	<key>🫑</key>
+	<string>амтат чинжүү | хүнсний ногоо | чинжүү | амтат чинжүү</string>
+	<key>👊</key>
+	<string>гар | мэндчилгээ | цохилт | цохилт</string>
+	<key>🫒</key>
+	<string>олив | хүнс | олив</string>
+	<key>⭕️</key>
+	<string>circle mark</string>
+	<key>💁‍♂️</key>
+	<string>information desk man</string>
+	<key>👋</key>
+	<string>гар | даллаж буй гар | даллах | мэндчилж байгаа гар | мэндчилж байгаа гар</string>
+	<key>🫓</key>
+	<string>арепа | гамбир | лаваш | наан | пита | гамбир</string>
+	<key>👌</key>
+	<string>гар | дохио зангаа | ок | ок</string>
+	<key>🫔</key>
+	<string>мексик | ороосон | тамале | тамале</string>
+	<key>👍</key>
+	<string>амжилттай | гар | сайн | таалагдсан | хуруу | сайн</string>
+	<key>🫕</key>
+	<string>бяслаг | фондю | хайлсан | хоолны сав | Швейцар | шоколад | фондю</string>
+	<key>👎</key>
+	<string>амжилтгүй | гар | муу | таалагдаагүй | хуруу | муу</string>
+	<key>🫖</key>
+	<string>гүц | уух юм | цай | цайны гүц | цайны гүц</string>
+	<key>🏟️</key>
+	<string>stadium</string>
+	<key>👏</key>
+	<string>алга | гар | таших | хуруу | алга таших</string>
+	<key>🫗</key>
+	<string>pouring liquid</string>
+	<key>💆‍♀️</key>
+	<string>woman getting a head massage</string>
+	<key>👐</key>
+	<string>алга | гар | дэлгэсэн алга | дэлгээтэй | нээлттэй | дэлгэсэн алга</string>
+	<key>🫘</key>
+	<string>beans</string>
+	<key>🐦‍⬛</key>
+	<string>black bird</string>
+	<key>🧑‍🦯</key>
+	<string>метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн | метал илрүүлэгчтэй хүн</string>
+	<key>🫙</key>
+	<string>jar</string>
+	<key>🧙‍♂️</key>
+	<string>man mage</string>
+	<key>👑</key>
+	<string>гүнж | титэм | хаан | хатан | титэм</string>
+	<key>⛏️</key>
+	<string>pick</string>
+	<key>👒</key>
+	<string>малгай | хувцас | эмэгтэй | эмэгтэй малгай</string>
+	<key>🫚</key>
+	<string>ginger root</string>
+	<key>👓</key>
+	<string>хараа | харааны шил | шил | харааны шил</string>
+	<key>🫛</key>
+	<string>pea pod</string>
+	<key>👔</key>
+	<string>зангиа | хувцаслалт | зангиа</string>
+	<key>👕</key>
+	<string>подволк | хувцас | подволк</string>
+	<key>👖</key>
+	<string>жинс | хувцас | жинс</string>
+	<key>🧞‍♀️</key>
+	<string>woman genie</string>
+	<key>👗</key>
+	<string>даашинз | хувцас | даашинз</string>
+	<key>↙️</key>
+	<string>down-left arrow</string>
+	<key>🧑‍🦰</key>
+	<string>person with red hair</string>
+	<key>🕵️‍♂️</key>
+	<string>man detective</string>
+	<key>👘</key>
+	<string>кимоно | хувцас | кимоно</string>
+	<key>🟠</key>
+	<string>тойрог | улбар шар | улбар шар тойрог | улбар шар тойрог</string>
+	<key>🫠</key>
+	<string>melting face</string>
+	<key>🟡</key>
+	<string>тойрог | шар | шар тойрог</string>
+	<key>👩‍❤️‍👨</key>
+	<string>man and woman with heart</string>
+	<key>👙</key>
+	<string>сэлэлт | усны хувцас | усны хувцас</string>
+	<key>◀️</key>
+	<string>left-pointing triangle</string>
+	<key>🫡</key>
+	<string>saluting face</string>
+	<key>🟢</key>
+	<string>ногоон | тойрог | ногоон тойрог</string>
+	<key>👚</key>
+	<string>хувцас | эмэгтэй | эмэгтэй хувцас</string>
+	<key>☘️</key>
+	<string>shamrock</string>
+	<key>🫢</key>
+	<string>face with open eyes and hand over mouth</string>
+	<key>🚵‍♂️</key>
+	<string>man mountain biker</string>
+	<key>🟣</key>
+	<string>нил ягаан | нил ягаан тойрог | тойрог | нил ягаан тойрог</string>
+	<key>👛</key>
+	<string>зоос | түрийвч | түрийвч</string>
+	<key>🫣</key>
+	<string>face with peeking eye</string>
+	<key>🟤</key>
+	<string>бор | тойрог | бор тойрог</string>
+	<key>👜</key>
+	<string>гар | цүнх | эдлэл | гар цүнх</string>
+	<key>⛈️</key>
+	<string>cloud with lightning and rain</string>
+	<key>🫤</key>
+	<string>face with diagonal mouth</string>
+	<key>🟥</key>
+	<string>дөрвөлжин | улаан | улаан дөрвөлжин</string>
+	<key>👝</key>
+	<string>цүнх | эдлэл | цүнх</string>
+	<key>🫥</key>
+	<string>dotted line face</string>
+	<key>🟦</key>
+	<string>дөрвөлжин | хөх | хөх дөрвөлжин</string>
+	<key>👞</key>
+	<string>гутал | хувцас | эрэгтэй | эрэгтэй гутал</string>
+	<key>🧑‍🦱</key>
+	<string>person with curly hair</string>
+	<key>🫦</key>
+	<string>biting lip</string>
+	<key>🟧</key>
+	<string>дөрвөлжин | улбар шар | улбар шар дөрвөлжин | улбар шар дөрвөлжин</string>
+	<key>🦹‍♀️</key>
+	<string>woman supervillain</string>
+	<key>👟</key>
+	<string>гутал | гүйлт | пүүз | пүүз</string>
+	<key>🫧</key>
+	<string>bubbles</string>
+	<key>🟨</key>
+	<string>дөрвөлжин | шар | шар дөрвөлжин</string>
+	<key>❤️‍🔥</key>
+	<string>heart on fire</string>
+	<key>👠</key>
+	<string>гутал | өндөр өсгийт | өндөр өсгийтэй гутал | хувцаслалт | эмэгтэй | өндөр өсгийтэй гутал</string>
+	<key>🟩</key>
+	<string>дөрвөлжин | ногоон | ногоон дөрвөлжин</string>
+	<key>🫨</key>
+	<string>shaking face</string>
+	<key>👡</key>
+	<string>углааш | хүн | эмэгтэй | эмэгтэй углааш</string>
+	<key>🟪</key>
+	<string>дөрвөлжин | нил ягаан | нил ягаан дөрвөлжин | нил ягаан дөрвөлжин</string>
+	<key>👢</key>
+	<string>гутал | хүн | эмэгтэй | эмэгтэй гутал</string>
+	<key>🟫</key>
+	<string>бор | дөрвөлжин | бор дөрвөлжин</string>
+	<key>👣</key>
+	<string>мөр | улаан | хөл | хөлийн мөр | хөлийн мөр</string>
+	<key>🛠️</key>
+	<string>hammer and wrench</string>
+	<key>📽️</key>
+	<string>film projector</string>
+	<key>👤</key>
+	<string>сүүдэр дүрс | хүний сүүдэр дүрс | цээж | хүний сүүдэр дүрс</string>
+	<key>☑️</key>
+	<string>ballot box with check</string>
+	<key>🧑‍🦲</key>
+	<string>person with no hair</string>
+	<key>👥</key>
+	<string>2 сүүдэр | сүүдэр | 2 сүүдэр</string>
+	<key>👦</key>
+	<string>хүүхэд | эрэгтэй | эрэгтэй хүүхэд</string>
+	<key>👨‍🦯</key>
+	<string>таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | эрэгтэй | таягтай хараагүй эрэгтэй</string>
+	<key>👧</key>
+	<string>хүүхэд | эмэгтэй | эмэгтэй хүүхэд</string>
+	<key>👰‍♂️</key>
+	<string>man with veil</string>
+	<key>👩‍🚀</key>
+	<string>пуужин | сансрын нисэгч | эмэгтэй | эмэгтэй сансрын нисгэгч | эмэгтэй сансрын нисгэгч</string>
+	<key>🟰</key>
+	<string>equals sign</string>
+	<key>🏴‍☠️</key>
+	<string>pirate flag</string>
+	<key>👨</key>
+	<string>хүн | эрэгтэй | эрэгтэй хүн</string>
+	<key>🫰</key>
+	<string>hand with index finger and thumb crossed</string>
+	<key>⏺️</key>
+	<string>record symbol</string>
+	<key>👩</key>
+	<string>хүн | эмэгтэй | эмэгтэй хүн</string>
+	<key>🫱</key>
+	<string>rightward hand</string>
+	<key>👪</key>
+	<string>аав | гэр бүл | хүү | ээж | гэр бүл</string>
+	<key>🫲</key>
+	<string>leftward hand</string>
+	<key>👫</key>
+	<string>хос | хөтлөлцөх | хөтлөлцсөн эрэгтэй эмэгтэй хос | эмэгтэй | эрэгтэй | хөтлөлцсөн эрэгтэй эмэгтэй хос</string>
+	<key>🫳</key>
+	<string>palm down hand</string>
+	<key>🧑‍🦳</key>
+	<string>person with white hair</string>
+	<key>👬</key>
+	<string>ихрүүд | хоёр эрэгтэй | хосууд | хөтлөлцөх | хөтлөлцсөн хоёр эрэгтэй | хөтлөлцсөн хоёр эрэгтэй</string>
+	<key>🫴</key>
+	<string>palm up hand</string>
+	<key>👭</key>
+	<string>гар | хос | хөтлөлцсөн хоёр эмэгтэй | эмэгтэй | хөтлөлцсөн хоёр эмэгтэй</string>
+	<key>👨‍🦰</key>
+	<string>man with red hair</string>
+	<key>🫵</key>
+	<string>index pointing at the viewer</string>
+	<key>👮</key>
+	<string>офицер | цагдаа | цагдаа</string>
+	<key>🏊‍♂️</key>
+	<string>man swimmer</string>
+	<key>🫶</key>
+	<string>heart hands</string>
+	<key>👯</key>
+	<string>бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй | үдэшлэгт байгаа бүсгүй</string>
+	<key>🫷</key>
+	<string>leftwards pushing hand</string>
+	<key>👰</key>
+	<string>гивлүүр | гивлүүртэй хүн | сүйт бүсгүй | хурим | хүн | гивлүүртэй хүн</string>
+	<key>🫸</key>
+	<string>rightwards pushing hand</string>
+	<key>👱</key>
+	<string>үс | хүн | шаргал | шаргал үстэй хүн | шаргал үстэй хүн</string>
+	<key>✒️</key>
+	<string>fountain pen</string>
+	<key>👲</key>
+	<string>малгай | хятад малгай өмссөн эрэгтэй | Хятад малгайтай эрэгтэй | эрэгтэй | хятад малгай өмссөн эрэгтэй</string>
+	<key>🧍‍♀️</key>
+	<string>woman standing</string>
+	<key>👳</key>
+	<string>малгай | тюрбан | тюрбан малгайтай эрэгтэй | хүн | эрэгтэй | тюрбан малгайтай эрэгтэй</string>
+	<key>👨‍🦱</key>
+	<string>man with curly hair</string>
+	<key>👴</key>
+	<string>ахимаг | ахимаг насны эрэгтэй хүн | нас | хүн | эрэгтэй | ахимаг насны эрэгтэй хүн</string>
+	<key>🙆‍♂️</key>
+	<string>man gesturing OK</string>
+	<key>👵</key>
+	<string>ахимаг | ахимаг насны эмэгтэй хүн | нас | хүн | эмэгтай | ахимаг насны эмэгтэй хүн</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>family with mother, father, son and daughter</string>
+	<key>👶</key>
+	<string>нялх | хүүхэд | нялх хүүхэд</string>
+	<key>👷</key>
+	<string>ажилтан | барилга | барилгын ажилтан | эрэгтэй хүн | барилгын ажилтан</string>
+	<key>▫️</key>
+	<string>white small square</string>
+	<key>👸</key>
+	<string>гүнж | төсөөлөл | үлгэр | гүнж</string>
+	<key>🛢️</key>
+	<string>oil drum</string>
+	<key>☃️</key>
+	<string>snowman with snowflakes</string>
+	<key>👹</key>
+	<string>аварга | махчин | аварга махчин</string>
+	<key>🙋‍♀️</key>
+	<string>woman raising one hand</string>
+	<key>👺</key>
+	<string>мангас | онгод | төсөөлөл | шүтээн | шүтээн, онгод | япон | шүтээн, онгод</string>
+	<key>👨‍🦲</key>
+	<string>man with no hair</string>
+	<key>🇹🇦</key>
+	<string>flag of Tristan da Cunha</string>
+	<key>👻</key>
+	<string>аймшиг | сүнс | үхэл | сүнс</string>
+	<key>🇵🇦</key>
+	<string>flag of Panama</string>
+	<key>👼</key>
+	<string>инээмсэглэл | нялх | нялх сахиусан тэнгэр | сахиусан тэнгэр | төсөөлөл | нялх сахиусан тэнгэр</string>
+	<key>❣️</key>
+	<string>red heart as an exclamation mark</string>
+	<key>👽</key>
+	<string>амьтан | дам яриа | сансар | төсөөлөл | үлгэр домог | харь гариг | харь гаригийн амьтан | харь гаригийн амьтан</string>
+	<key>🇱🇦</key>
+	<string>flag of Laos</string>
+	<key>👾</key>
+	<string>мангас | сансар | төсөөлөл | үлгэр | харийн хүн | харь гариг | харь гаригийн мангас | харь гаригийн мангас</string>
+	<key>👿</key>
+	<string>ууртай | царай | чөтгөр | чөтгөр</string>
+	<key>💀</key>
+	<string>аймшиг | гавал | үхэл | гавал</string>
+	<key>🇱🇧</key>
+	<string>flag of Lebanon</string>
+	<key>👨‍🦳</key>
+	<string>man with white hair</string>
+	<key>💁</key>
+	<string>ажилтан | мэдээллийн ажилтан | мэдээлэл | эмэгтэй хүн | мэдээллийн ажилтан</string>
+	<key>🇹🇨</key>
+	<string>flag of the Turks &amp; Caicos Islands</string>
+	<key>🧜‍♂️</key>
+	<string>merman</string>
+	<key>💂</key>
+	<string>хамгаалагч | харуул | харуул</string>
+	<key>💃</key>
+	<string>бүжиг | бүжигчин | даашинз | эмэгтэй | бүжигчин</string>
+	<key>◼️</key>
+	<string>black medium square</string>
+	<key>🇱🇨</key>
+	<string>flag of Saint Lucia</string>
+	<key>💄</key>
+	<string>косметик | нүүрний будаг | уруулын будаг | уруулын будаг</string>
+	<key>🇹🇩</key>
+	<string>flag of Chad</string>
+	<key>💅</key>
+	<string>арчлах | косметик | маникур | хумс | хумсаа будах | хумсаа будах</string>
+	<key>💆</key>
+	<string>гоо сайхан | массаж | нүүр | нүүрний массаж | нүүрний массаж</string>
+	<key>💇</key>
+	<string>засалт | үс | хайч | эмэгтэй хүн | үс засалт</string>
+	<key>🗜️</key>
+	<string>clamp</string>
+	<key>💈</key>
+	<string>салон | үсчин | үсчин салон</string>
+	<key>💉</key>
+	<string>зүү | өвчтэй | тариа | тариур | эм | тариа</string>
+	<key>🇵🇪</key>
+	<string>flag of Peru</string>
+	<key>💊</key>
+	<string>өвчтэй | эм | эмч | эм</string>
+	<key>💋</key>
+	<string>уруул | үнсэлтийн мөр | үнсэх | хайр дурлал | ягаан | үнсэлтийн мөр</string>
+	<key>🇹🇫</key>
+	<string>flag of French Southern Territories</string>
+	<key>💌</key>
+	<string>дугтуй | захиа | хайр | хайрын захиа | хайрын захиа</string>
+	<key>👩‍❤️‍👩</key>
+	<string>two women with heart</string>
+	<key>🇵🇫</key>
+	<string>flag of French Polynesia</string>
+	<key>🛤️</key>
+	<string>railway track</string>
+	<key>💍</key>
+	<string>алмааз | бөгж | бөгж</string>
+	<key>🆎</key>
+	<string>ab | AB товчлуур (цусны бүлэг) | цусны бүлэг | AB товчлуур (цусны бүлэг)</string>
+	<key>🇩🇪</key>
+	<string>flag of Germany</string>
+	<key>🈂️</key>
+	<string>Japanese sign meaning “service” or “service charge”</string>
+	<key>💎</key>
+	<string>алмааз | үнэт эдлэл | эрдэнийн чулуу | эрдэнийн чулуу</string>
+	<key>♍️</key>
+	<string>Virgo</string>
+	<key>🇹🇬</key>
+	<string>flag of Togo</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>two women kissing</string>
+	<key>💏</key>
+	<string>үнсэлт | хос | үнсэлт</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>барих | гар | гар барилцаж буй хүмүүс | хосууд | хүн | гар барилцаж буй хүмүүс</string>
+	<key>💐</key>
+	<string>баглаа | ургамал | цэцгийн баглаа | цэцэг | цэцгийн баглаа</string>
+	<key>⛽️</key>
+	<string>fuel pump</string>
+	<key>🇵🇬</key>
+	<string>flag of Papua New Guinea</string>
+	<key>🖱️</key>
+	<string>computer mouse</string>
+	<key>🆑</key>
+	<string>cl | CL товчлуур | CL товчлуур</string>
+	<key>💑</key>
+	<string>дунд | дундаа зүрхтэй хосууд | зүрх | хайр | хос | дундаа зүрхтэй хосууд</string>
+	<key>🆒</key>
+	<string>cool | COOL товчлуур | COOL товчлуур</string>
+	<key>🇹🇭</key>
+	<string>flag of Thailand</string>
+	<key>💒</key>
+	<string>хайр дурлал | хурим | хурим</string>
+	<key>🆓</key>
+	<string>free | FREE товчлуур | FREE товчлуур</string>
+	<key>💓</key>
+	<string>зүрх | зүрхний цохилт | цохилж буй зүрх | цохилох | ягаан | цохилж буй зүрх</string>
+	<key>🆔</key>
+	<string>id | ID товчлуур | биеийн байцаалт | ID товчлуур</string>
+	<key>🇵🇭</key>
+	<string>flag of Philippines</string>
+	<key>👩‍⚖️</key>
+	<string>woman judge</string>
+	<key>💔</key>
+	<string>зүрх | шархалсан зүрх | шархлах | шархалсан зүрх</string>
+	<key>🇩🇬</key>
+	<string>flag of Diego Garcia</string>
+	<key>🆕</key>
+	<string>NEW товчлуур | шинэ | NEW товчлуур</string>
+	<key>🅿️</key>
+	<string>parking sign</string>
+	<key>💕</key>
+	<string>зүрх | хайр дурлал | хоёр | хос | хоёр зүрх</string>
+	<key>🤹‍♀️</key>
+	<string>woman juggling</string>
+	<key>🆖</key>
+	<string>ng | NG товчлуур | NG товчлуур</string>
+	<key>💖</key>
+	<string>гялалзаж байгаа зүрх | гялалзах | дурлал | зүрх | гялалзаж байгаа зүрх</string>
+	<key>🆗</key>
+	<string>OK | OK товчлуур | OK товчлуур</string>
+	<key>💗</key>
+	<string>лавширч буй | лавширч буй зүрх | сандарсан | хөөрсөн | цохилт | лавширч буй зүрх</string>
+	<key>👳‍♂️</key>
+	<string>man with turban</string>
+	<key>🆘</key>
+	<string>sos | SOS товчлуур | тусламж | SOS товчлуур</string>
+	<key>💘</key>
+	<string>зүрх | сум | сумаар харвасан зүрх | харвах | сумаар харвасан зүрх</string>
+	<key>🇱🇮</key>
+	<string>flag of Liechtenstein</string>
+	<key>🆙</key>
+	<string>дээшээ | дээшээ товчлуур | тэмдэглэх | дээшээ товчлуур</string>
+	<key>🈯️</key>
+	<string>Japanese sign meaning “reserved”</string>
+	<key>🇹🇯</key>
+	<string>flag of Tajikistan</string>
+	<key>💙</key>
+	<string>зүрх | цэнхэр | цэнхэр зүрх</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>family with two fathers and two sons</string>
+	<key>🆚</key>
+	<string>дөрвөлжин эсрэг тэмдэг | эсрэг | дөрвөлжин эсрэг тэмдэг</string>
+	<key>💚</key>
+	<string>зүрх | ногоон | ногоон зүрх</string>
+	<key>🇽🇰</key>
+	<string>flag of Kosovo</string>
+	<key>💛</key>
+	<string>зүрх | шар | шар зүрх</string>
+	<key>🗞️</key>
+	<string>rolled-up newspaper</string>
+	<key>💜</key>
+	<string>зүрх | нил ягаан | нил ягаан зүрх | нил ягаан зүрх</string>
+	<key>🇹🇰</key>
+	<string>flag of Tokelau</string>
+	<key>💝</key>
+	<string>зүрх | тууз | туузтай зүрх | туузтай зүрх</string>
+	<key>🇵🇰</key>
+	<string>flag of Pakistan</string>
+	<key>💞</key>
+	<string>зүрх | эргэлдэж буй зүрх | эргэлдэх | эргэлдэж буй зүрх</string>
+	<key>🇩🇯</key>
+	<string>flag of Djibouti</string>
+	<key>💟</key>
+	<string>зүрх | зүрхэн чимэглэл | чимэглэл | зүрхэн чимэглэл</string>
+	<key>🇱🇰</key>
+	<string>flag of Sri Lanka</string>
+	<key>🇹🇱</key>
+	<string>flag of Timor-Leste</string>
+	<key>👩‍🤝‍👨</key>
+	<string>woman and man holding hands</string>
+	<key>💠</key>
+	<string>алмааз | геометр | дотор | дундаа цэгтэй алмааз | комик | дундаа цэгтэй алмааз</string>
+	<key>🇭🇰</key>
+	<string>flag of Hong Kong</string>
+	<key>💡</key>
+	<string>гэрлийн чийдэн | гэрэл | инээдмийн | санаа | цахилгаан | чийдэн | гэрлийн чийдэн</string>
+	<key>🇵🇱</key>
+	<string>flag of Poland</string>
+	<key>🇩🇰</key>
+	<string>flag of Denmark</string>
+	<key>💢</key>
+	<string>дүрслэл | уурлаж байгаа дүрслэл | уурлах | уурлаж байгаа дүрслэл</string>
+	<key>🇹🇲</key>
+	<string>flag of Turkmenistan</string>
+	<key>💣</key>
+	<string>бөмбөг | тэсрэх | тэсрэх бөмбөг</string>
+	<key>⚗️</key>
+	<string>alembic</string>
+	<key>💤</key>
+	<string>төсөөлөл | унтаж байгаа | унтах | унтаж байгаа</string>
+	<key>🇵🇲</key>
+	<string>flag of Saint Pierre &amp; Miquelon</string>
+	<key>💥</key>
+	<string>зурагт ном | мөргөлдөөн | тэсрэлт | мөргөлдөөн</string>
+	<key>❇️</key>
+	<string>sparkle</string>
+	<key>💦</key>
+	<string>дусал | хөлс | хөлсний дусал | хөлсний дусал</string>
+	<key>🇹🇳</key>
+	<string>flag of Tunisia</string>
+	<key>🧑‍🦼</key>
+	<string>автомат удирдлагатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж | автомат удирдлагатай тэргэнцэртэй хүн</string>
+	<key>💧</key>
+	<string>дусал | ус | усны дусал | усны дусал</string>
+	<key>🇭🇲</key>
+	<string>flag of Heard and McDonald Islands</string>
+	<key>🇵🇳</key>
+	<string>flag of Pitcairn</string>
+	<key>💨</key>
+	<string>гүйж байгаа | эрч хүч | эрч хүчтэй | эрч хүчтэй</string>
+	<key>🇩🇲</key>
+	<string>flag of Dominica</string>
+	<key>💩</key>
+	<string>баас | овоолсон | овоолсон баас</string>
+	<key>🙎‍♀️</key>
+	<string>woman pouting</string>
+	<key>🇹🇴</key>
+	<string>flag of Tonga</string>
+	<key>💪</key>
+	<string>булчин | гар | гарын булчин | гарын булчин</string>
+	<key>🇭🇳</key>
+	<string>flag of Honduras</string>
+	<key>👩‍👦</key>
+	<string>family with mother and son</string>
+	<key>💫</key>
+	<string>од | төөрөгдүүлсэн | төөрөгдүүлэх | төөрөгдүүлсэн</string>
+	<key>💇‍♂️</key>
+	<string>man getting a haircut</string>
+	<key>💬</key>
+	<string>төсөөлөл | шаар | яриа | ярианы хэсэг | ярианы хэсэг</string>
+	<key>☸️</key>
+	<string>wheel of dharma</string>
+	<key>💭</key>
+	<string>бодож байгаа бөмбөлөг | бодох | бөмбөлөг | бодож байгаа бөмбөлөг</string>
+	<key>🧑‍🦽</key>
+	<string>гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж | гар ажиллагаатай тэргэнцэртэй хүн</string>
+	<key>💮</key>
+	<string>ургамал | цагаан | цэцэг | цагаан цэцэг</string>
+	<key>💯</key>
+	<string>дээд | зуу | зуун оноо | оноо | зуун оноо</string>
+	<key>🇩🇴</key>
+	<string>flag of the Dominican Republic</string>
+	<key>💰</key>
+	<string>доллар | мөнгө | мөнгөтэй цүнх | цүнх | мөнгөтэй цүнх</string>
+	<key>💱</key>
+	<string>арилжаа | банк | валют | мөнгө | валют арилжаа</string>
+	<key>😵‍💫</key>
+	<string>асуудалтай | нүд нь эрчлээтэй царай | паах | спираль | толгой нь эргэсэн | ховсдуулсан | нүд нь эрчлээтэй царай</string>
+	<key>👩‍👧</key>
+	<string>family with mother and daughter</string>
+	<key>🧟‍♂️</key>
+	<string>man zombie</string>
+	<key>💲</key>
+	<string>доллар | долларын тэмдэг | тэмдэг | долларын тэмдэг</string>
+	<key>💳</key>
+	<string>карт | кредит | мөнгө | кредит карт</string>
+	<key>🇹🇷</key>
+	<string>flag of Türkiye</string>
+	<key>💴</key>
+	<string>банкны мөнгөн тэмдэгт | валют | иен | иений мөнгөн тэмдэгт | мөнгө | нэхэмжлэх | тэмдэгт | иений мөнгөн тэмдэгт</string>
+	<key>💵</key>
+	<string>банкны мөнгөн тэмдэгт | валют | доллар | долларын мөнгөн тэмдэгт | мөнгө | нэхэмжлэх | тэмдэгт | долларын мөнгөн тэмдэгт</string>
+	<key>🇵🇷</key>
+	<string>flag of Puerto Rico</string>
+	<key>💶</key>
+	<string>банкны мөнгөн тэмдэгт | валют | евро | евроны мөнгөн тэмдэгт | мөнгө | нэхэмжлэх | евроны мөнгөн тэмдэгт</string>
+	<key>🇱🇷</key>
+	<string>flag of Liberia</string>
+	<key>💷</key>
+	<string>банкны мөнгөн тэмдэгт | валют | мөнгө | нэхэмжлэх | тэмдэгт | фунт | фунтын мөнгөн тэмдэгт | фунтын мөнгөн тэмдэгт</string>
+	<key>💸</key>
+	<string>банкны мөнгөн тэмдэгт | далавч | далавчтай мөнгө | мөнгө | нисэх | нэхэмжлэх | далавчтай мөнгө</string>
+	<key>🇭🇷</key>
+	<string>flag of Croatia</string>
+	<key>🇵🇸</key>
+	<string>flag of the Palestinian Territories</string>
+	<key>💹</key>
+	<string>график | диаграмм | иен | иений өсч буй диаграмм | иенийн өсч буй диаграм | мөнгө | өсөлт | иенийн өсч буй диаграм</string>
+	<key>💺</key>
+	<string>сандал | суудал | суудал</string>
+	<key>🇱🇸</key>
+	<string>flag of Lesotho</string>
+	<key>🇹🇹</key>
+	<string>flag of Trinidad &amp; Tobago</string>
+	<key>💻</key>
+	<string>pc | зөөврийн компьютер | компьютер | суурин компьютер | зөөврийн компьютер</string>
+	<key>💼</key>
+	<string>ажил хэргийн цүнх | ажил хэргийн цүнх</string>
+	<key>👨‍🦼</key>
+	<string>моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эрэгтэй | моторт тэргэнцэртэй эрэгтэй</string>
+	<key>🇵🇹</key>
+	<string>flag of Portugal</string>
+	<key>💽</key>
+	<string>диск | компьютер | компьютерын диск | мини диск | оптикал | компьютерын диск</string>
+	<key>🇱🇹</key>
+	<string>flag of Lithuania</string>
+	<key>💾</key>
+	<string>диск | компьютер | уян | уян диск</string>
+	<key>🇭🇹</key>
+	<string>flag of Haiti</string>
+	<key>💿</key>
+	<string>cd | диск | компьютер | оптик диск | оптикал | оптик диск</string>
+	<key>📀</key>
+	<string>blu-ray | dvd | диск | компьютер | оптикал | dvd</string>
+	<key>🤷‍♂️</key>
+	<string>man shrugging</string>
+	<key>📁</key>
+	<string>файл | файлын хавтас | файлын хавтас</string>
+	<key>🇱🇺</key>
+	<string>flag of Luxembourg</string>
+	<key>☪️</key>
+	<string>star and crescent</string>
+	<key>🇹🇻</key>
+	<string>flag of Tuvalu</string>
+	<key>📂</key>
+	<string>нээх | онгорхой файлын хавтас | файл | хавтас | онгорхой файлын хавтас</string>
+	<key>4️⃣</key>
+	<string>keycap digit four</string>
+	<key>🇭🇺</key>
+	<string>flag of Hungary</string>
+	<key>👨‍🦽</key>
+	<string>тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | эрэгтэй | тэргэнцэртэй эрэгтэй</string>
+	<key>📃</key>
+	<string>бичиг баримт | хуудас | хуудас</string>
+	<key>🖊️</key>
+	<string>ballpoint pen</string>
+	<key>📄</key>
+	<string>бичиг баримт | цаас | цаас</string>
+	<key>🇱🇻</key>
+	<string>flag of Latvia</string>
+	<key>🇹🇼</key>
+	<string>flag of Taiwan</string>
+	<key>📅</key>
+	<string>календарь | огноо | календарь</string>
+	<key>🤼‍♀️</key>
+	<string>women wrestling</string>
+	<key>📆</key>
+	<string>календарь | урдаг календарь | урдаг календарь</string>
+	<key>🇵🇼</key>
+	<string>flag of Palau</string>
+	<key>📇</key>
+	<string>карт | картын индекс | тэмдэглэлийн цаас | эргэдэг тэмдэглэлийн цаас | картын индекс</string>
+	<key>📈</key>
+	<string>график | диаграмм | дээшээ | өсөлт | өсч буй диаграмм | чиг хандлага | өсч буй диаграмм</string>
+	<key>🧑‍🔧</key>
+	<string>механик | сантехникч | худалдаачин | цахилгаанчин | механик</string>
+	<key>📉</key>
+	<string>буурах | буурч буй диаграмм | диаграмм | чиг хандлага | буурч буй диаграмм</string>
+	<key>〰️</key>
+	<string>wavy dash</string>
+	<key>📊</key>
+	<string>график | үзүүлэлт | хүснэгт | график хүснэгт</string>
+	<key>📋</key>
+	<string>самбар | самбар</string>
+	<key>☣️</key>
+	<string>biohazard</string>
+	<key>📌</key>
+	<string>хатгуур | хатгуур кноп | хатгуур</string>
+	<key>♻️</key>
+	<string>recycling symbol</string>
+	<key>📍</key>
+	<string>бөөрөнхий | тогтоогч | бөөрөнхий тогтоогч</string>
+	<key>🇵🇾</key>
+	<string>flag of Paraguay</string>
+	<key>⛓️</key>
+	<string>chains</string>
+	<key>📎</key>
+	<string>цаасны хавчаар | цаасны хавчаар</string>
+	<key>🧎‍♂️</key>
+	<string>man kneeling</string>
+	<key>🇱🇾</key>
+	<string>flag of Libya</string>
+	<key>📏</key>
+	<string>шугам | шулуун өнцөг | шулуун шугам | шугам</string>
+	<key>🇹🇿</key>
+	<string>flag of Tanzania</string>
+	<key>📐</key>
+	<string>багц | гурвалжин | шугам | гурвалжин шугам</string>
+	<key>📑</key>
+	<string>номын хавчуурга | номын хавчуургын табууд | табууд | тодруулагч | тэмдэг | номын хавчуургын табууд</string>
+	<key>📒</key>
+	<string>дэвтэр | өвөр | өврийн дэвтэр | өврийн дэвтэр</string>
+	<key>📓</key>
+	<string>дэвтэр | дэвтэр</string>
+	<key>👩‍🤝‍👩</key>
+	<string>women holding hands</string>
+	<key>📔</key>
+	<string>ном | тэмдэглэлийн дэвтэр | хавтас | чимэглэсэн | чимэглэсэн хавтастай тэмдэглэлийн дэвтэр | чимэглэсэн хавтастай тэмдэглэлийн дэвтэр</string>
+	<key>🇩🇿</key>
+	<string>flag of Algeria</string>
+	<key>📕</key>
+	<string>ном | хаалттай | хаалттай ном</string>
+	<key>📖</key>
+	<string>ном | нээлттэй | нээлттэй ном</string>
+	<key>📗</key>
+	<string>ногоон | ном | ногоон ном</string>
+	<key>🖌️</key>
+	<string>paintbrush</string>
+	<key>📘</key>
+	<string>ном | цэнхэр | цэнхэр ном</string>
+	<key>📙</key>
+	<string>ном | улбар шар | улбар шар ном | улбар шар ном</string>
+	<key>👩‍👩‍👦</key>
+	<string>family with two mothers and son</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>family with two fathers and two daughters</string>
+	<key>📚</key>
+	<string>ном | номнууд | ном</string>
+	<key>📛</key>
+	<string>нэр | нэрийн тэмдэг | нэрийн тэмдэг</string>
+	<key>📜</key>
+	<string>хуйлмал | цаас | хуйлмал</string>
+	<key>📝</key>
+	<string>тэмдэглэл | харандаа | тэмдэглэл</string>
+	<key>↖️</key>
+	<string>up-left arrow</string>
+	<key>🤦‍♂️</key>
+	<string>man facepalming</string>
+	<key>📞</key>
+	<string>утас | утасны харилцуур | хүлээн авагч | утасны харилцуур</string>
+	<key>👩‍🎓</key>
+	<string>оюутан | төгсөгч | эм | эмэгтэй | эмэгтэй оюутан</string>
+	<key>👩‍🚒</key>
+	<string>гал командын машин | гал сөнөөгч | эм | эмэгтэй | эмэгтэй гал сөнөөгч | эмэгтэй гал сөнөөгч</string>
+	<key>⤴️</key>
+	<string>right arrow curving up</string>
+	<key>👨‍🔧</key>
+	<string>механик | сантехникч | худалдаачин | цахилгаанчин | эрэгтэй | эрэгтэй механикч | эрэгтэй механикч</string>
+	<key>📟</key>
+	<string>пейжер | пейжер</string>
+	<key>☕️</key>
+	<string>hot beverage</string>
+	<key>📠</key>
+	<string>факс | факсын машин | факсын машин</string>
+	<key>📡</key>
+	<string>антен | таваг | хиймэл дагуул | хиймэл дагуулын антен | хиймэл дагуулын антен</string>
+	<key>⛅️</key>
+	<string>sun behind cloud</string>
+	<key>📢</key>
+	<string>олон нийт | чанга | яригч | чанга яригч</string>
+	<key>🧑‍🌾</key>
+	<string>фермер | цэцэрлэгч | фермер</string>
+	<key>✝️</key>
+	<string>Latin cross</string>
+	<key>📣</key>
+	<string>дэмжих | цагаан хоолойн чанга яригч | цагаан хоолойн чанга яригч</string>
+	<key>📤</key>
+	<string>захиа | хайрцаг | явуулсан | явуулсан хайрцаг</string>
+	<key>📥</key>
+	<string>захиа | ирсэн | хайрцаг | ирсэн хайрцаг</string>
+	<key>📦</key>
+	<string>илгээмж | хайрцаг | илгээмж</string>
+	<key>📧</key>
+	<string>захиа | имэйл | имэйл</string>
+	<key>📨</key>
+	<string>дугтуй | захиа | имэйл | ирж буй | ирж буй дугтуй | хүлээж авах | электрон имэйл | ирж буй дугтуй</string>
+	<key>📩</key>
+	<string>дугтуй | илгээж буй | имэйл | сум | сумтай дугтуй | электрон шуудан | сумтай дугтуй</string>
+	<key>▶️</key>
+	<string>right-pointing triangle</string>
+	<key>🧑‍🔬</key>
+	<string>биологич | инженер | физикч | химич | шинжлэх ухаанч | шинжлэх ухаанч</string>
+	<key>📪</key>
+	<string>буулгасан | захиа | туг нь буусан хаалттай шуудангийн хайрцаг | хаалттай | шуудангийн хайрцаг | туг нь буусан хаалттай шуудангийн хайрцаг</string>
+	<key>☎️</key>
+	<string>telephone</string>
+	<key>🈷️</key>
+	<string>Japanese sign meaning “monthly amount”</string>
+	<key>♦️</key>
+	<string>diamonds suit</string>
+	<key>📫</key>
+	<string>захиа | өргөсөн тугтай хаалттай шуудангийн хайрцаг | хаалттай | шуудангийн хайрцаг | өргөсөн тугтай хаалттай шуудангийн хайрцаг</string>
+	<key>📬</key>
+	<string>онгорхой | тугтай онгорхой шуудангийн хайрцаг | Тугтай онгорхой шуудангийн хайрцаг | шуудан | шуудангийн хайрцаг | Тугтай онгорхой шуудангийн хайрцаг</string>
+	<key>⚾️</key>
+	<string>baseball</string>
+	<key>📭</key>
+	<string>буулгасан | онгорхой | тугийг нь буулгасан онгорхой шуудангийн хайрцаг | шуудан | шуудангийн хайрцаг | тугийг нь буулгасан онгорхой шуудангийн хайрцаг</string>
+	<key>✖️</key>
+	<string>multiplication symbol</string>
+	<key>📮</key>
+	<string>хайрцаг | шуудан | шуудангийн хайрцаг | шуудангийн хайрцаг</string>
+	<key>📯</key>
+	<string>бүрээ | шуудан | шуудангийн | шуудангийн бүрээ</string>
+	<key>🏄‍♀️</key>
+	<string>woman surfer</string>
+	<key>📰</key>
+	<string>мэдээ | сонин | цаас | сонин</string>
+	<key>📱</key>
+	<string>гар утас | мобайл | утас | гар утас</string>
+	<key>🎗️</key>
+	<string>reminder ribbon</string>
+	<key>📲</key>
+	<string>гар утсыг заасан нум | мобайл | сум | сумтай гар утас | утас | хүлээн авах | гар утсыг заасан нум</string>
+	<key>📳</key>
+	<string>горим | чичрэх | чичрэх горим</string>
+	<key>📴</key>
+	<string>гар | унтраалттай | утас | гар утас унтраалттай</string>
+	<key>📵</key>
+	<string>болохгүй | гар утас | гар утас ашиглаж болохгүй | мобайл | утас | утас ашиглах хориотой | хориглосон | утас ашиглах хориотой</string>
+	<key>♟️</key>
+	<string>chess pawn</string>
+	<key>📶</key>
+	<string>антен | антенын багана | гар утас | мобайл | сүлжээний багана | утас | сүлжээний багана</string>
+	<key>📷</key>
+	<string>видео | камер | камер</string>
+	<key>✏️</key>
+	<string>pencil</string>
+	<key>📸</key>
+	<string>видео | гэрэл | гэрэл асдаг камер | камер | гэрэл асдаг камер</string>
+	<key>👨‍🌾</key>
+	<string>ногооч эр | тариачин | фермер | эрэгтэй | эрэгтэй тариачин</string>
+	<key>📹</key>
+	<string>видео | камер | видео камер</string>
+	<key>📺</key>
+	<string>видео | зурагт | тв | зурагт</string>
+	<key>🐻‍❄️</key>
+	<string>polar bear</string>
+	<key>📻</key>
+	<string>видео | радио | радио</string>
+	<key>📼</key>
+	<string>видео | видеоны хуурцаг | хуурцаг | видеоны хуурцаг</string>
+	<key>☀️</key>
+	<string>sun</string>
+	<key>📿</key>
+	<string>зүүлт | мөргөлч | хувцас | хүзүүний зүүлт | шашин | эрх | эрх</string>
+	<key>👨‍🔬</key>
+	<string>биологич | инженер | физикч | химич | эрэгтэй | эрэгтэй эрдэмтэн | эрэгтэй эрдэмтэн</string>
+	<key>🔀</key>
+	<string>дуунуудыг холих товчлуур | огтолцсон | сум | дуунуудыг холих товчлуур</string>
+	<key>🈁</key>
+	<string>&amp;quot;энд&amp;quot; | катакана | Японоор &amp;quot;энд&amp;quot; гэсэн товчлуур | ココ | Японоор &amp;quot;энд&amp;quot; гэсэн товчлуур</string>
+	<key>⚰️</key>
+	<string>coffin</string>
+	<key>🔁</key>
+	<string>давтах | сум | товчлуур | цагийн зүү | давтах товчлуур</string>
+	<key>🖐️</key>
+	<string>raised hand with fingers splayed</string>
+	<key>✈️</key>
+	<string>airplane</string>
+	<key>🔂</key>
+	<string>дахин 1 удаа давтах товчлуур | дахин нэг удаа давтах товчлуур | нэг удаа | сум | цагийн зүү | дахин 1 удаа давтах товчлуур</string>
+	<key>🗨️</key>
+	<string>left speech bubble</string>
+	<key>🔃</key>
+	<string>босоо | сум | цагийн зүү | цагийн зүүний босоо сум | цагийн зүүний босоо сум</string>
+	<key>🧖‍♀️</key>
+	<string>woman in a sauna</string>
+	<key>🔄</key>
+	<string>товчлуур | цагийн зүү | цагийн зүүний эсрэг товчлуур | эсрэг | цагийн зүүний эсрэг товчлуур</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>family with two mothers and two sons</string>
+	<key>👩‍⚕️</key>
+	<string>woman health worker</string>
+	<key>™️</key>
+	<string>trade mark sign</string>
+	<key>🔅</key>
+	<string>бүдгэрүүлэх | товчлуур | бүдгэрүүлэх товчлуур</string>
+	<key>🔆</key>
+	<string>товчлуур | цайруулах | цайруулах товчлуур</string>
+	<key>🎙️</key>
+	<string>studio microphone</string>
+	<key>🔇</key>
+	<string>хаалттай | хаалттай чанга яригч | чанга яригч | чанга яригч хаалттай | чимээгүй | чанга яригч хаалттай</string>
+	<key>🔈</key>
+	<string>зөөлөн | чанга яригчийн дууны түвшин нам | чанга яригчийн дууны түвшин нам</string>
+	<key>🛰️</key>
+	<string>satellite</string>
+	<key>🔉</key>
+	<string>дунд зэрэг | чанга яригчийн дууны түвшин дунд зэрэг | чанга яригчийн дууны түвшин дунд зэрэг</string>
+	<key>♑️</key>
+	<string>Capricorn</string>
+	<key>🔊</key>
+	<string>чанга | чанга яригчийн дууны түвшин чанга | чанга яригчийн дууны түвшин чанга</string>
+	<key>🔋</key>
+	<string>батарей | батарей</string>
+	<key>🔌</key>
+	<string>залгуур | тог | цахилгаан | залгуур</string>
+	<key>👩‍👩‍👧</key>
+	<string>family with two mothers and daughter</string>
+	<key>🔍</key>
+	<string>зүүн | зүүн тийш хазайлгасан томруулагч шил | томруулагч | шил | зүүн тийш хазайлгасан томруулагч шил</string>
+	<key>🔎</key>
+	<string>баруун | баруун тийш хазайлгасан томруулагч шил | томруулагч | шил | баруун тийш хазайлгасан томруулагч шил</string>
+	<key>🔏</key>
+	<string>бал | бэх | нууцлал | түгжээ | цоож, бал | цоож, бал</string>
+	<key>🔐</key>
+	<string>аюулгүй | түгжээ | түлхүүр | хаалттай | цоож, түлхүүр | цоож, түлхүүр</string>
+	<key>🔑</key>
+	<string>нууц үг | түлхүүр | цоож | түлхүүр</string>
+	<key>🔒</key>
+	<string>хаалттай | цоожтой | цоожтой</string>
+	<key>🔓</key>
+	<string>нээлттэй | онгорхой цоож | түгжээ тайлах | түгжээгүй | түгжээтэй | онгорхой цоож</string>
+	<key>♊️</key>
+	<string>Gemini</string>
+	<key>🔔</key>
+	<string>нээлттэй хонх | хонх | нээлттэй хонх</string>
+	<key>🔕</key>
+	<string>дууг хаасан | хонх | хонхны зургийг дарсан | хориглосон | чимээгүй | хориглосон хонх</string>
+	<key>⛺️</key>
+	<string>tent</string>
+	<key>🔖</key>
+	<string>номны хавчуурга | тэмдэглэх | номны хавчуурга</string>
+	<key>🔗</key>
+	<string>гогцоо | гогцоо</string>
+	<key>🔘</key>
+	<string>бөөрөнхий товчлуур | геометр | радио | товчлуур | бөөрөнхий товчлуур</string>
+	<key>🔙</key>
+	<string>буцах | БУЦАХ сум | сум | БУЦАХ сум</string>
+	<key>🔚</key>
+	<string>сум | төгсөх | төгсөх сум</string>
+	<key>🔛</key>
+	<string>дээр | дээр гэсэн сум | сум | дээр гэсэн сум</string>
+	<key>🎛️</key>
+	<string>control knobs</string>
+	<key>🔜</key>
+	<string>сум | удахгүй | удахгүй гэсэн сум | удахгүй гэсэн сум</string>
+	<key>🏳️</key>
+	<string>white flag</string>
+	<key>🔝</key>
+	<string>дээш | дээшээ гэсэн сум | сум | дээшээ гэсэн сум</string>
+	<key>🔞</key>
+	<string>18 | 18-с доош насныханд хориглоно | арван найм | арван наймаас доош насныхан боломжгүй | насны хязгаараас доош настай | насны хязгаартай | хориглосон | 18-с доош насныханд хориглоно</string>
+	<key>🔟</key>
+	<string>keycap ten</string>
+	<key>⚛️</key>
+	<string>atom symbol</string>
+	<key>🔠</key>
+	<string>ABCD | латин | латин том үсгийн оролт | оролт | том үсэг | үсэг | латин том үсгийн оролт</string>
+	<key>⛳️</key>
+	<string>golf hole with flag</string>
+	<key>🔡</key>
+	<string>abcd | жижиг үсэг | латин | латин жижиг үсгийн оролт | оролт | үсэг | латин жижиг үсгийн оролт</string>
+	<key>🤽‍♂️</key>
+	<string>man playing water polo</string>
+	<key>🔢</key>
+	<string>1234 | оролт | тоо | тоон оролт | тоон оролт</string>
+	<key>🔣</key>
+	<string>дүрс | дүрс тэмдгийн оролт | оролт | тэмдэг | дүрс тэмдгийн оролт</string>
+	<key>🔤</key>
+	<string>abc | латин | латин үсгийн оролт | оролт | үсэг | цагаан толгой | латин үсгийн оролт</string>
+	<key>🔥</key>
+	<string>гал | гал хэрэгсэл | гал</string>
+	<key>🔦</key>
+	<string>багаж | гар чийдэн | гэрэл | цахилгаан | гар чийдэн</string>
+	<key>🔧</key>
+	<string>түлхүүр | чангалах | эрэг | эрэг чангалах түлхүүр</string>
+	<key>🔨</key>
+	<string>алх | багаж | алх</string>
+	<key>🔩</key>
+	<string>боолт | эрэг | эрэг боолт</string>
+	<key>⚔️</key>
+	<string>crossed swords</string>
+	<key>🔪</key>
+	<string>гал тогоо | гал тогооны хутга | хутга | гал тогооны хутга</string>
+	<key>🔫</key>
+	<string>багаж | буу | гар буу | зэвсэг | гар буу</string>
+	<key>❄️</key>
+	<string>snowflake</string>
+	<key>🔬</key>
+	<string>багаж | микроскоп | микроскоп</string>
+	<key>💁‍♀️</key>
+	<string>information desk woman</string>
+	<key>🔭</key>
+	<string>багаж | телескоп | телескоп</string>
+	<key>🔮</key>
+	<string>бөмбөлөг | кристал | төсөөлөл | үлгэр | кристал бөмбөлөг</string>
+	<key>🧔‍♂️</key>
+	<string>bearded man</string>
+	<key>🔯</key>
+	<string>6 | 6 хошуутай од | од | хошуу | 6 хошуутай од</string>
+	<key>🔰</key>
+	<string>анхлан суралцагч | навч | шеврон | Японы | Японы анхлан суралцагчийн тэмдэг | Японы анхлан суралцагчийн тэмдэг</string>
+	<key>🔱</key>
+	<string>багаж | зангуу | лусын хааны сэрээ | сүлд | сэрээ | усан онгоц | лусын хааны сэрээ</string>
+	<key>🈲</key>
+	<string>&amp;quot;хориотой&amp;quot; | дүрс үсэг | Японоор &amp;quot;хориотой&amp;quot; гэсэн товчлуур | 禁 | Японоор &amp;quot;хориотой&amp;quot; гэсэн товчлуур</string>
+	<key>🏵️</key>
+	<string>rosette</string>
+	<key>🔲</key>
+	<string>геометр | дөрвөлжин | товчлуур | хар дөрвөлжин товчлуур | хар дөрвөлжин товчлуур</string>
+	<key>🈳</key>
+	<string>&amp;quot;сул&amp;quot; | дүрс үсэг | Японоор &amp;quot;сул гэсэн товчлуур | Японоор &amp;quot;сул&amp;quot; гэсэн товчлуур | 空 | Японоор &amp;quot;сул&amp;quot; гэсэн товчлуур</string>
+	<key>🔳</key>
+	<string>геометр | дөрвөлжин | товч | хүрээтэй | цагаан дөрвөлжин товчлуур | цагаан дөрвөлжин товчлуур</string>
+	<key>🈴</key>
+	<string>&amp;quot;босго оноо&amp;quot; | дүрс үсэг | Японоор &amp;quot;босго оноо&amp;quot; гэсэн товчлуур | 合 | Японоор &amp;quot;босго оноо&amp;quot; гэсэн товчлуур</string>
+	<key>🧙‍♀️</key>
+	<string>woman mage</string>
+	<key>🔴</key>
+	<string>геометр | тойрог | улаан | улаан тойрог</string>
+	<key>🈵</key>
+	<string>&amp;quot;сул зай байхгүй&amp;quot; | дүрс үсэг | Японоор &amp;quot;сул зай байхгүй&amp;quot; гэсэн товчлуур | 満 | Японоор &amp;quot;сул зай байхгүй&amp;quot; гэсэн товчлуур</string>
+	<key>🔵</key>
+	<string>геометр | тойрог | цэнхэр | цэнхэр тойрог</string>
+	<key>🈶</key>
+	<string>&amp;quot;үнэгүй биш&amp;quot; | дүрс үсэг | Японоор &amp;quot;үнэгүй биш&amp;quot; гэсэн товчлуур | 有 | Японоор &amp;quot;үнэгүй биш&amp;quot; гэсэн товчлуур</string>
+	<key>🔶</key>
+	<string>алмааз | геометр | том улбар шар алмааз | улбар шар | том улбар шар алмааз</string>
+	<key>🔷</key>
+	<string>алмааз | геометр | том цэнхэр алмааз | цэнхэр | том цэнхэр алмааз</string>
+	<key>🈸</key>
+	<string>&amp;quot;хүсэлт гаргах&amp;quot; | дүрс үсэг | Японоор &amp;quot;хүсэлт гаргах&amp;quot; гэсэн товчлуур | 申 | Японоор &amp;quot;хүсэлт гаргах&amp;quot; гэсэн товчлуур</string>
+	<key>🔸</key>
+	<string>алмааз | геометр | жижиг улбар шар алмааз | улбар шар | жижиг улбар шар алмааз</string>
+	<key>🈹</key>
+	<string>&amp;quot;хямдрал&amp;quot; | дүрс үсэг | Японоор &amp;quot;хямдрал&amp;quot; гэсэн товчлуур | 割 | Японоор &amp;quot;хямдрал&amp;quot; гэсэн товчлуур</string>
+	<key>🔹</key>
+	<string>алмааз | геометр | жижиг цэнхэр алмааз | цэнхэр | жижиг цэнхэр алмааз</string>
+	<key>9️⃣</key>
+	<string>keycap digit nine</string>
+	<key>🈺</key>
+	<string>&amp;quot;бизнесүүдэд нээлттэй&amp;quot; | дүрс үсэг | Японоор &amp;quot;бизнесүүдэд нээлттэй&amp;quot; гэсэн товчлуур | Японоор &amp;quot;бизнесүүдэд нээлттэй&amp;quot; товчлуур | 営 | Японоор &amp;quot;бизнесүүдэд нээлттэй&amp;quot; гэсэн товчлуур</string>
+	<key>🔺</key>
+	<string>геометр | дээшээ харсан гурвалжин | улаан | дээшээ харсан гурвалжин</string>
+	<key>🔻</key>
+	<string>геометр | доош | доошоо харсан гурвалжин | улаан | доошоо харсан гурвалжин</string>
+	<key>🀄️</key>
+	<string>mahjong tile red dragon</string>
+	<key>🔼</key>
+	<string>дээшээ заасан товчлуур | нэмэх | сум | товчлуур | дээшээ заасан товчлуур</string>
+	<key>🚵‍♀️</key>
+	<string>woman mountain biker</string>
+	<key>☮️</key>
+	<string>peace symbol</string>
+	<key>🔽</key>
+	<string>буулгах | доошоо заасан товчлуур | сум | товчлуур | доошоо заасан товчлуур</string>
+	<key>👨‍👦‍👦</key>
+	<string>family with father and two sons</string>
+	<key>⬅️</key>
+	<string>left arrow</string>
+	<key>⛎</key>
+	<string>од | одны орд | орд | одны орд</string>
+	<key>🎟️</key>
+	<string>admission ticket</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>family with two mothers and two daughters</string>
+	<key>🏷️</key>
+	<string>label tag</string>
+	<key>2️⃣</key>
+	<string>keycap digit two</string>
+	<key>♿️</key>
+	<string>wheelchair symbol</string>
+	<key>👰‍♀️</key>
+	<string>woman with veil</string>
+	<key>🗃️</key>
+	<string>card file box</string>
+	<key>🕋</key>
+	<string>ислам | кааба | шашин | кааба</string>
+	<key>🕌</key>
+	<string>бурхан | лалын сүм | мөргөл | шашин | шинто | лалын сүм</string>
+	<key>🕍</key>
+	<string>жүүдийн сүм | шашин | жүүдийн сүм</string>
+	<key>🕎</key>
+	<string>лааны суурь | шүтлэг | лааны суурь</string>
+	<key>👩‍🎤</key>
+	<string>дуучин | жүжигчин | од | рок | эмэгтэй | эмэгтэй дуучин</string>
+	<key>🉐</key>
+	<string>&amp;quot;арилжаа&amp;quot; | дүрс үсэг | Японоор &amp;quot;арилжаа&amp;quot; гэсэн товчлуур | 得 | Японоор &amp;quot;арилжаа&amp;quot; гэсэн товчлуур</string>
+	<key>🏌️</key>
+	<string>golfer</string>
+	<key>🛋️</key>
+	<string>couch and lamp</string>
+	<key>🕐</key>
+	<string>00 | 1 | 1:00 | нэг | цаг | нэг цаг</string>
+	<key>🏊‍♀️</key>
+	<string>woman swimmer</string>
+	<key>🉑</key>
+	<string>&amp;quot;зөвшөөрөх&amp;quot; | дүрс үсэг | Японоор &amp;quot;зөвшөөрөх&amp;quot; гэсэн товчлуур | Японы &amp;quot;зөвшөөрөх&amp;quot; гэсэн товчлуур | 可 | Японоор &amp;quot;зөвшөөрөх&amp;quot; гэсэн товчлуур</string>
+	<key>☠️</key>
+	<string>skull and crossbones</string>
+	<key>🕑</key>
+	<string>00 | 2 | 2:00 | хоёр | цаг | хоёр цаг</string>
+	<key>🕒</key>
+	<string>00 | 3 | 3:00 | гурав | гурван цаг | цаг | гурван цаг</string>
+	<key>🏋️‍♀️</key>
+	<string>woman weightlifter</string>
+	<key>🕓</key>
+	<string>00 | 4 | 4:00 | дөрвөн цаг | дөрөв | цаг | дөрвөн цаг</string>
+	<key>🕔</key>
+	<string>00 | 5 | 5:00 | тав | таван цаг | цаг | таван цаг</string>
+	<key>🕕</key>
+	<string>00 | 6 | 6:00 | зургаа | зургаан цаг | цаг | зургаан цаг</string>
+	<key>🕖</key>
+	<string>00 | 7 | 7:00 | долоо | долоон цаг | цаг | долоон цаг</string>
+	<key>🙆‍♀️</key>
+	<string>woman gesturing OK</string>
+	<key>🕗</key>
+	<string>00 | 8 | 8:00 | найм | найман цаг | цаг | найман цаг</string>
+	<key>🕘</key>
+	<string>00 | 9 | 9:00 | ес | есөн цаг | цаг | есөн цаг</string>
+	<key>🕙</key>
+	<string>00 | 10 | 10:00 | арав | арван цаг | цаг | арван цаг</string>
+	<key>🕚</key>
+	<string>00 | 11 | 11:00 | арван нэг | арван нэгэн цаг | цаг | арван нэгэн цаг</string>
+	<key>🕛</key>
+	<string>00 | 12 | 12:00 | арван хоёр | арван хоёр цаг | цаг | арван хоёр цаг</string>
+	<key>🕜</key>
+	<string>1 | 1:30 | гуч | нэг | нэг цаг гучин минут | цаг | нэг цаг гучин минут</string>
+	<key>🇺🇦</key>
+	<string>flag of Ukraine</string>
+	<key>🕝</key>
+	<string>2 | 2:30 | гуч | хоёр | хоёр цаг гучин минут | цаг | хоёр цаг гучин минут</string>
+	<key>🇶🇦</key>
+	<string>flag of Qatar</string>
+	<key>🕞</key>
+	<string>3 | 3:30 | гурав | гурван цаг гучин минут | гуч | цаг | гурван цаг гучин минут</string>
+	<key>✡️</key>
+	<string>Star of David</string>
+	<key>🇲🇦</key>
+	<string>flag of Morocco</string>
+	<key>🕟</key>
+	<string>4 | 4:30 | гуч | дөрвөн цаг гучин минут | дөрөв | цаг | дөрвөн цаг гучин минут</string>
+	<key>🧗‍♂️</key>
+	<string>man rock climber</string>
+	<key>🕠</key>
+	<string>5 | 5:30 | гуч | тав | таван цаг гучин минут | цаг | таван цаг гучин минут</string>
+	<key>🕡</key>
+	<string>6 | 6:30 | гуч | зургаа | зургаан цаг гучин минут | цаг | зургаан цаг гучин минут</string>
+	<key>🇪🇦</key>
+	<string>flag of Ceuta and Melilla</string>
+	<key>🕢</key>
+	<string>7 | 7:30 | гуч | долоо | долоон цаг гучин минут | цаг | долоон цаг гучин минут</string>
+	<key>✅</key>
+	<string>зөвлөх | тэмдэг | цагаан | цагаан зөвлөх тэмдэг</string>
+	<key>🕣</key>
+	<string>8 | 8:30 | гуч | найм | найман цаг гучин минут | цаг | найман цаг гучин минут</string>
+	<key>🧜‍♀️</key>
+	<string>mermaid</string>
+	<key>🏎️</key>
+	<string>race car</string>
+	<key>🕤</key>
+	<string>9 | 9:30 | гуч | ес | есөн цаг гучин минут | цаг | есөн цаг гучин минут</string>
+	<key>🛍️</key>
+	<string>shopping bags</string>
+	<key>🕥</key>
+	<string>10 | 10:30 | арав | арван цаг гучин минут | гуч | цаг | арван цаг гучин минут</string>
+	<key>✊</key>
+	<string>гар | зангидах | зангидсан гар | зангидсан гар</string>
+	<key>🇲🇨</key>
+	<string>flag of Monaco</string>
+	<key>✋</key>
+	<string>гар | өргөсөн гар | өргөсөн гар</string>
+	<key>🕦</key>
+	<string>11 | 11:30 | арван нэг | арван нэг гуч | арван нэгэн цаг гучин минут | гуч | цаг | арван нэгэн цаг гучин минут</string>
+	<key>🕧</key>
+	<string>12 | 12:30 | арван хоёр | арван хоёр гуч | арван хоёр цаг гучин минут | гуч | цаг | арван хоёр цаг гучин минут</string>
+	<key>🇮🇨</key>
+	<string>flag of the Canary Islands</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>flag of Wales</string>
+	<key>🇾🇪</key>
+	<string>flag of Yemen</string>
+	<key>🇪🇨</key>
+	<string>flag of Ecuador</string>
+	<key>👩‍🎨</key>
+	<string>будгийн хавтан | зураач | эм | эмэгтэй | эмэгтэй зураач</string>
+	<key>🇲🇩</key>
+	<string>flag of Moldova</string>
+	<key>🇦🇨</key>
+	<string>flag of Ascension Island</string>
+	<key>🇮🇩</key>
+	<string>flag of Indonesia</string>
+	<key>🇲🇪</key>
+	<string>flag of Montenegro</string>
+	<key>🇦🇩</key>
+	<string>flag of Andorra</string>
+	<key>🇮🇪</key>
+	<string>flag of Ireland</string>
+	<key>🇪🇪</key>
+	<string>flag of Estonia</string>
+	<key>🇲🇫</key>
+	<string>flag of Saint Martin</string>
+	<key>🇺🇬</key>
+	<string>flag of Uganda</string>
+	<key>♣️</key>
+	<string>clubs suit</string>
+	<key>🇦🇪</key>
+	<string>flag of the United Arab Emirates</string>
+	<key>🕯️</key>
+	<string>candle</string>
+	<key>🇲🇬</key>
+	<string>flag of Madagascar</string>
+	<key>🇦🇫</key>
+	<string>flag of Afghanistan</string>
+	<key>👮‍♂️</key>
+	<string>policeman</string>
+	<key>🇪🇬</key>
+	<string>flag of Egypt</string>
+	<key>🇲🇭</key>
+	<string>flag of the Marshall Islands</string>
+	<key>✨</key>
+	<string>гэрэлтэх | од | гэрэлтэх</string>
+	<key>🇦🇬</key>
+	<string>flag of Antigua &amp; Barbuda</string>
+	<key>🛏️</key>
+	<string>bed</string>
+	<key>👳‍♀️</key>
+	<string>woman with turban</string>
+	<key>🇪🇭</key>
+	<string>flag of Western Sahara</string>
+	<key>☄️</key>
+	<string>comet</string>
+	<key>🕺</key>
+	<string>бүжиглэх | залуу | бүжиглэх залуу</string>
+	<key>✌️</key>
+	<string>peace hand sign</string>
+	<key>❤️</key>
+	<string>red heart</string>
+	<key>⏭️</key>
+	<string>skip forward symbol</string>
+	<key>🇦🇮</key>
+	<string>flag of Anguilla</string>
+	<key>🇲🇰</key>
+	<string>flag of North Macedonia</string>
+	<key>◽️</key>
+	<string>white medium small square</string>
+	<key>🇲🇱</key>
+	<string>flag of Mali</string>
+	<key>🈚️</key>
+	<string>Japanese sign meaning “free of charge”</string>
+	<key>🇺🇲</key>
+	<string>flag of United States Minor Outlying Islands</string>
+	<key>🇮🇱</key>
+	<string>flag of Israel</string>
+	<key>🇲🇲</key>
+	<string>flag of Myanmar (Burma)</string>
+	<key>💂‍♂️</key>
+	<string>guardsman</string>
+	<key>🇺🇳</key>
+	<string>flag of the United Nations</string>
+	<key>🇦🇱</key>
+	<string>flag of Albania</string>
+	<key>🧑‍💻</key>
+	<string>зохион бүтээгч | код бичигч | програм хангамж | технологич | хөгжүүлэгч | технологич</string>
+	<key>🇮🇲</key>
+	<string>flag of the Isle of Man</string>
+	<key>⛹️‍♂️</key>
+	<string>man basketball player</string>
+	<key>🇲🇳</key>
+	<string>flag of Mongolia</string>
+	<key>🇦🇲</key>
+	<string>flag of Armenia</string>
+	<key>🇮🇳</key>
+	<string>flag of India</string>
+	<key>❌</key>
+	<string>× | x | тэмдэг | үржвэр | үржих | хэрээс | хэрээсэн тэмдэг | цуцлах | хэрээсэн тэмдэг</string>
+	<key>💇‍♀️</key>
+	<string>woman getting a haircut</string>
+	<key>❎</key>
+	<string>× | x | дөрвөлжин | тэмдэг | хэрээс тэмдэгт товч | хэрээсэн товч | хэрээсэн товч</string>
+	<key>🇲🇴</key>
+	<string>flag of Macao</string>
+	<key>♎️</key>
+	<string>Libra</string>
+	<key>🧚‍♂️</key>
+	<string>man fairy</string>
+	<key>🧑‍💼</key>
+	<string>архитектор | бизнес | менежер | оффисын ажилтан | цагаан захтан | оффисын ажилтан</string>
+	<key>🇮🇴</key>
+	<string>flag of the British Indian Ocean Territory</string>
+	<key>❓</key>
+	<string>? | асуулт | асуултын тэмдэг | улаан асуултын тэмдэг | цэг тэмдэг | улаан асуултын тэмдэг</string>
+	<key>❔</key>
+	<string>? | асуулт | тэмдэг | цагаан асуултын тэмдэг | цэг | цагаан асуултын тэмдэг</string>
+	<key>🇲🇵</key>
+	<string>flag of the Northern Mariana Islands</string>
+	<key>❕</key>
+	<string>! | анхаарлын тэмдэг | тэмдэг | цагаан анхаарлын тэмдэг | цагаан анхааруулгын тэмдэг | цэг | цагаан анхааруулгын тэмдэг</string>
+	<key>🇦🇴</key>
+	<string>flag of Angola</string>
+	<key>🧟‍♀️</key>
+	<string>woman zombie</string>
+	<key>🖕</key>
+	<string>алга | гар | дунд | хуруу | дунд хуруу</string>
+	<key>🇲🇶</key>
+	<string>flag of Martinique</string>
+	<key>🖖</key>
+	<string>вулкан | гар | дохио зангаа | мэндчилгээ | вулкан мэндчилгээ</string>
+	<key>🇮🇶</key>
+	<string>flag of Iraq</string>
+	<key>🚶‍♂️</key>
+	<string>man pedestrian</string>
+	<key>🇲🇷</key>
+	<string>flag of Mauritania</string>
+	<key>🇺🇸</key>
+	<string>flag of the United States</string>
+	<key>🇦🇶</key>
+	<string>flag of Antarctica</string>
+	<key>🇮🇷</key>
+	<string>flag of Iran</string>
+	<key>🕳️</key>
+	<string>hole</string>
+	<key>⌨️</key>
+	<string>keyboard</string>
+	<key>🇾🇹</key>
+	<string>flag of Mayotte</string>
+	<key>🇪🇷</key>
+	<string>flag of Eritrea</string>
+	<key>⛷️</key>
+	<string>skier</string>
+	<key>🇲🇸</key>
+	<string>flag of Montserrat</string>
+	<key>🇦🇷</key>
+	<string>flag of Argentina</string>
+	<key>🇮🇸</key>
+	<string>flag of Iceland</string>
+	<key>👨‍💻</key>
+	<string>зохион бүтээгч | кодлогч | програм хангамж | технологич | хөгжүүлэгч | эрэгтэй технологич | эрэгтэй технологич</string>
+	<key>🌤️</key>
+	<string>sun behind small cloud</string>
+	<key>🇪🇸</key>
+	<string>flag of Spain</string>
+	<key>🇲🇹</key>
+	<string>flag of Malta</string>
+	<key>🇦🇸</key>
+	<string>flag of American Samoa</string>
+	<key>🇮🇹</key>
+	<string>flag of Italy</string>
+	<key>❤️‍🩹</key>
+	<string>mending heart</string>
+	<key>🏔️</key>
+	<string>snow capped mountain</string>
+	<key>🇪🇹</key>
+	<string>flag of Ethiopia</string>
+	<key>🤷‍♀️</key>
+	<string>woman shrugging</string>
+	<key>🇲🇺</key>
+	<string>flag of Mauritius</string>
+	<key>🇦🇹</key>
+	<string>flag of Austria</string>
+	<key>🖤</key>
+	<string>зүрх | хар | хар зүрх</string>
+	<key>👩‍🦯</key>
+	<string>таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | эмэгтэй | таягтай хараагүй эмэгтэй</string>
+	<key>👱‍♂️</key>
+	<string>man with blond hair</string>
+	<key>👨‍💼</key>
+	<string>архитект | бизнес | менежер | оффисын ажилтан эрэгтэй | эрэгтэй | эрэгтэй оффисын ажилтан | эрэгтэй оффисын ажилтан</string>
+	<key>⛰️</key>
+	<string>mountain</string>
+	<key>🇪🇺</key>
+	<string>flag of European Union</string>
+	<key>🇲🇻</key>
+	<string>flag of Maldives</string>
+	<key>🇦🇺</key>
+	<string>flag of Australia</string>
+	<key>🇲🇼</key>
+	<string>flag of Malawi</string>
+	<key>👩‍🦰</key>
+	<string>woman with red hair</string>
+	<key>🇲🇽</key>
+	<string>flag of Mexico</string>
+	<key>🇺🇾</key>
+	<string>flag of Uruguay</string>
+	<key>🇦🇼</key>
+	<string>flag of Aruba</string>
+	<key>☹️</key>
+	<string>frowning face</string>
+	<key>⌚️</key>
+	<string>watch</string>
+	<key>🕵️</key>
+	<string>detective</string>
+	<key>⛩️</key>
+	<string>Shinto shrine</string>
+	<key>🇲🇾</key>
+	<string>flag of Malaysia</string>
+	<key>🧎‍♀️</key>
+	<string>woman kneeling</string>
+	<key>🇺🇿</key>
+	<string>flag of Uzbekistan</string>
+	<key>🇦🇽</key>
+	<string>flag of the Åland Islands</string>
+	<key>👩‍🦱</key>
+	<string>woman with curly hair</string>
+	<key>🙇‍♂️</key>
+	<string>man bowing</string>
+	<key>🌦️</key>
+	<string>sun behind rain cloud</string>
+	<key>🇲🇿</key>
+	<string>flag of Mozambique</string>
+	<key>🏖️</key>
+	<string>beach with umbrella</string>
+	<key>👩‍🦲</key>
+	<string>woman with no hair</string>
+	<key>🇦🇿</key>
+	<string>flag of Azerbaijan</string>
+	<key>➕</key>
+	<string>+ | математик | нэмэх | тэмдэг | нэмэх</string>
+	<key>🕊️</key>
+	<string>dove</string>
+	<key>➖</key>
+	<string>- | − | маткематик | тэмдэг | хасах | хасах</string>
+	<key>➗</key>
+	<string>÷ | математик | тэмдэг | хуваах | хуваах</string>
+	<key>🗺️</key>
+	<string>world map</string>
+	<key>👩‍🦳</key>
+	<string>woman with white hair</string>
+	<key>7️⃣</key>
+	<string>keycap digit seven</string>
+	<key>🅰️</key>
+	<string>blood type A</string>
+	<key>🤦‍♀️</key>
+	<string>woman facepalming</string>
+	<key>🧝‍♂️</key>
+	<string>man elf</string>
+	<key>🕷️</key>
+	<string>spider</string>
+	<key>✳️</key>
+	<string>eight spoked asterisk</string>
+	<key>🌨️</key>
+	<string>cloud with snow</string>
+	<key>🦸‍♂️</key>
+	<string>man superhero</string>
+	<key>➰</key>
+	<string>буржгар | хүрд | буржгар хүрд</string>
+	<key>🏘️</key>
+	<string>group of houses</string>
+	<key>0️⃣</key>
+	<string>keycap digit zero</string>
+	<key>🤵‍♂️</key>
+	<string>man in tuxedo</string>
+	<key>⛔️</key>
+	<string>no entry</string>
+	<key>👨‍👧‍👦</key>
+	<string>family with father, son and daughter</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>family with mother, father and two sons</string>
+	<key>🧑‍🏫</key>
+	<string>багш | зааварлагч | профессор | багш</string>
+	<key>➿</key>
+	<string>буржгар | хоёр | хоёр буржгартай хүрд | хүрд | хоёр буржгартай хүрд</string>
+	<key>㊙️</key>
+	<string>Japanese sign meaning “secret”</string>
+	<key>☝️</key>
+	<string>index finger pointing up</string>
+	<key>🕹️</key>
+	<string>joystick</string>
+	<key>🗑️</key>
+	<string>wastebasket</string>
+	<key>🌪️</key>
+	<string>tornado</string>
+	<key>🧑‍🏭</key>
+	<string>аж үйлдвэрийн | ажилтан | угсрах | үйлдвэр | үйлдвэрийн ажилтан | үйлдвэрийн ажилтан</string>
+	<key>↗️</key>
+	<string>up-right arrow</string>
+	<key>⤵️</key>
+	<string>right arrow curving down</string>
+	<key>🏚️</key>
+	<string>derelict house</string>
+	<key>©️</key>
+	<string>copyright sign</string>
+	<key>👨‍🏫</key>
+	<string>багш | профессор | сургагч | эр | эрэгтэй | эрэгтэй багш</string>
+	<key>🗓️</key>
+	<string>spiral calendar</string>
+	<key>⏸️</key>
+	<string>pause symbol</string>
+	<key>🧑‍✈️</key>
+	<string>pilot</string>
+	<key>🌬️</key>
+	<string>wind blowing face</string>
+	<key>👨‍🏭</key>
+	<string>аж үйлдвэрийн | ажилтан | угсрах | үйлдвэр | эрэгтэй | эрэгтэй үйлдвэрийн ажилтан | эрэгтэй үйлдвэрийн ажилтан</string>
+	<key>🏜️</key>
+	<string>desert</string>
+	<key>♠️</key>
+	<string>spades suit</string>
+	<key>🖨️</key>
+	<string>printer</string>
+	<key>⏱️</key>
+	<string>stopwatch</string>
+	<key>👩‍🦼</key>
+	<string>моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эмэгтэй | моторт тэргэнцэртэй эмэгтэй</string>
+	<key>🗻</key>
+	<string>уул | фүжи | фүжи уул</string>
+	<key>🫱‍🫲</key>
+	<string>handshake</string>
+	<key>🗼</key>
+	<string>токио | цамхаг | токио цамхаг</string>
+	<key>🗽</key>
+	<string>хөшөө | эрх чөлөө | эрх чөлөөний хөшөө | эрх чөлөөний хөшөө</string>
+	<key>🗾</key>
+	<string>газрын зураг | Япон | Япон улсын газрын зураг | Япон улсын газрын зураг</string>
+	<key>🤸‍♂️</key>
+	<string>man doing a cartwheel</string>
+	<key>🌀</key>
+	<string>угалз | хар салхи | хуй салхи | циклон | циклон</string>
+	<key>🗿</key>
+	<string>хүн | чулуу | хүн чулуу</string>
+	<key>☁️</key>
+	<string>cloud</string>
+	<key>🌁</key>
+	<string>манан | манантай | цаг агаар | манантай</string>
+	<key>😀</key>
+	<string>инээсэн царай | инээх | царай | инээсэн царай</string>
+	<key>👩‍🦽</key>
+	<string>тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | эмэгтэй | тэргэнцэртэй эмэгтэй</string>
+	<key>🌂</key>
+	<string>бороо | нээгээгүй шүхэр | цаг агаар | шүхэр | нээгээгүй шүхэр</string>
+	<key>😁</key>
+	<string>инээх | нүд | нүдээ онийлгон инээсэн царай | онийлгох | царай | нүдээ онийлгон инээсэн царай</string>
+	<key>⚱️</key>
+	<string>funeral urn</string>
+	<key>🌃</key>
+	<string>од | одтой шөнө | шөнө | одтой шөнө</string>
+	<key>😂</key>
+	<string>инээх | нулимс гарах | нулимсаа гартал инээж буй царай | царай | нулимсаа гартал инээж буй царай</string>
+	<key>✉️</key>
+	<string>envelope</string>
+	<key>👨‍👧‍👧</key>
+	<string>family with father and two daughters</string>
+	<key>🤽‍♀️</key>
+	<string>woman playing water polo</string>
+	<key>🌄</key>
+	<string>дээгүүр | мандах | нар | толгод | уул | уулын толгод дээгүүр нар мандах | уулын толгод дээгүүр нар мандах</string>
+	<key>😃</key>
+	<string>ам | амаа ангайлган инээж буй царай | ангайлгах | инээх | царай | амаа ангайлган инээж буй царай</string>
+	<key>🌅</key>
+	<string>мандах | нар | нар мандах</string>
+	<key>😄</key>
+	<string>ам | амаа ангайлган нүдээ онийлгон инээж буй царай | ангайлгах | инээх | нүдээ онийлгон маасайтал инээсэн царай | нүдээ онийлгох | царай | нүдээ онийлгон маасайтал инээсэн царай</string>
+	<key>👷‍♂️</key>
+	<string>man construction worker</string>
+	<key>👨‍✈️</key>
+	<string>man pilot</string>
+	<key>🌆</key>
+	<string>бүрий | нар жаргах | үдшийн бүрийд хотын харагдац | үдэш | харагдац | хот | үдшийн бүрийд хотын харагдац</string>
+	<key>😅</key>
+	<string>амаа ангайн | амаа ангайн, бага зэргийн ичиж инээсэн царай | бага зэргийн ичиж инээж байгаа царай | хөлсөө гартал маасайтал инээсэн царай | хөлсөө гартал маасайтал инээсэн царай</string>
+	<key>🌇</key>
+	<string>жаргах | нар | нар жаргах</string>
+	<key>😆</key>
+	<string>ам | амаа ангайлган нүдээ тас аниад инээж байгаа царай | ангайлгах | инээх | нүд | нүдээ тас аниж маасайтал инээсэн царай | тас аних | царай | нүдээ тас аниж маасайтал инээсэн царай</string>
+	<key>🌈</key>
+	<string>солонго | цаг агаар | солонго</string>
+	<key>😇</key>
+	<string>инээмсэглэж буй сахиусан тэнгэрийн царай | инээмсэглэх | сахиусан тэнгэр | царай | инээмсэглэж буй сахиусан тэнгэрийн царай</string>
+	<key>🌉</key>
+	<string>гүүр | шөнийн гүүр | шөнө | шөнийн гүүр</string>
+	<key>😈</key>
+	<string>хорноор инээж байгаа царай | хорноор инээх | царай | хорноор инээж байгаа царай</string>
+	<key>🏞️</key>
+	<string>national park</string>
+	<key>🌊</key>
+	<string>давлагаа | далай | ус | усны давлагаа | усны давлагаа</string>
+	<key>😉</key>
+	<string>ирмэж байгаа царай | ирмэх | царай | ирмэж байгаа царай</string>
+	<key>🌋</key>
+	<string>галт | уул | цаг агаар | галт уул</string>
+	<key>😊</key>
+	<string>инээмсэглэх | ичингүйрэх | онийж инээмсэглэсэн царай | царай | онийж инээмсэглэсэн царай</string>
+	<key>♒️</key>
+	<string>Aquarius</string>
+	<key>🌌</key>
+	<string>сансар | сүүн зам | сүүн зам</string>
+	<key>😋</key>
+	<string>амттай | амттай хоол илэрхийлсэн царай | хоол | царай | амттай хоол илэрхийлсэн царай</string>
+	<key>⚪️</key>
+	<string>white circle</string>
+	<key>🌍</key>
+	<string>Африк | бөмбөрцөг | дэлхий | Европ | Европ-Африкийг харуулсан бөмбөрцөг | Европ-Африкийг харуулсан бөмбөрцөг</string>
+	<key>😌</key>
+	<string>тайвширсан | царай | тайвширсан царай</string>
+	<key>🧏‍♂️</key>
+	<string>Deaf man</string>
+	<key>✂️</key>
+	<string>scissors</string>
+	<key>🌎</key>
+	<string>Америк | Америкийг харуулсан бөмбөрцөг | бөмбөрцөг | дэлхий | харуулах | Америкийг харуулсан бөмбөрцөг</string>
+	<key>🤌</key>
+	<string>байцаалт | гарын зангаа | гарын хуруунуудаа нийлүүлж чимхэх | ёжтой | хуруунууд | чимхэх | гарын хуруунуудаа нийлүүлж чимхэх</string>
+	<key>😍</key>
+	<string>бундан | бундан нүдтэй инээмсэглэж байгаа царай | инээмсэглэх | нүд | царай | бундан нүдтэй инээмсэглэж байгаа царай</string>
+	<key>🌏</key>
+	<string>Австрали | Ази | Ази-Австралийг харуулсан бөмбөрцөг | бөмбөрцөг | дэлхий | харуулах | Ази-Австралийг харуулсан бөмбөрцөг</string>
+	<key>🤍</key>
+	<string>зүрх | цагаан | цагаан зүрх</string>
+	<key>😎</key>
+	<string>зүүх | инээмсэглэх | нарны шил | нарны шил зүүж инээмсэглэсэн царай | царай | нарны шил зүүж инээмсэглэсэн царай</string>
+	<key>🌐</key>
+	<string>бөмбөрцөг | дэлхий | зураас | өргөрөг | уртраг | уртраг, өргөргийн зураастай бөмбөрцөг | уртраг, өргөргийн зураастай бөмбөрцөг</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>family with mother, father and two daughters</string>
+	<key>🤎</key>
+	<string>зүрх | хүрэн | хүрэн зүрх</string>
+	<key>😏</key>
+	<string>ёжтой | царай | ёжтой царай</string>
+	<key>🌑</key>
+	<string>одон гариг | сар | цаг агаар | шинэ | шинэ сар</string>
+	<key>🤏</key>
+	<string>бага зэрэг | чимхэж буй гар | чимхэж буй гар</string>
+	<key>😐</key>
+	<string>төвийг сахисан царай | төвийг сахих | царай | төвийг сахисан царай</string>
+	<key>🧔‍♀️</key>
+	<string>bearded woman</string>
+	<key>🌒</key>
+	<string>сар | хавирган сар | хавирган сар (баруун) | хавирган сар (баруун)</string>
+	<key>🤐</key>
+	<string>амаа үдсэн | амаа үдсэн царай | царай | амаа үдсэн царай</string>
+	<key>😑</key>
+	<string>илрэлгүй | сэтгэл хөдлөл | сэтгэл хөдлөлийн илрэлгүй царай | царай | сэтгэл хөдлөлийн илрэлгүй царай</string>
+	<key>🙍‍♂️</key>
+	<string>man frowning</string>
+	<key>🌓</key>
+	<string>сар | улирал | эхний улирлын сар | эхнийх | эхний улирлын сар</string>
+	<key>🤑</key>
+	<string>ам | амандаа мөнгөтэй царай | мөнгөтэй | царай | амандаа мөнгөтэй царай</string>
+	<key>😒</key>
+	<string>үл тоосон | үл тоосон царай | царай | үл тоосон царай</string>
+	<key>🌔</key>
+	<string>бүтэн сарын өмнөх сар | гүдгэр сар | сар | бүтэн сарын өмнөх сар</string>
+	<key>🤒</key>
+	<string>халуунтай | халуунтай байгаа царай | царай | халуунтай байгаа царай</string>
+	<key>😓</key>
+	<string>хөлс даах | хүйтэн | хүйтэн хөлс даасан царай | царай | хүйтэн хөлс даасан царай</string>
+	<key>🌕</key>
+	<string>бүтэн | сар | бүтэн сар</string>
+	<key>🤓</key>
+	<string>ухаантай | царай | ухаантай царай</string>
+	<key>😔</key>
+	<string>гомдсон | царай | гомдсон царай</string>
+	<key>♋️</key>
+	<string>Cancer</string>
+	<key>🌖</key>
+	<string>бүтэн сарын дараах сар | гүдгэр сар | сар | бүтэн сарын дараах сар</string>
+	<key>🤔</key>
+	<string>бодож байгаа царай | бодох | царай | бодож байгаа царай</string>
+	<key>😕</key>
+	<string>царай | эргэлзсэн | эргэлзсэн царай</string>
+	<key>🌗</key>
+	<string>сар | сүүлийн | сүүлийн улирлын сар | улирал | цаг агаар | сүүлийн улирлын сар</string>
+	<key>🤕</key>
+	<string>зүүсэн | толгой | толгойндоо шархны боолт зүүсэн царай | царай | шархны боолт | толгойндоо шархны боолт зүүсэн царай</string>
+	<key>😖</key>
+	<string>будилсан | царай | будилсан царай</string>
+	<key>🌘</key>
+	<string>сар | хавирган сар | хавирган сар (зүүн) | хавирган сар (зүүн)</string>
+	<key>🤖</key>
+	<string>робот | царай | робот царай</string>
+	<key>😗</key>
+	<string>үнсэж байгаа царай | үнсэх | царай | үнсэж байгаа царай</string>
+	<key>🌙</key>
+	<string>сар | хавирган сар | хавирган сар</string>
+	<key>🤗</key>
+	<string>тэврэх | тэвэрч байгаа царай | царай | тэвэрч байгаа царай</string>
+	<key>😘</key>
+	<string>зүрх | үнсэлт | үнсэлт илгээж байгаа царай | царай | үнсэлт илгээж байгаа царай</string>
+	<key>🌚</key>
+	<string>нүүр | нүүртэй шинэ сар | сар | шинэ | нүүртэй шинэ сар</string>
+	<key>🤘</key>
+	<string>гар | рок | хуруу | эвэр | эвэрний тэмдэг | эвэрний тэмдэг</string>
+	<key>😙</key>
+	<string>аних | нүд | нүдээ аниад үнсэж байгаа царай | үнсэх | царай | нүдээ аниад үнсэж байгаа царай</string>
+	<key>🌛</key>
+	<string>нүүр | нүүртэй эхний хагас сар | сар | хагас | цаг агаар | нүүртэй эхний хагас сар</string>
+	<key>🤙</key>
+	<string>дохио | залгаарай | залгаарай дохио</string>
+	<key>😚</key>
+	<string>ичингүйрэн үнсэж байгаа царай | ичингүйрэх | үнсэх | царай | ичингүйрэн үнсэж байгаа царай</string>
+</dict>
+</plist>

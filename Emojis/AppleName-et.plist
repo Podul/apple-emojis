@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>ilm | kosmos | kuu | nägu | näoga kahanev kuu | poolkuu | näoga kahanev kuu</string>
+	<key>🤚</key>
+	<string>käsi | tõstetud | tõstetud käsi</string>
+	<key>😛</key>
+	<string>keel | nägu | suust väljas keelega nägu | suust väljas keelega nägu</string>
+	<key>👩‍🔧</key>
+	<string>elektrik | mehaanik | naine | naismehaanik | torulukksepp | naismehaanik</string>
+	<key>🌝</key>
+	<string>ere | ilm | kosmos | kuu | nägu | näoga täiskuu | täiskuu | näoga täiskuu</string>
+	<key>🤛</key>
+	<string>rusikas | vasakule | vasakule suunatud rusikas | vasakule suunatud rusikas</string>
+	<key>😜</key>
+	<string>keel | nägu | nali | silm | silmapilgutus | suust väljas keelega ja silma pilgutav nägu | suust väljas keelega ja silma pilgutav nägu</string>
+	<key>🌞</key>
+	<string>ere | ilm | kosmos | nägu | näoga päike | päike | näoga päike</string>
+	<key>🤜</key>
+	<string>paremale | paremale suunatud rusikas | rusikas | paremale suunatud rusikas</string>
+	<key>😝</key>
+	<string>keel | maitse | nägu | õudne | silm | suust väljas keelega ja suletud silmadega nägu | suust väljas keelega ja suletud silmadega nägu</string>
+	<key>🌟</key>
+	<string>helendav | sära | täht | helendav täht</string>
+	<key>🤝</key>
+	<string>käepigistus | käsi | kohtumine | tervitus | käepigistus</string>
+	<key>😞</key>
+	<string>kergendus | leevendus | nägu | pettunud | pettunud nägu</string>
+	<key>🌠</key>
+	<string>komeet | kosmos | langev | täht | langev täht</string>
+	<key>🤞</key>
+	<string>käsi | õnn | risti | sõrmed | sõrmed risti</string>
+	<key>😟</key>
+	<string>murelik | nägu | murelik nägu</string>
+	<key>🐈‍⬛</key>
+	<string>ebaõnn | kass | must | must kass</string>
+	<key>🤟</key>
+	<string>armastust väljendav žest | ILY | käsi | armastust väljendav žest</string>
+	<key>😠</key>
+	<string>nägu | tige | vihane | tige nägu</string>
+	<key>⚜️</key>
+	<string>fleur-de-lis</string>
+	<key>⛴️</key>
+	<string>ferry</string>
+	<key>🤠</key>
+	<string>kauboi | kauboimütsiga nägu | müts | nägu | kauboimütsiga nägu</string>
+	<key>😡</key>
+	<string>mossitav | nägu | punane | tige | viha | vihane | mossitav nägu</string>
+	<key>🤡</key>
+	<string>kloun | klouninägu | nägu | klouninägu</string>
+	<key>😢</key>
+	<string>kurb | nägu | nutt | nuttev nägu | pisar | nuttev nägu</string>
+	<key>⬛️</key>
+	<string>black large square</string>
+	<key>🤢</key>
+	<string>iiveldus | iiveldust tundev nägu | nägu | okse | iiveldust tundev nägu</string>
+	<key>😣</key>
+	<string>kannatamine | nägu | sihikindel nägu | sihikindel nägu</string>
+	<key>🤣</key>
+	<string>kõver | naer | naerust kõveras | naerust kõveras</string>
+	<key>😤</key>
+	<string>aur | nägu | nina | ninast auru ajav nägu | ninast auru ajav nägu</string>
+	<key>🤤</key>
+	<string>ila | ilastav nägu | nägu | ilastav nägu</string>
+	<key>😥</key>
+	<string>kergendus | leevendus | nägu | pettunud | pettunud, kuid kergendust tundev nägu | pettunud, kuid kergendust tundev nägu</string>
+	<key>🤥</key>
+	<string>nägu | vale | valetav nägu | valetav nägu</string>
+	<key>😦</key>
+	<string>avatud | avatud suuga mossitav nägu | mossis | nägu | suu | avatud suuga mossitav nägu</string>
+	<key>🤦</key>
+	<string>meeleheide | nägu | umbusk | meeleheide</string>
+	<key>😧</key>
+	<string>ahastus | ahastuses nägu | nägu | ahastuses nägu</string>
+	<key>🤧</key>
+	<string>aevastav nägu | aevastus | nägu | terviseks | aevastav nägu</string>
+	<key>😨</key>
+	<string>hirm | hirmunud nägu | hirmus | kartlik | nägu | hirmunud nägu</string>
+	<key>🤨</key>
+	<string>kergitatud kulmudega nägu | skeptiline | umbusaldav | kergitatud kulmudega nägu</string>
+	<key>😩</key>
+	<string>nägu | rammestunud | väsinud | rammestunud nägu</string>
+	<key>🤩</key>
+	<string>nägu | silmad | staar | staariga silmitsi | suu kõrvuni | staariga silmitsi</string>
+	<key>⚕️</key>
+	<string>staff of Aesculapius</string>
+	<key>😪</key>
+	<string>magamine | nägu | unine nägu | unine nägu</string>
+	<key>👁️‍🗨️</key>
+	<string>I am a witness</string>
+	<key>🤪</key>
+	<string>pöörase ilmega nägu | silm | suur | väike | pöörase ilmega nägu</string>
+	<key>😫</key>
+	<string>nägu | väsinud | väsinud nägu</string>
+	<key>🌭</key>
+	<string>hot dog | hotdog | viiner | vorst | hot dog</string>
+	<key>🤫</key>
+	<string>kuss! | sõrme suul hoidev nägu | vaikust | sõrme suul hoidev nägu</string>
+	<key>😬</key>
+	<string>grimass | grimassitav nägu | nägu | grimassitav nägu</string>
+	<key>🌮</key>
+	<string>mehhiko | tako | tako</string>
+	<key>🤬</key>
+	<string>suul olevate sümbolitega nägu | vandumine | suul olevate sümbolitega nägu</string>
+	<key>😭</key>
+	<string>kurb | nägu | nutmine | nutt | pisar | valjusti nuttev nägu | valjusti nuttev nägu</string>
+	<key>🌯</key>
+	<string>burrito | mehhiko | burrito</string>
+	<key>🤭</key>
+	<string>kätt suul hoidev nägu | ups | kätt suul hoidev nägu</string>
+	<key>😮</key>
+	<string>avatud | avatud suuga nägu | kaastunne | lahti | nägu | suu | avatud suuga nägu</string>
+	<key>🌰</key>
+	<string>kastan | taim | kastan</string>
+	<key>🤮</key>
+	<string>iiveldus | okse | oksendav nägu | oksendav nägu</string>
+	<key>😯</key>
+	<string>hämmingus | nägu | üllatunud | vaigistatud | vaigistatud nägu</string>
+	<key>🌱</key>
+	<string>idu | taim | võrse | võrse</string>
+	<key>🤯</key>
+	<string>plahvatav pea | šokeeritud | plahvatav pea</string>
+	<key>😰</key>
+	<string>avatud | higi | külm | külma higiga kaetud ja avatud suuga nägu | nägu | sinine | suu | külma higiga kaetud ja avatud suuga nägu</string>
+	<key>🌲</key>
+	<string>igihaljas | puu | taim | igihaljas puu</string>
+	<key>🤰</key>
+	<string>naine | rase | rase naine</string>
+	<key>😱</key>
+	<string>hirm | hirmul | hirmunud | hirmunult karjuv nägu | karje | munch | nägu | hirmunult karjuv nägu</string>
+	<key>🌳</key>
+	<string>leht | lehtpuu | puu | taim | lehtpuu</string>
+	<key>🤱</key>
+	<string>imetamine | imik | rind | rinnaga toitmine | rinnaga toitmine</string>
+	<key>😲</key>
+	<string>ehmunud | hämmastunud nägu | hämmastus | löödud | nägu | hämmastunud nägu</string>
+	<key>🛡️</key>
+	<string>shield</string>
+	<key>🌴</key>
+	<string>palm | palmipuu | puu | taim | palmipuu</string>
+	<key>🤲</key>
+	<string>palve | peopesad üleval koos | peopesad üleval koos</string>
+	<key>😳</key>
+	<string>nägu | punastamine | punastav nägu | punastav nägu</string>
+	<key>🌵</key>
+	<string>kaktus | taim | kaktus</string>
+	<key>🤳</key>
+	<string>kaamera | selfi | telefon | selfi</string>
+	<key>😴</key>
+	<string>magav nägu | nägu | uni | zzz | magav nägu</string>
+	<key>🤴</key>
+	<string>prints | prints</string>
+	<key>😵</key>
+	<string>nägu | oimetu | oimetu nägu</string>
+	<key>👩‍🌾</key>
+	<string>aednik | farmer | naine | naisfarmer | naisfarmer</string>
+	<key>🌷</key>
+	<string>lill | taim | tulp | tulp</string>
+	<key>🤵</key>
+	<string>inimene smokingus | mees | peigmees | inimene smokingus</string>
+	<key>😶</key>
+	<string>ilma suuta nägu | nägu | suu | vaikne | vaikus | ilma suuta nägu</string>
+	<key>🌸</key>
+	<string>kirsiõis | kirss | lill | õis | taim | kirsiõis</string>
+	<key>🤶</key>
+	<string>abikaasa | jõuluvana | jõuluvana abikaasa</string>
+	<key>😷</key>
+	<string>arst | haige | kirurgimaskiga kaetud nägu | külm | mask | nägu | ravim | kirurgimaskiga kaetud nägu</string>
+	<key>🌹</key>
+	<string>lill | roos | taim | roos</string>
+	<key>🤷</key>
+	<string>kehitus | õlakehitus | õlg | ükskõiksus | õlakehitus</string>
+	<key>😸</key>
+	<string>irve | kass | lõbusate silmadega irvitav kass | naeratus | nägu | silm | lõbusate silmadega irvitav kass</string>
+	<key>🌺</key>
+	<string>hibisk | lill | taim | hibisk</string>
+	<key>🤸</key>
+	<string>hundiratas | hundiratast viskav inimene | iluvõimlemine | inimene | sport | hundiratast viskav inimene</string>
+	<key>😹</key>
+	<string>kass | nägu | pisar | rõõm | rõõmupisarais kass | rõõmupisarais kass</string>
+	<key>🌻</key>
+	<string>lill | päevalill | päike | taim | päevalill</string>
+	<key>🤹</key>
+	<string>oskused | tasakaal | žongleerimine | žonglöör | žonglöör</string>
+	<key>😺</key>
+	<string>avatud suuga naeratav kass | kass | lahti | naeratus | nägu | suu | avatud suuga naeratav kass</string>
+	<key>🌼</key>
+	<string>lill | õis | taim | õis</string>
+	<key>🤺</key>
+	<string>inimene | mõõk | sport | vehkleja | vehklemine | vehkleja</string>
+	<key>😻</key>
+	<string>armastus | kass | naeratus | nägu | süda | südamekujuliste silmadega naeratav kass | südamekujuliste silmadega naeratav kass</string>
+	<key>🌽</key>
+	<string>mais | maisitõlvik | taim | tõlvik | maisitõlvik</string>
+	<key>😼</key>
+	<string>irooniline | kass | naeratus | nägu | viril | virilalt naeratav kass | virilalt naeratav kass</string>
+	<key>🇿🇦</key>
+	<string>flag of South Africa</string>
+	<key>👩‍🔬</key>
+	<string>bioloog | füüsik | insener | keemik | naisteadlane | naisteadlane</string>
+	<key>🌾</key>
+	<string>riis | riisitaim | taim | vihk | riisitaim</string>
+	<key>🤼</key>
+	<string>inimesed | maadlejad | maadlus | sport | maadlejad</string>
+	<key>😽</key>
+	<string>kass | nägu | silm | suletud silmadega suudlev kass | suudlus | suletud silmadega suudlev kass</string>
+	<key>🇻🇦</key>
+	<string>flag of Vatican City</string>
+	<key>🌿</key>
+	<string>leht | maitsetaim | taim | maitsetaim</string>
+	<key>🤽</key>
+	<string>inimene | sport | veepall | veepalli mängiv inimene | veepalli mängiv inimene</string>
+	<key>😾</key>
+	<string>kass | mossis | mossitav kass | nägu | mossitav kass</string>
+	<key>☯️</key>
+	<string>yin yang</string>
+	<key>🍀</key>
+	<string>leht | neli | nelja lehega ristik | ristik | taim | nelja lehega ristik</string>
+	<key>🤾</key>
+	<string>inimene | käsipall | käsipalli mängiv inimene | pall | sport | käsipalli mängiv inimene</string>
+	<key>😿</key>
+	<string>kass | kurb | nägu | nutt | nuttev kass | pisar | nuttev kass</string>
+	<key>🍁</key>
+	<string>langev | leht | taim | vaher | vahtraleht | vahtraleht</string>
+	<key>🤿</key>
+	<string>akvalang | snorgeldamine | sukeldumine | sukeldumismask | sukeldumismask</string>
+	<key>🧑‍🍳</key>
+	<string>kokk | peakokk | kokk</string>
+	<key>🇳🇦</key>
+	<string>flag of Namibia</string>
+	<key>🙀</key>
+	<string>kass | nägu | ootamatu | üllatunud | üllatus | üllatunud kass</string>
+	<key>🧗‍♀️</key>
+	<string>woman rock climber</string>
+	<key>⁉️</key>
+	<string>red exclamation mark and question mark</string>
+	<key>🍂</key>
+	<string>langenud leht | langev | leht | taim | langenud leht</string>
+	<key>🥀</key>
+	<string>lill | närbunud | närbunud lill</string>
+	<key>🙁</key>
+	<string>kulmukortsutus | nägu | veidi kulmu kortsutav nägu | veidi kulmu kortsutav nägu</string>
+	<key>🍃</key>
+	<string>leht | taim | tuul | tuules lendlev leht | tuules lendlev leht</string>
+	<key>🥁</key>
+	<string>muusika | trumm | trummipulgad | trumm</string>
+	<key>🙂</key>
+	<string>naeratus | naeratusega nägu | nägu | naeratusega nägu</string>
+	<key>⬆️</key>
+	<string>up arrow</string>
+	<key>🍄</key>
+	<string>mürgiseen | seen | seen</string>
+	<key>🥂</key>
+	<string>jooma | klaasid | kõlisevad klaasid | kõlks | tähistama | kõlisevad klaasid</string>
+	<key>🙃</key>
+	<string>nägu | tagurpidi | tagurpidi nägu</string>
+	<key>5️⃣</key>
+	<string>keycap digit five</string>
+	<key>🍅</key>
+	<string>köögivili | taim | tomat | tomat</string>
+	<key>🥃</key>
+	<string>joogiklaas | napsuklaas | viskiklaas | joogiklaas</string>
+	<key>🙄</key>
+	<string>nägu | pööritamine | pööritavate silmadega nägu | silmad | pööritavate silmadega nägu</string>
+	<key>🇻🇨</key>
+	<string>flag of Saint Vincent &amp; Grenadines</string>
+	<key>🇧🇦</key>
+	<string>flag of Bosnia &amp; Herzegovina</string>
+	<key>↩️</key>
+	<string>right arrow curving left</string>
+	<key>🍆</key>
+	<string>baklažaan | köögivili | taim | baklažaan</string>
+	<key>🥄</key>
+	<string>lauanõud | lusikas | lusikas</string>
+	<key>🙅</key>
+	<string>ei | eitav žest | käed | keelatud | žest | eitav žest</string>
+	<key>🍇</key>
+	<string>puuvili | taim | viinamari | viinamarjad | viinamarjad</string>
+	<key>🥅</key>
+	<string>sport | värav | väravavõrk | võrk | väravavõrk</string>
+	<key>🙆</key>
+	<string>käed | nõustuv žest | ok | žest | nõustuv žest</string>
+	<key>🛣️</key>
+	<string>motorway</string>
+	<key>🍈</key>
+	<string>melon | puuvili | taim | melon</string>
+	<key>🙇</key>
+	<string>kummardav inimene | kummardus | vabandus | žest | kummardav inimene</string>
+	<key>🇳🇨</key>
+	<string>flag of New Caledonia</string>
+	<key>🍉</key>
+	<string>arbuus | puuvili | taim | arbuus</string>
+	<key>🇧🇧</key>
+	<string>flag of Barbados</string>
+	<key>🥇</key>
+	<string>esimene | kuld | kuldmedal | medal | kuldmedal</string>
+	<key>🙈</key>
+	<string>ahv | kaetud silmadega ahv | keelatud | keeld | kuri | nägu | vaatamine | kaetud silmadega ahv</string>
+	<key>🍊</key>
+	<string>mandariin | puuvili | taim | mandariin</string>
+	<key>🥈</key>
+	<string>hõbe | hõbemedal | medal | teine | hõbemedal</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>flag of Scotland</string>
+	<key>🙉</key>
+	<string>ahv | kaetud kõrvadega ahv | keelatud | keeld | kuri | kuulamine | nägu | kaetud kõrvadega ahv</string>
+	<key>🍋</key>
+	<string>puuvili | sidrun | taim | sidrun</string>
+	<key>🥉</key>
+	<string>kolmas | medal | pronks | pronksmedal | pronksmedal</string>
+	<key>🙊</key>
+	<string>ahv | kaetud suuga ahv | keelatud | keeld | kuri | nägu | rääkimine | kaetud suuga ahv</string>
+	<key>🍌</key>
+	<string>banaan | puuvili | taim | banaan</string>
+	<key>🥊</key>
+	<string>kinnas | poks | poksikinnas | sport | poksikinnas</string>
+	<key>🇻🇪</key>
+	<string>flag of Venezuela</string>
+	<key>🙋</key>
+	<string>käsi | kätt tõstev rõõmus inimene | õnnelik | rõõmus | žest | kätt tõstev rõõmus inimene</string>
+	<key>🍍</key>
+	<string>ananass | puuvili | taim | ananass</string>
+	<key>🥋</key>
+	<string>džuudo | karate | riietus | võitluskunstid | võitluskunstide riietus | võitluskunstide riietus</string>
+	<key>🙌</key>
+	<string>hurraa | käed | tähistamine | ülestõstetud käed | žest | ülestõstetud käed</string>
+	<key>🇷🇪</key>
+	<string>flag of Réunion</string>
+	<key>🍎</key>
+	<string>õun | punane | puuvili | taim | punane õun</string>
+	<key>🥌</key>
+	<string>jääkeegli kivi | kivi | mäng | jääkeegli kivi</string>
+	<key>🙍</key>
+	<string>ilme | kulmu kortsutav inimene | kulmukortsutus | kulmu kortsutav inimene</string>
+	<key>🍏</key>
+	<string>õun | puuvili | roheline | taim | roheline õun</string>
+	<key>🇳🇪</key>
+	<string>flag of Niger</string>
+	<key>🥍</key>
+	<string>kahvpall | kahvpallikepp | kepp | pall | värav | kahvpall</string>
+	<key>🙎</key>
+	<string>ilme | mossis | mossitav | mossitav inimene | mossitav inimene</string>
+	<key>🅾️</key>
+	<string>blood type O</string>
+	<key>🇧🇩</key>
+	<string>flag of Bangladesh</string>
+	<key>🍐</key>
+	<string>pirn | puuvili | taim | pirn</string>
+	<key>🥎</key>
+	<string>kindad | pall | pehmepall | vise | pehmepall</string>
+	<key>🇯🇪</key>
+	<string>flag of Jersey</string>
+	<key>🙏</key>
+	<string>aitäh | käed | palve | palveasendis käed | tänan | žest | palveasendis käed</string>
+	<key>🍑</key>
+	<string>puuvili | taim | virsik | virsik</string>
+	<key>🥏</key>
+	<string>taldrikulennutamine | visketaldrik | visketaldrik</string>
+	<key>🍒</key>
+	<string>kirsid | kirss | puuvili | taim | kirsid</string>
+	<key>🥐</key>
+	<string>croissant | prantsuse | sai | sarvesai | toit | sarvesai</string>
+	<key>🇳🇫</key>
+	<string>flag of Norfolk Island</string>
+	<key>🍓</key>
+	<string>maasikas | mari | puuvili | taim | maasikas</string>
+	<key>🇻🇬</key>
+	<string>flag of the British Virgin Islands</string>
+	<key>🇧🇪</key>
+	<string>flag of Belgium</string>
+	<key>🥑</key>
+	<string>avokaado | puuvili | toit | avokaado</string>
+	<key>🍔</key>
+	<string>burger | hamburger | hamburger</string>
+	<key>🥒</key>
+	<string>köögivili | kurk | toit | kurk</string>
+	<key>⛑️</key>
+	<string>helmet with white cross</string>
+	<key>🍕</key>
+	<string>juust | pitsa | pizza | viil | pitsa</string>
+	<key>🥓</key>
+	<string>liha | peekon | toit | peekon</string>
+	<key>🇳🇬</key>
+	<string>flag of Nigeria</string>
+	<key>🍖</key>
+	<string>kondiga liha | kont | liha | luu | kondiga liha</string>
+	<key>🥔</key>
+	<string>juurvili | kartul | toit | kartul</string>
+	<key>👨‍🍳</key>
+	<string>kokk | mees | meeskokk | meeskokk</string>
+	<key>🇧🇫</key>
+	<string>flag of Burkina Faso</string>
+	<key>🍗</key>
+	<string>kana | kanakoib | koib | kont | luu | kanakoib</string>
+	<key>👮‍♀️</key>
+	<string>policewoman</string>
+	<key>🥕</key>
+	<string>juurvili | porgand | toit | porgand</string>
+	<key>⭐️</key>
+	<string>star</string>
+	<key>🍘</key>
+	<string>leib | riis | riisiküpsis | riisiküpsis</string>
+	<key>🥖</key>
+	<string>baguette | pikk | sai | toit | baguette</string>
+	<key>🗝️</key>
+	<string>old key</string>
+	<key>🌶️</key>
+	<string>hot pepper</string>
+	<key>🍙</key>
+	<string>pall | riis | riisipall | riisipall</string>
+	<key>🥗</key>
+	<string>roheline | salat | toit | roheline salat</string>
+	<key>🏃‍♂️</key>
+	<string>man runner</string>
+	<key>🇻🇮</key>
+	<string>flag of the US Virgin Islands</string>
+	<key>🇧🇬</key>
+	<string>flag of Bulgaria</string>
+	<key>🍚</key>
+	<string>keedetud | riis | keedetud riis</string>
+	<key>🥘</key>
+	<string>paella | panniroog | toit | panniroog</string>
+	<key>🍛</key>
+	<string>karri | karriga riis | riis | karriga riis</string>
+	<key>🥙</key>
+	<string>falafel | kebab | täidetud pita | toit | täidetud pita</string>
+	<key>🍜</key>
+	<string>aur | aurav kauss | kauss | nuudel | aurav kauss</string>
+	<key>🥚</key>
+	<string>muna | toit | muna</string>
+	<key>🛥️</key>
+	<string>motorboat</string>
+	<key>🇳🇮</key>
+	<string>flag of Nicaragua</string>
+	<key>🍝</key>
+	<string>pasta | spagetid | spagetid</string>
+	<key>🥛</key>
+	<string>jook | klaas | klaas piima | piim | klaas piima</string>
+	<key>🇧🇭</key>
+	<string>flag of Bahrain</string>
+	<key>🍞</key>
+	<string>leib | päts | leib</string>
+	<key>🥜</key>
+	<string>maapähkel | maapähklid | pähkel | toit | maapähklid</string>
+	<key>🍟</key>
+	<string>friikartul | friikartulid | friikartulid</string>
+	<key>👨‍👨‍👦</key>
+	<string>family with two fathers and son</string>
+	<key>🥝</key>
+	<string>kiivi | puuvili | toit | kiivi</string>
+	<key>🇫🇮</key>
+	<string>flag of Finland</string>
+	<key>🤾‍♂️</key>
+	<string>man playing handball</string>
+	<key>🍠</key>
+	<string>kartul | röstitud | röstitud bataat | röstitud bataat</string>
+	<key>🖲️</key>
+	<string>trackball</string>
+	<key>🥞</key>
+	<string>crêpe | pannkoogid | pannkook | toit | pannkoogid</string>
+	<key>🇧🇮</key>
+	<string>flag of Burundi</string>
+	<key>🍡</key>
+	<string>dango | magus | magustoit | pulk | dango</string>
+	<key>🥟</key>
+	<string>empanada | gyōza | jiaozi | pelmeen | pierogi | pelmeen</string>
+	<key>🍢</key>
+	<string>kebab | mereannid | oden | pulk | oden</string>
+	<key>🥠</key>
+	<string>ennustus | õnneküpsis | õnneküpsis</string>
+	<key>🇫🇯</key>
+	<string>flag of Fiji</string>
+	<key>🍣</key>
+	<string>suši | suši</string>
+	<key>🥡</key>
+	<string>kaasamüügikarp | kiirtoidukarp | kaasamüügikarp</string>
+	<key>🍤</key>
+	<string>krevett | praetud | tempura | praetud krevett</string>
+	<key>🥢</key>
+	<string>hashi | söögipulgad | söögipulgad</string>
+	<key>🇧🇯</key>
+	<string>flag of Benin</string>
+	<key>↔️</key>
+	<string>left-right arrow</string>
+	<key>🍥</key>
+	<string>keerdudega kalakotlet | kook | spiraal | tort | keerdudega kalakotlet</string>
+	<key>🥣</key>
+	<string>hommikueine | hommikusöögihelbed | lusikaga kauss | riisipuding | lusikaga kauss</string>
+	<key>🍦</key>
+	<string>jäätis | magus | magustoit | pehme | pehme jäätis</string>
+	<key>🇿🇲</key>
+	<string>flag of Zambia</string>
+	<key>🇫🇰</key>
+	<string>flag of the Falkland Islands</string>
+	<key>🥤</key>
+	<string>kõrrega tops | limonaad | mahl | kõrrega tops</string>
+	<key>🏌️‍♀️</key>
+	<string>woman golfer</string>
+	<key>🇳🇱</key>
+	<string>flag of Netherlands</string>
+	<key>🍧</key>
+	<string>jää | magus | magustoit | mahlajää | mahlajää</string>
+	<key>🥥</key>
+	<string>kookospähkel | palm | piña colada | kookospähkel</string>
+	<key>🍨</key>
+	<string>jäätis | magus | magustoit | jäätis</string>
+	<key>🥦</key>
+	<string>brokoli | metskapsas | brokoli</string>
+	<key>🍩</key>
+	<string>magus | magustoit | sõõrik | sõõrik</string>
+	<key>🥧</key>
+	<string>pirukas | täidis | pirukas</string>
+	<key>🖇️</key>
+	<string>linked paperclips</string>
+	<key>🍪</key>
+	<string>küpsis | magus | magustoit | küpsis</string>
+	<key>🥨</key>
+	<string>keerutatud | soolakringel | soolakringel</string>
+	<key>🇻🇳</key>
+	<string>flag of Vietnam</string>
+	<key>💂‍♀️</key>
+	<string>guardswoman</string>
+	<key>🇧🇱</key>
+	<string>flag of Saint Barthélemy</string>
+	<key>🍫</key>
+	<string>magus | magustoit | šokolaad | šokolaaditahvel | šokolaaditahvel</string>
+	<key>🇯🇲</key>
+	<string>flag of Jamaica</string>
+	<key>🥩</key>
+	<string>karbonaad | lambalihakarbonaad | lihalõik | praelõik | sealihakarbonaad | lihalõik</string>
+	<key>🍬</key>
+	<string>komm | magus | magustoit | komm</string>
+	<key>🥪</key>
+	<string>leib | võileib | võileib</string>
+	<key>⛹️‍♀️</key>
+	<string>woman basketball player</string>
+	<key>🍭</key>
+	<string>komm | magus | magustoit | pulgakomm | pulgakomm</string>
+	<key>🇫🇲</key>
+	<string>flag of Micronesia</string>
+	<key>🥫</key>
+	<string>konserv | toidukonserv | toidukonserv</string>
+	<key>🍮</key>
+	<string>magus | magustoit | puding | vanillipuding | vanillipuding</string>
+	<key>👨‍❤️‍👨</key>
+	<string>two men with heart</string>
+	<key>🥬</key>
+	<string>hiina kapsas | kapsas | lehtkapsas | lehtköögivili | lehtsalat | lehtköögivili</string>
+	<key>🇧🇲</key>
+	<string>flag of Bermuda</string>
+	<key>🍯</key>
+	<string>magus | meepott | mesi | meepott</string>
+	<key>🥭</key>
+	<string>mango | puuvili | troopiline | mango</string>
+	<key>🇷🇴</key>
+	<string>flag of Romania</string>
+	<key>🍰</key>
+	<string>kook | liivataignakook | lõik | magus | magustoit | liivataignakook</string>
+	<key>🥮</key>
+	<string>festival | kuukook | sügis | yuèbǐng | kuukook</string>
+	<key>🍱</key>
+	<string>bento einekarp | karp | toit | bento einekarp</string>
+	<key>🇳🇴</key>
+	<string>flag of Norway</string>
+	<key>🥯</key>
+	<string>määre | pagaritoode | rõngassai | rõngassai</string>
+	<key>🇧🇳</key>
+	<string>flag of Brunei</string>
+	<key>🧚‍♀️</key>
+	<string>woman fairy</string>
+	<key>🍲</key>
+	<string>hautis | potitäis toitu | pott | potitäis toitu</string>
+	<key>🇯🇴</key>
+	<string>flag of Jordan</string>
+	<key>🥰</key>
+	<string>armunud | imetlev | naeratav kolme südamega nägu | naeratav südametega nägu | sisse võetud | naeratav südametega nägu</string>
+	<key>🍳</key>
+	<string>muna | pann | praadimine | toiduvalmistamine | toiduvalmistamine</string>
+	<key>🥱</key>
+	<string>haigutamine | haigutav nägu | haigutus | igav | väsinud | haigutav nägu</string>
+	<key>🇫🇴</key>
+	<string>flag of the Faroe Islands</string>
+	<key>🍴</key>
+	<string>kahvel | kahvel ja nuga | nuga | toit | kahvel ja nuga</string>
+	<key>🥲</key>
+	<string>kergendus | liigutatud | naeratav | naeratav pisaraga nägu | pisar | uhke | naeratav pisaraga nägu</string>
+	<key>🇳🇵</key>
+	<string>flag of Nepal</string>
+	<key>✔️</key>
+	<string>check mark</string>
+	<key>🍵</key>
+	<string>jook | kõrvata teetass | tass | tee | kõrvata teetass</string>
+	<key>🥳</key>
+	<string>müts | peovile | pidu | pidutsemine | pidutsev nägu | pidutsev nägu</string>
+	<key>🇧🇴</key>
+	<string>flag of Bolivia</string>
+	<key>🇯🇵</key>
+	<string>flag of Japan</string>
+	<key>🍶</key>
+	<string>baar | jook | pudel | riisiviin | tass | riisiviin</string>
+	<key>🥴</key>
+	<string>alkoholiuimas | joobnud | lainelised huuled | oimetu | uimane nägu | üks silm poolkinni | uimane nägu</string>
+	<key>🍷</key>
+	<string>baar | jook | klaas | vein | veiniklaas | veiniklaas</string>
+	<key>🥵</key>
+	<string>higistav | higistav nägu | kuumarabandus | näost punane | palavikuline | higistav nägu</string>
+	<key>🍸</key>
+	<string>baar | jook | klaas | kokteil | kokteiliklaas | kokteiliklaas</string>
+	<key>🥶</key>
+	<string>jääpurikad | jäätuv | külmakahjustus | külmunud | külmunud nägu | näost sinine | külmunud nägu</string>
+	<key>🍹</key>
+	<string>baar | jook | troopiline | troopiline jook</string>
+	<key>🥷</key>
+	<string>jaapan | ninja | salakuulaja | sõdalane | ninja</string>
+	<key>🍺</key>
+	<string>baar | jook | kann | õllekann | õlu | õllekann</string>
+	<key>🥸</key>
+	<string>inkognito | maskeerima | maskeeritud nägu | nägu | nina | prillid | maskeeritud nägu</string>
+	<key>🚶‍♀️</key>
+	<string>woman pedestrian</string>
+	<key>🍻</key>
+	<string>baar | jook | kann | kõlisevad õllekannud | õlu | kõlisevad õllekannud</string>
+	<key>🥹</key>
+	<string>smiling face holding back tears</string>
+	<key>🇳🇷</key>
+	<string>flag of Nauru</string>
+	<key>🍼</key>
+	<string>beebi | lutipudel | piim | pudel | lutipudel</string>
+	<key>🇧🇶</key>
+	<string>flag of Bonaire</string>
+	<key>🥺</key>
+	<string>anuv nägu | halastust ootav | kutsikasilmad | paluv | anuv nägu</string>
+	<key>🧑‍🍼</key>
+	<string>beebi | beebit toitev inimene | imetamine | inimene | toitmine | beebit toitev inimene</string>
+	<key>🥻</key>
+	<string>kleit | rõivas | sari | sari</string>
+	<key>🇷🇸</key>
+	<string>flag of Serbia</string>
+	<key>🍾</key>
+	<string>baar | jook | kork | pudel | pudeli avamine | pudeli avamine</string>
+	<key>🇫🇷</key>
+	<string>flag of France</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>man and woman kissing</string>
+	<key>🥼</key>
+	<string>arst | katse | laborant | laborikittel | teadlane | laborikittel</string>
+	<key>✍️</key>
+	<string>writing hand</string>
+	<key>🍿</key>
+	<string>mais | popkorn | popkorn</string>
+	<key>🥽</key>
+	<string>kaitseprillid | keevitamine | silmakaitse | ujumine | kaitseprillid</string>
+	<key>🇧🇷</key>
+	<string>flag of Brazil</string>
+	<key>🗡️</key>
+	<string>dagger</string>
+	<key>⏮️</key>
+	<string>skip backward symbol</string>
+	<key>🎀</key>
+	<string>lint | lips | lint</string>
+	<key>🥾</key>
+	<string>matk | matkaja | matkamine | matkasaabas | saabas | seljakotimatk | matkasaabas</string>
+	<key>🎁</key>
+	<string>karp | kingipakk | kink | pakitud | kingipakk</string>
+	<key>🥿</key>
+	<string>baleriina | madal king | paelteta king | sussking | madal king</string>
+	<key>🚀</key>
+	<string>kosmos | rakett | sõiduk | rakett</string>
+	<key>🎂</key>
+	<string>küünlad | magustoit | sünnipäev | sünnipäevatort | tort | sünnipäevatort</string>
+	<key>🦀</key>
+	<string>krabi | sodiaak | vähk | krabi</string>
+	<key>🚁</key>
+	<string>helikopter | sõiduk | helikopter</string>
+	<key>🇻🇺</key>
+	<string>flag of Vanuatu</string>
+	<key>🇧🇸</key>
+	<string>flag of Bahamas</string>
+	<key>🎃</key>
+	<string>halloween | kõrvits | kõrvitsalatern | latern | kõrvitsalatern</string>
+	<key>🕵️‍♀️</key>
+	<string>woman detective</string>
+	<key>🦁</key>
+	<string>lõvi | nägu | sodiaak | lõvi nägu</string>
+	<key>🚂</key>
+	<string>aur | raudtee | rong | sõiduk | vedur | vedur</string>
+	<key>🎄</key>
+	<string>jõulud | jõulupuu | kuusk | pühad | jõulupuu</string>
+	<key>🇷🇺</key>
+	<string>flag of Russia</string>
+	<key>🦂</key>
+	<string>skorpion | sodiaak | suur skorpion | suur skorpion</string>
+	<key>🚃</key>
+	<string>rong | rongivagun | rööpad | sõiduk | tramm | troll | vagun | rongivagun</string>
+	<key>🎅</key>
+	<string>jõulud | jõuluvana | muinasjutt | jõuluvana</string>
+	<key>🦃</key>
+	<string>kalkun | kalkun</string>
+	<key>🚄</key>
+	<string>kiirrong | raudtee | sõiduk | kiirrong</string>
+	<key>🇳🇺</key>
+	<string>flag of Niue</string>
+	<key>🛩️</key>
+	<string>small airplane</string>
+	<key>◾️</key>
+	<string>black medium small square</string>
+	<key>🎆</key>
+	<string>ilutulestik | tähistamine | ilutulestik</string>
+	<key>🇧🇹</key>
+	<string>flag of Bhutan</string>
+	<key>🦄</key>
+	<string>nägu | ükssarvik | ükssarviku nägu | ükssarvik</string>
+	<key>🚅</key>
+	<string>kiirrong | raudtee | sõiduk | terava ninaga kiirrong | terava ninaga kiirrong</string>
+	<key>🎇</key>
+	<string>ilutulestik | säraküünal | säraküünal</string>
+	<key>🦅</key>
+	<string>kotkas | lind | kotkas</string>
+	<key>🚆</key>
+	<string>raudtee | rong | sõiduk | rong</string>
+	<key>👱‍♀️</key>
+	<string>woman with blonde hair</string>
+	<key>🎈</key>
+	<string>õhupall | tähistamine | õhupall</string>
+	<key>🇿🇼</key>
+	<string>flag of Zimbabwe</string>
+	<key>🦆</key>
+	<string>lind | part | part</string>
+	<key>🚇</key>
+	<string>metroo | rong | sõiduk | metroo</string>
+	<key>😮‍💨</key>
+	<string>kergendus | ohkamine | sosistamine | väljahingamine | väljahingav nägu | vilistamine | väljahingav nägu</string>
+	<key>🎉</key>
+	<string>pidu | pidupäev | sünnipäev | üllatus | pidupäev</string>
+	<key>🦇</key>
+	<string>loom | nahkhiir | vampiir | nahkhiir</string>
+	<key>🚈</key>
+	<string>kergraudtee | raudtee | rong | kergraudtee</string>
+	<key>🎊</key>
+	<string>konfetid | pall | pidu | konfetid</string>
+	<key>🦈</key>
+	<string>hai | kala | hai</string>
+	<key>🚉</key>
+	<string>jaam | raudtee | rong | jaam</string>
+	<key>🇷🇼</key>
+	<string>flag of Rwanda</string>
+	<key>🎋</key>
+	<string>pidu | puu | tanabata soovipuu | tanabata soovipuu</string>
+	<key>🦉</key>
+	<string>lind | öökull | öökull</string>
+	<key>🚊</key>
+	<string>tramm | troll | tramm</string>
+	<key>🎌</key>
+	<string>lipp | pidu | ristatud lipud | risti | ristatud lipud</string>
+	<key>🦊</key>
+	<string>loom | nägu | rebane | rebase nägu | rebane</string>
+	<key>🚋</key>
+	<string>tramm | trammivagun | troll | vagun | trammivagun</string>
+	<key>🎍</key>
+	<string>bambus | mänd | puu | taim | väravamänd | väravamänd</string>
+	<key>🇧🇻</key>
+	<string>flag of Bouvet Island</string>
+	<key>🦋</key>
+	<string>ilus | liblikas | putukas | liblikas</string>
+	<key>🚌</key>
+	<string>buss | sõiduk | buss</string>
+	<key>🎎</key>
+	<string>festival | Jaapani nukud | nukk | Jaapani nukud</string>
+	<key>🦌</key>
+	<string>hirv | loom | hirv</string>
+	<key>🚍</key>
+	<string>buss | buss eestvaates | eestvaade | buss eestvaates</string>
+	<key>🎏</key>
+	<string>kala | kalakujuline vimpel | lipp | vimpel | kalakujuline vimpel</string>
+	<key>🦍</key>
+	<string>gorilla | loom | gorilla</string>
+	<key>🚎</key>
+	<string>buss | tramm | troll | trollibuss | trollibuss</string>
+	<key>🚏</key>
+	<string>buss | bussipeatus | peatus | bussipeatus</string>
+	<key>🎐</key>
+	<string>kell | tuul | tuulekell | tuulekell</string>
+	<key>🦎</key>
+	<string>roomaja | sisalik | sisalik</string>
+	<key>🇧🇼</key>
+	<string>flag of Botswana</string>
+	<key>🚐</key>
+	<string>buss | sõiduk | väikebuss | väikebuss</string>
+	<key>♏️</key>
+	<string>Scorpio</string>
+	<key>🎑</key>
+	<string>festival | kuu | kuutseremoonia | tseremoonia | kuutseremoonia</string>
+	<key>🦏</key>
+	<string>loom | ninasarvik | ninasarvik</string>
+	<key>🚑</key>
+	<string>kiirabiauto | sõiduk | kiirabiauto</string>
+	<key>👨‍🍼</key>
+	<string>beebi | beebit toitev mees | imetamine | mees | toitmine | beebit toitev mees</string>
+	<key>⚧️</key>
+	<string>transgender symbol</string>
+	<key>👨‍👨‍👧</key>
+	<string>family with two fathers and daughter</string>
+	<key>🖋️</key>
+	<string>fountain pen</string>
+	<key>🚒</key>
+	<string>auto | sõiduk | tuletõrje | tuletõrjeauto | tuletõrjeauto</string>
+	<key>🎒</key>
+	<string>kool | kott | ranits | ranits</string>
+	<key>🎓</key>
+	<string>koolilõpumüts | lõpetamine | müts | riided | koolilõpumüts</string>
+	<key>🦐</key>
+	<string>koorikloom | krevett | toit | krevett</string>
+	<key>🦑</key>
+	<string>kalmaar | mollusk | toit | kalmaar</string>
+	<key>🚓</key>
+	<string>auto | patrull | politsei | politseiauto | sõiduk | politseiauto</string>
+	<key>❗️</key>
+	<string>red exclamation mark</string>
+	<key>🦒</key>
+	<string>kaelkirjak | laigud | kaelkirjak</string>
+	<key>🙇‍♀️</key>
+	<string>woman bowing</string>
+	<key>🗣️</key>
+	<string>speaking silhouette head</string>
+	<key>🚔</key>
+	<string>auto | eestvaade | politsei | politseiauto eestvaates | sõiduk | politseiauto eestvaates</string>
+	<key>🦓</key>
+	<string>sebra | triibud | vöödid | sebra</string>
+	<key>🚕</key>
+	<string>sõiduk | takso | takso</string>
+	<key>🦔</key>
+	<string>okkaline | siil | siil</string>
+	<key>🇳🇿</key>
+	<string>flag of New Zealand</string>
+	<key>🦕</key>
+	<string>brahhiosaurus | brontosaurus | diplodookus | sauropod | sauropood | sauropood</string>
+	<key>🚖</key>
+	<string>eestvaade | sõiduk | takso | takso eestvaates | takso eestvaates</string>
+	<key>🇧🇾</key>
+	<string>flag of Belarus</string>
+	<key>🦖</key>
+	<string>türannosaurus | türannosaurus</string>
+	<key>🚗</key>
+	<string>auto | sõiduk | auto</string>
+	<key>🦗</key>
+	<string>kilk | rohutirts | kilk</string>
+	<key>🚘</key>
+	<string>auto | auto eestvaates | eestvaade | sõiduk | auto eestvaates</string>
+	<key>🦘</key>
+	<string>Austraalia | hüpe | känguru | kukkur | kukkurloom | känguru</string>
+	<key>🚙</key>
+	<string>auto | mahtuniversaal | sõiduk | universaal | mahtuniversaal</string>
+	<key>🇧🇿</key>
+	<string>flag of Belize</string>
+	<key>🦙</key>
+	<string>alpaka | guanako | laama | vikunja | vill | laama</string>
+	<key>🚚</key>
+	<string>kuller | kulleriauto | sõiduk | veoauto | kulleriauto</string>
+	<key>♈️</key>
+	<string>Aries</string>
+	<key>🦚</key>
+	<string>eneseimetlus | hooplemine | lind | paabulind | uhkus | paabulind</string>
+	<key>🚛</key>
+	<string>sõiduk | veoauto | veok | veok</string>
+	<key>⚠️</key>
+	<string>warning</string>
+	<key>🦛</key>
+	<string>jõehobu | jõehobuke | jõehobu</string>
+	<key>🚜</key>
+	<string>sõiduk | traktor | traktor</string>
+	<key>⛸️</key>
+	<string>ice skate</string>
+	<key>🧘‍♂️</key>
+	<string>man in lotus position</string>
+	<key>🧑‍🚀</key>
+	<string>astronaut | rakett | astronaut</string>
+	<key>🦜</key>
+	<string>jutt | lind | papagoi | piraat | papagoi</string>
+	<key>🚝</key>
+	<string>raudtee | rong | sõiduk | üherööpmeline raudtee | üherööpmeline raudtee</string>
+	<key>🦝</key>
+	<string>kaval | pesukaru | uudishimulik | pesukaru</string>
+	<key>🚞</key>
+	<string>mägi | mägiraudtee | raudtee | rong | vagun | mägiraudtee</string>
+	<key>🎠</key>
+	<string>hobune | karussell | karussellihobune | karussellihobune</string>
+	<key>🦞</key>
+	<string>homaar | homaarisupp | mereannid | sõrad | homaar</string>
+	<key>🚟</key>
+	<string>raudtee | rippraudtee | sõiduk | vagun | rippraudtee</string>
+	<key>🎡</key>
+	<string>lõbustuspark | vaateratas | vaateratas</string>
+	<key>🦟</key>
+	<string>haigus | malaaria | palavik | putukas | sääsk | viirus | sääsk</string>
+	<key>🚠</key>
+	<string>gondel | köis | köistee mägedes | mägi | sõiduk | vagun | köistee mägedes</string>
+	<key>🎢</key>
+	<string>Ameerika | lõbustuspark | mäed | Ameerika mäed</string>
+	<key>🦠</key>
+	<string>amööb | bakter | mikroob | viirus | mikroob</string>
+	<key>🚡</key>
+	<string>gondel | köis | köisraudtee | raudtee | sõiduk | vagun | köisraudtee</string>
+	<key>🧝‍♀️</key>
+	<string>woman elf</string>
+	<key>🎣</key>
+	<string>kala | õng | õng</string>
+	<key>🦡</key>
+	<string>mäger | meemäger | nuhtlus | mäger</string>
+	<key>🚢</key>
+	<string>laev | sõiduk | laev</string>
+	<key>🎤</key>
+	<string>karaoke | mikrofon | mikrofon</string>
+	<key>🦢</key>
+	<string>inetu pardipoeg | lind | luigepoeg | luik | luik</string>
+	<key>🚣</key>
+	<string>aerupaadiga inimene | paat | sõiduk | aerupaadiga inimene</string>
+	<key>🎥</key>
+	<string>film | filmikaamera | kaamera | video | filmikaamera</string>
+	<key>🦣</key>
+	<string>karvane | kihv | mammut | suur | väljasurnud | mammut</string>
+	<key>🚤</key>
+	<string>kiirkaater | paat | sõiduk | kiirkaater</string>
+	<key>🎦</key>
+	<string>film | kaamera | kino | kino</string>
+	<key>🦤</key>
+	<string>dodo | lind | Mauritius | suur | väljasurev | dodo</string>
+	<key>🚥</key>
+	<string>foor | horisontaalne foor | liiklus | horisontaalne foor</string>
+	<key>⚙️</key>
+	<string>gear</string>
+	<key>🚴‍♂️</key>
+	<string>man cyclist</string>
+	<key>🎧</key>
+	<string>kõrvaklapid | kõrvaklapid</string>
+	<key>🦥</key>
+	<string>aeglane | laisik | laisk | laiskloom | laiskloom</string>
+	<key>🚦</key>
+	<string>foor | liiklus | vertikaalne foor | vertikaalne foor</string>
+	<key>⛱️</key>
+	<string>beach umbrella</string>
+	<key>🖍️</key>
+	<string>crayon</string>
+	<key>🎨</key>
+	<string>kunst | kunstniku palett | maal | muuseum | palett | kunstniku palett</string>
+	<key>🦦</key>
+	<string>jõgi | kala | saarmas | udras | saarmas</string>
+	<key>🚧</key>
+	<string>barjäär | ehitustööd | tõke | ehitustööd</string>
+	<key>🎩</key>
+	<string>kübar | müts | riided | torukübar | torukübar</string>
+	<key>🦧</key>
+	<string>inimahv | orangutan | orangutan</string>
+	<key>🚨</key>
+	<string>auto | politsei | politseiauto vilkur | pöörlemine | sõiduk | vilkur | politseiauto vilkur</string>
+	<key>➡️</key>
+	<string>right arrow</string>
+	<key>🎪</key>
+	<string>telk | tsirkus | tsirkusetelk | tsirkusetelk</string>
+	<key>🦨</key>
+	<string>hais | skunk | skunk</string>
+	<key>🚩</key>
+	<string>kolmnurk | kolmnurkne lipp | lipp | kolmnurkne lipp</string>
+	<key>🎫</key>
+	<string>pääse | pilet | pilet</string>
+	<key>🦩</key>
+	<string>flamingo | lind | troopiline | flamingo</string>
+	<key>🚪</key>
+	<string>uks | uks</string>
+	<key>🦸‍♀️</key>
+	<string>woman superhero</string>
+	<key>🎬</key>
+	<string>film | klapptahvel | video | klapptahvel</string>
+	<key>🦪</key>
+	<string>auster | elus | karp | pärl | auster</string>
+	<key>🚫</key>
+	<string>keelatud | sisenemine | keelatud</string>
+	<key>🎖️</key>
+	<string>military medal</string>
+	<key>🎭</key>
+	<string>kunst | lava | lavakunst | mask | teater | lavakunst</string>
+	<key>🦫</key>
+	<string>kobras | tamm | kobras</string>
+	<key>🚬</key>
+	<string>sigaret | suitsetama | sigaret</string>
+	<key>🎮</key>
+	<string>mäng | pult | videomäng | videomäng</string>
+	<key>🦬</key>
+	<string>kari | piison | pühvel | pürg | piison</string>
+	<key>🚭</key>
+	<string>keelatud | suitsetamine | suitsetamine keelatud</string>
+	<key>🎯</key>
+	<string>noolemäng | sihtmärk | tabamus | täistabamus | täistabamus</string>
+	<key>🦭</key>
+	<string>hüljes | merilõvi | hüljes</string>
+	<key>🚮</key>
+	<string>praht | prügikast | prügikasti silt | prügikasti silt</string>
+	<key>☺️</key>
+	<string>smiling face</string>
+	<key>🎰</key>
+	<string>automaat | mäng | mänguautomaat | mänguautomaat</string>
+	<key>🦮</key>
+	<string>abi | juht | juhtkoer | koer | pime | vaegnägija | juhtkoer</string>
+	<key>🚯</key>
+	<string>keelatud | risustamine | risustamine keelatud</string>
+	<key>⚒️</key>
+	<string>hammer and pick</string>
+	<key>🎱</key>
+	<string>8 | kuul | mäng | piljard | piljardikuul | piljardikuul</string>
+	<key>🦯</key>
+	<string>kohalejõudmine | ligipääs | pime | valge kepp | valge kepp</string>
+	<key>🚰</key>
+	<string>joodav | joogivesi | vesi | joogivesi</string>
+	<key>🧑‍🎄</key>
+	<string>päkapikk | päkapikk, jõulud | päkats | päkats</string>
+	<key>⛪️</key>
+	<string>church</string>
+	<key>🎲</key>
+	<string>mäng | täring | täring</string>
+	<key>🤵‍♀️</key>
+	<string>woman in tuxedo</string>
+	<key>⌛️</key>
+	<string>hourglass</string>
+	<key>🏋️‍♂️</key>
+	<string>man weightlifter</string>
+	<key>🚱</key>
+	<string>joodav | joomiseks kõlbmatu vesi | keelatud | vesi | joomiseks kõlbmatu vesi</string>
+	<key>🎳</key>
+	<string>keegel | kurikas | kuul | mäng | keegel</string>
+	<key>👯‍♂️</key>
+	<string>dancing men wearing bunny ears</string>
+	<key>👨‍🚀</key>
+	<string>astronaut | kosmos | mees | meesastronaut | rakett | meesastronaut</string>
+	<key>🚲</key>
+	<string>jalgratas | ratas | sõiduk | jalgratas</string>
+	<key>🎴</key>
+	<string>kaart | lill | mäng | mängukaardid | mängukaardid</string>
+	<key>🚳</key>
+	<string>jalgratas | jalgrattad keelatud | keelatud | sõiduk | jalgrattad keelatud</string>
+	<key>👩‍👦‍👦</key>
+	<string>family with mother and two sons</string>
+	<key>🎵</key>
+	<string>muusika | noot | noot</string>
+	<key>👨‍🤝‍👨</key>
+	<string>men holding hands</string>
+	<key>🚴</key>
+	<string>jalgratas | jalgrattur | rattur | jalgrattur</string>
+	<key>🎶</key>
+	<string>muusika | noodid | noot | noodid</string>
+	<key>🦴</key>
+	<string>kont | luustik | kont</string>
+	<key>🚵</key>
+	<string>jalgratas | mägi | mägirattur | rattur | mägirattur</string>
+	<key>🎷</key>
+	<string>muusika | pill | saksofon | saksofon</string>
+	<key>🦵</key>
+	<string>jalalöök | jalg | jäse | jalg</string>
+	<key>🚶</key>
+	<string>jalakäija | jalutamine | kõndimine | jalakäija</string>
+	<key>🎸</key>
+	<string>kitarr | muusika | pill | kitarr</string>
+	<key>🦶</key>
+	<string>jalalaba | jalalöök | trampimine | jalalaba</string>
+	<key>🚷</key>
+	<string>jalakäija | jalakäijad keelatud | keelatud | jalakäijad keelatud</string>
+	<key>🎹</key>
+	<string>klahvpill | klaver | muusika | pill | klahvpill</string>
+	<key>🦷</key>
+	<string>hambaarst | hammas | hammas</string>
+	<key>🚸</key>
+	<string>jalakäija | laps | lapsed teel | liiklus | tänav | lapsed teel</string>
+	<key>🎺</key>
+	<string>muusika | pill | trompet | trompet</string>
+	<key>🦸</key>
+	<string>hea | kangelane | kangelanna | superkangelane | supervõime | superkangelane</string>
+	<key>🚹</key>
+	<string>mees | meeste-WC | tualett | wc | meeste-WC</string>
+	<key>🎻</key>
+	<string>muusika | pill | viiul | viiul</string>
+	<key>🦹</key>
+	<string>kuri | kurikael | kurjategija | superkurikael | supervõimed | superkurikael</string>
+	<key>🚺</key>
+	<string>naine | naiste-WC | tualett | wc | naiste-WC</string>
+	<key>🎼</key>
+	<string>muusika | noodijoonestik | noot | noodijoonestik</string>
+	<key>🦺</key>
+	<string>hädaolukord | ohutus | ohutusvest | vest | ohutusvest</string>
+	<key>🚻</key>
+	<string>tualett | wc | tualett</string>
+	<key>🎽</key>
+	<string>jooks | jooksusärk | särk | jooksusärk</string>
+	<key>🦻</key>
+	<string>juurdepääs | kuuldeaparaadiga kõrv | kuulmispuue | kuuldeaparaadiga kõrv</string>
+	<key>🚼</key>
+	<string>beebi | beebi sümbol | imik | mähe | beebi sümbol</string>
+	<key>🎾</key>
+	<string>pall | reket | tennis | tennisepall | tennis</string>
+	<key>🦼</key>
+	<string>elektriratastool | juurdepääs | ligipääs | ratastool | elektriratastool</string>
+	<key>🚽</key>
+	<string>tualett | wc | WC-pott | WC-pott</string>
+	<key>🎿</key>
+	<string>lumi | suusad | suusk | suusad</string>
+	<key>🦽</key>
+	<string>juurdepääs | ligipääs | manuaalratastool | ratastool | manuaalratastool</string>
+	<key>🚾</key>
+	<string>tualett | vesi | wc | WC | WC</string>
+	<key>🏀</key>
+	<string>korvpall | pall | korvpall</string>
+	<key>🦾</key>
+	<string>ligipääs | mehaaniline käsi | protees | mehaaniline käsi</string>
+	<key>🙅‍♂️</key>
+	<string>man gesturing no</string>
+	<key>🚿</key>
+	<string>dušš | vesi | dušš</string>
+	<key>🏁</key>
+	<string>lipp | ruuduline | ruudulipp | võidusõit | ruudulipp</string>
+	<key>🦿</key>
+	<string>ligipääs | mehaaniline jalg | protees | mehaaniline jalg</string>
+	<key>🛀</key>
+	<string>inimene vannis | vann | inimene vannis</string>
+	<key>🏂</key>
+	<string>lumelaud | lumelaudur | lumi | suusk | lumelaudur</string>
+	<key>🧀</key>
+	<string>juust | juustutükk | juustutükk</string>
+	<key>🛁</key>
+	<string>vann | vann</string>
+	<key>🚣‍♂️</key>
+	<string>man rowing boat</string>
+	<key>🏃</key>
+	<string>jooks | jooksja | maraton | jooksja</string>
+	<key>🧁</key>
+	<string>magus | muffin | pagaritoode | muffin</string>
+	<key>🛂</key>
+	<string>kontroll | pass | passikontroll | passikontroll</string>
+	<key>🏄</key>
+	<string>surfamine | surfar | surfar</string>
+	<key>🧂</key>
+	<string>maitseaine | sool | soolatoos | sool</string>
+	<key>🛃</key>
+	<string>toll | toll</string>
+	<key>🏅</key>
+	<string>medal | sport | medal</string>
+	<key>🧃</key>
+	<string>joogipakk | mahlapakk | joogipakk</string>
+	<key>🛄</key>
+	<string>kättesaamine | pagas | pagasi kättesaamine | pagasi kättesaamine</string>
+	<key>🏆</key>
+	<string>auhind | karikas | karikas</string>
+	<key>🧄</key>
+	<string>küüslauk | maitseaine | küüslauk</string>
+	<key>🛅</key>
+	<string>hoiukapid | kapp | pagas | hoiukapid</string>
+	<key>🏇</key>
+	<string>hobune | hobuste võiduajamine | ratsutaja | võiduajamine | hobuste võiduajamine</string>
+	<key>🧅</key>
+	<string>maitseaine | sibul | sibul</string>
+	<key>✴️</key>
+	<string>eight pointed star</string>
+	<key>🖼️</key>
+	<string>frame with picture</string>
+	<key>🏈</key>
+	<string>Ameerika | jalgpall | pall | Ameerika jalgpall</string>
+	<key>🧆</key>
+	<string>falafel | kikerhernes | lihapall | falafel</string>
+	<key>🏉</key>
+	<string>jalgpall | pall | ragbi | ragbipall | ragbipall</string>
+	<key>🧇</key>
+	<string>kõhklev | vahvel | vahvliraud | vahvel</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>family with two fathers, son and daughter</string>
+	<key>🏊</key>
+	<string>ujuja | ujumine | ujuja</string>
+	<key>🧈</key>
+	<string>piimatoode | või | või</string>
+	<key>🧑‍⚖️</key>
+	<string>judge</string>
+	<key>3️⃣</key>
+	<string>keycap digit three</string>
+	<key>🧉</key>
+	<string>jook | mate | tee | mate</string>
+	<key>🧊</key>
+	<string>jää | jääkuubik | külm | kuubik | jääkuubik</string>
+	<key>🧋</key>
+	<string>mull | pärl | pärlitee | piim | tee | pärlitee</string>
+	<key>🛌</key>
+	<string>hotell | inimene voodis | uni | inimene voodis</string>
+	<key>🧛‍♂️</key>
+	<string>man vampire</string>
+	<key>🧌</key>
+	<string>troll</string>
+	<key>🏏</key>
+	<string>kriket | kurikas | mäng | pall | kriket</string>
+	<key>🧍</key>
+	<string>inimene | seisev | seismine | seisev inimene</string>
+	<key>🏐</key>
+	<string>mäng | pall | võrkpall | võrkpall</string>
+	<key>🧎</key>
+	<string>inimene | põlvili | põlvitav | põlvitav inimene</string>
+	<key>🏑</key>
+	<string>maahoki | maahokikepp | mäng | pall | väljak | maahoki</string>
+	<key>🧏</key>
+	<string>juurdepääs | kõrv | kurt | kurt inimene | kuulmine | kurt inimene</string>
+	<key>🛐</key>
+	<string>palvetamine | pühakoda | usk | pühakoda</string>
+	<key>🏒</key>
+	<string>jää | jäähoki | jäähokikepp | jäähokikepp ja litter | litter | mäng | jäähoki</string>
+	<key>🧐</key>
+	<string>monokliga nägu | vanamoeline | monokliga nägu</string>
+	<key>🛑</key>
+	<string>liiklusmärk | märk | stopp | stoppmärk | stoppmärk</string>
+	<key>🏓</key>
+	<string>lauatennis | mäng | pall | pingpong | reket | pingpong</string>
+	<key>🧑</key>
+	<string>sooliselt neutraalne | täiskasvanu | täiskasvanu</string>
+	<key>🛒</key>
+	<string>käru | ostma | ostukäru | poodlemine | ostukäru</string>
+	<key>🧒</key>
+	<string>laps | noor | sooliselt neutraalne | laps</string>
+	<key>🧓</key>
+	<string>eakas | sooliselt neutraalne | vana | eakas</string>
+	<key>🎚️</key>
+	<string>level slider</string>
+	<key>🧔</key>
+	<string>habe | habemega isik | mees: habemega | mees: habemega</string>
+	<key>🛕</key>
+	<string>hindu | hinduism | hinduistlik tempel | tempel | hinduistlik tempel</string>
+	<key>🧕</key>
+	<string>hijab | mantilja | pearätiga naine | pearätik | tichel | pearätiga naine</string>
+	<key>🛖</key>
+	<string>hütt | jurta | maja | tare | hütt</string>
+	<key>🧖</key>
+	<string>inimene leiliruumis | leiliruum | leiliruumis olev inimene | saun | inimene leiliruumis</string>
+	<key>🛗</key>
+	<string>elevaator | lift | ligipääs | tõstuk | lift</string>
+	<key>🧗</key>
+	<string>mägironija | mäkke roniv inimene | mäkke roniv inimene</string>
+	<key>🧘</key>
+	<string>jooga | lootosasendis inimene | meditatsioon | lootosasendis inimene</string>
+	<key>🧙</key>
+	<string>mage</string>
+	<key>🧚</key>
+	<string>haldjas | Oberon | Puck | Titania | haldjas</string>
+	<key>👩‍💻</key>
+	<string>arendaja | naine | naisprogrammeerija | programmeerija | tarkvara | tehnoloog | naisprogrammeerija</string>
+	<key>🧛</key>
+	<string>Dracula | surematu | vampiir | vampiir</string>
+	<key>🛜</key>
+	<string>wireless symbol</string>
+	<key>🧜</key>
+	<string>meesnäkk | merineitsi | naisnäkk | näkk | näkk</string>
+	<key>🛝</key>
+	<string>playground slide</string>
+	<key>🧝</key>
+	<string>maagiline | päkapikk | päkapikk</string>
+	<key>🛞</key>
+	<string>wheel</string>
+	<key>👨‍⚖️</key>
+	<string>man judge</string>
+	<key>🏠</key>
+	<string>house</string>
+	<key>🧞</key>
+	<string>džinn | džinn</string>
+	<key>↘️</key>
+	<string>down-right arrow</string>
+	<key>🛟</key>
+	<string>ring buoy</string>
+	<key>🏡</key>
+	<string>aed | aiaga maja | kodu | maja | aiaga maja</string>
+	<key>🧟</key>
+	<string>elav surnu | surematu | zombi | zombi</string>
+	<key>🤸‍♀️</key>
+	<string>woman doing a cartwheel</string>
+	<key>🏢</key>
+	<string>hoone | kontorihoone | maja | kontorihoone</string>
+	<key>🧠</key>
+	<string>aju | intelligentne | aju</string>
+	<key>🏣</key>
+	<string>hoone | Jaapani postkontor | post | Jaapani postkontor</string>
+	<key>🧡</key>
+	<string>oranž | oranž süda | oranž süda</string>
+	<key>👩‍💼</key>
+	<string>arhitekt | ärinaine | juhataja | naiskontoritöötaja | valgekrae | naiskontoritöötaja</string>
+	<key>🏤</key>
+	<string>hoone | post | postkontor | postkontor</string>
+	<key>🧢</key>
+	<string>nokkmüts | pesapallimüts | nokkmüts</string>
+	<key>🏥</key>
+	<string>arst | haigla | hoone | meditsiin | haigla</string>
+	<key>🧣</key>
+	<string>kael | sall | sall</string>
+	<key>🏦</key>
+	<string>hoone | pank | pank</string>
+	<key>🧤</key>
+	<string>käsi | kindad | kindad</string>
+	<key>🏧</key>
+	<string>pangaautomaat | sularaha | teller | pangaautomaat</string>
+	<key>🧥</key>
+	<string>jakk | mantel | mantel</string>
+	<key>👷‍♀️</key>
+	<string>woman construction worker</string>
+	<key>🏨</key>
+	<string>hoone | hotell | hotell</string>
+	<key>🧦</key>
+	<string>sokid | sukk | sokid</string>
+	<key>🏩</key>
+	<string>armastus | armuhotell | hoone | hotell | armuhotell</string>
+	<key>🧧</key>
+	<string>edu | hóngbāo | kingitus | õnn | punane ümbrik | raha | punane ümbrik</string>
+	<key>ℹ️</key>
+	<string>information source</string>
+	<key>🏪</key>
+	<string>hoone | kauplus | pood | kauplus</string>
+	<key>🧨</key>
+	<string>dünamiit | ilutulestik | ilutulestikurakett | lõhkeaine | ilutulestikurakett</string>
+	<key>🏫</key>
+	<string>hoone | kool | kool</string>
+	<key>🧩</key>
+	<string>pusle | pusletükk | tükk | ühendamine | pusletükk</string>
+	<key>🏬</key>
+	<string>hoone | kaubamaja | pood | kaubamaja</string>
+	<key>🧪</key>
+	<string>katse | katseklaas | keemia | keemik | labor | teadus | katseklaas</string>
+	<key>🛫</key>
+	<string>lennuk | õhkutõus | õhkutõusev lennuk | sõiduk | õhkutõusev lennuk</string>
+	<key>🛳️</key>
+	<string>passenger ship</string>
+	<key>🏭</key>
+	<string>hoone | tehas | tehas</string>
+	<key>🧫</key>
+	<string>bakterid | bioloog | bioloogia | kultuur | labor | Petri tass | Petri tass</string>
+	<key>🛬</key>
+	<string>lennuk | maandumine | maanduv lennuk | sõiduk | maanduv lennuk</string>
+	<key>♨️</key>
+	<string>hot springs</string>
+	<key>🏮</key>
+	<string>lamp | latern | punane | punane paberlatern | valgus | punane paberlatern</string>
+	<key>🧬</key>
+	<string>bioloog | DNA | elu | evolutsioon | geen | geneetika | DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>family with mother, father and son</string>
+	<key>🏯</key>
+	<string>Jaapan | Jaapani loss | loss | Jaapani loss</string>
+	<key>🧭</key>
+	<string>kompass | magnetiline | navigeerimine | orienteerumine | kompass</string>
+	<key>🧏‍♀️</key>
+	<string>Deaf woman</string>
+	<key>🏰</key>
+	<string>hoone | loss | loss</string>
+	<key>🧮</key>
+	<string>arvelaud | arvutamine | arvelaud</string>
+	<key>🧯</key>
+	<string>kustutamine | summutamine | tulekustuti | tuli | tulekustuti</string>
+	<key>⏹️</key>
+	<string>stop symbol</string>
+	<key>🧰</key>
+	<string>kast | laegas | tööriistad | tööriistakast | tööriistakast</string>
+	<key>🧱</key>
+	<string>mört | savi | sein | telliskivi | telliskivid | telliskivi</string>
+	<key>🏴</key>
+	<string>lehvimine | lipp | must lipp | must lipp</string>
+	<key>🧲</key>
+	<string>atraktsioon | hobuseraud | magnet | magnet</string>
+	<key>🙍‍♀️</key>
+	<string>woman frowning</string>
+	<key>🧳</key>
+	<string>kohver | pakkimine | reis | kohver</string>
+	<key>🛴</key>
+	<string>tõukekas | tõukeratas | tõukeratas</string>
+	<key>🧴</key>
+	<string>emulsioon | emulsioonipudel | niisutav kreem | päevituskreem | šampoon | emulsioonipudel</string>
+	<key>🛵</key>
+	<string>motoroller | roller | motoroller</string>
+	<key>👨‍👦</key>
+	<string>family with father and son</string>
+	<key>🧵</key>
+	<string>niidirull | niit | nõel | õmblemine | niit</string>
+	<key>💆‍♂️</key>
+	<string>man getting a head massage</string>
+	<key>🛶</key>
+	<string>kanuu | paat | kanuu</string>
+	<key>🏸</key>
+	<string>mäng | reket | sulgpall | sulgpall</string>
+	<key>🧶</key>
+	<string>heegeldamine | kera | kudumine | lõng | lõngakera | lõng</string>
+	<key>🛷</key>
+	<string>kelk | regi | saan | kelk</string>
+	<key>🏹</key>
+	<string>ambur | nool | relv | vibu | vibu ja nool | vibu ja nool</string>
+	<key>🧷</key>
+	<string>haaknõel | mähe | punkrokk | haaknõel</string>
+	<key>🛸</key>
+	<string>lendav taldrik | UFO | lendav taldrik</string>
+	<key>🏺</key>
+	<string>amfora | jook | kann | vaas | veevalaja | amfora</string>
+	<key>🧸</key>
+	<string>lelu | mänguasi | mängukaru | pehme | plüüs | mängukaru</string>
+	<key>🛹</key>
+	<string>rula | rulalaud | rula</string>
+	<key>🧹</key>
+	<string>luud | nõid | puhastamine | pühkimine | luud</string>
+	<key>🛺</key>
+	<string>autorikša | tuk-tuk | autorikša</string>
+	<key>⏲️</key>
+	<string>timer clock</string>
+	<key>🧺</key>
+	<string>korv | pesu | piknik | taluelu | korv</string>
+	<key>🛻</key>
+	<string>kast | maastur | pikap | pikap</string>
+	<key>🧻</key>
+	<string>paberirull | paberkäterätid | tualettpaber | paberirull</string>
+	<key>🛼</key>
+	<string>rulluisk | rulluisutama | uisk | rulluisk</string>
+	<key>👨‍👧</key>
+	<string>family with father and daughter</string>
+	<key>🧼</key>
+	<string>pesemine | puhastamine | seebialus | seebivaht | seep | tükiseep | seep</string>
+	<key>🧞‍♂️</key>
+	<string>man genie</string>
+	<key>🧽</key>
+	<string>imav | pesemine | pesukäsn | poorne | pesukäsn</string>
+	<key>🎞️</key>
+	<string>film frames</string>
+	<key>🧾</key>
+	<string>arvepidamine | kviitung | raamatupidamine | tõend | kviitung</string>
+	<key>▪️</key>
+	<string>black small square</string>
+	<key>🧿</key>
+	<string>amulett | helmes | kuri silm | Nazari amulett | Nazari silm | talisman | Nazari amulett</string>
+	<key>☂️</key>
+	<string>umbrella</string>
+	<key>🗂️</key>
+	<string>card index dividers</string>
+	<key>🦹‍♂️</key>
+	<string>man supervillain</string>
+	<key>🏋️</key>
+	<string>weightlifter</string>
+	<key>◻️</key>
+	<string>white medium square</string>
+	<key>♓️</key>
+	<string>Pisces</string>
+	<key>⚫️</key>
+	<string>black circle</string>
+	<key>⏩</key>
+	<string>edasi | edasikerimisnupp | kerimine | nool | topelt | edasikerimisnupp</string>
+	<key>⏪</key>
+	<string>kerimine | kolmnurk | tagasi | tagasikerimise nupp | topelt | tagasikerimise nupp</string>
+	<key>⏫</key>
+	<string>kiirkerimine üles | nool | topelt | kiirkerimine üles</string>
+	<key>⏬</key>
+	<string>alla | kiirkerimine alla | nool | topelt | kiirkerimine alla</string>
+	<key>🗯️</key>
+	<string>angry speech bubble</string>
+	<key>⏰</key>
+	<string>äratus | äratuskell | kell | äratuskell</string>
+	<key>⏳</key>
+	<string>kell | liiv | voolava liivaga kell | voolava liivaga kell</string>
+	<key>🧑‍🎓</key>
+	<string>koolilõpetaja | õpilane | õpilane</string>
+	<key>🧑‍🚒</key>
+	<string>tuletõrjeauto | tuletõrjuja | tuletõrjuja</string>
+	<key>♌️</key>
+	<string>Leo</string>
+	<key>🗄️</key>
+	<string>file cabinet</string>
+	<key>🧍‍♂️</key>
+	<string>man standing</string>
+	<key>🏍️</key>
+	<string>motorcycle</string>
+	<key>🙋‍♂️</key>
+	<string>man raising one hand</string>
+	<key>👨‍👩‍👧</key>
+	<string>family with mother, father and daughter</string>
+	<key>🇸🇦</key>
+	<string>flag of Saudi Arabia</string>
+	<key>⛵️</key>
+	<string>sailboat</string>
+	<key>👩‍🏫</key>
+	<string>juhendaja | naine | naisõpetaja | õpetaja | professor | naisõpetaja</string>
+	<key>⬜️</key>
+	<string>white large square</string>
+	<key>🇸🇧</key>
+	<string>flag of the Solomon Islands</string>
+	<key>🇬🇦</key>
+	<string>flag of Gabon</string>
+	<key>🇨🇦</key>
+	<string>flag of Canada</string>
+	<key>🇸🇨</key>
+	<string>flag of Seychelles</string>
+	<key>🇬🇧</key>
+	<string>flag of the United Kingdom</string>
+	<key>👨‍🎓</key>
+	<string>lõpetaja | mees | meesõpilane | õpilane | meesõpilane</string>
+	<key>👨‍🚒</key>
+	<string>mees | meestuletõrjuja | tuletõrjeauto | tuletõrjuja | meestuletõrjuja</string>
+	<key>⚖️</key>
+	<string>scales</string>
+	<key>🇸🇩</key>
+	<string>flag of Sudan</string>
+	<key>🇨🇨</key>
+	<string>flag of the Cocos (Keeling) Islands</string>
+	<key>⏏️</key>
+	<string>eject symbol</string>
+	<key>🇸🇪</key>
+	<string>flag of Sweden</string>
+	<key>🇬🇩</key>
+	<string>flag of Grenada</string>
+	<key>👩‍🏭</key>
+	<string>liinitööline | naine | naissoost tehasetööline | tehas | tööline | naissoost tehasetööline</string>
+	<key>🇼🇫</key>
+	<string>flag of Wallis &amp; Futuna</string>
+	<key>🇨🇩</key>
+	<string>flag of the Democratic Republic of the Congo</string>
+	<key>🇰🇪</key>
+	<string>flag of Kenya</string>
+	<key>🛎️</key>
+	<string>bellhop bell</string>
+	<key>🇬🇪</key>
+	<string>flag of Georgia</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>family with two mothers, son and daughter</string>
+	<key>🇸🇬</key>
+	<string>flag of Singapore</string>
+	<key>🇬🇫</key>
+	<string>flag of French Guiana</string>
+	<key>🇨🇫</key>
+	<string>flag of the Central African Republic</string>
+	<key>🇰🇬</key>
+	<string>flag of Kyrgyzstan</string>
+	<key>🗳️</key>
+	<string>ballot box with ballot</string>
+	<key>🇸🇭</key>
+	<string>flag of Saint Helena</string>
+	<key>🇬🇬</key>
+	<string>flag of Guernsey</string>
+	<key>🧑‍⚕️</key>
+	<string>health worker</string>
+	<key>🏃‍♀️</key>
+	<string>woman runner</string>
+	<key>🇨🇬</key>
+	<string>flag of the Republic of the Congo</string>
+	<key>🇰🇭</key>
+	<string>flag of Cambodia</string>
+	<key>🤹‍♂️</key>
+	<string>man juggling</string>
+	<key>🇸🇮</key>
+	<string>flag of Slovenia</string>
+	<key>🇬🇭</key>
+	<string>flag of Ghana</string>
+	<key>〽️</key>
+	<string>part alternation mark</string>
+	<key>🇨🇭</key>
+	<string>flag of Switzerland</string>
+	<key>🇰🇮</key>
+	<string>flag of Kiribati</string>
+	<key>🇸🇯</key>
+	<string>flag of Svalbard and Jan Mayen</string>
+	<key>🕰️</key>
+	<string>mantelpiece clock</string>
+	<key>8️⃣</key>
+	<string>keycap digit eight</string>
+	<key>🇬🇮</key>
+	<string>flag of Gibraltar</string>
+	<key>🤾‍♀️</key>
+	<string>woman playing handball</string>
+	<key>🇨🇮</key>
+	<string>flag of Côte d’Ivoire</string>
+	<key>⬇️</key>
+	<string>down arrow</string>
+	<key>👩‍✈️</key>
+	<string>woman pilot</string>
+	<key>👩‍👧‍👦</key>
+	<string>family with mother, son and daughter</string>
+	<key>🇸🇰</key>
+	<string>flag of Slovakia</string>
+	<key>🌡️</key>
+	<string>thermometer</string>
+	<key>↪️</key>
+	<string>left arrow curving right</string>
+	<key>🇸🇱</key>
+	<string>flag of Sierra Leone</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>two men kissing</string>
+	<key>🇨🇰</key>
+	<string>flag of the Cook Islands</string>
+	<key>🇸🇲</key>
+	<string>flag of San Marino</string>
+	<key>🇬🇱</key>
+	<string>flag of Greenland</string>
+	<key>🇴🇲</key>
+	<string>flag of Oman</string>
+	<key>🇨🇱</key>
+	<string>flag of Chile</string>
+	<key>🇰🇲</key>
+	<string>flag of Comoros</string>
+	<key>🇸🇳</key>
+	<string>flag of Senegal</string>
+	<key>🇬🇲</key>
+	<string>flag of Gambia</string>
+	<key>1️⃣</key>
+	<string>keycap digit one</string>
+	<key>Ⓜ️</key>
+	<string>circled M</string>
+	<key>🇨🇲</key>
+	<string>flag of Cameroon</string>
+	<key>👨‍⚕️</key>
+	<string>man health worker</string>
+	<key>🙎‍♂️</key>
+	<string>man pouting</string>
+	<key>🇰🇳</key>
+	<string>flag of Saint Kitts &amp; Nevis</string>
+	<key>🇸🇴</key>
+	<string>flag of Somalia</string>
+	<key>🇬🇳</key>
+	<string>flag of Guinea</string>
+	<key>🇨🇳</key>
+	<string>flag of China</string>
+	<key>☢️</key>
+	<string>radioactive</string>
+	<key>🇨🇴</key>
+	<string>flag of Colombia</string>
+	<key>‼️</key>
+	<string>red double exclamation mark</string>
+	<key>🃏</key>
+	<string>jokker | kaart | mäng | jokker</string>
+	<key>🇰🇵</key>
+	<string>flag of North Korea</string>
+	<key>🇬🇵</key>
+	<string>flag of Guadeloupe</string>
+	<key>㊗️</key>
+	<string>Japanese sign meaning “congratulations”</string>
+	<key>🐿️</key>
+	<string>chipmunk</string>
+	<key>🇨🇵</key>
+	<string>flag of Clipperton Island</string>
+	<key>🇸🇷</key>
+	<string>flag of Suriname</string>
+	<key>🏳️‍⚧️</key>
+	<string>transgender flag</string>
+	<key>🇬🇶</key>
+	<string>flag of Equatorial Guinea</string>
+	<key>🇼🇸</key>
+	<string>flag of Samoa</string>
+	<key>*️⃣</key>
+	<string>keycap asterisk</string>
+	<key>🇰🇷</key>
+	<string>flag of South Korea</string>
+	<key>🇸🇸</key>
+	<string>flag of South Sudan</string>
+	<key>🇬🇷</key>
+	<string>flag of Greece</string>
+	<key>🇨🇷</key>
+	<string>flag of Costa Rica</string>
+	<key>®️</key>
+	<string>registered sign</string>
+	<key>🇸🇹</key>
+	<string>flag of São Tomé &amp; Príncipe</string>
+	<key>🇬🇸</key>
+	<string>flag of South Georgia &amp; the South Sandwich Islands</string>
+	<key>↕️</key>
+	<string>up-down arrow</string>
+	<key>🇬🇹</key>
+	<string>flag of Guatemala</string>
+	<key>☔️</key>
+	<string>umbrella with rain drops</string>
+	<key>🏳️‍🌈</key>
+	<string>rainbow flag</string>
+	<key>🇸🇻</key>
+	<string>flag of El Salvador</string>
+	<key>🕴️</key>
+	<string>man in business suit levitating</string>
+	<key>⛄️</key>
+	<string>snowman</string>
+	<key>🇬🇺</key>
+	<string>flag of Guam</string>
+	<key>🇨🇺</key>
+	<string>flag of Cuba</string>
+	<key>#️⃣</key>
+	<string>number sign</string>
+	<key>🤼‍♂️</key>
+	<string>men wrestling</string>
+	<key>🌥️</key>
+	<string>sun behind large cloud</string>
+	<key>👁️</key>
+	<string>eye</string>
+	<key>🇨🇻</key>
+	<string>flag of Cape Verde</string>
+	<key>🍽️</key>
+	<string>fork and knife with plate</string>
+	<key>🇰🇼</key>
+	<string>flag of Kuwait</string>
+	<key>🇸🇽</key>
+	<string>flag of Sint Maarten</string>
+	<key>🇬🇼</key>
+	<string>flag of Guinea-Bissau</string>
+	<key>🏕️</key>
+	<string>camping</string>
+	<key>🩰</key>
+	<string>balletikingad | ballett | tants | balletikingad</string>
+	<key>🇨🇼</key>
+	<string>flag of Curaçao</string>
+	<key>🩱</key>
+	<string>trikoo | ujumiskostüüm | ujumistrikoo | ujumistrikoo</string>
+	<key>🇸🇾</key>
+	<string>flag of Syria</string>
+	<key>♥️</key>
+	<string>hearts suit</string>
+	<key>🩲</key>
+	<string>aluspesu | ujumiskostüüm | ujumispüksid | ujumisriie | ujumispüksid</string>
+	<key>🕉️</key>
+	<string>om symbol</string>
+	<key>⚽️</key>
+	<string>soccer ball</string>
+	<key>🩳</key>
+	<string>aluspesu | lühikesed püksid | šortsid | ujumisriie | šortsid</string>
+	<key>🇨🇽</key>
+	<string>flag of Christmas Island</string>
+	<key>🩴</key>
+	<string>plätud | rannajalatsid | rannasandaalid | sandaalid | varbavahesandaalid | varbavahesandaalid</string>
+	<key>🇰🇾</key>
+	<string>flag of the Cayman Islands</string>
+	<key>🇸🇿</key>
+	<string>flag of Eswatini</string>
+	<key>🩵</key>
+	<string>light blue heart</string>
+	<key>👩‍👧‍👧</key>
+	<string>family with mother and two daughters</string>
+	<key>🇬🇾</key>
+	<string>flag of Guyana</string>
+	<key>🩶</key>
+	<string>grey heart</string>
+	<key>🩷</key>
+	<string>pink heart</string>
+	<key>🇨🇾</key>
+	<string>flag of Cyprus</string>
+	<key>🇰🇿</key>
+	<string>flag of Kazakhstan</string>
+	<key>🩸</key>
+	<string>meditsiin | menstruatsioon | veredoonorlus | veretilk | veretilk</string>
+	<key>🩹</key>
+	<string>meditsiin | plaaster | plaaster</string>
+	<key>🩺</key>
+	<string>arst | kuuldetoru | meditsiin | stetoskoop | süda | stetoskoop</string>
+	<key>🇨🇿</key>
+	<string>flag of Czechia</string>
+	<key>🩻</key>
+	<string>X-ray</string>
+	<key>🩼</key>
+	<string>crutch</string>
+	<key>🕶️</key>
+	<string>sunglasses</string>
+	<key>🧘‍♀️</key>
+	<string>woman in lotus position</string>
+	<key>⏯️</key>
+	<string>play/pause symbol</string>
+	<key>🪀</key>
+	<string>edasi-tagasi | jojo | keerlemine | ketas | mänguasi | jojo</string>
+	<key>🌧️</key>
+	<string>cloud with rain</string>
+	<key>🪁</key>
+	<string>lennutamine | lohe | tuul | tuulelohe | tuulelohe</string>
+	<key>🪂</key>
+	<string>langevari | langevarjuga hüppamine | langevarjuhüpe | langevarjur | langevarjur</string>
+	<key>🧑‍🎤</key>
+	<string>artist | laulja | meelelahutaja | staar | laulja</string>
+	<key>🪃</key>
+	<string>austraalia | bumerang | tagasilend | tagasipöördumine | bumerang</string>
+	<key>🪄</key>
+	<string>maagia | nõid | võlukepp | võlur | võlukepp</string>
+	<key>🏗️</key>
+	<string>building construction</string>
+	<key>🪅</key>
+	<string>peomäng | pidu | piñata | piñata</string>
+	<key>🪆</key>
+	<string>matrjoška | matrjoškad | nukk | vene | matrjoška</string>
+	<key>🚴‍♀️</key>
+	<string>woman cyclist</string>
+	<key>🪇</key>
+	<string>maracas</string>
+	<key>🐀</key>
+	<string>rott | rott</string>
+	<key>🪈</key>
+	<string>flute</string>
+	<key>🐁</key>
+	<string>hiir | hiir</string>
+	<key>🐂</key>
+	<string>härg | sodiaak | sõnn | veis | härg</string>
+	<key>🐃</key>
+	<string>pühvel | vesi | vesipühvel | vesipühvel</string>
+	<key>🐄</key>
+	<string>lehm | nägu | lehm</string>
+	<key>🅱️</key>
+	<string>blood type B</string>
+	<key>🐅</key>
+	<string>tiiger | tiiger</string>
+	<key>🐆</key>
+	<string>leopard | leopard</string>
+	<key>🐇</key>
+	<string>jänes | lemmikloom | jänes</string>
+	<key>🐈</key>
+	<string>kass | koer | lemmikloom | kass</string>
+	<key>🪐</key>
+	<string>rõngastega planeet | Saturn | rõngastega planeet</string>
+	<key>♐️</key>
+	<string>Sagittarius</string>
+	<key>🐉</key>
+	<string>draakon | muinasjutt | draakon</string>
+	<key>🪑</key>
+	<string>iste | istumine | tool | tool</string>
+	<key>🕸️</key>
+	<string>spiderweb</string>
+	<key>🐊</key>
+	<string>krokodill | krokodill</string>
+	<key>🪒</key>
+	<string>habe | habemenuga | raseerimine | terav | habemenuga</string>
+	<key>👩‍🍳</key>
+	<string>kokk | naine | naiskokk | naiskokk</string>
+	<key>🐋</key>
+	<string>vaal | vaal</string>
+	<key>👯‍♀️</key>
+	<string>dancing women wearing bunny ears</string>
+	<key>🪓</key>
+	<string>kirves | lõhkumine | puud | raiumine | kirves</string>
+	<key>🐌</key>
+	<string>tigu | tigu</string>
+	<key>🪔</key>
+	<string>diya | diya-lamp | lamp | õli | diya-lamp</string>
+	<key>🐍</key>
+	<string>madu | maokandja | sodiaak | madu</string>
+	<key>🪕</key>
+	<string>bandžo | keelpill | muusika | bandžo</string>
+	<key>🏄‍♂️</key>
+	<string>man surfer</string>
+	<key>🌩️</key>
+	<string>cloud with lightning</string>
+	<key>🐎</key>
+	<string>hobune | ratsasport | võiduajamine | hobune</string>
+	<key>🪖</key>
+	<string>armee | kiiver | sõdur | sõdurikiiver | sõjavägi | sõdurikiiver</string>
+	<key>🐏</key>
+	<string>jäär | oinas | sodiaak | oinas</string>
+	<key>🪗</key>
+	<string>akordion | lõõts | lõõtspill | akordion</string>
+	<key>🐐</key>
+	<string>kaljukits | kits | sodiaak | kits</string>
+	<key>🪘</key>
+	<string>aafrika | djembe | rütm | trumm | aafrika trumm</string>
+	<key>👨‍🎤</key>
+	<string>artist | laulja | mees | meeslaulja | staar | meeslaulja</string>
+	<key>🏙️</key>
+	<string>cityscape</string>
+	<key>🐑</key>
+	<string>lammas | lammas</string>
+	<key>🪙</key>
+	<string>hõbe | kuld | metall | münt | raha | varandus | münt</string>
+	<key>🐒</key>
+	<string>ahv | ahv</string>
+	<key>🪚</key>
+	<string>käsisaag | puit | puusepp | saag | tööriist | käsisaag</string>
+	<key>♉️</key>
+	<string>Taurus</string>
+	<key>🐓</key>
+	<string>kukk | kukk</string>
+	<key>🪛</key>
+	<string>kruvi | kruvikeeraja | tööriist | kruvikeeraja</string>
+	<key>⚡️</key>
+	<string>lightning bolt</string>
+	<key>🐔</key>
+	<string>kana | kana</string>
+	<key>🪜</key>
+	<string>aste | redel | ronima | trepp | redel</string>
+	<key>⛹️</key>
+	<string>basketball player</string>
+	<key>🖥️</key>
+	<string>desktop computer</string>
+	<key>🐕</key>
+	<string>koer | lemmikloom | koer</string>
+	<key>🪝</key>
+	<string>kinnitamine | konks | kõver | püük | tõstmine | konks</string>
+	<key>🧑‍🎨</key>
+	<string>kunstnik | palett | kunstnik</string>
+	<key>🐖</key>
+	<string>emis | siga | siga</string>
+	<key>🪞</key>
+	<string>peegel | peegeldi | peegeldus | peegel</string>
+	<key>🐗</key>
+	<string>kult | metssiga | metssiga</string>
+	<key>🪟</key>
+	<string>aken | avamine | läbipaistev | raam | vaade | aken</string>
+	<key>🐘</key>
+	<string>elevant | elevant</string>
+	<key>🙅‍♀️</key>
+	<string>woman gesturing no</string>
+	<key>🪠</key>
+	<string>imipump | pump | pumpamine | ummistus | valamu | valamupump | valamupump</string>
+	<key>🐙</key>
+	<string>kaheksajalg | kaheksajalg</string>
+	<key>🪡</key>
+	<string>nõel | õmblemine | õmblused | õmblusnõel | rätsep | tikkimine | õmblusnõel</string>
+	<key>🐚</key>
+	<string>karp | spiraalne | spiraalne teokarp | spiraalne teokarp</string>
+	<key>🪢</key>
+	<string>keerd | köis | nöör | siduma | sõlm | sõlm</string>
+	<key>🚣‍♀️</key>
+	<string>woman rowing boat</string>
+	<key>🐛</key>
+	<string>putukas | röövik | röövik</string>
+	<key>🪣</key>
+	<string>ämber | pang | ämber</string>
+	<key>🐜</key>
+	<string>putukas | sipelgas | sipelgas</string>
+	<key>🪤</key>
+	<string>hiirelõks | lõks | püünis | sööt | hiirelõks</string>
+	<key>🐝</key>
+	<string>mesilane | putukas | mesilane</string>
+	<key>🪥</key>
+	<string>hambad | hambahari | hari | hügieen | pesema | vannituba | hambahari</string>
+	<key>🐞</key>
+	<string>lepatriinu | põrnikas | putukas | lepatriinu</string>
+	<key>🪦</key>
+	<string>hauakivi | haud | kalmistu | surnuaed | hauakivi</string>
+	<key>⛲️</key>
+	<string>fountain</string>
+	<key>🐟</key>
+	<string>kala | sodiaak | kala</string>
+	<key>🪧</key>
+	<string>meeleavaldus | plakat | protest | silt | plakat</string>
+	<key>🐠</key>
+	<string>kala | troopiline | troopiline kala</string>
+	<key>🗒️</key>
+	<string>spiral notepad</string>
+	<key>🪨</key>
+	<string>kaljurahn | kivi | kivirahn | raske | tugev | kivi</string>
+	<key>🐡</key>
+	<string>kala | siilkala | siilkala</string>
+	<key>🪩</key>
+	<string>mirror ball</string>
+	<key>🧖‍♂️</key>
+	<string>man in a sauna</string>
+	<key>🌫️</key>
+	<string>fog</string>
+	<key>🐢</key>
+	<string>kilpkonn | kilpkonn</string>
+	<key>🪪</key>
+	<string>identification card</string>
+	<key>🐣</key>
+	<string>koorumine | kooruv tibu | tibu | kooruv tibu</string>
+	<key>🪫</key>
+	<string>low battery</string>
+	<key>🐤</key>
+	<string>tibu | väike tibu | väike tibu</string>
+	<key>🪬</key>
+	<string>hamsa</string>
+	<key>🐥</key>
+	<string>tibu | väike tibu eestvaates | väike tibu eestvaates</string>
+	<key>😶‍🌫️</key>
+	<string>face in clouds</string>
+	<key>🏛️</key>
+	<string>classical building</string>
+	<key>🪭</key>
+	<string>folding hand fan</string>
+	<key>🐦</key>
+	<string>lind | lind</string>
+	<key>🧛‍♀️</key>
+	<string>woman vampire</string>
+	<key>🪮</key>
+	<string>hair pick</string>
+	<key>🐧</key>
+	<string>pingviin | pingviin</string>
+	<key>🪯</key>
+	<string>khanda symbol</string>
+	<key>🐨</key>
+	<string>koaala | koaala</string>
+	<key>⚓️</key>
+	<string>anchor</string>
+	<key>🪰</key>
+	<string>haigus | kärbes | parm | roiskumine | toakärbes | tõuk | tsetsekärbes | kärbes</string>
+	<key>🐩</key>
+	<string>koer | puudel | puudel</string>
+	<key>🪱</key>
+	<string>parasiit | rõnguss | uss | vihmauss | uss</string>
+	<key>🐪</key>
+	<string>dromedar | kaamel | küür | kaamel</string>
+	<key>🪲</key>
+	<string>mardikas | putukas | mardikas</string>
+	<key>👨‍🎨</key>
+	<string>kunstnik | mees | meeskunstnik | palett | meeskunstnik</string>
+	<key>🐫</key>
+	<string>baktrian | kaamel | kahe küüruga kaamel | küür | kahe küüruga kaamel</string>
+	<key>🪳</key>
+	<string>prussakas | putukas | tarakan | prussakas</string>
+	<key>🐬</key>
+	<string>delfiin | loib | delfiin</string>
+	<key>🪴</key>
+	<string>hoolitsema | igav | kasutu | kasvatama | potilill | taim | tuba | potilill</string>
+	<key>🐭</key>
+	<string>hiir | hiire nägu | nägu | hiire nägu</string>
+	<key>🪵</key>
+	<string>ehituspuit | palk | puit | saepuit | puit</string>
+	<key>🐮</key>
+	<string>lehm | lehma nägu | nägu | lehma nägu</string>
+	<key>🪶</key>
+	<string>kerge | lendama | suled | sulg | sulg</string>
+	<key>🐯</key>
+	<string>nägu | tiiger | tiigri nägu | tiigri nägu</string>
+	<key>🪷</key>
+	<string>lotus</string>
+	<key>🐕‍🦺</key>
+	<string>abi | koer | politsei | teenistus | teenistuskoer | teenistuskoer</string>
+	<key>🐰</key>
+	<string>jänes | jänese nägu | lemmikloom | nägu | jänese nägu</string>
+	<key>🪸</key>
+	<string>coral</string>
+	<key>🐱</key>
+	<string>kass | kassi nägu | lemmikloom | nägu | kassi nägu</string>
+	<key>🪹</key>
+	<string>empty nest</string>
+	<key>🐲</key>
+	<string>draakon | draakoni nägu | muinasjutt | nägu | draakoni nägu</string>
+	<key>🪺</key>
+	<string>nest with eggs</string>
+	<key>🐳</key>
+	<string>nägu | vaal | vesi | vett pritsiv vaal | vett pritsiv vaal</string>
+	<key>🪻</key>
+	<string>hyacinth</string>
+	<key>🐴</key>
+	<string>hobune | hobuse nägu | nägu | hobuse nägu</string>
+	<key>🪼</key>
+	<string>jellyfish</string>
+	<key>🐵</key>
+	<string>ahv | ahvi nägu | nägu | ahvi nägu</string>
+	<key>🪽</key>
+	<string>wing</string>
+	<key>🐶</key>
+	<string>koer | koera nägu | lemmikloom | nägu | koera nägu</string>
+	<key>🐷</key>
+	<string>nägu | sea nägu | siga | sea nägu</string>
+	<key>🪿</key>
+	<string>goose</string>
+	<key>🐸</key>
+	<string>konn | konna nägu | nägu | konn</string>
+	<key>🫀</key>
+	<string>keskpunkt | organ | pulss | süda | südamelöök | süda</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>flag of England</string>
+	<key>🐹</key>
+	<string>hamster | hamstri nägu | lemmikloom | nägu | hamster</string>
+	<key>🫁</key>
+	<string>hingamine | hingetõmme | kopsud | organ | sissehingamine | väljahingamine | kopsud</string>
+	<key>🐺</key>
+	<string>hundi nägu | hunt | nägu | hunt</string>
+	<key>🏝️</key>
+	<string>desert island</string>
+	<key>🫂</key>
+	<string>hüvastijätt | kallistavad inimesed | kallistus | tänu | tervitus | kallistavad inimesed</string>
+	<key>🐻</key>
+	<string>karu | nägu | karu</string>
+	<key>🏌️‍♂️</key>
+	<string>man golfer</string>
+	<key>🫃</key>
+	<string>pregnant man</string>
+	<key>🐼</key>
+	<string>nägu | panda | panda</string>
+	<key>🫄</key>
+	<string>pregnant person</string>
+	<key>6️⃣</key>
+	<string>keycap digit six</string>
+	<key>🐽</key>
+	<string>nägu | nina | sea kärss | siga | sea kärss</string>
+	<key>🫅</key>
+	<string>person with crown</string>
+	<key>🐾</key>
+	<string>jalg | jälg | käpajäljed | käpp | käpajäljed</string>
+	<key>👀</key>
+	<string>keha | nägu | silm | silmad | silmad</string>
+	<key>👂</key>
+	<string>keha | kõrv | kõrv</string>
+	<key>👃</key>
+	<string>keha | nina | nina</string>
+	<key>👄</key>
+	<string>huuled | suu | suu</string>
+	<key>👅</key>
+	<string>keel | keha | keel</string>
+	<key>☦️</key>
+	<string>Orthodox cross</string>
+	<key>👆</key>
+	<string>käsi | keha | nimetissõrm | osutamine | sõrm | üles osutav sõrm tagantvaates | üles osutav sõrm tagantvaates</string>
+	<key>👩‍🍼</key>
+	<string>beebi | beebit toitev naine | imetamine | naine | toitmine | beebit toitev naine</string>
+	<key>🫎</key>
+	<string>moose face</string>
+	<key>♾️</key>
+	<string>infinity</string>
+	<key>👇</key>
+	<string>alla osutav sõrm | käsi | keha | nimetissõrm | osutamine | sõrm | alla osutav sõrm</string>
+	<key>🫏</key>
+	<string>donkey</string>
+	<key>👈</key>
+	<string>käsi | keha | nimetissõrm | osutamine | sõrm | vasakule osutav sõrm | vasakule osutav sõrm</string>
+	<key>🫐</key>
+	<string>mari | mustikad | mustikas | sinine | mustikad</string>
+	<key>👉</key>
+	<string>käsi | keha | nimetissõrm | osutamine | paremale osutav sõrm | sõrm | paremale osutav sõrm</string>
+	<key>🫑</key>
+	<string>köögivili | paprika | pipar | paprika</string>
+	<key>👊</key>
+	<string>käsi | keha | löök | rusikalöök | rusikas | rusikalöök</string>
+	<key>🫒</key>
+	<string>oliiv | toit | oliiv</string>
+	<key>⭕️</key>
+	<string>circle mark</string>
+	<key>💁‍♂️</key>
+	<string>information desk man</string>
+	<key>👋</key>
+	<string>käsi | keha | lehvitav käsi | lehvitus | lehvitav käsi</string>
+	<key>🫓</key>
+	<string>arepa | lameleib | lavašš | naan | pita | lameleib</string>
+	<key>👌</key>
+	<string>käsi | keha | OK-käemärk | OK-käemärk</string>
+	<key>🫔</key>
+	<string>maisikakk | mehhiko | täidetud | tamale | tamale</string>
+	<key>👍</key>
+	<string>käsi | keha | meeldib | pöial | meeldib</string>
+	<key>🫕</key>
+	<string>fondüü | juust | nõu | šokolaad | sulatatud | šveitsi | fondüü</string>
+	<key>👎</key>
+	<string>ei meeldi | käsi | keha | pöial | ei meeldi</string>
+	<key>🫖</key>
+	<string>jooma | kann | tee | teekann | teekann</string>
+	<key>🏟️</key>
+	<string>stadium</string>
+	<key>👏</key>
+	<string>aplaus | käsi | keha | plaksutamine | plaksutavad käed | plaksutavad käed</string>
+	<key>🫗</key>
+	<string>pouring liquid</string>
+	<key>💆‍♀️</key>
+	<string>woman getting a head massage</string>
+	<key>👐</key>
+	<string>avatud | avatud käed | käsi | keha | avatud käed</string>
+	<key>🫘</key>
+	<string>beans</string>
+	<key>🐦‍⬛</key>
+	<string>black bird</string>
+	<key>🧑‍🦯</key>
+	<string>ligipääs | pime | valge kepiga inimene | valge kepiga inimene</string>
+	<key>🫙</key>
+	<string>jar</string>
+	<key>🧙‍♂️</key>
+	<string>man mage</string>
+	<key>👑</key>
+	<string>kroon | kuninganna | kuningas | riided | kroon</string>
+	<key>⛏️</key>
+	<string>pick</string>
+	<key>👒</key>
+	<string>kübar | müts | naine | naistekübar | riided | naistekübar</string>
+	<key>🫚</key>
+	<string>ginger root</string>
+	<key>👓</key>
+	<string>mood | prillid | silm | prillid</string>
+	<key>🫛</key>
+	<string>pea pod</string>
+	<key>👔</key>
+	<string>lips | riided | lips</string>
+	<key>👕</key>
+	<string>riided | särk | t-särk | T-särk | T-särk</string>
+	<key>👖</key>
+	<string>püksid | riided | teksad | teksad</string>
+	<key>🧞‍♀️</key>
+	<string>woman genie</string>
+	<key>👗</key>
+	<string>kleit | riided | kleit</string>
+	<key>↙️</key>
+	<string>down-left arrow</string>
+	<key>🧑‍🦰</key>
+	<string>person with red hair</string>
+	<key>🕵️‍♂️</key>
+	<string>man detective</string>
+	<key>👘</key>
+	<string>kimono | riided | kimono</string>
+	<key>🟠</key>
+	<string>kera | oranž | ring | oranž ring</string>
+	<key>🫠</key>
+	<string>melting face</string>
+	<key>🟡</key>
+	<string>kera | kollane | ring | kollane ring</string>
+	<key>👩‍❤️‍👨</key>
+	<string>man and woman with heart</string>
+	<key>👙</key>
+	<string>bikiinid | riided | ujumine | bikiinid</string>
+	<key>◀️</key>
+	<string>left-pointing triangle</string>
+	<key>🫡</key>
+	<string>saluting face</string>
+	<key>🟢</key>
+	<string>kera | ring | roheline | roheline ring</string>
+	<key>👚</key>
+	<string>naine | naisteriided | riided | naisteriided</string>
+	<key>☘️</key>
+	<string>shamrock</string>
+	<key>🫢</key>
+	<string>face with open eyes and hand over mouth</string>
+	<key>🚵‍♂️</key>
+	<string>man mountain biker</string>
+	<key>🟣</key>
+	<string>kera | lilla | ring | lilla ring</string>
+	<key>👛</key>
+	<string>kott | münt | rahakott | ridikül | ridikül</string>
+	<key>🫣</key>
+	<string>face with peeking eye</string>
+	<key>🟤</key>
+	<string>kera | pruun | ring | pruun ring</string>
+	<key>👜</key>
+	<string>käekott | kott | riided | käekott</string>
+	<key>⛈️</key>
+	<string>cloud with lightning and rain</string>
+	<key>🫤</key>
+	<string>face with diagonal mouth</string>
+	<key>🟥</key>
+	<string>nelinurk | punane | ruut | punane ruut</string>
+	<key>👝</key>
+	<string>kott | riided | kott</string>
+	<key>🫥</key>
+	<string>dotted line face</string>
+	<key>🟦</key>
+	<string>nelinurk | ruut | sinine | sinine ruut</string>
+	<key>👞</key>
+	<string>king | mees | meesteking | riided | meesteking</string>
+	<key>🧑‍🦱</key>
+	<string>person with curly hair</string>
+	<key>🫦</key>
+	<string>biting lip</string>
+	<key>🟧</key>
+	<string>nelinurk | oranž | ruut | oranž ruut</string>
+	<key>🦹‍♀️</key>
+	<string>woman supervillain</string>
+	<key>👟</key>
+	<string>jooksuking | king | riided | sport | toss | jooksuking</string>
+	<key>🫧</key>
+	<string>bubbles</string>
+	<key>🟨</key>
+	<string>kollane | nelinurk | ruut | kollane ruut</string>
+	<key>❤️‍🔥</key>
+	<string>heart on fire</string>
+	<key>👠</key>
+	<string>king | konts | kõrge kontsaga king | naine | riided | kõrge kontsaga king</string>
+	<key>🟩</key>
+	<string>nelinurk | roheline | ruut | roheline ruut</string>
+	<key>🫨</key>
+	<string>shaking face</string>
+	<key>👡</key>
+	<string>king | naine | naistesandaal | riided | sandaal | naistesandaal</string>
+	<key>🟪</key>
+	<string>lilla | nelinurk | ruut | lilla ruut</string>
+	<key>👢</key>
+	<string>king | naine | naistesaabas | riided | saabas | naistesaabas</string>
+	<key>🟫</key>
+	<string>nelinurk | pruun | ruut | pruun ruut</string>
+	<key>👣</key>
+	<string>jalajälg | jalajäljed | jälg | keha | jalajäljed</string>
+	<key>🛠️</key>
+	<string>hammer and wrench</string>
+	<key>📽️</key>
+	<string>film projector</string>
+	<key>👤</key>
+	<string>büst | büsti siluett | siluett | büsti siluett</string>
+	<key>☑️</key>
+	<string>ballot box with check</string>
+	<key>🧑‍🦲</key>
+	<string>person with no hair</string>
+	<key>👥</key>
+	<string>büst | büstide siluetid | siluett | büstide siluetid</string>
+	<key>👦</key>
+	<string>noormees | poiss | poiss</string>
+	<key>👨‍🦯</key>
+	<string>ligipääs | mees | pime | valge kepiga mees | valge kepiga mees</string>
+	<key>👧</key>
+	<string>neiu | plika | tüdruk | tüdruk</string>
+	<key>👰‍♂️</key>
+	<string>man with veil</string>
+	<key>👩‍🚀</key>
+	<string>astronaut | kosmos | naine | naisastronaut | rakett | naisastronaut</string>
+	<key>🟰</key>
+	<string>equals sign</string>
+	<key>🏴‍☠️</key>
+	<string>pirate flag</string>
+	<key>👨</key>
+	<string>mees | mees</string>
+	<key>🫰</key>
+	<string>hand with index finger and thumb crossed</string>
+	<key>⏺️</key>
+	<string>record symbol</string>
+	<key>👩</key>
+	<string>naine | naine</string>
+	<key>🫱</key>
+	<string>rightward hand</string>
+	<key>👪</key>
+	<string>ema | isa | laps | perekond | perekond</string>
+	<key>🫲</key>
+	<string>leftward hand</string>
+	<key>👫</key>
+	<string>käed | mees | mees ja naine hoiavad käest kinni | naine | paarike | mees ja naine hoiavad käest kinni</string>
+	<key>🫳</key>
+	<string>palm down hand</string>
+	<key>🧑‍🦳</key>
+	<string>person with white hair</string>
+	<key>👬</key>
+	<string>käed | käest kinni hoidvad mehed | kaks meest hoiavad käest kinni | kaksikud | mehed | paar | käest kinni hoidvad mehed</string>
+	<key>🫴</key>
+	<string>palm up hand</string>
+	<key>👭</key>
+	<string>käed | käest kinni hoidvad naised | kaks naist hoiavad käest kinni | naised | paar | käest kinni hoidvad naised</string>
+	<key>👨‍🦰</key>
+	<string>man with red hair</string>
+	<key>🫵</key>
+	<string>index pointing at the viewer</string>
+	<key>👮</key>
+	<string>politsei | politseinik | politseinik</string>
+	<key>🏊‍♂️</key>
+	<string>man swimmer</string>
+	<key>🫶</key>
+	<string>heart hands</string>
+	<key>👯</key>
+	<string>jänesekõrvadega tüdrukud | jänku | kõrvad | pidutsevad jänesekõrvadega inimesed | tants | tüdrukud | pidutsevad jänesekõrvadega inimesed</string>
+	<key>🫷</key>
+	<string>leftwards pushing hand</string>
+	<key>👰</key>
+	<string>loor | loori kandev inimene | loori kandev pruut | pruut | pulm | loori kandev inimene</string>
+	<key>🫸</key>
+	<string>rightwards pushing hand</string>
+	<key>👱</key>
+	<string>blond | blondide juustega inimene | blondiin | inimene: blondide juustega | inimene: blondide juustega</string>
+	<key>✒️</key>
+	<string>fountain pen</string>
+	<key>👲</key>
+	<string>hiina | Hiina mütsiga mees | mees | müts | Hiina mütsiga mees</string>
+	<key>🧍‍♀️</key>
+	<string>woman standing</string>
+	<key>👳</key>
+	<string>mees | turban | turbaniga inimene | turbaniga inimene</string>
+	<key>👨‍🦱</key>
+	<string>man with curly hair</string>
+	<key>👴</key>
+	<string>eakas mees | mees | vana | eakas mees</string>
+	<key>🙆‍♂️</key>
+	<string>man gesturing OK</string>
+	<key>👵</key>
+	<string>eakas naine | naine | vana | eakas naine</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>family with mother, father, son and daughter</string>
+	<key>👶</key>
+	<string>beebi | imik | tita | titt | beebi</string>
+	<key>👷</key>
+	<string>ehitaja | ehitus | kiiver | tööline | ehitaja</string>
+	<key>▫️</key>
+	<string>white small square</string>
+	<key>👸</key>
+	<string>fantaasia | muinasjutt | printsess | printsess</string>
+	<key>🛢️</key>
+	<string>oil drum</string>
+	<key>☃️</key>
+	<string>snowman with snowflakes</string>
+	<key>👹</key>
+	<string>fantaasia | jaapan | koletis | koll | muinasjutt | nägu | olend | sookoll | sookoll</string>
+	<key>🙋‍♀️</key>
+	<string>woman raising one hand</string>
+	<key>👺</key>
+	<string>fantaasia | jaapan | koletis | koll | mäekoll | muinasjutt | nägu | olend | mäekoll</string>
+	<key>👨‍🦲</key>
+	<string>man with no hair</string>
+	<key>🇹🇦</key>
+	<string>flag of Tristan da Cunha</string>
+	<key>👻</key>
+	<string>kummitus | muinasjutt | nägu | olend | tont | viirastus | kummitus</string>
+	<key>🇵🇦</key>
+	<string>flag of Panama</string>
+	<key>👼</key>
+	<string>ingel | inglibeebi | inglilaps | laps | lapsenägu | muinasjutt | inglibeebi</string>
+	<key>❣️</key>
+	<string>red heart as an exclamation mark</string>
+	<key>👽</key>
+	<string>fantaasia | maaväline | nägu | olend | tulnukas | tulnukas</string>
+	<key>🇱🇦</key>
+	<string>flag of Laos</string>
+	<key>👾</key>
+	<string>koletis | maaväline | nägu | olend | tulnukas | tulnukkoletis | ufo | tulnukkoletis</string>
+	<key>👿</key>
+	<string>deemon | fantaasia | kurat | muinasjutt | nägu | paharet | saatan | deemon</string>
+	<key>💀</key>
+	<string>kolm | kolp | kondid | luud | muinasjutt | nägu | pealuu | surm | kolp</string>
+	<key>🇱🇧</key>
+	<string>flag of Lebanon</string>
+	<key>👨‍🦳</key>
+	<string>man with white hair</string>
+	<key>💁</key>
+	<string>abi | info | infoleti töötaja | käsi | teave | infoleti töötaja</string>
+	<key>🇹🇨</key>
+	<string>flag of the Turks &amp; Caicos Islands</string>
+	<key>🧜‍♂️</key>
+	<string>merman</string>
+	<key>💂</key>
+	<string>valvur | valvur</string>
+	<key>💃</key>
+	<string>naine | tants | tantsimine | tantsiv naine | tantsiv naine</string>
+	<key>◼️</key>
+	<string>black medium square</string>
+	<key>🇱🇨</key>
+	<string>flag of Saint Lucia</string>
+	<key>💄</key>
+	<string>huulepulk | kosmeetika | meik | huulepulk</string>
+	<key>🇹🇩</key>
+	<string>flag of Chad</string>
+	<key>💅</key>
+	<string>hooldus | keha | kosmeetika | küünelakk | küüs | lakk | maniküür | küünelakk</string>
+	<key>💆</key>
+	<string>massaaž | näomassaaž | näomassaaž</string>
+	<key>💇</key>
+	<string>ilusalong | juukselõikus | juuksur | juukselõikus</string>
+	<key>🗜️</key>
+	<string>clamp</string>
+	<key>💈</key>
+	<string>habemeajaja | habemeajaja tähis | juuksur | habemeajaja tähis</string>
+	<key>💉</key>
+	<string>arst | haigus | nõel | ravim | süstal | süstal</string>
+	<key>🇵🇪</key>
+	<string>flag of Peru</string>
+	<key>💊</key>
+	<string>arst | haige | ravim | tablett | tablett</string>
+	<key>💋</key>
+	<string>huuled | musi | romantika | süda | suudluse jälg | suudluse jälg</string>
+	<key>🇹🇫</key>
+	<string>flag of French Southern Territories</string>
+	<key>💌</key>
+	<string>armastus | armastuskiri | kiri | romantika | süda | armastuskiri</string>
+	<key>👩‍❤️‍👩</key>
+	<string>two women with heart</string>
+	<key>🇵🇫</key>
+	<string>flag of French Polynesia</string>
+	<key>🛤️</key>
+	<string>railway track</string>
+	<key>💍</key>
+	<string>romantika | sõrmus | teemant | sõrmus</string>
+	<key>🆎</key>
+	<string>ab | nupp AB (veregrupp) | veri | nupp AB (veregrupp)</string>
+	<key>🇩🇪</key>
+	<string>flag of Germany</string>
+	<key>🈂️</key>
+	<string>Japanese sign meaning “service” or “service charge”</string>
+	<key>💎</key>
+	<string>juveel | kalliskivi | romantika | teemant | kalliskivi</string>
+	<key>♍️</key>
+	<string>Virgo</string>
+	<key>🇹🇬</key>
+	<string>flag of Togo</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>two women kissing</string>
+	<key>💏</key>
+	<string>musi | suudlus | musi</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>hoiavad käest | hoiavad käest kinni | inimene | inimesed hoiavad käest kinni | käed | paar | inimesed hoiavad käest kinni</string>
+	<key>💐</key>
+	<string>kimp | lill | romantika | taim | kimp</string>
+	<key>⛽️</key>
+	<string>fuel pump</string>
+	<key>🇵🇬</key>
+	<string>flag of Papua New Guinea</string>
+	<key>🖱️</key>
+	<string>computer mouse</string>
+	<key>🆑</key>
+	<string>cl | nupp CL | nupp CL</string>
+	<key>💑</key>
+	<string>armastus | paarike südamega | romantika | süda | paarike südamega</string>
+	<key>🆒</key>
+	<string>lahe | nupp COOL | nupp COOL</string>
+	<key>🇹🇭</key>
+	<string>flag of Thailand</string>
+	<key>💒</key>
+	<string>kabel | kirik | pulmad | romantika | pulmad</string>
+	<key>🆓</key>
+	<string>nupp FREE | tasuta | nupp FREE</string>
+	<key>💓</key>
+	<string>löök | pulss | süda | tukslev süda | tukslev süda</string>
+	<key>🆔</key>
+	<string>id | identiteet | nupp ID | nupp ID</string>
+	<key>🇵🇭</key>
+	<string>flag of Philippines</string>
+	<key>👩‍⚖️</key>
+	<string>woman judge</string>
+	<key>💔</key>
+	<string>murtud | süda | murtud süda</string>
+	<key>🇩🇬</key>
+	<string>flag of Diego Garcia</string>
+	<key>🆕</key>
+	<string>nupp NEW | uus | nupp NEW</string>
+	<key>🅿️</key>
+	<string>parking sign</string>
+	<key>💕</key>
+	<string>armastus | kaks südant | süda | kaks südant</string>
+	<key>🤹‍♀️</key>
+	<string>woman juggling</string>
+	<key>🆖</key>
+	<string>ng | nupp NG | nupp NG</string>
+	<key>💖</key>
+	<string>elevil | sädelev süda | sära | süda | sädelev süda</string>
+	<key>🆗</key>
+	<string>nupp OK | ok | nupp OK</string>
+	<key>💗</key>
+	<string>kasvav | närviline | põnev | pulss | süda | kasvav süda</string>
+	<key>👳‍♂️</key>
+	<string>man with turban</string>
+	<key>🆘</key>
+	<string>abi | appi | nupp SOS | sos | nupp SOS</string>
+	<key>💘</key>
+	<string>nool | noolega süda | romantika | süda | noolega süda</string>
+	<key>🇱🇮</key>
+	<string>flag of Liechtenstein</string>
+	<key>🆙</key>
+	<string>märk | nupp UP! | üles | nupp UP!</string>
+	<key>🈯️</key>
+	<string>Japanese sign meaning “reserved”</string>
+	<key>🇹🇯</key>
+	<string>flag of Tajikistan</string>
+	<key>💙</key>
+	<string>sinine | süda | sinine süda</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>family with two fathers and two sons</string>
+	<key>🆚</key>
+	<string>nupp VS | versus | vs | nupp VS</string>
+	<key>💚</key>
+	<string>roheline | süda | roheline süda</string>
+	<key>🇽🇰</key>
+	<string>flag of Kosovo</string>
+	<key>💛</key>
+	<string>kollane | süda | kollane süda</string>
+	<key>🗞️</key>
+	<string>rolled-up newspaper</string>
+	<key>💜</key>
+	<string>lilla | süda | lilla süda</string>
+	<key>🇹🇰</key>
+	<string>flag of Tokelau</string>
+	<key>💝</key>
+	<string>lindiga süda | lint | sõbrapäev | süda | lindiga süda</string>
+	<key>🇵🇰</key>
+	<string>flag of Pakistan</string>
+	<key>💞</key>
+	<string>pöörlev | pöörlevad südamed | süda | pöörlevad südamed</string>
+	<key>🇩🇯</key>
+	<string>flag of Djibouti</string>
+	<key>💟</key>
+	<string>süda | südamekujuline kaunistus | südamekujuline kaunistus</string>
+	<key>🇱🇰</key>
+	<string>flag of Sri Lanka</string>
+	<key>🇹🇱</key>
+	<string>flag of Timor-Leste</string>
+	<key>👩‍🤝‍👨</key>
+	<string>woman and man holding hands</string>
+	<key>💠</key>
+	<string>geomeetria | koomiks | punktiga romb | romb | sees | teemant | punktiga romb</string>
+	<key>🇭🇰</key>
+	<string>flag of Hong Kong</string>
+	<key>💡</key>
+	<string>elekter | idee | lamp | pirn | valgus | lamp</string>
+	<key>🇵🇱</key>
+	<string>flag of Poland</string>
+	<key>🇩🇰</key>
+	<string>flag of Denmark</string>
+	<key>💢</key>
+	<string>koomiks | tige | viha sümbol | vihane | viha sümbol</string>
+	<key>🇹🇲</key>
+	<string>flag of Turkmenistan</string>
+	<key>💣</key>
+	<string>koomiks | pomm | pomm</string>
+	<key>⚗️</key>
+	<string>alembic</string>
+	<key>💤</key>
+	<string>koomiks | uni | zzz | zzz</string>
+	<key>🇵🇲</key>
+	<string>flag of Saint Pierre &amp; Miquelon</string>
+	<key>💥</key>
+	<string>koomiks | piraki | piraki</string>
+	<key>❇️</key>
+	<string>sparkle</string>
+	<key>💦</key>
+	<string>higi | higipiisad | koomiks | piisad | higipiisad</string>
+	<key>🇹🇳</key>
+	<string>flag of Tunisia</string>
+	<key>🧑‍🦼</key>
+	<string>elektrilises ratastoolis inimene | ligipääsetavus | ratastool | elektrilises ratastoolis inimene</string>
+	<key>💧</key>
+	<string>higi | ilm | koomiks | külm | piisk | piisk</string>
+	<key>🇭🇲</key>
+	<string>flag of Heard and McDonald Islands</string>
+	<key>🇵🇳</key>
+	<string>flag of Pitcairn</string>
+	<key>💨</key>
+	<string>jooksmine | kiirustamine | koomiks | kiirustamine</string>
+	<key>🇩🇲</key>
+	<string>flag of Dominica</string>
+	<key>💩</key>
+	<string>kaka | kakahunnik | koletis | koll | koomiks | nägu | sõnnik | kakahunnik</string>
+	<key>🙎‍♀️</key>
+	<string>woman pouting</string>
+	<key>🇹🇴</key>
+	<string>flag of Tonga</string>
+	<key>💪</key>
+	<string>keha | lihas | muskel | pingutatud biitseps | pingutatud biitseps</string>
+	<key>🇭🇳</key>
+	<string>flag of Honduras</string>
+	<key>👩‍👦</key>
+	<string>family with mother and son</string>
+	<key>💫</key>
+	<string>koomiks | peadpööritav | täht | peadpööritav</string>
+	<key>💇‍♂️</key>
+	<string>man getting a haircut</string>
+	<key>💬</key>
+	<string>dialoog | jutt | jutumull | koomiks | mull | jutumull</string>
+	<key>☸️</key>
+	<string>wheel of dharma</string>
+	<key>💭</key>
+	<string>koomiks | mõte | mõttemull | mull | mõttemull</string>
+	<key>🧑‍🦽</key>
+	<string>ligipääsetavus | manuaalses ratastoolis inimene | ratastool | manuaalses ratastoolis inimene</string>
+	<key>💮</key>
+	<string>lill | valge lill | valge lill</string>
+	<key>💯</key>
+	<string>100 | punkt | sada | sada punkti | täis | sada punkti</string>
+	<key>🇩🇴</key>
+	<string>flag of the Dominican Republic</string>
+	<key>💰</key>
+	<string>dollar | kott | raha | rahakott | rahapaun | rahapaun</string>
+	<key>💱</key>
+	<string>pank | raha | vahetus | valuuta | valuutavahetus | valuutavahetus</string>
+	<key>😵‍💫</key>
+	<string>hüpnotiseeritud | probleem | spiraalne | spiraalsilmadega nägu | uimane | spiraalsilmadega nägu</string>
+	<key>👩‍👧</key>
+	<string>family with mother and daughter</string>
+	<key>🧟‍♂️</key>
+	<string>man zombie</string>
+	<key>💲</key>
+	<string>dollar | raha | suur dollarimärk | valuuta | suur dollarimärk</string>
+	<key>💳</key>
+	<string>kaart | krediit | krediitkaart | pank | raha | krediitkaart</string>
+	<key>🇹🇷</key>
+	<string>flag of Türkiye</string>
+	<key>💴</key>
+	<string>jeen | jeeni rahatäht | pank | raha | rahatäht | valuuta | jeeni rahatäht</string>
+	<key>💵</key>
+	<string>dollar | dollari rahatäht | pank | raha | rahatäht | valuuta | dollari rahatäht</string>
+	<key>🇵🇷</key>
+	<string>flag of Puerto Rico</string>
+	<key>💶</key>
+	<string>euro | pank | raha | rahatäht | valuuta | euro rahatäht</string>
+	<key>🇱🇷</key>
+	<string>flag of Liberia</string>
+	<key>💷</key>
+	<string>nael | naela rahatäht | naelsterling | pank | rahatäht | valuuta | naela rahatäht</string>
+	<key>💸</key>
+	<string>dollar | pank | raha | tiibadega raha | tiivad | tiibadega raha</string>
+	<key>🇭🇷</key>
+	<string>flag of Croatia</string>
+	<key>🇵🇸</key>
+	<string>flag of the Palestinian Territories</string>
+	<key>💹</key>
+	<string>graafik | jeen | kasv | tõusev graafik jeenisümboliga | turg | valuuta | tõusev graafik jeenisümboliga</string>
+	<key>💺</key>
+	<string>iste | tool | iste</string>
+	<key>🇱🇸</key>
+	<string>flag of Lesotho</string>
+	<key>🇹🇹</key>
+	<string>flag of Trinidad &amp; Tobago</string>
+	<key>💻</key>
+	<string>arvuti | sülearvuti | sülearvuti</string>
+	<key>💼</key>
+	<string>kohver | portfell | portfell</string>
+	<key>👨‍🦼</key>
+	<string>elektriratastoolis mees | elektriratastoolis olev mees | ligipääs | mees | ratastool | elektriratastoolis olev mees</string>
+	<key>🇵🇹</key>
+	<string>flag of Portugal</string>
+	<key>💽</key>
+	<string>arvuti | arvutiketas | ketas | optiline | arvutiketas</string>
+	<key>🇱🇹</key>
+	<string>flag of Lithuania</string>
+	<key>💾</key>
+	<string>arvuti | diskett | ketas | diskett</string>
+	<key>🇭🇹</key>
+	<string>flag of Haiti</string>
+	<key>💿</key>
+	<string>arvuti | CD | DVD | ketas | optiline | optiline ketas</string>
+	<key>📀</key>
+	<string>arvuti | blu-ray | DVD | ketas | optiline | DVD</string>
+	<key>🤷‍♂️</key>
+	<string>man shrugging</string>
+	<key>📁</key>
+	<string>dokument | fail | kaust | kaust</string>
+	<key>🇱🇺</key>
+	<string>flag of Luxembourg</string>
+	<key>☪️</key>
+	<string>star and crescent</string>
+	<key>🇹🇻</key>
+	<string>flag of Tuvalu</string>
+	<key>📂</key>
+	<string>avatud | dokument | fail | kaust | avatud kaust</string>
+	<key>4️⃣</key>
+	<string>keycap digit four</string>
+	<key>🇭🇺</key>
+	<string>flag of Hungary</string>
+	<key>👨‍🦽</key>
+	<string>ligipääs | manuaalratastoolis mees | manuaalratastoolis olev mees | mees | ratastool | manuaalratastoolis olev mees</string>
+	<key>📃</key>
+	<string>dokument | kaardunud paberileht | leht | kaardunud paberileht</string>
+	<key>🖊️</key>
+	<string>ballpoint pen</string>
+	<key>📄</key>
+	<string>dokument | leht | paberilehe eestvaade | paberilehe eestvaade</string>
+	<key>🇱🇻</key>
+	<string>flag of Latvia</string>
+	<key>🇹🇼</key>
+	<string>flag of Taiwan</string>
+	<key>📅</key>
+	<string>kalender | kuupäev | kalender</string>
+	<key>🤼‍♀️</key>
+	<string>women wrestling</string>
+	<key>📆</key>
+	<string>kalender | kuupäev | rebitav kalender | rebitav kalender</string>
+	<key>🇵🇼</key>
+	<string>flag of Palau</string>
+	<key>📇</key>
+	<string>kaart | kataloog | register | kataloog</string>
+	<key>📈</key>
+	<string>graafik | kasv | tendents | tõusev graafik | üles | tõusev graafik</string>
+	<key>🧑‍🔧</key>
+	<string>elektrik | mehaanik | torulukksepp | torumees | mehaanik</string>
+	<key>📉</key>
+	<string>alla | graafik | langev graafik | langus | tendents | langev graafik</string>
+	<key>〰️</key>
+	<string>wavy dash</string>
+	<key>📊</key>
+	<string>diagramm | graafik | tulp | tulpdiagramm | tulpdiagramm</string>
+	<key>📋</key>
+	<string>alus | kirjutamisalus | leht | paber | kirjutamisalus</string>
+	<key>☣️</key>
+	<string>biohazard</string>
+	<key>📌</key>
+	<string>nõel | nööpnõel | nööpnõel</string>
+	<key>♻️</key>
+	<string>recycling symbol</string>
+	<key>📍</key>
+	<string>nõel | nööpnõel | ümara peaga nööpnõel | ümara peaga nööpnõel</string>
+	<key>🇵🇾</key>
+	<string>flag of Paraguay</string>
+	<key>⛓️</key>
+	<string>chains</string>
+	<key>📎</key>
+	<string>kirjaklamber | klamber | kirjaklamber</string>
+	<key>🧎‍♂️</key>
+	<string>man kneeling</string>
+	<key>🇱🇾</key>
+	<string>flag of Libya</string>
+	<key>📏</key>
+	<string>sirge | sirge joonlaud | sirge joonlaud</string>
+	<key>🇹🇿</key>
+	<string>flag of Tanzania</string>
+	<key>📐</key>
+	<string>joonlaud | kolmnurk | kolmnurkne joonlaud | kolmnurkne joonlaud</string>
+	<key>📑</key>
+	<string>järjehoidja | järjehoidjad | märgis | marker | järjehoidjad</string>
+	<key>📒</key>
+	<string>arve | arveraamat | raamat | arveraamat</string>
+	<key>📓</key>
+	<string>päevik | raamat | päevik</string>
+	<key>👩‍🤝‍👩</key>
+	<string>women holding hands</string>
+	<key>📔</key>
+	<string>dekoratiivse kaanega märkmik | kaaned | märkmik | raamat | dekoratiivse kaanega märkmik</string>
+	<key>🇩🇿</key>
+	<string>flag of Algeria</string>
+	<key>📕</key>
+	<string>raamat | suletud | suletud raamat</string>
+	<key>📖</key>
+	<string>avatud | raamat | avatud raamat</string>
+	<key>📗</key>
+	<string>raamat | roheline | roheline raamat</string>
+	<key>🖌️</key>
+	<string>paintbrush</string>
+	<key>📘</key>
+	<string>raamat | sinine | sinine raamat</string>
+	<key>📙</key>
+	<string>oranž | raamat | oranž raamat</string>
+	<key>👩‍👩‍👦</key>
+	<string>family with two mothers and son</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>family with two fathers and two daughters</string>
+	<key>📚</key>
+	<string>raamat | raamatud | raamatud</string>
+	<key>📛</key>
+	<string>märk | nimesilt | nimi | nimesilt</string>
+	<key>📜</key>
+	<string>käsikiri | paber | käsikiri</string>
+	<key>📝</key>
+	<string>märge | memo | pliiats | memo</string>
+	<key>↖️</key>
+	<string>up-left arrow</string>
+	<key>🤦‍♂️</key>
+	<string>man facepalming</string>
+	<key>📞</key>
+	<string>telefon | telefonitoru | toru | telefonitoru</string>
+	<key>👩‍🎓</key>
+	<string>lõpetaja | naine | naisõpilane | õpilane | naisõpilane</string>
+	<key>👩‍🚒</key>
+	<string>naine | naistuletõrjuja | tuletõrjeauto | tuletõrjuja | naistuletõrjuja</string>
+	<key>⤴️</key>
+	<string>right arrow curving up</string>
+	<key>👨‍🔧</key>
+	<string>elektrik | mees | meesmehaanik | mehaanik | torulukksepp | torumees | meesmehaanik</string>
+	<key>📟</key>
+	<string>peiler | piipar | piipar</string>
+	<key>☕️</key>
+	<string>hot beverage</string>
+	<key>📠</key>
+	<string>faks | faksimasin | masin | faksimasin</string>
+	<key>📡</key>
+	<string>antenn | satelliit | satelliitantenn | taldrik | satelliitantenn</string>
+	<key>⛅️</key>
+	<string>sun behind cloud</string>
+	<key>📢</key>
+	<string>avalik | kõne | vali | valjuhääldi | valjuhääldi</string>
+	<key>🧑‍🌾</key>
+	<string>aednik | farmer | talunik | talunik</string>
+	<key>✝️</key>
+	<string>Latin cross</string>
+	<key>📣</key>
+	<string>kõne | megafon | megafon</string>
+	<key>📤</key>
+	<string>alus | kast | kiri | post | väljaminev post | väljaminev post</string>
+	<key>📥</key>
+	<string>alus | kast | kiri | post | sissetulev post | sissetulev post</string>
+	<key>📦</key>
+	<string>kast | pakk | pakk</string>
+	<key>📧</key>
+	<string>kiri | meil | meilisõnum | ümbrik | meilisõnum</string>
+	<key>📨</key>
+	<string>e-post | kiri | meil | sissetulev ümbrik | ümbrik | sissetulev ümbrik</string>
+	<key>📩</key>
+	<string>e-kiri | nool | noolega ümbrik | saadetud | ümbrik | noolega ümbrik</string>
+	<key>▶️</key>
+	<string>right-pointing triangle</string>
+	<key>🧑‍🔬</key>
+	<string>bioloog | füüsik | insener | keemik | teadlane | teadlane</string>
+	<key>📪</key>
+	<string>postkast | suletud | suletud postkast langetatud lipuga | suletud postkast langetatud lipuga</string>
+	<key>☎️</key>
+	<string>telephone</string>
+	<key>🈷️</key>
+	<string>Japanese sign meaning “monthly amount”</string>
+	<key>♦️</key>
+	<string>diamonds suit</string>
+	<key>📫</key>
+	<string>postkast | suletud | suletud postkast tõstetud lipuga | suletud postkast tõstetud lipuga</string>
+	<key>📬</key>
+	<string>avatud | avatud postkast tõstetud lipuga | postkast | avatud postkast tõstetud lipuga</string>
+	<key>⚾️</key>
+	<string>baseball</string>
+	<key>📭</key>
+	<string>avatud | avatud postkast langetatud lipuga | postkast | avatud postkast langetatud lipuga</string>
+	<key>✖️</key>
+	<string>multiplication symbol</string>
+	<key>📮</key>
+	<string>post | postkast | postkast</string>
+	<key>📯</key>
+	<string>post | postisarv | sarv | postisarv</string>
+	<key>🏄‍♀️</key>
+	<string>woman surfer</string>
+	<key>📰</key>
+	<string>ajaleht | uudised | ajaleht</string>
+	<key>📱</key>
+	<string>mobiil | mobiiltelefon | telefon | mobiiltelefon</string>
+	<key>🎗️</key>
+	<string>reminder ribbon</string>
+	<key>📲</key>
+	<string>kõne | mobiil | nool | noolega mobiiltelefon | telefon | noolega mobiiltelefon</string>
+	<key>📳</key>
+	<string>mobiil | režiim | telefon | värin | värinarežiim | värinarežiim</string>
+	<key>📴</key>
+	<string>mobiil | telefon | väljalülitatud mobiiltelefon | väljas | väljalülitatud mobiiltelefon</string>
+	<key>📵</key>
+	<string>ei | keelatud | mobiil | telefon | telefonid on keelatud | telefonid on keelatud</string>
+	<key>♟️</key>
+	<string>chess pawn</string>
+	<key>📶</key>
+	<string>antenn | levi | mobiil | signaal | telefon | levi</string>
+	<key>📷</key>
+	<string>kaamera | video | kaamera</string>
+	<key>✏️</key>
+	<string>pencil</string>
+	<key>📸</key>
+	<string>foto | kaamera | pildistamine | välguga kaamera | välk | välguga kaamera</string>
+	<key>👨‍🌾</key>
+	<string>aednik | farmer | mees | meesfarmer | põllumees | meesfarmer</string>
+	<key>📹</key>
+	<string>kaamera | video | videokaamera | videokaamera</string>
+	<key>📺</key>
+	<string>teler | tv | video | teler</string>
+	<key>🐻‍❄️</key>
+	<string>polar bear</string>
+	<key>📻</key>
+	<string>raadio | raadio</string>
+	<key>📼</key>
+	<string>kassett | video | videokassett | videokassett</string>
+	<key>☀️</key>
+	<string>sun</string>
+	<key>📿</key>
+	<string>helmed | kaelakee | palvehelmed | palvetamine | riided | usk | palvehelmed</string>
+	<key>👨‍🔬</key>
+	<string>bioloog | füüsik | insener | keemik | meesteadlane | meesteadlane</string>
+	<key>🔀</key>
+	<string>juhuslik | juhusliku järjekorra nupp | nool | risti | juhusliku järjekorra nupp</string>
+	<key>🈁</key>
+	<string>&amp;quot;siin&amp;quot; | jaapani keel | jaapani nupp &amp;quot;siin&amp;quot; | katakana | ココ | jaapani nupp &amp;quot;siin&amp;quot;</string>
+	<key>⚰️</key>
+	<string>coffin</string>
+	<key>🔁</key>
+	<string>kordamisnupp | kordus | nool | päripäeva | kordamisnupp</string>
+	<key>🖐️</key>
+	<string>raised hand with fingers splayed</string>
+	<key>✈️</key>
+	<string>airplane</string>
+	<key>🔂</key>
+	<string>kordus | nool | päripäeva | ühe korduse nupp | ühe korduse nupp</string>
+	<key>🗨️</key>
+	<string>left speech bubble</string>
+	<key>🔃</key>
+	<string>laadimine | nool | päripäeva | vertikaalsed nooled päripäeva | vertikaalsed nooled päripäeva</string>
+	<key>🧖‍♀️</key>
+	<string>woman in a sauna</string>
+	<key>🔄</key>
+	<string>nool | nooled vastupäeva | vastupäeva | nooled vastupäeva</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>family with two mothers and two sons</string>
+	<key>👩‍⚕️</key>
+	<string>woman health worker</string>
+	<key>™️</key>
+	<string>trade mark sign</string>
+	<key>🔅</key>
+	<string>eredus | hämar | tuhm | tuhmistamisnupp | tuhmistamisnupp</string>
+	<key>🔆</key>
+	<string>ere | eredus | ereduse nupp | ereduse nupp</string>
+	<key>🎙️</key>
+	<string>studio microphone</string>
+	<key>🔇</key>
+	<string>heli | kõlar | vaigistatud kõlar | vaikne | vaigistatud kõlar</string>
+	<key>🔈</key>
+	<string>heli | vaikse heliga kõlar | vaikse heliga kõlar</string>
+	<key>🛰️</key>
+	<string>satellite</string>
+	<key>🔉</key>
+	<string>heli | kõlar | poolvalju heliga kõlar | vaikne | poolvalju heliga kõlar</string>
+	<key>♑️</key>
+	<string>Capricorn</string>
+	<key>🔊</key>
+	<string>heli | kõlar | vali | valju heliga kõlar | valju heliga kõlar</string>
+	<key>🔋</key>
+	<string>aku | patarei | aku</string>
+	<key>🔌</key>
+	<string>elekter | elektripistik | pistik | elektripistik</string>
+	<key>👩‍👩‍👧</key>
+	<string>family with two mothers and daughter</string>
+	<key>🔍</key>
+	<string>otsi | suurendusklaas | tööriist | vasakule kallutatud luup | vasakule kallutatud luup</string>
+	<key>🔎</key>
+	<string>otsi | paremale kallutatud luup | suurendusklaas | tööriist | paremale kallutatud luup</string>
+	<key>🔏</key>
+	<string>lukk | lukk ja pastakas | lukk ja sulepea | privaatsus | sulepea | tint | lukk ja pastakas</string>
+	<key>🔐</key>
+	<string>lukk | lukus | suletud | suletud lukk võtmega | võti | suletud lukk võtmega</string>
+	<key>🔑</key>
+	<string>lukk | parool | võti | võti</string>
+	<key>🔒</key>
+	<string>lukk | lukus | suletud | lukk</string>
+	<key>🔓</key>
+	<string>avatud | lukk | avatud lukk</string>
+	<key>♊️</key>
+	<string>Gemini</string>
+	<key>🔔</key>
+	<string>kell | kelluke | kelluke</string>
+	<key>🔕</key>
+	<string>keelatud | kelluke | kelluke keelumärgiga | vaigistatud kelluke | vaigistus | vaikne | vaikus | vaigistatud kelluke</string>
+	<key>⛺️</key>
+	<string>tent</string>
+	<key>🔖</key>
+	<string>järjehoidja | järjehoidja</string>
+	<key>🔗</key>
+	<string>lüli | lüli</string>
+	<key>🔘</key>
+	<string>geomeetria | nupp | raadio | raadionupp | raadionupp</string>
+	<key>🔙</key>
+	<string>nool | nool BACK | tagasi | nool BACK</string>
+	<key>🔚</key>
+	<string>lõpp | nool | nool END | nool END</string>
+	<key>🔛</key>
+	<string>märk | nool | nool ON! | nool ON!</string>
+	<key>🎛️</key>
+	<string>control knobs</string>
+	<key>🔜</key>
+	<string>nool | nool SOON | varsti | nool SOON</string>
+	<key>🏳️</key>
+	<string>white flag</string>
+	<key>🔝</key>
+	<string>nool | nool TOP | üles | nool TOP</string>
+	<key>🔞</key>
+	<string>18 | alaealine | alla 18-aastastele keelatud | kaheksateist | keelatud | vanusepiirang | alla 18-aastastele keelatud</string>
+	<key>🔟</key>
+	<string>keycap ten</string>
+	<key>⚛️</key>
+	<string>atom symbol</string>
+	<key>🔠</key>
+	<string>abcd | ladina | suurtähed | tähed | ladina suurtähed</string>
+	<key>⛳️</key>
+	<string>golf hole with flag</string>
+	<key>🔡</key>
+	<string>abcd | ladina | tähed | väiketähed | ladina väiketähed</string>
+	<key>🤽‍♂️</key>
+	<string>man playing water polo</string>
+	<key>🔢</key>
+	<string>1234 | numbrid | numbrid</string>
+	<key>🔣</key>
+	<string>sisestus | sümbolid | sümbolid</string>
+	<key>🔤</key>
+	<string>abc | ladina | tähed | tähestik | ladina tähed</string>
+	<key>🔥</key>
+	<string>leek | tuli | tuli</string>
+	<key>🔦</key>
+	<string>elekter | taskulamp | tööriist | valgus | taskulamp</string>
+	<key>🔧</key>
+	<string>mutrivõti | tööriist | mutrivõti</string>
+	<key>🔨</key>
+	<string>haamer | tööriist | haamer</string>
+	<key>🔩</key>
+	<string>mutter | polt | polt ja mutter | tööriist | polt ja mutter</string>
+	<key>⚔️</key>
+	<string>crossed swords</string>
+	<key>🔪</key>
+	<string>kööginuga | köök | nuga | relv | tööriist | kööginuga</string>
+	<key>🔫</key>
+	<string>püstol | relv | revolver | tööriist | veepüstol | veepüstol</string>
+	<key>❄️</key>
+	<string>snowflake</string>
+	<key>🔬</key>
+	<string>mikroskoop | tööriist | mikroskoop</string>
+	<key>💁‍♀️</key>
+	<string>information desk woman</string>
+	<key>🔭</key>
+	<string>teleskoop | tööriist | teleskoop</string>
+	<key>🔮</key>
+	<string>ennustamine | kristallkuul | muinasjutt | tööriist | kristallkuul</string>
+	<key>🧔‍♂️</key>
+	<string>bearded man</string>
+	<key>🔯</key>
+	<string>õnn | punktiga kuusnurkne täht | täht | punktiga kuusnurkne täht</string>
+	<key>🔰</key>
+	<string>algaja | algaja sümbol | kollane | leht | roheline | algaja sümbol</string>
+	<key>🔱</key>
+	<string>ankur | embleem | kolmhargi sümbol | kolmhark | laev | kolmhargi sümbol</string>
+	<key>🈲</key>
+	<string>&amp;quot;keelatud&amp;quot; | ideogramm | jaapani keel | jaapani nupp &amp;quot;keelatud&amp;quot; | 禁 | jaapani nupp &amp;quot;keelatud&amp;quot;</string>
+	<key>🏵️</key>
+	<string>rosette</string>
+	<key>🔲</key>
+	<string>geomeetria | must ruudukujuline nupp | nupp | piirjoon | ruut | must ruudukujuline nupp</string>
+	<key>🈳</key>
+	<string>&amp;quot;vaba&amp;quot; | ideogramm | jaapani keel | jaapani nupp &amp;quot;vaba&amp;quot; | 空 | jaapani nupp &amp;quot;vaba&amp;quot;</string>
+	<key>🔳</key>
+	<string>geomeetria | nupp | piirjoon | ruut | valge ruudukujuline nupp | valge ruudukujuline nupp</string>
+	<key>🈴</key>
+	<string>&amp;quot;sooritatud&amp;quot; | ideogramm | jaapani keel | jaapani nupp &amp;quot;sooritatud&amp;quot; | 合 | jaapani nupp &amp;quot;sooritatud&amp;quot;</string>
+	<key>🧙‍♀️</key>
+	<string>woman mage</string>
+	<key>🔴</key>
+	<string>geomeetria | punane | ring | punane ring</string>
+	<key>🈵</key>
+	<string>&amp;quot;pole vaba&amp;quot; | ideogramm | jaapani keel | jaapani nupp &amp;quot;pole vaba&amp;quot; | 満 | jaapani nupp &amp;quot;pole vaba&amp;quot;</string>
+	<key>🔵</key>
+	<string>geomeetria | ring | sinine | sinine ring</string>
+	<key>🈶</key>
+	<string>&amp;quot;pole tasuta&amp;quot; | ideogramm | jaapani keel | jaapani nupp &amp;quot;pole tasuta&amp;quot; | 有 | jaapani nupp &amp;quot;pole tasuta&amp;quot;</string>
+	<key>🔶</key>
+	<string>geomeetria | oranž | romb | suur oranž romb | teemant | suur oranž romb</string>
+	<key>🔷</key>
+	<string>geomeetria | romb | sinine | suur sinine romb | teemant | suur sinine romb</string>
+	<key>🈸</key>
+	<string>&amp;quot;rakendus&amp;quot; | ideogramm | jaapani keel | jaapani nupp &amp;quot;rakendus&amp;quot; | 申 | jaapani nupp &amp;quot;rakendus&amp;quot;</string>
+	<key>🔸</key>
+	<string>geomeetria | oranž | romb | teemant | väike oranž romb | väike oranž romb</string>
+	<key>🈹</key>
+	<string>&amp;quot;allahindlus&amp;quot; | ideogramm | jaapani keel | jaapani nupp &amp;quot;allahindlus&amp;quot; | 割 | jaapani nupp &amp;quot;allahindlus&amp;quot;</string>
+	<key>🔹</key>
+	<string>geomeetria | romb | sinine | teemant | väike sinine romb | väike sinine romb</string>
+	<key>9️⃣</key>
+	<string>keycap digit nine</string>
+	<key>🈺</key>
+	<string>&amp;quot;avatud&amp;quot; | ideogramm | jaapani keel | jaapani nupp &amp;quot;avatud&amp;quot; | 営 | jaapani nupp &amp;quot;avatud&amp;quot;</string>
+	<key>🔺</key>
+	<string>geomeetria | punane | punane kolmnurk | üles | punane kolmnurk</string>
+	<key>🔻</key>
+	<string>alla | geomeetria | punane | punane tagurpidi kolmnurk | punane tagurpidi kolmnurk</string>
+	<key>🀄️</key>
+	<string>mahjong tile red dragon</string>
+	<key>🔼</key>
+	<string>nool | nupp | üles | ülesnupp | ülesnupp</string>
+	<key>🚵‍♀️</key>
+	<string>woman mountain biker</string>
+	<key>☮️</key>
+	<string>peace symbol</string>
+	<key>🔽</key>
+	<string>alla | allanupp | nool | nupp | allanupp</string>
+	<key>👨‍👦‍👦</key>
+	<string>family with father and two sons</string>
+	<key>⬅️</key>
+	<string>left arrow</string>
+	<key>⛎</key>
+	<string>Maokandja | sodiaak | Maokandja</string>
+	<key>🎟️</key>
+	<string>admission ticket</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>family with two mothers and two daughters</string>
+	<key>🏷️</key>
+	<string>label tag</string>
+	<key>2️⃣</key>
+	<string>keycap digit two</string>
+	<key>♿️</key>
+	<string>wheelchair symbol</string>
+	<key>👰‍♀️</key>
+	<string>woman with veil</string>
+	<key>🗃️</key>
+	<string>card file box</string>
+	<key>🕋</key>
+	<string>islam | kaaba | moslem | usk | kaaba</string>
+	<key>🕌</key>
+	<string>islam | mošee | moslem | usk | mošee</string>
+	<key>🕍</key>
+	<string>judaism | juut | sünagoog | usk | sünagoog</string>
+	<key>🕎</key>
+	<string>küünlajalg | menoraa | usk | menoraa</string>
+	<key>👩‍🎤</key>
+	<string>artist | laulja | naine | naislaulja | staar | naislaulja</string>
+	<key>🉐</key>
+	<string>&amp;quot;soodne&amp;quot; | ideogramm | jaapani keel | jaapani nupp &amp;quot;soodne&amp;quot; | 得 | jaapani nupp &amp;quot;soodne&amp;quot;</string>
+	<key>🏌️</key>
+	<string>golfer</string>
+	<key>🛋️</key>
+	<string>couch and lamp</string>
+	<key>🕐</key>
+	<string>00 | 1 | 1:00 | kell | üks | kell üks</string>
+	<key>🏊‍♀️</key>
+	<string>woman swimmer</string>
+	<key>🉑</key>
+	<string>&amp;quot;vastuvõetav&amp;quot; | ideogramm | jaapani keel | jaapani nupp &amp;quot;vastuvõetav&amp;quot; | 可 | jaapani nupp &amp;quot;vastuvõetav&amp;quot;</string>
+	<key>☠️</key>
+	<string>skull and crossbones</string>
+	<key>🕑</key>
+	<string>00 | 2 | 2:00 | kaks | kell | kell kaks</string>
+	<key>🕒</key>
+	<string>00 | 3 | 3:00 | kell | kolm | kell kolm</string>
+	<key>🏋️‍♀️</key>
+	<string>woman weightlifter</string>
+	<key>🕓</key>
+	<string>00 | 4 | 4:00 | kell | neli | kell neli</string>
+	<key>🕔</key>
+	<string>00 | 5 | 5:00 | kell | viis | kell viis</string>
+	<key>🕕</key>
+	<string>00 | 6 | 6:00 | kell | kuus | kell kuus</string>
+	<key>🕖</key>
+	<string>00 | 7 | 7:00 | kell | seitse | kell seitse</string>
+	<key>🙆‍♀️</key>
+	<string>woman gesturing OK</string>
+	<key>🕗</key>
+	<string>00 | 8 | 8:00 | kaheksa | kell | kell kaheksa</string>
+	<key>🕘</key>
+	<string>00 | 9 | 9:00 | kell | üheksa | kell üheksa</string>
+	<key>🕙</key>
+	<string>00 | 10 | 10:00 | kell | kümme | kell kümme</string>
+	<key>🕚</key>
+	<string>00 | 11 | 11:00 | kell | üksteist | kell üksteist</string>
+	<key>🕛</key>
+	<string>00 | 12 | 12:00 | kaksteist | kell | kell kaksteist</string>
+	<key>🕜</key>
+	<string>1 | 1:30 | 30 | kaks | kell | pool | kell pool kaks</string>
+	<key>🇺🇦</key>
+	<string>flag of Ukraine</string>
+	<key>🕝</key>
+	<string>2 | 2:30 | 30 | kell | kolm | pool | kell pool kolm</string>
+	<key>🇶🇦</key>
+	<string>flag of Qatar</string>
+	<key>🕞</key>
+	<string>3 | 3:30 | 30 | kell | neli | pool | kell pool neli</string>
+	<key>✡️</key>
+	<string>Star of David</string>
+	<key>🇲🇦</key>
+	<string>flag of Morocco</string>
+	<key>🕟</key>
+	<string>30 | 4 | 4:30 | kell | pool | viis | kell pool viis</string>
+	<key>🧗‍♂️</key>
+	<string>man rock climber</string>
+	<key>🕠</key>
+	<string>30 | 5 | 5:30 | kell | kuus | pool | kell pool kuus</string>
+	<key>🕡</key>
+	<string>30 | 6 | 6:30 | kell | pool | seitse | kell pool seitse</string>
+	<key>🇪🇦</key>
+	<string>flag of Ceuta and Melilla</string>
+	<key>🕢</key>
+	<string>30 | 7 | 7:30 | kaheksa | kell | pool | kell pool kaheksa</string>
+	<key>✅</key>
+	<string>märge | märkenupp | suur valge märge | märkenupp</string>
+	<key>🕣</key>
+	<string>30 | 8 | 8:30 | kell | pool | üheksa | kell pool üheksa</string>
+	<key>🧜‍♀️</key>
+	<string>mermaid</string>
+	<key>🏎️</key>
+	<string>race car</string>
+	<key>🕤</key>
+	<string>30 | 9 | 9:30 | kell | kümme | pool | kell pool kümme</string>
+	<key>🛍️</key>
+	<string>shopping bags</string>
+	<key>🕥</key>
+	<string>10 | 10:30 | 30 | kell | pool | üksteist | kell pool üksteist</string>
+	<key>✊</key>
+	<string>käsi | keha | löök | rusikas | ülestõstetud rusikas | ülestõstetud rusikas</string>
+	<key>🇲🇨</key>
+	<string>flag of Monaco</string>
+	<key>✋</key>
+	<string>käsi | keha | ülestõstetud käsi | ülestõstetud käsi</string>
+	<key>🕦</key>
+	<string>11 | 11:30 | 30 | kell | kell pool kaksteist | pool kaksteist | kell pool kaksteist</string>
+	<key>🕧</key>
+	<string>12 | 12:30 | 30 | kell | pool | üks | kell pool üks</string>
+	<key>🇮🇨</key>
+	<string>flag of the Canary Islands</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>flag of Wales</string>
+	<key>🇾🇪</key>
+	<string>flag of Yemen</string>
+	<key>🇪🇨</key>
+	<string>flag of Ecuador</string>
+	<key>👩‍🎨</key>
+	<string>kunstnik | naine | naiskunstnik | palett | naiskunstnik</string>
+	<key>🇲🇩</key>
+	<string>flag of Moldova</string>
+	<key>🇦🇨</key>
+	<string>flag of Ascension Island</string>
+	<key>🇮🇩</key>
+	<string>flag of Indonesia</string>
+	<key>🇲🇪</key>
+	<string>flag of Montenegro</string>
+	<key>🇦🇩</key>
+	<string>flag of Andorra</string>
+	<key>🇮🇪</key>
+	<string>flag of Ireland</string>
+	<key>🇪🇪</key>
+	<string>flag of Estonia</string>
+	<key>🇲🇫</key>
+	<string>flag of Saint Martin</string>
+	<key>🇺🇬</key>
+	<string>flag of Uganda</string>
+	<key>♣️</key>
+	<string>clubs suit</string>
+	<key>🇦🇪</key>
+	<string>flag of the United Arab Emirates</string>
+	<key>🕯️</key>
+	<string>candle</string>
+	<key>🇲🇬</key>
+	<string>flag of Madagascar</string>
+	<key>🇦🇫</key>
+	<string>flag of Afghanistan</string>
+	<key>👮‍♂️</key>
+	<string>policeman</string>
+	<key>🇪🇬</key>
+	<string>flag of Egypt</string>
+	<key>🇲🇭</key>
+	<string>flag of the Marshall Islands</string>
+	<key>✨</key>
+	<string>* | säde | sädemed | sära | täht | sädemed</string>
+	<key>🇦🇬</key>
+	<string>flag of Antigua &amp; Barbuda</string>
+	<key>🛏️</key>
+	<string>bed</string>
+	<key>👳‍♀️</key>
+	<string>woman with turban</string>
+	<key>🇪🇭</key>
+	<string>flag of Western Sahara</string>
+	<key>☄️</key>
+	<string>comet</string>
+	<key>🕺</key>
+	<string>mees | tants | tantsiv mees | tantsiv mees</string>
+	<key>✌️</key>
+	<string>peace hand sign</string>
+	<key>❤️</key>
+	<string>red heart</string>
+	<key>⏭️</key>
+	<string>skip forward symbol</string>
+	<key>🇦🇮</key>
+	<string>flag of Anguilla</string>
+	<key>🇲🇰</key>
+	<string>flag of North Macedonia</string>
+	<key>◽️</key>
+	<string>white medium small square</string>
+	<key>🇲🇱</key>
+	<string>flag of Mali</string>
+	<key>🈚️</key>
+	<string>Japanese sign meaning “free of charge”</string>
+	<key>🇺🇲</key>
+	<string>flag of United States Minor Outlying Islands</string>
+	<key>🇮🇱</key>
+	<string>flag of Israel</string>
+	<key>🇲🇲</key>
+	<string>flag of Myanmar (Burma)</string>
+	<key>💂‍♂️</key>
+	<string>guardsman</string>
+	<key>🇺🇳</key>
+	<string>flag of the United Nations</string>
+	<key>🇦🇱</key>
+	<string>flag of Albania</string>
+	<key>🧑‍💻</key>
+	<string>arendaja | programmeerija | tarkvara | tehnoloog | programmeerija</string>
+	<key>🇮🇲</key>
+	<string>flag of the Isle of Man</string>
+	<key>⛹️‍♂️</key>
+	<string>man basketball player</string>
+	<key>🇲🇳</key>
+	<string>flag of Mongolia</string>
+	<key>🇦🇲</key>
+	<string>flag of Armenia</string>
+	<key>🇮🇳</key>
+	<string>flag of India</string>
+	<key>❌</key>
+	<string>× | ei | korrutamine | korrutusmärk | rist | x | rist</string>
+	<key>💇‍♀️</key>
+	<string>woman getting a haircut</string>
+	<key>❎</key>
+	<string>× | korrutusmärgiga nupp | märk | ruut | x | korrutusmärgiga nupp</string>
+	<key>🇲🇴</key>
+	<string>flag of Macao</string>
+	<key>♎️</key>
+	<string>Libra</string>
+	<key>🧚‍♂️</key>
+	<string>man fairy</string>
+	<key>🧑‍💼</key>
+	<string>ametnik | arhitekt | ärimees | juhataja | kontoritöötaja | valgekrae | kontoritöötaja</string>
+	<key>🇮🇴</key>
+	<string>flag of the British Indian Ocean Territory</string>
+	<key>❓</key>
+	<string>? | kirjavahemärk | küsimärk | küsimus | punane küsimärk | punane küsimärk</string>
+	<key>❔</key>
+	<string>? | kirjavahemärk | küsimärk | küsimus | valge küsimärk | valge küsimärk</string>
+	<key>🇲🇵</key>
+	<string>flag of the Northern Mariana Islands</string>
+	<key>❕</key>
+	<string>! | hüüumärk | valge hüüumärk | valge hüüumärk</string>
+	<key>🇦🇴</key>
+	<string>flag of Angola</string>
+	<key>🧟‍♀️</key>
+	<string>woman zombie</string>
+	<key>🖕</key>
+	<string>käsi | keha | keskmine | sõrm | keskmine sõrm</string>
+	<key>🇲🇶</key>
+	<string>flag of Martinique</string>
+	<key>🖖</key>
+	<string>käsi | keha | sõrm | spock | vulcan | vulcanite tervitus | vulcanite tervitus</string>
+	<key>🇮🇶</key>
+	<string>flag of Iraq</string>
+	<key>🚶‍♂️</key>
+	<string>man pedestrian</string>
+	<key>🇲🇷</key>
+	<string>flag of Mauritania</string>
+	<key>🇺🇸</key>
+	<string>flag of the United States</string>
+	<key>🇦🇶</key>
+	<string>flag of Antarctica</string>
+	<key>🇮🇷</key>
+	<string>flag of Iran</string>
+	<key>🕳️</key>
+	<string>hole</string>
+	<key>⌨️</key>
+	<string>keyboard</string>
+	<key>🇾🇹</key>
+	<string>flag of Mayotte</string>
+	<key>🇪🇷</key>
+	<string>flag of Eritrea</string>
+	<key>⛷️</key>
+	<string>skier</string>
+	<key>🇲🇸</key>
+	<string>flag of Montserrat</string>
+	<key>🇦🇷</key>
+	<string>flag of Argentina</string>
+	<key>🇮🇸</key>
+	<string>flag of Iceland</string>
+	<key>👨‍💻</key>
+	<string>arendaja | mees | meesprogrammeerija | programmeerija | tarkvara | tehnoloog | meesprogrammeerija</string>
+	<key>🌤️</key>
+	<string>sun behind small cloud</string>
+	<key>🇪🇸</key>
+	<string>flag of Spain</string>
+	<key>🇲🇹</key>
+	<string>flag of Malta</string>
+	<key>🇦🇸</key>
+	<string>flag of American Samoa</string>
+	<key>🇮🇹</key>
+	<string>flag of Italy</string>
+	<key>❤️‍🩹</key>
+	<string>mending heart</string>
+	<key>🏔️</key>
+	<string>snow capped mountain</string>
+	<key>🇪🇹</key>
+	<string>flag of Ethiopia</string>
+	<key>🤷‍♀️</key>
+	<string>woman shrugging</string>
+	<key>🇲🇺</key>
+	<string>flag of Mauritius</string>
+	<key>🇦🇹</key>
+	<string>flag of Austria</string>
+	<key>🖤</key>
+	<string>kuri | must | süda | must süda</string>
+	<key>👩‍🦯</key>
+	<string>ligipääs | naine | pime | valge kepiga naine | valge kepiga naine</string>
+	<key>👱‍♂️</key>
+	<string>man with blond hair</string>
+	<key>👨‍💼</key>
+	<string>arhitekt | ärimees | juhataja | meeskontoritöötaja | valgekrae | meeskontoritöötaja</string>
+	<key>⛰️</key>
+	<string>mountain</string>
+	<key>🇪🇺</key>
+	<string>flag of European Union</string>
+	<key>🇲🇻</key>
+	<string>flag of Maldives</string>
+	<key>🇦🇺</key>
+	<string>flag of Australia</string>
+	<key>🇲🇼</key>
+	<string>flag of Malawi</string>
+	<key>👩‍🦰</key>
+	<string>woman with red hair</string>
+	<key>🇲🇽</key>
+	<string>flag of Mexico</string>
+	<key>🇺🇾</key>
+	<string>flag of Uruguay</string>
+	<key>🇦🇼</key>
+	<string>flag of Aruba</string>
+	<key>☹️</key>
+	<string>frowning face</string>
+	<key>⌚️</key>
+	<string>watch</string>
+	<key>🕵️</key>
+	<string>detective</string>
+	<key>⛩️</key>
+	<string>Shinto shrine</string>
+	<key>🇲🇾</key>
+	<string>flag of Malaysia</string>
+	<key>🧎‍♀️</key>
+	<string>woman kneeling</string>
+	<key>🇺🇿</key>
+	<string>flag of Uzbekistan</string>
+	<key>🇦🇽</key>
+	<string>flag of the Åland Islands</string>
+	<key>👩‍🦱</key>
+	<string>woman with curly hair</string>
+	<key>🙇‍♂️</key>
+	<string>man bowing</string>
+	<key>🌦️</key>
+	<string>sun behind rain cloud</string>
+	<key>🇲🇿</key>
+	<string>flag of Mozambique</string>
+	<key>🏖️</key>
+	<string>beach with umbrella</string>
+	<key>👩‍🦲</key>
+	<string>woman with no hair</string>
+	<key>🇦🇿</key>
+	<string>flag of Azerbaijan</string>
+	<key>➕</key>
+	<string>+ | liitmine | matemaatika | pluss | plussmärk | liitmine</string>
+	<key>🕊️</key>
+	<string>dove</string>
+	<key>➖</key>
+	<string>- | − | lahutamine | matemaatika | miinus | miinusmärk | lahutamine</string>
+	<key>➗</key>
+	<string>÷ | jagamine | jagamismärk | märk | matemaatika | jagamine</string>
+	<key>🗺️</key>
+	<string>world map</string>
+	<key>👩‍🦳</key>
+	<string>woman with white hair</string>
+	<key>7️⃣</key>
+	<string>keycap digit seven</string>
+	<key>🅰️</key>
+	<string>blood type A</string>
+	<key>🤦‍♀️</key>
+	<string>woman facepalming</string>
+	<key>🧝‍♂️</key>
+	<string>man elf</string>
+	<key>🕷️</key>
+	<string>spider</string>
+	<key>✳️</key>
+	<string>eight spoked asterisk</string>
+	<key>🌨️</key>
+	<string>cloud with snow</string>
+	<key>🦸‍♂️</key>
+	<string>man superhero</string>
+	<key>➰</key>
+	<string>lokk | silmus | silmus</string>
+	<key>🏘️</key>
+	<string>group of houses</string>
+	<key>0️⃣</key>
+	<string>keycap digit zero</string>
+	<key>🤵‍♂️</key>
+	<string>man in tuxedo</string>
+	<key>⛔️</key>
+	<string>no entry</string>
+	<key>👨‍👧‍👦</key>
+	<string>family with father, son and daughter</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>family with mother, father and two sons</string>
+	<key>🧑‍🏫</key>
+	<string>koolitaja | õpetaja | professor | õpetaja</string>
+	<key>➿</key>
+	<string>silmus | topelt | topeltsilmus | topeltsilmus</string>
+	<key>㊙️</key>
+	<string>Japanese sign meaning “secret”</string>
+	<key>☝️</key>
+	<string>index finger pointing up</string>
+	<key>🕹️</key>
+	<string>joystick</string>
+	<key>🗑️</key>
+	<string>wastebasket</string>
+	<key>🌪️</key>
+	<string>tornado</string>
+	<key>🧑‍🏭</key>
+	<string>liinitööline | tehas | tehasetööline | tööline | tehasetööline</string>
+	<key>↗️</key>
+	<string>up-right arrow</string>
+	<key>⤵️</key>
+	<string>right arrow curving down</string>
+	<key>🏚️</key>
+	<string>derelict house</string>
+	<key>©️</key>
+	<string>copyright sign</string>
+	<key>👨‍🏫</key>
+	<string>juhendaja | mees | meesõpetaja | õpetaja | professor | meesõpetaja</string>
+	<key>🗓️</key>
+	<string>spiral calendar</string>
+	<key>⏸️</key>
+	<string>pause symbol</string>
+	<key>🧑‍✈️</key>
+	<string>pilot</string>
+	<key>🌬️</key>
+	<string>wind blowing face</string>
+	<key>👨‍🏭</key>
+	<string>liinitööline | mees | meessoost tehasetööline | tehas | tööline | meessoost tehasetööline</string>
+	<key>🏜️</key>
+	<string>desert</string>
+	<key>♠️</key>
+	<string>spades suit</string>
+	<key>🖨️</key>
+	<string>printer</string>
+	<key>⏱️</key>
+	<string>stopwatch</string>
+	<key>👩‍🦼</key>
+	<string>elektriratastoolis naine | elektriratastoolis olev naine | ligipääs | naine | ratastool | elektriratastoolis olev naine</string>
+	<key>🗻</key>
+	<string>Fuji | mägi | Fuji mägi</string>
+	<key>🫱‍🫲</key>
+	<string>handshake</string>
+	<key>🗼</key>
+	<string>Tokyo | torn | Tokyo torn</string>
+	<key>🗽</key>
+	<string>kuju | sammas | vabadus | Vabadussammas | Vabadussammas</string>
+	<key>🗾</key>
+	<string>Jaapan | Jaapani kaart | kaart | Jaapani kaart</string>
+	<key>🤸‍♂️</key>
+	<string>man doing a cartwheel</string>
+	<key>🌀</key>
+	<string>ilm | orkaan | taifuun | tornaado | tsüklon | tsüklon</string>
+	<key>🗿</key>
+	<string>kuju | moai | nägu | moai</string>
+	<key>☁️</key>
+	<string>cloud</string>
+	<key>🌁</key>
+	<string>ilm | udu | udune | udune</string>
+	<key>😀</key>
+	<string>irve | laia naeratusega nägu | naeratus | nägu | laia naeratusega nägu</string>
+	<key>👩‍🦽</key>
+	<string>juurdepääs | manuaalratastoolis naine | manuaalratastoolis olev naine | naine | ratastool | manuaalratastoolis olev naine</string>
+	<key>🌂</key>
+	<string>ilm | riided | suletud vihmavari | vihm | vihmavari | suletud vihmavari</string>
+	<key>😁</key>
+	<string>irve | naeratus | naerul silmade ja laia naeratusega nägu | nägu | silm | naerul silmade ja laia naeratusega nägu</string>
+	<key>⚱️</key>
+	<string>funeral urn</string>
+	<key>🌃</key>
+	<string>ilm | öine tähistaevas | öö | täht | öine tähistaevas</string>
+	<key>😂</key>
+	<string>naer | nägu | pisar | rõõm | rõõmupisaratega nägu | rõõmupisaratega nägu</string>
+	<key>✉️</key>
+	<string>envelope</string>
+	<key>👨‍👧‍👧</key>
+	<string>family with father and two daughters</string>
+	<key>🤽‍♀️</key>
+	<string>woman playing water polo</string>
+	<key>🌄</key>
+	<string>hommik | ilm | mägi | päike | päikesetõus | päikesetõus mägedes | päikesetõus mägedes</string>
+	<key>😃</key>
+	<string>avatud | avatud suuga naerunägu | lahti | naeratus | nägu | suu | avatud suuga naerunägu</string>
+	<key>🌅</key>
+	<string>hommik | ilm | päike | päikesetõus | päikesetõus</string>
+	<key>😄</key>
+	<string>avatud | avatud suu ja naeratavate silmadega naerunägu | lahti | naeratus | nägu | silm | suu | avatud suu ja naeratavate silmadega naerunägu</string>
+	<key>👷‍♂️</key>
+	<string>man construction worker</string>
+	<key>👨‍✈️</key>
+	<string>man pilot</string>
+	<key>🌆</key>
+	<string>hoone | ilm | linna siluett videvikus | loojang | õhtu | siluett | videvik | linna siluett videvikus</string>
+	<key>😅</key>
+	<string>avatud | higi | külm | külma higiga kaetud ja avatud suuga naerunägu | naeratus | nägu | külma higiga kaetud ja avatud suuga naerunägu</string>
+	<key>🌇</key>
+	<string>hoone | ilm | loojang | päike | päikeseloojang | päikeseloojang</string>
+	<key>😆</key>
+	<string>avatud suu ja suletud silmadega naerunägu | lahti | naer | naeratus | nägu | rahul | suu | avatud suu ja suletud silmadega naerunägu</string>
+	<key>🌈</key>
+	<string>ilm | vihm | vikerkaar | vikerkaar</string>
+	<key>😇</key>
+	<string>aupaistega naerunägu | fantaasia | halo | ingel | naeratus | nägu | süütu | aupaistega naerunägu</string>
+	<key>🌉</key>
+	<string>ilm | öö | sild | sild öösel | sild öösel</string>
+	<key>😈</key>
+	<string>fantaasia | muinasjutt | naeratus | nägu | sarved | sarviline naerunägu | sarviline naerunägu</string>
+	<key>🏞️</key>
+	<string>national park</string>
+	<key>🌊</key>
+	<string>ilm | ookean | veelaine | vesi | veelaine</string>
+	<key>😉</key>
+	<string>nägu | silma pilgutav nägu | silmapilgutus | silma pilgutav nägu</string>
+	<key>🌋</key>
+	<string>laava | mägi | purse | vulkaan | vulkaan</string>
+	<key>😊</key>
+	<string>naeratavate silmadega naerunägu | naeratus | nägu | punastamine | silm | naeratavate silmadega naerunägu</string>
+	<key>♒️</key>
+	<string>Aquarius</string>
+	<key>🌌</key>
+	<string>kosmos | Linnutee | tähed | Linnutee</string>
+	<key>😋</key>
+	<string>maitsev | maitsvat toitu nautija nägu | naeratus | nägu | nautimine | maitsvat toitu nautija nägu</string>
+	<key>⚪️</key>
+	<string>white circle</string>
+	<key>🌍</key>
+	<string>Aafrika | Euroopa | Euroopa ja Aafrika gloobusel | gloobus | maa | maailm | Euroopa ja Aafrika gloobusel</string>
+	<key>😌</key>
+	<string>kergendus | kergendust tundev nägu | nägu | kergendust tundev nägu</string>
+	<key>🧏‍♂️</key>
+	<string>Deaf man</string>
+	<key>✂️</key>
+	<string>scissors</string>
+	<key>🌎</key>
+	<string>Ameerika | Ameerika mandrid gloobusel | gloobus | maa | maailm | Ameerika mandrid gloobusel</string>
+	<key>🤌</key>
+	<string>kokkusurutud | küsimus | sarkastiline | sõrmed | žest | kokkusurutud sõrmed</string>
+	<key>😍</key>
+	<string>armastus | naeratus | nägu | silm | süda | südamekujuliste silmadega naerunägu | südamekujuliste silmadega naerunägu</string>
+	<key>🌏</key>
+	<string>Aasia | Aasia ja Austraalia gloobusel | austraalia | gloobus | maa | maailm | Aasia ja Austraalia gloobusel</string>
+	<key>🤍</key>
+	<string>süda | valge | valge süda</string>
+	<key>😎</key>
+	<string>ere | lahe | naeratus | nägu | päike | päikeseprillid | päikeseprillidega naerunägu | päikeseprillidega naerunägu</string>
+	<key>🌐</key>
+	<string>gloobus | maa | maailm | meridiaanid | meridiaanidega gloobus | meridiaanidega gloobus</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>family with mother, father and two daughters</string>
+	<key>🤎</key>
+	<string>pruun | süda | pruun süda</string>
+	<key>😏</key>
+	<string>irvitus | muigav nägu | nägu | muigav nägu</string>
+	<key>🌑</key>
+	<string>ilm | kosmos | kuu | noorkuu | pime | noorkuu</string>
+	<key>🤏</key>
+	<string>pöialt ja nimetissõrme lähestikku hoidev käsi | väike kogus | pöialt ja nimetissõrme lähestikku hoidev käsi</string>
+	<key>😐</key>
+	<string>erapooletu nägu | nägu | neutraalne | surmtõsine | erapooletu nägu</string>
+	<key>🧔‍♀️</key>
+	<string>bearded woman</string>
+	<key>🌒</key>
+	<string>ilm | kasvav kuusirp | kosmos | kuu | noorkuu | sirp | kasvav kuusirp</string>
+	<key>🤐</key>
+	<string>nägu | suu | tõmblukk | tõmblukusuuga nägu | tõmblukusuuga nägu</string>
+	<key>😑</key>
+	<string>ilmetu | mittemidagiütlev | nägu | väheütlev | ilmetu nägu</string>
+	<key>🙍‍♂️</key>
+	<string>man frowning</string>
+	<key>🌓</key>
+	<string>ilm | kasvav poolkuu | kosmos | kuu | poolkuu | kasvav poolkuu</string>
+	<key>🤑</key>
+	<string>nägu | nägu, millel on raha suus | raha | suu | nägu, millel on raha suus</string>
+	<key>😒</key>
+	<string>nägu | õnnetu | põlglik | põlglik nägu</string>
+	<key>🌔</key>
+	<string>ilm | kasvav | kuu | poolkuu | kasvav kuu</string>
+	<key>🤒</key>
+	<string>haige | kraadiklaas | kraadiklaasiga nägu | nägu | kraadiklaasiga nägu</string>
+	<key>😓</key>
+	<string>higi | külm | külma higiga kaetud nägu | nägu | külma higiga kaetud nägu</string>
+	<key>🌕</key>
+	<string>ilm | kosmos | täiskuu | täiskuu</string>
+	<key>🤓</key>
+	<string>friik | nägu | nohik | nohiku nägu | nohiku nägu</string>
+	<key>😔</key>
+	<string>mõtlik | nägu | nukker | mõtlik nägu</string>
+	<key>♋️</key>
+	<string>Cancer</string>
+	<key>🌖</key>
+	<string>ilm | kahanev | kosmos | kuu | kahanev kuu</string>
+	<key>🤔</key>
+	<string>mõtlemine | mõtlev nägu | nägu | mõtlev nägu</string>
+	<key>😕</key>
+	<string>nägu | segaduses | segaduses nägu</string>
+	<key>🌗</key>
+	<string>ilm | kahanev poolkuu | kosmos | kuu | poolkuu | kahanev poolkuu</string>
+	<key>🤕</key>
+	<string>kinniseotud | kinniseotud peaga nägu | nägu | side | vigastus | kinniseotud peaga nägu</string>
+	<key>😖</key>
+	<string>kimbatus | kimbatuses nägu | nägu | kimbatuses nägu</string>
+	<key>🌘</key>
+	<string>ilm | kahanev | kahanev kuusirp | kosmos | kuu | sirp | kahanev kuusirp</string>
+	<key>🤖</key>
+	<string>koletis | nägu | robot | roboti nägu | robot</string>
+	<key>😗</key>
+	<string>nägu | suudlev nägu | suudlus | suudlev nägu</string>
+	<key>🌙</key>
+	<string>ilm | kosmos | kuu | kuusirp | sirp | kuusirp</string>
+	<key>🤗</key>
+	<string>kallistamine | kallistav nägu | kallistus | nägu | kallistav nägu</string>
+	<key>😘</key>
+	<string>nägu | süda | suudlus | suudlust saatev nägu | suudlust saatev nägu</string>
+	<key>🌚</key>
+	<string>ilm | kosmos | kuu | nägu | näoga noorkuu | näoga noorkuu</string>
+	<key>🤘</key>
+	<string>käsi | keha | rokk | sarved | sarvede märk | sõrm | sarvede märk</string>
+	<key>😙</key>
+	<string>naeratavate silmadega suudlev nägu | naeratus | nägu | silm | suudlus | naeratavate silmadega suudlev nägu</string>
+	<key>🌛</key>
+	<string>ilm | kosmos | kuu | nägu | näoga kasvav kuu | poolkuu | näoga kasvav kuu</string>
+	<key>🤙</key>
+	<string>helista | helista mulle | käsi | helista mulle</string>
+	<key>😚</key>
+	<string>nägu | silm | suletud | suletud silmadega suudlev nägu | suudlus | suletud silmadega suudlev nägu</string>
+</dict>
+</plist>

@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>ירח ברבע האחרון עם פרצוף</string>
+	<key>🤚</key>
+	<string>גב היד</string>
+	<key>😛</key>
+	<string>פרצוף עם לשון בחוץ</string>
+	<key>👩‍🔧</key>
+	<string>מכונאית</string>
+	<key>🌝</key>
+	<string>ירח מלא עם פרצוף</string>
+	<key>🤛</key>
+	<string>אגרוף פונה שמאלה</string>
+	<key>😜</key>
+	<string>פרצוף קורץ עם לשון בחוץ</string>
+	<key>🌞</key>
+	<string>שמש עם פרצוף</string>
+	<key>🤜</key>
+	<string>אגרוף פונה ימינה</string>
+	<key>😝</key>
+	<string>פרצוף עם לשון בחוץ ועיניים עצומות בחוזקה</string>
+	<key>🌟</key>
+	<string>כוכב זוהר</string>
+	<key>🤝</key>
+	<string>לחיצת יד</string>
+	<key>😞</key>
+	<string>פרצוף מאוכזב</string>
+	<key>🌠</key>
+	<string>כוכב נופל</string>
+	<key>🤞</key>
+	<string>החזקת אצבעות</string>
+	<key>😟</key>
+	<string>פרצוף דואג</string>
+	<key>🐈‍⬛</key>
+	<string>חתול שחור</string>
+	<key>🤟</key>
+	<string>מחוות יד של I love you</string>
+	<key>😠</key>
+	<string>פרצוף כועס</string>
+	<key>⚜️</key>
+	<string>פרח שושן</string>
+	<key>⛴️</key>
+	<string>מעבורת</string>
+	<key>🤠</key>
+	<string>פרצוף של קאובוי</string>
+	<key>😡</key>
+	<string>פרצוף אדום כועס</string>
+	<key>🤡</key>
+	<string>פרצוף ליצן</string>
+	<key>😢</key>
+	<string>פרצוף בוכה</string>
+	<key>⬛️</key>
+	<string>ריבוע שחור גדול</string>
+	<key>🤢</key>
+	<string>פרצוף עם הבעת בחילה</string>
+	<key>😣</key>
+	<string>פרצוף עקשן</string>
+	<key>🤣</key>
+	<string>פרצוף מתגלגל על הרצפה מצחוק</string>
+	<key>😤</key>
+	<string>פרצוף עם קיטור יוצא מהאף</string>
+	<key>🤤</key>
+	<string>פרצוף מרייר</string>
+	<key>😥</key>
+	<string>פרצוף עצוב אך נרגע</string>
+	<key>🤥</key>
+	<string>פרצוף משקר</string>
+	<key>😦</key>
+	<string>פרצוף דואג עם פה פתוח</string>
+	<key>🤦</key>
+	<string>אדם עם יד על הפרצוף</string>
+	<key>😧</key>
+	<string>פרצוף עצוב</string>
+	<key>🤧</key>
+	<string>פרצוף מתעטש</string>
+	<key>😨</key>
+	<string>פרצוף מפוחד</string>
+	<key>🤨</key>
+	<string>פרצוף עם גבה מורמת</string>
+	<key>😩</key>
+	<string>פרצוף עייף</string>
+	<key>🤩</key>
+	<string>פרצוף עם כוכבים בעיניים</string>
+	<key>⚕️</key>
+	<string>מטה אסקלפיוס</string>
+	<key>😪</key>
+	<string>פרצוף ישנוני</string>
+	<key>👁️‍🗨️</key>
+	<string>אני עד ראיה</string>
+	<key>🤪</key>
+	<string>פרצוף טיפשון</string>
+	<key>😫</key>
+	<string>פרצוף מתייפח</string>
+	<key>🌭</key>
+	<string>נקניקיה בלחמניה</string>
+	<key>🤫</key>
+	<string>פרצוף משתיק</string>
+	<key>😬</key>
+	<string>פרצוף נרתע</string>
+	<key>🌮</key>
+	<string>טאקו</string>
+	<key>🤬</key>
+	<string>פרצוף עם סימנים על הפה</string>
+	<key>😭</key>
+	<string>פרצוף בוכה בכי מר</string>
+	<key>🌯</key>
+	<string>בוריטו</string>
+	<key>🤭</key>
+	<string>פרצוף עם יד על הפה ועיניים מחייכות</string>
+	<key>😮</key>
+	<string>פרצוף מופתע עם פה פתוח</string>
+	<key>🌰</key>
+	<string>ערמון</string>
+	<key>🤮</key>
+	<string>פרצוף מקיא</string>
+	<key>😯</key>
+	<string>פרצוף מופתע</string>
+	<key>🌱</key>
+	<string>שתיל</string>
+	<key>🤯</key>
+	<string>ראש מתפוצץ</string>
+	<key>😰</key>
+	<string>פרצוף חרד ומזיע</string>
+	<key>🌲</key>
+	<string>עץ ירוק-עד</string>
+	<key>🤰</key>
+	<string>אישה בהיריון</string>
+	<key>😱</key>
+	<string>פרצוף צורח מרוב פחד</string>
+	<key>🌳</key>
+	<string>עץ</string>
+	<key>🤱</key>
+	<string>הנקה</string>
+	<key>😲</key>
+	<string>פרצוף נדהם</string>
+	<key>🛡️</key>
+	<string>מגן</string>
+	<key>🌴</key>
+	<string>עץ דקל</string>
+	<key>🤲</key>
+	<string>כפות ידיים צמודות פונות כלפי מעלה</string>
+	<key>😳</key>
+	<string>פרצוף עם עיניים פתוחות לרווחה</string>
+	<key>🌵</key>
+	<string>צבר</string>
+	<key>🤳</key>
+	<string>סלפי</string>
+	<key>😴</key>
+	<string>פרצוף ישן</string>
+	<key>🤴</key>
+	<string>נסיך</string>
+	<key>😵</key>
+	<string>פרצוף מסוחרר</string>
+	<key>👩‍🌾</key>
+	<string>חקלאית</string>
+	<key>🌷</key>
+	<string>צבעוני</string>
+	<key>🤵</key>
+	<string>אדם בטוקסידו</string>
+	<key>😶</key>
+	<string>פרצוף ללא פה</string>
+	<key>🌸</key>
+	<string>פרח דובדבן</string>
+	<key>🤶</key>
+	<string>גברת קלאוס</string>
+	<key>😷</key>
+	<string>פרצוף עם מסיכת מנתח</string>
+	<key>🌹</key>
+	<string>ורד</string>
+	<key>🤷</key>
+	<string>אדם מושך בכתפיים</string>
+	<key>😸</key>
+	<string>פרצוף של חתול מחייך</string>
+	<key>🌺</key>
+	<string>היביסקוס</string>
+	<key>🤸</key>
+	<string>אדם מְבַצֵּעַ גַּלְגַּלּוֹן</string>
+	<key>😹</key>
+	<string>פרצוף של חתול עם דמעות שמחה</string>
+	<key>🌻</key>
+	<string>חמנית</string>
+	<key>🤹</key>
+	<string>אדם מלהטט</string>
+	<key>😺</key>
+	<string>פרצוף של חתול שמח</string>
+	<key>🌼</key>
+	<string>פרח</string>
+	<key>🤺</key>
+	<string>סייף</string>
+	<key>😻</key>
+	<string>פרצוף חתול מחייך עם עיני לב</string>
+	<key>🌽</key>
+	<string>קלח תירס</string>
+	<key>😼</key>
+	<string>פרצוף של חתול מגחך</string>
+	<key>🇿🇦</key>
+	<string>דגל דרום אפריקה</string>
+	<key>👩‍🔬</key>
+	<string>מדענית</string>
+	<key>🌾</key>
+	<string>גבעול אורז</string>
+	<key>🤼</key>
+	<string>אנשים מתאבקים</string>
+	<key>😽</key>
+	<string>פרצוף של חתול מנשק</string>
+	<key>🇻🇦</key>
+	<string>דגל קריית הוותיקן</string>
+	<key>🌿</key>
+	<string>צמח מרפא</string>
+	<key>🤽</key>
+	<string>אדם משחק כדורמים</string>
+	<key>😾</key>
+	<string>פרצוף של חתול זועף</string>
+	<key>☯️</key>
+	<string>יין וינג</string>
+	<key>🍀</key>
+	<string>תלתן בעל ארבע עלים</string>
+	<key>🤾</key>
+	<string>אדם משחק כדור-יד</string>
+	<key>😿</key>
+	<string>פרצוף של חתול בוכה</string>
+	<key>🍁</key>
+	<string>עלה מייפל</string>
+	<key>🤿</key>
+	<string>מסכת צלילה</string>
+	<key>🧑‍🍳</key>
+	<string>טבח</string>
+	<key>🇳🇦</key>
+	<string>דגל נמיביה</string>
+	<key>🙀</key>
+	<string>פרצוף של חתול צורח מפחד</string>
+	<key>🧗‍♀️</key>
+	<string>מטפסת מצוקים</string>
+	<key>⁉️</key>
+	<string>סימן קריאה וסימן שאלה אדומים</string>
+	<key>🍂</key>
+	<string>שלכת</string>
+	<key>🥀</key>
+	<string>ורד נבול</string>
+	<key>🙁</key>
+	<string>פרצוף מעט עצוב</string>
+	<key>🍃</key>
+	<string>עלים מתעופפים ברוח</string>
+	<key>🥁</key>
+	<string>תוף</string>
+	<key>🙂</key>
+	<string>פרצוף מחייך מעט</string>
+	<key>⬆️</key>
+	<string>חץ למעלה</string>
+	<key>🍄</key>
+	<string>פטריה</string>
+	<key>🥂</key>
+	<string>כוסות נוקשות</string>
+	<key>🙃</key>
+	<string>פרצוף הפוך</string>
+	<key>5️⃣</key>
+	<string>מקש הספרה ״חמש״</string>
+	<key>🍅</key>
+	<string>עגבניה</string>
+	<key>🥃</key>
+	<string>כוס משקה</string>
+	<key>🙄</key>
+	<string>פרצוף עם עיניים מתגלגלות</string>
+	<key>🇻🇨</key>
+	<string>דגל סנט וינסנט והגרנדינים</string>
+	<key>🇧🇦</key>
+	<string>דגל בוסניה והרצגובינה</string>
+	<key>↩️</key>
+	<string>חץ ימינה מתעקל שמאלה</string>
+	<key>🍆</key>
+	<string>חציל</string>
+	<key>🥄</key>
+	<string>כף</string>
+	<key>🙅</key>
+	<string>אדם מסמן ״לא״</string>
+	<key>🍇</key>
+	<string>ענבים</string>
+	<key>🥅</key>
+	<string>שער</string>
+	<key>🙆</key>
+	<string>אדם מסמן ״בסדר״</string>
+	<key>🛣️</key>
+	<string>כביש מהיר</string>
+	<key>🍈</key>
+	<string>מלון</string>
+	<key>🙇</key>
+	<string>אדם משתחווה</string>
+	<key>🇳🇨</key>
+	<string>דגל קלדוניה החדשה</string>
+	<key>🍉</key>
+	<string>אבטיח</string>
+	<key>🇧🇧</key>
+	<string>דגל ברבדוס</string>
+	<key>🥇</key>
+	<string>מדליית זהב</string>
+	<key>🙈</key>
+	<string>קוף לא רואה רוע</string>
+	<key>🍊</key>
+	<string>מנדרינה</string>
+	<key>🥈</key>
+	<string>מדליית כסף</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>דגל סקוטלנד</string>
+	<key>🙉</key>
+	<string>קוף לא שומע רוע</string>
+	<key>🍋</key>
+	<string>לימון</string>
+	<key>🥉</key>
+	<string>מדליית ארד</string>
+	<key>🙊</key>
+	<string>קוף לא דובר רוע</string>
+	<key>🍌</key>
+	<string>בננה</string>
+	<key>🥊</key>
+	<string>כפפת אגרוף</string>
+	<key>🇻🇪</key>
+	<string>דגל ונצואלה</string>
+	<key>🙋</key>
+	<string>אדם מרים יד אחת</string>
+	<key>🍍</key>
+	<string>אננס</string>
+	<key>🥋</key>
+	<string>בגדי אומנות לחימה</string>
+	<key>🙌</key>
+	<string>כפות ידיים מורמות בשמחה</string>
+	<key>🇷🇪</key>
+	<string>דגל ראוניון</string>
+	<key>🍎</key>
+	<string>תפוח אדום</string>
+	<key>🥌</key>
+	<string>אבן קרלינג</string>
+	<key>🙍</key>
+	<string>אדם זועף</string>
+	<key>🍏</key>
+	<string>תפוח ירוק</string>
+	<key>🇳🇪</key>
+	<string>דגל ניז'ר</string>
+	<key>🥍</key>
+	<string>מחבט וכדור לקרוס</string>
+	<key>🙎</key>
+	<string>אדם מחמיץ פנים</string>
+	<key>🅾️</key>
+	<string>סוג דם O</string>
+	<key>🇧🇩</key>
+	<string>דגל בנגלדש</string>
+	<key>🍐</key>
+	<string>אגס</string>
+	<key>🥎</key>
+	<string>סופטבול</string>
+	<key>🇯🇪</key>
+	<string>דגל ג׳רזי</string>
+	<key>🙏</key>
+	<string>כפות ידיים מוצמדות</string>
+	<key>🍑</key>
+	<string>אפרסק</string>
+	<key>🥏</key>
+	<string>פריזבי</string>
+	<key>🍒</key>
+	<string>דובדבנים</string>
+	<key>🥐</key>
+	<string>קרואסון</string>
+	<key>🇳🇫</key>
+	<string>דגל האי נורפוק</string>
+	<key>🍓</key>
+	<string>תות</string>
+	<key>🇻🇬</key>
+	<string>דגל איי הבתולה (בריטניה)</string>
+	<key>🇧🇪</key>
+	<string>דגל בלגיה</string>
+	<key>🥑</key>
+	<string>אבוקדו</string>
+	<key>🍔</key>
+	<string>המבורגר</string>
+	<key>🥒</key>
+	<string>מלפפון</string>
+	<key>⛑️</key>
+	<string>קסדה עם צלב לבן</string>
+	<key>🍕</key>
+	<string>פיצה</string>
+	<key>🥓</key>
+	<string>בייקון</string>
+	<key>🇳🇬</key>
+	<string>דגל ניגריה</string>
+	<key>🍖</key>
+	<string>בשר על עצם</string>
+	<key>🥔</key>
+	<string>תפו״א</string>
+	<key>👨‍🍳</key>
+	<string>טבח</string>
+	<key>🇧🇫</key>
+	<string>דגל בורקינה פאסו</string>
+	<key>🍗</key>
+	<string>רגל עוף</string>
+	<key>👮‍♀️</key>
+	<string>שוטרת</string>
+	<key>🥕</key>
+	<string>גזר</string>
+	<key>⭐️</key>
+	<string>כוכב</string>
+	<key>🍘</key>
+	<string>פריכית אורז</string>
+	<key>🥖</key>
+	<string>בגט</string>
+	<key>🗝️</key>
+	<string>מפתח עתיק</string>
+	<key>🌶️</key>
+	<string>פלפל חריף</string>
+	<key>🍙</key>
+	<string>כדור אורז</string>
+	<key>🥗</key>
+	<string>סלט ירוק</string>
+	<key>🏃‍♂️</key>
+	<string>אצן</string>
+	<key>🇻🇮</key>
+	<string>דגל איי הבתולה (ארה״ב)</string>
+	<key>🇧🇬</key>
+	<string>דגל בולגריה</string>
+	<key>🍚</key>
+	<string>אורז מבושל</string>
+	<key>🥘</key>
+	<string>מחבת אוכל</string>
+	<key>🍛</key>
+	<string>אורז קארי</string>
+	<key>🥙</key>
+	<string>פיתה</string>
+	<key>🍜</key>
+	<string>קערת אוכל מעלה אדים</string>
+	<key>🥚</key>
+	<string>ביצה</string>
+	<key>🛥️</key>
+	<string>סירת מנוע</string>
+	<key>🇳🇮</key>
+	<string>דגל ניקרגואה</string>
+	<key>🍝</key>
+	<string>ספגטי</string>
+	<key>🥛</key>
+	<string>כוס חלב</string>
+	<key>🇧🇭</key>
+	<string>דגל בחריין</string>
+	<key>🍞</key>
+	<string>לחם</string>
+	<key>🥜</key>
+	<string>בוטנים</string>
+	<key>🍟</key>
+	<string>צ׳יפס</string>
+	<key>👨‍👨‍👦</key>
+	<string>משפחה המורכבת משני אבות ובן</string>
+	<key>🥝</key>
+	<string>קיווי</string>
+	<key>🇫🇮</key>
+	<string>דגל פינלנד</string>
+	<key>🤾‍♂️</key>
+	<string>איש משחק כדור-יד</string>
+	<key>🍠</key>
+	<string>בטטה צלויה</string>
+	<key>🖲️</key>
+	<string>כדור עקיבה</string>
+	<key>🥞</key>
+	<string>פנקייקים</string>
+	<key>🇧🇮</key>
+	<string>דגל בורונדי</string>
+	<key>🍡</key>
+	<string>כופתאת דנגו</string>
+	<key>🥟</key>
+	<string>כופתה</string>
+	<key>🍢</key>
+	<string>אודן</string>
+	<key>🥠</key>
+	<string>עוגיית מזל</string>
+	<key>🇫🇯</key>
+	<string>דגל פיג׳י</string>
+	<key>🍣</key>
+	<string>סושי</string>
+	<key>🥡</key>
+	<string>קופסת טייק אווי</string>
+	<key>🍤</key>
+	<string>שרימפס מטוגן</string>
+	<key>🥢</key>
+	<string>מקלות אכילה סיניים</string>
+	<key>🇧🇯</key>
+	<string>דגל בנין</string>
+	<key>↔️</key>
+	<string>חץ שמאלה-ימינה</string>
+	<key>🍥</key>
+	<string>קציצת דג עם עיצוב מערבולת</string>
+	<key>🥣</key>
+	<string>קערה עם כף</string>
+	<key>🍦</key>
+	<string>גלידה רכה</string>
+	<key>🇿🇲</key>
+	<string>דגל זמביה</string>
+	<key>🇫🇰</key>
+	<string>דגל איי פוקלנד</string>
+	<key>🥤</key>
+	<string>כוס לדרך</string>
+	<key>🏌️‍♀️</key>
+	<string>שחקנית גולף</string>
+	<key>🇳🇱</key>
+	<string>דגל הולנד</string>
+	<key>🍧</key>
+	<string>ברד</string>
+	<key>🥥</key>
+	<string>קוקוס</string>
+	<key>🍨</key>
+	<string>גלידה</string>
+	<key>🥦</key>
+	<string>ברוקולי</string>
+	<key>🍩</key>
+	<string>סופגניה</string>
+	<key>🥧</key>
+	<string>פאי</string>
+	<key>🖇️</key>
+	<string>אטבים קשורים</string>
+	<key>🍪</key>
+	<string>עוגיה</string>
+	<key>🥨</key>
+	<string>בייגלה</string>
+	<key>🇻🇳</key>
+	<string>דגל וייטנאם</string>
+	<key>💂‍♀️</key>
+	<string>שומרת</string>
+	<key>🇧🇱</key>
+	<string>דגל סן ברתלמי</string>
+	<key>🍫</key>
+	<string>חטיף שוקולד</string>
+	<key>🇯🇲</key>
+	<string>דגל ג׳מייקה</string>
+	<key>🥩</key>
+	<string>סטייק</string>
+	<key>🍬</key>
+	<string>סוכריה</string>
+	<key>🥪</key>
+	<string>כריך</string>
+	<key>⛹️‍♀️</key>
+	<string>שחקנית כדורסל</string>
+	<key>🍭</key>
+	<string>סוכריה על מקל</string>
+	<key>🇫🇲</key>
+	<string>דגל מיקרונזיה</string>
+	<key>🥫</key>
+	<string>פחית שימורים</string>
+	<key>🍮</key>
+	<string>רפרפת</string>
+	<key>👨‍❤️‍👨</key>
+	<string>שני אנשים עם לב</string>
+	<key>🥬</key>
+	<string>עלים ירוקים</string>
+	<key>🇧🇲</key>
+	<string>דגל ברמודה</string>
+	<key>🍯</key>
+	<string>צנצנת דבש</string>
+	<key>🥭</key>
+	<string>מנגו</string>
+	<key>🇷🇴</key>
+	<string>דגל רומניה</string>
+	<key>🍰</key>
+	<string>עוגה</string>
+	<key>🥮</key>
+	<string>מון קייק</string>
+	<key>🍱</key>
+	<string>אריזה של ארוחה יפנית</string>
+	<key>🇳🇴</key>
+	<string>דגל נורווגיה</string>
+	<key>🥯</key>
+	<string>בייגל</string>
+	<key>🇧🇳</key>
+	<string>דגל ברוניי</string>
+	<key>🧚‍♀️</key>
+	<string>פיה</string>
+	<key>🍲</key>
+	<string>קדירת אוכל</string>
+	<key>🇯🇴</key>
+	<string>דגל ירדן</string>
+	<key>🥰</key>
+	<string>פרצוף מחייך עם לבבות</string>
+	<key>🍳</key>
+	<string>בישול</string>
+	<key>🥱</key>
+	<string>פרצוף מפהק</string>
+	<key>🇫🇴</key>
+	<string>דגל איי פארו</string>
+	<key>🍴</key>
+	<string>סכין ומזלג</string>
+	<key>🥲</key>
+	<string>פרצוף מחייך עם דמעה</string>
+	<key>🇳🇵</key>
+	<string>דגל נפאל</string>
+	<key>✔️</key>
+	<string>סימן אישור</string>
+	<key>🍵</key>
+	<string>כוס תה ללא ידית</string>
+	<key>🥳</key>
+	<string>פרצוף חוגג</string>
+	<key>🇧🇴</key>
+	<string>דגל בוליביה</string>
+	<key>🇯🇵</key>
+	<string>דגל יפן</string>
+	<key>🍶</key>
+	<string>בקבוק וכוס סאקה</string>
+	<key>🥴</key>
+	<string>פרצוף מסוחרר</string>
+	<key>🍷</key>
+	<string>כוס יין</string>
+	<key>🥵</key>
+	<string>פרצוף סובל מחום</string>
+	<key>🍸</key>
+	<string>כוסית קוקטייל</string>
+	<key>🥶</key>
+	<string>פרצוף סובל מקור</string>
+	<key>🍹</key>
+	<string>משקה טרופי</string>
+	<key>🥷</key>
+	<string>נינג׳ה</string>
+	<key>🍺</key>
+	<string>כוס בירה</string>
+	<key>🥸</key>
+	<string>פנים בתחפושת</string>
+	<key>🚶‍♀️</key>
+	<string>הולכת רגל</string>
+	<key>🍻</key>
+	<string>לחיים</string>
+	<key>🥹</key>
+	<string>פרצוף מחייך שעוצר את הדמעות</string>
+	<key>🇳🇷</key>
+	<string>דגל נאורו</string>
+	<key>🍼</key>
+	<string>בקבוק תינוק</string>
+	<key>🇧🇶</key>
+	<string>דגל בונייר</string>
+	<key>🥺</key>
+	<string>פרצוף מתחנן</string>
+	<key>🧑‍🍼</key>
+	<string>אדם מאכיל תינוק</string>
+	<key>🥻</key>
+	<string>סארי</string>
+	<key>🇷🇸</key>
+	<string>דגל סרביה</string>
+	<key>🍾</key>
+	<string>בקבוק עם פקק נחלץ</string>
+	<key>🇫🇷</key>
+	<string>דגל צרפת</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>גבר ואישה מתנשקים</string>
+	<key>🥼</key>
+	<string>חלוק מעבדה</string>
+	<key>✍️</key>
+	<string>יד כותבת</string>
+	<key>🍿</key>
+	<string>פופקורן</string>
+	<key>🥽</key>
+	<string>משקפי מגן</string>
+	<key>🇧🇷</key>
+	<string>דגל ברזיל</string>
+	<key>🗡️</key>
+	<string>פגיון</string>
+	<key>⏮️</key>
+	<string>סמל של דילוג אחורה</string>
+	<key>🎀</key>
+	<string>סרט בקשר פרפר</string>
+	<key>🥾</key>
+	<string>נעל טיולים</string>
+	<key>🎁</key>
+	<string>מתנה</string>
+	<key>🥿</key>
+	<string>נעל שטוחה</string>
+	<key>🚀</key>
+	<string>חללית</string>
+	<key>🎂</key>
+	<string>עוגת יום הולדת</string>
+	<key>🦀</key>
+	<string>סרטן</string>
+	<key>🚁</key>
+	<string>מסוק</string>
+	<key>🇻🇺</key>
+	<string>דגל ונואטו</string>
+	<key>🇧🇸</key>
+	<string>דגל איי הבהאמה</string>
+	<key>🎃</key>
+	<string>מנורת דלעת</string>
+	<key>🕵️‍♀️</key>
+	<string>בלשית</string>
+	<key>🦁</key>
+	<string>פרצוף אריה</string>
+	<key>🚂</key>
+	<string>קטר</string>
+	<key>🎄</key>
+	<string>עץ חג המולד</string>
+	<key>🇷🇺</key>
+	<string>דגל רוסיה</string>
+	<key>🦂</key>
+	<string>עקרב</string>
+	<key>🚃</key>
+	<string>קרון רכבת</string>
+	<key>🎅</key>
+	<string>סנטה קלאוס</string>
+	<key>🦃</key>
+	<string>תרנגול הודו</string>
+	<key>🚄</key>
+	<string>רכבת מהירה</string>
+	<key>🇳🇺</key>
+	<string>דגל ניואה</string>
+	<key>🛩️</key>
+	<string>מטוס קטן</string>
+	<key>◾️</key>
+	<string>ריבוע שחור בינוני-קטן</string>
+	<key>🎆</key>
+	<string>זיקוקים</string>
+	<key>🇧🇹</key>
+	<string>דגל בהוטן</string>
+	<key>🦄</key>
+	<string>חד קרן</string>
+	<key>🚅</key>
+	<string>רכבת מהירה עם אף בצורת קליע</string>
+	<key>🎇</key>
+	<string>זיקוק</string>
+	<key>🦅</key>
+	<string>עיט</string>
+	<key>🚆</key>
+	<string>רכבת</string>
+	<key>👱‍♀️</key>
+	<string>אישה עם שיער בלונדיני</string>
+	<key>🎈</key>
+	<string>בלון</string>
+	<key>🇿🇼</key>
+	<string>דגל זימבבואה</string>
+	<key>🦆</key>
+	<string>ברווז</string>
+	<key>🚇</key>
+	<string>רכבת תחתית</string>
+	<key>😮‍💨</key>
+	<string>פרצוף נושף</string>
+	<key>🎉</key>
+	<string>נפץ</string>
+	<key>🦇</key>
+	<string>עטלף</string>
+	<key>🚈</key>
+	<string>רכבת קלה</string>
+	<key>🎊</key>
+	<string>כדור קונפטי</string>
+	<key>🦈</key>
+	<string>כריש</string>
+	<key>🚉</key>
+	<string>תחנה</string>
+	<key>🇷🇼</key>
+	<string>דגל רואנדה</string>
+	<key>🎋</key>
+	<string>עץ טנבאטה</string>
+	<key>🦉</key>
+	<string>ינשוף</string>
+	<key>🚊</key>
+	<string>חשמלית</string>
+	<key>🎌</key>
+	<string>דגלים מוצלבים</string>
+	<key>🦊</key>
+	<string>פרצוף שועל</string>
+	<key>🚋</key>
+	<string>קרון חשמלית</string>
+	<key>🎍</key>
+	<string>עיטור באורנים</string>
+	<key>🇧🇻</key>
+	<string>דגל האי בובה</string>
+	<key>🦋</key>
+	<string>פרפר</string>
+	<key>🚌</key>
+	<string>אוטובוס</string>
+	<key>🎎</key>
+	<string>בובות יפניות</string>
+	<key>🦌</key>
+	<string>צבי</string>
+	<key>🚍</key>
+	<string>אוטובוס מתקרב</string>
+	<key>🎏</key>
+	<string>קרפיון נייר</string>
+	<key>🦍</key>
+	<string>גורילה</string>
+	<key>🚎</key>
+	<string>טרוליבוס</string>
+	<key>🚏</key>
+	<string>תחנת אוטובוס</string>
+	<key>🎐</key>
+	<string>פעמון רוח</string>
+	<key>🦎</key>
+	<string>לטאה</string>
+	<key>🇧🇼</key>
+	<string>דגל בוטסואנה</string>
+	<key>🚐</key>
+	<string>מיניבוס</string>
+	<key>♏️</key>
+	<string>עקרב</string>
+	<key>🎑</key>
+	<string>טקס צפייה בירח</string>
+	<key>🦏</key>
+	<string>קרנף</string>
+	<key>🚑</key>
+	<string>אמבולנס</string>
+	<key>👨‍🍼</key>
+	<string>איש מאכיל תינוק</string>
+	<key>⚧️</key>
+	<string>סמל טרנסג׳נדרים</string>
+	<key>👨‍👨‍👧</key>
+	<string>משפחה המורכבת משני אבות ובת</string>
+	<key>🖋️</key>
+	<string>עט נובע</string>
+	<key>🚒</key>
+	<string>כבאית</string>
+	<key>🎒</key>
+	<string>תרמיל</string>
+	<key>🎓</key>
+	<string>כובע לטקס סיום לימודים</string>
+	<key>🦐</key>
+	<string>שרימפס</string>
+	<key>🦑</key>
+	<string>דיונון</string>
+	<key>🚓</key>
+	<string>מכונית משטרה</string>
+	<key>❗️</key>
+	<string>סימן קריאה אדום</string>
+	<key>🦒</key>
+	<string>ג׳ירפה</string>
+	<key>🙇‍♀️</key>
+	<string>אישה קדה קידה</string>
+	<key>🗣️</key>
+	<string>ראש צללית מדבר</string>
+	<key>🚔</key>
+	<string>ניידת משטרה מתקרבת</string>
+	<key>🦓</key>
+	<string>זברה</string>
+	<key>🚕</key>
+	<string>מונית</string>
+	<key>🦔</key>
+	<string>קיפוד</string>
+	<key>🇳🇿</key>
+	<string>דגל ניו זילנד</string>
+	<key>🦕</key>
+	<string>דינוזאור</string>
+	<key>🚖</key>
+	<string>מונית מתקרבת</string>
+	<key>🇧🇾</key>
+	<string>דגל בלרוס</string>
+	<key>🦖</key>
+	<string>טי רקס</string>
+	<key>🚗</key>
+	<string>מכונית</string>
+	<key>🦗</key>
+	<string>צרצר</string>
+	<key>🚘</key>
+	<string>מכונית מתקרבת</string>
+	<key>🦘</key>
+	<string>קנגורו</string>
+	<key>🚙</key>
+	<string>רכב שטח</string>
+	<key>🇧🇿</key>
+	<string>דגל בליז</string>
+	<key>🦙</key>
+	<string>לאמה</string>
+	<key>🚚</key>
+	<string>משאית הובלות</string>
+	<key>♈️</key>
+	<string>מזל טלה</string>
+	<key>🦚</key>
+	<string>טווס</string>
+	<key>🚛</key>
+	<string>משאית נגררת</string>
+	<key>⚠️</key>
+	<string>אזהרה</string>
+	<key>🦛</key>
+	<string>היפופוטם</string>
+	<key>🚜</key>
+	<string>טרקטור</string>
+	<key>⛸️</key>
+	<string>מחליקיים</string>
+	<key>🧘‍♂️</key>
+	<string>איש בישיבת לוטוס</string>
+	<key>🧑‍🚀</key>
+	<string>אסטרונאוט</string>
+	<key>🦜</key>
+	<string>תוכי</string>
+	<key>🚝</key>
+	<string>מונורייל</string>
+	<key>🦝</key>
+	<string>רקון</string>
+	<key>🚞</key>
+	<string>מסילת רכבת הררית</string>
+	<key>🎠</key>
+	<string>סוס בסחרחרה</string>
+	<key>🦞</key>
+	<string>לובסטר</string>
+	<key>🚟</key>
+	<string>מסילה תלויה</string>
+	<key>🎡</key>
+	<string>גלגל ענק</string>
+	<key>🦟</key>
+	<string>יתוש</string>
+	<key>🚠</key>
+	<string>רכבל הרים</string>
+	<key>🎢</key>
+	<string>רכבת הרים</string>
+	<key>🦠</key>
+	<string>חיידק</string>
+	<key>🚡</key>
+	<string>רכבל</string>
+	<key>🧝‍♀️</key>
+	<string>שדונית</string>
+	<key>🎣</key>
+	<string>חכה עם דג</string>
+	<key>🦡</key>
+	<string>גירית</string>
+	<key>🚢</key>
+	<string>אוניה</string>
+	<key>🎤</key>
+	<string>מיקרופון</string>
+	<key>🦢</key>
+	<string>ברבור</string>
+	<key>🚣</key>
+	<string>אדם חותר בסירה</string>
+	<key>🎥</key>
+	<string>מצלמת סרטים</string>
+	<key>🦣</key>
+	<string>ממותה</string>
+	<key>🚤</key>
+	<string>סירה ממונעת</string>
+	<key>🎦</key>
+	<string>סימן קולנוע</string>
+	<key>🦤</key>
+	<string>ציפור דודו</string>
+	<key>🚥</key>
+	<string>רמזור אופקי</string>
+	<key>⚙️</key>
+	<string>גלגל שיניים</string>
+	<key>🚴‍♂️</key>
+	<string>רוכב אופניים</string>
+	<key>🎧</key>
+	<string>אוזניות</string>
+	<key>🦥</key>
+	<string>עצלן</string>
+	<key>🚦</key>
+	<string>רמזור אנכי</string>
+	<key>⛱️</key>
+	<string>שמשיית חוף</string>
+	<key>🖍️</key>
+	<string>עפרון צבעוני</string>
+	<key>🎨</key>
+	<string>לוח צבעים של ציירים</string>
+	<key>🦦</key>
+	<string>לוטרה</string>
+	<key>🚧</key>
+	<string>סמל אתר בנייה</string>
+	<key>🎩</key>
+	<string>כובע צילינדר</string>
+	<key>🦧</key>
+	<string>אורנגאוטן</string>
+	<key>🚨</key>
+	<string>תאורת רכב משטרתי</string>
+	<key>➡️</key>
+	<string>חץ ימינה</string>
+	<key>🎪</key>
+	<string>אוהל קרקס</string>
+	<key>🦨</key>
+	<string>בואש</string>
+	<key>🚩</key>
+	<string>דגל משולש על עמוד</string>
+	<key>🎫</key>
+	<string>כרטיס</string>
+	<key>🦩</key>
+	<string>פלמינגו</string>
+	<key>🚪</key>
+	<string>דלת</string>
+	<key>🦸‍♀️</key>
+	<string>גיבורת-על</string>
+	<key>🎬</key>
+	<string>לוח ״אקשן״ של במאים</string>
+	<key>🦪</key>
+	<string>צדפה</string>
+	<key>🚫</key>
+	<string>אסור</string>
+	<key>🎖️</key>
+	<string>עיטור כבוד צבאי</string>
+	<key>🎭</key>
+	<string>אמנויות הבמה</string>
+	<key>🦫</key>
+	<string>בונה</string>
+	<key>🚬</key>
+	<string>סיגריה</string>
+	<key>🎮</key>
+	<string>בקר למשחק וידאו</string>
+	<key>🦬</key>
+	<string>ביזון</string>
+	<key>🚭</key>
+	<string>סימן של ״אסור לעשן״</string>
+	<key>🎯</key>
+	<string>לוח מטרה</string>
+	<key>🦭</key>
+	<string>כלב ים</string>
+	<key>🚮</key>
+	<string>סימן השלכת פסולת לפח</string>
+	<key>☺️</key>
+	<string>פרצוף מחייך</string>
+	<key>🎰</key>
+	<string>מכונת מזל</string>
+	<key>🦮</key>
+	<string>כלב נחייה</string>
+	<key>🚯</key>
+	<string>נא לא ללכלך</string>
+	<key>⚒️</key>
+	<string>פטיש ומכוש</string>
+	<key>🎱</key>
+	<string>ביליארד</string>
+	<key>🦯</key>
+	<string>מקל נחייה</string>
+	<key>🚰</key>
+	<string>ברז מים</string>
+	<key>🧑‍🎄</key>
+	<string>מר קלאוס</string>
+	<key>⛪️</key>
+	<string>כנסיה</string>
+	<key>🎲</key>
+	<string>קוביית משחק</string>
+	<key>🤵‍♀️</key>
+	<string>אישה בטוקסידו</string>
+	<key>⌛️</key>
+	<string>שעון חול</string>
+	<key>🏋️‍♂️</key>
+	<string>מרים משקולות</string>
+	<key>🚱</key>
+	<string>מים אסורים לשתייה</string>
+	<key>🎳</key>
+	<string>כדור באולינג ופינים</string>
+	<key>👯‍♂️</key>
+	<string>גברים רוקדים חובשים אוזני שפן</string>
+	<key>👨‍🚀</key>
+	<string>אסטרונאוט</string>
+	<key>🚲</key>
+	<string>אופניים</string>
+	<key>🎴</key>
+	<string>קלפי משחק עם פרחים</string>
+	<key>🚳</key>
+	<string>אין כניסה לאופניים</string>
+	<key>👩‍👦‍👦</key>
+	<string>משפחה המורכבת מאם ושני בנים</string>
+	<key>🎵</key>
+	<string>תו מוזיקלי</string>
+	<key>👨‍🤝‍👨</key>
+	<string>גברים מחזיקים ידיים</string>
+	<key>🚴</key>
+	<string>רוכב אופניים</string>
+	<key>🎶</key>
+	<string>תווי מוזיקה</string>
+	<key>🦴</key>
+	<string>עצם</string>
+	<key>🚵</key>
+	<string>רוכב אופני הרים</string>
+	<key>🎷</key>
+	<string>סקסופון</string>
+	<key>🦵</key>
+	<string>רגל</string>
+	<key>🚶</key>
+	<string>הולך-רגל</string>
+	<key>🎸</key>
+	<string>גיטרה</string>
+	<key>🦶</key>
+	<string>כף רגל</string>
+	<key>🚷</key>
+	<string>אין כניסה להולכי רגל</string>
+	<key>🎹</key>
+	<string>קלידים</string>
+	<key>🦷</key>
+	<string>שן</string>
+	<key>🚸</key>
+	<string>ילדים חוצים</string>
+	<key>🎺</key>
+	<string>חצוצרה</string>
+	<key>🦸</key>
+	<string>גיבורת-על</string>
+	<key>🚹</key>
+	<string>סמל של גברים</string>
+	<key>🎻</key>
+	<string>כינור</string>
+	<key>🦹</key>
+	<string>נבל-על</string>
+	<key>🚺</key>
+	<string>סמל של נשים</string>
+	<key>🎼</key>
+	<string>רישום מוזיקלי</string>
+	<key>🦺</key>
+	<string>אפוד זוהר</string>
+	<key>🚻</key>
+	<string>שירותים</string>
+	<key>🎽</key>
+	<string>חולצת ריצה</string>
+	<key>🦻</key>
+	<string>אוזן עם מכשיר שמיעה</string>
+	<key>🚼</key>
+	<string>סמל של תינוק</string>
+	<key>🎾</key>
+	<string>כדור טניס</string>
+	<key>🦼</key>
+	<string>כיסא גלגלים ממונע</string>
+	<key>🚽</key>
+	<string>אסלה</string>
+	<key>🎿</key>
+	<string>מגלשיים</string>
+	<key>🦽</key>
+	<string>כיסא גלגלים</string>
+	<key>🚾</key>
+	<string>שירותים</string>
+	<key>🏀</key>
+	<string>כדורסל</string>
+	<key>🦾</key>
+	<string>יד מכנית</string>
+	<key>🙅‍♂️</key>
+	<string>איש מסמן ״לא״</string>
+	<key>🚿</key>
+	<string>מקלחת</string>
+	<key>🏁</key>
+	<string>דגל משובץ</string>
+	<key>🦿</key>
+	<string>רגל מכנית</string>
+	<key>🛀</key>
+	<string>אדם עושה אמבטיה</string>
+	<key>🏂</key>
+	<string>גולש סנואובורד</string>
+	<key>🧀</key>
+	<string>חתיכת גבינה</string>
+	<key>🛁</key>
+	<string>אמבטיה</string>
+	<key>🚣‍♂️</key>
+	<string>איש חותר בסירה</string>
+	<key>🏃</key>
+	<string>אצן</string>
+	<key>🧁</key>
+	<string>קפקייק</string>
+	<key>🛂</key>
+	<string>בקרת דרכונים</string>
+	<key>🏄</key>
+	<string>גולש</string>
+	<key>🧂</key>
+	<string>מלח</string>
+	<key>🛃</key>
+	<string>מכס</string>
+	<key>🏅</key>
+	<string>מדליית ספורט</string>
+	<key>🧃</key>
+	<string>קופסת מיץ</string>
+	<key>🛄</key>
+	<string>איסוף מזוודות</string>
+	<key>🏆</key>
+	<string>גביע</string>
+	<key>🧄</key>
+	<string>שום</string>
+	<key>🛅</key>
+	<string>מטען שמור</string>
+	<key>🏇</key>
+	<string>רוכב סוסים</string>
+	<key>🧅</key>
+	<string>בצל</string>
+	<key>✴️</key>
+	<string>כוכב בעל שמונה קודקודים</string>
+	<key>🖼️</key>
+	<string>מסגרת עם תמונה</string>
+	<key>🏈</key>
+	<string>פוטבול אמריקני</string>
+	<key>🧆</key>
+	<string>פלאפל</string>
+	<key>🏉</key>
+	<string>כדור רוגבי</string>
+	<key>🧇</key>
+	<string>ופל</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>משפחה המורכבת משני אבות, בן ובת</string>
+	<key>🏊</key>
+	<string>שחיין</string>
+	<key>🧈</key>
+	<string>חמאה</string>
+	<key>🧑‍⚖️</key>
+	<string>שופט</string>
+	<key>3️⃣</key>
+	<string>מקש הספרה ״שלוש״</string>
+	<key>🧉</key>
+	<string>מאטה</string>
+	<key>🧊</key>
+	<string>קרח</string>
+	<key>🧋</key>
+	<string>תה בועות</string>
+	<key>🛌</key>
+	<string>אדם ישן</string>
+	<key>🧛‍♂️</key>
+	<string>ערפד</string>
+	<key>🧌</key>
+	<string>טרול</string>
+	<key>🏏</key>
+	<string>מחבט וכדור קריקט</string>
+	<key>🧍</key>
+	<string>אדם עומד</string>
+	<key>🏐</key>
+	<string>כדורעף</string>
+	<key>🧎</key>
+	<string>אדם כורע ברך</string>
+	<key>🏑</key>
+	<string>מחבט וכדור הוקי שדה</string>
+	<key>🧏</key>
+	<string>אדם חירש</string>
+	<key>🛐</key>
+	<string>מקום פולחן</string>
+	<key>🏒</key>
+	<string>מקל ודיסקית הוקי קרח</string>
+	<key>🧐</key>
+	<string>פרצוף עם מונוקל</string>
+	<key>🛑</key>
+	<string>שלט מתומן</string>
+	<key>🏓</key>
+	<string>מחבט וכדור טניס שולחן</string>
+	<key>🧑</key>
+	<string>אדם בוגר</string>
+	<key>🛒</key>
+	<string>עגלת קניות</string>
+	<key>🧒</key>
+	<string>ילד</string>
+	<key>🧓</key>
+	<string>אדם מבוגר</string>
+	<key>🎚️</key>
+	<string>מחוון עוצמה</string>
+	<key>🧔</key>
+	<string>אדם מזוקן</string>
+	<key>🛕</key>
+	<string>מקדש הינדי</string>
+	<key>🧕</key>
+	<string>אישה עם צעיף ראש</string>
+	<key>🛖</key>
+	<string>בקתה</string>
+	<key>🧖</key>
+	<string>אדם בסאונה</string>
+	<key>🛗</key>
+	<string>מעלית</string>
+	<key>🧗</key>
+	<string>מטפס מצוקים</string>
+	<key>🧘</key>
+	<string>אדם בישיבת לוטוס</string>
+	<key>🧙</key>
+	<string>קוסם</string>
+	<key>🧚</key>
+	<string>פיה</string>
+	<key>👩‍💻</key>
+	<string>עובדת טכנולוגיה</string>
+	<key>🧛</key>
+	<string>ערפד</string>
+	<key>🛜</key>
+	<string>סמל של תקשורת אלחוטית</string>
+	<key>🧜</key>
+	<string>אדם-ים</string>
+	<key>🛝</key>
+	<string>מגלשה במגרש משחקים</string>
+	<key>🧝</key>
+	<string>שדון</string>
+	<key>🛞</key>
+	<string>גלגל</string>
+	<key>👨‍⚖️</key>
+	<string>שופט</string>
+	<key>🏠</key>
+	<string>בית</string>
+	<key>🧞</key>
+	<string>ג׳יני</string>
+	<key>↘️</key>
+	<string>חץ ימינה ולמטה</string>
+	<key>🛟</key>
+	<string>גלגל הצלה</string>
+	<key>🏡</key>
+	<string>בית עם גינה</string>
+	<key>🧟</key>
+	<string>זומבי</string>
+	<key>🤸‍♀️</key>
+	<string>אישה מבצעת גלגלון</string>
+	<key>🏢</key>
+	<string>בניין משרדים</string>
+	<key>🧠</key>
+	<string>מוח</string>
+	<key>🏣</key>
+	<string>משרד דואר יפני</string>
+	<key>🧡</key>
+	<string>לב כתום</string>
+	<key>👩‍💼</key>
+	<string>עובדת משרד</string>
+	<key>🏤</key>
+	<string>משרד דואר אירופאי</string>
+	<key>🧢</key>
+	<string>כובע מצחייה</string>
+	<key>🏥</key>
+	<string>בית-חולים</string>
+	<key>🧣</key>
+	<string>צעיף</string>
+	<key>🏦</key>
+	<string>בנק</string>
+	<key>🧤</key>
+	<string>כפפות</string>
+	<key>🏧</key>
+	<string>סימן כספומט</string>
+	<key>🧥</key>
+	<string>מעיל</string>
+	<key>👷‍♀️</key>
+	<string>עובדת בניין</string>
+	<key>🏨</key>
+	<string>מלון</string>
+	<key>🧦</key>
+	<string>גרביים</string>
+	<key>🏩</key>
+	<string>מלון אהבה</string>
+	<key>🧧</key>
+	<string>מעטפת מתנה אדומה</string>
+	<key>ℹ️</key>
+	<string>מקור מידע</string>
+	<key>🏪</key>
+	<string>פיצוציה</string>
+	<key>🧨</key>
+	<string>חזיז</string>
+	<key>🏫</key>
+	<string>בית-ספר</string>
+	<key>🧩</key>
+	<string>חלק פאזל</string>
+	<key>🏬</key>
+	<string>חנות כלבו</string>
+	<key>🧪</key>
+	<string>מבחנה</string>
+	<key>🛫</key>
+	<string>מטוס ממריא</string>
+	<key>🛳️</key>
+	<string>אניית נוסעים</string>
+	<key>🏭</key>
+	<string>מפעל</string>
+	<key>🧫</key>
+	<string>צלחת פטרי</string>
+	<key>🛬</key>
+	<string>מטוס נוחת</string>
+	<key>♨️</key>
+	<string>מעיינות חמים</string>
+	<key>🏮</key>
+	<string>פנס יפני</string>
+	<key>🧬</key>
+	<string>דנ״א</string>
+	<key>👨‍👩‍👦</key>
+	<string>משפחה המורכבת מֵאִמָּא, אבא ובן</string>
+	<key>🏯</key>
+	<string>טירה יפנית</string>
+	<key>🧭</key>
+	<string>מצפן</string>
+	<key>🧏‍♀️</key>
+	<string>אישה חירשת</string>
+	<key>🏰</key>
+	<string>טירה אירופאית</string>
+	<key>🧮</key>
+	<string>חשבונייה</string>
+	<key>🧯</key>
+	<string>מטף</string>
+	<key>⏹️</key>
+	<string>סמל עֲצֹר</string>
+	<key>🧰</key>
+	<string>ארגז כלים</string>
+	<key>🧱</key>
+	<string>לבנים</string>
+	<key>🏴</key>
+	<string>דגל שחור</string>
+	<key>🧲</key>
+	<string>מגנט</string>
+	<key>🙍‍♀️</key>
+	<string>אישה זועפת</string>
+	<key>🧳</key>
+	<string>מזוודה</string>
+	<key>🛴</key>
+	<string>קורקינט</string>
+	<key>🧴</key>
+	<string>בקבוק תחליב</string>
+	<key>🛵</key>
+	<string>קטנוע</string>
+	<key>👨‍👦</key>
+	<string>משפחה המורכבת מאב ובן</string>
+	<key>🧵</key>
+	<string>חוט</string>
+	<key>💆‍♂️</key>
+	<string>איש מקבל עיסוי ראש</string>
+	<key>🛶</key>
+	<string>קאנו</string>
+	<key>🏸</key>
+	<string>מחבט וכדור בדמינטון</string>
+	<key>🧶</key>
+	<string>כדור צמר</string>
+	<key>🛷</key>
+	<string>מזחלת</string>
+	<key>🏹</key>
+	<string>חץ וקשת</string>
+	<key>🧷</key>
+	<string>סיכת ביטחון</string>
+	<key>🛸</key>
+	<string>עב״ם</string>
+	<key>🏺</key>
+	<string>כד חרס עתיק</string>
+	<key>🧸</key>
+	<string>דובון</string>
+	<key>🛹</key>
+	<string>סקייטבורד</string>
+	<key>🧹</key>
+	<string>מטאטא</string>
+	<key>🛺</key>
+	<string>ריקשה</string>
+	<key>⏲️</key>
+	<string>שָׁעוֹן ספירה לאחור</string>
+	<key>🧺</key>
+	<string>סל</string>
+	<key>🛻</key>
+	<string>טנדר</string>
+	<key>🧻</key>
+	<string>גליל נייר</string>
+	<key>🛼</key>
+	<string>גלגיליות</string>
+	<key>👨‍👧</key>
+	<string>משפחה המורכבת מאב ובת</string>
+	<key>🧼</key>
+	<string>סבון</string>
+	<key>🧞‍♂️</key>
+	<string>ג׳יני</string>
+	<key>🧽</key>
+	<string>ספוג</string>
+	<key>🎞️</key>
+	<string>סרט צילום</string>
+	<key>🧾</key>
+	<string>קבלה</string>
+	<key>▪️</key>
+	<string>ריבוע שחור קטן</string>
+	<key>🧿</key>
+	<string>קמע נאזאר</string>
+	<key>☂️</key>
+	<string>מטריה</string>
+	<key>🗂️</key>
+	<string>חוצצים לכרטיסיות</string>
+	<key>🦹‍♂️</key>
+	<string>נבל-על</string>
+	<key>🏋️</key>
+	<string>מרים משקולות</string>
+	<key>◻️</key>
+	<string>ריבוע לבן בינוני</string>
+	<key>♓️</key>
+	<string>מזל דגים</string>
+	<key>⚫️</key>
+	<string>עיגול שחור</string>
+	<key>⏩</key>
+	<string>סמל ״הרצה קדימה״</string>
+	<key>⏪</key>
+	<string>סמל הרצה לאחור</string>
+	<key>⏫</key>
+	<string>משולש כפול שמצביע למעלה</string>
+	<key>⏬</key>
+	<string>משולש כפול שמצביע למטה</string>
+	<key>🗯️</key>
+	<string>בועת שיחה כועסת</string>
+	<key>⏰</key>
+	<string>שעון מעורר</string>
+	<key>⏳</key>
+	<string>שעון חול עם זרימת חול</string>
+	<key>🧑‍🎓</key>
+	<string>סטודנט</string>
+	<key>🧑‍🚒</key>
+	<string>לוחם אש</string>
+	<key>♌️</key>
+	<string>מזל אריה</string>
+	<key>🗄️</key>
+	<string>ארונית</string>
+	<key>🧍‍♂️</key>
+	<string>איש עומד</string>
+	<key>🏍️</key>
+	<string>אופנוע</string>
+	<key>🙋‍♂️</key>
+	<string>איש מרים יד אחת</string>
+	<key>👨‍👩‍👧</key>
+	<string>משפחה המורכבת מאמא, אבא ובת</string>
+	<key>🇸🇦</key>
+	<string>דגל ערב הסעודית</string>
+	<key>⛵️</key>
+	<string>סירה</string>
+	<key>👩‍🏫</key>
+	<string>מורה</string>
+	<key>⬜️</key>
+	<string>ריבוע לבן גדול</string>
+	<key>🇸🇧</key>
+	<string>דגל איי שלמה</string>
+	<key>🇬🇦</key>
+	<string>דגל גבון</string>
+	<key>🇨🇦</key>
+	<string>דגל קנדה</string>
+	<key>🇸🇨</key>
+	<string>דגל סיישל</string>
+	<key>🇬🇧</key>
+	<string>דגל בריטניה</string>
+	<key>👨‍🎓</key>
+	<string>סטודנט</string>
+	<key>👨‍🚒</key>
+	<string>לוחם אש</string>
+	<key>⚖️</key>
+	<string>מאזניים</string>
+	<key>🇸🇩</key>
+	<string>דגל סודן</string>
+	<key>🇨🇨</key>
+	<string>דגל איי קוקוס (קילינג)</string>
+	<key>⏏️</key>
+	<string>הסמל של ״הוצא״</string>
+	<key>🇸🇪</key>
+	<string>דגל שוודיה</string>
+	<key>🇬🇩</key>
+	<string>דגל גרנדה</string>
+	<key>👩‍🏭</key>
+	<string>עובדת מפעל</string>
+	<key>🇼🇫</key>
+	<string>דגל ואליס ופוטונה</string>
+	<key>🇨🇩</key>
+	<string>דגל הרפובליקה הדמוקרטית של קונגו</string>
+	<key>🇰🇪</key>
+	<string>דגל קניה</string>
+	<key>🛎️</key>
+	<string>פעמון קבלה</string>
+	<key>🇬🇪</key>
+	<string>דגל גיאורגיה</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>משפחה המורכבת משתי אימהות, בן ובת</string>
+	<key>🇸🇬</key>
+	<string>דגל סינגפור</string>
+	<key>🇬🇫</key>
+	<string>דגל גיאנה הצרפתית</string>
+	<key>🇨🇫</key>
+	<string>דגל הרפובליקה המרכז-אפריקאית</string>
+	<key>🇰🇬</key>
+	<string>דגל קירגיזסטן</string>
+	<key>🗳️</key>
+	<string>תיבת קלפי עם פתק הצבעה</string>
+	<key>🇸🇭</key>
+	<string>דגל סנט הלנה</string>
+	<key>🇬🇬</key>
+	<string>דגל גרנזי</string>
+	<key>🧑‍⚕️</key>
+	<string>עובד מערכת הבריאות</string>
+	<key>🏃‍♀️</key>
+	<string>אצנית</string>
+	<key>🇨🇬</key>
+	<string>דגל הרפובליקה של קונגו</string>
+	<key>🇰🇭</key>
+	<string>דגל קמבודיה</string>
+	<key>🤹‍♂️</key>
+	<string>איש מלהטט</string>
+	<key>🇸🇮</key>
+	<string>דגל סלובניה</string>
+	<key>🇬🇭</key>
+	<string>דגל גאנה</string>
+	<key>〽️</key>
+	<string>תורך</string>
+	<key>🇨🇭</key>
+	<string>דגל שווייץ</string>
+	<key>🇰🇮</key>
+	<string>דגל קיריבטי</string>
+	<key>🇸🇯</key>
+	<string>דגל סבאלברד ויאן מאיין</string>
+	<key>🕰️</key>
+	<string>שעון מדף</string>
+	<key>8️⃣</key>
+	<string>מקש הספרה ״שמונה״</string>
+	<key>🇬🇮</key>
+	<string>דגל גיברלטר</string>
+	<key>🤾‍♀️</key>
+	<string>אישה משחקת כדור-יד</string>
+	<key>🇨🇮</key>
+	<string>דגל חוף השנהב</string>
+	<key>⬇️</key>
+	<string>חץ למטה</string>
+	<key>👩‍✈️</key>
+	<string>טייסת</string>
+	<key>👩‍👧‍👦</key>
+	<string>משפחה המורכבת מאם, בן ובת</string>
+	<key>🇸🇰</key>
+	<string>דגל סלובקיה</string>
+	<key>🌡️</key>
+	<string>מדחום</string>
+	<key>↪️</key>
+	<string>חץ שמאלה מתעקל ימינה</string>
+	<key>🇸🇱</key>
+	<string>דגל סיירה לאון</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>שני גברים מתנשקים</string>
+	<key>🇨🇰</key>
+	<string>דגל איי קוק</string>
+	<key>🇸🇲</key>
+	<string>דגל סן מרינו</string>
+	<key>🇬🇱</key>
+	<string>דגל גרינלנד</string>
+	<key>🇴🇲</key>
+	<string>דגל עומאן</string>
+	<key>🇨🇱</key>
+	<string>דגל צ׳ילה</string>
+	<key>🇰🇲</key>
+	<string>דגל קומורוס</string>
+	<key>🇸🇳</key>
+	<string>דגל סנגל</string>
+	<key>🇬🇲</key>
+	<string>דגל גמביה</string>
+	<key>1️⃣</key>
+	<string>מקש הספרה ״אחד״</string>
+	<key>Ⓜ️</key>
+	<string>‏M מוקפת בעיגול</string>
+	<key>🇨🇲</key>
+	<string>דגל קמרון</string>
+	<key>👨‍⚕️</key>
+	<string>עובד מערכת הבריאות</string>
+	<key>🙎‍♂️</key>
+	<string>איש מחמיץ פנים</string>
+	<key>🇰🇳</key>
+	<string>דגל סנט קיטס ונוויס</string>
+	<key>🇸🇴</key>
+	<string>דגל סומליה</string>
+	<key>🇬🇳</key>
+	<string>דגל גינאה</string>
+	<key>🇨🇳</key>
+	<string>דגל סין</string>
+	<key>☢️</key>
+	<string>רדיואקטיבי</string>
+	<key>🇨🇴</key>
+	<string>דגל קולומביה</string>
+	<key>‼️</key>
+	<string>סימן קריאה אדום כפול</string>
+	<key>🃏</key>
+	<string>ג׳וקר</string>
+	<key>🇰🇵</key>
+	<string>דגל צפון קוריאה</string>
+	<key>🇬🇵</key>
+	<string>דגל גוואדלופה</string>
+	<key>㊗️</key>
+	<string>סימן יפני שמשמעותו ״מזל טוב״</string>
+	<key>🐿️</key>
+	<string>צ׳יפמאנק</string>
+	<key>🇨🇵</key>
+	<string>דגל האי קליפרטון</string>
+	<key>🇸🇷</key>
+	<string>דגל סורינאם</string>
+	<key>🏳️‍⚧️</key>
+	<string>דגל טרנסג׳נדרים</string>
+	<key>🇬🇶</key>
+	<string>דגל גינאה המשוונית</string>
+	<key>🇼🇸</key>
+	<string>דגל סמואה</string>
+	<key>*️⃣</key>
+	<string>מקש כוכבית</string>
+	<key>🇰🇷</key>
+	<string>דגל דרום קוריאה</string>
+	<key>🇸🇸</key>
+	<string>דגל דרום סודן</string>
+	<key>🇬🇷</key>
+	<string>דגל יוון</string>
+	<key>🇨🇷</key>
+	<string>דגל קוסטה ריקה</string>
+	<key>®️</key>
+	<string>סימן רשום</string>
+	<key>🇸🇹</key>
+	<string>דגל סאו טומה ופרינסיפה</string>
+	<key>🇬🇸</key>
+	<string>דגל איי ג׳ורג׳יה הדרומית ואיי סנדוויץ׳ הדרומיים</string>
+	<key>↕️</key>
+	<string>חץ למעלה-למטה</string>
+	<key>🇬🇹</key>
+	<string>דגל גואטמלה</string>
+	<key>☔️</key>
+	<string>מטריה עם טיפות גשם</string>
+	<key>🏳️‍🌈</key>
+	<string>דגל הגאווה</string>
+	<key>🇸🇻</key>
+	<string>דגל אל סלבדור</string>
+	<key>🕴️</key>
+	<string>אדם בחליפת עסקים מרחף</string>
+	<key>⛄️</key>
+	<string>איש שלג</string>
+	<key>🇬🇺</key>
+	<string>דגל גואם</string>
+	<key>🇨🇺</key>
+	<string>דגל קובה</string>
+	<key>#️⃣</key>
+	<string>סימן מספר</string>
+	<key>🤼‍♂️</key>
+	<string>גברים מתאבקים</string>
+	<key>🌥️</key>
+	<string>שמש מאחורי ענן גדול</string>
+	<key>👁️</key>
+	<string>עין</string>
+	<key>🇨🇻</key>
+	<string>דגל כף ורדה</string>
+	<key>🍽️</key>
+	<string>מזלג וסכין עם צלחת</string>
+	<key>🇰🇼</key>
+	<string>דגל כוויית</string>
+	<key>🇸🇽</key>
+	<string>דגל סנט מארטן</string>
+	<key>🇬🇼</key>
+	<string>דגל גינאה ביסאו</string>
+	<key>🏕️</key>
+	<string>מחנאות</string>
+	<key>🩰</key>
+	<string>נעלי בלט</string>
+	<key>🇨🇼</key>
+	<string>דגל קוראסאו</string>
+	<key>🩱</key>
+	<string>בגד-ים שלם</string>
+	<key>🇸🇾</key>
+	<string>דגל סוריה</string>
+	<key>♥️</key>
+	<string>קלף לב</string>
+	<key>🩲</key>
+	<string>תחתונים</string>
+	<key>🕉️</key>
+	<string>סמל אום</string>
+	<key>⚽️</key>
+	<string>כדורגל</string>
+	<key>🩳</key>
+	<string>מכנסיים קצרים</string>
+	<key>🇨🇽</key>
+	<string>דגל אי חג המולד</string>
+	<key>🩴</key>
+	<string>סנדל</string>
+	<key>🇰🇾</key>
+	<string>דגל איי קיימן</string>
+	<key>🇸🇿</key>
+	<string>דגל אסוואטיני</string>
+	<key>🩵</key>
+	<string>לב בצבע תכלת</string>
+	<key>👩‍👧‍👧</key>
+	<string>משפחה המורכבת מאם ושתי בנות</string>
+	<key>🇬🇾</key>
+	<string>דגל גיאנה</string>
+	<key>🩶</key>
+	<string>לב אפור</string>
+	<key>🩷</key>
+	<string>לב ורוד</string>
+	<key>🇨🇾</key>
+	<string>דגל קפריסין</string>
+	<key>🇰🇿</key>
+	<string>דגל קזחסטן</string>
+	<key>🩸</key>
+	<string>טיפת דם</string>
+	<key>🩹</key>
+	<string>פלסטר</string>
+	<key>🩺</key>
+	<string>סטתוסקופ</string>
+	<key>🇨🇿</key>
+	<string>דגל צ׳כיה</string>
+	<key>🩻</key>
+	<string>צילום רנטגן</string>
+	<key>🩼</key>
+	<string>קב</string>
+	<key>🕶️</key>
+	<string>משקפי שמש</string>
+	<key>🧘‍♀️</key>
+	<string>אישה בישיבת לוטוס</string>
+	<key>⏯️</key>
+	<string>סמל הפעלה/השהיה</string>
+	<key>🪀</key>
+	<string>יו-יו</string>
+	<key>🌧️</key>
+	<string>ענן עם גשם</string>
+	<key>🪁</key>
+	<string>עפיפון</string>
+	<key>🪂</key>
+	<string>מצנח</string>
+	<key>🧑‍🎤</key>
+	<string>זמר</string>
+	<key>🪃</key>
+	<string>בומרנג</string>
+	<key>🪄</key>
+	<string>מטה קסמים</string>
+	<key>🏗️</key>
+	<string>אתר בניה</string>
+	<key>🪅</key>
+	<string>פיניאטה</string>
+	<key>🪆</key>
+	<string>בבושקה</string>
+	<key>🚴‍♀️</key>
+	<string>רוכבת אופניים</string>
+	<key>🪇</key>
+	<string>מאראקס</string>
+	<key>🐀</key>
+	<string>עכברוש</string>
+	<key>🪈</key>
+	<string>חליל</string>
+	<key>🐁</key>
+	<string>עכבר</string>
+	<key>🐂</key>
+	<string>שור</string>
+	<key>🐃</key>
+	<string>תאו מים</string>
+	<key>🐄</key>
+	<string>פרה</string>
+	<key>🅱️</key>
+	<string>סוג דם B</string>
+	<key>🐅</key>
+	<string>טיגריס</string>
+	<key>🐆</key>
+	<string>נמר</string>
+	<key>🐇</key>
+	<string>ארנב</string>
+	<key>🐈</key>
+	<string>חתול</string>
+	<key>🪐</key>
+	<string>כוכב לכת</string>
+	<key>♐️</key>
+	<string>מזל קשת</string>
+	<key>🐉</key>
+	<string>דרקון</string>
+	<key>🪑</key>
+	<string>כיסא</string>
+	<key>🕸️</key>
+	<string>קורי עכביש</string>
+	<key>🐊</key>
+	<string>תנין</string>
+	<key>🪒</key>
+	<string>סכין גילוח</string>
+	<key>👩‍🍳</key>
+	<string>טבחית</string>
+	<key>🐋</key>
+	<string>לווייתן</string>
+	<key>👯‍♀️</key>
+	<string>נשים רוקדות חובשות אוזני ארנב</string>
+	<key>🪓</key>
+	<string>גרזן</string>
+	<key>🐌</key>
+	<string>חילזון</string>
+	<key>🪔</key>
+	<string>מנורת שמן</string>
+	<key>🐍</key>
+	<string>נחש</string>
+	<key>🪕</key>
+	<string>בנג׳ו</string>
+	<key>🏄‍♂️</key>
+	<string>גולש</string>
+	<key>🌩️</key>
+	<string>ענן עם ברק</string>
+	<key>🐎</key>
+	<string>סוס</string>
+	<key>🪖</key>
+	<string>קסדה צבאית</string>
+	<key>🐏</key>
+	<string>כבש</string>
+	<key>🪗</key>
+	<string>אקורדיון</string>
+	<key>🐐</key>
+	<string>עז</string>
+	<key>🪘</key>
+	<string>תוף ארוך</string>
+	<key>👨‍🎤</key>
+	<string>זמר</string>
+	<key>🏙️</key>
+	<string>נוף עירוני</string>
+	<key>🐑</key>
+	<string>כבשה</string>
+	<key>🪙</key>
+	<string>מטבע</string>
+	<key>🐒</key>
+	<string>קוף</string>
+	<key>🪚</key>
+	<string>מסור יד</string>
+	<key>♉️</key>
+	<string>מזל שור</string>
+	<key>🐓</key>
+	<string>תרנגול</string>
+	<key>🪛</key>
+	<string>מברג</string>
+	<key>⚡️</key>
+	<string>ברק</string>
+	<key>🐔</key>
+	<string>תרנגולת</string>
+	<key>🪜</key>
+	<string>סולם</string>
+	<key>⛹️</key>
+	<string>שחקן כדורסל</string>
+	<key>🖥️</key>
+	<string>מחשב שולחני</string>
+	<key>🐕</key>
+	<string>כלב</string>
+	<key>🪝</key>
+	<string>וו</string>
+	<key>🧑‍🎨</key>
+	<string>אמן</string>
+	<key>🐖</key>
+	<string>חזיר</string>
+	<key>🪞</key>
+	<string>מראה</string>
+	<key>🐗</key>
+	<string>חזיר בר</string>
+	<key>🪟</key>
+	<string>חלון</string>
+	<key>🐘</key>
+	<string>פיל</string>
+	<key>🙅‍♀️</key>
+	<string>אישה מסמנת ״לא״</string>
+	<key>🪠</key>
+	<string>פומפה</string>
+	<key>🐙</key>
+	<string>תמנון</string>
+	<key>🪡</key>
+	<string>מחט תפירה</string>
+	<key>🐚</key>
+	<string>קונכייה</string>
+	<key>🪢</key>
+	<string>קשר</string>
+	<key>🚣‍♀️</key>
+	<string>אישה חותרת בסירה</string>
+	<key>🐛</key>
+	<string>חרק</string>
+	<key>🪣</key>
+	<string>דלי</string>
+	<key>🐜</key>
+	<string>נמלה</string>
+	<key>🪤</key>
+	<string>מלכודת עכברים</string>
+	<key>🐝</key>
+	<string>דבורה</string>
+	<key>🪥</key>
+	<string>מברשת שיניים</string>
+	<key>🐞</key>
+	<string>פרת משה רבנו</string>
+	<key>🪦</key>
+	<string>מצבה</string>
+	<key>⛲️</key>
+	<string>מזרקה</string>
+	<key>🐟</key>
+	<string>דג</string>
+	<key>🪧</key>
+	<string>שלט</string>
+	<key>🐠</key>
+	<string>דג טרופי</string>
+	<key>🗒️</key>
+	<string>מחברת תזכירים עם ספירלות</string>
+	<key>🪨</key>
+	<string>סלע</string>
+	<key>🐡</key>
+	<string>דג נפוחית</string>
+	<key>🪩</key>
+	<string>כדור מראות</string>
+	<key>🧖‍♂️</key>
+	<string>איש בסאונה</string>
+	<key>🌫️</key>
+	<string>ערפל</string>
+	<key>🐢</key>
+	<string>צב</string>
+	<key>🪪</key>
+	<string>תעודה מזהה</string>
+	<key>🐣</key>
+	<string>אפרוח בוקע</string>
+	<key>🪫</key>
+	<string>סוללה חלשה</string>
+	<key>🐤</key>
+	<string>אפרוח</string>
+	<key>🪬</key>
+	<string>חמסה</string>
+	<key>🐥</key>
+	<string>אפרוח עומד</string>
+	<key>😶‍🌫️</key>
+	<string>פרצוף בעננים</string>
+	<key>🏛️</key>
+	<string>בניין קלאסי</string>
+	<key>🪭</key>
+	<string>מניפת יד מתקפלת</string>
+	<key>🐦</key>
+	<string>ציפור</string>
+	<key>🧛‍♀️</key>
+	<string>ערפדית</string>
+	<key>🪮</key>
+	<string>מסרק</string>
+	<key>🐧</key>
+	<string>פינגווין</string>
+	<key>🪯</key>
+	<string>סמל החאנדה</string>
+	<key>🐨</key>
+	<string>פרצוף של קואלה</string>
+	<key>⚓️</key>
+	<string>עוגן</string>
+	<key>🪰</key>
+	<string>זבוב</string>
+	<key>🐩</key>
+	<string>פודל</string>
+	<key>🪱</key>
+	<string>תולעת</string>
+	<key>🐪</key>
+	<string>גמל</string>
+	<key>🪲</key>
+	<string>חיפושית</string>
+	<key>👨‍🎨</key>
+	<string>אמן</string>
+	<key>🐫</key>
+	<string>גמל דו-דבשתי</string>
+	<key>🪳</key>
+	<string>מקק</string>
+	<key>🐬</key>
+	<string>דולפין</string>
+	<key>🪴</key>
+	<string>עציץ</string>
+	<key>🐭</key>
+	<string>פרצוף של עכבר</string>
+	<key>🪵</key>
+	<string>עץ</string>
+	<key>🐮</key>
+	<string>פרצוף של פרה</string>
+	<key>🪶</key>
+	<string>נוצה</string>
+	<key>🐯</key>
+	<string>פרצוף של נמר</string>
+	<key>🪷</key>
+	<string>פרח הלוטוס</string>
+	<key>🐕‍🦺</key>
+	<string>כלב שירות</string>
+	<key>🐰</key>
+	<string>פרצוף של ארנבת</string>
+	<key>🪸</key>
+	<string>אלמוג</string>
+	<key>🐱</key>
+	<string>פרצוף של חתול</string>
+	<key>🪹</key>
+	<string>קן ריק</string>
+	<key>🐲</key>
+	<string>ראש של דרקון</string>
+	<key>🪺</key>
+	<string>קן עם ביצים</string>
+	<key>🐳</key>
+	<string>לוויתן עם קילוח מים</string>
+	<key>🪻</key>
+	<string>יקינתון</string>
+	<key>🐴</key>
+	<string>ראש של סוס</string>
+	<key>🪼</key>
+	<string>מדוזה</string>
+	<key>🐵</key>
+	<string>פרצוף של קוף</string>
+	<key>🪽</key>
+	<string>כנף</string>
+	<key>🐶</key>
+	<string>פרצוף של כלב</string>
+	<key>🐷</key>
+	<string>פרצוף של חזיר</string>
+	<key>🪿</key>
+	<string>אווז</string>
+	<key>🐸</key>
+	<string>פרצוף צפרדע</string>
+	<key>🫀</key>
+	<string>לב אנטומי</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>דגל אנגליה</string>
+	<key>🐹</key>
+	<string>פרצוף של אוגר</string>
+	<key>🫁</key>
+	<string>ריאות</string>
+	<key>🐺</key>
+	<string>זאב</string>
+	<key>🏝️</key>
+	<string>אי בודד</string>
+	<key>🫂</key>
+	<string>אנשים מתחבקים</string>
+	<key>🐻</key>
+	<string>פרצוף של דוב</string>
+	<key>🏌️‍♂️</key>
+	<string>שחקן גולף</string>
+	<key>🫃</key>
+	<string>גבר בהיריון</string>
+	<key>🐼</key>
+	<string>פרצוף של פנדה</string>
+	<key>🫄</key>
+	<string>אדם בהיריון</string>
+	<key>6️⃣</key>
+	<string>מקש הספרה ״שש״</string>
+	<key>🐽</key>
+	<string>אף חזיר</string>
+	<key>🫅</key>
+	<string>אדם עם כתר</string>
+	<key>🐾</key>
+	<string>עקבות בעלי חיים</string>
+	<key>👀</key>
+	<string>עיניים</string>
+	<key>👂</key>
+	<string>אוזן</string>
+	<key>👃</key>
+	<string>אף</string>
+	<key>👄</key>
+	<string>פה</string>
+	<key>👅</key>
+	<string>לשון</string>
+	<key>☦️</key>
+	<string>צלב אורתודוקסי</string>
+	<key>👆</key>
+	<string>גב היד עם אצבע מורה כלפי מעלה</string>
+	<key>👩‍🍼</key>
+	<string>אישה מאכילה תינוק</string>
+	<key>🫎</key>
+	<string>פרצוף של אייל קורא</string>
+	<key>♾️</key>
+	<string>אינסוף</string>
+	<key>👇</key>
+	<string>גב היד עם אצבע מורה כלפי מטה</string>
+	<key>🫏</key>
+	<string>חמור</string>
+	<key>👈</key>
+	<string>גב היד עם אצבע מורה שמאלה</string>
+	<key>🫐</key>
+	<string>אוכמניות</string>
+	<key>👉</key>
+	<string>גב היד עם אצבע מורה ימינה</string>
+	<key>🫑</key>
+	<string>פלפל</string>
+	<key>👊</key>
+	<string>אגרוף קפוץ</string>
+	<key>🫒</key>
+	<string>זית</string>
+	<key>⭕️</key>
+	<string>סימן עיגול</string>
+	<key>💁‍♂️</key>
+	<string>פקיד קבלה</string>
+	<key>👋</key>
+	<string>יד מנופפת</string>
+	<key>🫓</key>
+	<string>לחם שטוח</string>
+	<key>👌</key>
+	<string>סימן של ״בסדר״ עם היד</string>
+	<key>🫔</key>
+	<string>טמלה</string>
+	<key>👍</key>
+	<string>אגודל למעלה</string>
+	<key>🫕</key>
+	<string>פונדו</string>
+	<key>👎</key>
+	<string>אגודל למטה</string>
+	<key>🫖</key>
+	<string>קנקן תה</string>
+	<key>🏟️</key>
+	<string>אצטדיון</string>
+	<key>👏</key>
+	<string>מחיאת כפיים</string>
+	<key>🫗</key>
+	<string>מזיגה של נוזל</string>
+	<key>💆‍♀️</key>
+	<string>אישה מקבלת עיסוי ראש</string>
+	<key>👐</key>
+	<string>ידיים מזמינות</string>
+	<key>🫘</key>
+	<string>שעועית</string>
+	<key>🐦‍⬛</key>
+	<string>ציפור שחורה</string>
+	<key>🧑‍🦯</key>
+	<string>אדם עם מקל נחייה</string>
+	<key>🫙</key>
+	<string>צנצנת</string>
+	<key>🧙‍♂️</key>
+	<string>קוסם</string>
+	<key>👑</key>
+	<string>כתר</string>
+	<key>⛏️</key>
+	<string>מכוש</string>
+	<key>👒</key>
+	<string>כובע עם סרט</string>
+	<key>🫚</key>
+	<string>שורש זנגביל</string>
+	<key>👓</key>
+	<string>משקפיים</string>
+	<key>🫛</key>
+	<string>תרמיל אפונים</string>
+	<key>👔</key>
+	<string>חולצה ועניבה</string>
+	<key>👕</key>
+	<string>חולצת פולו</string>
+	<key>👖</key>
+	<string>ג׳ינס</string>
+	<key>🧞‍♀️</key>
+	<string>ג׳יני</string>
+	<key>👗</key>
+	<string>שמלה</string>
+	<key>↙️</key>
+	<string>חץ שמאלה ולמטה</string>
+	<key>🧑‍🦰</key>
+	<string>אדם עם שיער אדום</string>
+	<key>🕵️‍♂️</key>
+	<string>בַּלָּשׁ</string>
+	<key>👘</key>
+	<string>קימונו</string>
+	<key>🟠</key>
+	<string>עיגול כתום</string>
+	<key>🫠</key>
+	<string>פרצוף נמס</string>
+	<key>🟡</key>
+	<string>עיגול צהוב</string>
+	<key>👩‍❤️‍👨</key>
+	<string>איש ואישה עם לב</string>
+	<key>👙</key>
+	<string>ביקיני</string>
+	<key>◀️</key>
+	<string>משולש מצביע שמאלה</string>
+	<key>🫡</key>
+	<string>פרצוף מצדיע</string>
+	<key>🟢</key>
+	<string>עיגול ירוק</string>
+	<key>👚</key>
+	<string>חולצה</string>
+	<key>☘️</key>
+	<string>תלתן</string>
+	<key>🫢</key>
+	<string>פרצוף עם עיניים פקוחות ויד על הפה</string>
+	<key>🚵‍♂️</key>
+	<string>רוכב אופני הרים</string>
+	<key>🟣</key>
+	<string>עיגול סגול</string>
+	<key>👛</key>
+	<string>ארנק</string>
+	<key>🫣</key>
+	<string>פרצוף עם עין שמציצה</string>
+	<key>🟤</key>
+	<string>עיגול חום</string>
+	<key>👜</key>
+	<string>תיק</string>
+	<key>⛈️</key>
+	<string>ענן עם ברק וגשם</string>
+	<key>🫤</key>
+	<string>פרצוף עם פה אלכסוני</string>
+	<key>🟥</key>
+	<string>ריבוע אדום</string>
+	<key>👝</key>
+	<string>פאוץ׳</string>
+	<key>🫥</key>
+	<string>פרצוף מקווקו</string>
+	<key>🟦</key>
+	<string>ריבוע כחול</string>
+	<key>👞</key>
+	<string>נעל לאירוע</string>
+	<key>🧑‍🦱</key>
+	<string>אדם עם שיער מתולתל</string>
+	<key>🫦</key>
+	<string>נשיכת שפה</string>
+	<key>🟧</key>
+	<string>ריבוע כתום</string>
+	<key>🦹‍♀️</key>
+	<string>נבלת-על</string>
+	<key>👟</key>
+	<string>נעל טניס</string>
+	<key>🫧</key>
+	<string>בועות</string>
+	<key>🟨</key>
+	<string>ריבוע צהוב</string>
+	<key>❤️‍🔥</key>
+	<string>לב עולה בלהבות</string>
+	<key>👠</key>
+	<string>נעל עקב</string>
+	<key>🟩</key>
+	<string>ריבוע ירוק</string>
+	<key>🫨</key>
+	<string>פרצוף רועד</string>
+	<key>👡</key>
+	<string>סנדל עם עקב</string>
+	<key>🟪</key>
+	<string>ריבוע סגול</string>
+	<key>👢</key>
+	<string>מגפי עקב</string>
+	<key>🟫</key>
+	<string>ריבוע חום</string>
+	<key>👣</key>
+	<string>עקבות</string>
+	<key>🛠️</key>
+	<string>פטיש ומפתח ברגים</string>
+	<key>📽️</key>
+	<string>מקרן</string>
+	<key>👤</key>
+	<string>צללית אדם</string>
+	<key>☑️</key>
+	<string>תיבת סימון עם סימן ביקורת</string>
+	<key>🧑‍🦲</key>
+	<string>אדם בלי שיער</string>
+	<key>👥</key>
+	<string>צללית של שני אנשים</string>
+	<key>👦</key>
+	<string>ילד</string>
+	<key>👨‍🦯</key>
+	<string>איש עם מקל נחייה</string>
+	<key>👧</key>
+	<string>ילדה</string>
+	<key>👰‍♂️</key>
+	<string>איש עם הינומה</string>
+	<key>👩‍🚀</key>
+	<string>אסטרונאוטית</string>
+	<key>🟰</key>
+	<string>סימן שוויון</string>
+	<key>🏴‍☠️</key>
+	<string>דגל פיראטים</string>
+	<key>👨</key>
+	<string>גבר</string>
+	<key>🫰</key>
+	<string>יד עם אצבע מורה ואגודל משיקות</string>
+	<key>⏺️</key>
+	<string>סמל הקלטה</string>
+	<key>👩</key>
+	<string>אישה</string>
+	<key>🫱</key>
+	<string>יד פונה ימינה</string>
+	<key>👪</key>
+	<string>משפחה</string>
+	<key>🫲</key>
+	<string>יד פונה שמאלה</string>
+	<key>👫</key>
+	<string>גבר ואישה מחזיקים ידיים</string>
+	<key>🫳</key>
+	<string>כף יד כלפי מטה</string>
+	<key>🧑‍🦳</key>
+	<string>אדם עם שיער לבן</string>
+	<key>👬</key>
+	<string>שני גברים מחזיקים ידיים</string>
+	<key>🫴</key>
+	<string>כף יד כלפי מעלה</string>
+	<key>👭</key>
+	<string>שתי נשים מחזיקות ידיים</string>
+	<key>👨‍🦰</key>
+	<string>איש עם שיער אדום</string>
+	<key>🫵</key>
+	<string>אצבע מורה שמצביעה על הצופה</string>
+	<key>👮</key>
+	<string>שוטר</string>
+	<key>🏊‍♂️</key>
+	<string>שחיין</string>
+	<key>🫶</key>
+	<string>ידי לב</string>
+	<key>👯</key>
+	<string>אנשים רוקדים חובשים אוזני ארנב</string>
+	<key>🫷</key>
+	<string>יד דוחפת כלפי שמאל</string>
+	<key>👰</key>
+	<string>אדם עם הינומה</string>
+	<key>🫸</key>
+	<string>יד דוחפת כלפי ימין</string>
+	<key>👱</key>
+	<string>אדם עם שיער בלונדיני</string>
+	<key>✒️</key>
+	<string>עט נובע</string>
+	<key>👲</key>
+	<string>אדם חובש כובע סיני</string>
+	<key>🧍‍♀️</key>
+	<string>אישה עומדת</string>
+	<key>👳</key>
+	<string>אדם חובש טורבן</string>
+	<key>👨‍🦱</key>
+	<string>איש עם שיער מתולתל</string>
+	<key>👴</key>
+	<string>איש מבוגר</string>
+	<key>🙆‍♂️</key>
+	<string>איש מסמן ״בסדר״</string>
+	<key>👵</key>
+	<string>אישה מבוגרת</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>משפחה המורכבת מאבא, בן ובת</string>
+	<key>👶</key>
+	<string>תינוק</string>
+	<key>👷</key>
+	<string>עובד בניין</string>
+	<key>▫️</key>
+	<string>ריבוע לבן קטן</string>
+	<key>👸</key>
+	<string>נסיכה</string>
+	<key>🛢️</key>
+	<string>חבית נפט</string>
+	<key>☃️</key>
+	<string>איש שלג עם פתיתי שלג</string>
+	<key>👹</key>
+	<string>מפלצת</string>
+	<key>🙋‍♀️</key>
+	<string>אישה מרימה יד אחת</string>
+	<key>👺</key>
+	<string>גובלין</string>
+	<key>👨‍🦲</key>
+	<string>איש בלי שיער</string>
+	<key>🇹🇦</key>
+	<string>דגל טריסטן דה קונה</string>
+	<key>👻</key>
+	<string>רוח רפאים</string>
+	<key>🇵🇦</key>
+	<string>דגל פנמה</string>
+	<key>👼</key>
+	<string>מלאך תינוק</string>
+	<key>❣️</key>
+	<string>לב אדום בצורת סימן קריאה</string>
+	<key>👽</key>
+	<string>חייזר</string>
+	<key>🇱🇦</key>
+	<string>דגל לאוס</string>
+	<key>👾</key>
+	<string>מפלצת מהחלל החיצון</string>
+	<key>👿</key>
+	<string>פרצוף כועס עם קרניים</string>
+	<key>💀</key>
+	<string>גולגולת</string>
+	<key>🇱🇧</key>
+	<string>דגל לבנון</string>
+	<key>👨‍🦳</key>
+	<string>איש עם שיער לבן</string>
+	<key>💁</key>
+	<string>פקיד קבלה</string>
+	<key>🇹🇨</key>
+	<string>דגל איי טרקס וקייקוס</string>
+	<key>🧜‍♂️</key>
+	<string>בן ים</string>
+	<key>💂</key>
+	<string>שומר</string>
+	<key>💃</key>
+	<string>אישה רוקדת</string>
+	<key>◼️</key>
+	<string>ריבוע שחור בינוני</string>
+	<key>🇱🇨</key>
+	<string>דגל סנט לוסיה</string>
+	<key>💄</key>
+	<string>אודם</string>
+	<key>🇹🇩</key>
+	<string>דגל צ׳אד</string>
+	<key>💅</key>
+	<string>לק לציפורניים</string>
+	<key>💆</key>
+	<string>אדם מקבל עיסוי ראש</string>
+	<key>💇</key>
+	<string>אדם מסתפר</string>
+	<key>🗜️</key>
+	<string>מלחציים</string>
+	<key>💈</key>
+	<string>עמוד ספרים</string>
+	<key>💉</key>
+	<string>מזרק</string>
+	<key>🇵🇪</key>
+	<string>דגל פרו</string>
+	<key>💊</key>
+	<string>כדור</string>
+	<key>💋</key>
+	<string>סימן של נשיקה</string>
+	<key>🇹🇫</key>
+	<string>דגל הטריטוריות הצרפתיות הדרומיות</string>
+	<key>💌</key>
+	<string>מכתב אהבה</string>
+	<key>👩‍❤️‍👩</key>
+	<string>שתי נשים עם לב</string>
+	<key>🇵🇫</key>
+	<string>דגל פולינזיה הצרפתית</string>
+	<key>🛤️</key>
+	<string>פסי רכבת</string>
+	<key>💍</key>
+	<string>טבעת</string>
+	<key>🆎</key>
+	<string>סוג דם AB</string>
+	<key>🇩🇪</key>
+	<string>דגל גרמניה</string>
+	<key>🈂️</key>
+	<string>סימן יפני שמשמעותו ״שירות״ או ״עמלות״</string>
+	<key>💎</key>
+	<string>אבן יקרה</string>
+	<key>♍️</key>
+	<string>מזל בתולה</string>
+	<key>🇹🇬</key>
+	<string>דגל טוגו</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>שתי נשים מתנשקות</string>
+	<key>💏</key>
+	<string>זוג מתנשק</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>אנשים מחזיקים ידיים</string>
+	<key>💐</key>
+	<string>זר פרחים</string>
+	<key>⛽️</key>
+	<string>עמדת תדלוק</string>
+	<key>🇵🇬</key>
+	<string>דגל פפואה גינאה החדשה</string>
+	<key>🖱️</key>
+	<string>עכבר מחשב</string>
+	<key>🆑</key>
+	<string>חתימת CL</string>
+	<key>💑</key>
+	<string>זוג עם לב</string>
+	<key>🆒</key>
+	<string>סימן של ״מגניב״</string>
+	<key>🇹🇭</key>
+	<string>דגל תאילנד</string>
+	<key>💒</key>
+	<string>חתונה</string>
+	<key>🆓</key>
+	<string>שלט ״חינם״</string>
+	<key>💓</key>
+	<string>לב פועם</string>
+	<key>🆔</key>
+	<string>סימן זיהוי</string>
+	<key>🇵🇭</key>
+	<string>דגל הפיליפינים</string>
+	<key>👩‍⚖️</key>
+	<string>שופטת</string>
+	<key>💔</key>
+	<string>לב שבור</string>
+	<key>🇩🇬</key>
+	<string>דגל דייגו גרסיה</string>
+	<key>🆕</key>
+	<string>סימן של ״חדש״</string>
+	<key>🅿️</key>
+	<string>סימן של ״חנייה״</string>
+	<key>💕</key>
+	<string>שני לבבות</string>
+	<key>🤹‍♀️</key>
+	<string>אישה מלהטטת</string>
+	<key>🆖</key>
+	<string>סימן ״לא טוב״</string>
+	<key>💖</key>
+	<string>לב מנצנץ</string>
+	<key>🆗</key>
+	<string>סימן של ״בסדר״</string>
+	<key>💗</key>
+	<string>לב גדל</string>
+	<key>👳‍♂️</key>
+	<string>איש עם טורבן</string>
+	<key>🆘</key>
+	<string>סימן SOS</string>
+	<key>💘</key>
+	<string>לב עם חץ</string>
+	<key>🇱🇮</key>
+	<string>דגל ליכטנשטיין</string>
+	<key>🆙</key>
+	<string>סימן של ״למעלה״</string>
+	<key>🈯️</key>
+	<string>סימן יפני שמשמעותו ״שמור״</string>
+	<key>🇹🇯</key>
+	<string>דגל טג׳יקיסטן</string>
+	<key>💙</key>
+	<string>לב כחול</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>משפחה המורכבת משני אבות ושני בנים</string>
+	<key>🆚</key>
+	<string>‏vs בתוך ריבוע</string>
+	<key>💚</key>
+	<string>לב ירוק</string>
+	<key>🇽🇰</key>
+	<string>דגל קוסובו</string>
+	<key>💛</key>
+	<string>לב צהוב</string>
+	<key>🗞️</key>
+	<string>עיתון מגולגל</string>
+	<key>💜</key>
+	<string>לב סגול</string>
+	<key>🇹🇰</key>
+	<string>דגל טוקלאו</string>
+	<key>💝</key>
+	<string>לב עם סרט</string>
+	<key>🇵🇰</key>
+	<string>דגל פקיסטן</string>
+	<key>💞</key>
+	<string>לבבות מסתובבים</string>
+	<key>🇩🇯</key>
+	<string>דגל ג׳יבוטי</string>
+	<key>💟</key>
+	<string>קישוט בצורת לב</string>
+	<key>🇱🇰</key>
+	<string>דגל סרי לנקה</string>
+	<key>🇹🇱</key>
+	<string>דגל מזרח טימור</string>
+	<key>👩‍🤝‍👨</key>
+	<string>אישה ואיש מחזיקים ידיים</string>
+	<key>💠</key>
+	<string>צורת יהלום עם נקודה בתוכה</string>
+	<key>🇭🇰</key>
+	<string>דגל הונג קונג</string>
+	<key>💡</key>
+	<string>נורת תאורה</string>
+	<key>🇵🇱</key>
+	<string>דגל פולין</string>
+	<key>🇩🇰</key>
+	<string>דגל דנמרק</string>
+	<key>💢</key>
+	<string>סמל של כעס</string>
+	<key>🇹🇲</key>
+	<string>דגל טורקמניסטן</string>
+	<key>💣</key>
+	<string>פצצה</string>
+	<key>⚗️</key>
+	<string>אביק</string>
+	<key>💤</key>
+	<string>סימן של ״ישן״</string>
+	<key>🇵🇲</key>
+	<string>דגל סנט פייר ומיקלון</string>
+	<key>💥</key>
+	<string>פיצוץ</string>
+	<key>❇️</key>
+	<string>נצנץ</string>
+	<key>💦</key>
+	<string>טיפות מים</string>
+	<key>🇹🇳</key>
+	<string>דגל תוניסיה</string>
+	<key>🧑‍🦼</key>
+	<string>אדם בכיסא גלגלים ממונע</string>
+	<key>💧</key>
+	<string>טיפה</string>
+	<key>🇭🇲</key>
+	<string>דגל האי הרד ואיי מקדונלד</string>
+	<key>🇵🇳</key>
+	<string>דגל פיטקיירן</string>
+	<key>💨</key>
+	<string>משב רוח</string>
+	<key>🇩🇲</key>
+	<string>דגל דומיניקה</string>
+	<key>💩</key>
+	<string>ערמת צואה</string>
+	<key>🙎‍♀️</key>
+	<string>אישה מחמיצה פנים</string>
+	<key>🇹🇴</key>
+	<string>דגל טונגה</string>
+	<key>💪</key>
+	<string>שריר</string>
+	<key>🇭🇳</key>
+	<string>דגל הונדורס</string>
+	<key>👩‍👦</key>
+	<string>משפחה המורכבת מאם ובן</string>
+	<key>💫</key>
+	<string>סמל של סחרור</string>
+	<key>💇‍♂️</key>
+	<string>איש מסתפר</string>
+	<key>💬</key>
+	<string>בלון דיבור</string>
+	<key>☸️</key>
+	<string>גלגל הדהרמה</string>
+	<key>💭</key>
+	<string>בלון מחשבה</string>
+	<key>🧑‍🦽</key>
+	<string>אדם בכיסא גלגלים</string>
+	<key>💮</key>
+	<string>פרח לבן</string>
+	<key>💯</key>
+	<string>סימן של מאה נקודות</string>
+	<key>🇩🇴</key>
+	<string>דגל הרפובליקה הדומיניקנית</string>
+	<key>💰</key>
+	<string>שק כסף</string>
+	<key>💱</key>
+	<string>המרת מטבע</string>
+	<key>😵‍💫</key>
+	<string>פרצוף עם עיני ספירלה</string>
+	<key>👩‍👧</key>
+	<string>משפחה המורכבת מאם ובת</string>
+	<key>🧟‍♂️</key>
+	<string>זומבי</string>
+	<key>💲</key>
+	<string>סימן דולר</string>
+	<key>💳</key>
+	<string>כרטיס אשראי</string>
+	<key>🇹🇷</key>
+	<string>דגל טורקיה</string>
+	<key>💴</key>
+	<string>שטרות של ין</string>
+	<key>💵</key>
+	<string>שטרות של דולר</string>
+	<key>🇵🇷</key>
+	<string>דגל פורטו ריקו</string>
+	<key>💶</key>
+	<string>שטרות של אירו</string>
+	<key>🇱🇷</key>
+	<string>דגל ליבריה</string>
+	<key>💷</key>
+	<string>שטרות של לירה סטרלינג</string>
+	<key>💸</key>
+	<string>כסף עם כנפיים</string>
+	<key>🇭🇷</key>
+	<string>דגל קרואטיה</string>
+	<key>🇵🇸</key>
+	<string>דגל השטחים הפלסטיניים</string>
+	<key>💹</key>
+	<string>גרף במגמת עליה וסמל של ין</string>
+	<key>💺</key>
+	<string>מושב</string>
+	<key>🇱🇸</key>
+	<string>דגל לסוטו</string>
+	<key>🇹🇹</key>
+	<string>דגל טרינידד וטובגו</string>
+	<key>💻</key>
+	<string>מחשב נייד</string>
+	<key>💼</key>
+	<string>תיק מסמכים</string>
+	<key>👨‍🦼</key>
+	<string>איש בכיסא גלגלים ממונע</string>
+	<key>🇵🇹</key>
+	<string>דגל פורטוגל</string>
+	<key>💽</key>
+	<string>מיני-דיסק</string>
+	<key>🇱🇹</key>
+	<string>דגל ליטא</string>
+	<key>💾</key>
+	<string>תקליטון</string>
+	<key>🇭🇹</key>
+	<string>דגל האיטי</string>
+	<key>💿</key>
+	<string>‏CD</string>
+	<key>📀</key>
+	<string>DVD</string>
+	<key>🤷‍♂️</key>
+	<string>איש מושך בכתפיים</string>
+	<key>📁</key>
+	<string>תיקיית קבצים סגורה</string>
+	<key>🇱🇺</key>
+	<string>דגל לוקסמבורג</string>
+	<key>☪️</key>
+	<string>חצי סהר וכוכב</string>
+	<key>🇹🇻</key>
+	<string>דגל טובאלו</string>
+	<key>📂</key>
+	<string>תיקיית קבצים פתוחה</string>
+	<key>4️⃣</key>
+	<string>מקש הספרה ״ארבע״</string>
+	<key>🇭🇺</key>
+	<string>דגל הונגריה</string>
+	<key>👨‍🦽</key>
+	<string>איש בכיסא גלגלים</string>
+	<key>📃</key>
+	<string>דף עם גלגול</string>
+	<key>🖊️</key>
+	<string>עט כדורי</string>
+	<key>📄</key>
+	<string>דף עם הפנים למעלה</string>
+	<key>🇱🇻</key>
+	<string>דגל לטביה</string>
+	<key>🇹🇼</key>
+	<string>דגל טייוואן</string>
+	<key>📅</key>
+	<string>לוח שנה</string>
+	<key>🤼‍♀️</key>
+	<string>נשים מתאבקות</string>
+	<key>📆</key>
+	<string>לוח שנה עם דפים נתלשים</string>
+	<key>🇵🇼</key>
+	<string>דגל פלאו</string>
+	<key>📇</key>
+	<string>אינדקס כרטיסיות</string>
+	<key>📈</key>
+	<string>גרף במגמת עליה</string>
+	<key>🧑‍🔧</key>
+	<string>מכונאי</string>
+	<key>📉</key>
+	<string>גרף במגמת ירידה</string>
+	<key>〰️</key>
+	<string>קו גלי</string>
+	<key>📊</key>
+	<string>תרשים מקלות</string>
+	<key>📋</key>
+	<string>לוח כתיבה</string>
+	<key>☣️</key>
+	<string>סכנה ביולוגית</string>
+	<key>📌</key>
+	<string>נעץ</string>
+	<key>♻️</key>
+	<string>סמל מחזור</string>
+	<key>📍</key>
+	<string>נעץ עגול</string>
+	<key>🇵🇾</key>
+	<string>דגל פרגוואי</string>
+	<key>⛓️</key>
+	<string>שרשראות</string>
+	<key>📎</key>
+	<string>מהדק נייר</string>
+	<key>🧎‍♂️</key>
+	<string>איש כורע ברך</string>
+	<key>🇱🇾</key>
+	<string>דגל לוב</string>
+	<key>📏</key>
+	<string>סרגל ישר</string>
+	<key>🇹🇿</key>
+	<string>דגל טנזניה</string>
+	<key>📐</key>
+	<string>סרגל משולש</string>
+	<key>📑</key>
+	<string>כרטיסיות סימניה</string>
+	<key>📒</key>
+	<string>פנקס</string>
+	<key>📓</key>
+	<string>מחברת כתיבה</string>
+	<key>👩‍🤝‍👩</key>
+	<string>נשים מחזיקות ידיים</string>
+	<key>📔</key>
+	<string>מחברת עם כיסוי מקושט</string>
+	<key>🇩🇿</key>
+	<string>דגל אלג׳יריה</string>
+	<key>📕</key>
+	<string>ספר לימוד אדום</string>
+	<key>📖</key>
+	<string>ספר פתוח</string>
+	<key>📗</key>
+	<string>ספר לימוד ירוק</string>
+	<key>🖌️</key>
+	<string>מברשת צבע</string>
+	<key>📘</key>
+	<string>ספר לימוד כחול</string>
+	<key>📙</key>
+	<string>ספר לימוד כתום</string>
+	<key>👩‍👩‍👦</key>
+	<string>משפחה המורכבת משתי אמהות ובן</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>משפחה המורכבת משני אבות ושתי בנות</string>
+	<key>📚</key>
+	<string>ספרים</string>
+	<key>📛</key>
+	<string>תג שם</string>
+	<key>📜</key>
+	<string>מגילה</string>
+	<key>📝</key>
+	<string>תזכורת</string>
+	<key>↖️</key>
+	<string>חץ שמאלה-למעלה</string>
+	<key>🤦‍♂️</key>
+	<string>איש עם יד על הפרצוף</string>
+	<key>📞</key>
+	<string>שפופרת טלפון</string>
+	<key>👩‍🎓</key>
+	<string>סטודנטית</string>
+	<key>👩‍🚒</key>
+	<string>לוחמת אש</string>
+	<key>⤴️</key>
+	<string>חץ ימינה מתעקל מעלה</string>
+	<key>👨‍🔧</key>
+	<string>מכונאי</string>
+	<key>📟</key>
+	<string>זימונית</string>
+	<key>☕️</key>
+	<string>משקה חם</string>
+	<key>📠</key>
+	<string>פקס</string>
+	<key>📡</key>
+	<string>אנטנה לוויינית</string>
+	<key>⛅️</key>
+	<string>שמש מאחורי ענן</string>
+	<key>📢</key>
+	<string>כרוז</string>
+	<key>🧑‍🌾</key>
+	<string>חקלאי</string>
+	<key>✝️</key>
+	<string>צלב לטיני</string>
+	<key>📣</key>
+	<string>מגאפון עם תרועות</string>
+	<key>📤</key>
+	<string>מגש תיבת דואר יוצא</string>
+	<key>📥</key>
+	<string>מגש תיבת דואר נכנס</string>
+	<key>📦</key>
+	<string>חבילה</string>
+	<key>📧</key>
+	<string>דוא״ל</string>
+	<key>📨</key>
+	<string>מעטפה נכנסת</string>
+	<key>📩</key>
+	<string>מעטפה עם חץ</string>
+	<key>▶️</key>
+	<string>משולש מצביע ימינה</string>
+	<key>🧑‍🔬</key>
+	<string>מדען</string>
+	<key>📪</key>
+	<string>תיבת דואר סגורה עם דגל מורד</string>
+	<key>☎️</key>
+	<string>טלפון</string>
+	<key>🈷️</key>
+	<string>סימן יפני שמשמעותו ״סכום חודשי״</string>
+	<key>♦️</key>
+	<string>קלף יהלום</string>
+	<key>📫</key>
+	<string>תיבת דואר סגורה עם דגל מורם</string>
+	<key>📬</key>
+	<string>תיבת דואר פתוחה עם דגל מורם</string>
+	<key>⚾️</key>
+	<string>בייסבול</string>
+	<key>📭</key>
+	<string>תיבת דואר פתוחה עם דגל מורד</string>
+	<key>✖️</key>
+	<string>סימן כפל</string>
+	<key>📮</key>
+	<string>תיבת דואר</string>
+	<key>📯</key>
+	<string>קרן דואר</string>
+	<key>🏄‍♀️</key>
+	<string>גולשת</string>
+	<key>📰</key>
+	<string>עיתון</string>
+	<key>📱</key>
+	<string>טלפון נייד</string>
+	<key>🎗️</key>
+	<string>סרט זיכרון</string>
+	<key>📲</key>
+	<string>טלפון עם חץ</string>
+	<key>📳</key>
+	<string>מצב רטט</string>
+	<key>📴</key>
+	<string>טלפון נייד כבוי</string>
+	<key>📵</key>
+	<string>טלפונים ניידים אסורים</string>
+	<key>♟️</key>
+	<string>כלי שחמט</string>
+	<key>📶</key>
+	<string>סמל עוצמת קליטה</string>
+	<key>📷</key>
+	<string>מצלמה</string>
+	<key>✏️</key>
+	<string>עיפרון</string>
+	<key>📸</key>
+	<string>מצלמה עם פלאש</string>
+	<key>👨‍🌾</key>
+	<string>חקלאי</string>
+	<key>📹</key>
+	<string>מצלמת וידאו</string>
+	<key>📺</key>
+	<string>טלוויזיה</string>
+	<key>🐻‍❄️</key>
+	<string>דוב קוטב</string>
+	<key>📻</key>
+	<string>רדיו</string>
+	<key>📼</key>
+	<string>קלטת וידאו</string>
+	<key>☀️</key>
+	<string>שמש</string>
+	<key>📿</key>
+	<string>חרוזי תפילה</string>
+	<key>👨‍🔬</key>
+	<string>מדען</string>
+	<key>🔀</key>
+	<string>סמל השמעה אקראית</string>
+	<key>🈁</key>
+	<string>סימן יפני שמשמעותו ״כאן״</string>
+	<key>⚰️</key>
+	<string>ארון קבורה</string>
+	<key>🔁</key>
+	<string>סמל ״חזרה״</string>
+	<key>🖐️</key>
+	<string>יד מורמת עם אצבעות פרושות</string>
+	<key>✈️</key>
+	<string>מטוס</string>
+	<key>🔂</key>
+	<string>סמל חזרה על שיר אחד</string>
+	<key>🗨️</key>
+	<string>בועת דיבור שמאלית</string>
+	<key>🔃</key>
+	<string>חצים אנכיים בכיוון השעון</string>
+	<key>🧖‍♀️</key>
+	<string>אשה בסאונה</string>
+	<key>🔄</key>
+	<string>חצים כנגד כיוון השעון</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>משפחה המורכבת משתי אמהות ושני בנים</string>
+	<key>👩‍⚕️</key>
+	<string>עובדת מערכת הבריאות</string>
+	<key>™️</key>
+	<string>סימן מסחרי</string>
+	<key>🔅</key>
+	<string>סמל בהירות נמוכה</string>
+	<key>🔆</key>
+	<string>סמל בהירות גבוהה</string>
+	<key>🎙️</key>
+	<string>מיקרופון אולפן</string>
+	<key>🔇</key>
+	<string>רמקול מושתק</string>
+	<key>🔈</key>
+	<string>רמקול</string>
+	<key>🛰️</key>
+	<string>לוויין</string>
+	<key>🔉</key>
+	<string>רמקול המופעל בעוצמה בינונית</string>
+	<key>♑️</key>
+	<string>מזל גדי</string>
+	<key>🔊</key>
+	<string>רמקול המופעל בעוצמה גבוהה</string>
+	<key>🔋</key>
+	<string>סוללה</string>
+	<key>🔌</key>
+	<string>תקע חשמלי</string>
+	<key>👩‍👩‍👧</key>
+	<string>משפחה המורכבת משתי אמהות ובת</string>
+	<key>🔍</key>
+	<string>זכוכית מגדלת מצביעה שמאלה</string>
+	<key>🔎</key>
+	<string>זכוכית מגדלת מצביעה ימינה</string>
+	<key>🔏</key>
+	<string>מנעול עם עט דיו</string>
+	<key>🔐</key>
+	<string>מנעול סגור עם מפתח</string>
+	<key>🔑</key>
+	<string>מקש</string>
+	<key>🔒</key>
+	<string>מנעול סגור</string>
+	<key>🔓</key>
+	<string>מנעול פתוח</string>
+	<key>♊️</key>
+	<string>מזל תאומים</string>
+	<key>🔔</key>
+	<string>פעמון</string>
+	<key>🔕</key>
+	<string>פעמון מושתק</string>
+	<key>⛺️</key>
+	<string>אוהל</string>
+	<key>🔖</key>
+	<string>סימניה</string>
+	<key>🔗</key>
+	<string>סימן קישור</string>
+	<key>🔘</key>
+	<string>כפתור רדיו</string>
+	<key>🔙</key>
+	<string>חץ לאחור</string>
+	<key>🔚</key>
+	<string>חץ סיום</string>
+	<key>🔛</key>
+	<string>חץ ״פועל״</string>
+	<key>🎛️</key>
+	<string>חוגות שליטה</string>
+	<key>🔜</key>
+	<string>חץ ״בקרוב״</string>
+	<key>🏳️</key>
+	<string>דגל לבן</string>
+	<key>🔝</key>
+	<string>חץ למעלה</string>
+	<key>🔞</key>
+	<string>למבוגרים בלבד</string>
+	<key>🔟</key>
+	<string>מקש עשר</string>
+	<key>⚛️</key>
+	<string>סמל של אטום</string>
+	<key>🔠</key>
+	<string>סימן קלט לאותיות גדולות</string>
+	<key>⛳️</key>
+	<string>גומה במגרש גולף עם דגל</string>
+	<key>🔡</key>
+	<string>סימן קלט לאותיות קטנות</string>
+	<key>🤽‍♂️</key>
+	<string>איש משחק כדורמים</string>
+	<key>🔢</key>
+	<string>סימן קלט למספרים</string>
+	<key>🔣</key>
+	<string>סימן קלט לסמלים</string>
+	<key>🔤</key>
+	<string>סימן קלט לאותיות</string>
+	<key>🔥</key>
+	<string>אש</string>
+	<key>🔦</key>
+	<string>פנס</string>
+	<key>🔧</key>
+	<string>מפתח ברגים</string>
+	<key>🔨</key>
+	<string>פטיש</string>
+	<key>🔩</key>
+	<string>אום ובורג</string>
+	<key>⚔️</key>
+	<string>חרבות מצטלבות</string>
+	<key>🔪</key>
+	<string>סכין</string>
+	<key>🔫</key>
+	<string>אקדח מים</string>
+	<key>❄️</key>
+	<string>פתית שלג</string>
+	<key>🔬</key>
+	<string>מיקרוסקופ</string>
+	<key>💁‍♀️</key>
+	<string>פקידת קבלה</string>
+	<key>🔭</key>
+	<string>טלסקופ</string>
+	<key>🔮</key>
+	<string>כדור בדולח</string>
+	<key>🧔‍♂️</key>
+	<string>איש עם זקן</string>
+	<key>🔯</key>
+	<string>מגן דוד עם נקודה באמצע</string>
+	<key>🔰</key>
+	<string>סמל יפני למתחיל</string>
+	<key>🔱</key>
+	<string>סמל של קילשון משולש</string>
+	<key>🈲</key>
+	<string>סימן יפני שמשמעותו ״אסור״</string>
+	<key>🏵️</key>
+	<string>עיטור בצורת פרח</string>
+	<key>🔲</key>
+	<string>כפתור מרובע שחור</string>
+	<key>🈳</key>
+	<string>סימן יפני שמשמעותו ״פנוי״</string>
+	<key>🔳</key>
+	<string>כפתור מרובע לבן</string>
+	<key>🈴</key>
+	<string>סימן יפני שמשמעותו ״ציון עובר״</string>
+	<key>🧙‍♀️</key>
+	<string>קוסמת</string>
+	<key>🔴</key>
+	<string>עיגול אדום</string>
+	<key>🈵</key>
+	<string>סימן יפני שמשמעותו ״תפוסה מלאה״</string>
+	<key>🔵</key>
+	<string>עיגול כחול</string>
+	<key>🈶</key>
+	<string>סימן יפני שמשמעותו ״לא חינם״</string>
+	<key>🔶</key>
+	<string>יהלום כתום גדול</string>
+	<key>🔷</key>
+	<string>יהלום כחול גדול</string>
+	<key>🈸</key>
+	<string>סימן יפני שמשמעותו ״יישום״</string>
+	<key>🔸</key>
+	<string>יהלום כתום קטן</string>
+	<key>🈹</key>
+	<string>סימן יפני שמשמעותו ״הנחה״</string>
+	<key>🔹</key>
+	<string>יהלום כחול קטן</string>
+	<key>9️⃣</key>
+	<string>מקש הספרה ״תשע״</string>
+	<key>🈺</key>
+	<string>סימן יפני שמשמעותו ״פתוח לעסקים״</string>
+	<key>🔺</key>
+	<string>משולש אדום מופנה כלפי מעלה</string>
+	<key>🔻</key>
+	<string>משולש אדום מופנה כלפי מטה</string>
+	<key>🀄️</key>
+	<string>קוביית דרקון אדום במה-ג׳ונג</string>
+	<key>🔼</key>
+	<string>משולש מצביע למעלה</string>
+	<key>🚵‍♀️</key>
+	<string>רוכבת אופני הרים</string>
+	<key>☮️</key>
+	<string>סמל שלום</string>
+	<key>🔽</key>
+	<string>משולש שמצביע למטה</string>
+	<key>👨‍👦‍👦</key>
+	<string>משפחה המורכבת מאב ושני בנים</string>
+	<key>⬅️</key>
+	<string>חץ שמאלה</string>
+	<key>⛎</key>
+	<string>נושא הנחש</string>
+	<key>🎟️</key>
+	<string>כרטיס כניסה</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>משפחה המורכבת משתי אמהות ושתי בנות</string>
+	<key>🏷️</key>
+	<string>תווית</string>
+	<key>2️⃣</key>
+	<string>מקש הספרה ״שתיים״</string>
+	<key>♿️</key>
+	<string>סימן של כיסא גלגלים</string>
+	<key>👰‍♀️</key>
+	<string>אישה עם הינומה</string>
+	<key>🗃️</key>
+	<string>תיבת כרטיסיות</string>
+	<key>🕋</key>
+	<string>כעבה</string>
+	<key>🕌</key>
+	<string>מסגד</string>
+	<key>🕍</key>
+	<string>בית כנסת</string>
+	<key>🕎</key>
+	<string>חנוכייה</string>
+	<key>👩‍🎤</key>
+	<string>זמרת</string>
+	<key>🉐</key>
+	<string>סימן יפני שמשמעותו ״מציאה״</string>
+	<key>🏌️</key>
+	<string>שחקן גולף</string>
+	<key>🛋️</key>
+	<string>ספה ומנורה</string>
+	<key>🕐</key>
+	<string>השעה אחת</string>
+	<key>🏊‍♀️</key>
+	<string>שחיינית</string>
+	<key>🉑</key>
+	<string>סימן יפני שמשמעותו ״מקובל״</string>
+	<key>☠️</key>
+	<string>גולגולת ועצמות מוצלבות</string>
+	<key>🕑</key>
+	<string>השעה שתיים</string>
+	<key>🕒</key>
+	<string>השעה שלוש</string>
+	<key>🏋️‍♀️</key>
+	<string>מרימת משקולות</string>
+	<key>🕓</key>
+	<string>השעה ארבע</string>
+	<key>🕔</key>
+	<string>השעה חמש</string>
+	<key>🕕</key>
+	<string>השעה שש</string>
+	<key>🕖</key>
+	<string>השעה שבע</string>
+	<key>🙆‍♀️</key>
+	<string>אישה מסמנת ״בסדר״</string>
+	<key>🕗</key>
+	<string>השעה שמונה</string>
+	<key>🕘</key>
+	<string>השעה תשע</string>
+	<key>🕙</key>
+	<string>השעה עשר</string>
+	<key>🕚</key>
+	<string>השעה אחת-עשרה</string>
+	<key>🕛</key>
+	<string>השעה שתים-עשרה</string>
+	<key>🕜</key>
+	<string>השעה אחת וחצי</string>
+	<key>🇺🇦</key>
+	<string>דגל אוקראינה</string>
+	<key>🕝</key>
+	<string>השעה שתיים וחצי</string>
+	<key>🇶🇦</key>
+	<string>דגל קטאר</string>
+	<key>🕞</key>
+	<string>השעה שלוש וחצי</string>
+	<key>✡️</key>
+	<string>מגן דוד</string>
+	<key>🇲🇦</key>
+	<string>דגל מרוקו</string>
+	<key>🕟</key>
+	<string>השעה ארבע וחצי</string>
+	<key>🧗‍♂️</key>
+	<string>מטפס מצוקים</string>
+	<key>🕠</key>
+	<string>השעה חמש וחצי</string>
+	<key>🕡</key>
+	<string>השעה שש וחצי</string>
+	<key>🇪🇦</key>
+	<string>דגל סאוטה ומלייה</string>
+	<key>🕢</key>
+	<string>השעה שבע וחצי</string>
+	<key>✅</key>
+	<string>סימן וי</string>
+	<key>🕣</key>
+	<string>השעה שמונה וחצי</string>
+	<key>🧜‍♀️</key>
+	<string>בת ים</string>
+	<key>🏎️</key>
+	<string>מכונית מירוץ</string>
+	<key>🕤</key>
+	<string>השעה תשע וחצי</string>
+	<key>🛍️</key>
+	<string>שקיות קניות</string>
+	<key>🕥</key>
+	<string>השעה עשר וחצי</string>
+	<key>✊</key>
+	<string>אגרוף מורם</string>
+	<key>🇲🇨</key>
+	<string>דגל מונקו</string>
+	<key>✋</key>
+	<string>יד מורמת</string>
+	<key>🕦</key>
+	<string>השעה אחת-עשרה וחצי</string>
+	<key>🕧</key>
+	<string>השעה שתים-עשרה וחצי</string>
+	<key>🇮🇨</key>
+	<string>דגל האיים הקנריים</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>דגל ויילס</string>
+	<key>🇾🇪</key>
+	<string>דגל תימן</string>
+	<key>🇪🇨</key>
+	<string>דגל אקוודור</string>
+	<key>👩‍🎨</key>
+	<string>אמנית</string>
+	<key>🇲🇩</key>
+	<string>דגל מולדובה</string>
+	<key>🇦🇨</key>
+	<string>דגל האי אסנשן</string>
+	<key>🇮🇩</key>
+	<string>דגל אינדונזיה</string>
+	<key>🇲🇪</key>
+	<string>דגל מונטנגרו</string>
+	<key>🇦🇩</key>
+	<string>דגל אנדורה</string>
+	<key>🇮🇪</key>
+	<string>דגל אירלנד</string>
+	<key>🇪🇪</key>
+	<string>דגל אסטוניה</string>
+	<key>🇲🇫</key>
+	<string>דגל סן מרטן</string>
+	<key>🇺🇬</key>
+	<string>דגל אוגנדה</string>
+	<key>♣️</key>
+	<string>קלף תלתן</string>
+	<key>🇦🇪</key>
+	<string>דגל איחוד האמירויות הערביות</string>
+	<key>🕯️</key>
+	<string>נר</string>
+	<key>🇲🇬</key>
+	<string>דגל מדגסקר</string>
+	<key>🇦🇫</key>
+	<string>דגל אפגניסטן</string>
+	<key>👮‍♂️</key>
+	<string>שוטר</string>
+	<key>🇪🇬</key>
+	<string>דגל מצרים</string>
+	<key>🇲🇭</key>
+	<string>דגל איי מרשל</string>
+	<key>✨</key>
+	<string>נצנוצים</string>
+	<key>🇦🇬</key>
+	<string>דגל אנטיגואה וברבודה</string>
+	<key>🛏️</key>
+	<string>מיטה</string>
+	<key>👳‍♀️</key>
+	<string>אישה חובשת טורבן</string>
+	<key>🇪🇭</key>
+	<string>דגל סהרה המערבית</string>
+	<key>☄️</key>
+	<string>שביט</string>
+	<key>🕺</key>
+	<string>איש רוקד</string>
+	<key>✌️</key>
+	<string>יד מחווה סמל שלום</string>
+	<key>❤️</key>
+	<string>לב אדום</string>
+	<key>⏭️</key>
+	<string>סמל של דילוג קדימה</string>
+	<key>🇦🇮</key>
+	<string>דגל אנגילה</string>
+	<key>🇲🇰</key>
+	<string>דגל מקדוניה הצפונית</string>
+	<key>◽️</key>
+	<string>ריבוע לבן בינוני-קטן</string>
+	<key>🇲🇱</key>
+	<string>דגל מאלי</string>
+	<key>🈚️</key>
+	<string>סימן יפני שמשמעותו ״חינם״</string>
+	<key>🇺🇲</key>
+	<string>דגל האיים הקטנים המרוחקים של ארצות הברית</string>
+	<key>🇮🇱</key>
+	<string>דגל ישראל</string>
+	<key>🇲🇲</key>
+	<string>דגל מיאנמר (בורמה)</string>
+	<key>💂‍♂️</key>
+	<string>שומר</string>
+	<key>🇺🇳</key>
+	<string>דגל האומות המאוחדות</string>
+	<key>🇦🇱</key>
+	<string>דגל אלבניה</string>
+	<key>🧑‍💻</key>
+	<string>עובד טכנולוגיה</string>
+	<key>🇮🇲</key>
+	<string>דגל האי מאן</string>
+	<key>⛹️‍♂️</key>
+	<string>שחקן כדורסל</string>
+	<key>🇲🇳</key>
+	<string>דגל מונגוליה</string>
+	<key>🇦🇲</key>
+	<string>דגל ארמניה</string>
+	<key>🇮🇳</key>
+	<string>דגל הודו</string>
+	<key>❌</key>
+	<string>סימן איקס</string>
+	<key>💇‍♀️</key>
+	<string>אישה מסתפרת</string>
+	<key>❎</key>
+	<string>סימון X</string>
+	<key>🇲🇴</key>
+	<string>דגל מקאו</string>
+	<key>♎️</key>
+	<string>מזל מאזניים</string>
+	<key>🧚‍♂️</key>
+	<string>פיון</string>
+	<key>🧑‍💼</key>
+	<string>עובד משרד</string>
+	<key>🇮🇴</key>
+	<string>דגל הטריטוריה הבריטית באוקיינוס ההודי</string>
+	<key>❓</key>
+	<string>סימן שאלה אדום</string>
+	<key>❔</key>
+	<string>סימן שאלה לבן</string>
+	<key>🇲🇵</key>
+	<string>דגל איי מריאנה הצפוניים</string>
+	<key>❕</key>
+	<string>סימן קריאה לבן</string>
+	<key>🇦🇴</key>
+	<string>דגל אנגולה</string>
+	<key>🧟‍♀️</key>
+	<string>זומבית</string>
+	<key>🖕</key>
+	<string>אצבע אמה</string>
+	<key>🇲🇶</key>
+	<string>דגל מרטיניק</string>
+	<key>🖖</key>
+	<string>יד עם אצבעות מפוצלות בין האמה לקמיצה</string>
+	<key>🇮🇶</key>
+	<string>דגל עיראק</string>
+	<key>🚶‍♂️</key>
+	<string>הולך רגל</string>
+	<key>🇲🇷</key>
+	<string>דגל מאוריטניה</string>
+	<key>🇺🇸</key>
+	<string>דגל ארה״ב</string>
+	<key>🇦🇶</key>
+	<string>דגל אנטארקטיקה</string>
+	<key>🇮🇷</key>
+	<string>דגל איראן</string>
+	<key>🕳️</key>
+	<string>חור</string>
+	<key>⌨️</key>
+	<string>מקלדת</string>
+	<key>🇾🇹</key>
+	<string>דגל מיוט</string>
+	<key>🇪🇷</key>
+	<string>דגל אריתריאה</string>
+	<key>⛷️</key>
+	<string>גולש שלג</string>
+	<key>🇲🇸</key>
+	<string>דגל מונטסראט</string>
+	<key>🇦🇷</key>
+	<string>דגל ארגנטינה</string>
+	<key>🇮🇸</key>
+	<string>דגל איסלנד</string>
+	<key>👨‍💻</key>
+	<string>עובד טכנולוגיה</string>
+	<key>🌤️</key>
+	<string>שמש מאחורי ענן קטן</string>
+	<key>🇪🇸</key>
+	<string>דגל ספרד</string>
+	<key>🇲🇹</key>
+	<string>דגל מלטה</string>
+	<key>🇦🇸</key>
+	<string>דגל סמואה האמריקאית</string>
+	<key>🇮🇹</key>
+	<string>דגל איטליה</string>
+	<key>❤️‍🩹</key>
+	<string>לב עם תחבושת</string>
+	<key>🏔️</key>
+	<string>הר מכוסה שלג</string>
+	<key>🇪🇹</key>
+	<string>דגל אתיופיה</string>
+	<key>🤷‍♀️</key>
+	<string>אישה מושכת בכתפיים</string>
+	<key>🇲🇺</key>
+	<string>דגל מאוריציוס</string>
+	<key>🇦🇹</key>
+	<string>דגל אוסטריה</string>
+	<key>🖤</key>
+	<string>לב שחור</string>
+	<key>👩‍🦯</key>
+	<string>אישה עם מקל נחייה</string>
+	<key>👱‍♂️</key>
+	<string>איש עם שיער בלונדיני</string>
+	<key>👨‍💼</key>
+	<string>עובד משרד</string>
+	<key>⛰️</key>
+	<string>הר</string>
+	<key>🇪🇺</key>
+	<string>דגל האיחוד האירופי</string>
+	<key>🇲🇻</key>
+	<string>דגל האיים המלדיביים</string>
+	<key>🇦🇺</key>
+	<string>דגל אוסטרליה</string>
+	<key>🇲🇼</key>
+	<string>דגל מלאווי</string>
+	<key>👩‍🦰</key>
+	<string>אישה עם שיער אדום</string>
+	<key>🇲🇽</key>
+	<string>דגל מקסיקו</string>
+	<key>🇺🇾</key>
+	<string>דגל אורוגוואי</string>
+	<key>🇦🇼</key>
+	<string>דגל ארובה</string>
+	<key>☹️</key>
+	<string>פרצוף עצוב</string>
+	<key>⌚️</key>
+	<string>שעון יד</string>
+	<key>🕵️</key>
+	<string>בלש</string>
+	<key>⛩️</key>
+	<string>מקדש שינטו</string>
+	<key>🇲🇾</key>
+	<string>דגל מלזיה</string>
+	<key>🧎‍♀️</key>
+	<string>אישה כורעת ברך</string>
+	<key>🇺🇿</key>
+	<string>דגל אוזבקיסטן</string>
+	<key>🇦🇽</key>
+	<string>דגל איי אולנד</string>
+	<key>👩‍🦱</key>
+	<string>אישה עם שיער מתולתל</string>
+	<key>🙇‍♂️</key>
+	<string>איש קד קידה</string>
+	<key>🌦️</key>
+	<string>שמש מאחורי ענן גשם</string>
+	<key>🇲🇿</key>
+	<string>דגל מוזמביק</string>
+	<key>🏖️</key>
+	<string>חוף עם שמשיה</string>
+	<key>👩‍🦲</key>
+	<string>אישה בלי שיער</string>
+	<key>🇦🇿</key>
+	<string>דגל אזרבייג׳ן</string>
+	<key>➕</key>
+	<string>סימן חיבור</string>
+	<key>🕊️</key>
+	<string>יונה</string>
+	<key>➖</key>
+	<string>סימן חיסור</string>
+	<key>➗</key>
+	<string>סימן חילוק</string>
+	<key>🗺️</key>
+	<string>מפת העולם</string>
+	<key>👩‍🦳</key>
+	<string>אישה עם שיער לבן</string>
+	<key>7️⃣</key>
+	<string>מקש הספרה ״שבע״</string>
+	<key>🅰️</key>
+	<string>סוג דם A</string>
+	<key>🤦‍♀️</key>
+	<string>אישה עם יד על הפרצוף</string>
+	<key>🧝‍♂️</key>
+	<string>שדון</string>
+	<key>🕷️</key>
+	<string>עכביש</string>
+	<key>✳️</key>
+	<string>כוכבית בעלת שמונה קודקודים</string>
+	<key>🌨️</key>
+	<string>ענן עם שלג</string>
+	<key>🦸‍♂️</key>
+	<string>גיבור-על</string>
+	<key>➰</key>
+	<string>לולאה מסולסלת</string>
+	<key>🏘️</key>
+	<string>קבוצת בתים</string>
+	<key>0️⃣</key>
+	<string>מקש הספרה ״אפס״</string>
+	<key>🤵‍♂️</key>
+	<string>איש בטוקסידו</string>
+	<key>⛔️</key>
+	<string>אין כניסה</string>
+	<key>👨‍👧‍👦</key>
+	<string>משפחה המורכבת מאב, בן ובת</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>משפחה המורכבת מאמא, אבא ושני בנים</string>
+	<key>🧑‍🏫</key>
+	<string>מורה</string>
+	<key>➿</key>
+	<string>לולאה מסולסלת כפולה</string>
+	<key>㊙️</key>
+	<string>סימן יפני שמשמעותו ״סודי״</string>
+	<key>☝️</key>
+	<string>אצבע מורה כלפי מעלה</string>
+	<key>🕹️</key>
+	<string>ג׳ויסטיק</string>
+	<key>🗑️</key>
+	<string>סל אשפה</string>
+	<key>🌪️</key>
+	<string>טורנדו</string>
+	<key>🧑‍🏭</key>
+	<string>עובד מפעל</string>
+	<key>↗️</key>
+	<string>חץ ימינה-למעלה</string>
+	<key>⤵️</key>
+	<string>חץ ימינה מתעקל מטה</string>
+	<key>🏚️</key>
+	<string>בית נטוש</string>
+	<key>©️</key>
+	<string>סימן זכויות יוצרים</string>
+	<key>👨‍🏫</key>
+	<string>מורה</string>
+	<key>🗓️</key>
+	<string>לוח שנה עם ספירלות</string>
+	<key>⏸️</key>
+	<string>סימן השהיה</string>
+	<key>🧑‍✈️</key>
+	<string>טייס</string>
+	<key>🌬️</key>
+	<string>פרצוף רוח נושבת</string>
+	<key>👨‍🏭</key>
+	<string>עובד מפעל</string>
+	<key>🏜️</key>
+	<string>מדבר</string>
+	<key>♠️</key>
+	<string>קלף עלה</string>
+	<key>🖨️</key>
+	<string>מדפסת</string>
+	<key>⏱️</key>
+	<string>שעון עצר</string>
+	<key>👩‍🦼</key>
+	<string>אישה בכיסא גלגלים ממונע</string>
+	<key>🗻</key>
+	<string>הר פוג׳י</string>
+	<key>🫱‍🫲</key>
+	<string>לחיצת יד</string>
+	<key>🗼</key>
+	<string>מגדל טוקיו</string>
+	<key>🗽</key>
+	<string>פסל החירות</string>
+	<key>🗾</key>
+	<string>צללית של יפן</string>
+	<key>🤸‍♂️</key>
+	<string>איש מבצע גלגלון</string>
+	<key>🌀</key>
+	<string>ציקלון</string>
+	<key>🗿</key>
+	<string>פסל מאי הפסחא</string>
+	<key>☁️</key>
+	<string>ענן</string>
+	<key>🌁</key>
+	<string>גשר בערפל</string>
+	<key>😀</key>
+	<string>פרצוף מחייך</string>
+	<key>👩‍🦽</key>
+	<string>אישה בכיסא גלגלים</string>
+	<key>🌂</key>
+	<string>מטריה סגורה</string>
+	<key>😁</key>
+	<string>פרצוף קורן מאושר עם עיניים מחייכות</string>
+	<key>⚱️</key>
+	<string>כד אפר</string>
+	<key>🌃</key>
+	<string>לילה עם כוכבים</string>
+	<key>😂</key>
+	<string>פרצוף עם דמעות שמחה</string>
+	<key>✉️</key>
+	<string>מעטפה</string>
+	<key>👨‍👧‍👧</key>
+	<string>משפחה המורכבת מאב ושתי בנות</string>
+	<key>🤽‍♀️</key>
+	<string>אישה משחקת כדורמים</string>
+	<key>🌄</key>
+	<string>זריחה מעל הרים</string>
+	<key>😃</key>
+	<string>פרצוף מחייך עם עיניים גדולות</string>
+	<key>🌅</key>
+	<string>זריחה</string>
+	<key>😄</key>
+	<string>פרצוף מחייך עם עיניים מחייכות</string>
+	<key>👷‍♂️</key>
+	<string>עובד בניין</string>
+	<key>👨‍✈️</key>
+	<string>טייס</string>
+	<key>🌆</key>
+	<string>נוף עירוני בשעת שקיעה</string>
+	<key>😅</key>
+	<string>פרצוף מחייך עם זיעה</string>
+	<key>🌇</key>
+	<string>שקיעה מעל בניינים</string>
+	<key>😆</key>
+	<string>פרצוף מחייך וממצמץ</string>
+	<key>🌈</key>
+	<string>קשת בענן</string>
+	<key>😇</key>
+	<string>פרצוף מחייך עם הילה</string>
+	<key>🌉</key>
+	<string>גשר בשעת לילה</string>
+	<key>😈</key>
+	<string>פרצוף מחייך עם קרניים</string>
+	<key>🏞️</key>
+	<string>פארק לאומי</string>
+	<key>🌊</key>
+	<string>גל</string>
+	<key>😉</key>
+	<string>פרצוף קורץ</string>
+	<key>🌋</key>
+	<string>הר געש</string>
+	<key>😊</key>
+	<string>פרצוף מחייך עם עיניים מחייכות</string>
+	<key>♒️</key>
+	<string>מזל דלי</string>
+	<key>🌌</key>
+	<string>שביל החלב</string>
+	<key>😋</key>
+	<string>פרצוף מחייך מלקק שפתיים</string>
+	<key>⚪️</key>
+	<string>עיגול לבן</string>
+	<key>🌍</key>
+	<string>סמל גלובוס עם אירופה ואפריקה</string>
+	<key>😌</key>
+	<string>פרצוף נרגע</string>
+	<key>🧏‍♂️</key>
+	<string>איש חירש</string>
+	<key>✂️</key>
+	<string>מספריים</string>
+	<key>🌎</key>
+	<string>סמל גלובוס עם יבשת אמריקה</string>
+	<key>🤌</key>
+	<string>אצבעות מהודקות</string>
+	<key>😍</key>
+	<string>פרצוף מחייך עם עיני לב</string>
+	<key>🌏</key>
+	<string>סמל גלובוס עם אסיה ואוסטרליה</string>
+	<key>🤍</key>
+	<string>לב לבן</string>
+	<key>😎</key>
+	<string>פרצוף מחייך עם משקפי שמש</string>
+	<key>🌐</key>
+	<string>גלובוס עם קווי אורך</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>משפחה המורכבת מאמא, אבא ושתי בנות</string>
+	<key>🤎</key>
+	<string>לב חום</string>
+	<key>😏</key>
+	<string>פרצוף מגחך</string>
+	<key>🌑</key>
+	<string>מולד הירח</string>
+	<key>🤏</key>
+	<string>יד צובטת</string>
+	<key>😐</key>
+	<string>פרצוף חסר-הבעה</string>
+	<key>🧔‍♀️</key>
+	<string>אישה עם זקן</string>
+	<key>🌒</key>
+	<string>ירח קעור מתמלא</string>
+	<key>🤐</key>
+	<string>פרצוף עם פה רוכסן</string>
+	<key>😑</key>
+	<string>פרצוף ללא הבעת פנים</string>
+	<key>🙍‍♂️</key>
+	<string>איש זועף</string>
+	<key>🌓</key>
+	<string>ירח ברבע הראשון</string>
+	<key>🤑</key>
+	<string>פרצוף עם לשון כסף</string>
+	<key>😒</key>
+	<string>פרצוף לא משועשע</string>
+	<key>🌔</key>
+	<string>ירח קמור מתמלא</string>
+	<key>🤒</key>
+	<string>פרצוף עם מד חום</string>
+	<key>😓</key>
+	<string>פרצוף עגמומי עם זיעה</string>
+	<key>🌕</key>
+	<string>ירח מלא</string>
+	<key>🤓</key>
+	<string>פרצוף מחייך עם משקפיים</string>
+	<key>😔</key>
+	<string>פרצוף עצוב ומהורהר</string>
+	<key>♋️</key>
+	<string>מזל סרטן</string>
+	<key>🌖</key>
+	<string>ירח קמור מתמעט</string>
+	<key>🤔</key>
+	<string>פרצוף חושב</string>
+	<key>😕</key>
+	<string>פרצוף מבולבל</string>
+	<key>🌗</key>
+	<string>ירח ברבע האחרון</string>
+	<key>🤕</key>
+	<string>פרצוף עם תחבושת על הראש</string>
+	<key>😖</key>
+	<string>פרצוף אובד עצות</string>
+	<key>🌘</key>
+	<string>ירח קעור מתמעט</string>
+	<key>🤖</key>
+	<string>פרצוף של רובוט</string>
+	<key>😗</key>
+	<string>פרצוף מנשק</string>
+	<key>🌙</key>
+	<string>ירח בצורת חצי סהר</string>
+	<key>🤗</key>
+	<string>פרצוף מחבק</string>
+	<key>😘</key>
+	<string>פרצוף מפריח נשיקה באוויר</string>
+	<key>🌚</key>
+	<string>מולד הירח עם פרצוף</string>
+	<key>🤘</key>
+	<string>סימון קרניים עם היד</string>
+	<key>😙</key>
+	<string>פרצוף מנשק עם עיניים מחייכות</string>
+	<key>🌛</key>
+	<string>ירח ברבע הראשון עם פרצוף</string>
+	<key>🤙</key>
+	<string>סימן יד של תתקשר אליי</string>
+	<key>😚</key>
+	<string>פרצוף מתנשק עם עיניים עצומות</string>
+</dict>
+</plist>

@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>bulan triwulan terakhir dengan wajah</string>
+	<key>🤚</key>
+	<string>bagian belakang tangan</string>
+	<key>😛</key>
+	<string>wajah dengan lidah terjulur</string>
+	<key>👩‍🔧</key>
+	<string>montir wanita</string>
+	<key>🌝</key>
+	<string>bulan purnama dengan wajah</string>
+	<key>🤛</key>
+	<string>kepalan tangan ke kiri</string>
+	<key>😜</key>
+	<string>wajah berkedip sambil menjulurkan lidah</string>
+	<key>🌞</key>
+	<string>matahari dengan wajah</string>
+	<key>🤜</key>
+	<string>kepalan tangan ke kanan</string>
+	<key>😝</key>
+	<string>wajah dengan lidah terjulur dan mata disipitkan</string>
+	<key>🌟</key>
+	<string>bintang bersinar</string>
+	<key>🤝</key>
+	<string>jabat tangan</string>
+	<key>😞</key>
+	<string>wajah kecewa</string>
+	<key>🌠</key>
+	<string>bintang jatuh</string>
+	<key>🤞</key>
+	<string>jari disilang</string>
+	<key>😟</key>
+	<string>wajah cemas</string>
+	<key>🐈‍⬛</key>
+	<string>kucing hitam</string>
+	<key>🤟</key>
+	<string>gerakan cinta kamu</string>
+	<key>😠</key>
+	<string>wajah marah</string>
+	<key>⚜️</key>
+	<string>fleur-de-lis</string>
+	<key>⛴️</key>
+	<string>feri</string>
+	<key>🤠</key>
+	<string>wajah koboi</string>
+	<key>😡</key>
+	<string>wajah marah memerah</string>
+	<key>🤡</key>
+	<string>wajah badut</string>
+	<key>😢</key>
+	<string>wajah menangis</string>
+	<key>⬛️</key>
+	<string>persegi hitam besar</string>
+	<key>🤢</key>
+	<string>wajah mual</string>
+	<key>😣</key>
+	<string>wajah gigih</string>
+	<key>🤣</key>
+	<string>wajah tertawa berguling di lantai</string>
+	<key>😤</key>
+	<string>wajah dengan uap keluar dari hidung</string>
+	<key>🤤</key>
+	<string>wajah berliur</string>
+	<key>😥</key>
+	<string>wajah sedih tapi lega</string>
+	<key>🤥</key>
+	<string>wajah bohong</string>
+	<key>😦</key>
+	<string>wajah mengerutkan kening dengan mulut terbuka</string>
+	<key>🤦</key>
+	<string>orang tepuk jidat</string>
+	<key>😧</key>
+	<string>wajah sedih</string>
+	<key>🤧</key>
+	<string>wajah bersin</string>
+	<key>😨</key>
+	<string>wajah takut</string>
+	<key>🤨</key>
+	<string>wajah dengan alis terangkat</string>
+	<key>😩</key>
+	<string>wajah lelah</string>
+	<key>🤩</key>
+	<string>wajah dengan mata berbintang</string>
+	<key>⚕️</key>
+	<string>tongkat Aesculapius</string>
+	<key>😪</key>
+	<string>wajah ngantuk</string>
+	<key>👁️‍🗨️</key>
+	<string>Saya saksi</string>
+	<key>🤪</key>
+	<string>wajah bodoh</string>
+	<key>😫</key>
+	<string>wajah putus asa</string>
+	<key>🌭</key>
+	<string>hot dog</string>
+	<key>🤫</key>
+	<string>wajah menyuruh diam</string>
+	<key>😬</key>
+	<string>wajah meringis</string>
+	<key>🌮</key>
+	<string>taco</string>
+	<key>🤬</key>
+	<string>wajah dengan simbol menutupi mulut</string>
+	<key>😭</key>
+	<string>wajah menangis keras</string>
+	<key>🌯</key>
+	<string>burrito</string>
+	<key>🤭</key>
+	<string>wajah dengan tangan di mulut dan mata tersenyum</string>
+	<key>😮</key>
+	<string>wajah terkejut dengan mulut terbuka</string>
+	<key>🌰</key>
+	<string>kastanye</string>
+	<key>🤮</key>
+	<string>wajah muntah</string>
+	<key>😯</key>
+	<string>wajah terkejut</string>
+	<key>🌱</key>
+	<string>menyemai</string>
+	<key>🤯</key>
+	<string>kepala meledak</string>
+	<key>😰</key>
+	<string>wajah gelisah dengan keringat</string>
+	<key>🌲</key>
+	<string>pohon hijau abadi</string>
+	<key>🤰</key>
+	<string>wanita hamil</string>
+	<key>😱</key>
+	<string>wajah berteriak ketakutan</string>
+	<key>🌳</key>
+	<string>pohon</string>
+	<key>🤱</key>
+	<string>menyusui</string>
+	<key>😲</key>
+	<string>wajah takjub</string>
+	<key>🛡️</key>
+	<string>perisai</string>
+	<key>🌴</key>
+	<string>pohon palem</string>
+	<key>🤲</key>
+	<string>telapak tangan saling menempel menghadap ke atas</string>
+	<key>😳</key>
+	<string>wajah dengan mata terbuka lebar</string>
+	<key>🌵</key>
+	<string>kaktus</string>
+	<key>🤳</key>
+	<string>selfie</string>
+	<key>😴</key>
+	<string>wajah ngantuk</string>
+	<key>🤴</key>
+	<string>pangeran</string>
+	<key>😵</key>
+	<string>wajah pusing</string>
+	<key>👩‍🌾</key>
+	<string>petani wanita</string>
+	<key>🌷</key>
+	<string>tulip</string>
+	<key>🤵</key>
+	<string>orang bertuksedo</string>
+	<key>😶</key>
+	<string>wajah tanpa mulut</string>
+	<key>🌸</key>
+	<string>sakura</string>
+	<key>🤶</key>
+	<string>Nyonya Claus</string>
+	<key>😷</key>
+	<string>wajah ditutup masker kesehatan</string>
+	<key>🌹</key>
+	<string>mawar</string>
+	<key>🤷</key>
+	<string>orang mengangkat bahu</string>
+	<key>😸</key>
+	<string>wajah kucing menyeringai</string>
+	<key>🌺</key>
+	<string>kembang sepatu</string>
+	<key>🤸</key>
+	<string>orang melakukan gerakan meroda</string>
+	<key>😹</key>
+	<string>wajah kucing menangis bahagia</string>
+	<key>🌻</key>
+	<string>bunga matahari</string>
+	<key>🤹</key>
+	<string>orang melempar</string>
+	<key>😺</key>
+	<string>wajah kucing senang</string>
+	<key>🌼</key>
+	<string>bunga</string>
+	<key>🤺</key>
+	<string>atlet anggar</string>
+	<key>😻</key>
+	<string>kucing tersenyum dengan mata berbentuk hati</string>
+	<key>🌽</key>
+	<string>bonggol jagung</string>
+	<key>😼</key>
+	<string>wajah kucing menyeringai</string>
+	<key>🇿🇦</key>
+	<string>bendera Afrika Selatan</string>
+	<key>👩‍🔬</key>
+	<string>ilmuwan wanita</string>
+	<key>🌾</key>
+	<string>benih padi</string>
+	<key>🤼</key>
+	<string>orang bergulat</string>
+	<key>😽</key>
+	<string>wajah kucing mencium</string>
+	<key>🇻🇦</key>
+	<string>bendera Kota Vatikan</string>
+	<key>🌿</key>
+	<string>herba</string>
+	<key>🤽</key>
+	<string>orang bermain polo air</string>
+	<key>😾</key>
+	<string>wajah kucing merengus</string>
+	<key>☯️</key>
+	<string>yin yang</string>
+	<key>🍀</key>
+	<string>empat daun semanggi</string>
+	<key>🤾</key>
+	<string>orang bermain bola tangan</string>
+	<key>😿</key>
+	<string>wajah kucing menangis</string>
+	<key>🍁</key>
+	<string>daun maple</string>
+	<key>🤿</key>
+	<string>masker menyelam</string>
+	<key>🧑‍🍳</key>
+	<string>koki</string>
+	<key>🇳🇦</key>
+	<string>bendera Namibia</string>
+	<key>🙀</key>
+	<string>wajah kucing berteriak ketakutan</string>
+	<key>🧗‍♀️</key>
+	<string>pemanjat tebing wanita</string>
+	<key>⁉️</key>
+	<string>tanda seru dan tanda tanya merah</string>
+	<key>🍂</key>
+	<string>daun berguguran</string>
+	<key>🥀</key>
+	<string>mawar layu</string>
+	<key>🙁</key>
+	<string>wajah agak cemberut</string>
+	<key>🍃</key>
+	<string>daun tertiup angin</string>
+	<key>🥁</key>
+	<string>drum</string>
+	<key>🙂</key>
+	<string>wajah tersenyum kecil</string>
+	<key>⬆️</key>
+	<string>panah atas</string>
+	<key>🍄</key>
+	<string>jamur</string>
+	<key>🥂</key>
+	<string>mendentingkan gelas</string>
+	<key>🙃</key>
+	<string>wajah terbalik</string>
+	<key>5️⃣</key>
+	<string>tombol digit lima</string>
+	<key>🍅</key>
+	<string>tomat</string>
+	<key>🥃</key>
+	<string>gelas tumbler</string>
+	<key>🙄</key>
+	<string>wajah dengan mata berputar</string>
+	<key>🇻🇨</key>
+	<string>bendera Saint Vincent &amp; Grenadines</string>
+	<key>🇧🇦</key>
+	<string>bendera Bosnia &amp; Herzegovina</string>
+	<key>↩️</key>
+	<string>panah kanan melengkung ke kiri</string>
+	<key>🍆</key>
+	<string>terung</string>
+	<key>🥄</key>
+	<string>sendok</string>
+	<key>🙅</key>
+	<string>orang mengisyaratkan tidak</string>
+	<key>🍇</key>
+	<string>anggur</string>
+	<key>🥅</key>
+	<string>jaring gawang</string>
+	<key>🙆</key>
+	<string>orang mengisyaratkan OKE</string>
+	<key>🛣️</key>
+	<string>jalur motor</string>
+	<key>🍈</key>
+	<string>melon</string>
+	<key>🙇</key>
+	<string>orang membungkuk</string>
+	<key>🇳🇨</key>
+	<string>bendera Kaledonia Baru</string>
+	<key>🍉</key>
+	<string>semangka</string>
+	<key>🇧🇧</key>
+	<string>bendera Barbados</string>
+	<key>🥇</key>
+	<string>medali emas</string>
+	<key>🙈</key>
+	<string>monyet menutup mata</string>
+	<key>🍊</key>
+	<string>buah jeruk</string>
+	<key>🥈</key>
+	<string>medali perak</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>bendera Skotlandia</string>
+	<key>🙉</key>
+	<string>monyet menutup telinga</string>
+	<key>🍋</key>
+	<string>lemon</string>
+	<key>🥉</key>
+	<string>medali perunggu</string>
+	<key>🙊</key>
+	<string>monyet menutup mulut</string>
+	<key>🍌</key>
+	<string>pisang</string>
+	<key>🥊</key>
+	<string>sarung tinju</string>
+	<key>🇻🇪</key>
+	<string>bendera Venezuela</string>
+	<key>🙋</key>
+	<string>orang mengangkat satu tangan</string>
+	<key>🍍</key>
+	<string>nanas</string>
+	<key>🥋</key>
+	<string>seragam bela diri</string>
+	<key>🙌</key>
+	<string>tangan diangkat sebagai perayaan</string>
+	<key>🇷🇪</key>
+	<string>bendera Reunion</string>
+	<key>🍎</key>
+	<string>apel merah</string>
+	<key>🥌</key>
+	<string>batu curling</string>
+	<key>🙍</key>
+	<string>orang cemberut</string>
+	<key>🍏</key>
+	<string>apel hijau</string>
+	<key>🇳🇪</key>
+	<string>bendera Niger</string>
+	<key>🥍</key>
+	<string>tongkat dan bola lacrosse</string>
+	<key>🙎</key>
+	<string>orang merengus</string>
+	<key>🅾️</key>
+	<string>golongan darah O</string>
+	<key>🇧🇩</key>
+	<string>bendera Bangladesh</string>
+	<key>🍐</key>
+	<string>pir</string>
+	<key>🥎</key>
+	<string>sofbol</string>
+	<key>🇯🇪</key>
+	<string>bendera Jersey</string>
+	<key>🙏</key>
+	<string>tangan dikatup</string>
+	<key>🍑</key>
+	<string>persik</string>
+	<key>🥏</key>
+	<string>piring terbang</string>
+	<key>🍒</key>
+	<string>ceri</string>
+	<key>🥐</key>
+	<string>croissant</string>
+	<key>🇳🇫</key>
+	<string>bendera Pulau Norfolk</string>
+	<key>🍓</key>
+	<string>stroberi</string>
+	<key>🇻🇬</key>
+	<string>bendera Kepulauan Virgin Inggris</string>
+	<key>🇧🇪</key>
+	<string>bendera Belgia</string>
+	<key>🥑</key>
+	<string>alpukat</string>
+	<key>🍔</key>
+	<string>hamburger</string>
+	<key>🥒</key>
+	<string>ketimun</string>
+	<key>⛑️</key>
+	<string>helm dengan tanda silang putih</string>
+	<key>🍕</key>
+	<string>pizza</string>
+	<key>🥓</key>
+	<string>babi asap</string>
+	<key>🇳🇬</key>
+	<string>bendera Nigeria</string>
+	<key>🍖</key>
+	<string>daging pada tulang</string>
+	<key>🥔</key>
+	<string>kentang</string>
+	<key>👨‍🍳</key>
+	<string>koki pria</string>
+	<key>🇧🇫</key>
+	<string>bendera Burkina Faso</string>
+	<key>🍗</key>
+	<string>kaki ayam</string>
+	<key>👮‍♀️</key>
+	<string>polwan</string>
+	<key>🥕</key>
+	<string>wortel</string>
+	<key>⭐️</key>
+	<string>bintang</string>
+	<key>🍘</key>
+	<string>kerupuk beras</string>
+	<key>🥖</key>
+	<string>baguette</string>
+	<key>🗝️</key>
+	<string>kunci tua</string>
+	<key>🌶️</key>
+	<string>cabai pedas</string>
+	<key>🍙</key>
+	<string>nasi kepal</string>
+	<key>🥗</key>
+	<string>salad hijau</string>
+	<key>🏃‍♂️</key>
+	<string>pelari pria</string>
+	<key>🇻🇮</key>
+	<string>bendera Kepulauan Virgin A.S.</string>
+	<key>🇧🇬</key>
+	<string>bendera Bulgaria</string>
+	<key>🍚</key>
+	<string>nasi matang</string>
+	<key>🥘</key>
+	<string>wajan makanan</string>
+	<key>🍛</key>
+	<string>kari dan nasi</string>
+	<key>🥙</key>
+	<string>pita lapis</string>
+	<key>🍜</key>
+	<string>mangkuk mengepul</string>
+	<key>🥚</key>
+	<string>telur</string>
+	<key>🛥️</key>
+	<string>perahu motor</string>
+	<key>🇳🇮</key>
+	<string>bendera Nikaragua</string>
+	<key>🍝</key>
+	<string>spageti</string>
+	<key>🥛</key>
+	<string>gelas susu</string>
+	<key>🇧🇭</key>
+	<string>bendera Bahrain</string>
+	<key>🍞</key>
+	<string>roti</string>
+	<key>🥜</key>
+	<string>kacang tanah</string>
+	<key>🍟</key>
+	<string>kentang goreng</string>
+	<key>👨‍👨‍👦</key>
+	<string>keluarga dengan dua ayah dan anak laki-laki</string>
+	<key>🥝</key>
+	<string>kiwi</string>
+	<key>🇫🇮</key>
+	<string>bendera Finlandia</string>
+	<key>🤾‍♂️</key>
+	<string>pria bermain bola tangan</string>
+	<key>🍠</key>
+	<string>ubi panggang</string>
+	<key>🖲️</key>
+	<string>bola lacak</string>
+	<key>🥞</key>
+	<string>panekuk</string>
+	<key>🇧🇮</key>
+	<string>bendera Burundi</string>
+	<key>🍡</key>
+	<string>dango</string>
+	<key>🥟</key>
+	<string>dumpling</string>
+	<key>🍢</key>
+	<string>oden</string>
+	<key>🥠</key>
+	<string>kue keberuntungan</string>
+	<key>🇫🇯</key>
+	<string>bendera Fiji</string>
+	<key>🍣</key>
+	<string>sushi</string>
+	<key>🥡</key>
+	<string>kotak bungkus makanan</string>
+	<key>🍤</key>
+	<string>udang goreng</string>
+	<key>🥢</key>
+	<string>sumpit</string>
+	<key>🇧🇯</key>
+	<string>bendera Benin</string>
+	<key>↔️</key>
+	<string>panah kanan kiri</string>
+	<key>🍥</key>
+	<string>kue ikan dengan desain pusaran</string>
+	<key>🥣</key>
+	<string>mangkuk dengan sendok</string>
+	<key>🍦</key>
+	<string>es krim lembut</string>
+	<key>🇿🇲</key>
+	<string>bendera Zambia</string>
+	<key>🇫🇰</key>
+	<string>bendera Kepulauan Falkland</string>
+	<key>🥤</key>
+	<string>gelas untuk dibawa</string>
+	<key>🏌️‍♀️</key>
+	<string>pemain golf wanita</string>
+	<key>🇳🇱</key>
+	<string>bendera Belanda</string>
+	<key>🍧</key>
+	<string>es serut</string>
+	<key>🥥</key>
+	<string>kelapa</string>
+	<key>🍨</key>
+	<string>es krim</string>
+	<key>🥦</key>
+	<string>brokoli</string>
+	<key>🍩</key>
+	<string>donat</string>
+	<key>🥧</key>
+	<string>pai</string>
+	<key>🖇️</key>
+	<string>untaian penjepit kertas</string>
+	<key>🍪</key>
+	<string>biskuit</string>
+	<key>🥨</key>
+	<string>pretzel</string>
+	<key>🇻🇳</key>
+	<string>bendera Vietnam</string>
+	<key>💂‍♀️</key>
+	<string>pengawal wanita</string>
+	<key>🇧🇱</key>
+	<string>bendera Saint Barthelemy</string>
+	<key>🍫</key>
+	<string>sebatang coklat</string>
+	<key>🇯🇲</key>
+	<string>bendera Jamaika</string>
+	<key>🥩</key>
+	<string>steak</string>
+	<key>🍬</key>
+	<string>permen</string>
+	<key>🥪</key>
+	<string>roti lapis</string>
+	<key>⛹️‍♀️</key>
+	<string>pemain bola basket wanita</string>
+	<key>🍭</key>
+	<string>permen lolipop</string>
+	<key>🇫🇲</key>
+	<string>bendera Mikronesia</string>
+	<key>🥫</key>
+	<string>makanan kaleng</string>
+	<key>🍮</key>
+	<string>puding susu</string>
+	<key>👨‍❤️‍👨</key>
+	<string>dua pria dengan hati</string>
+	<key>🥬</key>
+	<string>sayuran hijau</string>
+	<key>🇧🇲</key>
+	<string>bendera Bermuda</string>
+	<key>🍯</key>
+	<string>toples madu</string>
+	<key>🥭</key>
+	<string>mangga</string>
+	<key>🇷🇴</key>
+	<string>bendera Romania</string>
+	<key>🍰</key>
+	<string>kue</string>
+	<key>🥮</key>
+	<string>kue bulan</string>
+	<key>🍱</key>
+	<string>kotak bento</string>
+	<key>🇳🇴</key>
+	<string>bendera Norwegia</string>
+	<key>🥯</key>
+	<string>bagel</string>
+	<key>🇧🇳</key>
+	<string>bendera Brunei</string>
+	<key>🧚‍♀️</key>
+	<string>peri wanita</string>
+	<key>🍲</key>
+	<string>panci makanan</string>
+	<key>🇯🇴</key>
+	<string>bendera Yordania</string>
+	<key>🥰</key>
+	<string>wajah tersenyum dengan hati</string>
+	<key>🍳</key>
+	<string>memasak</string>
+	<key>🥱</key>
+	<string>wajah menguap</string>
+	<key>🇫🇴</key>
+	<string>bendera Kepulauan Faroe</string>
+	<key>🍴</key>
+	<string>garpu dan pisau</string>
+	<key>🥲</key>
+	<string>wajah tersenyum dengan air mata</string>
+	<key>🇳🇵</key>
+	<string>bendera Nepal</string>
+	<key>✔️</key>
+	<string>tanda centang</string>
+	<key>🍵</key>
+	<string>cangkir teh tanpa gagang</string>
+	<key>🥳</key>
+	<string>wajah pesta</string>
+	<key>🇧🇴</key>
+	<string>bendera Bolivia</string>
+	<key>🇯🇵</key>
+	<string>bendera Jepang</string>
+	<key>🍶</key>
+	<string>botol dan cangkir sake</string>
+	<key>🥴</key>
+	<string>wajah puyeng</string>
+	<key>🍷</key>
+	<string>gelas anggur</string>
+	<key>🥵</key>
+	<string>wajah kepanasan</string>
+	<key>🍸</key>
+	<string>gelas cocktail</string>
+	<key>🥶</key>
+	<string>wajah kedinginan</string>
+	<key>🍹</key>
+	<string>minuman tropis</string>
+	<key>🥷</key>
+	<string>ninja</string>
+	<key>🍺</key>
+	<string>mug bir</string>
+	<key>🥸</key>
+	<string>wajah menyamar</string>
+	<key>🚶‍♀️</key>
+	<string>pejalan kaki wanita</string>
+	<key>🍻</key>
+	<string>mug bir berdenting</string>
+	<key>🥹</key>
+	<string>wajah tersenyum menahan tangis</string>
+	<key>🇳🇷</key>
+	<string>bendera Nauru</string>
+	<key>🍼</key>
+	<string>botol bayi</string>
+	<key>🇧🇶</key>
+	<string>bendera Bonaire</string>
+	<key>🥺</key>
+	<string>wajah memelas</string>
+	<key>🧑‍🍼</key>
+	<string>orang menyusui bayi</string>
+	<key>🥻</key>
+	<string>sari</string>
+	<key>🇷🇸</key>
+	<string>bendera Serbia</string>
+	<key>🍾</key>
+	<string>botol dengan penyumbat terlepas</string>
+	<key>🇫🇷</key>
+	<string>bendera Prancis</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>pria dan wanita berciuman</string>
+	<key>🥼</key>
+	<string>jas lab</string>
+	<key>✍️</key>
+	<string>tangan menulis</string>
+	<key>🍿</key>
+	<string>popcorn</string>
+	<key>🥽</key>
+	<string>kacamata pelindung</string>
+	<key>🇧🇷</key>
+	<string>bendera Brasil</string>
+	<key>🗡️</key>
+	<string>belati</string>
+	<key>⏮️</key>
+	<string>simbol lewati mundur</string>
+	<key>🎀</key>
+	<string>pita kupu-kupu</string>
+	<key>🥾</key>
+	<string>sepatu gunung</string>
+	<key>🎁</key>
+	<string>kado</string>
+	<key>🥿</key>
+	<string>sepatu datar</string>
+	<key>🚀</key>
+	<string>roket</string>
+	<key>🎂</key>
+	<string>kue ulang tahun</string>
+	<key>🦀</key>
+	<string>kepiting</string>
+	<key>🚁</key>
+	<string>helikopter</string>
+	<key>🇻🇺</key>
+	<string>bendera Vanuatu</string>
+	<key>🇧🇸</key>
+	<string>bendera Bahama</string>
+	<key>🎃</key>
+	<string>lentera labu</string>
+	<key>🕵️‍♀️</key>
+	<string>detektif wanita</string>
+	<key>🦁</key>
+	<string>wajah singa</string>
+	<key>🚂</key>
+	<string>kereta uap</string>
+	<key>🎄</key>
+	<string>Pohon natal</string>
+	<key>🇷🇺</key>
+	<string>bendera Rusia</string>
+	<key>🦂</key>
+	<string>kalajengking</string>
+	<key>🚃</key>
+	<string>gerbong kereta api</string>
+	<key>🎅</key>
+	<string>Santa Claus</string>
+	<key>🦃</key>
+	<string>kalkun</string>
+	<key>🚄</key>
+	<string>kereta cepat</string>
+	<key>🇳🇺</key>
+	<string>bendera Niue</string>
+	<key>🛩️</key>
+	<string>pesawat kecil</string>
+	<key>◾️</key>
+	<string>persegi hitam medium kecil</string>
+	<key>🎆</key>
+	<string>kembang api</string>
+	<key>🇧🇹</key>
+	<string>bendera Bhutan</string>
+	<key>🦄</key>
+	<string>unicorn</string>
+	<key>🚅</key>
+	<string>kereta cepat berbentuk peluru</string>
+	<key>🎇</key>
+	<string>kilau kembang api</string>
+	<key>🦅</key>
+	<string>elang</string>
+	<key>🚆</key>
+	<string>kereta</string>
+	<key>👱‍♀️</key>
+	<string>wanita dengan rambut pirang</string>
+	<key>🎈</key>
+	<string>balon</string>
+	<key>🇿🇼</key>
+	<string>bendera Zimbabwe</string>
+	<key>🦆</key>
+	<string>bebek</string>
+	<key>🚇</key>
+	<string>kereta api bawah tanah</string>
+	<key>😮‍💨</key>
+	<string>wajah menghela napas</string>
+	<key>🎉</key>
+	<string>peletup kertas pesta</string>
+	<key>🦇</key>
+	<string>kelelawar</string>
+	<key>🚈</key>
+	<string>kereta api ringan</string>
+	<key>🎊</key>
+	<string>bola confetti</string>
+	<key>🦈</key>
+	<string>hiu</string>
+	<key>🚉</key>
+	<string>stasiun</string>
+	<key>🇷🇼</key>
+	<string>bendera Rwanda</string>
+	<key>🎋</key>
+	<string>pohon tanabata</string>
+	<key>🦉</key>
+	<string>burung hantu</string>
+	<key>🚊</key>
+	<string>trem</string>
+	<key>🎌</key>
+	<string>bendera menyilang</string>
+	<key>🦊</key>
+	<string>wajah rubah</string>
+	<key>🚋</key>
+	<string>trem</string>
+	<key>🎍</key>
+	<string>dekorasi pinus</string>
+	<key>🇧🇻</key>
+	<string>bendera Pulau Bouvet</string>
+	<key>🦋</key>
+	<string>kupu-kupu</string>
+	<key>🚌</key>
+	<string>bus</string>
+	<key>🎎</key>
+	<string>Boneka Jepang</string>
+	<key>🦌</key>
+	<string>rusa</string>
+	<key>🚍</key>
+	<string>bus yang mendekat</string>
+	<key>🎏</key>
+	<string>layang-layang</string>
+	<key>🦍</key>
+	<string>gorila</string>
+	<key>🚎</key>
+	<string>bus listrik</string>
+	<key>🚏</key>
+	<string>halte bus</string>
+	<key>🎐</key>
+	<string>lonceng angin</string>
+	<key>🦎</key>
+	<string>kadal</string>
+	<key>🇧🇼</key>
+	<string>bendera Botswana</string>
+	<key>🚐</key>
+	<string>minibus</string>
+	<key>♏️</key>
+	<string>Scorpio</string>
+	<key>🎑</key>
+	<string>upacara melihat bulan</string>
+	<key>🦏</key>
+	<string>badak</string>
+	<key>🚑</key>
+	<string>ambulans</string>
+	<key>👨‍🍼</key>
+	<string>pria menyusui bayi</string>
+	<key>⚧️</key>
+	<string>simbol transgender</string>
+	<key>👨‍👨‍👧</key>
+	<string>keluarga dengan dua ayah dan anak perempuan</string>
+	<key>🖋️</key>
+	<string>pena</string>
+	<key>🚒</key>
+	<string>mobil pemadam kebakaran</string>
+	<key>🎒</key>
+	<string>ransel</string>
+	<key>🎓</key>
+	<string>topi wisuda</string>
+	<key>🦐</key>
+	<string>udang</string>
+	<key>🦑</key>
+	<string>cumi-cumi</string>
+	<key>🚓</key>
+	<string>mobil polisi</string>
+	<key>❗️</key>
+	<string>tanda seru merah</string>
+	<key>🦒</key>
+	<string>jerapah</string>
+	<key>🙇‍♀️</key>
+	<string>wanita membungkuk</string>
+	<key>🗣️</key>
+	<string>siluet kepala berbicara</string>
+	<key>🚔</key>
+	<string>mobil polisi yang mendekat</string>
+	<key>🦓</key>
+	<string>zebra</string>
+	<key>🚕</key>
+	<string>taksi</string>
+	<key>🦔</key>
+	<string>landak Amerika</string>
+	<key>🇳🇿</key>
+	<string>bendera Selandia Baru</string>
+	<key>🦕</key>
+	<string>dinosaurus</string>
+	<key>🚖</key>
+	<string>taksi yang mendekat</string>
+	<key>🇧🇾</key>
+	<string>bendera Belarus</string>
+	<key>🦖</key>
+	<string>T-Rex</string>
+	<key>🚗</key>
+	<string>mobil</string>
+	<key>🦗</key>
+	<string>jangkrik</string>
+	<key>🚘</key>
+	<string>mobil yang mendekat</string>
+	<key>🦘</key>
+	<string>kanguru</string>
+	<key>🚙</key>
+	<string>kendaraan utilitas sport</string>
+	<key>🇧🇿</key>
+	<string>bendera Belize</string>
+	<key>🦙</key>
+	<string>llama</string>
+	<key>🚚</key>
+	<string>truk pengiriman</string>
+	<key>♈️</key>
+	<string>Aries</string>
+	<key>🦚</key>
+	<string>merak</string>
+	<key>🚛</key>
+	<string>truk gandeng</string>
+	<key>⚠️</key>
+	<string>peringatan</string>
+	<key>🦛</key>
+	<string>kuda nil</string>
+	<key>🚜</key>
+	<string>traktor</string>
+	<key>⛸️</key>
+	<string>seluncur es</string>
+	<key>🧘‍♂️</key>
+	<string>pria dalam posisi teratai</string>
+	<key>🧑‍🚀</key>
+	<string>astronot</string>
+	<key>🦜</key>
+	<string>kakaktua</string>
+	<key>🚝</key>
+	<string>monorel</string>
+	<key>🦝</key>
+	<string>rakun</string>
+	<key>🚞</key>
+	<string>rel kereta gunung</string>
+	<key>🎠</key>
+	<string>kuda korsel</string>
+	<key>🦞</key>
+	<string>lobster</string>
+	<key>🚟</key>
+	<string>rel kereta gantung</string>
+	<key>🎡</key>
+	<string>bianglala</string>
+	<key>🦟</key>
+	<string>nyamuk</string>
+	<key>🚠</key>
+	<string>kereta gantung gunung</string>
+	<key>🎢</key>
+	<string>roller coaster</string>
+	<key>🦠</key>
+	<string>mikroba</string>
+	<key>🚡</key>
+	<string>kereta gantung</string>
+	<key>🧝‍♀️</key>
+	<string>elf wanita</string>
+	<key>🎣</key>
+	<string>joran dan ikan</string>
+	<key>🦡</key>
+	<string>luak</string>
+	<key>🚢</key>
+	<string>kapal</string>
+	<key>🎤</key>
+	<string>mikrofon</string>
+	<key>🦢</key>
+	<string>angsa</string>
+	<key>🚣</key>
+	<string>orang mendayung perahu</string>
+	<key>🎥</key>
+	<string>kamera film</string>
+	<key>🦣</key>
+	<string>mamut</string>
+	<key>🚤</key>
+	<string>perahu motor cepat</string>
+	<key>🎦</key>
+	<string>simbol bioskop</string>
+	<key>🦤</key>
+	<string>burung doto</string>
+	<key>🚥</key>
+	<string>lampu lalu lintas horizontal</string>
+	<key>⚙️</key>
+	<string>gerigi</string>
+	<key>🚴‍♂️</key>
+	<string>pesepeda pria</string>
+	<key>🎧</key>
+	<string>headphone</string>
+	<key>🦥</key>
+	<string>kungkang</string>
+	<key>🚦</key>
+	<string>lampu lalu lintas vertikal</string>
+	<key>⛱️</key>
+	<string>payung pantai</string>
+	<key>🖍️</key>
+	<string>krayon</string>
+	<key>🎨</key>
+	<string>palet seniman</string>
+	<key>🦦</key>
+	<string>berang-berang</string>
+	<key>🚧</key>
+	<string>tanda konstruksi</string>
+	<key>🎩</key>
+	<string>topi tinggi</string>
+	<key>🦧</key>
+	<string>orangutan</string>
+	<key>🚨</key>
+	<string>lampu mobil polisi</string>
+	<key>➡️</key>
+	<string>panah kanan</string>
+	<key>🎪</key>
+	<string>tenda sirkus</string>
+	<key>🦨</key>
+	<string>sigung</string>
+	<key>🚩</key>
+	<string>bendera segitiga pada tiang</string>
+	<key>🎫</key>
+	<string>tiket</string>
+	<key>🦩</key>
+	<string>flamingo</string>
+	<key>🚪</key>
+	<string>pintu</string>
+	<key>🦸‍♀️</key>
+	<string>pahlawan super wanita</string>
+	<key>🎬</key>
+	<string>papan tanda adegan</string>
+	<key>🦪</key>
+	<string>tiram</string>
+	<key>🚫</key>
+	<string>dilarang</string>
+	<key>🎖️</key>
+	<string>medali militer</string>
+	<key>🎭</key>
+	<string>pergelaran seni</string>
+	<key>🦫</key>
+	<string>berang-berang</string>
+	<key>🚬</key>
+	<string>rokok</string>
+	<key>🎮</key>
+	<string>pengontrol game video</string>
+	<key>🦬</key>
+	<string>banteng</string>
+	<key>🚭</key>
+	<string>tanda dilarang merokok</string>
+	<key>🎯</key>
+	<string>papan panah</string>
+	<key>🦭</key>
+	<string>anjing laut</string>
+	<key>🚮</key>
+	<string>simbol buang sampah pada tempatnya</string>
+	<key>☺️</key>
+	<string>wajah tersenyum</string>
+	<key>🎰</key>
+	<string>mesin slot</string>
+	<key>🦮</key>
+	<string>anjing pemandu</string>
+	<key>🚯</key>
+	<string>dilarang membuang sampah sembarang</string>
+	<key>⚒️</key>
+	<string>palu dan pencungkil</string>
+	<key>🎱</key>
+	<string>biliar</string>
+	<key>🦯</key>
+	<string>tongkat putih</string>
+	<key>🚰</key>
+	<string>keran air</string>
+	<key>🧑‍🎄</key>
+	<string>Mx. Claus</string>
+	<key>⛪️</key>
+	<string>gereja</string>
+	<key>🎲</key>
+	<string>dadu game</string>
+	<key>🤵‍♀️</key>
+	<string>wanita bertuksedo</string>
+	<key>⌛️</key>
+	<string>jam pasir</string>
+	<key>🏋️‍♂️</key>
+	<string>atlet angkat beban pria</string>
+	<key>🚱</key>
+	<string>air yang tidak dapat diminum</string>
+	<key>🎳</key>
+	<string>bola boling dan pin</string>
+	<key>👯‍♂️</key>
+	<string>pria menari mengenakan telinga kelinci</string>
+	<key>👨‍🚀</key>
+	<string>astronot pria</string>
+	<key>🚲</key>
+	<string>sepeda</string>
+	<key>🎴</key>
+	<string>kartu bunga</string>
+	<key>🚳</key>
+	<string>sepeda dilarang</string>
+	<key>👩‍👦‍👦</key>
+	<string>keluarga dengan ibu dan dua anak laki-laki</string>
+	<key>🎵</key>
+	<string>not musik</string>
+	<key>👨‍🤝‍👨</key>
+	<string>pria berpegangan tangan</string>
+	<key>🚴</key>
+	<string>pesepeda</string>
+	<key>🎶</key>
+	<string>not musik</string>
+	<key>🦴</key>
+	<string>tulang</string>
+	<key>🚵</key>
+	<string>pengendara sepeda gunung</string>
+	<key>🎷</key>
+	<string>saksofon</string>
+	<key>🦵</key>
+	<string>kaki</string>
+	<key>🚶</key>
+	<string>pejalan kaki</string>
+	<key>🎸</key>
+	<string>gitar</string>
+	<key>🦶</key>
+	<string>kaki</string>
+	<key>🚷</key>
+	<string>bukan untuk pejalan kaki</string>
+	<key>🎹</key>
+	<string>keyboard musik</string>
+	<key>🦷</key>
+	<string>gigi</string>
+	<key>🚸</key>
+	<string>anak-anak menyeberang</string>
+	<key>🎺</key>
+	<string>trompet</string>
+	<key>🦸</key>
+	<string>pahlawan super</string>
+	<key>🚹</key>
+	<string>simbol pria</string>
+	<key>🎻</key>
+	<string>biola</string>
+	<key>🦹</key>
+	<string>penjahat super</string>
+	<key>🚺</key>
+	<string>simbol wanita</string>
+	<key>🎼</key>
+	<string>notasi musik</string>
+	<key>🦺</key>
+	<string>rompi keselamatan</string>
+	<key>🚻</key>
+	<string>kamar kecil</string>
+	<key>🎽</key>
+	<string>kaus lari</string>
+	<key>🦻</key>
+	<string>telinga dengan alat bantu dengar</string>
+	<key>🚼</key>
+	<string>simbol bayi</string>
+	<key>🎾</key>
+	<string>bola tenis</string>
+	<key>🦼</key>
+	<string>kursi roda listrik</string>
+	<key>🚽</key>
+	<string>toilet</string>
+	<key>🎿</key>
+	<string>ski</string>
+	<key>🦽</key>
+	<string>kursi roda manual</string>
+	<key>🚾</key>
+	<string>wc</string>
+	<key>🏀</key>
+	<string>bola basket</string>
+	<key>🦾</key>
+	<string>lengan mekanik</string>
+	<key>🙅‍♂️</key>
+	<string>pria mengisyaratkan tidak</string>
+	<key>🚿</key>
+	<string>shower</string>
+	<key>🏁</key>
+	<string>bendera bermotif papan catur</string>
+	<key>🦿</key>
+	<string>kaki mekanik</string>
+	<key>🛀</key>
+	<string>orang mandi</string>
+	<key>🏂</key>
+	<string>peselancar salju</string>
+	<key>🧀</key>
+	<string>irisan keju</string>
+	<key>🛁</key>
+	<string>bak mandi</string>
+	<key>🚣‍♂️</key>
+	<string>pria mendayung perahu</string>
+	<key>🏃</key>
+	<string>pelari</string>
+	<key>🧁</key>
+	<string>kue cangkir</string>
+	<key>🛂</key>
+	<string>kontrol paspor</string>
+	<key>🏄</key>
+	<string>peselancar</string>
+	<key>🧂</key>
+	<string>garam</string>
+	<key>🛃</key>
+	<string>bea cukai</string>
+	<key>🏅</key>
+	<string>medali olahraga</string>
+	<key>🧃</key>
+	<string>kotak jus</string>
+	<key>🛄</key>
+	<string>klaim bagasi</string>
+	<key>🏆</key>
+	<string>trofi</string>
+	<key>🧄</key>
+	<string>bawang putih</string>
+	<key>🛅</key>
+	<string>penitipan barang</string>
+	<key>🏇</key>
+	<string>joki balapan kuda</string>
+	<key>🧅</key>
+	<string>bawang merah</string>
+	<key>✴️</key>
+	<string>bintang delapan sudut</string>
+	<key>🖼️</key>
+	<string>bingkai dengan gambar</string>
+	<key>🏈</key>
+	<string>Sepak bola Amerika</string>
+	<key>🧆</key>
+	<string>falafel</string>
+	<key>🏉</key>
+	<string>bola rugbi</string>
+	<key>🧇</key>
+	<string>wafel</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>keluarga dengan dua ayah, anak laki-laki dan perempuan</string>
+	<key>🏊</key>
+	<string>perenang</string>
+	<key>🧈</key>
+	<string>mentega</string>
+	<key>🧑‍⚖️</key>
+	<string>hakim</string>
+	<key>3️⃣</key>
+	<string>tombol digit tiga</string>
+	<key>🧉</key>
+	<string>maté</string>
+	<key>🧊</key>
+	<string>es</string>
+	<key>🧋</key>
+	<string>teh boba</string>
+	<key>🛌</key>
+	<string>orang tidur</string>
+	<key>🧛‍♂️</key>
+	<string>vampir pria</string>
+	<key>🧌</key>
+	<string>troll</string>
+	<key>🏏</key>
+	<string>tongkat dan bola kriket</string>
+	<key>🧍</key>
+	<string>orang berdiri</string>
+	<key>🏐</key>
+	<string>bola voli</string>
+	<key>🧎</key>
+	<string>orang berlutut</string>
+	<key>🏑</key>
+	<string>tongkat dan bola hoki lapangan</string>
+	<key>🧏</key>
+	<string>Orang tuna rungu</string>
+	<key>🛐</key>
+	<string>tempat ibadah</string>
+	<key>🏒</key>
+	<string>tongkat dan bola hoki es</string>
+	<key>🧐</key>
+	<string>wajah dengan monocle</string>
+	<key>🛑</key>
+	<string>rambu oktagonal</string>
+	<key>🏓</key>
+	<string>bet dan bola tenis meja</string>
+	<key>🧑</key>
+	<string>orang dewasa</string>
+	<key>🛒</key>
+	<string>keranjang belanja</string>
+	<key>🧒</key>
+	<string>anak</string>
+	<key>🧓</key>
+	<string>lanjut usia</string>
+	<key>🎚️</key>
+	<string>penggeser level</string>
+	<key>🧔</key>
+	<string>orang berjenggot</string>
+	<key>🛕</key>
+	<string>kuil hindu</string>
+	<key>🧕</key>
+	<string>wanita dengan kerudung</string>
+	<key>🛖</key>
+	<string>gubuk</string>
+	<key>🧖</key>
+	<string>orang di sauna</string>
+	<key>🛗</key>
+	<string>lift</string>
+	<key>🧗</key>
+	<string>pemanjat tebing</string>
+	<key>🧘</key>
+	<string>orang dalam posisi teratai</string>
+	<key>🧙</key>
+	<string>penyihir</string>
+	<key>🧚</key>
+	<string>peri</string>
+	<key>👩‍💻</key>
+	<string>pakar teknologi wanita</string>
+	<key>🧛</key>
+	<string>vampir</string>
+	<key>🛜</key>
+	<string>simbol nirkabel</string>
+	<key>🧜</key>
+	<string>manusia duyung</string>
+	<key>🛝</key>
+	<string>perosotan taman bermain</string>
+	<key>🧝</key>
+	<string>elf</string>
+	<key>🛞</key>
+	<string>roda</string>
+	<key>👨‍⚖️</key>
+	<string>hakim pria</string>
+	<key>🏠</key>
+	<string>rumah</string>
+	<key>🧞</key>
+	<string>jin</string>
+	<key>↘️</key>
+	<string>panah bawah kanan</string>
+	<key>🛟</key>
+	<string>pelampung</string>
+	<key>🏡</key>
+	<string>rumah dengan kebun</string>
+	<key>🧟</key>
+	<string>zombi</string>
+	<key>🤸‍♀️</key>
+	<string>wanita melakukan gerakan meroda</string>
+	<key>🏢</key>
+	<string>bangunan kantor</string>
+	<key>🧠</key>
+	<string>otak</string>
+	<key>🏣</key>
+	<string>Kantor pos Jepang</string>
+	<key>🧡</key>
+	<string>hati oranye</string>
+	<key>👩‍💼</key>
+	<string>pekerja kantor wanita</string>
+	<key>🏤</key>
+	<string>Kantor pos Eropa</string>
+	<key>🧢</key>
+	<string>topi berlidah</string>
+	<key>🏥</key>
+	<string>rumah sakit</string>
+	<key>🧣</key>
+	<string>syal</string>
+	<key>🏦</key>
+	<string>bank</string>
+	<key>🧤</key>
+	<string>sarung tangan</string>
+	<key>🏧</key>
+	<string>Tanda ATM</string>
+	<key>🧥</key>
+	<string>mantel</string>
+	<key>👷‍♀️</key>
+	<string>pekerja konstruksi wanita</string>
+	<key>🏨</key>
+	<string>hotel</string>
+	<key>🧦</key>
+	<string>kaus kaki</string>
+	<key>🏩</key>
+	<string>hotel cinta</string>
+	<key>🧧</key>
+	<string>amplop angpau merah</string>
+	<key>ℹ️</key>
+	<string>sumber informasi</string>
+	<key>🏪</key>
+	<string>toko kelontong</string>
+	<key>🧨</key>
+	<string>petasan</string>
+	<key>🏫</key>
+	<string>sekolah</string>
+	<key>🧩</key>
+	<string>potongan teka-teki</string>
+	<key>🏬</key>
+	<string>toko serba ada</string>
+	<key>🧪</key>
+	<string>tabung reaksi</string>
+	<key>🛫</key>
+	<string>pesawat tinggal landas</string>
+	<key>🛳️</key>
+	<string>kapal penumpang</string>
+	<key>🏭</key>
+	<string>pabrik</string>
+	<key>🧫</key>
+	<string>cawan petri</string>
+	<key>🛬</key>
+	<string>pesawat mendarat</string>
+	<key>♨️</key>
+	<string>air panas</string>
+	<key>🏮</key>
+	<string>lentera izakaya</string>
+	<key>🧬</key>
+	<string>DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>keluarga dengan ibu, ayah, dan anak laki-laki</string>
+	<key>🏯</key>
+	<string>Kastil Jepang</string>
+	<key>🧭</key>
+	<string>kompas</string>
+	<key>🧏‍♀️</key>
+	<string>Wanita tuna rungu</string>
+	<key>🏰</key>
+	<string>Kastil Eropa</string>
+	<key>🧮</key>
+	<string>sipoa</string>
+	<key>🧯</key>
+	<string>pemadam api</string>
+	<key>⏹️</key>
+	<string>simbol berhenti</string>
+	<key>🧰</key>
+	<string>kotak alat</string>
+	<key>🧱</key>
+	<string>batu bata</string>
+	<key>🏴</key>
+	<string>bendera hitam</string>
+	<key>🧲</key>
+	<string>magnet</string>
+	<key>🙍‍♀️</key>
+	<string>wanita cemberut</string>
+	<key>🧳</key>
+	<string>tas barang</string>
+	<key>🛴</key>
+	<string>skuter</string>
+	<key>🧴</key>
+	<string>botol losion</string>
+	<key>🛵</key>
+	<string>skuter motor</string>
+	<key>👨‍👦</key>
+	<string>keluarga dengan ayah dan anak laki-laki</string>
+	<key>🧵</key>
+	<string>benang</string>
+	<key>💆‍♂️</key>
+	<string>pria pijat kepala</string>
+	<key>🛶</key>
+	<string>perahu kecil</string>
+	<key>🏸</key>
+	<string>raket dan kok badminton</string>
+	<key>🧶</key>
+	<string>benang rajut</string>
+	<key>🛷</key>
+	<string>kereta luncur</string>
+	<key>🏹</key>
+	<string>busur dan panah</string>
+	<key>🧷</key>
+	<string>peniti</string>
+	<key>🛸</key>
+	<string>UFO</string>
+	<key>🏺</key>
+	<string>amphora</string>
+	<key>🧸</key>
+	<string>beruang teddy</string>
+	<key>🛹</key>
+	<string>papan luncur</string>
+	<key>🧹</key>
+	<string>sapu</string>
+	<key>🛺</key>
+	<string>angkong otomatis</string>
+	<key>⏲️</key>
+	<string>jam timer</string>
+	<key>🧺</key>
+	<string>keranjang</string>
+	<key>🛻</key>
+	<string>truk pikap</string>
+	<key>🧻</key>
+	<string>gulungan tisu</string>
+	<key>🛼</key>
+	<string>sepatu beroda</string>
+	<key>👨‍👧</key>
+	<string>keluarga dengan ayah dan anak perempuan</string>
+	<key>🧼</key>
+	<string>sabun</string>
+	<key>🧞‍♂️</key>
+	<string>jin pria</string>
+	<key>🧽</key>
+	<string>spons</string>
+	<key>🎞️</key>
+	<string>bingkai film</string>
+	<key>🧾</key>
+	<string>struk</string>
+	<key>▪️</key>
+	<string>persegi hitam kecil</string>
+	<key>🧿</key>
+	<string>jimat nazar</string>
+	<key>☂️</key>
+	<string>payung</string>
+	<key>🗂️</key>
+	<string>pembagi indeks kartu</string>
+	<key>🦹‍♂️</key>
+	<string>penjahat super pria</string>
+	<key>🏋️</key>
+	<string>atlet angkat beban</string>
+	<key>◻️</key>
+	<string>persegi putih medium</string>
+	<key>♓️</key>
+	<string>Pisces</string>
+	<key>⚫️</key>
+	<string>lingkaran hitam</string>
+	<key>⏩</key>
+	<string>simbol percepat maju</string>
+	<key>⏪</key>
+	<string>simbol putar balik</string>
+	<key>⏫</key>
+	<string>segitiga ganda menunjuk ke atas</string>
+	<key>⏬</key>
+	<string>segitiga ganda menunjuk ke bawah</string>
+	<key>🗯️</key>
+	<string>gelembung ucapan marah</string>
+	<key>⏰</key>
+	<string>jam alarm</string>
+	<key>⏳</key>
+	<string>jam pasir dengan pasir yang mengalir</string>
+	<key>🧑‍🎓</key>
+	<string>murid</string>
+	<key>🧑‍🚒</key>
+	<string>pemadam kebakaran</string>
+	<key>♌️</key>
+	<string>Leo</string>
+	<key>🗄️</key>
+	<string>lemari berkas</string>
+	<key>🧍‍♂️</key>
+	<string>pria berdiri</string>
+	<key>🏍️</key>
+	<string>sepeda motor</string>
+	<key>🙋‍♂️</key>
+	<string>pria mengangkat satu tangan</string>
+	<key>👨‍👩‍👧</key>
+	<string>keluarga dengan ibu, ayah, dan anak perempuan</string>
+	<key>🇸🇦</key>
+	<string>bendera Arab Saudi</string>
+	<key>⛵️</key>
+	<string>perahu layar</string>
+	<key>👩‍🏫</key>
+	<string>guru wanita</string>
+	<key>⬜️</key>
+	<string>persegi putih besar</string>
+	<key>🇸🇧</key>
+	<string>bendera Kepulauan Solomon</string>
+	<key>🇬🇦</key>
+	<string>bendera Gabon</string>
+	<key>🇨🇦</key>
+	<string>bendera Kanada</string>
+	<key>🇸🇨</key>
+	<string>bendera Seychelles</string>
+	<key>🇬🇧</key>
+	<string>bendera Inggris Raya</string>
+	<key>👨‍🎓</key>
+	<string>murid pria</string>
+	<key>👨‍🚒</key>
+	<string>pemadam kebakaran pria</string>
+	<key>⚖️</key>
+	<string>timbangan</string>
+	<key>🇸🇩</key>
+	<string>bendera Sudan</string>
+	<key>🇨🇨</key>
+	<string>bendera Kepulauan Cocos (Keeling)</string>
+	<key>⏏️</key>
+	<string>simbol keluarkan</string>
+	<key>🇸🇪</key>
+	<string>bendera Swedia</string>
+	<key>🇬🇩</key>
+	<string>bendera Grenada</string>
+	<key>👩‍🏭</key>
+	<string>pekerja pabrik wanita</string>
+	<key>🇼🇫</key>
+	<string>bendera Wallis &amp; Futuna</string>
+	<key>🇨🇩</key>
+	<string>bendera Republik Demokratik Kongo</string>
+	<key>🇰🇪</key>
+	<string>bendera Kenya</string>
+	<key>🛎️</key>
+	<string>lonceng pelayan</string>
+	<key>🇬🇪</key>
+	<string>bendera Georgia</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>keluarga dengan dua ibu, anak laki-laki dan perempuan</string>
+	<key>🇸🇬</key>
+	<string>bendera Singapura</string>
+	<key>🇬🇫</key>
+	<string>bendera Guiana Prancis</string>
+	<key>🇨🇫</key>
+	<string>bendera Republik Afrika Tengah</string>
+	<key>🇰🇬</key>
+	<string>bendera Kirgistan</string>
+	<key>🗳️</key>
+	<string>kotak suara dengan surat suara</string>
+	<key>🇸🇭</key>
+	<string>bendera Saint Helena</string>
+	<key>🇬🇬</key>
+	<string>bendera Guernsey</string>
+	<key>🧑‍⚕️</key>
+	<string>pekerja kesehatan</string>
+	<key>🏃‍♀️</key>
+	<string>pelari wanita</string>
+	<key>🇨🇬</key>
+	<string>bendera Republik Kongo</string>
+	<key>🇰🇭</key>
+	<string>bendera Kamboja</string>
+	<key>🤹‍♂️</key>
+	<string>pria melempar</string>
+	<key>🇸🇮</key>
+	<string>bendera Slovenia</string>
+	<key>🇬🇭</key>
+	<string>bendera Ghana</string>
+	<key>〽️</key>
+	<string>tanda alternasi bagian</string>
+	<key>🇨🇭</key>
+	<string>bendera Swiss</string>
+	<key>🇰🇮</key>
+	<string>bendera Kiribati</string>
+	<key>🇸🇯</key>
+	<string>bendera Svalbard dan Jan Mayen</string>
+	<key>🕰️</key>
+	<string>jam perapian</string>
+	<key>8️⃣</key>
+	<string>tombol digit delapan</string>
+	<key>🇬🇮</key>
+	<string>bendera Gibraltar</string>
+	<key>🤾‍♀️</key>
+	<string>wanita bermain bola tangan</string>
+	<key>🇨🇮</key>
+	<string>bendera Côte d’Ivoire</string>
+	<key>⬇️</key>
+	<string>panah bawah</string>
+	<key>👩‍✈️</key>
+	<string>pilot wanita</string>
+	<key>👩‍👧‍👦</key>
+	<string>keluarga dengan ibu, anak laki-laki dan perempuan</string>
+	<key>🇸🇰</key>
+	<string>bendera Slowakia</string>
+	<key>🌡️</key>
+	<string>termometer</string>
+	<key>↪️</key>
+	<string>panah kiri melengkung ke kanan</string>
+	<key>🇸🇱</key>
+	<string>bendera Sierra Leone</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>dua pria berciuman</string>
+	<key>🇨🇰</key>
+	<string>bendera Kepulauan Cook</string>
+	<key>🇸🇲</key>
+	<string>bendera San Marino</string>
+	<key>🇬🇱</key>
+	<string>bendera Greenland</string>
+	<key>🇴🇲</key>
+	<string>bendera Oman</string>
+	<key>🇨🇱</key>
+	<string>bendera Cile</string>
+	<key>🇰🇲</key>
+	<string>bendera Komoro</string>
+	<key>🇸🇳</key>
+	<string>bendera Senegal</string>
+	<key>🇬🇲</key>
+	<string>bendera Gambia</string>
+	<key>1️⃣</key>
+	<string>tombol digit satu</string>
+	<key>Ⓜ️</key>
+	<string>M dilingkari</string>
+	<key>🇨🇲</key>
+	<string>bendera Kamerun</string>
+	<key>👨‍⚕️</key>
+	<string>pekerja kesehatan pria</string>
+	<key>🙎‍♂️</key>
+	<string>pria merengus</string>
+	<key>🇰🇳</key>
+	<string>bendera Saint Kitts &amp; Nevis</string>
+	<key>🇸🇴</key>
+	<string>bendera Somalia</string>
+	<key>🇬🇳</key>
+	<string>bendera Guinea</string>
+	<key>🇨🇳</key>
+	<string>bendera Tiongkok</string>
+	<key>☢️</key>
+	<string>radioaktif</string>
+	<key>🇨🇴</key>
+	<string>bendera Kolombia</string>
+	<key>‼️</key>
+	<string>tanda seru ganda merah</string>
+	<key>🃏</key>
+	<string>joker</string>
+	<key>🇰🇵</key>
+	<string>bendera Korea Utara</string>
+	<key>🇬🇵</key>
+	<string>bendera Guadeloupe</string>
+	<key>㊗️</key>
+	<string>Arti tanda Bahasa Jepang untuk “selamat”</string>
+	<key>🐿️</key>
+	<string>tupai</string>
+	<key>🇨🇵</key>
+	<string>bendera Pulau Clipperton</string>
+	<key>🇸🇷</key>
+	<string>bendera Suriname</string>
+	<key>🏳️‍⚧️</key>
+	<string>bendera transgender</string>
+	<key>🇬🇶</key>
+	<string>bendera Guinea Khatulistiwa</string>
+	<key>🇼🇸</key>
+	<string>bendera Samoa</string>
+	<key>*️⃣</key>
+	<string>tombol asterisk</string>
+	<key>🇰🇷</key>
+	<string>bendera Korea Selatan</string>
+	<key>🇸🇸</key>
+	<string>bendera Sudan Selatan</string>
+	<key>🇬🇷</key>
+	<string>bendera Yunani</string>
+	<key>🇨🇷</key>
+	<string>bendera Kosta Rika</string>
+	<key>®️</key>
+	<string>tanda terdaftar</string>
+	<key>🇸🇹</key>
+	<string>bendera Sao Tome &amp; Principe</string>
+	<key>🇬🇸</key>
+	<string>bendera Georgia Selatan &amp; Kepulauan Sandwich Selatan</string>
+	<key>↕️</key>
+	<string>panah atas bawah</string>
+	<key>🇬🇹</key>
+	<string>bendera Guatemala</string>
+	<key>☔️</key>
+	<string>payung dengan tetesan hujan</string>
+	<key>🏳️‍🌈</key>
+	<string>bendera pelangi</string>
+	<key>🇸🇻</key>
+	<string>bendera El Salvador</string>
+	<key>🕴️</key>
+	<string>pria dengan pakaian bisnis melayang</string>
+	<key>⛄️</key>
+	<string>manusia salju</string>
+	<key>🇬🇺</key>
+	<string>bendera Guam</string>
+	<key>🇨🇺</key>
+	<string>bendera Kuba</string>
+	<key>#️⃣</key>
+	<string>tanda nomor</string>
+	<key>🤼‍♂️</key>
+	<string>pria bergulat</string>
+	<key>🌥️</key>
+	<string>matahari di balik awan besar</string>
+	<key>👁️</key>
+	<string>mata</string>
+	<key>🇨🇻</key>
+	<string>bendera Tanjung Verde</string>
+	<key>🍽️</key>
+	<string>garpu dan pisau dengan piring</string>
+	<key>🇰🇼</key>
+	<string>bendera Kuwait</string>
+	<key>🇸🇽</key>
+	<string>bendera Sint Maarten</string>
+	<key>🇬🇼</key>
+	<string>bendera Guinea-Bissau</string>
+	<key>🏕️</key>
+	<string>perkemahan</string>
+	<key>🩰</key>
+	<string>sepatu balet</string>
+	<key>🇨🇼</key>
+	<string>bendera Curacao</string>
+	<key>🩱</key>
+	<string>baju renang terusan</string>
+	<key>🇸🇾</key>
+	<string>bendera Suriah</string>
+	<key>♥️</key>
+	<string>kartu hati</string>
+	<key>🩲</key>
+	<string>celana dalam</string>
+	<key>🕉️</key>
+	<string>simbol om</string>
+	<key>⚽️</key>
+	<string>sepak bola</string>
+	<key>🩳</key>
+	<string>celana pendek</string>
+	<key>🇨🇽</key>
+	<string>bendera Pulau Natal</string>
+	<key>🩴</key>
+	<string>sandal</string>
+	<key>🇰🇾</key>
+	<string>bendera Kepulauan Cayman</string>
+	<key>🇸🇿</key>
+	<string>bendera eSwatini</string>
+	<key>🩵</key>
+	<string>hati biru muda</string>
+	<key>👩‍👧‍👧</key>
+	<string>keluarga dengan ibu dan dua anak perempuan</string>
+	<key>🇬🇾</key>
+	<string>bendera Guyana</string>
+	<key>🩶</key>
+	<string>hati abu-abu</string>
+	<key>🩷</key>
+	<string>hati pink</string>
+	<key>🇨🇾</key>
+	<string>bendera Siprus</string>
+	<key>🇰🇿</key>
+	<string>bendera Kazakhstan</string>
+	<key>🩸</key>
+	<string>tetesan darah</string>
+	<key>🩹</key>
+	<string>plester perban</string>
+	<key>🩺</key>
+	<string>stetoskop</string>
+	<key>🇨🇿</key>
+	<string>bendera Czechia</string>
+	<key>🩻</key>
+	<string>Sinar x</string>
+	<key>🩼</key>
+	<string>penopang</string>
+	<key>🕶️</key>
+	<string>kacamata hitam</string>
+	<key>🧘‍♀️</key>
+	<string>wanita dalam posisi teratai</string>
+	<key>⏯️</key>
+	<string>simbol putar/jeda</string>
+	<key>🪀</key>
+	<string>yoyo</string>
+	<key>🌧️</key>
+	<string>awan dengan hujan</string>
+	<key>🪁</key>
+	<string>layang-layang</string>
+	<key>🪂</key>
+	<string>parasut</string>
+	<key>🧑‍🎤</key>
+	<string>penyanyi</string>
+	<key>🪃</key>
+	<string>bumerang</string>
+	<key>🪄</key>
+	<string>tongkat sihir</string>
+	<key>🏗️</key>
+	<string>konstruksi bangunan</string>
+	<key>🪅</key>
+	<string>piñata</string>
+	<key>🪆</key>
+	<string>matryoshka</string>
+	<key>🚴‍♀️</key>
+	<string>pesepeda wanita</string>
+	<key>🪇</key>
+	<string>marakas</string>
+	<key>🐀</key>
+	<string>tikus</string>
+	<key>🪈</key>
+	<string>suling</string>
+	<key>🐁</key>
+	<string>tikus</string>
+	<key>🐂</key>
+	<string>sapi jantan</string>
+	<key>🐃</key>
+	<string>kerbau</string>
+	<key>🐄</key>
+	<string>sapi</string>
+	<key>🅱️</key>
+	<string>golongan darah B</string>
+	<key>🐅</key>
+	<string>harimau</string>
+	<key>🐆</key>
+	<string>macan tutul</string>
+	<key>🐇</key>
+	<string>kelinci</string>
+	<key>🐈</key>
+	<string>kucing</string>
+	<key>🪐</key>
+	<string>planet</string>
+	<key>♐️</key>
+	<string>Sagitarius</string>
+	<key>🐉</key>
+	<string>naga</string>
+	<key>🪑</key>
+	<string>kursi</string>
+	<key>🕸️</key>
+	<string>jaring laba-laba</string>
+	<key>🐊</key>
+	<string>buaya</string>
+	<key>🪒</key>
+	<string>pisau cukur</string>
+	<key>👩‍🍳</key>
+	<string>koki wanita</string>
+	<key>🐋</key>
+	<string>ikan paus</string>
+	<key>👯‍♀️</key>
+	<string>wanita menari mengenakan telinga kelinci</string>
+	<key>🪓</key>
+	<string>kapak</string>
+	<key>🐌</key>
+	<string>siput</string>
+	<key>🪔</key>
+	<string>lampu diya</string>
+	<key>🐍</key>
+	<string>ular</string>
+	<key>🪕</key>
+	<string>banjo</string>
+	<key>🏄‍♂️</key>
+	<string>peselancar pria</string>
+	<key>🌩️</key>
+	<string>awan dengan halilintar</string>
+	<key>🐎</key>
+	<string>kuda</string>
+	<key>🪖</key>
+	<string>helm militer</string>
+	<key>🐏</key>
+	<string>kambing jantan</string>
+	<key>🪗</key>
+	<string>akordeon</string>
+	<key>🐐</key>
+	<string>kambing</string>
+	<key>🪘</key>
+	<string>drum panjang</string>
+	<key>👨‍🎤</key>
+	<string>penyanyi pria</string>
+	<key>🏙️</key>
+	<string>panorama kota</string>
+	<key>🐑</key>
+	<string>domba</string>
+	<key>🪙</key>
+	<string>koin</string>
+	<key>🐒</key>
+	<string>monyet</string>
+	<key>🪚</key>
+	<string>gergaji tangan</string>
+	<key>♉️</key>
+	<string>Taurus</string>
+	<key>🐓</key>
+	<string>ayam Jago</string>
+	<key>🪛</key>
+	<string>obeng</string>
+	<key>⚡️</key>
+	<string>petir</string>
+	<key>🐔</key>
+	<string>ayam</string>
+	<key>🪜</key>
+	<string>tangga</string>
+	<key>⛹️</key>
+	<string>pemain bola basket</string>
+	<key>🖥️</key>
+	<string>komputer desktop</string>
+	<key>🐕</key>
+	<string>anjing</string>
+	<key>🪝</key>
+	<string>kait</string>
+	<key>🧑‍🎨</key>
+	<string>seniman</string>
+	<key>🐖</key>
+	<string>babi</string>
+	<key>🪞</key>
+	<string>cermin</string>
+	<key>🐗</key>
+	<string>babi hutan</string>
+	<key>🪟</key>
+	<string>jendela</string>
+	<key>🐘</key>
+	<string>gajah</string>
+	<key>🙅‍♀️</key>
+	<string>wanita mengisyaratkan tidak</string>
+	<key>🪠</key>
+	<string>penyedot sumbatan</string>
+	<key>🐙</key>
+	<string>gurita</string>
+	<key>🪡</key>
+	<string>jarum jahit</string>
+	<key>🐚</key>
+	<string>kerang laut</string>
+	<key>🪢</key>
+	<string>simpul</string>
+	<key>🚣‍♀️</key>
+	<string>wanita mendayung perahu</string>
+	<key>🐛</key>
+	<string>serangga</string>
+	<key>🪣</key>
+	<string>ember</string>
+	<key>🐜</key>
+	<string>semut</string>
+	<key>🪤</key>
+	<string>jebakan tikus</string>
+	<key>🐝</key>
+	<string>lebah</string>
+	<key>🪥</key>
+	<string>sikat gigi</string>
+	<key>🐞</key>
+	<string>kepik</string>
+	<key>🪦</key>
+	<string>batu nisan</string>
+	<key>⛲️</key>
+	<string>air mancur</string>
+	<key>🐟</key>
+	<string>ikan</string>
+	<key>🪧</key>
+	<string>tanda</string>
+	<key>🐠</key>
+	<string>ikan tropis</string>
+	<key>🗒️</key>
+	<string>buku catatan spiral</string>
+	<key>🪨</key>
+	<string>batu</string>
+	<key>🐡</key>
+	<string>ikan buntal</string>
+	<key>🪩</key>
+	<string>bola cermin</string>
+	<key>🧖‍♂️</key>
+	<string>pria di sauna</string>
+	<key>🌫️</key>
+	<string>kabut</string>
+	<key>🐢</key>
+	<string>kura-kura</string>
+	<key>🪪</key>
+	<string>kartu identitas</string>
+	<key>🐣</key>
+	<string>anak ayam menetas</string>
+	<key>🪫</key>
+	<string>baterai lemah</string>
+	<key>🐤</key>
+	<string>anak ayam</string>
+	<key>🪬</key>
+	<string>hamsa</string>
+	<key>🐥</key>
+	<string>anak ayam yang sedang berdiri</string>
+	<key>😶‍🌫️</key>
+	<string>wajah di awan</string>
+	<key>🏛️</key>
+	<string>bangunan klasik</string>
+	<key>🪭</key>
+	<string>kipas tangan lipat</string>
+	<key>🐦</key>
+	<string>burung</string>
+	<key>🧛‍♀️</key>
+	<string>vampir wanita</string>
+	<key>🪮</key>
+	<string>sisir rambut</string>
+	<key>🐧</key>
+	<string>penguin</string>
+	<key>🪯</key>
+	<string>simbol khanda</string>
+	<key>🐨</key>
+	<string>wajah koala</string>
+	<key>⚓️</key>
+	<string>jangkar</string>
+	<key>🪰</key>
+	<string>lalat</string>
+	<key>🐩</key>
+	<string>pudel</string>
+	<key>🪱</key>
+	<string>cacing</string>
+	<key>🐪</key>
+	<string>unta</string>
+	<key>🪲</key>
+	<string>kumbang</string>
+	<key>👨‍🎨</key>
+	<string>seniman pria</string>
+	<key>🐫</key>
+	<string>unta dengan dua punuk</string>
+	<key>🪳</key>
+	<string>kecoak</string>
+	<key>🐬</key>
+	<string>lumba-lumba</string>
+	<key>🪴</key>
+	<string>pot tanaman</string>
+	<key>🐭</key>
+	<string>wajah tikus</string>
+	<key>🪵</key>
+	<string>kayu</string>
+	<key>🐮</key>
+	<string>wajah sapi</string>
+	<key>🪶</key>
+	<string>bulu</string>
+	<key>🐯</key>
+	<string>wajah harimau</string>
+	<key>🪷</key>
+	<string>lotus</string>
+	<key>🐕‍🦺</key>
+	<string>anjing pendamping</string>
+	<key>🐰</key>
+	<string>wajah kelinci</string>
+	<key>🪸</key>
+	<string>karang</string>
+	<key>🐱</key>
+	<string>wajah kucing</string>
+	<key>🪹</key>
+	<string>sarang kosong</string>
+	<key>🐲</key>
+	<string>kepala naga</string>
+	<key>🪺</key>
+	<string>sarang dengan telur</string>
+	<key>🐳</key>
+	<string>ikan paus menyembur</string>
+	<key>🪻</key>
+	<string>eceng gondok</string>
+	<key>🐴</key>
+	<string>kepala kuda</string>
+	<key>🪼</key>
+	<string>ubur-ubur</string>
+	<key>🐵</key>
+	<string>wajah monyet</string>
+	<key>🪽</key>
+	<string>sayap</string>
+	<key>🐶</key>
+	<string>wajah anjing</string>
+	<key>🐷</key>
+	<string>wajah babi</string>
+	<key>🪿</key>
+	<string>angsa</string>
+	<key>🐸</key>
+	<string>wajah katak</string>
+	<key>🫀</key>
+	<string>anatomi jantung</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>bendera Inggris</string>
+	<key>🐹</key>
+	<string>wajah hamster</string>
+	<key>🫁</key>
+	<string>paru-paru</string>
+	<key>🐺</key>
+	<string>serigala</string>
+	<key>🏝️</key>
+	<string>pulau terpencil</string>
+	<key>🫂</key>
+	<string>orang berpelukan</string>
+	<key>🐻</key>
+	<string>wajah beruang</string>
+	<key>🏌️‍♂️</key>
+	<string>pemain golf pria</string>
+	<key>🫃</key>
+	<string>pria hamil</string>
+	<key>🐼</key>
+	<string>wajah panda</string>
+	<key>🫄</key>
+	<string>orang hamil</string>
+	<key>6️⃣</key>
+	<string>tombol digit enam</string>
+	<key>🐽</key>
+	<string>hidung babi</string>
+	<key>🫅</key>
+	<string>orang dengan mahkota</string>
+	<key>🐾</key>
+	<string>cetakan kaki hewan</string>
+	<key>👀</key>
+	<string>mata</string>
+	<key>👂</key>
+	<string>telinga</string>
+	<key>👃</key>
+	<string>hidung</string>
+	<key>👄</key>
+	<string>mulut</string>
+	<key>👅</key>
+	<string>lidah</string>
+	<key>☦️</key>
+	<string>Salib Ortodoks</string>
+	<key>👆</key>
+	<string>jari telunjuk tampak belakang mengarah ke atas</string>
+	<key>👩‍🍼</key>
+	<string>wanita menyusui bayi</string>
+	<key>🫎</key>
+	<string>wajah moose</string>
+	<key>♾️</key>
+	<string>tak terhingga</string>
+	<key>👇</key>
+	<string>jari telunjuk tampak belakang mengarah ke bawah</string>
+	<key>🫏</key>
+	<string>keledai</string>
+	<key>👈</key>
+	<string>jari telunjuk tampak belakang mengarah ke kiri</string>
+	<key>🫐</key>
+	<string>bluberi</string>
+	<key>👉</key>
+	<string>jari telunjuk tampak belakang mengarah ke kanan</string>
+	<key>🫑</key>
+	<string>paprika</string>
+	<key>👊</key>
+	<string>kepalan tangan</string>
+	<key>🫒</key>
+	<string>zaitun</string>
+	<key>⭕️</key>
+	<string>tanda lingkaran</string>
+	<key>💁‍♂️</key>
+	<string>pria bagian informasi</string>
+	<key>👋</key>
+	<string>tangan melambai</string>
+	<key>🫓</key>
+	<string>roti pipih</string>
+	<key>👌</key>
+	<string>isyarat tangan OKE</string>
+	<key>🫔</key>
+	<string>tamale</string>
+	<key>👍</key>
+	<string>jempol ke atas</string>
+	<key>🫕</key>
+	<string>fondu</string>
+	<key>👎</key>
+	<string>jempol ke bawah</string>
+	<key>🫖</key>
+	<string>teko teh</string>
+	<key>🏟️</key>
+	<string>stadion</string>
+	<key>👏</key>
+	<string>tepuk tangan</string>
+	<key>🫗</key>
+	<string>cairan dituang</string>
+	<key>💆‍♀️</key>
+	<string>wanita pijat kepala</string>
+	<key>👐</key>
+	<string>dua tangan terbuka</string>
+	<key>🫘</key>
+	<string>kacang</string>
+	<key>🐦‍⬛</key>
+	<string>burung hitam</string>
+	<key>🧑‍🦯</key>
+	<string>orang dengan tongkat putih</string>
+	<key>🫙</key>
+	<string>toples</string>
+	<key>🧙‍♂️</key>
+	<string>penyihir pria</string>
+	<key>👑</key>
+	<string>mahkota</string>
+	<key>⛏️</key>
+	<string>pencungkil</string>
+	<key>👒</key>
+	<string>topi dengan pita</string>
+	<key>🫚</key>
+	<string>akar jahe</string>
+	<key>👓</key>
+	<string>kacamata</string>
+	<key>🫛</key>
+	<string>kacang polong</string>
+	<key>👔</key>
+	<string>kemeja dan dasi</string>
+	<key>👕</key>
+	<string>kaus oblong polo</string>
+	<key>👖</key>
+	<string>jeans</string>
+	<key>🧞‍♀️</key>
+	<string>jin wanita</string>
+	<key>👗</key>
+	<string>gaun</string>
+	<key>↙️</key>
+	<string>panah bawah kiri</string>
+	<key>🧑‍🦰</key>
+	<string>orang dengan rambut merah</string>
+	<key>🕵️‍♂️</key>
+	<string>detektif pria</string>
+	<key>👘</key>
+	<string>kimono</string>
+	<key>🟠</key>
+	<string>lingkaran oranye</string>
+	<key>🫠</key>
+	<string>wajah meleleh</string>
+	<key>🟡</key>
+	<string>lingkaran kuning</string>
+	<key>👩‍❤️‍👨</key>
+	<string>pria dan wanita dengan hati</string>
+	<key>👙</key>
+	<string>bikini</string>
+	<key>◀️</key>
+	<string>segitiga menunjuk ke kiri</string>
+	<key>🫡</key>
+	<string>wajah memberi hormat</string>
+	<key>🟢</key>
+	<string>lingkaran hijau</string>
+	<key>👚</key>
+	<string>blus</string>
+	<key>☘️</key>
+	<string>shamrock</string>
+	<key>🫢</key>
+	<string>wajah dengan mata terbuka dan tangan menutup mulut</string>
+	<key>🚵‍♂️</key>
+	<string>pengendara sepeda gunung pria</string>
+	<key>🟣</key>
+	<string>lingkaran ungu</string>
+	<key>👛</key>
+	<string>dompet</string>
+	<key>🫣</key>
+	<string>wajah dengan mata mengintip</string>
+	<key>🟤</key>
+	<string>lingkaran cokelat</string>
+	<key>👜</key>
+	<string>tas wanita</string>
+	<key>⛈️</key>
+	<string>awan dengan halilintar dan hujan</string>
+	<key>🫤</key>
+	<string>wajah dengan mulut diagonal</string>
+	<key>🟥</key>
+	<string>persegi merah</string>
+	<key>👝</key>
+	<string>tas</string>
+	<key>🫥</key>
+	<string>wajah bergaris putus-putus</string>
+	<key>🟦</key>
+	<string>persegi biru</string>
+	<key>👞</key>
+	<string>sepatu formal</string>
+	<key>🧑‍🦱</key>
+	<string>orang dengan rambut ikal</string>
+	<key>🫦</key>
+	<string>menggigit bibir</string>
+	<key>🟧</key>
+	<string>persegi oranye</string>
+	<key>🦹‍♀️</key>
+	<string>penjahat super wanita</string>
+	<key>👟</key>
+	<string>sepatu tenis</string>
+	<key>🫧</key>
+	<string>gelembung</string>
+	<key>🟨</key>
+	<string>persegi kuning</string>
+	<key>❤️‍🔥</key>
+	<string>hati terbakar</string>
+	<key>👠</key>
+	<string>sepatu berhak tinggi</string>
+	<key>🟩</key>
+	<string>persegi hijau</string>
+	<key>🫨</key>
+	<string>wajah gemetar</string>
+	<key>👡</key>
+	<string>sandal berhak</string>
+	<key>🟪</key>
+	<string>persegi ungu</string>
+	<key>👢</key>
+	<string>bot berhak</string>
+	<key>🟫</key>
+	<string>persegi cokelat</string>
+	<key>👣</key>
+	<string>jejak kaki</string>
+	<key>🛠️</key>
+	<string>palu dan kunci inggris</string>
+	<key>📽️</key>
+	<string>proyektor film</string>
+	<key>👤</key>
+	<string>siluet orang</string>
+	<key>☑️</key>
+	<string>kotak suara dengan centang</string>
+	<key>🧑‍🦲</key>
+	<string>orang tanpa rambut</string>
+	<key>👥</key>
+	<string>siluet dua orang</string>
+	<key>👦</key>
+	<string>anak laki-laki</string>
+	<key>👨‍🦯</key>
+	<string>pria dengan tongkat putih</string>
+	<key>👧</key>
+	<string>anak perempuan</string>
+	<key>👰‍♂️</key>
+	<string>pria dengan penutup kepala</string>
+	<key>👩‍🚀</key>
+	<string>astronot wanita</string>
+	<key>🟰</key>
+	<string>tanda sama dengan</string>
+	<key>🏴‍☠️</key>
+	<string>bendera perompak</string>
+	<key>👨</key>
+	<string>pria</string>
+	<key>🫰</key>
+	<string>tangan dengan jari telunjuk dan jempol disilangkan</string>
+	<key>⏺️</key>
+	<string>simbol rekam</string>
+	<key>👩</key>
+	<string>wanita</string>
+	<key>🫱</key>
+	<string>tangan ke kanan</string>
+	<key>👪</key>
+	<string>keluarga</string>
+	<key>🫲</key>
+	<string>tangan ke kiri</string>
+	<key>👫</key>
+	<string>pria dan wanita berpegangan tangan</string>
+	<key>🫳</key>
+	<string>tangan dengan telapak ke bawah</string>
+	<key>🧑‍🦳</key>
+	<string>orang dengan rambut putih</string>
+	<key>👬</key>
+	<string>dua pria berpegangan tangan</string>
+	<key>🫴</key>
+	<string>tangan dengan telapak ke atas</string>
+	<key>👭</key>
+	<string>dua wanita berpegangan tangan</string>
+	<key>👨‍🦰</key>
+	<string>pria dengan rambut merah</string>
+	<key>🫵</key>
+	<string>jari telunjuk menunjuk ke penonton</string>
+	<key>👮</key>
+	<string>polisi</string>
+	<key>🏊‍♂️</key>
+	<string>perenang pria</string>
+	<key>🫶</key>
+	<string>tangan membentuk hati</string>
+	<key>👯</key>
+	<string>orang menari mengenakan telinga kelinci</string>
+	<key>🫷</key>
+	<string>tangan mendorong ke kiri</string>
+	<key>👰</key>
+	<string>orang dengan penutup kepala</string>
+	<key>🫸</key>
+	<string>tangan mendorong ke kanan</string>
+	<key>👱</key>
+	<string>orang dengan rambut pirang</string>
+	<key>✒️</key>
+	<string>pena</string>
+	<key>👲</key>
+	<string>pria dengan topi Tionghoa</string>
+	<key>🧍‍♀️</key>
+	<string>wanita berdiri</string>
+	<key>👳</key>
+	<string>orang berserban</string>
+	<key>👨‍🦱</key>
+	<string>pria dengan rambut ikal</string>
+	<key>👴</key>
+	<string>pria tua</string>
+	<key>🙆‍♂️</key>
+	<string>pria mengisyaratkan OKE</string>
+	<key>👵</key>
+	<string>wanita tua</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>keluarga dengan ibu, ayah, anak laki-laki dan anak perempuan</string>
+	<key>👶</key>
+	<string>bayi</string>
+	<key>👷</key>
+	<string>pekerja konstruksi</string>
+	<key>▫️</key>
+	<string>persegi putih kecil</string>
+	<key>👸</key>
+	<string>putri</string>
+	<key>🛢️</key>
+	<string>drum minyak</string>
+	<key>☃️</key>
+	<string>manusia salju dengan kepingan salju</string>
+	<key>👹</key>
+	<string>raksasa</string>
+	<key>🙋‍♀️</key>
+	<string>wanita mengangkat satu tangan</string>
+	<key>👺</key>
+	<string>jin</string>
+	<key>👨‍🦲</key>
+	<string>pria tak berambut</string>
+	<key>🇹🇦</key>
+	<string>bendera Tristan da Cunha</string>
+	<key>👻</key>
+	<string>hantu</string>
+	<key>🇵🇦</key>
+	<string>bendera Panama</string>
+	<key>👼</key>
+	<string>bayi malaikat</string>
+	<key>❣️</key>
+	<string>hati merah sebagai tanda seru</string>
+	<key>👽</key>
+	<string>alien</string>
+	<key>🇱🇦</key>
+	<string>bendera Laos</string>
+	<key>👾</key>
+	<string>monster alien</string>
+	<key>👿</key>
+	<string>wajah marah dengan tanduk</string>
+	<key>💀</key>
+	<string>tengkorak</string>
+	<key>🇱🇧</key>
+	<string>bendera Lebanon</string>
+	<key>👨‍🦳</key>
+	<string>pria dengan rambut putih</string>
+	<key>💁</key>
+	<string>petugas bagian informasi</string>
+	<key>🇹🇨</key>
+	<string>bendera Kepulauan Turks &amp; Caicos</string>
+	<key>🧜‍♂️</key>
+	<string>manusia duyung pria</string>
+	<key>💂</key>
+	<string>penjaga</string>
+	<key>💃</key>
+	<string>wanita menari</string>
+	<key>◼️</key>
+	<string>persegi hitam medium</string>
+	<key>🇱🇨</key>
+	<string>bendera Saint Lucia</string>
+	<key>💄</key>
+	<string>lipstik</string>
+	<key>🇹🇩</key>
+	<string>bendera Chad</string>
+	<key>💅</key>
+	<string>poles kuku</string>
+	<key>💆</key>
+	<string>orang pijat kepala</string>
+	<key>💇</key>
+	<string>orang dicukur</string>
+	<key>🗜️</key>
+	<string>apit</string>
+	<key>💈</key>
+	<string>lampu tukang cukur</string>
+	<key>💉</key>
+	<string>alat suntik</string>
+	<key>🇵🇪</key>
+	<string>bendera Peru</string>
+	<key>💊</key>
+	<string>pil</string>
+	<key>💋</key>
+	<string>tanda cium</string>
+	<key>🇹🇫</key>
+	<string>bendera Wilayah Selatan Prancis</string>
+	<key>💌</key>
+	<string>surat cinta</string>
+	<key>👩‍❤️‍👩</key>
+	<string>dua wanita dengan hati</string>
+	<key>🇵🇫</key>
+	<string>bendera Polinesia Prancis</string>
+	<key>🛤️</key>
+	<string>rel kereta api</string>
+	<key>💍</key>
+	<string>cincin</string>
+	<key>🆎</key>
+	<string>golongan darah AB</string>
+	<key>🇩🇪</key>
+	<string>bendera Jerman</string>
+	<key>🈂️</key>
+	<string>Arti tanda bahasa Jepang untuk “layanan” atau “biaya layanan”</string>
+	<key>💎</key>
+	<string>batu permata</string>
+	<key>♍️</key>
+	<string>Virgo</string>
+	<key>🇹🇬</key>
+	<string>bendera Togo</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>dua wanita berciuman</string>
+	<key>💏</key>
+	<string>pasangan berciuman</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>orang berpegangan tangan</string>
+	<key>💐</key>
+	<string>buket</string>
+	<key>⛽️</key>
+	<string>pom bensin</string>
+	<key>🇵🇬</key>
+	<string>bendera Papua Nugini</string>
+	<key>🖱️</key>
+	<string>tetikus komputer</string>
+	<key>🆑</key>
+	<string>Tanda CL</string>
+	<key>💑</key>
+	<string>pasangan dengan hati</string>
+	<key>🆒</key>
+	<string>tanda keren</string>
+	<key>🇹🇭</key>
+	<string>bendera Thailand</string>
+	<key>💒</key>
+	<string>pernikahan</string>
+	<key>🆓</key>
+	<string>tanda bebas</string>
+	<key>💓</key>
+	<string>hati berdebar</string>
+	<key>🆔</key>
+	<string>tanda identifikasi</string>
+	<key>🇵🇭</key>
+	<string>bendera Filipina</string>
+	<key>👩‍⚖️</key>
+	<string>hakim wanita</string>
+	<key>💔</key>
+	<string>patah hati</string>
+	<key>🇩🇬</key>
+	<string>bendera Diego Garcia</string>
+	<key>🆕</key>
+	<string>tanda baru</string>
+	<key>🅿️</key>
+	<string>tanda parkir</string>
+	<key>💕</key>
+	<string>dua hati</string>
+	<key>🤹‍♀️</key>
+	<string>wanita melempar</string>
+	<key>🆖</key>
+	<string>tanda tidak bagus</string>
+	<key>💖</key>
+	<string>hati berkilau</string>
+	<key>🆗</key>
+	<string>tanda OKE</string>
+	<key>💗</key>
+	<string>hati mengembang</string>
+	<key>👳‍♂️</key>
+	<string>pria berserban</string>
+	<key>🆘</key>
+	<string>Tanda SOS</string>
+	<key>💘</key>
+	<string>hati dengan panah</string>
+	<key>🇱🇮</key>
+	<string>bendera Liechtenstein</string>
+	<key>🆙</key>
+	<string>tanda atas</string>
+	<key>🈯️</key>
+	<string>Arti tanda Bahasa Jepang untuk “dipesan”</string>
+	<key>🇹🇯</key>
+	<string>bendera Tajikistan</string>
+	<key>💙</key>
+	<string>hati biru</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>keluarga dengan dua ayah dan dua anak laki-laki</string>
+	<key>🆚</key>
+	<string>vs dalam kotak</string>
+	<key>💚</key>
+	<string>hati hijau</string>
+	<key>🇽🇰</key>
+	<string>bendera Kosovo</string>
+	<key>💛</key>
+	<string>hati kuning</string>
+	<key>🗞️</key>
+	<string>gulungan koran</string>
+	<key>💜</key>
+	<string>hati ungu</string>
+	<key>🇹🇰</key>
+	<string>bendera Tokelau</string>
+	<key>💝</key>
+	<string>hati berpita</string>
+	<key>🇵🇰</key>
+	<string>bendera Pakistan</string>
+	<key>💞</key>
+	<string>hati berputar</string>
+	<key>🇩🇯</key>
+	<string>bendera Jibuti</string>
+	<key>💟</key>
+	<string>dekorasi hati</string>
+	<key>🇱🇰</key>
+	<string>bendera Sri Lanka</string>
+	<key>🇹🇱</key>
+	<string>bendera Timor-Leste</string>
+	<key>👩‍🤝‍👨</key>
+	<string>wanita dan pria berpegangan tangan</string>
+	<key>💠</key>
+	<string>bentuk wajik dengan titik di dalamnya</string>
+	<key>🇭🇰</key>
+	<string>bendera Hong Kong</string>
+	<key>💡</key>
+	<string>bola lampu</string>
+	<key>🇵🇱</key>
+	<string>bendera Polandia</string>
+	<key>🇩🇰</key>
+	<string>bendera Denmark</string>
+	<key>💢</key>
+	<string>simbol marah</string>
+	<key>🇹🇲</key>
+	<string>bendera Turkmenistan</string>
+	<key>💣</key>
+	<string>bom</string>
+	<key>⚗️</key>
+	<string>alembic</string>
+	<key>💤</key>
+	<string>tanda tidur</string>
+	<key>🇵🇲</key>
+	<string>bendera Saint Pierre &amp; Miquelon</string>
+	<key>💥</key>
+	<string>ledakan</string>
+	<key>❇️</key>
+	<string>berkilau</string>
+	<key>💦</key>
+	<string>butiran air</string>
+	<key>🇹🇳</key>
+	<string>bendera Tunisia</string>
+	<key>🧑‍🦼</key>
+	<string>orang berkursi roda listrik</string>
+	<key>💧</key>
+	<string>titik kecil</string>
+	<key>🇭🇲</key>
+	<string>bendera Kepulauan Heard dan McDonald</string>
+	<key>🇵🇳</key>
+	<string>bendera Pitcairn</string>
+	<key>💨</key>
+	<string>embusan angin</string>
+	<key>🇩🇲</key>
+	<string>bendera Dominika</string>
+	<key>💩</key>
+	<string>tumpukan kotoran</string>
+	<key>🙎‍♀️</key>
+	<string>wanita merengus</string>
+	<key>🇹🇴</key>
+	<string>bendera Tonga</string>
+	<key>💪</key>
+	<string>bisep tertekuk</string>
+	<key>🇭🇳</key>
+	<string>bendera Honduras</string>
+	<key>👩‍👦</key>
+	<string>keluarga dengan ibu dan anak laki-laki</string>
+	<key>💫</key>
+	<string>simbol pusing</string>
+	<key>💇‍♂️</key>
+	<string>pria dicukur</string>
+	<key>💬</key>
+	<string>balon ucapan</string>
+	<key>☸️</key>
+	<string>roda darma</string>
+	<key>💭</key>
+	<string>balon pikiran</string>
+	<key>🧑‍🦽</key>
+	<string>orang berkursi roda manual</string>
+	<key>💮</key>
+	<string>bunga putih</string>
+	<key>💯</key>
+	<string>simbol seratus poin</string>
+	<key>🇩🇴</key>
+	<string>bendera Republik Dominika</string>
+	<key>💰</key>
+	<string>kantong uang</string>
+	<key>💱</key>
+	<string>penukaran mata uang</string>
+	<key>😵‍💫</key>
+	<string>wajah dengan mata spiral</string>
+	<key>👩‍👧</key>
+	<string>keluarga dengan ibu dan anak perempuan</string>
+	<key>🧟‍♂️</key>
+	<string>zombi pria</string>
+	<key>💲</key>
+	<string>tanda dolar</string>
+	<key>💳</key>
+	<string>kartu kredit</string>
+	<key>🇹🇷</key>
+	<string>bendera Turki</string>
+	<key>💴</key>
+	<string>uang kertas yen</string>
+	<key>💵</key>
+	<string>uang kertas dolar</string>
+	<key>🇵🇷</key>
+	<string>bendera Puerto Riko</string>
+	<key>💶</key>
+	<string>uang kertas euro</string>
+	<key>🇱🇷</key>
+	<string>bendera Liberia</string>
+	<key>💷</key>
+	<string>uang kertas pound</string>
+	<key>💸</key>
+	<string>uang bersayap</string>
+	<key>🇭🇷</key>
+	<string>bendera Kroasia</string>
+	<key>🇵🇸</key>
+	<string>bendera Wilayah Palestina</string>
+	<key>💹</key>
+	<string>bagan dengan tren ke atas dan tanda yen</string>
+	<key>💺</key>
+	<string>kursi</string>
+	<key>🇱🇸</key>
+	<string>bendera Lesotho</string>
+	<key>🇹🇹</key>
+	<string>bendera Trinidad &amp; Tobago</string>
+	<key>💻</key>
+	<string>laptop</string>
+	<key>💼</key>
+	<string>tas kantor</string>
+	<key>👨‍🦼</key>
+	<string>pria berkursi roda listrik</string>
+	<key>🇵🇹</key>
+	<string>bendera Portugal</string>
+	<key>💽</key>
+	<string>disk mini</string>
+	<key>🇱🇹</key>
+	<string>bendera Lithuania</string>
+	<key>💾</key>
+	<string>floppy disk</string>
+	<key>🇭🇹</key>
+	<string>bendera Haiti</string>
+	<key>💿</key>
+	<string>cd</string>
+	<key>📀</key>
+	<string>dvd</string>
+	<key>🤷‍♂️</key>
+	<string>pria mengangkat bahu</string>
+	<key>📁</key>
+	<string>folder file tertutup</string>
+	<key>🇱🇺</key>
+	<string>bendera Luksemburg</string>
+	<key>☪️</key>
+	<string>bintang dan bulan sabit</string>
+	<key>🇹🇻</key>
+	<string>bendera Tuvalu</string>
+	<key>📂</key>
+	<string>buka folder file</string>
+	<key>4️⃣</key>
+	<string>tombol digit empat</string>
+	<key>🇭🇺</key>
+	<string>bendera Hungaria</string>
+	<key>👨‍🦽</key>
+	<string>pria berkursi roda manual</string>
+	<key>📃</key>
+	<string>halaman yang digulung</string>
+	<key>🖊️</key>
+	<string>pulpen</string>
+	<key>📄</key>
+	<string>halaman menghadap ke atas</string>
+	<key>🇱🇻</key>
+	<string>bendera Latvia</string>
+	<key>🇹🇼</key>
+	<string>bendera Taiwan</string>
+	<key>📅</key>
+	<string>kalender</string>
+	<key>🤼‍♀️</key>
+	<string>wanita bergulat</string>
+	<key>📆</key>
+	<string>kalender sobek</string>
+	<key>🇵🇼</key>
+	<string>bendera Palau</string>
+	<key>📇</key>
+	<string>indeks kartu</string>
+	<key>📈</key>
+	<string>bagan dengan tren ke atas</string>
+	<key>🧑‍🔧</key>
+	<string>montir</string>
+	<key>📉</key>
+	<string>bagan dengan tren ke bawah</string>
+	<key>〰️</key>
+	<string>tanda hubung bergelombang</string>
+	<key>📊</key>
+	<string>diagram batang</string>
+	<key>📋</key>
+	<string>papan klip</string>
+	<key>☣️</key>
+	<string>bahaya</string>
+	<key>📌</key>
+	<string>pushpin</string>
+	<key>♻️</key>
+	<string>simbol daur ulang</string>
+	<key>📍</key>
+	<string>pushpin bulat</string>
+	<key>🇵🇾</key>
+	<string>bendera Paraguay</string>
+	<key>⛓️</key>
+	<string>rantai</string>
+	<key>📎</key>
+	<string>klip kertas</string>
+	<key>🧎‍♂️</key>
+	<string>pria berlutut</string>
+	<key>🇱🇾</key>
+	<string>bendera Libya</string>
+	<key>📏</key>
+	<string>penggaris lurus</string>
+	<key>🇹🇿</key>
+	<string>bendera Tanzania</string>
+	<key>📐</key>
+	<string>penggaris segitiga</string>
+	<key>📑</key>
+	<string>tab penanda</string>
+	<key>📒</key>
+	<string>buku besar</string>
+	<key>📓</key>
+	<string>buku tulis yang disusun</string>
+	<key>👩‍🤝‍👩</key>
+	<string>wanita berpegangan tangan</string>
+	<key>📔</key>
+	<string>buku catatan dengan sampul dekoratif</string>
+	<key>🇩🇿</key>
+	<string>bendera Aljazair</string>
+	<key>📕</key>
+	<string>buku teks berwarna merah</string>
+	<key>📖</key>
+	<string>buku terbuka</string>
+	<key>📗</key>
+	<string>buku teks berwarna hijau</string>
+	<key>🖌️</key>
+	<string>kuas cat</string>
+	<key>📘</key>
+	<string>buku teks berwarna biru</string>
+	<key>📙</key>
+	<string>buku teks berwarna oranye</string>
+	<key>👩‍👩‍👦</key>
+	<string>keluarga dengan dua ibu dan anak laki-laki</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>keluarga dengan dua ayah dan dua anak perempuan</string>
+	<key>📚</key>
+	<string>buku</string>
+	<key>📛</key>
+	<string>lencana nama</string>
+	<key>📜</key>
+	<string>gulungan</string>
+	<key>📝</key>
+	<string>memo</string>
+	<key>↖️</key>
+	<string>panah atas kiri</string>
+	<key>🤦‍♂️</key>
+	<string>pria tepuk jidat</string>
+	<key>📞</key>
+	<string>penerima telepon</string>
+	<key>👩‍🎓</key>
+	<string>murid wanita</string>
+	<key>👩‍🚒</key>
+	<string>pemadam kebakaran wanita</string>
+	<key>⤴️</key>
+	<string>panah kanan melengkung ke atas</string>
+	<key>👨‍🔧</key>
+	<string>montir pria</string>
+	<key>📟</key>
+	<string>pager</string>
+	<key>☕️</key>
+	<string>minuman hangat</string>
+	<key>📠</key>
+	<string>faks</string>
+	<key>📡</key>
+	<string>antena satelit</string>
+	<key>⛅️</key>
+	<string>matahari di balik awan</string>
+	<key>📢</key>
+	<string>pengeras suara umum</string>
+	<key>🧑‍🌾</key>
+	<string>petani</string>
+	<key>✝️</key>
+	<string>Salib latin</string>
+	<key>📣</key>
+	<string>megafon penyemangat</string>
+	<key>📤</key>
+	<string>baki outbox</string>
+	<key>📥</key>
+	<string>baki inbox</string>
+	<key>📦</key>
+	<string>paket</string>
+	<key>📧</key>
+	<string>email</string>
+	<key>📨</key>
+	<string>amplop masuk</string>
+	<key>📩</key>
+	<string>amplop dengan panah</string>
+	<key>▶️</key>
+	<string>segitiga menunjuk ke kanan</string>
+	<key>🧑‍🔬</key>
+	<string>ilmuwan</string>
+	<key>📪</key>
+	<string>kotak surat tertutup dengan bendera turun</string>
+	<key>☎️</key>
+	<string>telepon</string>
+	<key>🈷️</key>
+	<string>Arti tanda Bahasa Jepang untuk “jumlah bulanan”</string>
+	<key>♦️</key>
+	<string>kartu wajik</string>
+	<key>📫</key>
+	<string>kotak surat tertutup dengan bendera naik</string>
+	<key>📬</key>
+	<string>kotak surat terbuka dengan bendera naik</string>
+	<key>⚾️</key>
+	<string>bisbol</string>
+	<key>📭</key>
+	<string>kotak surat terbuka dengan bendera turun</string>
+	<key>✖️</key>
+	<string>simbol perkalian</string>
+	<key>📮</key>
+	<string>kotak surat</string>
+	<key>📯</key>
+	<string>posting tanduk</string>
+	<key>🏄‍♀️</key>
+	<string>peselancar wanita</string>
+	<key>📰</key>
+	<string>koran</string>
+	<key>📱</key>
+	<string>telepon genggam</string>
+	<key>🎗️</key>
+	<string>pita pengingat</string>
+	<key>📲</key>
+	<string>telepon dengan panah</string>
+	<key>📳</key>
+	<string>mode getaran</string>
+	<key>📴</key>
+	<string>telepon genggam mati</string>
+	<key>📵</key>
+	<string>dilarang menggunakan telepon genggam</string>
+	<key>♟️</key>
+	<string>bidak catur</string>
+	<key>📶</key>
+	<string>bar sinyal seluler</string>
+	<key>📷</key>
+	<string>kamera</string>
+	<key>✏️</key>
+	<string>pensil</string>
+	<key>📸</key>
+	<string>kamera dengan kilat</string>
+	<key>👨‍🌾</key>
+	<string>petani pria</string>
+	<key>📹</key>
+	<string>kamera video</string>
+	<key>📺</key>
+	<string>televisi</string>
+	<key>🐻‍❄️</key>
+	<string>beruang kutub</string>
+	<key>📻</key>
+	<string>radio</string>
+	<key>📼</key>
+	<string>kaset video</string>
+	<key>☀️</key>
+	<string>matahari</string>
+	<key>📿</key>
+	<string>tasbih</string>
+	<key>👨‍🔬</key>
+	<string>ilmuwan pria</string>
+	<key>🔀</key>
+	<string>simbol acak track</string>
+	<key>🈁</key>
+	<string>Arti tanda Bahasa Jepang untuk “di sini”</string>
+	<key>⚰️</key>
+	<string>peti</string>
+	<key>🔁</key>
+	<string>simbol ulangi</string>
+	<key>🖐️</key>
+	<string>tangan diangkat dengan jari terentang</string>
+	<key>✈️</key>
+	<string>pesawat</string>
+	<key>🔂</key>
+	<string>simbol ulangi satu track</string>
+	<key>🗨️</key>
+	<string>gelembung ucapan kiri</string>
+	<key>🔃</key>
+	<string>panah vertikal searah jarum jam</string>
+	<key>🧖‍♀️</key>
+	<string>wanita di sauna</string>
+	<key>🔄</key>
+	<string>panah berlawanan jarum jam</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>keluarga dengan dua ibu dan dua anak laki-laki</string>
+	<key>👩‍⚕️</key>
+	<string>pekerja kesehatan wanita</string>
+	<key>™️</key>
+	<string>tanda merek dagang</string>
+	<key>🔅</key>
+	<string>simbol tingkat kecerahan rendah</string>
+	<key>🔆</key>
+	<string>simbol tingkat kecerahan tinggi</string>
+	<key>🎙️</key>
+	<string>mikrofon studio</string>
+	<key>🔇</key>
+	<string>speaker yang dibisukan</string>
+	<key>🔈</key>
+	<string>speaker</string>
+	<key>🛰️</key>
+	<string>satelit</string>
+	<key>🔉</key>
+	<string>speaker dengan volume sedang</string>
+	<key>♑️</key>
+	<string>Capricorn</string>
+	<key>🔊</key>
+	<string>speaker dengan volume tinggi</string>
+	<key>🔋</key>
+	<string>baterai</string>
+	<key>🔌</key>
+	<string>steker listrik</string>
+	<key>👩‍👩‍👧</key>
+	<string>keluarga dengan dua ibu dan anak perempuan</string>
+	<key>🔍</key>
+	<string>kaca pembesar mengarah ke kiri</string>
+	<key>🔎</key>
+	<string>kaca pembesar mengarah ke kanan</string>
+	<key>🔏</key>
+	<string>gembok dengan pena</string>
+	<key>🔐</key>
+	<string>gembok tertutup dengan kunci</string>
+	<key>🔑</key>
+	<string>kunci</string>
+	<key>🔒</key>
+	<string>gembok terkunci</string>
+	<key>🔓</key>
+	<string>gembok terbuka</string>
+	<key>♊️</key>
+	<string>Gemini</string>
+	<key>🔔</key>
+	<string>lonceng</string>
+	<key>🔕</key>
+	<string>lonceng yang dibisukan</string>
+	<key>⛺️</key>
+	<string>tenda</string>
+	<key>🔖</key>
+	<string>penanda</string>
+	<key>🔗</key>
+	<string>simbol mata rantai</string>
+	<key>🔘</key>
+	<string>tombol radio</string>
+	<key>🔙</key>
+	<string>panah back</string>
+	<key>🔚</key>
+	<string>panah end</string>
+	<key>🔛</key>
+	<string>panah on!</string>
+	<key>🎛️</key>
+	<string>kenop kontrol</string>
+	<key>🔜</key>
+	<string>panah soon</string>
+	<key>🏳️</key>
+	<string>bendera putih</string>
+	<key>🔝</key>
+	<string>panah top</string>
+	<key>🔞</key>
+	<string>dilarang untuk usia delapan belas tahun ke bawah</string>
+	<key>🔟</key>
+	<string>tombol bernomor sepuluh</string>
+	<key>⚛️</key>
+	<string>simbol atom</string>
+	<key>🔠</key>
+	<string>simbol input untuk huruf besar</string>
+	<key>⛳️</key>
+	<string>lubang golf dengan bendera</string>
+	<key>🔡</key>
+	<string>simbol input untuk huruf kecil</string>
+	<key>🤽‍♂️</key>
+	<string>pria bermain polo air</string>
+	<key>🔢</key>
+	<string>simbol input untuk angka</string>
+	<key>🔣</key>
+	<string>simbol input untuk simbol</string>
+	<key>🔤</key>
+	<string>simbol input untuk huruf</string>
+	<key>🔥</key>
+	<string>api</string>
+	<key>🔦</key>
+	<string>senter</string>
+	<key>🔧</key>
+	<string>kunci inggris</string>
+	<key>🔨</key>
+	<string>palu</string>
+	<key>🔩</key>
+	<string>mur dan baut</string>
+	<key>⚔️</key>
+	<string>pedang menyilang</string>
+	<key>🔪</key>
+	<string>pisau</string>
+	<key>🔫</key>
+	<string>pistol air</string>
+	<key>❄️</key>
+	<string>kepingan salju</string>
+	<key>🔬</key>
+	<string>mikroskop</string>
+	<key>💁‍♀️</key>
+	<string>wanita bagian informasi</string>
+	<key>🔭</key>
+	<string>teleskop</string>
+	<key>🔮</key>
+	<string>bola kristal</string>
+	<key>🧔‍♂️</key>
+	<string>pria berjenggot</string>
+	<key>🔯</key>
+	<string>bintang enam titik dengan titik tengah</string>
+	<key>🔰</key>
+	<string>Simbol Jepang untuk pemula</string>
+	<key>🔱</key>
+	<string>lambang trisula</string>
+	<key>🈲</key>
+	<string>Arti tanda Bahasa Jepang untuk “dilarang”</string>
+	<key>🏵️</key>
+	<string>hiasan mawar</string>
+	<key>🔲</key>
+	<string>tombol persegi hitam</string>
+	<key>🈳</key>
+	<string>Arti tanda bahasa Jepang untuk “lowongan”</string>
+	<key>🔳</key>
+	<string>tombol persegi putih</string>
+	<key>🈴</key>
+	<string>Arti tanda Bahasa Jepang untuk “lulus (nilai)”</string>
+	<key>🧙‍♀️</key>
+	<string>penyihir wanita</string>
+	<key>🔴</key>
+	<string>lingkaran merah</string>
+	<key>🈵</key>
+	<string>Arti tanda Bahasa Jepang untuk “penuh; tidak ada lowongan”</string>
+	<key>🔵</key>
+	<string>lingkaran biru</string>
+	<key>🈶</key>
+	<string>Arti tanda Bahasa Jepang untuk “tidak gratis”</string>
+	<key>🔶</key>
+	<string>wajik oranye besar</string>
+	<key>🔷</key>
+	<string>wajik biru besar</string>
+	<key>🈸</key>
+	<string>Arti tanda Bahasa Jepang untuk “aplikasi”</string>
+	<key>🔸</key>
+	<string>wajik oranye kecil</string>
+	<key>🈹</key>
+	<string>Arti tanda Bahasa Jepang untuk “diskon”</string>
+	<key>🔹</key>
+	<string>wajik biru kecil</string>
+	<key>9️⃣</key>
+	<string>tombol digit sembilan</string>
+	<key>🈺</key>
+	<string>Arti tanda Bahasa Jepang untuk “buka”</string>
+	<key>🔺</key>
+	<string>segitiga merah mengarah ke atas</string>
+	<key>🔻</key>
+	<string>segitiga merah mengarah ke bawah</string>
+	<key>🀄️</key>
+	<string>ubin mahjong naga merah</string>
+	<key>🔼</key>
+	<string>segitiga menunjuk ke atas</string>
+	<key>🚵‍♀️</key>
+	<string>pengendara sepeda gunung wanita</string>
+	<key>☮️</key>
+	<string>simbol damai</string>
+	<key>🔽</key>
+	<string>segitiga menunjuk ke bawah</string>
+	<key>👨‍👦‍👦</key>
+	<string>keluarga dengan ayah dan dua anak laki-laki</string>
+	<key>⬅️</key>
+	<string>panah kiri</string>
+	<key>⛎</key>
+	<string>Ophiuchus</string>
+	<key>🎟️</key>
+	<string>tiket masuk</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>keluarga dengan dua ibu dan dua anak perempuan</string>
+	<key>🏷️</key>
+	<string>label</string>
+	<key>2️⃣</key>
+	<string>tombol digit dua</string>
+	<key>♿️</key>
+	<string>simbol kursi roda</string>
+	<key>👰‍♀️</key>
+	<string>wanita dengan penutup kepala</string>
+	<key>🗃️</key>
+	<string>kardus berkas</string>
+	<key>🕋</key>
+	<string>Kakbah</string>
+	<key>🕌</key>
+	<string>masjid</string>
+	<key>🕍</key>
+	<string>sinagoga</string>
+	<key>🕎</key>
+	<string>menorah</string>
+	<key>👩‍🎤</key>
+	<string>penyanyi wanita</string>
+	<key>🉐</key>
+	<string>Arti tanda Bahasa Jepang untuk “tawar”</string>
+	<key>🏌️</key>
+	<string>pemain golf</string>
+	<key>🛋️</key>
+	<string>sofa dan lampu</string>
+	<key>🕐</key>
+	<string>pukul satu</string>
+	<key>🏊‍♀️</key>
+	<string>perenang wanita</string>
+	<key>🉑</key>
+	<string>Arti tanda Bahasa Jepang untuk “berterima”</string>
+	<key>☠️</key>
+	<string>tengkorak dan tulang menyilang</string>
+	<key>🕑</key>
+	<string>pukul dua</string>
+	<key>🕒</key>
+	<string>pukul tiga</string>
+	<key>🏋️‍♀️</key>
+	<string>atlet angkat beban wanita</string>
+	<key>🕓</key>
+	<string>pukul empat</string>
+	<key>🕔</key>
+	<string>pukul lima</string>
+	<key>🕕</key>
+	<string>pukul enam</string>
+	<key>🕖</key>
+	<string>pukul tujuh</string>
+	<key>🙆‍♀️</key>
+	<string>wanita mengisyaratkan OKE</string>
+	<key>🕗</key>
+	<string>pukul delapan</string>
+	<key>🕘</key>
+	<string>pukul sembilan</string>
+	<key>🕙</key>
+	<string>pukul sepuluh</string>
+	<key>🕚</key>
+	<string>pukul sebelas</string>
+	<key>🕛</key>
+	<string>pukul dua belas</string>
+	<key>🕜</key>
+	<string>pukul setengah dua</string>
+	<key>🇺🇦</key>
+	<string>bendera Ukraina</string>
+	<key>🕝</key>
+	<string>pukul setengah tiga</string>
+	<key>🇶🇦</key>
+	<string>bendera Qatar</string>
+	<key>🕞</key>
+	<string>pukul setengah empat</string>
+	<key>✡️</key>
+	<string>Bintang Daud</string>
+	<key>🇲🇦</key>
+	<string>bendera Maroko</string>
+	<key>🕟</key>
+	<string>pukul setengah lima</string>
+	<key>🧗‍♂️</key>
+	<string>pemanjat tebing pria</string>
+	<key>🕠</key>
+	<string>pukul setengah enam</string>
+	<key>🕡</key>
+	<string>pukul setengah tujuh</string>
+	<key>🇪🇦</key>
+	<string>bendera Ceuta dan Melilla</string>
+	<key>🕢</key>
+	<string>pukul setengah delapan</string>
+	<key>✅</key>
+	<string>simbol tanda centang</string>
+	<key>🕣</key>
+	<string>pukul setengah sembilan</string>
+	<key>🧜‍♀️</key>
+	<string>manusia duyung wanita</string>
+	<key>🏎️</key>
+	<string>mobil balap</string>
+	<key>🕤</key>
+	<string>pukul setengah sepuluh</string>
+	<key>🛍️</key>
+	<string>tas belanja</string>
+	<key>🕥</key>
+	<string>pukul setengah sebelas</string>
+	<key>✊</key>
+	<string>kepalan tangan ke atas</string>
+	<key>🇲🇨</key>
+	<string>bendera Monako</string>
+	<key>✋</key>
+	<string>tangan diangkat</string>
+	<key>🕦</key>
+	<string>pukul setengah dua belas</string>
+	<key>🕧</key>
+	<string>pukul setengah satu</string>
+	<key>🇮🇨</key>
+	<string>bendera Kepulauan Canaria</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>bendera Wales</string>
+	<key>🇾🇪</key>
+	<string>bendera Yemen</string>
+	<key>🇪🇨</key>
+	<string>bendera Ekuador</string>
+	<key>👩‍🎨</key>
+	<string>seniman wanita</string>
+	<key>🇲🇩</key>
+	<string>bendera Moldova</string>
+	<key>🇦🇨</key>
+	<string>bendera Pulau Ascension</string>
+	<key>🇮🇩</key>
+	<string>bendera Indonesia</string>
+	<key>🇲🇪</key>
+	<string>bendera Montenegro</string>
+	<key>🇦🇩</key>
+	<string>bendera Andorra</string>
+	<key>🇮🇪</key>
+	<string>bendera Irlandia</string>
+	<key>🇪🇪</key>
+	<string>bendera Estonia</string>
+	<key>🇲🇫</key>
+	<string>bendera Saint Martin</string>
+	<key>🇺🇬</key>
+	<string>bendera Uganda</string>
+	<key>♣️</key>
+	<string>kartu keriting</string>
+	<key>🇦🇪</key>
+	<string>bendera Uni Emirat Arab</string>
+	<key>🕯️</key>
+	<string>lilin</string>
+	<key>🇲🇬</key>
+	<string>bendera Madagaskar</string>
+	<key>🇦🇫</key>
+	<string>bendera Afganistan</string>
+	<key>👮‍♂️</key>
+	<string>polisi</string>
+	<key>🇪🇬</key>
+	<string>bendera Mesir</string>
+	<key>🇲🇭</key>
+	<string>bendera Kepulauan Marshall</string>
+	<key>✨</key>
+	<string>kilau</string>
+	<key>🇦🇬</key>
+	<string>bendera Antigua &amp; Barbuda</string>
+	<key>🛏️</key>
+	<string>tempat tidur</string>
+	<key>👳‍♀️</key>
+	<string>wanita berserban</string>
+	<key>🇪🇭</key>
+	<string>bendera Sahara Barat</string>
+	<key>☄️</key>
+	<string>komet</string>
+	<key>🕺</key>
+	<string>pria menari</string>
+	<key>✌️</key>
+	<string>isyarat tangan perdamaian</string>
+	<key>❤️</key>
+	<string>hati merah</string>
+	<key>⏭️</key>
+	<string>simbol lewati maju</string>
+	<key>🇦🇮</key>
+	<string>bendera Anguilla</string>
+	<key>🇲🇰</key>
+	<string>bendera Makedonia Utara</string>
+	<key>◽️</key>
+	<string>persegi putih medium kecil</string>
+	<key>🇲🇱</key>
+	<string>bendera Mali</string>
+	<key>🈚️</key>
+	<string>Arti tanda Bahasa Jepang untuk “gratis”</string>
+	<key>🇺🇲</key>
+	<string>bendera Kepulauan Kecil Terluar Amerika Serikat</string>
+	<key>🇮🇱</key>
+	<string>bendera Israel</string>
+	<key>🇲🇲</key>
+	<string>bendera Myanmar (Burma)</string>
+	<key>💂‍♂️</key>
+	<string>pengawal</string>
+	<key>🇺🇳</key>
+	<string>bendera Perserikatan Bangsa-Bangsa</string>
+	<key>🇦🇱</key>
+	<string>bendera Albania</string>
+	<key>🧑‍💻</key>
+	<string>pakar teknologi</string>
+	<key>🇮🇲</key>
+	<string>bendera Pulau Man</string>
+	<key>⛹️‍♂️</key>
+	<string>pemain bola basket pria</string>
+	<key>🇲🇳</key>
+	<string>bendera Mongolia</string>
+	<key>🇦🇲</key>
+	<string>bendera Armenia</string>
+	<key>🇮🇳</key>
+	<string>bendera India</string>
+	<key>❌</key>
+	<string>tanda silang</string>
+	<key>💇‍♀️</key>
+	<string>wanita dicukur</string>
+	<key>❎</key>
+	<string>Tanda x</string>
+	<key>🇲🇴</key>
+	<string>bendera Makau</string>
+	<key>♎️</key>
+	<string>Libra</string>
+	<key>🧚‍♂️</key>
+	<string>peri pria</string>
+	<key>🧑‍💼</key>
+	<string>pekerja kantor</string>
+	<key>🇮🇴</key>
+	<string>bendera Teritorial Samudra Hindia Britania</string>
+	<key>❓</key>
+	<string>tanda tanya merah</string>
+	<key>❔</key>
+	<string>tanda tanya putih</string>
+	<key>🇲🇵</key>
+	<string>bendera Kepulauan Mariana Utara</string>
+	<key>❕</key>
+	<string>tanda seru putih</string>
+	<key>🇦🇴</key>
+	<string>bendera Angola</string>
+	<key>🧟‍♀️</key>
+	<string>zombi wanita</string>
+	<key>🖕</key>
+	<string>jari tengah</string>
+	<key>🇲🇶</key>
+	<string>bendera Martinik</string>
+	<key>🖖</key>
+	<string>tangan dengan jemari merenggang di antara jari tengah dan jari manis</string>
+	<key>🇮🇶</key>
+	<string>bendera Irak</string>
+	<key>🚶‍♂️</key>
+	<string>pejalan kaki pria</string>
+	<key>🇲🇷</key>
+	<string>bendera Mauritania</string>
+	<key>🇺🇸</key>
+	<string>bendera Amerika Serikat</string>
+	<key>🇦🇶</key>
+	<string>bendera Antarktika</string>
+	<key>🇮🇷</key>
+	<string>bendera Iran</string>
+	<key>🕳️</key>
+	<string>lubang</string>
+	<key>⌨️</key>
+	<string>papan ketik</string>
+	<key>🇾🇹</key>
+	<string>bendera Mayotte</string>
+	<key>🇪🇷</key>
+	<string>bendera Eritrea</string>
+	<key>⛷️</key>
+	<string>pemain ski</string>
+	<key>🇲🇸</key>
+	<string>bendera Montserrat</string>
+	<key>🇦🇷</key>
+	<string>bendera Argentina</string>
+	<key>🇮🇸</key>
+	<string>bendera Islandia</string>
+	<key>👨‍💻</key>
+	<string>pakar teknologi pria</string>
+	<key>🌤️</key>
+	<string>matahari di balik awan kecil</string>
+	<key>🇪🇸</key>
+	<string>bendera Spanyol</string>
+	<key>🇲🇹</key>
+	<string>bendera Malta</string>
+	<key>🇦🇸</key>
+	<string>bendera Samoa Amerika</string>
+	<key>🇮🇹</key>
+	<string>bendera Italia</string>
+	<key>❤️‍🩹</key>
+	<string>hati terluka</string>
+	<key>🏔️</key>
+	<string>gunung berpuncak salju</string>
+	<key>🇪🇹</key>
+	<string>bendera Etiopia</string>
+	<key>🤷‍♀️</key>
+	<string>wanita mengangkat bahu</string>
+	<key>🇲🇺</key>
+	<string>bendera Mauritius</string>
+	<key>🇦🇹</key>
+	<string>bendera Austria</string>
+	<key>🖤</key>
+	<string>hati hitam</string>
+	<key>👩‍🦯</key>
+	<string>wanita dengan tongkat putih</string>
+	<key>👱‍♂️</key>
+	<string>pria dengan rambut pirang</string>
+	<key>👨‍💼</key>
+	<string>pekerja kantor pria</string>
+	<key>⛰️</key>
+	<string>gunung</string>
+	<key>🇪🇺</key>
+	<string>bendera Uni Eropa</string>
+	<key>🇲🇻</key>
+	<string>bendera Maladewa</string>
+	<key>🇦🇺</key>
+	<string>bendera Australia</string>
+	<key>🇲🇼</key>
+	<string>bendera Malawi</string>
+	<key>👩‍🦰</key>
+	<string>wanita dengan rambut merah</string>
+	<key>🇲🇽</key>
+	<string>bendera Meksiko</string>
+	<key>🇺🇾</key>
+	<string>bendera Uruguay</string>
+	<key>🇦🇼</key>
+	<string>bendera Aruba</string>
+	<key>☹️</key>
+	<string>wajah cemberut</string>
+	<key>⌚️</key>
+	<string>jam tangan</string>
+	<key>🕵️</key>
+	<string>detektif</string>
+	<key>⛩️</key>
+	<string>Kuil Shinto</string>
+	<key>🇲🇾</key>
+	<string>bendera Malaysia</string>
+	<key>🧎‍♀️</key>
+	<string>wanita berlutut</string>
+	<key>🇺🇿</key>
+	<string>bendera Uzbekistan</string>
+	<key>🇦🇽</key>
+	<string>bendera Kepulauan Aland</string>
+	<key>👩‍🦱</key>
+	<string>wanita dengan rambut ikal</string>
+	<key>🙇‍♂️</key>
+	<string>pria membungkuk</string>
+	<key>🌦️</key>
+	<string>matahari di balik awan hujan</string>
+	<key>🇲🇿</key>
+	<string>bendera Mozambik</string>
+	<key>🏖️</key>
+	<string>pantai dengan payung</string>
+	<key>👩‍🦲</key>
+	<string>wanita tak berambut</string>
+	<key>🇦🇿</key>
+	<string>bendera Azerbaijan</string>
+	<key>➕</key>
+	<string>tanda tambah</string>
+	<key>🕊️</key>
+	<string>merpati</string>
+	<key>➖</key>
+	<string>simbol minus</string>
+	<key>➗</key>
+	<string>simbol pembagian</string>
+	<key>🗺️</key>
+	<string>peta dunia</string>
+	<key>👩‍🦳</key>
+	<string>wanita dengan rambut putih</string>
+	<key>7️⃣</key>
+	<string>tombol digit tujuh</string>
+	<key>🅰️</key>
+	<string>golongan darah A</string>
+	<key>🤦‍♀️</key>
+	<string>wanita tepuk jidat</string>
+	<key>🧝‍♂️</key>
+	<string>elf pria</string>
+	<key>🕷️</key>
+	<string>laba-laba</string>
+	<key>✳️</key>
+	<string>asterisk delapan ruji</string>
+	<key>🌨️</key>
+	<string>awan dengan salju</string>
+	<key>🦸‍♂️</key>
+	<string>pahlawan super pria</string>
+	<key>➰</key>
+	<string>lingkaran keriting</string>
+	<key>🏘️</key>
+	<string>kumpulan rumah</string>
+	<key>0️⃣</key>
+	<string>tombol digit nol</string>
+	<key>🤵‍♂️</key>
+	<string>pria bertuksedo</string>
+	<key>⛔️</key>
+	<string>tidak boleh masuk</string>
+	<key>👨‍👧‍👦</key>
+	<string>keluarga dengan ayah, anak laki-laki dan perempuan</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>keluarga dengan ibu, ayah, dan dua anak laki-laki</string>
+	<key>🧑‍🏫</key>
+	<string>guru</string>
+	<key>➿</key>
+	<string>lingkaran keriting ganda</string>
+	<key>㊙️</key>
+	<string>Arti tanda Bahasa Jepang untuk “rahasia”</string>
+	<key>☝️</key>
+	<string>jari telunjuk mengarah ke atas</string>
+	<key>🕹️</key>
+	<string>joystick</string>
+	<key>🗑️</key>
+	<string>keranjang sampah</string>
+	<key>🌪️</key>
+	<string>tornado</string>
+	<key>🧑‍🏭</key>
+	<string>pekerja pabrik</string>
+	<key>↗️</key>
+	<string>panah atas kanan</string>
+	<key>⤵️</key>
+	<string>panah kanan melengkung ke bawah</string>
+	<key>🏚️</key>
+	<string>rumah terlantar</string>
+	<key>©️</key>
+	<string>tanda hak cipta</string>
+	<key>👨‍🏫</key>
+	<string>guru pria</string>
+	<key>🗓️</key>
+	<string>kalender spiral</string>
+	<key>⏸️</key>
+	<string>simbol jeda</string>
+	<key>🧑‍✈️</key>
+	<string>pilot</string>
+	<key>🌬️</key>
+	<string>wajah meniupkan angin</string>
+	<key>👨‍🏭</key>
+	<string>pekerja pabrik pria</string>
+	<key>🏜️</key>
+	<string>gurun</string>
+	<key>♠️</key>
+	<string>kartu sekop</string>
+	<key>🖨️</key>
+	<string>pencetak</string>
+	<key>⏱️</key>
+	<string>stopwatch</string>
+	<key>👩‍🦼</key>
+	<string>wanita berkursi roda listrik</string>
+	<key>🗻</key>
+	<string>gunung fuji</string>
+	<key>🫱‍🫲</key>
+	<string>jabat tangan</string>
+	<key>🗼</key>
+	<string>menara Tokyo</string>
+	<key>🗽</key>
+	<string>Patung Liberty</string>
+	<key>🗾</key>
+	<string>siluet Jepang</string>
+	<key>🤸‍♂️</key>
+	<string>pria melakukan gerakan meroda</string>
+	<key>🌀</key>
+	<string>siklon</string>
+	<key>🗿</key>
+	<string>patung Pulau Paskah</string>
+	<key>☁️</key>
+	<string>awan</string>
+	<key>🌁</key>
+	<string>jembatan di balik kabut</string>
+	<key>😀</key>
+	<string>wajah menyeringai</string>
+	<key>👩‍🦽</key>
+	<string>wanita berkursi roda manual</string>
+	<key>🌂</key>
+	<string>payung tertutup</string>
+	<key>😁</key>
+	<string>wajah berseri dengan mata tersenyum</string>
+	<key>⚱️</key>
+	<string>pasu pemakaman</string>
+	<key>🌃</key>
+	<string>malam berbintang</string>
+	<key>😂</key>
+	<string>wajah menangis bahagia</string>
+	<key>✉️</key>
+	<string>amplop</string>
+	<key>👨‍👧‍👧</key>
+	<string>keluarga dengan ayah dan dua anak perempuan</string>
+	<key>🤽‍♀️</key>
+	<string>wanita bermain polo air</string>
+	<key>🌄</key>
+	<string>matahari terbit di balik gunung</string>
+	<key>😃</key>
+	<string>wajah menyeringai dengan mata besar</string>
+	<key>🌅</key>
+	<string>matahari terbit</string>
+	<key>😄</key>
+	<string>wajah menyeringai dengan mata tersenyum</string>
+	<key>👷‍♂️</key>
+	<string>pekerja konstruksi pria</string>
+	<key>👨‍✈️</key>
+	<string>pilot pria</string>
+	<key>🌆</key>
+	<string>panorama kota saat senja</string>
+	<key>😅</key>
+	<string>wajah menyeringai dengan keringat</string>
+	<key>🌇</key>
+	<string>matahari terbenam di atas gedung</string>
+	<key>😆</key>
+	<string>wajah menyeringai dengan mata disipitkan</string>
+	<key>🌈</key>
+	<string>pelangi</string>
+	<key>😇</key>
+	<string>wajah tersenyum dengan halo</string>
+	<key>🌉</key>
+	<string>jembatan di malam hari</string>
+	<key>😈</key>
+	<string>wajah tersenyum bertanduk</string>
+	<key>🏞️</key>
+	<string>taman nasional</string>
+	<key>🌊</key>
+	<string>ombak</string>
+	<key>😉</key>
+	<string>wajah berkedip</string>
+	<key>🌋</key>
+	<string>gunung berapi</string>
+	<key>😊</key>
+	<string>wajah tersenyum dengan mata tersenyum</string>
+	<key>♒️</key>
+	<string>Akuarius</string>
+	<key>🌌</key>
+	<string>Bimasakti</string>
+	<key>😋</key>
+	<string>wajah tersenyum menjilat bibir</string>
+	<key>⚪️</key>
+	<string>lingkaran putih</string>
+	<key>🌍</key>
+	<string>bola dunia menampilkan Eropa dan Afrika</string>
+	<key>😌</key>
+	<string>wajah lega</string>
+	<key>🧏‍♂️</key>
+	<string>Pria tuna rungu</string>
+	<key>✂️</key>
+	<string>gunting</string>
+	<key>🌎</key>
+	<string>bola dunia menampilkan Amerika</string>
+	<key>🤌</key>
+	<string>jari menjepit</string>
+	<key>😍</key>
+	<string>wajah tersenyum dengan mata berbentuk hati</string>
+	<key>🌏</key>
+	<string>bola dunia menampilkan Asia dan Australia</string>
+	<key>🤍</key>
+	<string>hati putih</string>
+	<key>😎</key>
+	<string>wajah tersenyum berkacamata</string>
+	<key>🌐</key>
+	<string>bola dunia dengan meridian</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>keluarga dengan ibu, ayah, dan dua anak perempuan</string>
+	<key>🤎</key>
+	<string>hati cokelat</string>
+	<key>😏</key>
+	<string>wajah menyeringai</string>
+	<key>🌑</key>
+	<string>bulan baru</string>
+	<key>🤏</key>
+	<string>tangan mencubit</string>
+	<key>😐</key>
+	<string>wajah netral</string>
+	<key>🧔‍♀️</key>
+	<string>wanita berjenggot</string>
+	<key>🌒</key>
+	<string>bulan sabit membesar</string>
+	<key>🤐</key>
+	<string>wajah dengan mulut ritsleting</string>
+	<key>😑</key>
+	<string>wajah datar</string>
+	<key>🙍‍♂️</key>
+	<string>pria cemberut</string>
+	<key>🌓</key>
+	<string>bulan triwulan pertama</string>
+	<key>🤑</key>
+	<string>wajah bermulut uang</string>
+	<key>😒</key>
+	<string>wajah tidak senang</string>
+	<key>🌔</key>
+	<string>bulan separuh membesar</string>
+	<key>🤒</key>
+	<string>wajah dengan termometer</string>
+	<key>😓</key>
+	<string>wajah menunduk dengan keringat</string>
+	<key>🌕</key>
+	<string>bulan purnama</string>
+	<key>🤓</key>
+	<string>wajah tersenyum berkacamata</string>
+	<key>😔</key>
+	<string>wajah termenung sedih</string>
+	<key>♋️</key>
+	<string>Cancer</string>
+	<key>🌖</key>
+	<string>bulan separuh memudar</string>
+	<key>🤔</key>
+	<string>wajah berpikir</string>
+	<key>😕</key>
+	<string>wajah bingung</string>
+	<key>🌗</key>
+	<string>bulan triwulan terakhir</string>
+	<key>🤕</key>
+	<string>wajah dengan perban kepala</string>
+	<key>😖</key>
+	<string>wajah stres</string>
+	<key>🌘</key>
+	<string>bulan sabit memudar</string>
+	<key>🤖</key>
+	<string>wajah robot</string>
+	<key>😗</key>
+	<string>wajah mencium</string>
+	<key>🌙</key>
+	<string>bulan sabit</string>
+	<key>🤗</key>
+	<string>wajah memeluk</string>
+	<key>😘</key>
+	<string>wajah meniupkan ciuman</string>
+	<key>🌚</key>
+	<string>bulan baru dengan wajah</string>
+	<key>🤘</key>
+	<string>simbol metal</string>
+	<key>😙</key>
+	<string>wajah mencium dengan mata tersenyum</string>
+	<key>🌛</key>
+	<string>bulan triwulan pertama dengan wajah</string>
+	<key>🤙</key>
+	<string>isyarat tangan telepon saya</string>
+	<key>😚</key>
+	<string>wajah mencium dengan mata tertutup</string>
+</dict>
+</plist>

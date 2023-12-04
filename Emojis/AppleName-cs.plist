@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>měsíc v poslední čtvrti s tváří</string>
+	<key>🤚</key>
+	<string>hřbet ruky</string>
+	<key>😛</key>
+	<string>obličej s vypláznutým jazykem</string>
+	<key>👩‍🔧</key>
+	<string>mechanička</string>
+	<key>🌝</key>
+	<string>úplněk s tváří</string>
+	<key>🤛</key>
+	<string>pěst mířící doleva</string>
+	<key>😜</key>
+	<string>mrkající obličej s vypláznutým jazykem</string>
+	<key>🌞</key>
+	<string>slunce s tváří</string>
+	<key>🤜</key>
+	<string>pěst mířící doprava</string>
+	<key>😝</key>
+	<string>obličej s vypláznutým jazykem a mžourajícíma očima</string>
+	<key>🌟</key>
+	<string>zářící hvězda</string>
+	<key>🤝</key>
+	<string>podání rukou</string>
+	<key>😞</key>
+	<string>zklamaný obličej</string>
+	<key>🌠</key>
+	<string>padající hvězda</string>
+	<key>🤞</key>
+	<string>zkřížené prsty</string>
+	<key>😟</key>
+	<string>ustaraný obličej</string>
+	<key>🐈‍⬛</key>
+	<string>černá kočka</string>
+	<key>🤟</key>
+	<string>gesto „miluji tě“</string>
+	<key>😠</key>
+	<string>rozzlobený obličej</string>
+	<key>⚜️</key>
+	<string>heraldická lilie</string>
+	<key>⛴️</key>
+	<string>trajekt</string>
+	<key>🤠</key>
+	<string>obličej kovboje</string>
+	<key>😡</key>
+	<string>obličej zrudlý hněvem</string>
+	<key>🤡</key>
+	<string>klaunský obličej</string>
+	<key>😢</key>
+	<string>plačící obličej</string>
+	<key>⬛️</key>
+	<string>velký černý čtverec</string>
+	<key>🤢</key>
+	<string>obličej v návalu nevolnosti</string>
+	<key>😣</key>
+	<string>umíněný obličej</string>
+	<key>🤣</key>
+	<string>obličej válející se smíchy</string>
+	<key>😤</key>
+	<string>obličej pouštějící páru nosem</string>
+	<key>🤤</key>
+	<string>slintající obličej</string>
+	<key>😥</key>
+	<string>smutný obličej s výrazem úlevy</string>
+	<key>🤥</key>
+	<string>obličej lháře</string>
+	<key>😦</key>
+	<string>zamračený obličej s otevřenou pusou</string>
+	<key>🤦</key>
+	<string>osoba chytající se za hlavu</string>
+	<key>😧</key>
+	<string>zmučený obličej</string>
+	<key>🤧</key>
+	<string>smrkající obličej</string>
+	<key>😨</key>
+	<string>ustrašený obličej</string>
+	<key>🤨</key>
+	<string>obličej se zvednutým obočím</string>
+	<key>😩</key>
+	<string>unavený obličej</string>
+	<key>🤩</key>
+	<string>obličej s hvězdami v očích</string>
+	<key>⚕️</key>
+	<string>Aeskulapova hůl</string>
+	<key>😪</key>
+	<string>ospalý obličej</string>
+	<key>👁️‍🗨️</key>
+	<string>Jsem svědek</string>
+	<key>🤪</key>
+	<string>hloupý obličej</string>
+	<key>😫</key>
+	<string>naříkající obličej</string>
+	<key>🌭</key>
+	<string>hot dog</string>
+	<key>🤫</key>
+	<string>obličej s prstem na puse</string>
+	<key>😬</key>
+	<string>obličej s grimasou</string>
+	<key>🌮</key>
+	<string>taco</string>
+	<key>🤬</key>
+	<string>obličej se symboly na puse</string>
+	<key>😭</key>
+	<string>nahlas plačící obličej</string>
+	<key>🌯</key>
+	<string>burrito</string>
+	<key>🤭</key>
+	<string>obličej s dlaní před pusou a smějícíma se očima</string>
+	<key>😮</key>
+	<string>překvapený obličej s otevřenou pusou</string>
+	<key>🌰</key>
+	<string>kaštan</string>
+	<key>🤮</key>
+	<string>zvracející obličej</string>
+	<key>😯</key>
+	<string>překvapený obličej</string>
+	<key>🌱</key>
+	<string>semenáček</string>
+	<key>🤯</key>
+	<string>vybuchující hlava</string>
+	<key>😰</key>
+	<string>úzkostný obličej se studeným potem</string>
+	<key>🌲</key>
+	<string>jehličnatý strom</string>
+	<key>🤰</key>
+	<string>těhotná žena</string>
+	<key>😱</key>
+	<string>obličej křičící hrůzou</string>
+	<key>🌳</key>
+	<string>strom</string>
+	<key>🤱</key>
+	<string>kojení</string>
+	<key>😲</key>
+	<string>užaslý obličej</string>
+	<key>🛡️</key>
+	<string>štít</string>
+	<key>🌴</key>
+	<string>palma</string>
+	<key>🤲</key>
+	<string>zdvižené dlaně vedle sebe</string>
+	<key>😳</key>
+	<string>obličej s široce otevřenýma očima</string>
+	<key>🌵</key>
+	<string>kaktus</string>
+	<key>🤳</key>
+	<string>selfie</string>
+	<key>😴</key>
+	<string>spící obličej</string>
+	<key>🤴</key>
+	<string>princ</string>
+	<key>😵</key>
+	<string>obličej s výrazem závratě</string>
+	<key>👩‍🌾</key>
+	<string>farmářka</string>
+	<key>🌷</key>
+	<string>tulipán</string>
+	<key>🤵</key>
+	<string>osoba ve smokingu</string>
+	<key>😶</key>
+	<string>obličej bez pusy</string>
+	<key>🌸</key>
+	<string>třešňový květ</string>
+	<key>🤶</key>
+	<string>Santa Clausová</string>
+	<key>😷</key>
+	<string>obličej se zdravotnickou rouškou</string>
+	<key>🌹</key>
+	<string>růže</string>
+	<key>🤷</key>
+	<string>osoba krčící rameny</string>
+	<key>😸</key>
+	<string>šklebící se kočičí obličej</string>
+	<key>🌺</key>
+	<string>ibišek</string>
+	<key>🤸</key>
+	<string>osoba dělající přemet stranou</string>
+	<key>😹</key>
+	<string>kočičí obličej slzící smíchy</string>
+	<key>🌻</key>
+	<string>slunečnice</string>
+	<key>🤹</key>
+	<string>žonglující osoba</string>
+	<key>😺</key>
+	<string>šťastný kočičí obličej</string>
+	<key>🌼</key>
+	<string>květina</string>
+	<key>🤺</key>
+	<string>šermíř</string>
+	<key>😻</key>
+	<string>usmívající se kočka se srdíčky místo očí</string>
+	<key>🌽</key>
+	<string>kukuřičný klas</string>
+	<key>😼</key>
+	<string>ušklíbající se kočičí obličej</string>
+	<key>🇿🇦</key>
+	<string>vlajka Jihoafrické republiky</string>
+	<key>👩‍🔬</key>
+	<string>vědkyně</string>
+	<key>🌾</key>
+	<string>rýžový klas</string>
+	<key>🤼</key>
+	<string>zápasící dvojice</string>
+	<key>😽</key>
+	<string>líbající kočičí obličej</string>
+	<key>🇻🇦</key>
+	<string>vlajka Vatikánu</string>
+	<key>🌿</key>
+	<string>bylina</string>
+	<key>🤽</key>
+	<string>osoba hrající vodní pólo</string>
+	<key>😾</key>
+	<string>kočka s našpulenými rty</string>
+	<key>☯️</key>
+	<string>jin a jang</string>
+	<key>🍀</key>
+	<string>čtyřlístek</string>
+	<key>🤾</key>
+	<string>osoba hrající házenou</string>
+	<key>😿</key>
+	<string>plačící kočičí obličej</string>
+	<key>🍁</key>
+	<string>javorový list</string>
+	<key>🤿</key>
+	<string>potápěčská maska</string>
+	<key>🧑‍🍳</key>
+	<string>kuchař/kuchařka</string>
+	<key>🇳🇦</key>
+	<string>vlajka Namibie</string>
+	<key>🙀</key>
+	<string>kočičí obličej křičící hrůzou</string>
+	<key>🧗‍♀️</key>
+	<string>horolezkyně</string>
+	<key>⁉️</key>
+	<string>červený vykřičník a otazník</string>
+	<key>🍂</key>
+	<string>spadlé listy</string>
+	<key>🥀</key>
+	<string>zvadlá růže</string>
+	<key>🙁</key>
+	<string>mírně zamračený obličej</string>
+	<key>🍃</key>
+	<string>třepetající se listy ve větru</string>
+	<key>🥁</key>
+	<string>bubínek</string>
+	<key>🙂</key>
+	<string>usmívající se obličej</string>
+	<key>⬆️</key>
+	<string>šipka nahoru</string>
+	<key>🍄</key>
+	<string>houba</string>
+	<key>🥂</key>
+	<string>cinkající sklenice</string>
+	<key>🙃</key>
+	<string>převrácený obličej</string>
+	<key>5️⃣</key>
+	<string>klávesa s číslicí pět</string>
+	<key>🍅</key>
+	<string>rajské jablko</string>
+	<key>🥃</key>
+	<string>sklenice na whisky</string>
+	<key>🙄</key>
+	<string>obličej koulející očima</string>
+	<key>🇻🇨</key>
+	<string>vlajka Svatého Vincence a Grenadin</string>
+	<key>🇧🇦</key>
+	<string>vlajka Bosny a Hercegoviny</string>
+	<key>↩️</key>
+	<string>šipka doprava stáčející se doleva</string>
+	<key>🍆</key>
+	<string>lilek</string>
+	<key>🥄</key>
+	<string>lžička</string>
+	<key>🙅</key>
+	<string>gesto nesouhlasu</string>
+	<key>🍇</key>
+	<string>hrozny</string>
+	<key>🥅</key>
+	<string>sportovní branka</string>
+	<key>🙆</key>
+	<string>gesto souhlasu</string>
+	<key>🛣️</key>
+	<string>dálnice</string>
+	<key>🍈</key>
+	<string>meloun</string>
+	<key>🙇</key>
+	<string>uklánějící se osoba</string>
+	<key>🇳🇨</key>
+	<string>vlajka Nové Kaledonie</string>
+	<key>🍉</key>
+	<string>vodní meloun</string>
+	<key>🇧🇧</key>
+	<string>vlajka Barbadosu</string>
+	<key>🥇</key>
+	<string>zlatá medaile</string>
+	<key>🙈</key>
+	<string>opička „nic nevidím“</string>
+	<key>🍊</key>
+	<string>mandarinka</string>
+	<key>🥈</key>
+	<string>stříbrná medaile</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>vlajka Skotska</string>
+	<key>🙉</key>
+	<string>opička „nic neslyším“</string>
+	<key>🍋</key>
+	<string>citrón</string>
+	<key>🥉</key>
+	<string>bronzová medaile</string>
+	<key>🙊</key>
+	<string>opička „nic nepovím“</string>
+	<key>🍌</key>
+	<string>banán</string>
+	<key>🥊</key>
+	<string>boxerská rukavice</string>
+	<key>🇻🇪</key>
+	<string>vlajka Venezuely</string>
+	<key>🙋</key>
+	<string>osoba se zvednutou rukou</string>
+	<key>🍍</key>
+	<string>ananas</string>
+	<key>🥋</key>
+	<string>kimono</string>
+	<key>🙌</key>
+	<string>ruce zdvižené nad hlavou</string>
+	<key>🇷🇪</key>
+	<string>vlajka Réunionu</string>
+	<key>🍎</key>
+	<string>červené jablko</string>
+	<key>🥌</key>
+	<string>curlingový kámen</string>
+	<key>🙍</key>
+	<string>zamračená osoba</string>
+	<key>🍏</key>
+	<string>zelené jablko</string>
+	<key>🇳🇪</key>
+	<string>vlajka Nigeru</string>
+	<key>🥍</key>
+	<string>lakrosová hůl s míčkem</string>
+	<key>🙎</key>
+	<string>podrážděná osoba</string>
+	<key>🅾️</key>
+	<string>krevní skupina 0</string>
+	<key>🇧🇩</key>
+	<string>vlajka Bangladéše</string>
+	<key>🍐</key>
+	<string>hruška</string>
+	<key>🥎</key>
+	<string>softballový míček</string>
+	<key>🇯🇪</key>
+	<string>vlajka ostrova Jersey</string>
+	<key>🙏</key>
+	<string>sepjaté ruce</string>
+	<key>🍑</key>
+	<string>broskev</string>
+	<key>🥏</key>
+	<string>frisbee</string>
+	<key>🍒</key>
+	<string>třešně</string>
+	<key>🥐</key>
+	<string>croissant</string>
+	<key>🇳🇫</key>
+	<string>vlajka ostrova Norfolk</string>
+	<key>🍓</key>
+	<string>jahoda</string>
+	<key>🇻🇬</key>
+	<string>vlajka Britských Panenských ostrovů</string>
+	<key>🇧🇪</key>
+	<string>vlajka Belgie</string>
+	<key>🥑</key>
+	<string>avokádo</string>
+	<key>🍔</key>
+	<string>hamburger</string>
+	<key>🥒</key>
+	<string>okurka</string>
+	<key>⛑️</key>
+	<string>helma s bílým křížem</string>
+	<key>🍕</key>
+	<string>pizza</string>
+	<key>🥓</key>
+	<string>slanina</string>
+	<key>🇳🇬</key>
+	<string>vlajka Nigérie</string>
+	<key>🍖</key>
+	<string>maso na kosti</string>
+	<key>🥔</key>
+	<string>brambora</string>
+	<key>👨‍🍳</key>
+	<string>kuchař</string>
+	<key>🇧🇫</key>
+	<string>vlajka Burkiny Faso</string>
+	<key>🍗</key>
+	<string>drůbeží stehno</string>
+	<key>👮‍♀️</key>
+	<string>policistka</string>
+	<key>🥕</key>
+	<string>mrkev</string>
+	<key>⭐️</key>
+	<string>hvězdička</string>
+	<key>🍘</key>
+	<string>rýžová sušenka</string>
+	<key>🥖</key>
+	<string>bageta</string>
+	<key>🗝️</key>
+	<string>starý klíč</string>
+	<key>🌶️</key>
+	<string>chilli paprička</string>
+	<key>🍙</key>
+	<string>rýžový koláček</string>
+	<key>🥗</key>
+	<string>zelený salát</string>
+	<key>🏃‍♂️</key>
+	<string>běžec</string>
+	<key>🇻🇮</key>
+	<string>vlajka Amerických Panenských ostrovů</string>
+	<key>🇧🇬</key>
+	<string>vlajka Bulharska</string>
+	<key>🍚</key>
+	<string>vařená rýže</string>
+	<key>🥘</key>
+	<string>pánev s jídlem</string>
+	<key>🍛</key>
+	<string>kari a rýže</string>
+	<key>🥙</key>
+	<string>pita sendvič</string>
+	<key>🍜</key>
+	<string>miska s horkou polévkou</string>
+	<key>🥚</key>
+	<string>vejce</string>
+	<key>🛥️</key>
+	<string>motorový člun</string>
+	<key>🇳🇮</key>
+	<string>vlajka Nikaraguy</string>
+	<key>🍝</key>
+	<string>špagety</string>
+	<key>🥛</key>
+	<string>sklenice mléka</string>
+	<key>🇧🇭</key>
+	<string>vlajka Bahrajnu</string>
+	<key>🍞</key>
+	<string>chléb</string>
+	<key>🥜</key>
+	<string>burské oříšky</string>
+	<key>🍟</key>
+	<string>hranolky</string>
+	<key>👨‍👨‍👦</key>
+	<string>rodina sestávající ze dvou otců a syna</string>
+	<key>🥝</key>
+	<string>kiwi</string>
+	<key>🇫🇮</key>
+	<string>vlajka Finska</string>
+	<key>🤾‍♂️</key>
+	<string>házenkář</string>
+	<key>🍠</key>
+	<string>smažený sladký brambor</string>
+	<key>🖲️</key>
+	<string>trackball</string>
+	<key>🥞</key>
+	<string>lívance</string>
+	<key>🇧🇮</key>
+	<string>vlajka Burundi</string>
+	<key>🍡</key>
+	<string>knedlíčky dango</string>
+	<key>🥟</key>
+	<string>piroh</string>
+	<key>🍢</key>
+	<string>oden</string>
+	<key>🥠</key>
+	<string>čínský koláček štěstí</string>
+	<key>🇫🇯</key>
+	<string>vlajka Fidži</string>
+	<key>🍣</key>
+	<string>suši</string>
+	<key>🥡</key>
+	<string>krabice na jídlo</string>
+	<key>🍤</key>
+	<string>smažená kreveta</string>
+	<key>🥢</key>
+	<string>jídelní hůlky</string>
+	<key>🇧🇯</key>
+	<string>vlajka Beninu</string>
+	<key>↔️</key>
+	<string>šipka doleva a doprava</string>
+	<key>🍥</key>
+	<string>rybí roláda</string>
+	<key>🥣</key>
+	<string>miska se lžící</string>
+	<key>🍦</key>
+	<string>točená zmrzlina</string>
+	<key>🇿🇲</key>
+	<string>vlajka Zambie</string>
+	<key>🇫🇰</key>
+	<string>vlajka Falkland</string>
+	<key>🥤</key>
+	<string>pohárek s brčkem</string>
+	<key>🏌️‍♀️</key>
+	<string>hráčka golfu</string>
+	<key>🇳🇱</key>
+	<string>vlajka Nizozemska</string>
+	<key>🍧</key>
+	<string>ovocná ledová zmrzlina</string>
+	<key>🥥</key>
+	<string>kokosový ořech</string>
+	<key>🍨</key>
+	<string>zmrzlina</string>
+	<key>🥦</key>
+	<string>brokolice</string>
+	<key>🍩</key>
+	<string>kobliha</string>
+	<key>🥧</key>
+	<string>koláč</string>
+	<key>🖇️</key>
+	<string>spojené kancelářské sponky</string>
+	<key>🍪</key>
+	<string>sušenka</string>
+	<key>🥨</key>
+	<string>preclík</string>
+	<key>🇻🇳</key>
+	<string>vlajka Vietnamu</string>
+	<key>💂‍♀️</key>
+	<string>strážkyně</string>
+	<key>🇧🇱</key>
+	<string>vlajka Svatého Bartoloměje</string>
+	<key>🍫</key>
+	<string>tabulka čokolády</string>
+	<key>🇯🇲</key>
+	<string>vlajka Jamajky</string>
+	<key>🥩</key>
+	<string>steak</string>
+	<key>🍬</key>
+	<string>bonbón</string>
+	<key>🥪</key>
+	<string>sendvič</string>
+	<key>⛹️‍♀️</key>
+	<string>hráčka basketbalu</string>
+	<key>🍭</key>
+	<string>lízátko</string>
+	<key>🇫🇲</key>
+	<string>vlajka Mikronésie</string>
+	<key>🥫</key>
+	<string>potravinová konzerva</string>
+	<key>🍮</key>
+	<string>pudinkový dezert</string>
+	<key>👨‍❤️‍👨</key>
+	<string>dva muži se srdíčkem</string>
+	<key>🥬</key>
+	<string>listová zelenina</string>
+	<key>🇧🇲</key>
+	<string>vlajka Bermud</string>
+	<key>🍯</key>
+	<string>hrnek medu</string>
+	<key>🥭</key>
+	<string>mango</string>
+	<key>🇷🇴</key>
+	<string>vlajka Rumunska</string>
+	<key>🍰</key>
+	<string>piškotový dort</string>
+	<key>🥮</key>
+	<string>měsíční koláč</string>
+	<key>🍱</key>
+	<string>krabička na bentó</string>
+	<key>🇳🇴</key>
+	<string>vlajka Norska</string>
+	<key>🥯</key>
+	<string>bejgl</string>
+	<key>🇧🇳</key>
+	<string>vlajka Bruneje</string>
+	<key>🧚‍♀️</key>
+	<string>víla</string>
+	<key>🍲</key>
+	<string>hrnec jídla</string>
+	<key>🇯🇴</key>
+	<string>vlajka Jordánska</string>
+	<key>🥰</key>
+	<string>smějící se obličej se srdíčky</string>
+	<key>🍳</key>
+	<string>vaření</string>
+	<key>🥱</key>
+	<string>zívající obličej</string>
+	<key>🇫🇴</key>
+	<string>vlajka Faerských ostrovů</string>
+	<key>🍴</key>
+	<string>nůž a vidlička</string>
+	<key>🥲</key>
+	<string>usmívající se obličej se slzou</string>
+	<key>🇳🇵</key>
+	<string>vlajka Nepálu</string>
+	<key>✔️</key>
+	<string>značka zaškrtnutí</string>
+	<key>🍵</key>
+	<string>čajový šálek bez ouška</string>
+	<key>🥳</key>
+	<string>oslavující obličej</string>
+	<key>🇧🇴</key>
+	<string>vlajka Bolívie</string>
+	<key>🇯🇵</key>
+	<string>vlajka Japonska</string>
+	<key>🍶</key>
+	<string>nádoba a šálek na saké</string>
+	<key>🥴</key>
+	<string>zpitomělý obličej</string>
+	<key>🍷</key>
+	<string>sklenice vína</string>
+	<key>🥵</key>
+	<string>rozpálený obličej</string>
+	<key>🍸</key>
+	<string>koktejlová sklenice</string>
+	<key>🥶</key>
+	<string>zmrzlý obličej</string>
+	<key>🍹</key>
+	<string>nápoj s tropickým ovocem</string>
+	<key>🥷</key>
+	<string>nindža</string>
+	<key>🍺</key>
+	<string>pivo</string>
+	<key>🥸</key>
+	<string>maskovaný obličej</string>
+	<key>🚶‍♀️</key>
+	<string>chodkyně</string>
+	<key>🍻</key>
+	<string>přiťuknutí půllitry</string>
+	<key>🥹</key>
+	<string>smějící se obličej zadržující slzy</string>
+	<key>🇳🇷</key>
+	<string>vlajka Nauru</string>
+	<key>🍼</key>
+	<string>kojenecká lahvička</string>
+	<key>🇧🇶</key>
+	<string>vlajka Bonaire</string>
+	<key>🥺</key>
+	<string>prosebný obličej</string>
+	<key>🧑‍🍼</key>
+	<string>osoba krmící dítě z lahve</string>
+	<key>🥻</key>
+	<string>sárí</string>
+	<key>🇷🇸</key>
+	<string>vlajka Srbska</string>
+	<key>🍾</key>
+	<string>láhev s vyskakující zátkou</string>
+	<key>🇫🇷</key>
+	<string>vlajka Francie</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>líbající se muž a žena</string>
+	<key>🥼</key>
+	<string>laboratorní plášť</string>
+	<key>✍️</key>
+	<string>píšící ruka</string>
+	<key>🍿</key>
+	<string>popkorn</string>
+	<key>🥽</key>
+	<string>ochranné brýle</string>
+	<key>🇧🇷</key>
+	<string>vlajka Brazílie</string>
+	<key>🗡️</key>
+	<string>dýka</string>
+	<key>⏮️</key>
+	<string>symbol přeskočení zpět</string>
+	<key>🎀</key>
+	<string>zavázaná mašle</string>
+	<key>🥾</key>
+	<string>pohorka</string>
+	<key>🎁</key>
+	<string>dárek</string>
+	<key>🥿</key>
+	<string>střevíček bez podpatku</string>
+	<key>🚀</key>
+	<string>raketa</string>
+	<key>🎂</key>
+	<string>narozeninový dort</string>
+	<key>🦀</key>
+	<string>krab</string>
+	<key>🚁</key>
+	<string>vrtulník</string>
+	<key>🇻🇺</key>
+	<string>vlajka Vanuatu</string>
+	<key>🇧🇸</key>
+	<string>vlajka Baham</string>
+	<key>🎃</key>
+	<string>dýňová lampa</string>
+	<key>🕵️‍♀️</key>
+	<string>detektivka</string>
+	<key>🦁</key>
+	<string>lví obličej</string>
+	<key>🚂</key>
+	<string>parní lokomotiva</string>
+	<key>🎄</key>
+	<string>Vánoční stromek</string>
+	<key>🇷🇺</key>
+	<string>vlajka Ruska</string>
+	<key>🦂</key>
+	<string>štír</string>
+	<key>🚃</key>
+	<string>železniční vagón</string>
+	<key>🎅</key>
+	<string>Santa Klaus</string>
+	<key>🦃</key>
+	<string>krocan</string>
+	<key>🚄</key>
+	<string>vysokorychlostní vlak</string>
+	<key>🇳🇺</key>
+	<string>vlajka Niue</string>
+	<key>🛩️</key>
+	<string>malé letadlo</string>
+	<key>◾️</key>
+	<string>menší černý čtverec</string>
+	<key>🎆</key>
+	<string>ohňostroj</string>
+	<key>🇧🇹</key>
+	<string>vlajka Bhútánu</string>
+	<key>🦄</key>
+	<string>jednorožec</string>
+	<key>🚅</key>
+	<string>vysokorychlostní vlak s aerodynamickým čelem</string>
+	<key>🎇</key>
+	<string>prskavka</string>
+	<key>🦅</key>
+	<string>orel</string>
+	<key>🚆</key>
+	<string>vlak</string>
+	<key>👱‍♀️</key>
+	<string>světlovlasá žena</string>
+	<key>🎈</key>
+	<string>balónek</string>
+	<key>🇿🇼</key>
+	<string>vlajka Zimbabwe</string>
+	<key>🦆</key>
+	<string>kachna</string>
+	<key>🚇</key>
+	<string>vlak podzemní dráhy</string>
+	<key>😮‍💨</key>
+	<string>vydechující obličej</string>
+	<key>🎉</key>
+	<string>konfetovač</string>
+	<key>🦇</key>
+	<string>netopýr</string>
+	<key>🚈</key>
+	<string>rychlodrážní tramvaj</string>
+	<key>🎊</key>
+	<string>konfetová koule</string>
+	<key>🦈</key>
+	<string>žralok</string>
+	<key>🚉</key>
+	<string>stanice</string>
+	<key>🇷🇼</key>
+	<string>vlajka Rwandy</string>
+	<key>🎋</key>
+	<string>strom přání</string>
+	<key>🦉</key>
+	<string>sova</string>
+	<key>🚊</key>
+	<string>tramvaj</string>
+	<key>🎌</key>
+	<string>zkřížené japonské vlajky</string>
+	<key>🦊</key>
+	<string>liščí hlava</string>
+	<key>🚋</key>
+	<string>tramvaj</string>
+	<key>🎍</key>
+	<string>ozdoba z jehličí</string>
+	<key>🇧🇻</key>
+	<string>vlajka Bouvetova ostrova</string>
+	<key>🦋</key>
+	<string>motýl</string>
+	<key>🚌</key>
+	<string>autobus</string>
+	<key>🎎</key>
+	<string>Japonské panenky</string>
+	<key>🦌</key>
+	<string>jelen</string>
+	<key>🚍</key>
+	<string>přijíždějící autobus</string>
+	<key>🎏</key>
+	<string>koinobori</string>
+	<key>🦍</key>
+	<string>gorila</string>
+	<key>🚎</key>
+	<string>trolejbus</string>
+	<key>🚏</key>
+	<string>autobusová zastávka</string>
+	<key>🎐</key>
+	<string>větrné zvonky</string>
+	<key>🦎</key>
+	<string>ještěrka</string>
+	<key>🇧🇼</key>
+	<string>vlajka Botswany</string>
+	<key>🚐</key>
+	<string>minibus</string>
+	<key>♏️</key>
+	<string>Štír</string>
+	<key>🎑</key>
+	<string>tsukimi</string>
+	<key>🦏</key>
+	<string>nosorožec</string>
+	<key>🚑</key>
+	<string>ambulance</string>
+	<key>👨‍🍼</key>
+	<string>muž krmící dítě z lahve</string>
+	<key>⚧️</key>
+	<string>symbol pro transgender osoby</string>
+	<key>👨‍👨‍👧</key>
+	<string>rodina sestávající ze dvou otců a dcery</string>
+	<key>🖋️</key>
+	<string>plnicí pero</string>
+	<key>🚒</key>
+	<string>hasičský vůz</string>
+	<key>🎒</key>
+	<string>batoh</string>
+	<key>🎓</key>
+	<string>absolventská čepice</string>
+	<key>🦐</key>
+	<string>kreveta</string>
+	<key>🦑</key>
+	<string>oliheň</string>
+	<key>🚓</key>
+	<string>policejní vůz</string>
+	<key>❗️</key>
+	<string>červený vykřičník</string>
+	<key>🦒</key>
+	<string>žirafa</string>
+	<key>🙇‍♀️</key>
+	<string>klanící se žena</string>
+	<key>🗣️</key>
+	<string>silueta mluvící hlavy</string>
+	<key>🚔</key>
+	<string>přijíždějící policejní auto</string>
+	<key>🦓</key>
+	<string>zebra</string>
+	<key>🚕</key>
+	<string>taxi</string>
+	<key>🦔</key>
+	<string>ježek</string>
+	<key>🇳🇿</key>
+	<string>vlajka Nového Zélandu</string>
+	<key>🦕</key>
+	<string>dinosaurus</string>
+	<key>🚖</key>
+	<string>přijíždějící taxi</string>
+	<key>🇧🇾</key>
+	<string>vlajka Běloruska</string>
+	<key>🦖</key>
+	<string>tyranosaurus rex</string>
+	<key>🚗</key>
+	<string>automobil</string>
+	<key>🦗</key>
+	<string>cvrček</string>
+	<key>🚘</key>
+	<string>přijíždějící automobil</string>
+	<key>🦘</key>
+	<string>klokan</string>
+	<key>🚙</key>
+	<string>SUV</string>
+	<key>🇧🇿</key>
+	<string>vlajka Belize</string>
+	<key>🦙</key>
+	<string>lama</string>
+	<key>🚚</key>
+	<string>skříňová dodávka</string>
+	<key>♈️</key>
+	<string>Beran</string>
+	<key>🦚</key>
+	<string>páv</string>
+	<key>🚛</key>
+	<string>nákladní automobil TIR</string>
+	<key>⚠️</key>
+	<string>varování</string>
+	<key>🦛</key>
+	<string>hroch</string>
+	<key>🚜</key>
+	<string>traktor</string>
+	<key>⛸️</key>
+	<string>brusle</string>
+	<key>🧘‍♂️</key>
+	<string>muž v lotosovém sedu</string>
+	<key>🧑‍🚀</key>
+	<string>kosmonaut/kosmonautka</string>
+	<key>🦜</key>
+	<string>papoušek</string>
+	<key>🚝</key>
+	<string>jednokolejka</string>
+	<key>🦝</key>
+	<string>mýval</string>
+	<key>🚞</key>
+	<string>horská železnice</string>
+	<key>🎠</key>
+	<string>kolotočový kůň</string>
+	<key>🦞</key>
+	<string>humr</string>
+	<key>🚟</key>
+	<string>závěsná tramvaj</string>
+	<key>🎡</key>
+	<string>ruské kolo</string>
+	<key>🦟</key>
+	<string>komár</string>
+	<key>🚠</key>
+	<string>kabelová lanovka</string>
+	<key>🎢</key>
+	<string>horská dráha</string>
+	<key>🦠</key>
+	<string>mikrob</string>
+	<key>🚡</key>
+	<string>kabinová lanovka</string>
+	<key>🧝‍♀️</key>
+	<string>elfka</string>
+	<key>🎣</key>
+	<string>rybářský prut a ryba</string>
+	<key>🦡</key>
+	<string>jezevec</string>
+	<key>🚢</key>
+	<string>loď</string>
+	<key>🎤</key>
+	<string>mikrofon</string>
+	<key>🦢</key>
+	<string>labuť</string>
+	<key>🚣</key>
+	<string>veslující osoba</string>
+	<key>🎥</key>
+	<string>videokamera</string>
+	<key>🦣</key>
+	<string>mamut</string>
+	<key>🚤</key>
+	<string>závodní loď</string>
+	<key>🎦</key>
+	<string>symbol kina</string>
+	<key>🦤</key>
+	<string>dodo</string>
+	<key>🚥</key>
+	<string>vodorovný semafor</string>
+	<key>⚙️</key>
+	<string>ozubené kolečko</string>
+	<key>🚴‍♂️</key>
+	<string>cyklista</string>
+	<key>🎧</key>
+	<string>sluchátka</string>
+	<key>🦥</key>
+	<string>lenochod</string>
+	<key>🚦</key>
+	<string>svislý semafor</string>
+	<key>⛱️</key>
+	<string>plážový slunečník</string>
+	<key>🖍️</key>
+	<string>voskovka</string>
+	<key>🎨</key>
+	<string>malířská paleta</string>
+	<key>🦦</key>
+	<string>vydra</string>
+	<key>🚧</key>
+	<string>cedule stavba</string>
+	<key>🎩</key>
+	<string>cylindr</string>
+	<key>🦧</key>
+	<string>orangutan</string>
+	<key>🚨</key>
+	<string>maják policejního auta</string>
+	<key>➡️</key>
+	<string>šipka doprava</string>
+	<key>🎪</key>
+	<string>cirkusový stan</string>
+	<key>🦨</key>
+	<string>skunk</string>
+	<key>🚩</key>
+	<string>trojúhelníkový praporek na žerdi</string>
+	<key>🎫</key>
+	<string>lístek</string>
+	<key>🦩</key>
+	<string>plameňák</string>
+	<key>🚪</key>
+	<string>dveře</string>
+	<key>🦸‍♀️</key>
+	<string>superhrdinka</string>
+	<key>🎬</key>
+	<string>filmová klapka</string>
+	<key>🦪</key>
+	<string>ústřice</string>
+	<key>🚫</key>
+	<string>zakázáno</string>
+	<key>🎖️</key>
+	<string>vojenská medaile</string>
+	<key>🎭</key>
+	<string>múzická umění</string>
+	<key>🦫</key>
+	<string>bobr</string>
+	<key>🚬</key>
+	<string>cigareta</string>
+	<key>🎮</key>
+	<string>herní ovladač</string>
+	<key>🦬</key>
+	<string>bizon</string>
+	<key>🚭</key>
+	<string>značka kouření zakázáno</string>
+	<key>🎯</key>
+	<string>střed terče</string>
+	<key>🦭</key>
+	<string>tuleň</string>
+	<key>🚮</key>
+	<string>symbol zde odhazujte odpadky</string>
+	<key>☺️</key>
+	<string>smějící se obličej</string>
+	<key>🎰</key>
+	<string>výherní automat</string>
+	<key>🦮</key>
+	<string>vodicí pes</string>
+	<key>🚯</key>
+	<string>zákaz odhazování odpadků</string>
+	<key>⚒️</key>
+	<string>mlátek a želízko</string>
+	<key>🎱</key>
+	<string>kulečník</string>
+	<key>🦯</key>
+	<string>bílá hůl</string>
+	<key>🚰</key>
+	<string>vodovodní kohoutek</string>
+	<key>🧑‍🎄</key>
+	<string>Santa</string>
+	<key>⛪️</key>
+	<string>kostel</string>
+	<key>🎲</key>
+	<string>hrací kostka</string>
+	<key>🤵‍♀️</key>
+	<string>žena ve smokingu</string>
+	<key>⌛️</key>
+	<string>přesýpací hodiny</string>
+	<key>🏋️‍♂️</key>
+	<string>vzpěrač</string>
+	<key>🚱</key>
+	<string>symbol nepitné vody</string>
+	<key>🎳</key>
+	<string>bowlingová koule a kuželky</string>
+	<key>👯‍♂️</key>
+	<string>tančící muž se zaječími oušky</string>
+	<key>👨‍🚀</key>
+	<string>astronaut</string>
+	<key>🚲</key>
+	<string>bicykl</string>
+	<key>🎴</key>
+	<string>květinové hrací karty</string>
+	<key>🚳</key>
+	<string>zákaz vjezdu cyklistů</string>
+	<key>👩‍👦‍👦</key>
+	<string>rodina sestávající z matky a dvou synů</string>
+	<key>🎵</key>
+	<string>hudební nota</string>
+	<key>👨‍🤝‍👨</key>
+	<string>muži držící se za ruce</string>
+	<key>🚴</key>
+	<string>osoba na kole</string>
+	<key>🎶</key>
+	<string>hudební noty</string>
+	<key>🦴</key>
+	<string>kost</string>
+	<key>🚵</key>
+	<string>cyklista na horském kole</string>
+	<key>🎷</key>
+	<string>saxofon</string>
+	<key>🦵</key>
+	<string>noha</string>
+	<key>🚶</key>
+	<string>kráčející osoba</string>
+	<key>🎸</key>
+	<string>kytara</string>
+	<key>🦶</key>
+	<string>chodidlo</string>
+	<key>🚷</key>
+	<string>zákaz vstupu chodců</string>
+	<key>🎹</key>
+	<string>klaviatura</string>
+	<key>🦷</key>
+	<string>zub</string>
+	<key>🚸</key>
+	<string>přechod pro děti</string>
+	<key>🎺</key>
+	<string>trubka</string>
+	<key>🦸</key>
+	<string>superhrdinka</string>
+	<key>🚹</key>
+	<string>mužský symbol</string>
+	<key>🎻</key>
+	<string>housle</string>
+	<key>🦹</key>
+	<string>superpadouška</string>
+	<key>🚺</key>
+	<string>ženský symbol</string>
+	<key>🎼</key>
+	<string>notová osnova</string>
+	<key>🦺</key>
+	<string>bezpečnostní vesta</string>
+	<key>🚻</key>
+	<string>toalety</string>
+	<key>🎽</key>
+	<string>běžecká košile</string>
+	<key>🦻</key>
+	<string>ucho se sluchadlem</string>
+	<key>🚼</key>
+	<string>symbol dítěte</string>
+	<key>🎾</key>
+	<string>tenisový míček</string>
+	<key>🦼</key>
+	<string>elektrický invalidní vozík</string>
+	<key>🚽</key>
+	<string>toaleta</string>
+	<key>🎿</key>
+	<string>lyže</string>
+	<key>🦽</key>
+	<string>mechanický invalidní vozík</string>
+	<key>🚾</key>
+	<string>značka vé cé</string>
+	<key>🏀</key>
+	<string>basketbal</string>
+	<key>🦾</key>
+	<string>mechanická paže</string>
+	<key>🙅‍♂️</key>
+	<string>muž s gestem ne</string>
+	<key>🚿</key>
+	<string>sprcha</string>
+	<key>🏁</key>
+	<string>šachovnicová vlajka</string>
+	<key>🦿</key>
+	<string>mechanická noha</string>
+	<key>🛀</key>
+	<string>koupající se osoba</string>
+	<key>🏂</key>
+	<string>snowboarder</string>
+	<key>🧀</key>
+	<string>kus sýra</string>
+	<key>🛁</key>
+	<string>vana</string>
+	<key>🚣‍♂️</key>
+	<string>veslující muž</string>
+	<key>🏃</key>
+	<string>běžící osoba</string>
+	<key>🧁</key>
+	<string>košíček</string>
+	<key>🛂</key>
+	<string>pasová kontrola</string>
+	<key>🏄</key>
+	<string>osoba na surfu</string>
+	<key>🧂</key>
+	<string>sůl</string>
+	<key>🛃</key>
+	<string>celnice</string>
+	<key>🏅</key>
+	<string>sportovní medaile</string>
+	<key>🧃</key>
+	<string>nápoj v krabičce</string>
+	<key>🛄</key>
+	<string>výdej zavazadel</string>
+	<key>🏆</key>
+	<string>trofej</string>
+	<key>🧄</key>
+	<string>česnek</string>
+	<key>🛅</key>
+	<string>box na úschovu zavazadel</string>
+	<key>🏇</key>
+	<string>žokej na závodním koni</string>
+	<key>🧅</key>
+	<string>cibule</string>
+	<key>✴️</key>
+	<string>osmicípá hvězda</string>
+	<key>🖼️</key>
+	<string>obraz v rámu</string>
+	<key>🏈</key>
+	<string>Americký fotbal</string>
+	<key>🧆</key>
+	<string>falafel</string>
+	<key>🏉</key>
+	<string>ragby</string>
+	<key>🧇</key>
+	<string>vafle</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>rodina sestávající ze dvou otců, syna a dcery</string>
+	<key>🏊</key>
+	<string>plavající osoba</string>
+	<key>🧈</key>
+	<string>máslo</string>
+	<key>🧑‍⚖️</key>
+	<string>soudce/soudkyně</string>
+	<key>3️⃣</key>
+	<string>klávesa s číslicí tři</string>
+	<key>🧉</key>
+	<string>maté</string>
+	<key>🧊</key>
+	<string>kostka ledu</string>
+	<key>🧋</key>
+	<string>bublinkový čaj</string>
+	<key>🛌</key>
+	<string>spící osoba</string>
+	<key>🧛‍♂️</key>
+	<string>upír</string>
+	<key>🧌</key>
+	<string>troll</string>
+	<key>🏏</key>
+	<string>kriketová pálka s míčkem</string>
+	<key>🧍</key>
+	<string>stojící osoba</string>
+	<key>🏐</key>
+	<string>volejbal</string>
+	<key>🧎</key>
+	<string>klečící osoba</string>
+	<key>🏑</key>
+	<string>hokejka na pozemní hokej s míčkem</string>
+	<key>🧏</key>
+	<string>hluchá osoba</string>
+	<key>🛐</key>
+	<string>modlitebna</string>
+	<key>🏒</key>
+	<string>hokejka na lední hokej s pukem</string>
+	<key>🧐</key>
+	<string>obličej s brýlovým monoklem</string>
+	<key>🛑</key>
+	<string>osmiúhelníková značka</string>
+	<key>🏓</key>
+	<string>pálka na stolní tenis s míčkem</string>
+	<key>🧑</key>
+	<string>dospělý muž</string>
+	<key>🛒</key>
+	<string>nákupní vozík</string>
+	<key>🧒</key>
+	<string>dítě</string>
+	<key>🧓</key>
+	<string>starší dospělý muž</string>
+	<key>🎚️</key>
+	<string>jezdec na posuvníku</string>
+	<key>🧔</key>
+	<string>muž s plnovousem</string>
+	<key>🛕</key>
+	<string>hinduistický chrám</string>
+	<key>🧕</key>
+	<string>žena v šátku</string>
+	<key>🛖</key>
+	<string>chýše</string>
+	<key>🧖</key>
+	<string>osoba v sauně</string>
+	<key>🛗</key>
+	<string>výtah</string>
+	<key>🧗</key>
+	<string>lezec</string>
+	<key>🧘</key>
+	<string>osoba v lotosovém sedu</string>
+	<key>🧙</key>
+	<string>kouzlící osoba</string>
+	<key>🧚</key>
+	<string>víla</string>
+	<key>👩‍💻</key>
+	<string>programátorka</string>
+	<key>🧛</key>
+	<string>obličej upíra</string>
+	<key>🛜</key>
+	<string>symbol bezdrátové sítě</string>
+	<key>🧜</key>
+	<string>mořská bytost</string>
+	<key>🛝</key>
+	<string>dětská skluzavka</string>
+	<key>🧝</key>
+	<string>obličej elfa</string>
+	<key>🛞</key>
+	<string>kolo</string>
+	<key>👨‍⚖️</key>
+	<string>soudce</string>
+	<key>🏠</key>
+	<string>dům</string>
+	<key>🧞</key>
+	<string>duch z lahve</string>
+	<key>↘️</key>
+	<string>šipka mířící doprava dolů</string>
+	<key>🛟</key>
+	<string>záchranný kruh</string>
+	<key>🏡</key>
+	<string>dům se zahradou</string>
+	<key>🧟</key>
+	<string>zombie</string>
+	<key>🤸‍♀️</key>
+	<string>žena dělající přemet stranou</string>
+	<key>🏢</key>
+	<string>kancelářská budova</string>
+	<key>🧠</key>
+	<string>mozek</string>
+	<key>🏣</key>
+	<string>Japonská pošta</string>
+	<key>🧡</key>
+	<string>oranžové srdce</string>
+	<key>👩‍💼</key>
+	<string>kancelářská zaměstnankyně</string>
+	<key>🏤</key>
+	<string>Evropský poštovní úřad</string>
+	<key>🧢</key>
+	<string>kšiltovka</string>
+	<key>🏥</key>
+	<string>nemocnice</string>
+	<key>🧣</key>
+	<string>šála</string>
+	<key>🏦</key>
+	<string>banka</string>
+	<key>🧤</key>
+	<string>rukavice</string>
+	<key>🏧</key>
+	<string>značka bankomatu</string>
+	<key>🧥</key>
+	<string>kabát</string>
+	<key>👷‍♀️</key>
+	<string>stavební dělnice</string>
+	<key>🏨</key>
+	<string>hotel</string>
+	<key>🧦</key>
+	<string>ponožky</string>
+	<key>🏩</key>
+	<string>hodinový hotel</string>
+	<key>🧧</key>
+	<string>červená dárková obálka</string>
+	<key>ℹ️</key>
+	<string>informační zdroj</string>
+	<key>🏪</key>
+	<string>trafika</string>
+	<key>🧨</key>
+	<string>petarda</string>
+	<key>🏫</key>
+	<string>škola</string>
+	<key>🧩</key>
+	<string>dílek puzzle</string>
+	<key>🏬</key>
+	<string>obchodní dům</string>
+	<key>🧪</key>
+	<string>zkumavka</string>
+	<key>🛫</key>
+	<string>vzlétající letadlo</string>
+	<key>🛳️</key>
+	<string>zaoceánská loď</string>
+	<key>🏭</key>
+	<string>továrna</string>
+	<key>🧫</key>
+	<string>Petriho miska</string>
+	<key>🛬</key>
+	<string>přistávající letadlo</string>
+	<key>♨️</key>
+	<string>horké prameny</string>
+	<key>🏮</key>
+	<string>lampión před izakajou</string>
+	<key>🧬</key>
+	<string>DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>rodina sestávající z matky, otce a syna</string>
+	<key>🏯</key>
+	<string>Japonský palác</string>
+	<key>🧭</key>
+	<string>kompas</string>
+	<key>🧏‍♀️</key>
+	<string>hluchá žena</string>
+	<key>🏰</key>
+	<string>Evropský hrad</string>
+	<key>🧮</key>
+	<string>počitadlo</string>
+	<key>🧯</key>
+	<string>hasicí přístroj</string>
+	<key>⏹️</key>
+	<string>symbol stop</string>
+	<key>🧰</key>
+	<string>krabice s nářadím</string>
+	<key>🧱</key>
+	<string>cihly</string>
+	<key>🏴</key>
+	<string>černá vlajka</string>
+	<key>🧲</key>
+	<string>magnet</string>
+	<key>🙍‍♀️</key>
+	<string>zamračená žena</string>
+	<key>🧳</key>
+	<string>cestovní kufr</string>
+	<key>🛴</key>
+	<string>koloběžka</string>
+	<key>🧴</key>
+	<string>láhev na kosmetiku</string>
+	<key>🛵</key>
+	<string>skútr</string>
+	<key>👨‍👦</key>
+	<string>rodina sestávající z otce a syna</string>
+	<key>🧵</key>
+	<string>cívka s nití</string>
+	<key>💆‍♂️</key>
+	<string>muž na masáži hlavy</string>
+	<key>🛶</key>
+	<string>kánoe</string>
+	<key>🏸</key>
+	<string>badmintonová raketa s míčkem</string>
+	<key>🧶</key>
+	<string>klubíčko</string>
+	<key>🛷</key>
+	<string>sáňky</string>
+	<key>🏹</key>
+	<string>luk a šíp</string>
+	<key>🧷</key>
+	<string>spínací špendlík</string>
+	<key>🛸</key>
+	<string>UFO</string>
+	<key>🏺</key>
+	<string>amfora</string>
+	<key>🧸</key>
+	<string>medvídek</string>
+	<key>🛹</key>
+	<string>skateboard</string>
+	<key>🧹</key>
+	<string>koště</string>
+	<key>🛺</key>
+	<string>autorikša</string>
+	<key>⏲️</key>
+	<string>minutka</string>
+	<key>🧺</key>
+	<string>koš</string>
+	<key>🛻</key>
+	<string>pickup</string>
+	<key>🧻</key>
+	<string>role papíru</string>
+	<key>🛼</key>
+	<string>kolečková brusle</string>
+	<key>👨‍👧</key>
+	<string>rodina sestávající z otce a dcery</string>
+	<key>🧼</key>
+	<string>mýdlo</string>
+	<key>🧞‍♂️</key>
+	<string>džin</string>
+	<key>🧽</key>
+	<string>mycí houba</string>
+	<key>🎞️</key>
+	<string>filmová okénka</string>
+	<key>🧾</key>
+	<string>účtenka</string>
+	<key>▪️</key>
+	<string>malý černý čtverec</string>
+	<key>🧿</key>
+	<string>amulet nazar</string>
+	<key>☂️</key>
+	<string>deštník</string>
+	<key>🗂️</key>
+	<string>kartotéční oddělovače</string>
+	<key>🦹‍♂️</key>
+	<string>superpadouch</string>
+	<key>🏋️</key>
+	<string>osoba vzpírající činku</string>
+	<key>◻️</key>
+	<string>střední bílý čtverec</string>
+	<key>♓️</key>
+	<string>Ryby</string>
+	<key>⚫️</key>
+	<string>černý kroužek</string>
+	<key>⏩</key>
+	<string>symbol rychle vpřed</string>
+	<key>⏪</key>
+	<string>symbol rychle zpět</string>
+	<key>⏫</key>
+	<string>dvojitý trojúhelník mířící nahoru</string>
+	<key>⏬</key>
+	<string>dvojitý trojúhelník mířící dolů</string>
+	<key>🗯️</key>
+	<string>rozzlobená řečová bublina</string>
+	<key>⏰</key>
+	<string>budík</string>
+	<key>⏳</key>
+	<string>běžící přesýpací hodiny</string>
+	<key>🧑‍🎓</key>
+	<string>studující</string>
+	<key>🧑‍🚒</key>
+	<string>hasič/hasička</string>
+	<key>♌️</key>
+	<string>Lev</string>
+	<key>🗄️</key>
+	<string>skříň s pořadači</string>
+	<key>🧍‍♂️</key>
+	<string>stojící muž</string>
+	<key>🏍️</key>
+	<string>motocykl</string>
+	<key>🙋‍♂️</key>
+	<string>muž s jednou rukou nahoře</string>
+	<key>👨‍👩‍👧</key>
+	<string>rodina sestávající z matky, otce a dcery</string>
+	<key>🇸🇦</key>
+	<string>vlajka Saúdské Arábie</string>
+	<key>⛵️</key>
+	<string>plachetnice</string>
+	<key>👩‍🏫</key>
+	<string>učitelka</string>
+	<key>⬜️</key>
+	<string>velký bílý čtverec</string>
+	<key>🇸🇧</key>
+	<string>vlajka Šalamounových ostrovů</string>
+	<key>🇬🇦</key>
+	<string>vlajka Gabonu</string>
+	<key>🇨🇦</key>
+	<string>vlajka Kanady</string>
+	<key>🇸🇨</key>
+	<string>vlajka Seychel</string>
+	<key>🇬🇧</key>
+	<string>vlajka Spojeného království</string>
+	<key>👨‍🎓</key>
+	<string>student</string>
+	<key>👨‍🚒</key>
+	<string>hasič</string>
+	<key>⚖️</key>
+	<string>dvouramenné váhy</string>
+	<key>🇸🇩</key>
+	<string>vlajka Súdánu</string>
+	<key>🇨🇨</key>
+	<string>vlajka Kokosových ostrovů</string>
+	<key>⏏️</key>
+	<string>symbol vysunutí média</string>
+	<key>🇸🇪</key>
+	<string>vlajka Švédska</string>
+	<key>🇬🇩</key>
+	<string>vlajka Grenady</string>
+	<key>👩‍🏭</key>
+	<string>tovární dělnice</string>
+	<key>🇼🇫</key>
+	<string>vlajka ostrovů Wallis a Futuna</string>
+	<key>🇨🇩</key>
+	<string>vlajka Demokratické republiky Kongo</string>
+	<key>🇰🇪</key>
+	<string>vlajka Keni</string>
+	<key>🛎️</key>
+	<string>portýrský zvonek</string>
+	<key>🇬🇪</key>
+	<string>vlajka Gruzie</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>rodina sestávající ze dvou matek, syna a dcery</string>
+	<key>🇸🇬</key>
+	<string>vlajka Singapuru</string>
+	<key>🇬🇫</key>
+	<string>vlajka Francouzské Guyany</string>
+	<key>🇨🇫</key>
+	<string>vlajka Středoafrické republiky</string>
+	<key>🇰🇬</key>
+	<string>vlajka Kyrgyzstánu</string>
+	<key>🗳️</key>
+	<string>volební urna s hlasovacím lístkem</string>
+	<key>🇸🇭</key>
+	<string>vlajka Svaté Heleny</string>
+	<key>🇬🇬</key>
+	<string>vlajka ostrova Guernsey</string>
+	<key>🧑‍⚕️</key>
+	<string>zdravotník/zdravotnice</string>
+	<key>🏃‍♀️</key>
+	<string>běžkyně</string>
+	<key>🇨🇬</key>
+	<string>vlajka Konžské republiky</string>
+	<key>🇰🇭</key>
+	<string>vlajka Kambodži</string>
+	<key>🤹‍♂️</key>
+	<string>žonglér</string>
+	<key>🇸🇮</key>
+	<string>vlajka Slovinska</string>
+	<key>🇬🇭</key>
+	<string>vlajka Ghany</string>
+	<key>〽️</key>
+	<string>značka střídání partu</string>
+	<key>🇨🇭</key>
+	<string>vlajka Švýcarska</string>
+	<key>🇰🇮</key>
+	<string>vlajka Kiribati</string>
+	<key>🇸🇯</key>
+	<string>vlajka Špicberků a Jan Mayenu</string>
+	<key>🕰️</key>
+	<string>krbové hodiny</string>
+	<key>8️⃣</key>
+	<string>klávesa s číslicí osm</string>
+	<key>🇬🇮</key>
+	<string>vlajka Gibraltaru</string>
+	<key>🤾‍♀️</key>
+	<string>házenkářka</string>
+	<key>🇨🇮</key>
+	<string>vlajka Côte d’Ivoire</string>
+	<key>⬇️</key>
+	<string>šipka dolů</string>
+	<key>👩‍✈️</key>
+	<string>pilotka</string>
+	<key>👩‍👧‍👦</key>
+	<string>rodina sestávající z matky, syna a dcery</string>
+	<key>🇸🇰</key>
+	<string>vlajka Slovenska</string>
+	<key>🌡️</key>
+	<string>teploměr</string>
+	<key>↪️</key>
+	<string>šipka doleva stáčející se doprava</string>
+	<key>🇸🇱</key>
+	<string>vlajka Sierry Leone</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>dva líbající se muži</string>
+	<key>🇨🇰</key>
+	<string>vlajka Cookových ostrovů</string>
+	<key>🇸🇲</key>
+	<string>vlajka San Marina</string>
+	<key>🇬🇱</key>
+	<string>vlajka Grónska</string>
+	<key>🇴🇲</key>
+	<string>vlajka Ománu</string>
+	<key>🇨🇱</key>
+	<string>vlajka Chile</string>
+	<key>🇰🇲</key>
+	<string>vlajka Komor</string>
+	<key>🇸🇳</key>
+	<string>vlajka Senegalu</string>
+	<key>🇬🇲</key>
+	<string>vlajka Gambie</string>
+	<key>1️⃣</key>
+	<string>klávesa s číslicí jedna</string>
+	<key>Ⓜ️</key>
+	<string>písmeno M v kroužku</string>
+	<key>🇨🇲</key>
+	<string>vlajka Kamerunu</string>
+	<key>👨‍⚕️</key>
+	<string>zdravotník</string>
+	<key>🙎‍♂️</key>
+	<string>muž s našpulenými rty</string>
+	<key>🇰🇳</key>
+	<string>vlajka Svatého Kryštofa a Nevisu</string>
+	<key>🇸🇴</key>
+	<string>vlajka Somálska</string>
+	<key>🇬🇳</key>
+	<string>vlajka Guineje</string>
+	<key>🇨🇳</key>
+	<string>vlajka Číny</string>
+	<key>☢️</key>
+	<string>radioaktivní</string>
+	<key>🇨🇴</key>
+	<string>vlajka Kolumbie</string>
+	<key>‼️</key>
+	<string>červený dvojitý vykřičník</string>
+	<key>🃏</key>
+	<string>žolík</string>
+	<key>🇰🇵</key>
+	<string>vlajka Severní Koreje</string>
+	<key>🇬🇵</key>
+	<string>vlajka Guadeloupe</string>
+	<key>㊗️</key>
+	<string>Japonský znak „blahopřání“</string>
+	<key>🐿️</key>
+	<string>veverka</string>
+	<key>🇨🇵</key>
+	<string>vlajka Clippertonova ostrova</string>
+	<key>🇸🇷</key>
+	<string>vlajka Surinamu</string>
+	<key>🏳️‍⚧️</key>
+	<string>vlajka trans hrdosti</string>
+	<key>🇬🇶</key>
+	<string>vlajka Rovníkové Guineje</string>
+	<key>🇼🇸</key>
+	<string>vlajka Samoy</string>
+	<key>*️⃣</key>
+	<string>klávesa s hvězdičkou</string>
+	<key>🇰🇷</key>
+	<string>vlajka Jižní Koreje</string>
+	<key>🇸🇸</key>
+	<string>vlajka Jižního Súdánu</string>
+	<key>🇬🇷</key>
+	<string>vlajka Řecka</string>
+	<key>🇨🇷</key>
+	<string>vlajka Kostariky</string>
+	<key>®️</key>
+	<string>značka registrovaného produktu</string>
+	<key>🇸🇹</key>
+	<string>vlajka Svatého Tomáše a Princova ostrova</string>
+	<key>🇬🇸</key>
+	<string>vlajka Jižní Georgie a Jižních Sandwichových ostrovů</string>
+	<key>↕️</key>
+	<string>šipka nahoru a dolů</string>
+	<key>🇬🇹</key>
+	<string>vlajka Guatemaly</string>
+	<key>☔️</key>
+	<string>deštník s dešťovými kapkami</string>
+	<key>🏳️‍🌈</key>
+	<string>duhová vlajka</string>
+	<key>🇸🇻</key>
+	<string>vlajka Salvadoru</string>
+	<key>🕴️</key>
+	<string>levitující muž v obleku</string>
+	<key>⛄️</key>
+	<string>sněhulák</string>
+	<key>🇬🇺</key>
+	<string>vlajka Guamu</string>
+	<key>🇨🇺</key>
+	<string>vlajka Kuby</string>
+	<key>#️⃣</key>
+	<string>znak čísla</string>
+	<key>🤼‍♂️</key>
+	<string>zápasníci</string>
+	<key>🌥️</key>
+	<string>slunce za velkým mrakem</string>
+	<key>👁️</key>
+	<string>oko</string>
+	<key>🇨🇻</key>
+	<string>vlajka Kapverd</string>
+	<key>🍽️</key>
+	<string>nůž a vidlička s talířem</string>
+	<key>🇰🇼</key>
+	<string>vlajka Kuvajtu</string>
+	<key>🇸🇽</key>
+	<string>vlajka Sint Maartenu</string>
+	<key>🇬🇼</key>
+	<string>vlajka Guineje-Bissau</string>
+	<key>🏕️</key>
+	<string>kemp</string>
+	<key>🩰</key>
+	<string>baletní piškoty</string>
+	<key>🇨🇼</key>
+	<string>vlajka Curaçaa</string>
+	<key>🩱</key>
+	<string>jednodílné plavky</string>
+	<key>🇸🇾</key>
+	<string>vlajka Sýrie</string>
+	<key>♥️</key>
+	<string>karetní barva srdce</string>
+	<key>🩲</key>
+	<string>pánské plavky</string>
+	<key>🕉️</key>
+	<string>symbol Óm</string>
+	<key>⚽️</key>
+	<string>fotbalový míč</string>
+	<key>🩳</key>
+	<string>šortky</string>
+	<key>🇨🇽</key>
+	<string>vlajka Vánočního ostrova</string>
+	<key>🩴</key>
+	<string>žabka</string>
+	<key>🇰🇾</key>
+	<string>vlajka Kajmanských ostrovů</string>
+	<key>🇸🇿</key>
+	<string>vlajka Eswatini</string>
+	<key>🩵</key>
+	<string>světle modré srdce</string>
+	<key>👩‍👧‍👧</key>
+	<string>rodina sestávající z matky a dvou dcer</string>
+	<key>🇬🇾</key>
+	<string>vlajka Guyany</string>
+	<key>🩶</key>
+	<string>šedé srdce</string>
+	<key>🩷</key>
+	<string>růžové srdce</string>
+	<key>🇨🇾</key>
+	<string>vlajka Kypru</string>
+	<key>🇰🇿</key>
+	<string>vlajka Kazachstánu</string>
+	<key>🩸</key>
+	<string>kapka krve</string>
+	<key>🩹</key>
+	<string>náplast</string>
+	<key>🩺</key>
+	<string>stetoskop</string>
+	<key>🇨🇿</key>
+	<string>vlajka Česka</string>
+	<key>🩻</key>
+	<string>rentgenový snímek</string>
+	<key>🩼</key>
+	<string>berle</string>
+	<key>🕶️</key>
+	<string>sluneční brýle</string>
+	<key>🧘‍♀️</key>
+	<string>žena v lotosovém sedu</string>
+	<key>⏯️</key>
+	<string>symbol pozastavení/přehrání média</string>
+	<key>🪀</key>
+	<string>jojo</string>
+	<key>🌧️</key>
+	<string>mrak s deštěm</string>
+	<key>🪁</key>
+	<string>papírový drak</string>
+	<key>🪂</key>
+	<string>padák</string>
+	<key>🧑‍🎤</key>
+	<string>zpěvák/zpěvačka</string>
+	<key>🪃</key>
+	<string>bumerang</string>
+	<key>🪄</key>
+	<string>kouzelná hůlka</string>
+	<key>🏗️</key>
+	<string>stavba budovy</string>
+	<key>🪅</key>
+	<string>piñata</string>
+	<key>🪆</key>
+	<string>matrjoška</string>
+	<key>🚴‍♀️</key>
+	<string>cyklistka</string>
+	<key>🪇</key>
+	<string>rumbakoule</string>
+	<key>🐀</key>
+	<string>krysa</string>
+	<key>🪈</key>
+	<string>flétna</string>
+	<key>🐁</key>
+	<string>myš</string>
+	<key>🐂</key>
+	<string>vůl</string>
+	<key>🐃</key>
+	<string>vodní buvol</string>
+	<key>🐄</key>
+	<string>kráva</string>
+	<key>🅱️</key>
+	<string>krevní skupina B</string>
+	<key>🐅</key>
+	<string>tygr</string>
+	<key>🐆</key>
+	<string>leopard</string>
+	<key>🐇</key>
+	<string>králík</string>
+	<key>🐈</key>
+	<string>kočka</string>
+	<key>🪐</key>
+	<string>planeta s prstencem</string>
+	<key>♐️</key>
+	<string>Střelec</string>
+	<key>🐉</key>
+	<string>drak</string>
+	<key>🪑</key>
+	<string>židle</string>
+	<key>🕸️</key>
+	<string>pavučina</string>
+	<key>🐊</key>
+	<string>krokodýl</string>
+	<key>🪒</key>
+	<string>břitva</string>
+	<key>👩‍🍳</key>
+	<string>kuchařka</string>
+	<key>🐋</key>
+	<string>velryba</string>
+	<key>👯‍♀️</key>
+	<string>tančící ženy se zaječími oušky</string>
+	<key>🪓</key>
+	<string>sekera</string>
+	<key>🐌</key>
+	<string>hlemýžď</string>
+	<key>🪔</key>
+	<string>indická olejová lampa</string>
+	<key>🐍</key>
+	<string>had</string>
+	<key>🪕</key>
+	<string>banjo</string>
+	<key>🏄‍♂️</key>
+	<string>surfař</string>
+	<key>🌩️</key>
+	<string>mrak s bleskem</string>
+	<key>🐎</key>
+	<string>kůň</string>
+	<key>🪖</key>
+	<string>vojenská přilba</string>
+	<key>🐏</key>
+	<string>beran</string>
+	<key>🪗</key>
+	<string>akordeon</string>
+	<key>🐐</key>
+	<string>koza</string>
+	<key>🪘</key>
+	<string>protáhlý buben</string>
+	<key>👨‍🎤</key>
+	<string>zpěvák</string>
+	<key>🏙️</key>
+	<string>silueta města</string>
+	<key>🐑</key>
+	<string>ovce</string>
+	<key>🪙</key>
+	<string>mince</string>
+	<key>🐒</key>
+	<string>opice</string>
+	<key>🪚</key>
+	<string>ruční pila</string>
+	<key>♉️</key>
+	<string>Býk</string>
+	<key>🐓</key>
+	<string>kohout</string>
+	<key>🪛</key>
+	<string>šroubovák</string>
+	<key>⚡️</key>
+	<string>blesk</string>
+	<key>🐔</key>
+	<string>slepice</string>
+	<key>🪜</key>
+	<string>žebřík</string>
+	<key>⛹️</key>
+	<string>hráčka basketbalu</string>
+	<key>🖥️</key>
+	<string>stolní počítač</string>
+	<key>🐕</key>
+	<string>pes</string>
+	<key>🪝</key>
+	<string>hák</string>
+	<key>🧑‍🎨</key>
+	<string>malíř/malířka</string>
+	<key>🐖</key>
+	<string>prase</string>
+	<key>🪞</key>
+	<string>zrcadlo</string>
+	<key>🐗</key>
+	<string>divočák</string>
+	<key>🪟</key>
+	<string>okno</string>
+	<key>🐘</key>
+	<string>slon</string>
+	<key>🙅‍♀️</key>
+	<string>žena s gestem ne</string>
+	<key>🪠</key>
+	<string>zvon na WC</string>
+	<key>🐙</key>
+	<string>chobotnice</string>
+	<key>🪡</key>
+	<string>šicí jehla</string>
+	<key>🐚</key>
+	<string>ulita</string>
+	<key>🪢</key>
+	<string>uzel</string>
+	<key>🚣‍♀️</key>
+	<string>veslující žena</string>
+	<key>🐛</key>
+	<string>housenka</string>
+	<key>🪣</key>
+	<string>kbelík</string>
+	<key>🐜</key>
+	<string>mravenec</string>
+	<key>🪤</key>
+	<string>pastička na myši</string>
+	<key>🐝</key>
+	<string>včela</string>
+	<key>🪥</key>
+	<string>zubní kartáček</string>
+	<key>🐞</key>
+	<string>beruška</string>
+	<key>🪦</key>
+	<string>náhrobek</string>
+	<key>⛲️</key>
+	<string>fontána</string>
+	<key>🐟</key>
+	<string>ryba</string>
+	<key>🪧</key>
+	<string>cedule</string>
+	<key>🐠</key>
+	<string>ryba korálových moří</string>
+	<key>🗒️</key>
+	<string>kroužkový blok</string>
+	<key>🪨</key>
+	<string>kámen</string>
+	<key>🐡</key>
+	<string>čtverzubec</string>
+	<key>🪩</key>
+	<string>disko koule</string>
+	<key>🧖‍♂️</key>
+	<string>muž v sauně</string>
+	<key>🌫️</key>
+	<string>mlha</string>
+	<key>🐢</key>
+	<string>želva</string>
+	<key>🪪</key>
+	<string>průkaz totožnosti</string>
+	<key>🐣</key>
+	<string>klubající se kuře</string>
+	<key>🪫</key>
+	<string>slabá baterie</string>
+	<key>🐤</key>
+	<string>kuřátko</string>
+	<key>🪬</key>
+	<string>hamsa</string>
+	<key>🐥</key>
+	<string>stojící kuře</string>
+	<key>😶‍🌫️</key>
+	<string>obličej v oblacích</string>
+	<key>🏛️</key>
+	<string>antická budova</string>
+	<key>🪭</key>
+	<string>skládací vějíř</string>
+	<key>🐦</key>
+	<string>pták</string>
+	<key>🧛‍♀️</key>
+	<string>upírka</string>
+	<key>🪮</key>
+	<string>hřeben na kudrnaté vlasy</string>
+	<key>🐧</key>
+	<string>tučňák</string>
+	<key>🪯</key>
+	<string>symbol khanda</string>
+	<key>🐨</key>
+	<string>koalí obličej</string>
+	<key>⚓️</key>
+	<string>kotva</string>
+	<key>🪰</key>
+	<string>moucha</string>
+	<key>🐩</key>
+	<string>pudl</string>
+	<key>🪱</key>
+	<string>červ</string>
+	<key>🐪</key>
+	<string>velbloud</string>
+	<key>🪲</key>
+	<string>brouk</string>
+	<key>👨‍🎨</key>
+	<string>umělec</string>
+	<key>🐫</key>
+	<string>velbloud dvouhrbý</string>
+	<key>🪳</key>
+	<string>šváb</string>
+	<key>🐬</key>
+	<string>delfín</string>
+	<key>🪴</key>
+	<string>květina v květináči</string>
+	<key>🐭</key>
+	<string>myší obličej</string>
+	<key>🪵</key>
+	<string>dřevo</string>
+	<key>🐮</key>
+	<string>kraví obličej</string>
+	<key>🪶</key>
+	<string>pírko</string>
+	<key>🐯</key>
+	<string>tygří obličej</string>
+	<key>🪷</key>
+	<string>lotos</string>
+	<key>🐕‍🦺</key>
+	<string>služební pes</string>
+	<key>🐰</key>
+	<string>králičí obličej</string>
+	<key>🪸</key>
+	<string>korál</string>
+	<key>🐱</key>
+	<string>kočičí obličej</string>
+	<key>🪹</key>
+	<string>prázdné hnízdo</string>
+	<key>🐲</key>
+	<string>dračí hlava</string>
+	<key>🪺</key>
+	<string>hnízdo s vejci</string>
+	<key>🐳</key>
+	<string>odfukující velryba</string>
+	<key>🪻</key>
+	<string>hyacint</string>
+	<key>🐴</key>
+	<string>koňská hlava</string>
+	<key>🪼</key>
+	<string>medúza</string>
+	<key>🐵</key>
+	<string>opičí obličej</string>
+	<key>🪽</key>
+	<string>křídlo</string>
+	<key>🐶</key>
+	<string>psí obličej</string>
+	<key>🐷</key>
+	<string>prasečí obličej</string>
+	<key>🪿</key>
+	<string>husa</string>
+	<key>🐸</key>
+	<string>žabí obličej</string>
+	<key>🫀</key>
+	<string>srdeční orgán</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>vlajka Anglie</string>
+	<key>🐹</key>
+	<string>křeččí obličej</string>
+	<key>🫁</key>
+	<string>plíce</string>
+	<key>🐺</key>
+	<string>vlk</string>
+	<key>🏝️</key>
+	<string>opuštěný ostrov</string>
+	<key>🫂</key>
+	<string>objímající se lidé</string>
+	<key>🐻</key>
+	<string>medvědí obličej</string>
+	<key>🏌️‍♂️</key>
+	<string>hráč golfu</string>
+	<key>🫃</key>
+	<string>těhotný muž</string>
+	<key>🐼</key>
+	<string>pandí obličej</string>
+	<key>🫄</key>
+	<string>těhotná osoba</string>
+	<key>6️⃣</key>
+	<string>klávesa s číslicí šest</string>
+	<key>🐽</key>
+	<string>prasečí rypák</string>
+	<key>🫅</key>
+	<string>osoba s korunou</string>
+	<key>🐾</key>
+	<string>stopy tlap</string>
+	<key>👀</key>
+	<string>oči</string>
+	<key>👂</key>
+	<string>ucho</string>
+	<key>👃</key>
+	<string>nos</string>
+	<key>👄</key>
+	<string>ústa</string>
+	<key>👅</key>
+	<string>jazyk</string>
+	<key>☦️</key>
+	<string>Pravoslavný kříž</string>
+	<key>👆</key>
+	<string>hřbet ruky s ukazováčkem mířícím nahoru</string>
+	<key>👩‍🍼</key>
+	<string>žena krmící dítě z lahve</string>
+	<key>🫎</key>
+	<string>losí obličej</string>
+	<key>♾️</key>
+	<string>nekonečno</string>
+	<key>👇</key>
+	<string>hřbet ruky s ukazováčkem mířícím dolů</string>
+	<key>🫏</key>
+	<string>osel</string>
+	<key>👈</key>
+	<string>hřbet ruky s ukazováčkem mířícím doleva</string>
+	<key>🫐</key>
+	<string>borůvky</string>
+	<key>👉</key>
+	<string>hřbet ruky s ukazováčkem mířícím doprava</string>
+	<key>🫑</key>
+	<string>paprika</string>
+	<key>👊</key>
+	<string>sevřená pěst</string>
+	<key>🫒</key>
+	<string>oliva</string>
+	<key>⭕️</key>
+	<string>kroužek</string>
+	<key>💁‍♂️</key>
+	<string>pracovník na recepci</string>
+	<key>👋</key>
+	<string>mávající ruka</string>
+	<key>🫓</key>
+	<string>chlebová placka</string>
+	<key>👌</key>
+	<string>gesto OK</string>
+	<key>🫔</key>
+	<string>tamale</string>
+	<key>👍</key>
+	<string>palec nahoru</string>
+	<key>🫕</key>
+	<string>fondue</string>
+	<key>👎</key>
+	<string>palec dolů</string>
+	<key>🫖</key>
+	<string>čajová konvice</string>
+	<key>🏟️</key>
+	<string>stadion</string>
+	<key>👏</key>
+	<string>tleskající ruce</string>
+	<key>🫗</key>
+	<string>vylévání tekutiny</string>
+	<key>💆‍♀️</key>
+	<string>žena na masáži hlavy</string>
+	<key>👐</key>
+	<string>otevřené ruce</string>
+	<key>🫘</key>
+	<string>fazole</string>
+	<key>🐦‍⬛</key>
+	<string>černý pták</string>
+	<key>🧑‍🦯</key>
+	<string>osoba s bílou holí</string>
+	<key>🫙</key>
+	<string>zavařovací sklenice</string>
+	<key>🧙‍♂️</key>
+	<string>kouzelník</string>
+	<key>👑</key>
+	<string>koruna</string>
+	<key>⛏️</key>
+	<string>krumpáč</string>
+	<key>👒</key>
+	<string>klobouk s mašlí</string>
+	<key>🫚</key>
+	<string>oddenek zázvoru</string>
+	<key>👓</key>
+	<string>brýle</string>
+	<key>🫛</key>
+	<string>hrachový lusk</string>
+	<key>👔</key>
+	<string>košile s kravatou</string>
+	<key>👕</key>
+	<string>polotriko</string>
+	<key>👖</key>
+	<string>džíny</string>
+	<key>🧞‍♀️</key>
+	<string>džinka</string>
+	<key>👗</key>
+	<string>šaty</string>
+	<key>↙️</key>
+	<string>šipka mířící doleva dolů</string>
+	<key>🧑‍🦰</key>
+	<string>osoba se zrzavými vlasy</string>
+	<key>🕵️‍♂️</key>
+	<string>detektiv</string>
+	<key>👘</key>
+	<string>kimono</string>
+	<key>🟠</key>
+	<string>oranžový kroužek</string>
+	<key>🫠</key>
+	<string>tající obličej</string>
+	<key>🟡</key>
+	<string>žlutý kroužek</string>
+	<key>👩‍❤️‍👨</key>
+	<string>muž a žena se srdíčkem</string>
+	<key>👙</key>
+	<string>bikiny</string>
+	<key>◀️</key>
+	<string>trojúhelník mířící doleva</string>
+	<key>🫡</key>
+	<string>salutující obličej</string>
+	<key>🟢</key>
+	<string>zelený kroužek</string>
+	<key>👚</key>
+	<string>blůza</string>
+	<key>☘️</key>
+	<string>trojlístek</string>
+	<key>🫢</key>
+	<string>obličej s otevřenýma očima a dlaní před pusou</string>
+	<key>🚵‍♂️</key>
+	<string>cyklista na horském kole</string>
+	<key>🟣</key>
+	<string>fialový kroužek</string>
+	<key>👛</key>
+	<string>peněženka</string>
+	<key>🫣</key>
+	<string>pokukující obličej</string>
+	<key>🟤</key>
+	<string>hnědý kroužek</string>
+	<key>👜</key>
+	<string>kabelka</string>
+	<key>⛈️</key>
+	<string>mrak s bleskem a deštěm</string>
+	<key>🫤</key>
+	<string>obličej s pusou nakřivo</string>
+	<key>🟥</key>
+	<string>červený čtvereček</string>
+	<key>👝</key>
+	<string>příruční taška</string>
+	<key>🫥</key>
+	<string>obličej s tečkovaným obrysem</string>
+	<key>🟦</key>
+	<string>modrý čtvereček</string>
+	<key>👞</key>
+	<string>polobotka</string>
+	<key>🧑‍🦱</key>
+	<string>osoba s kudrnatými vlasy</string>
+	<key>🫦</key>
+	<string>skousnutý ret</string>
+	<key>🟧</key>
+	<string>oranžový čtvereček</string>
+	<key>🦹‍♀️</key>
+	<string>superpadouška</string>
+	<key>👟</key>
+	<string>tenisová bota</string>
+	<key>🫧</key>
+	<string>bubliny</string>
+	<key>🟨</key>
+	<string>žlutý čtvereček</string>
+	<key>❤️‍🔥</key>
+	<string>hořící srdce</string>
+	<key>👠</key>
+	<string>střevíc na vysokém podpatku</string>
+	<key>🟩</key>
+	<string>zelený čtvereček</string>
+	<key>🫨</key>
+	<string>roztřesený obličej</string>
+	<key>👡</key>
+	<string>sandál na podpatku</string>
+	<key>🟪</key>
+	<string>fialový čtvereček</string>
+	<key>👢</key>
+	<string>kozačky na podpatku</string>
+	<key>🟫</key>
+	<string>hnědý čtvereček</string>
+	<key>👣</key>
+	<string>šlépěje</string>
+	<key>🛠️</key>
+	<string>kladivo a montážní klíč</string>
+	<key>📽️</key>
+	<string>filmový projektor</string>
+	<key>👤</key>
+	<string>silueta osoby</string>
+	<key>☑️</key>
+	<string>volební urna se zaškrtávací značkou</string>
+	<key>🧑‍🦲</key>
+	<string>osoba bez vlasů</string>
+	<key>👥</key>
+	<string>silueta dvou osob</string>
+	<key>👦</key>
+	<string>chlapec</string>
+	<key>👨‍🦯</key>
+	<string>muž s bílou holí</string>
+	<key>👧</key>
+	<string>dívka</string>
+	<key>👰‍♂️</key>
+	<string>muž se závojem</string>
+	<key>👩‍🚀</key>
+	<string>astronautka</string>
+	<key>🟰</key>
+	<string>rovnítko</string>
+	<key>🏴‍☠️</key>
+	<string>pirátská vlajka</string>
+	<key>👨</key>
+	<string>muž</string>
+	<key>🫰</key>
+	<string>ruka se zkříženým palcem a ukazováčkem</string>
+	<key>⏺️</key>
+	<string>symbol nahrávání</string>
+	<key>👩</key>
+	<string>žena</string>
+	<key>🫱</key>
+	<string>ruka mířící doprava</string>
+	<key>👪</key>
+	<string>rodina</string>
+	<key>🫲</key>
+	<string>ruka mířící doleva</string>
+	<key>👫</key>
+	<string>muž a žena držící se za ruce</string>
+	<key>🫳</key>
+	<string>dlaň obrácená dolů</string>
+	<key>🧑‍🦳</key>
+	<string>osoba s bílými vlasy</string>
+	<key>👬</key>
+	<string>dva muži držící se za ruce</string>
+	<key>🫴</key>
+	<string>dlaň obrácená nahoru</string>
+	<key>👭</key>
+	<string>dvě ženy držící se za ruce</string>
+	<key>👨‍🦰</key>
+	<string>rudovlasý muž</string>
+	<key>🫵</key>
+	<string>ukazováček mířící na diváka</string>
+	<key>👮</key>
+	<string>strážník</string>
+	<key>🏊‍♂️</key>
+	<string>plavec</string>
+	<key>🫶</key>
+	<string>ruce ve tvaru srdce</string>
+	<key>👯</key>
+	<string>tančící osoby se zaječími oušky</string>
+	<key>🫷</key>
+	<string>ruka tlačící doleva</string>
+	<key>👰</key>
+	<string>osoba se závojem</string>
+	<key>🫸</key>
+	<string>ruka tlačící doprava</string>
+	<key>👱</key>
+	<string>člověk s blond vlasy</string>
+	<key>✒️</key>
+	<string>plnicí pero</string>
+	<key>👲</key>
+	<string>muž s čínskou čapkou</string>
+	<key>🧍‍♀️</key>
+	<string>stojící žena</string>
+	<key>👳</key>
+	<string>člověk s turbanem</string>
+	<key>👨‍🦱</key>
+	<string>kudrnatý muž</string>
+	<key>👴</key>
+	<string>starý muž</string>
+	<key>🙆‍♂️</key>
+	<string>muž s gestem OK</string>
+	<key>👵</key>
+	<string>stará žena</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>rodina sestávající z matky, otce, syna a dcery</string>
+	<key>👶</key>
+	<string>dítě</string>
+	<key>👷</key>
+	<string>dělník na stavbě</string>
+	<key>▫️</key>
+	<string>malý bílý čtverec</string>
+	<key>👸</key>
+	<string>princezna</string>
+	<key>🛢️</key>
+	<string>barel ropy</string>
+	<key>☃️</key>
+	<string>sněhulák se sněhovými vločkami</string>
+	<key>👹</key>
+	<string>obr</string>
+	<key>🙋‍♀️</key>
+	<string>žena s jednou rukou nahoře</string>
+	<key>👺</key>
+	<string>skřítek</string>
+	<key>👨‍🦲</key>
+	<string>muž bez vlasů</string>
+	<key>🇹🇦</key>
+	<string>vlajka souostroví Tristan da Cunha</string>
+	<key>👻</key>
+	<string>duch</string>
+	<key>🇵🇦</key>
+	<string>vlajka Panamy</string>
+	<key>👼</key>
+	<string>andílek</string>
+	<key>❣️</key>
+	<string>červené srdce jako vykřičník</string>
+	<key>👽</key>
+	<string>mimozemšťan</string>
+	<key>🇱🇦</key>
+	<string>vlajka Laosu</string>
+	<key>👾</key>
+	<string>vetřelec</string>
+	<key>👿</key>
+	<string>rozzlobený obličej s růžky</string>
+	<key>💀</key>
+	<string>lebka</string>
+	<key>🇱🇧</key>
+	<string>vlajka Libanonu</string>
+	<key>👨‍🦳</key>
+	<string>bělovlasý muž</string>
+	<key>💁</key>
+	<string>recepční</string>
+	<key>🇹🇨</key>
+	<string>vlajka ostrovů Turks a Caicos</string>
+	<key>🧜‍♂️</key>
+	<string>mořský muž</string>
+	<key>💂</key>
+	<string>gardista</string>
+	<key>💃</key>
+	<string>tančící žena</string>
+	<key>◼️</key>
+	<string>středně velký černý čtverec</string>
+	<key>🇱🇨</key>
+	<string>vlajka Svaté Lucie</string>
+	<key>💄</key>
+	<string>rtěnka</string>
+	<key>🇹🇩</key>
+	<string>vlajka Čadu</string>
+	<key>💅</key>
+	<string>lak na nehty</string>
+	<key>💆</key>
+	<string>osoba na masáži hlavy</string>
+	<key>💇</key>
+	<string>osoba u kadeřníka</string>
+	<key>🗜️</key>
+	<string>svorka</string>
+	<key>💈</key>
+	<string>značka holičství</string>
+	<key>💉</key>
+	<string>injekční stříkačka</string>
+	<key>🇵🇪</key>
+	<string>vlajka Peru</string>
+	<key>💊</key>
+	<string>pilulka</string>
+	<key>💋</key>
+	<string>otisk rtů</string>
+	<key>🇹🇫</key>
+	<string>vlajka Francouzských jižních území</string>
+	<key>💌</key>
+	<string>milostný dopis</string>
+	<key>👩‍❤️‍👩</key>
+	<string>dvě ženy se srdíčkem</string>
+	<key>🇵🇫</key>
+	<string>vlajka Francouzské Polynésie</string>
+	<key>🛤️</key>
+	<string>železniční trať</string>
+	<key>💍</key>
+	<string>prsten</string>
+	<key>🆎</key>
+	<string>krevní skupina AB</string>
+	<key>🇩🇪</key>
+	<string>vlajka Německa</string>
+	<key>🈂️</key>
+	<string>Japonský znak pro službu nebo poplatek za službu</string>
+	<key>💎</key>
+	<string>drahokam</string>
+	<key>♍️</key>
+	<string>Panna</string>
+	<key>🇹🇬</key>
+	<string>vlajka Toga</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>dvě líbající se ženy</string>
+	<key>💏</key>
+	<string>polibek</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>osoby držící se za ruce</string>
+	<key>💐</key>
+	<string>kytice</string>
+	<key>⛽️</key>
+	<string>palivová pumpa</string>
+	<key>🇵🇬</key>
+	<string>vlajka Papuy‑Nové Guineje</string>
+	<key>🖱️</key>
+	<string>počítačová myš</string>
+	<key>🆑</key>
+	<string>Značka CL</string>
+	<key>💑</key>
+	<string>pár se srdcem</string>
+	<key>🆒</key>
+	<string>značka klid</string>
+	<key>🇹🇭</key>
+	<string>vlajka Thajska</string>
+	<key>💒</key>
+	<string>svatba</string>
+	<key>🆓</key>
+	<string>značka volné či bezplatné</string>
+	<key>💓</key>
+	<string>tlukoucí srdce</string>
+	<key>🆔</key>
+	<string>identifikační značka</string>
+	<key>🇵🇭</key>
+	<string>vlajka Filipín</string>
+	<key>👩‍⚖️</key>
+	<string>soudkyně</string>
+	<key>💔</key>
+	<string>zlomené srdce</string>
+	<key>🇩🇬</key>
+	<string>vlajka ostrova Diego García</string>
+	<key>🆕</key>
+	<string>značka nové</string>
+	<key>🅿️</key>
+	<string>značka parkování</string>
+	<key>💕</key>
+	<string>dvě srdíčka</string>
+	<key>🤹‍♀️</key>
+	<string>žonglérka</string>
+	<key>🆖</key>
+	<string>značka to není dobré</string>
+	<key>💖</key>
+	<string>jiskřící srdce</string>
+	<key>🆗</key>
+	<string>značka OK</string>
+	<key>💗</key>
+	<string>rostoucí srdce</string>
+	<key>👳‍♂️</key>
+	<string>muž v turbanu</string>
+	<key>🆘</key>
+	<string>Značka SOS</string>
+	<key>💘</key>
+	<string>srdce se šípem</string>
+	<key>🇱🇮</key>
+	<string>vlajka Lichtenštejnska</string>
+	<key>🆙</key>
+	<string>značka nahoru</string>
+	<key>🈯️</key>
+	<string>Japonský znak „rezervace“</string>
+	<key>🇹🇯</key>
+	<string>vlajka Tádžikistánu</string>
+	<key>💙</key>
+	<string>modré srdce</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>rodina sestávající ze dvou otců a dvou synů</string>
+	<key>🆚</key>
+	<string>čtverec s písmeny vs</string>
+	<key>💚</key>
+	<string>zelené srdce</string>
+	<key>🇽🇰</key>
+	<string>vlajka Kosova</string>
+	<key>💛</key>
+	<string>žluté srdce</string>
+	<key>🗞️</key>
+	<string>noviny svinuté do ruličky</string>
+	<key>💜</key>
+	<string>purpurové srdce</string>
+	<key>🇹🇰</key>
+	<string>vlajka Tokelau</string>
+	<key>💝</key>
+	<string>srdce se stužkou</string>
+	<key>🇵🇰</key>
+	<string>vlajka Pákistánu</string>
+	<key>💞</key>
+	<string>kroužící srdíčka</string>
+	<key>🇩🇯</key>
+	<string>vlajka Džíbútí</string>
+	<key>💟</key>
+	<string>srdíčková ozdoba</string>
+	<key>🇱🇰</key>
+	<string>vlajka Srí Lanky</string>
+	<key>🇹🇱</key>
+	<string>vlajka Východního Timoru</string>
+	<key>👩‍🤝‍👨</key>
+	<string>žena a muž držící se za ruce</string>
+	<key>💠</key>
+	<string>kosočtverec s tečkou uvnitř</string>
+	<key>🇭🇰</key>
+	<string>vlajka Hongkongu</string>
+	<key>💡</key>
+	<string>žárovka</string>
+	<key>🇵🇱</key>
+	<string>vlajka Polska</string>
+	<key>🇩🇰</key>
+	<string>vlajka Dánska</string>
+	<key>💢</key>
+	<string>japonský symbol hněvu</string>
+	<key>🇹🇲</key>
+	<string>vlajka Turkmenistánu</string>
+	<key>💣</key>
+	<string>bomba</string>
+	<key>⚗️</key>
+	<string>alembik</string>
+	<key>💤</key>
+	<string>značka spánku</string>
+	<key>🇵🇲</key>
+	<string>vlajka Svatého Pierra a Miquelonu</string>
+	<key>💥</key>
+	<string>exploze</string>
+	<key>❇️</key>
+	<string>jiskra</string>
+	<key>💦</key>
+	<string>kapky vody</string>
+	<key>🇹🇳</key>
+	<string>vlajka Tuniska</string>
+	<key>🧑‍🦼</key>
+	<string>člověk na elektrickém invalidním vozíku</string>
+	<key>💧</key>
+	<string>kapka</string>
+	<key>🇭🇲</key>
+	<string>vlajka Heardova ostrova a McDonaldových ostrovů</string>
+	<key>🇵🇳</key>
+	<string>vlajka Pitcairnových ostrovů</string>
+	<key>💨</key>
+	<string>poryv větru</string>
+	<key>🇩🇲</key>
+	<string>vlajka Dominiky</string>
+	<key>💩</key>
+	<string>hromádka</string>
+	<key>🙎‍♀️</key>
+	<string>žena s našpulenými rty</string>
+	<key>🇹🇴</key>
+	<string>vlajka Tongy</string>
+	<key>💪</key>
+	<string>zatnutý biceps</string>
+	<key>🇭🇳</key>
+	<string>vlajka Hondurasu</string>
+	<key>👩‍👦</key>
+	<string>rodina sestávající z matky a syna</string>
+	<key>💫</key>
+	<string>symbol závrati</string>
+	<key>💇‍♂️</key>
+	<string>muž u holiče</string>
+	<key>💬</key>
+	<string>komiksová bublina</string>
+	<key>☸️</key>
+	<string>kolo dharmy</string>
+	<key>💭</key>
+	<string>myšlenková bublina</string>
+	<key>🧑‍🦽</key>
+	<string>člověk na mechanickém invalidním vozíku</string>
+	<key>💮</key>
+	<string>bílá květina</string>
+	<key>💯</key>
+	<string>symbol sta bodů</string>
+	<key>🇩🇴</key>
+	<string>vlajka Dominikánské republiky</string>
+	<key>💰</key>
+	<string>pytel peněz</string>
+	<key>💱</key>
+	<string>směnárna</string>
+	<key>😵‍💫</key>
+	<string>obličej se spirálami místo očí</string>
+	<key>👩‍👧</key>
+	<string>rodina sestávající z matky a dcery</string>
+	<key>🧟‍♂️</key>
+	<string>zombie</string>
+	<key>💲</key>
+	<string>značka dolaru</string>
+	<key>💳</key>
+	<string>platební karta</string>
+	<key>🇹🇷</key>
+	<string>vlajka Turecka</string>
+	<key>💴</key>
+	<string>jenové bankovky</string>
+	<key>💵</key>
+	<string>dolarové bankovky</string>
+	<key>🇵🇷</key>
+	<string>vlajka Portorika</string>
+	<key>💶</key>
+	<string>euro bankovky</string>
+	<key>🇱🇷</key>
+	<string>vlajka Libérie</string>
+	<key>💷</key>
+	<string>librové bankovky</string>
+	<key>💸</key>
+	<string>okřídlené peníze</string>
+	<key>🇭🇷</key>
+	<string>vlajka Chorvatska</string>
+	<key>🇵🇸</key>
+	<string>vlajka Palestinské autonomie</string>
+	<key>💹</key>
+	<string>rostoucí graf se znakem jenu</string>
+	<key>💺</key>
+	<string>sedadlo</string>
+	<key>🇱🇸</key>
+	<string>vlajka Lesotha</string>
+	<key>🇹🇹</key>
+	<string>vlajka Trinidadu a Tobaga</string>
+	<key>💻</key>
+	<string>laptop</string>
+	<key>💼</key>
+	<string>aktovka</string>
+	<key>👨‍🦼</key>
+	<string>muž na elektrickém invalidním vozíku</string>
+	<key>🇵🇹</key>
+	<string>vlajka Portugalska</string>
+	<key>💽</key>
+	<string>minidisk</string>
+	<key>🇱🇹</key>
+	<string>vlajka Litvy</string>
+	<key>💾</key>
+	<string>disketa</string>
+	<key>🇭🇹</key>
+	<string>vlajka Haiti</string>
+	<key>💿</key>
+	<string>cd</string>
+	<key>📀</key>
+	<string>dvd</string>
+	<key>🤷‍♂️</key>
+	<string>muž krčící rameny</string>
+	<key>📁</key>
+	<string>zavřená složka na listiny</string>
+	<key>🇱🇺</key>
+	<string>vlajka Lucemburska</string>
+	<key>☪️</key>
+	<string>hvězda a půlměsíc</string>
+	<key>🇹🇻</key>
+	<string>vlajka Tuvalu</string>
+	<key>📂</key>
+	<string>otevřená složka na listiny</string>
+	<key>4️⃣</key>
+	<string>klávesa s číslicí čtyři</string>
+	<key>🇭🇺</key>
+	<string>vlajka Maďarska</string>
+	<key>👨‍🦽</key>
+	<string>muž na mechanickém invalidním vozíku</string>
+	<key>📃</key>
+	<string>stránka s přehybem</string>
+	<key>🖊️</key>
+	<string>kuličkové pero</string>
+	<key>📄</key>
+	<string>stránka lícem nahoru</string>
+	<key>🇱🇻</key>
+	<string>vlajka Lotyšska</string>
+	<key>🇹🇼</key>
+	<string>vlajka Tchaj-wanu</string>
+	<key>📅</key>
+	<string>kalendář</string>
+	<key>🤼‍♀️</key>
+	<string>zápasnice</string>
+	<key>📆</key>
+	<string>trhací kalendář</string>
+	<key>🇵🇼</key>
+	<string>vlajka Palau</string>
+	<key>📇</key>
+	<string>vizitkovník</string>
+	<key>📈</key>
+	<string>rostoucí graf</string>
+	<key>🧑‍🔧</key>
+	<string>mechanik/mechanička</string>
+	<key>📉</key>
+	<string>klesající graf</string>
+	<key>〰️</key>
+	<string>pomlčka ve tvaru vlnovky</string>
+	<key>📊</key>
+	<string>pruhový graf</string>
+	<key>📋</key>
+	<string>deska s klipem</string>
+	<key>☣️</key>
+	<string>biohazard</string>
+	<key>📌</key>
+	<string>špendlík</string>
+	<key>♻️</key>
+	<string>symbol recyklace</string>
+	<key>📍</key>
+	<string>kulatý špendlík</string>
+	<key>🇵🇾</key>
+	<string>vlajka Paraguaye</string>
+	<key>⛓️</key>
+	<string>řetězy</string>
+	<key>📎</key>
+	<string>sponka na papír</string>
+	<key>🧎‍♂️</key>
+	<string>klečící muž</string>
+	<key>🇱🇾</key>
+	<string>vlajka Libye</string>
+	<key>📏</key>
+	<string>rovné pravítko</string>
+	<key>🇹🇿</key>
+	<string>vlajka Tanzánie</string>
+	<key>📐</key>
+	<string>trojúhelníkové pravítko</string>
+	<key>📑</key>
+	<string>knižní záložky</string>
+	<key>📒</key>
+	<string>kniha</string>
+	<key>📓</key>
+	<string>zápisník</string>
+	<key>👩‍🤝‍👩</key>
+	<string>ženy držící se za ruce</string>
+	<key>📔</key>
+	<string>zápisník s ozdobným obalem</string>
+	<key>🇩🇿</key>
+	<string>vlajka Alžírska</string>
+	<key>📕</key>
+	<string>červená učebnice</string>
+	<key>📖</key>
+	<string>otevřená kniha</string>
+	<key>📗</key>
+	<string>zelená učebnice</string>
+	<key>🖌️</key>
+	<string>malířský štětec</string>
+	<key>📘</key>
+	<string>modrá učebnice</string>
+	<key>📙</key>
+	<string>oranžová učebnice</string>
+	<key>👩‍👩‍👦</key>
+	<string>rodina sestávající ze dvou matek a syna</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>rodina sestávající ze dvou otců a dvou dcer</string>
+	<key>📚</key>
+	<string>knihy</string>
+	<key>📛</key>
+	<string>jmenovka</string>
+	<key>📜</key>
+	<string>svitek</string>
+	<key>📝</key>
+	<string>záznam</string>
+	<key>↖️</key>
+	<string>šipka nahoru doleva</string>
+	<key>🤦‍♂️</key>
+	<string>muž s obličejem v dlani</string>
+	<key>📞</key>
+	<string>telefonní sluchátko</string>
+	<key>👩‍🎓</key>
+	<string>studentka</string>
+	<key>👩‍🚒</key>
+	<string>hasička</string>
+	<key>⤴️</key>
+	<string>šipka doprava stáčející se nahoru</string>
+	<key>👨‍🔧</key>
+	<string>mechanik</string>
+	<key>📟</key>
+	<string>pager</string>
+	<key>☕️</key>
+	<string>teplý nápoj</string>
+	<key>📠</key>
+	<string>fax</string>
+	<key>📡</key>
+	<string>satelitní anténa</string>
+	<key>⛅️</key>
+	<string>slunce za mrakem</string>
+	<key>📢</key>
+	<string>veřejný hlásič</string>
+	<key>🧑‍🌾</key>
+	<string>farmář/farmářka</string>
+	<key>✝️</key>
+	<string>Latinský kříž</string>
+	<key>📣</key>
+	<string>tlampač pro povzbuzování</string>
+	<key>📤</key>
+	<string>přihrádka na odchozí poštu</string>
+	<key>📥</key>
+	<string>přihrádka na příchozí poštu</string>
+	<key>📦</key>
+	<string>balík</string>
+	<key>📧</key>
+	<string>e‑mail</string>
+	<key>📨</key>
+	<string>příchozí obálka</string>
+	<key>📩</key>
+	<string>obálka se šipkou</string>
+	<key>▶️</key>
+	<string>trojúhelník mířící doprava</string>
+	<key>🧑‍🔬</key>
+	<string>vědec/vědkyně</string>
+	<key>📪</key>
+	<string>zavřená poštovní schránka s praporkem dole</string>
+	<key>☎️</key>
+	<string>telefon</string>
+	<key>🈷️</key>
+	<string>Japonský znak „měsíční částka“</string>
+	<key>♦️</key>
+	<string>karetní barva káry</string>
+	<key>📫</key>
+	<string>zavřená poštovní schránka s praporkem nahoře</string>
+	<key>📬</key>
+	<string>otevřená poštovní schránka se zdviženým praporkem</string>
+	<key>⚾️</key>
+	<string>baseball</string>
+	<key>📭</key>
+	<string>otevřená poštovní schránka s praporkem dole</string>
+	<key>✖️</key>
+	<string>symbol násobení</string>
+	<key>📮</key>
+	<string>poštovní schránka</string>
+	<key>📯</key>
+	<string>poštovní trumpeta</string>
+	<key>🏄‍♀️</key>
+	<string>surfařka</string>
+	<key>📰</key>
+	<string>noviny</string>
+	<key>📱</key>
+	<string>mobilní telefon</string>
+	<key>🎗️</key>
+	<string>připomínková stuha</string>
+	<key>📲</key>
+	<string>telefon se šipkou</string>
+	<key>📳</key>
+	<string>vibrační režim</string>
+	<key>📴</key>
+	<string>vypnutý mobilní telefon</string>
+	<key>📵</key>
+	<string>zákaz používání mobilních telefonů</string>
+	<key>♟️</key>
+	<string>pěšec</string>
+	<key>📶</key>
+	<string>indikátor síly mobilního signálu</string>
+	<key>📷</key>
+	<string>fotoaparát</string>
+	<key>✏️</key>
+	<string>tužka</string>
+	<key>📸</key>
+	<string>fotoaparát s bleskem</string>
+	<key>👨‍🌾</key>
+	<string>farmář</string>
+	<key>📹</key>
+	<string>videokamera</string>
+	<key>📺</key>
+	<string>televizor</string>
+	<key>🐻‍❄️</key>
+	<string>hlava ledního medvěda</string>
+	<key>📻</key>
+	<string>rádio</string>
+	<key>📼</key>
+	<string>videokazeta</string>
+	<key>☀️</key>
+	<string>slunce</string>
+	<key>📿</key>
+	<string>růženec</string>
+	<key>👨‍🔬</key>
+	<string>vědec</string>
+	<key>🔀</key>
+	<string>symbol zamíchání stop</string>
+	<key>🈁</key>
+	<string>Japonský znak pro zde</string>
+	<key>⚰️</key>
+	<string>rakev</string>
+	<key>🔁</key>
+	<string>symbol opakování</string>
+	<key>🖐️</key>
+	<string>zdvižená ruka s roztaženými prsty</string>
+	<key>✈️</key>
+	<string>letadlo</string>
+	<key>🔂</key>
+	<string>symbol opakování jedné stopy</string>
+	<key>🗨️</key>
+	<string>levá řečová bublina</string>
+	<key>🔃</key>
+	<string>svislé šípky stáčející se po směru hodin</string>
+	<key>🧖‍♀️</key>
+	<string>žena v sauně</string>
+	<key>🔄</key>
+	<string>šipky proti směru hodinových ručiček</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>rodina sestávající ze dvou matek a dvou synů</string>
+	<key>👩‍⚕️</key>
+	<string>zdravotnice</string>
+	<key>™️</key>
+	<string>značka ochranné známky</string>
+	<key>🔅</key>
+	<string>symbol nízkého jasu</string>
+	<key>🔆</key>
+	<string>symbol vysokého jasu</string>
+	<key>🎙️</key>
+	<string>studiový mikrofon</string>
+	<key>🔇</key>
+	<string>ztlumený reproduktor</string>
+	<key>🔈</key>
+	<string>reproduktor</string>
+	<key>🛰️</key>
+	<string>satelit</string>
+	<key>🔉</key>
+	<string>reproduktor při střední hlasitosti</string>
+	<key>♑️</key>
+	<string>Kozoroh</string>
+	<key>🔊</key>
+	<string>reproduktor při vysoké hlasitosti</string>
+	<key>🔋</key>
+	<string>baterie</string>
+	<key>🔌</key>
+	<string>elektrická vidlice</string>
+	<key>👩‍👩‍👧</key>
+	<string>rodina sestávající ze dvou matek a dcery</string>
+	<key>🔍</key>
+	<string>lupa ukazující doleva</string>
+	<key>🔎</key>
+	<string>lupa ukazující doprava</string>
+	<key>🔏</key>
+	<string>zámek s inkoustovým perem</string>
+	<key>🔐</key>
+	<string>zamčený zámek s klíčem</string>
+	<key>🔑</key>
+	<string>klíč</string>
+	<key>🔒</key>
+	<string>zavřený visací zámek</string>
+	<key>🔓</key>
+	<string>otevřený visací zámek</string>
+	<key>♊️</key>
+	<string>Blíženci</string>
+	<key>🔔</key>
+	<string>zvonek</string>
+	<key>🔕</key>
+	<string>ztlumený zvonek</string>
+	<key>⛺️</key>
+	<string>stan</string>
+	<key>🔖</key>
+	<string>záložka</string>
+	<key>🔗</key>
+	<string>symbol propojení</string>
+	<key>🔘</key>
+	<string>přepínač</string>
+	<key>🔙</key>
+	<string>šipka s nápisem zpět</string>
+	<key>🔚</key>
+	<string>šipka s nápisem konec</string>
+	<key>🔛</key>
+	<string>šipka s nápisem „do toho“</string>
+	<key>🎛️</key>
+	<string>ovládací knoflíky</string>
+	<key>🔜</key>
+	<string>šipka s nápisem brzy</string>
+	<key>🏳️</key>
+	<string>bílá vlajka</string>
+	<key>🔝</key>
+	<string>šipka s nápisem nahoru</string>
+	<key>🔞</key>
+	<string>do osmnácti let vstup zakázán</string>
+	<key>🔟</key>
+	<string>klávesa s číslem deset</string>
+	<key>⚛️</key>
+	<string>symbol atomu</string>
+	<key>🔠</key>
+	<string>symbol vstupu pro velká písmena</string>
+	<key>⛳️</key>
+	<string>golfová jamka s praporkem</string>
+	<key>🔡</key>
+	<string>symbol vstupu pro malá písmena</string>
+	<key>🤽‍♂️</key>
+	<string>hráč vodního póla</string>
+	<key>🔢</key>
+	<string>symbol vstupu pro čísla</string>
+	<key>🔣</key>
+	<string>symbol vstupu pro symboly</string>
+	<key>🔤</key>
+	<string>symbol vstupu pro písmena</string>
+	<key>🔥</key>
+	<string>oheň</string>
+	<key>🔦</key>
+	<string>kapesní svítilna</string>
+	<key>🔧</key>
+	<string>maticový klíč</string>
+	<key>🔨</key>
+	<string>kladívko</string>
+	<key>🔩</key>
+	<string>šroub a matice</string>
+	<key>⚔️</key>
+	<string>zkřížené meče</string>
+	<key>🔪</key>
+	<string>nůž</string>
+	<key>🔫</key>
+	<string>vodní pistole</string>
+	<key>❄️</key>
+	<string>sněhová vločka</string>
+	<key>🔬</key>
+	<string>mikroskop</string>
+	<key>💁‍♀️</key>
+	<string>pracovnice na recepci</string>
+	<key>🔭</key>
+	<string>dalekohled</string>
+	<key>🔮</key>
+	<string>křišťálová koule</string>
+	<key>🧔‍♂️</key>
+	<string>muž s plnovousem</string>
+	<key>🔯</key>
+	<string>židovská hvězda s tečkou ve středu</string>
+	<key>🔰</key>
+	<string>Japonský symbol pro začátečníka</string>
+	<key>🔱</key>
+	<string>trojzubec</string>
+	<key>🈲</key>
+	<string>Japonský znak „zákaz“</string>
+	<key>🏵️</key>
+	<string>rozeta</string>
+	<key>🔲</key>
+	<string>černý čtvercový knoflík</string>
+	<key>🈳</key>
+	<string>Japonský znak pro volné místo</string>
+	<key>🔳</key>
+	<string>bílý čtvercový knoflík</string>
+	<key>🈴</key>
+	<string>Japonský znak „prospěl“</string>
+	<key>🧙‍♀️</key>
+	<string>kouzelnice</string>
+	<key>🔴</key>
+	<string>červená tečka</string>
+	<key>🈵</key>
+	<string>Japonský znak „obsazeno, žádná volná místa“</string>
+	<key>🔵</key>
+	<string>modrá tečka</string>
+	<key>🈶</key>
+	<string>Japonský znak „za úhradu“</string>
+	<key>🔶</key>
+	<string>velký oranžový kosočtverec</string>
+	<key>🔷</key>
+	<string>velký modrý kosočtverec</string>
+	<key>🈸</key>
+	<string>Japonský znak „žádost“</string>
+	<key>🔸</key>
+	<string>malý oranžový kosočtverec</string>
+	<key>🈹</key>
+	<string>Japonský znak „sleva“</string>
+	<key>🔹</key>
+	<string>malý modrý kosočtverec</string>
+	<key>9️⃣</key>
+	<string>klávesa s číslicí devět</string>
+	<key>🈺</key>
+	<string>Japonský znak „otevřeno“</string>
+	<key>🔺</key>
+	<string>červený trojúhelník mířící nahoru</string>
+	<key>🔻</key>
+	<string>červený trojúhelník mířící dolů</string>
+	<key>🀄️</key>
+	<string>kámen červený drak v madžongu</string>
+	<key>🔼</key>
+	<string>trojúhelník mířící nahoru</string>
+	<key>🚵‍♀️</key>
+	<string>cyklistka na horském kole</string>
+	<key>☮️</key>
+	<string>symbol míru</string>
+	<key>🔽</key>
+	<string>trojúhelník mířící dolů</string>
+	<key>👨‍👦‍👦</key>
+	<string>rodina sestávající z otce a dvou synů</string>
+	<key>⬅️</key>
+	<string>šipka doleva</string>
+	<key>⛎</key>
+	<string>Hadonoš</string>
+	<key>🎟️</key>
+	<string>vstupenka</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>rodina sestávající ze dvou matek a dvou dcer</string>
+	<key>🏷️</key>
+	<string>visačka</string>
+	<key>2️⃣</key>
+	<string>klávesa s číslicí dvě</string>
+	<key>♿️</key>
+	<string>značka invalidního vozíku</string>
+	<key>👰‍♀️</key>
+	<string>žena se závojem</string>
+	<key>🗃️</key>
+	<string>archivační krabice</string>
+	<key>🕋</key>
+	<string>Ka'ba</string>
+	<key>🕌</key>
+	<string>mešita</string>
+	<key>🕍</key>
+	<string>synagoga</string>
+	<key>🕎</key>
+	<string>menora</string>
+	<key>👩‍🎤</key>
+	<string>zpěvačka</string>
+	<key>🉐</key>
+	<string>Japonský znak „výhodná koupě“</string>
+	<key>🏌️</key>
+	<string>osoba hrající golf</string>
+	<key>🛋️</key>
+	<string>pohovka s lampou</string>
+	<key>🕐</key>
+	<string>jedna hodina</string>
+	<key>🏊‍♀️</key>
+	<string>plavkyně</string>
+	<key>🉑</key>
+	<string>Japonský znak „přijatelné“</string>
+	<key>☠️</key>
+	<string>lebka a zkřížené hnáty</string>
+	<key>🕑</key>
+	<string>dvě hodiny</string>
+	<key>🕒</key>
+	<string>tři hodiny</string>
+	<key>🏋️‍♀️</key>
+	<string>vzpěračka</string>
+	<key>🕓</key>
+	<string>čtyři hodiny</string>
+	<key>🕔</key>
+	<string>pět hodin</string>
+	<key>🕕</key>
+	<string>šest hodin</string>
+	<key>🕖</key>
+	<string>sedm hodin</string>
+	<key>🙆‍♀️</key>
+	<string>žena s gestem OK</string>
+	<key>🕗</key>
+	<string>osm hodin</string>
+	<key>🕘</key>
+	<string>devět hodin</string>
+	<key>🕙</key>
+	<string>deset hodin</string>
+	<key>🕚</key>
+	<string>jedenáct hodin</string>
+	<key>🕛</key>
+	<string>dvanáct hodin</string>
+	<key>🕜</key>
+	<string>jedna třicet</string>
+	<key>🇺🇦</key>
+	<string>vlajka Ukrajiny</string>
+	<key>🕝</key>
+	<string>dvě třicet</string>
+	<key>🇶🇦</key>
+	<string>vlajka Kataru</string>
+	<key>🕞</key>
+	<string>tři třicet</string>
+	<key>✡️</key>
+	<string>Davidova hvězda</string>
+	<key>🇲🇦</key>
+	<string>vlajka Maroka</string>
+	<key>🕟</key>
+	<string>čtyři třicet</string>
+	<key>🧗‍♂️</key>
+	<string>horolezec</string>
+	<key>🕠</key>
+	<string>pět třicet</string>
+	<key>🕡</key>
+	<string>šest třicet</string>
+	<key>🇪🇦</key>
+	<string>vlajka Ceuty a Melilly</string>
+	<key>🕢</key>
+	<string>sedm třicet</string>
+	<key>✅</key>
+	<string>symbol zaškrtnutí</string>
+	<key>🕣</key>
+	<string>osm třicet</string>
+	<key>🧜‍♀️</key>
+	<string>mořská panna</string>
+	<key>🏎️</key>
+	<string>závodní auto</string>
+	<key>🕤</key>
+	<string>devět třicet</string>
+	<key>🛍️</key>
+	<string>nákupní tašky</string>
+	<key>🕥</key>
+	<string>deset třicet</string>
+	<key>✊</key>
+	<string>zvednutá pěst</string>
+	<key>🇲🇨</key>
+	<string>vlajka Monaka</string>
+	<key>✋</key>
+	<string>zvednutá ruka</string>
+	<key>🕦</key>
+	<string>jedenáct třicet</string>
+	<key>🕧</key>
+	<string>dvanáct třicet</string>
+	<key>🇮🇨</key>
+	<string>vlajka Kanárských ostrovů</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>vlajka Walesu</string>
+	<key>🇾🇪</key>
+	<string>vlajka Jemenu</string>
+	<key>🇪🇨</key>
+	<string>vlajka Ekvádoru</string>
+	<key>👩‍🎨</key>
+	<string>umělkyně</string>
+	<key>🇲🇩</key>
+	<string>vlajka Moldavska</string>
+	<key>🇦🇨</key>
+	<string>vlajka Ascensionu</string>
+	<key>🇮🇩</key>
+	<string>vlajka Indonésie</string>
+	<key>🇲🇪</key>
+	<string>vlajka Černé Hory</string>
+	<key>🇦🇩</key>
+	<string>vlajka Andorry</string>
+	<key>🇮🇪</key>
+	<string>vlajka Irska</string>
+	<key>🇪🇪</key>
+	<string>vlajka Estonska</string>
+	<key>🇲🇫</key>
+	<string>vlajka Svatého Martina</string>
+	<key>🇺🇬</key>
+	<string>vlajka Ugandy</string>
+	<key>♣️</key>
+	<string>karetní barva kříže</string>
+	<key>🇦🇪</key>
+	<string>vlajka Spojených arabských emirátů</string>
+	<key>🕯️</key>
+	<string>svíčka</string>
+	<key>🇲🇬</key>
+	<string>vlajka Madagaskaru</string>
+	<key>🇦🇫</key>
+	<string>vlajka Afghánistánu</string>
+	<key>👮‍♂️</key>
+	<string>policista</string>
+	<key>🇪🇬</key>
+	<string>vlajka Egypta</string>
+	<key>🇲🇭</key>
+	<string>vlajka Marshallových ostrovů</string>
+	<key>✨</key>
+	<string>třpyt</string>
+	<key>🇦🇬</key>
+	<string>vlajka Antiguy a Barbudy</string>
+	<key>🛏️</key>
+	<string>postel</string>
+	<key>👳‍♀️</key>
+	<string>žena v turbanu</string>
+	<key>🇪🇭</key>
+	<string>vlajka Západní Sahary</string>
+	<key>☄️</key>
+	<string>kometa</string>
+	<key>🕺</key>
+	<string>tančící muž</string>
+	<key>✌️</key>
+	<string>gesto vítězství</string>
+	<key>❤️</key>
+	<string>červené srdce</string>
+	<key>⏭️</key>
+	<string>symbol přeskočení vpřed</string>
+	<key>🇦🇮</key>
+	<string>vlajka Anguilly</string>
+	<key>🇲🇰</key>
+	<string>vlajka Severní Makedonie</string>
+	<key>◽️</key>
+	<string>menší bílý čtverec</string>
+	<key>🇲🇱</key>
+	<string>vlajka Mali</string>
+	<key>🈚️</key>
+	<string>Japonský znak „zdarma“</string>
+	<key>🇺🇲</key>
+	<string>vlajka menších odlehlých ostrovů USA</string>
+	<key>🇮🇱</key>
+	<string>vlajka Izraele</string>
+	<key>🇲🇲</key>
+	<string>vlajka Myanmaru (Barmy)</string>
+	<key>💂‍♂️</key>
+	<string>strážce</string>
+	<key>🇺🇳</key>
+	<string>vlajka OSN</string>
+	<key>🇦🇱</key>
+	<string>vlajka Albánie</string>
+	<key>🧑‍💻</key>
+	<string>programátor/programátorka</string>
+	<key>🇮🇲</key>
+	<string>vlajka ostrova Man</string>
+	<key>⛹️‍♂️</key>
+	<string>hráč basketbalu</string>
+	<key>🇲🇳</key>
+	<string>vlajka Mongolska</string>
+	<key>🇦🇲</key>
+	<string>vlajka Arménie</string>
+	<key>🇮🇳</key>
+	<string>vlajka Indie</string>
+	<key>❌</key>
+	<string>křížek</string>
+	<key>💇‍♀️</key>
+	<string>žena u kadeřníka</string>
+	<key>❎</key>
+	<string>Značka X</string>
+	<key>🇲🇴</key>
+	<string>vlajka Macaa</string>
+	<key>♎️</key>
+	<string>Váhy</string>
+	<key>🧚‍♂️</key>
+	<string>okřídlený skřítek</string>
+	<key>🧑‍💼</key>
+	<string>manažer/manažerka</string>
+	<key>🇮🇴</key>
+	<string>vlajka Britského indickooceánského území</string>
+	<key>❓</key>
+	<string>červený otazník</string>
+	<key>❔</key>
+	<string>bílý otazník</string>
+	<key>🇲🇵</key>
+	<string>vlajka Severních Marian</string>
+	<key>❕</key>
+	<string>bílý vykřičník</string>
+	<key>🇦🇴</key>
+	<string>vlajka Angoly</string>
+	<key>🧟‍♀️</key>
+	<string>zombie</string>
+	<key>🖕</key>
+	<string>prostředníček</string>
+	<key>🇲🇶</key>
+	<string>vlajka Martiniku</string>
+	<key>🖖</key>
+	<string>ruka s prsty rozevřenými mezi prostředníčkem a prsteníčkem</string>
+	<key>🇮🇶</key>
+	<string>vlajka Iráku</string>
+	<key>🚶‍♂️</key>
+	<string>chodec</string>
+	<key>🇲🇷</key>
+	<string>vlajka Mauretánie</string>
+	<key>🇺🇸</key>
+	<string>vlajka Spojených států</string>
+	<key>🇦🇶</key>
+	<string>vlajka Antarktidy</string>
+	<key>🇮🇷</key>
+	<string>vlajka Íránu</string>
+	<key>🕳️</key>
+	<string>jamka</string>
+	<key>⌨️</key>
+	<string>klávesnice</string>
+	<key>🇾🇹</key>
+	<string>vlajka ostrova Mayotte</string>
+	<key>🇪🇷</key>
+	<string>vlajka Eritrey</string>
+	<key>⛷️</key>
+	<string>lyžař</string>
+	<key>🇲🇸</key>
+	<string>vlajka Montserratu</string>
+	<key>🇦🇷</key>
+	<string>vlajka Argentiny</string>
+	<key>🇮🇸</key>
+	<string>vlajka Islandu</string>
+	<key>👨‍💻</key>
+	<string>programátor</string>
+	<key>🌤️</key>
+	<string>slunce za malým oblakem</string>
+	<key>🇪🇸</key>
+	<string>vlajka Španělska</string>
+	<key>🇲🇹</key>
+	<string>vlajka Malty</string>
+	<key>🇦🇸</key>
+	<string>vlajka Americké Samoy</string>
+	<key>🇮🇹</key>
+	<string>vlajka Itálie</string>
+	<key>❤️‍🩹</key>
+	<string>obvázané srdce</string>
+	<key>🏔️</key>
+	<string>hora se zasněženým vrcholem</string>
+	<key>🇪🇹</key>
+	<string>vlajka Etiopie</string>
+	<key>🤷‍♀️</key>
+	<string>žena krčící rameny</string>
+	<key>🇲🇺</key>
+	<string>vlajka ostrova Mauricius</string>
+	<key>🇦🇹</key>
+	<string>vlajka Rakouska</string>
+	<key>🖤</key>
+	<string>černé srdce</string>
+	<key>👩‍🦯</key>
+	<string>žena s bílou holí</string>
+	<key>👱‍♂️</key>
+	<string>světlovlasý muž</string>
+	<key>👨‍💼</key>
+	<string>kancelářský zaměstnanec</string>
+	<key>⛰️</key>
+	<string>hora</string>
+	<key>🇪🇺</key>
+	<string>vlajka Evropské unie</string>
+	<key>🇲🇻</key>
+	<string>vlajka Malediv</string>
+	<key>🇦🇺</key>
+	<string>vlajka Austrálie</string>
+	<key>🇲🇼</key>
+	<string>vlajka Malawi</string>
+	<key>👩‍🦰</key>
+	<string>rudovlasá žena</string>
+	<key>🇲🇽</key>
+	<string>vlajka Mexika</string>
+	<key>🇺🇾</key>
+	<string>vlajka Uruguaye</string>
+	<key>🇦🇼</key>
+	<string>vlajka Aruby</string>
+	<key>☹️</key>
+	<string>zamračený obličej</string>
+	<key>⌚️</key>
+	<string>hodinky</string>
+	<key>🕵️</key>
+	<string>detektiv</string>
+	<key>⛩️</key>
+	<string>Šintoistická svatyně</string>
+	<key>🇲🇾</key>
+	<string>vlajka Malajsie</string>
+	<key>🧎‍♀️</key>
+	<string>klečící žena</string>
+	<key>🇺🇿</key>
+	<string>vlajka Uzbekistánu</string>
+	<key>🇦🇽</key>
+	<string>vlajka Åland</string>
+	<key>👩‍🦱</key>
+	<string>kudrnatá žena</string>
+	<key>🙇‍♂️</key>
+	<string>klanící se muž</string>
+	<key>🌦️</key>
+	<string>slunce za dešťovým mrakem</string>
+	<key>🇲🇿</key>
+	<string>vlajka Mosambiku</string>
+	<key>🏖️</key>
+	<string>pláž se slunečníkem</string>
+	<key>👩‍🦲</key>
+	<string>žena bez vlasů</string>
+	<key>🇦🇿</key>
+	<string>vlajka Ázerbájdžánu</string>
+	<key>➕</key>
+	<string>symbol plus</string>
+	<key>🕊️</key>
+	<string>holubice</string>
+	<key>➖</key>
+	<string>symbol minus</string>
+	<key>➗</key>
+	<string>symbol dělení</string>
+	<key>🗺️</key>
+	<string>mapa světa</string>
+	<key>👩‍🦳</key>
+	<string>bělovlasá žena</string>
+	<key>7️⃣</key>
+	<string>klávesa s číslicí sedm</string>
+	<key>🅰️</key>
+	<string>krevní skupina A</string>
+	<key>🤦‍♀️</key>
+	<string>žena s obličejem v dlani</string>
+	<key>🧝‍♂️</key>
+	<string>elf</string>
+	<key>🕷️</key>
+	<string>pavouk</string>
+	<key>✳️</key>
+	<string>osmiramenná hvězdička</string>
+	<key>🌨️</key>
+	<string>mrak se sněhem</string>
+	<key>🦸‍♂️</key>
+	<string>superhrdina</string>
+	<key>➰</key>
+	<string>spirálka</string>
+	<key>🏘️</key>
+	<string>skupina domů</string>
+	<key>0️⃣</key>
+	<string>klávesa s číslicí nula</string>
+	<key>🤵‍♂️</key>
+	<string>muž ve smokingu</string>
+	<key>⛔️</key>
+	<string>vstup zakázán</string>
+	<key>👨‍👧‍👦</key>
+	<string>rodina sestávající z otce, syna a dcery</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>rodina sestávající z matky, otce a dvou synů</string>
+	<key>🧑‍🏫</key>
+	<string>vyučující</string>
+	<key>➿</key>
+	<string>dvojitá spirálka</string>
+	<key>㊙️</key>
+	<string>Japonský znak „tajné“</string>
+	<key>☝️</key>
+	<string>ukazováček mířící nahoru</string>
+	<key>🕹️</key>
+	<string>joystick</string>
+	<key>🗑️</key>
+	<string>odpadkový koš</string>
+	<key>🌪️</key>
+	<string>tornádo</string>
+	<key>🧑‍🏭</key>
+	<string>osoba pracující v továrně</string>
+	<key>↗️</key>
+	<string>šipka nahoru doprava</string>
+	<key>⤵️</key>
+	<string>šipka doprava stáčející se dolů</string>
+	<key>🏚️</key>
+	<string>opuštěný dům</string>
+	<key>©️</key>
+	<string>značka autorských práv</string>
+	<key>👨‍🏫</key>
+	<string>učitel</string>
+	<key>🗓️</key>
+	<string>kroužkový kalendář</string>
+	<key>⏸️</key>
+	<string>symbol pozastavení přehrávání</string>
+	<key>🧑‍✈️</key>
+	<string>pilot/pilotka</string>
+	<key>🌬️</key>
+	<string>větrný obličej</string>
+	<key>👨‍🏭</key>
+	<string>tovární dělník</string>
+	<key>🏜️</key>
+	<string>poušť</string>
+	<key>♠️</key>
+	<string>karetní barva piky</string>
+	<key>🖨️</key>
+	<string>tiskárna</string>
+	<key>⏱️</key>
+	<string>stopky</string>
+	<key>👩‍🦼</key>
+	<string>žena na elektrickém invalidním vozíku</string>
+	<key>🗻</key>
+	<string>hora fudži</string>
+	<key>🫱‍🫲</key>
+	<string>podání rukou</string>
+	<key>🗼</key>
+	<string>Tokijská věž</string>
+	<key>🗽</key>
+	<string>Socha svobody</string>
+	<key>🗾</key>
+	<string>silueta Japonska</string>
+	<key>🤸‍♂️</key>
+	<string>muž dělající přemet stranou</string>
+	<key>🌀</key>
+	<string>cyklon</string>
+	<key>🗿</key>
+	<string>socha z Velikonočního ostrova</string>
+	<key>☁️</key>
+	<string>oblak</string>
+	<key>🌁</key>
+	<string>most v mlze</string>
+	<key>😀</key>
+	<string>šklebící se obličej</string>
+	<key>👩‍🦽</key>
+	<string>žena na mechanickém invalidním vozíku</string>
+	<key>🌂</key>
+	<string>zavřený deštník</string>
+	<key>😁</key>
+	<string>rozzářený obličej s usměvavýma očima</string>
+	<key>⚱️</key>
+	<string>pohřební urna</string>
+	<key>🌃</key>
+	<string>hvězdná noc</string>
+	<key>😂</key>
+	<string>obličej slzící smíchy</string>
+	<key>✉️</key>
+	<string>obálka</string>
+	<key>👨‍👧‍👧</key>
+	<string>rodina sestávající z otce a dvou dcer</string>
+	<key>🤽‍♀️</key>
+	<string>hráčka vodního póla</string>
+	<key>🌄</key>
+	<string>východ slunce nad horami</string>
+	<key>😃</key>
+	<string>zubící se obličej s velkýma očima</string>
+	<key>🌅</key>
+	<string>východ slunce</string>
+	<key>😄</key>
+	<string>šklebící se obličej s veselýma očima</string>
+	<key>👷‍♂️</key>
+	<string>stavební dělník</string>
+	<key>👨‍✈️</key>
+	<string>pilot</string>
+	<key>🌆</key>
+	<string>silueta města za soumraku</string>
+	<key>😅</key>
+	<string>zubící se obličej s kapkou potu</string>
+	<key>🌇</key>
+	<string>západ slunce nad budovami</string>
+	<key>😆</key>
+	<string>šklebící se obličej s přivřenýma očima</string>
+	<key>🌈</key>
+	<string>duha</string>
+	<key>😇</key>
+	<string>smějící se obličej se svatozáří</string>
+	<key>🌉</key>
+	<string>most v noci</string>
+	<key>😈</key>
+	<string>smějící se obličej s růžky</string>
+	<key>🏞️</key>
+	<string>národní park</string>
+	<key>🌊</key>
+	<string>vlna</string>
+	<key>😉</key>
+	<string>mrkající obličej</string>
+	<key>🌋</key>
+	<string>sopka</string>
+	<key>😊</key>
+	<string>smějící se obličej s usměvavýma očima</string>
+	<key>♒️</key>
+	<string>Vodnář</string>
+	<key>🌌</key>
+	<string>Mléčná dráha</string>
+	<key>😋</key>
+	<string>smějící se obličej s vyplazeným jazykem</string>
+	<key>⚪️</key>
+	<string>bílá tečka</string>
+	<key>🌍</key>
+	<string>glóbus s Evropou a Afrikou</string>
+	<key>😌</key>
+	<string>obličej s výrazem úlevy</string>
+	<key>🧏‍♂️</key>
+	<string>hluchý muž</string>
+	<key>✂️</key>
+	<string>nůžky</string>
+	<key>🌎</key>
+	<string>glóbus se Severní a Jižní Amerikou</string>
+	<key>🤌</key>
+	<string>špetka z pěti prstů</string>
+	<key>😍</key>
+	<string>usmívající se obličej se srdíčky místo očí</string>
+	<key>🌏</key>
+	<string>glóbus s Asií a Austrálií</string>
+	<key>🤍</key>
+	<string>bílé srdce</string>
+	<key>😎</key>
+	<string>smějící se obličej se slunečními brýlemi</string>
+	<key>🌐</key>
+	<string>glóbus s poledníky</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>rodina sestávající z matky, otce a dvou dcer</string>
+	<key>🤎</key>
+	<string>hnědé srdce</string>
+	<key>😏</key>
+	<string>ušklíbající se obličej</string>
+	<key>🌑</key>
+	<string>novoluní</string>
+	<key>🤏</key>
+	<string>gesto „málo“</string>
+	<key>😐</key>
+	<string>neutrální obličej</string>
+	<key>🧔‍♀️</key>
+	<string>žena s plnovousem</string>
+	<key>🌒</key>
+	<string>přibývající měsíc po novoluní</string>
+	<key>🤐</key>
+	<string>obličej s pusou na zip</string>
+	<key>😑</key>
+	<string>obličej bez výrazu</string>
+	<key>🙍‍♂️</key>
+	<string>zamračený muž</string>
+	<key>🌓</key>
+	<string>první čtvrt měsíce</string>
+	<key>🤑</key>
+	<string>obličej s dolarem na jazyku</string>
+	<key>😒</key>
+	<string>znuděný obličej</string>
+	<key>🌔</key>
+	<string>přibývající měsíc před úplňkem</string>
+	<key>🤒</key>
+	<string>obličej s teploměrem</string>
+	<key>😓</key>
+	<string>sklíčený obličej se studeným potem</string>
+	<key>🌕</key>
+	<string>úplněk</string>
+	<key>🤓</key>
+	<string>smějící se obličej s brýlemi</string>
+	<key>😔</key>
+	<string>smutně zasněný obličej</string>
+	<key>♋️</key>
+	<string>Rak</string>
+	<key>🌖</key>
+	<string>ubývající měsíc po úplňku</string>
+	<key>🤔</key>
+	<string>zamyšlený obličej</string>
+	<key>😕</key>
+	<string>zmatený obličej</string>
+	<key>🌗</key>
+	<string>poslední čtvrt měsíce</string>
+	<key>🤕</key>
+	<string>obličej s obvazem na hlavě</string>
+	<key>😖</key>
+	<string>zmatený obličej</string>
+	<key>🌘</key>
+	<string>ubývající měsíc před novoluním</string>
+	<key>🤖</key>
+	<string>obličej robota</string>
+	<key>😗</key>
+	<string>líbající obličej</string>
+	<key>🌙</key>
+	<string>srpek měsíce</string>
+	<key>🤗</key>
+	<string>obličej s otevřenou náručí</string>
+	<key>😘</key>
+	<string>obličej posílající polibek</string>
+	<key>🌚</key>
+	<string>měsíc v novoluní s tváří</string>
+	<key>🤘</key>
+	<string>gesto parohů</string>
+	<key>😙</key>
+	<string>líbající obličej s usměvavýma očima</string>
+	<key>🌛</key>
+	<string>měsíc v první čtvrti s tváří</string>
+	<key>🤙</key>
+	<string>gesto „zavolej mi“</string>
+	<key>😚</key>
+	<string>líbající obličej se zavřenýma očima</string>
+</dict>
+</plist>

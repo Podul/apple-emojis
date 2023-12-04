@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>ចំនិតខែ | ទៅស្តាំ | មុខ | មុខចំនិតខែបែទៅស្តាំ | មុខចំនិតខែបែទៅស្តាំ</string>
+	<key>🤚</key>
+	<string>ខ្នងដៃ | ខ្នងដៃលាឡើង | លើកឡើង | ខ្នងដៃលាឡើង</string>
+	<key>😛</key>
+	<string>មុខលៀនអណ្តាត | លៀនអណ្តាត | អណ្តាត | មុខលៀនអណ្តាត</string>
+	<key>👩‍🔧</key>
+	<string>ជាង | ជាងទុយោ | ជាងភ្លើង | ជាងម៉ាស៊ីន | ជាងម៉ាស៊ីនស្រី | ឈ្មួញ | នារី | ស្រី | ជាងម៉ាស៊ីនស្រី</string>
+	<key>🌝</key>
+	<string>ពេញវង់ | ព្រះចន្ទ | មុខ | មុខព្រះចន្ទពេញវង់ | មុខព្រះចន្ទពេញវង់</string>
+	<key>🤛</key>
+	<string>កណ្តាប់ដៃ | កណ្តាប់ដៃឆ្វេង | ខាងឆ្វេង | កណ្តាប់ដៃឆ្វេង</string>
+	<key>😜</key>
+	<string>ភ្នែក | មុខលៀនអណ្តាតហើយបិទភ្នែកម្ខាង | លៀនអណ្តាត | អណ្តាត | មុខលៀនអណ្តាតហើយបិទភ្នែកម្ខាង</string>
+	<key>🌞</key>
+	<string>ព្រះអាទិត្យ | មុខ | មុខព្រះអាទិត្យ | មុខព្រះអាទិត្យ</string>
+	<key>🤜</key>
+	<string>កណ្តាប់ដៃ | កណ្តាប់ដៃស្តាំ | ខាងស្តាំ | កណ្តាប់ដៃស្តាំ</string>
+	<key>😝</key>
+	<string>បិទភ្នែក | មុខលៀនអណ្តាតហើយបិទភ្នែកទាំងពីរ | លៀនអណ្តាត | អណ្តាត | មុខលៀនអណ្តាតហើយបិទភ្នែកទាំងពីរ</string>
+	<key>🌟</key>
+	<string>តារា | ផ្កាយ | ផ្កាយបញ្ចេញពន្លឺ | ពន្លឺ | ផ្កាយបញ្ចេញពន្លឺ</string>
+	<key>🤝</key>
+	<string>ការព្រមព្រៀង | ចាប់ | ចាប់ដៃ | ដៃ | ប្រជុំ | ចាប់ដៃ</string>
+	<key>😞</key>
+	<string>ក្រៀមក្រំ | ខកចិត្ត | ពេប | មុខខកចិត្ត | ស្រពោន | អន់ចិត្ត | មុខខកចិត្ត</string>
+	<key>🌠</key>
+	<string>តារា | ផ្កាយ | ផ្កាយហោះ | ហោះ | ផ្កាយហោះ</string>
+	<key>🤞</key>
+	<string>ខ្វែង | ខ្វែងម្រាមដៃ | ដៃ | ម្រាមដៃ | សំណាង | ខ្វែងម្រាមដៃ</string>
+	<key>😟</key>
+	<string>ខ្វល់ចិត្ត | ព្រួយចិត្ត | ព្រួយបារម្ហ | មុខព្រួយបារម្ភ | មុខព្រួយបារម្ភ</string>
+	<key>🐈‍⬛</key>
+	<string>ខ្មៅ | ឆ្មារ | ឆ្មារខ្មៅ | មិនសំណាង | ឆ្មារខ្មៅ</string>
+	<key>🤟</key>
+	<string>ILY | កាយវិការបង្ហាញក្ដីស្រឡាញ់ | ប្រអប់ដៃ | កាយវិការបង្ហាញក្ដីស្រឡាញ់</string>
+	<key>😠</key>
+	<string>ខឹង | មុខក្រហម | មុខមួរម៉ៅ | មួរម៉ៅ | មុខមួរម៉ៅ</string>
+	<key>⚜️</key>
+	<string>fleur-de-lis</string>
+	<key>⛴️</key>
+	<string>ferry</string>
+	<key>🤠</key>
+	<string>ខូវប៊យ | ខូវហ្គឺល | មុខ | មុខពាក់មួកខូវប៊យ | មួក | មុខពាក់មួកខូវប៊យ</string>
+	<key>😡</key>
+	<string>ខឹង | មុខក្រហម | មុខមួរម៉ៅខ្លាំង | មួរម៉ៅ | មុខមួរម៉ៅខ្លាំង</string>
+	<key>🤡</key>
+	<string>ថ្លុក | មុខ | មុខថ្លុក | មុុខថ្លុក | មុុខថ្លុក</string>
+	<key>😢</key>
+	<string>ទឹកភ្នែក | មុខស្រក់ទឹកភ្នែក | យំ | ស្រក់ទឹកភ្នែក | មុខស្រក់ទឹកភ្នែក</string>
+	<key>⬛️</key>
+	<string>black large square</string>
+	<key>🤢</key>
+	<string>ក្អួត | មុខ | មុខរកកលចង់ក្អួត | រកកល់ចង់ក្អួត | មុខរកកលចង់ក្អួត</string>
+	<key>😣</key>
+	<string>ជ្រួញ | ធ្វើមុខជ្រួញ | មុខ | ធ្វើមុខជ្រួញ</string>
+	<key>🤣</key>
+	<string>មុខ | រមាល | លើដី | សើច | សើចរមាលលើដី | សើចរមាលលើដី</string>
+	<key>😤</key>
+	<string>ក្តៅចិត្ត | មុខមានចំហាយក្តៅចេញពីច្រមុះ | មុខមានចំហាយក្តៅចេញពីច្រមុះ</string>
+	<key>🤤</key>
+	<string>មុខ | មុខហៀរទឹកមាត់ | ហៀរទឹកមាត់ | មុខហៀរទឹកមាត់</string>
+	<key>😥</key>
+	<string>ខកចិត្ត | បែកញើស | ពេប | មុខពេបមាត់ និងទម្លាក់ទឹកមុខត | អន់ចិត្ត | មុខពេបមាត់ និងទម្លាក់ទឹកមុខត</string>
+	<key>🤥</key>
+	<string>pinocchio | កុហក | មុខ | មុខកុហក | មុខកុហក</string>
+	<key>😦</key>
+	<string>ក្រៀមក្រំ | មុខក្រៀមក្រំហើយចំហមាត់ | មុខក្រៀមក្រំហើយចំហមាត់</string>
+	<key>🤦</key>
+	<string>ខ្ទប់មុខ | ធុញថប់ | បាតដៃ | មិនជឿ | មុខ | ខ្ទប់មុខ</string>
+	<key>😧</key>
+	<string>ភ័យ | មុខរន្ធត់ | រន្ធត់ | មុខរន្ធត់</string>
+	<key>🤧</key>
+	<string>កណ្តាស | មុខ | មុខកណ្តាស់ | ស្បើយ | មុខកណ្តាស់</string>
+	<key>😨</key>
+	<string>ខ្លាច | ភ័យ | ភ័យខ្លាច | មុខភ័យខ្លាច | មុខភ័យខ្លាច</string>
+	<key>🤨</key>
+	<string>មិនជឿ | មុខបង្ហាញការមិនពេញចិត្ត | សង្ស័យ | មុខបង្ហាញការមិនពេញចិត្ត</string>
+	<key>😩</key>
+	<string>មុខអស់កម្លាំងខ្លាំង | ហត់នឿយ | អស់កម្លាំង | មុខអស់កម្លាំងខ្លាំង</string>
+	<key>🤩</key>
+	<string>ជួបតារា | ញញឹមស្ញាញ | តារា | ភ្នែក | មុខ | ជួបតារា</string>
+	<key>⚕️</key>
+	<string>staff of Aesculapius</string>
+	<key>😪</key>
+	<string>ងងុយ | ដេក | មុខងងុយដេក | មុខងងុយដេក</string>
+	<key>👁️‍🗨️</key>
+	<string>I am a witness</string>
+	<key>🤪</key>
+	<string>តូច | ធំ | ធ្វើមុខឆ្កួតៗ | ភ្នែក | ធ្វើមុខឆ្កួតៗ</string>
+	<key>😫</key>
+	<string>មុខអស់កម្លាំង | ហត់ | អស់កម្លាំង | មុខអស់កម្លាំង</string>
+	<key>🌭</key>
+	<string>នំប៉័ងដាក់សាច់ | នំប៉័ងហតដក | ហតដក | នំប៉័ងហតដក</string>
+	<key>🤫</key>
+	<string>ប្រាប់ឱ្យស្ងាត់ | ស្ងាត់ | ប្រាប់ឱ្យស្ងាត់</string>
+	<key>😬</key>
+	<string>ញេញធ្មេញ | ធ្មេញ | មុខស្អេញស្អូញ | ស្អេញ | មុខស្អេញស្អូញ</string>
+	<key>🌮</key>
+	<string>នំ | នំថាកូ (នំប្រទេសម៉ិកស៊ីកូ) | នំថាកូ (នំប្រទេសម៉ិកស៊ីកូ)</string>
+	<key>🤬</key>
+	<string>ជេរ | មុខមាននិមិត្តសញ្ញាលើមាត់ | មុខមាននិមិត្តសញ្ញាលើមាត់</string>
+	<key>😭</key>
+	<string>ទឹកភ្នែក | មុខកំពុងយំយ៉ាងខ្លាំង | យំ | យំខ្លាំង | ហូរទឹកភ្នែក | មុខកំពុងយំយ៉ាងខ្លាំង</string>
+	<key>🌯</key>
+	<string>នំ | នំប៊ឺរីតូ (នំប្រទេសម៉ិកស៊ីកូ) | នំប៊ឺរីតូ (នំប្រទេសម៉ិកស៊ីកូ)</string>
+	<key>🤭</key>
+	<string>មុខយកដៃខ្ទប់មាត់ | អុះ ! | មុខយកដៃខ្ទប់មាត់</string>
+	<key>😮</key>
+	<string>ចំហ | បើកមាត់ | មាត់ | មុខចំហមាត់បើកភ្នែក | មុខចំហមាត់បើកភ្នែក</string>
+	<key>🌰</key>
+	<string>កៅឡាក់ | ធញជាតិ | កៅឡាក់</string>
+	<key>🤮</key>
+	<string>ក្អួត | ឈឺ | មុខចង់ក្អួត | មុខចង់ក្អួត</string>
+	<key>😯</key>
+	<string>ភាំង | មុខចំហមាត់់ចិញ្ចើមងើបទៅលើលក្ខណៈភាំង | មុខចំហមាត់់ចិញ្ចើមងើបទៅលើលក្ខណៈភាំង</string>
+	<key>🌱</key>
+	<string>កូនឈើ | កូនរុក្ខជាតិ | កូនឈើ</string>
+	<key>🤯</key>
+	<string>ក្បាលកំពុងផ្ទុះ | រន្ធត់ | ក្បាលកំពុងផ្ទុះ</string>
+	<key>😰</key>
+	<string>ក្តៅ | ឈឺ | បែកញើស | មុខឈឺដោយថ្ងាស់ឡើងពណ៌ខៀវនិងមានញើស | មុខឈឺដោយថ្ងាស់ឡើងពណ៌ខៀវនិងមានញើស</string>
+	<key>🌲</key>
+	<string>ដើមឈើ | ដើមឈើបៃតងជានិច្ច | ដើមឈើបៃតងជានិច្ច</string>
+	<key>🤰</key>
+	<string>ពោះធំ | ស្ត្រី | ស្ត្រីពោះធំ | ស្ត្រីពោះធំ</string>
+	<key>😱</key>
+	<string>មុខស្រែកដោយភ័យ | ស្រែក | មុខស្រែកដោយភ័យ</string>
+	<key>🌳</key>
+	<string>ដើមជ្រុះស្លឹក | ដើមឈើ | ដើមជ្រុះស្លឹក</string>
+	<key>🤱</key>
+	<string>ការថែទាំ | ការបំបៅដោះ | ដោះ | ទារក | ការបំបៅដោះ</string>
+	<key>😲</key>
+	<string>ភ្ញាក់ផ្អើល | មុខភ្ជាក់ផ្អើល | មុខភ្ជាក់ផ្អើល</string>
+	<key>🛡️</key>
+	<string>shield</string>
+	<key>🌴</key>
+	<string>ដូង | ដើមឈើ | ដើមដូង | ត្នោត | ដើមដូង</string>
+	<key>🤲</key>
+	<string>ដាក់បាតដៃទន្ទឹមគ្នា | លើកដៃបួងសួង | ដាក់បាតដៃទន្ទឹមគ្នា</string>
+	<key>😳</key>
+	<string>បើក | ភ្នែក | មុខក្រហម | មុខឡើងក្រហមព្រឿងៗ | មុខឡើងក្រហមព្រឿងៗ</string>
+	<key>🌵</key>
+	<string>ដំបងយក្ស | ដើម | ដើមដំបងយក្ស | ដើមដំបងយក្ស</string>
+	<key>🤳</key>
+	<string>selfie | កាមេរ៉ា | ថត | ទូរស័ព្ទ | selfie</string>
+	<key>😴</key>
+	<string>គេង | ដេក | មុខកំពុងគេង | ស្រមុក | មុខកំពុងគេង</string>
+	<key>🤴</key>
+	<string>ព្រះអង្គ | ព្រះអង្គ</string>
+	<key>😵</key>
+	<string>មុខ | វិលមុខ | វិលមុខ</string>
+	<key>👩‍🌾</key>
+	<string>កសិករ | កសិករស្រី | ស្ត្រី | ស្រី | អ្នកចម្ការ | កសិករស្រី</string>
+	<key>🌷</key>
+	<string>ទូលីប | ផ្កា | ផ្កាទូលីប | ផ្កាទូលីប</string>
+	<key>🤵</key>
+	<string>កូនកំលោះ | បុរស | មនុស្ស | មនុស្សពាក់អាវធំ | អាវធំ | មនុស្សពាក់អាវធំ</string>
+	<key>😶</key>
+	<string>នៅស្ងៀម | មាត់ | មុខមានតែភ្នកអត់មាត់ | អត់និយាយ | អត់មាត់ | មុខមានតែភ្នកអត់មាត់</string>
+	<key>🌸</key>
+	<string>ឈើរី | ផ្កា | ផ្កាឈើរីរីក | រីក | ផ្កាឈើរីរីក</string>
+	<key>🤶</key>
+	<string>ការប្រារព្ធ | គ្រីស្ដស្មាស | បុណ្យណូអែល | ម្ដាយ | យាយណូអែល | លោកយាយណូអែល | លោកយាយណូអែល</string>
+	<key>😷</key>
+	<string>ពាក់ម៉ាស | ម៉ាស | មុខពាក់ម៉ាសគ្រូពេទ្យ | មុខពាក់ម៉ាសគ្រូពេទ្យ</string>
+	<key>🌹</key>
+	<string>កុលាប | ផ្កា | ផ្កាកុលាប | ផ្កាកុលាប</string>
+	<key>🤷</key>
+	<string>ឆ្ងល់ | ញាក់ស្មា | អត់ខ្វល់ | អត់ដឹង | ញាក់ស្មា</string>
+	<key>😸</key>
+	<string>ឆ្មា | មុខ | មុខឆ្មាសើច | សើច | មុខឆ្មាសើច</string>
+	<key>🌺</key>
+	<string>ផ្កា | ផ្ការំយោល | រំយោល | ផ្ការំយោល</string>
+	<key>🤸</key>
+	<string>កន្លែងហាត់ប្រាណ | កីឡា | ប៉ាហ៊ី | មនុស្ស | ប៉ាហ៊ី</string>
+	<key>😹</key>
+	<string>ឆ្មា | ទឹកភ្នែក | មុខ | មុខឆ្មាសើចឡើងហៀរទឹកភ្នែក | សើច | ហៀរទឹកភ្នែក | មុខឆ្មាសើចឡើងហៀរទឹកភ្នែក</string>
+	<key>🌻</key>
+	<string>ផ្កា | ផ្កាឈូករ័ត្ន | ផ្កាឈូករ័ត្ន</string>
+	<key>🤹</key>
+	<string>កិច្ចការចំរុះ | ជំនាញ | ត្រេះ | ត្រេះបាល់ | លំនឹង | ត្រេះបាល់</string>
+	<key>😺</key>
+	<string>ឆ្មា | ញញឹម | មុខ | មុខឆ្មាញញឹម | មុខឆ្មាញញឹម</string>
+	<key>🌼</key>
+	<string>ផ្ការីក | រីក | ផ្ការីក</string>
+	<key>🤺</key>
+	<string>កីឡា | ចាក់សាប | ដាវ | មនុស្ស | អ្នកកីឡាចាក់សាប | អ្នកកីឡាចាក់សាប</string>
+	<key>😻</key>
+	<string>ឆ្មា | បេះដូង | មុខឆ្មាញញឹមមានរូបបេះដូងក្នុងក្នែក | ស្រឡាញ | មុខឆ្មាញញឹមមានរូបបេះដូងក្នុងក្នែក</string>
+	<key>🌽</key>
+	<string>ផ្លែពោត | ពោត | រុក្ខជាតិ | ផ្លែពោត</string>
+	<key>😼</key>
+	<string>ក្រឺត | ឆ្មា | មុខឆ្មាធ្វើមុខក្រឺត | មុខឆ្មាធ្វើមុខក្រឺត</string>
+	<key>🇿🇦</key>
+	<string>flag of South Africa</string>
+	<key>👩‍🔬</key>
+	<string>គីមីវិទូ | ជីវវិទូ | នារី | រូបវិទូ | វិស្វករ | ស្រី | អ្នកវិទ្យាសាស្ត្រ | អ្នកវិទ្យាសាស្ត្រស្រី | អ្នកវិទ្យាសាស្ត្រស្រី</string>
+	<key>🌾</key>
+	<string>កណ្ដាប់ស្រូវ | កួរ | គ្រាប់ | ស្រូវ | កណ្ដាប់ស្រូវ</string>
+	<key>🤼</key>
+	<string>បោកចំបាប់ | មនុស្សបោកចំបាប់ | អ្នកបោកចំបាប់ | មនុស្សបោកចំបាប់</string>
+	<key>😽</key>
+	<string>ឆ្មា | ថើប | បិទភ្នែក | មុខឆ្មាកំពុងថើបបិទភ្នែក | មុខឆ្មាកំពុងថើបបិទភ្នែក</string>
+	<key>🇻🇦</key>
+	<string>flag of Vatican City</string>
+	<key>🌿</key>
+	<string>ជីរ | ស្លឹក | ជីរ</string>
+	<key>🤽</key>
+	<string>កីឡា | កីឡាបោះបាល់ | ទឹក | មនុស្សលេងកីឡាគប់បាល់ក្នុងទឹក | មនុស្សលេងកីឡាគប់បាល់ក្នុងទឹក</string>
+	<key>😾</key>
+	<string>ខឹង | ឆ្មា | មុខឆ្មាខឹងបែរទៅស្តាំ | មុខឆ្មាខឹងបែរទៅស្តាំ</string>
+	<key>☯️</key>
+	<string>yin yang</string>
+	<key>🍀</key>
+	<string>4 | ក្លូវើ | បួន | ស្លឹក | ស្លឹកឆែកជាបួន | ស្លឹកផ្កាឆែកជាបួនសន្លឹក (ក្លូវើ) | ស្លឹកផ្កាឆែកជាបួនសន្លឹក (ក្លូវើ)</string>
+	<key>🤾</key>
+	<string>បាល់ | បាល់គប់ | មនុស្ស​កំពុងលេងបាល់គប់ | មនុស្ស​កំពុងលេងបាល់គប់</string>
+	<key>😿</key>
+	<string>ឆ្មា | មុខឆ្មាស្រក់ទឹកភ្នែក | យំ | ស្រក់ទឹកភ្នែក | មុខឆ្មាស្រក់ទឹកភ្នែក</string>
+	<key>🍁</key>
+	<string>ជ្រុះ | ម៉ាផល | ស្លឹក | ស្លឹកម៉ាផល | ស្លឹកម៉ាផល</string>
+	<key>🤿</key>
+	<string>ការមុជទឹក | ការមុជទឹកដោយពាក់​ម៉ាស់មុជទឹក | បំពង់អុកស៊ីសែន | ម៉ាស់ពាក់មុជទឹក | ម៉ាស់ពាក់មុជទឹក</string>
+	<key>🧑‍🍳</key>
+	<string>ចុងភៅ | មេចុងភៅ | ចុងភៅ</string>
+	<key>🇳🇦</key>
+	<string>flag of Namibia</string>
+	<key>🙀</key>
+	<string>ឆ្មា | មុខឆ្មាស្រែកខ្លាំង | ស្រែក | មុខឆ្មាស្រែកខ្លាំង</string>
+	<key>🧗‍♀️</key>
+	<string>woman rock climber</string>
+	<key>⁉️</key>
+	<string>red exclamation mark and question mark</string>
+	<key>🍂</key>
+	<string>ជ្រុះ | ស្លឹ​កឈើ | ស្លឹ​កឈើជ្រុះ | ស្លឹ​កឈើជ្រុះ</string>
+	<key>🥀</key>
+	<string>ផ្កា | ផ្កាស្រពោន | ស្រពោន | ផ្កាស្រពោន</string>
+	<key>🙁</key>
+	<string>ក្រម៉ូវ | ពេបមាត់ | មុខក្រម៉ូវបន្តិច | មុខក្រម៉ូវបន្តិច</string>
+	<key>🍃</key>
+	<string>ខ្យល់ | បក់ | ស្លឹកឈើ | ស្លឹកឈើរសាត់តាមខ្យល់ | ស្លឹកឈើហើរ | ហើរ | ស្លឹកឈើរសាត់តាមខ្យល់</string>
+	<key>🥁</key>
+	<string>ចង្កឹះវៃស្គរ | តន្រ្តី | ភ្លេង | ស្គរ | ស្គរ</string>
+	<key>🙂</key>
+	<string>ញញឹម | មុខ | មុខចេញស្នាមញញឹមបន្តិច | មុខចេញស្នាមញញឹមបន្តិច</string>
+	<key>⬆️</key>
+	<string>up arrow</string>
+	<key>🍄</key>
+	<string>ផ្សិត | រុក្ខជាតិ | ផ្សិត</string>
+	<key>🥂</key>
+	<string>កែវ | ជល់ | ជល់កែវ | ប្រារព្ធ | ផឹក | ជល់កែវ</string>
+	<key>🙃</key>
+	<string>ញញឹម | មុខ | មុខញញឹមបញ្រ្ចាស | មុខញញឹមបញ្រ្ចាស</string>
+	<key>5️⃣</key>
+	<string>keycap digit five</string>
+	<key>🍅</key>
+	<string>បន្លែ | ប៉េងប៉ោះ | ផ្លែប៉េងប៉ោះ | ផ្លែប៉េងប៉ោះ</string>
+	<key>🥃</key>
+	<string>កែវ | កែវថ្ម | កែវអត់ដៃ | ខ្លី | ទឹក | ស្រា | កែវថ្ម</string>
+	<key>🙄</key>
+	<string>ក្រឡេបក្រឡាប់ | ភ្នែក | មុខធ្វើភ្នែកក្រឡេបក្រឡាប់ | មុខធ្វើភ្នែកក្រឡេបក្រឡាប់</string>
+	<key>🇻🇨</key>
+	<string>flag of Saint Vincent &amp; Grenadines</string>
+	<key>🇧🇦</key>
+	<string>flag of Bosnia &amp; Herzegovina</string>
+	<key>↩️</key>
+	<string>right arrow curving left</string>
+	<key>🍆</key>
+	<string>ត្រប់វែង | បន្លែ | ត្រប់វែង</string>
+	<key>🥄</key>
+	<string>ប្រដាប់ប្រដាទទួលអាហារ | ស្លាបព្រា | ស្លាបព្រា</string>
+	<key>🙅</key>
+	<string>ដៃខ្វែង | ទេ | មនុស្សខ្វែងដៃជាសញ្ញាថា ទេ | មិន | ហាមឃាត់ | មនុស្សខ្វែងដៃជាសញ្ញាថា ទេ</string>
+	<key>🍇</key>
+	<string>ទំពាំងបាយជូ | ទំពាាំងបាយជូ | ផ្លែឈើ | ទំពាំងបាយជូ</string>
+	<key>🥅</key>
+	<string>កីឡា | ទី | សំណាញ់ | សំណាញ់ទី | សំណាញ់ទី</string>
+	<key>🙆</key>
+	<string>OK | កាយវិការ | ដៃ | មនុស្សផ្គុំដៃលើក្បាលជាសញ្ញាថា យល់ព្រម | មនុស្សផ្គុំដៃលើក្បាលជាសញ្ញាថា យល់ព្រម</string>
+	<key>🛣️</key>
+	<string>motorway</string>
+	<key>🍈</key>
+	<string>ត្រសក់ស្រូវ | ផ្លែឈើ | ត្រសក់ស្រូវ</string>
+	<key>🙇</key>
+	<string>កាយវិការ | មនុស្សឱនគោរព | សុំទោស | សូមទោស | ឱន | មនុស្សឱនគោរព</string>
+	<key>🇳🇨</key>
+	<string>flag of New Caledonia</string>
+	<key>🍉</key>
+	<string>ផ្លែឈើ | ឪឡឹក | ឳឡឹក | ឪឡឹក</string>
+	<key>🇧🇧</key>
+	<string>flag of Barbados</string>
+	<key>🥇</key>
+	<string>ទីមួយ | មាស | មេដាយ | មេដាយលំដាប់ទីមួយ | មេដាយលំដាប់ទីមួយ</string>
+	<key>🙈</key>
+	<string>បិទភ្នែក | ស្វា | ស្វាយកដៃបិទភ្នែកខ្លួនឯង | ស្វាយកដៃបិទភ្នែកខ្លួនឯង</string>
+	<key>🍊</key>
+	<string>ក្រូច | ក្រូចឃ្វិច | ផ្លែឈើ | ក្រូចឃ្វិច</string>
+	<key>🥈</key>
+	<string>ទីពីរ | ប្រាក់ | មេដាយ | មេដាយលំដាប់ទីពីរ | មេដាយលំដាប់ទីពីរ</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>flag of Scotland</string>
+	<key>🙉</key>
+	<string>បិទត្រចៀក | ស្វា | ស្វាយកដៃបិទត្រចៀកខ្លួនឯង | ស្វាយកដៃបិទត្រចៀកខ្លួនឯង</string>
+	<key>🍋</key>
+	<string>ក្រូ​ចឆ្មា | ផ្លែឈើ | ក្រូ​ចឆ្មា</string>
+	<key>🥉</key>
+	<string>ទីបី | មេដាយ | មេដាយលំដាប់ទីបី | សំរិទ្ធ | មេដាយលំដាប់ទីបី</string>
+	<key>🙊</key>
+	<string>បិទច្រមុះ | ស្វា | ស្វាយកដៃខ្ទប់ច្រមុះ | ស្វាយកដៃខ្ទប់ច្រមុះ</string>
+	<key>🍌</key>
+	<string>ចេក | ផ្លែឈើ | ចេក</string>
+	<key>🥊</key>
+	<string>ប្រដាល់ | ស្រោមដៃប្រដាល់ | ស្រោមដៃប្រដាល់</string>
+	<key>🇻🇪</key>
+	<string>flag of Venezuela</string>
+	<key>🙋</key>
+	<string>កាយវិការ | ដៃ | មនុស្សលើកដៃ | លើក | សប្បាយ | មនុស្សលើកដៃ</string>
+	<key>🍍</key>
+	<string>ផ្លែឈើ | ម្នាស់ | ម្នាស់</string>
+	<key>🥋</key>
+	<string>ការ៉ាត់តេ | កីឡា | ឈុតហាត់គុន | តៃក្វាន់ដូ | យូដូ | ហាត់គុន | ឯកសណ្ឋាន | ឈុតហាត់គុន</string>
+	<key>🙌</key>
+	<string>ដៃ | បាតដៃពីរ | លើកដៃ | លើកបង្ហាញបាតដៃទាំងពីរ | លើកបង្ហាញបាតដៃទាំងពីរ</string>
+	<key>🇷🇪</key>
+	<string>flag of Réunion</string>
+	<key>🍎</key>
+	<string>ក្រហម | ផ្លែឈើ | ផ្លែប៉ោម | ផ្លែប៉ោមក្រហម | ផ្លែប៉ោមក្រហម</string>
+	<key>🥌</key>
+	<string>ថ្ម | ថ្មរំកិល | ហ្គេម | ថ្មរំកិល</string>
+	<key>🙍</key>
+	<string>ក្រៀមក្រំ | មនុស្ស | មនុស្ស​កំពុងក្រៀមក្រំ | មនុស្ស​កំពុងក្រៀមក្រំ</string>
+	<key>🍏</key>
+	<string>បៃតង | ផ្លែឈើ | ផ្លែប៉ោម | ផ្លែប៉ោមបៃតង | ផ្លែប៉ោមបៃតង</string>
+	<key>🇳🇪</key>
+	<string>flag of Niger</string>
+	<key>🥍</key>
+	<string>ដំបង | ទី | បាល់ | ឡាក្រូស | ឡាក្រូស</string>
+	<key>🙎</key>
+	<string>ខឹង | មនុស្ស | មនុស្សកំពុងមួរម៉ៅ | មនុស្សកំពុងមួរម៉ៅ</string>
+	<key>🅾️</key>
+	<string>blood type O</string>
+	<key>🇧🇩</key>
+	<string>flag of Bangladesh</string>
+	<key>🍐</key>
+	<string>ផ្លែឈើ | ផ្លែប៉េះ | ផ្លែប៉េះ</string>
+	<key>🥎</key>
+	<string>ការគប់បាល់ក្រោមស្មា | កូនបាល់បេស្បល | បាល់ | ស្រោមដៃ | កូនបាល់បេស្បល</string>
+	<key>🇯🇪</key>
+	<string>flag of Jersey</string>
+	<key>🙏</key>
+	<string>គោរព | សំពះ | សំពះ</string>
+	<key>🍑</key>
+	<string>ផ្លែឈើ | ផ្លៃស្រដៀងសេដា | សេដា | ផ្លៃស្រដៀងសេដា</string>
+	<key>🥏</key>
+	<string>កីឡាចោលថាស | កីឡាចោលថាសជាក្រុម | កីឡាចោលថាស</string>
+	<key>🍒</key>
+	<string>ឈើរី | ផ្លែឈើ | ផ្លែឈើរី | ផ្លែឈើរី</string>
+	<key>🥐</key>
+	<string>croissant | នំប៉័ង | នំរមូល | បារាំង | មូរចំនិតខែ | អាហារ | នំរមូល</string>
+	<key>🇳🇫</key>
+	<string>flag of Norfolk Island</string>
+	<key>🍓</key>
+	<string>ផ្លែឈើ | ផ្លែស្ត្រប៊ែរី | ស្ត្រប៊ែរី | ផ្លែស្ត្រប៊ែរី</string>
+	<key>🇻🇬</key>
+	<string>flag of the British Virgin Islands</string>
+	<key>🇧🇪</key>
+	<string>flag of Belgium</string>
+	<key>🥑</key>
+	<string>ប៊ឺរ | ផ្លែឈើ | ផ្លែប៊ឺ | អាហារ | ផ្លែប៊ឺ</string>
+	<key>🍔</key>
+	<string>នំប៊ឺហ្គើ | នំហែមប៊ឺហ្គើ | នំហែមប៊ឺហ្គើ</string>
+	<key>🥒</key>
+	<string>ជ្រក់ត្រសក់ | ត្រសក់ | បន្លែ | អាហារ | ត្រសក់</string>
+	<key>⛑️</key>
+	<string>helmet with white cross</string>
+	<key>🍕</key>
+	<string>ភីហ្សា | ភីហ្សាមួយចំនិត | ភីហ្សាមួយចំនិត</string>
+	<key>🥓</key>
+	<string>សាច់ | សាច់បីជាន់ | អាហារ | សាច់បីជាន់</string>
+	<key>🇳🇬</key>
+	<string>flag of Nigeria</string>
+	<key>🍖</key>
+	<string>ឆ្អឹង | សាចជាប់ឆ្អឹង | សាច់ជាប់ឆ្អឹង | សាចជាប់ឆ្អឹង</string>
+	<key>🥔</key>
+	<string>ដំឡូង | បន្លែ | អាហារ | ដំឡូង</string>
+	<key>👨‍🍳</key>
+	<string>ចុងភៅ | ចុងភៅប្រុស | បុរស | ប្រុស | អ្នកចម្អិនអាហារ | ចុងភៅប្រុស</string>
+	<key>🇧🇫</key>
+	<string>flag of Burkina Faso</string>
+	<key>🍗</key>
+	<string>ឆ្អឹង | ជើង | បក្សី | ភ្លៅមាន់ | មាន់ | សាចភ្លៅ | សាចភ្លៅ</string>
+	<key>👮‍♀️</key>
+	<string>policewoman</string>
+	<key>🥕</key>
+	<string>ការ៉ុត | បន្លែ | អាហារ | ការ៉ុត</string>
+	<key>⭐️</key>
+	<string>star</string>
+	<key>🍘</key>
+	<string>នំ | នំស្រួយ | នំស្រួយ</string>
+	<key>🥖</key>
+	<string>នំប៉័ង | នំប៉័ងវែង | បារាំង | អាហារ | នំប៉័ងវែង</string>
+	<key>🗝️</key>
+	<string>old key</string>
+	<key>🌶️</key>
+	<string>hot pepper</string>
+	<key>🍙</key>
+	<string>ជប៉ុន | ដុំបាយ | បាយ | បាយពំនូត | បាយពំនូត</string>
+	<key>🥗</key>
+	<string>បន្លែបៃតង | បៃតង | សាលាដ | អាហារ | បន្លែបៃតង</string>
+	<key>🏃‍♂️</key>
+	<string>man runner</string>
+	<key>🇻🇮</key>
+	<string>flag of the US Virgin Islands</string>
+	<key>🇧🇬</key>
+	<string>flag of Bulgaria</string>
+	<key>🍚</key>
+	<string>ឆ្អិន | បាយ | បាយឆ្អិនមួយចាន | បាយឆ្អិនមួយចាន</string>
+	<key>🥘</key>
+	<string>ខ្ទះ | ខ្ទះឆារាក់ | ចានគោម | ចានបាយធំ | រាក់ | អាហារ | ខ្ទះឆារាក់</string>
+	<key>🍛</key>
+	<string>ការី | បាយ | បាយស្រូបការី | បាយស្រូបការី</string>
+	<key>🥙</key>
+	<string>ដាក់សាច់ | នំកេបាប់ | នំក្រូច | នំដុត | នំប៉័ងខ្ចប់សាច់ | នំប៉័ងដាក់សាច់ | អាហារ | នំប៉័ងដាក់សាច់</string>
+	<key>🍜</key>
+	<string>គុយទាវ | ចំហុយ | ចានគោម | មី | ម្ហូបចំហុយ | ម្ហូបចំហុយ</string>
+	<key>🥚</key>
+	<string>ស៊ុត | ស៊ុត ឬពង | អាហារ | អាហារពេលព្រឹក | ស៊ុត ឬពង</string>
+	<key>🛥️</key>
+	<string>motorboat</string>
+	<key>🇳🇮</key>
+	<string>flag of Nicaragua</string>
+	<key>🍝</key>
+	<string>មីឆា | មីស្ពែហ្គេទី (មីអ៊ីតាលី) | មីស្ពែហ្គេទី (មីអ៊ីតាលី)</string>
+	<key>🥛</key>
+	<string>កែវ | ទឹកដោះគោ | ទឹកដោះគោមួយកែវ | ផឹក | ទឹកដោះគោមួយកែវ</string>
+	<key>🇧🇭</key>
+	<string>flag of Bahrain</string>
+	<key>🍞</key>
+	<string>ដុំនុំ | នំប៉័ង | នុំប៉័ងបួនជ្រុង | នុំប៉័ងបួនជ្រុង</string>
+	<key>🥜</key>
+	<string>គ្រាប់ | បន្លែ | សណ្តែកដី | អាហារ | សណ្តែកដី</string>
+	<key>🍟</key>
+	<string>ដំឡូងចៀន | ដំឡូងចៀនចំណិត | បារាំង | ដំឡូងចៀនចំណិត</string>
+	<key>👨‍👨‍👦</key>
+	<string>family with two fathers and son</string>
+	<key>🥝</key>
+	<string>គីវី | ផ្លែគីវី | ផ្លែឈើ | អាហារ | ផ្លែគីវី</string>
+	<key>🇫🇮</key>
+	<string>flag of Finland</string>
+	<key>🤾‍♂️</key>
+	<string>man playing handball</string>
+	<key>🍠</key>
+	<string>ដំឡូងជ្វា | ដំឡូូង | ដំឡូងជ្វា</string>
+	<key>🖲️</key>
+	<string>trackball</string>
+	<key>🥞</key>
+	<string>នំក្តៅ | នំក្រៀប | នំចាក់ចុល | នំចាក់ពុម្ព | អាហារ | នំចាក់ពុម្ព</string>
+	<key>🇧🇮</key>
+	<string>flag of Burundi</string>
+	<key>🍡</key>
+	<string>ស្ករ | ស្ករតាំងម៉ែ | ស្ករតាំងម៉ែ</string>
+	<key>🥟</key>
+	<string>គាវ | គាវចិន | គាវជប៉ុន | គាវដុត | គាវស្អិត | គាវអឺរ៉ុប | គាវ</string>
+	<key>🍢</key>
+	<string>ម្ហូបដោតចង្កាក់ | សាច់ចង្កាក់ | ម្ហូបដោតចង្កាក់</string>
+	<key>🥠</key>
+	<string>ទំនាយ | នំខូកឃីប្រាប់ជោគវាសនា | នំខូកឃីប្រាប់ជោគវាសនា</string>
+	<key>🇫🇯</key>
+	<string>flag of Fiji</string>
+	<key>🍣</key>
+	<string>បាយពំនូត | ស៊ូស៊ី | ស៊ូស៊ី</string>
+	<key>🥡</key>
+	<string>ប្រអប់ខ្ចប់អាហារ | ប្រអប់ដាក់អាហារ | ប្រអប់ខ្ចប់អាហារ</string>
+	<key>🍤</key>
+	<string>កំពឹស | ចៀន | បង្គា | បង្គារបំពង | បង្គារបំពង</string>
+	<key>🥢</key>
+	<string>ចង្កឹះ | ចង្កឹះជប៉ុន | ចង្កឹះ</string>
+	<key>🇧🇯</key>
+	<string>flag of Benin</string>
+	<key>↔️</key>
+	<string>left-right arrow</string>
+	<key>🍥</key>
+	<string>នំម្សៅ | នំរាងមូលស្តើងល្មមធ្វើពីម្សៅសាច់ត្រី និងមានរូបដូចទឹកកួចនៅកណ្តាល | នំរាងមូលស្តើងល្មមធ្វើពីម្សៅសាច់ត្រី និងមានរូបដូចទឹកកួចនៅកណ្តាល</string>
+	<key>🥣</key>
+	<string>គ្រាប់ធញ្ញជាតិ | ចានគោមជាមួយស្លាបព្រា | បបរ | អាហារពេលព្រឹក | ចានគោមជាមួយស្លាបព្រា</string>
+	<key>🍦</key>
+	<string>ការេម | ការ៉េម | ការេមផ្លែឈើ | ទន់ | ទឹកកក | ផ្អែម | ការេមផ្លែឈើ</string>
+	<key>🇿🇲</key>
+	<string>flag of Zambia</string>
+	<key>🇫🇰</key>
+	<string>flag of the Falkland Islands</string>
+	<key>🥤</key>
+	<string>ទឹកក្រូច | ពែងជាមួយបំពង់បឺត | សូដា | ពែងជាមួយបំពង់បឺត</string>
+	<key>🏌️‍♀️</key>
+	<string>woman golfer</string>
+	<key>🇳🇱</key>
+	<string>flag of Netherlands</string>
+	<key>🍧</key>
+	<string>ទឹកកក | ទឹកកកឈូស | បង្អែម | ផ្អែម | ទឹកកកឈូស</string>
+	<key>🥥</key>
+	<string>ដូង | ត្នោត | ពីញ៉ា កូឡាដា | ដូង</string>
+	<key>🍨</key>
+	<string>ការេម | ការ៉េម | ទឹកកក | ផ្អែម | ការេម</string>
+	<key>🥦</key>
+	<string>ផ្កាស្ពៃខៀវ | ស្ពៃក្ដោបព្រៃ | ផ្កាស្ពៃខៀវ</string>
+	<key>🍩</key>
+	<string>ដូណាត់ | នំកង | នំកង</string>
+	<key>🥧</key>
+	<string>នំដុត | សំបក | ស្នូល | នំដុត</string>
+	<key>🖇️</key>
+	<string>linked paperclips</string>
+	<key>🍪</key>
+	<string>នំខូកឃី | បង្អែម | ផ្អែម | នំខូកឃី</string>
+	<key>🥨</key>
+	<string>ដែលវេញចូលគ្នា | នំដុតវេញចូលគ្នា | នំដុតវេញចូលគ្នា</string>
+	<key>🇻🇳</key>
+	<string>flag of Vietnam</string>
+	<key>💂‍♀️</key>
+	<string>guardswoman</string>
+	<key>🇧🇱</key>
+	<string>flag of Saint Barthélemy</string>
+	<key>🍫</key>
+	<string>បង្អែម | បន្ទះសូកូឡា | ផ្អែម | សូកូឡា | បន្ទះសូកូឡា</string>
+	<key>🇯🇲</key>
+	<string>flag of Jamaica</string>
+	<key>🥩</key>
+	<string>បន្ទះសាច់គោ | បន្ទះសាច់ចៀម | បន្ទះសាច់ជាប់ឆ្អឹង | បន្ទះសាច់ជ្រូក | សាច់មួយដុំ | សាច់មួយដុំ</string>
+	<key>🍬</key>
+	<string>បង្អែម | ស្ករគ្រាប់ | ស្ករគ្រាប់</string>
+	<key>🥪</key>
+	<string>នំប៉័ង | សាំងវ៉ិច | សាំងវ៉ិច</string>
+	<key>⛹️‍♀️</key>
+	<string>woman basketball player</string>
+	<key>🍭</key>
+	<string>ស្ករ | ស្ករដោត | ស្ករដោត</string>
+	<key>🇫🇲</key>
+	<string>flag of Micronesia</string>
+	<key>🥫</key>
+	<string>កំប៉ុង | អាហារកំប៉ុង | អាហារកំប៉ុង</string>
+	<key>🍮</key>
+	<string>នំផ្អែម | បង្អែម | ផ្អែម | នំផ្អែម</string>
+	<key>👨‍❤️‍👨</key>
+	<string>two men with heart</string>
+	<key>🥬</key>
+	<string>បន្លែស្លឹកបៃតង | ប្លក់ចយ | សាលាដ | ស្ពៃ | ស្ពៃក្ដោប | បន្លែស្លឹកបៃតង</string>
+	<key>🇧🇲</key>
+	<string>flag of Bermuda</string>
+	<key>🍯</key>
+	<string>ក្រឡ | ក្រឡទឹកឃ្មុំ | ទឹកឃ្មុំ | ក្រឡទឹកឃ្មុំ</string>
+	<key>🥭</key>
+	<string>ត្រូពិច | ផ្លែឈើ | ស្វាយ | ស្វាយ</string>
+	<key>🇷🇴</key>
+	<string>flag of Romania</string>
+	<key>🍰</key>
+	<string>នំ | នំខេក | នំខេកមួយដុំ | នំខេកមួយដុំ</string>
+	<key>🥮</key>
+	<string>នំលោកខែ | ពិធីបុណ្យ | យេពីង | សរទរដូវ | នំលោកខែ</string>
+	<key>🍱</key>
+	<string>ប្រអប់ | ប្រអប់ដាក់បាយនិងម្ហូប | ប្រអប់បាយជប៉ុន | ប្រអប់ដាក់បាយនិងម្ហូប</string>
+	<key>🇳🇴</key>
+	<string>flag of Norway</string>
+	<key>🥯</key>
+	<string>នំកងបេហ្គើល | ស្មៀរ | ហាងនំដុត | នំកងបេហ្គើល</string>
+	<key>🇧🇳</key>
+	<string>flag of Brunei</string>
+	<key>🧚‍♀️</key>
+	<string>woman fairy</string>
+	<key>🍲</key>
+	<string>ម្ហូប | ម្ហូបមួយចាន | ម្ហូបមួយចាន</string>
+	<key>🇯🇴</key>
+	<string>flag of Jordan</string>
+	<key>🥰</key>
+	<string>មុខញញឹមដែលមានបេះដូង 3 | លួចស្រឡាញ់ | ស្រឡាញ់ | ស្រឡាញ់ខ្លាំង | មុខញញឹមដែលមានបេះដូង 3</string>
+	<key>🍳</key>
+	<string>កំពុងចំអិនម្ហូប | ខ្ទះ | ចម្អិន | ចៀន | ស៊ុត | អាហារពេលព្រឹក | កំពុងចំអិនម្ហូប</string>
+	<key>🥱</key>
+	<string>គួរឱ្យធុញ | ធុញ | មុខស្ងាប | ស្ងាប | មុខស្ងាប</string>
+	<key>🇫🇴</key>
+	<string>flag of the Faroe Islands</string>
+	<key>🍴</key>
+	<string>កាំបិត | ការចម្អិនអាហារ | សម | សម និងកាំបិត | សមនិងកាំបិត | សមនិងកាំបិត</string>
+	<key>🥲</key>
+	<string>ញញឹម | ដឹងគុណ | ទឹកភ្នែក | ធូរចិត្ត | មានមោទនភាព | មុខញញឹមលាយទឹកភ្នែក | រំជួលចិត្ត | មុខញញឹមលាយទឹកភ្នែក</string>
+	<key>🇳🇵</key>
+	<string>flag of Nepal</string>
+	<key>✔️</key>
+	<string>check mark</string>
+	<key>🍵</key>
+	<string>តែ | ពែង | ពែងតែ | ពែងតែ</string>
+	<key>🥳</key>
+	<string>ការប្រារព្ធពិធី | ប៉ី | ពិធីជប់លៀង | មុខជប់លៀង | មួក | មុខជប់លៀង</string>
+	<key>🇧🇴</key>
+	<string>flag of Bolivia</string>
+	<key>🇯🇵</key>
+	<string>flag of Japan</string>
+	<key>🍶</key>
+	<string>ដបស្រា | ស្រា | ស្រាអង្ករ | ស្រាអង្ករ</string>
+	<key>🥴</key>
+	<string>ធ្លាក់ភ្នែកមួយចំហៀង | មាត់ដូចរលក | មុខធីងធោង | វិលមុខ | ស្រវឹង | ស្រវឹងតិចៗ | មុខធីងធោង</string>
+	<key>🍷</key>
+	<string>កែវ | បារ | ផឹក | ភេសជ្ជៈ | ស្រា | ស្រាមួយកែវ | ស្រាមួយកែវ</string>
+	<key>🥵</key>
+	<string>ក្ដៅ | ចង់គ្រុន | ចាញ់ថ្ងៃ | បែកញើស | មុខក្ដៅ | មុខក្រហម | មុខក្ដៅ</string>
+	<key>🍸</key>
+	<string>កែវ | បារ | ផឹក | ស្រាក្រឡុក | ស្រាក្រឡុកមួយកែវ | ស្រាក្រឡុកមួយកែវ</string>
+	<key>🥶</key>
+	<string>ដុំទឹកកកស្រួច | ត្រជាក់ | ត្រជាក់កក | ត្រជាក់ចង់រលេះដៃជើង | មុខត្រជាក់ឡើងកក | មុខឡើងស្វាយ | មុខត្រជាក់ឡើងកក</string>
+	<key>🍹</key>
+	<string>ត្រូពិច | ទឹកផ្លែឈើស្រស់មួយកែវ | បារ | ផឹក | ទឹកផ្លែឈើស្រស់មួយកែវ</string>
+	<key>🥷</key>
+	<string>ការធ្វើចលនាយ៉ាងស្ងាត់ | និនចា | បំបាំងខ្លួន | អ្នកប្រយុទ្ធ | និនចា</string>
+	<key>🍺</key>
+	<string>កែវ | បារ | ផឹក | ស្រាបៀ | ស្រាបៀមួយកែវ | ស្រាបៀមួយកែវ</string>
+	<key>🥸</key>
+	<string>ក្លែង | ច្រមុះ | មុខ | មុខបិទបាំង | វ៉ែនតា | សម្ងាត់ | មុខបិទបាំង</string>
+	<key>🚶‍♀️</key>
+	<string>woman pedestrian</string>
+	<key>🍻</key>
+	<string>ជល់កែវ | ស្រាបៀពីរកែវជល់គ្នា | ស្រាបៀពីរកែវជល់គ្នា</string>
+	<key>🥹</key>
+	<string>smiling face holding back tears</string>
+	<key>🇳🇷</key>
+	<string>flag of Nauru</string>
+	<key>🍼</key>
+	<string>ដប | ដបទឹកដោះគោ | ទារក | ទឹកដោះគោ | ផឹក | ដបទឹកដោះគោ</string>
+	<key>🇧🇶</key>
+	<string>flag of Bonaire</string>
+	<key>🥺</key>
+	<string>ការអង្វរ | ធ្វើភ្នែកគួរឱ្យអាណិត | មុខអង្វរ | មេត្តាធម៌ | មុខអង្វរ</string>
+	<key>🧑‍🍼</key>
+	<string>ទារក បំបៅ ថែទាំ មនុស្ស | មនុស្សបំបៅទារក | មនុស្សបំបៅទារក</string>
+	<key>🥻</key>
+	<string>សម្លៀកបំពាក់ | សារុងឥណ្ឌា | សារុងឥណ្ឌា</string>
+	<key>🇷🇸</key>
+	<string>flag of Serbia</string>
+	<key>🍾</key>
+	<string>ដបស្រា | ដបស្រាដកឆ្នុក | ស្រា | ដបស្រាដកឆ្នុក</string>
+	<key>🇫🇷</key>
+	<string>flag of France</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>man and woman kissing</string>
+	<key>🥼</key>
+	<string>ពិសោធន៍ | វេជ្ជបណ្ឌិត | អាវមន្ទីរពិសោធន៍ | អ្នកវិទ្យាសាស្ត្រ | អាវមន្ទីរពិសោធន៍</string>
+	<key>✍️</key>
+	<string>writing hand</string>
+	<key>🍿</key>
+	<string>ពោតលីង | ពោតលីងមួយប្រអប់ | ពោតលីងមួយប្រអប់</string>
+	<key>🥽</key>
+	<string>ការការពារភ្នែក | ការផ្សាដែក | ការហែលទឹក | វ៉ែនតាការពារ | វ៉ែនតាការពារ</string>
+	<key>🇧🇷</key>
+	<string>flag of Brazil</string>
+	<key>🗡️</key>
+	<string>dagger</string>
+	<key>⏮️</key>
+	<string>skip backward symbol</string>
+	<key>🎀</key>
+	<string>ក្រវ៉ាត់ក | ណឺ | បូ | បូ</string>
+	<key>🥾</key>
+	<string>ការដើរ | ការធ្វើដណើរកម្សាន្ត​ដោយស្ពាយកាបូបនៅក្រោយខ្នង | ការបោះជំរំ | ស្បែកជើងកវែង | ស្បែកជើងកវែង</string>
+	<key>🎁</key>
+	<string>កញ្ចប់ | កាដូ | ការប្រារព្ធពិធី | ប្រអប់ | អំណោយ | កាដូ</string>
+	<key>🥿</key>
+	<string>ស្បែកជើងបាតរាប | ស្បែកជើងបាតរាបសម្រាប់ស្ត្រី | ស្បែកជើងបាតរាបឥតខ្សែ | ស្បែកជើងផ្ទាត់ | ស្បែកជើងបាតរាប</string>
+	<key>🚀</key>
+	<string>រ៉ុកកែត | លំហ | អាប៉ូឡូ | អាប៉ូឡូ</string>
+	<key>🎂</key>
+	<string>នំខួប | នំខួបកំណើត | នំខេក | នំខួបកំណើត</string>
+	<key>🦀</key>
+	<string>ក្ដាម | ក្តាម | រាសីចក្រ | ក្តាម</string>
+	<key>🚁</key>
+	<string>អេលេកូ | ឧទ្ធម្ភាគចក្រ | អេលេកូ</string>
+	<key>🇻🇺</key>
+	<string>flag of Vanuatu</string>
+	<key>🇧🇸</key>
+	<string>flag of Bahamas</string>
+	<key>🎃</key>
+	<string>មុខ | មុខល្ពៅ | ល្ពៅ | មុខល្ពៅ</string>
+	<key>🕵️‍♀️</key>
+	<string>woman detective</string>
+	<key>🦁</key>
+	<string>តោ | មុខ | រាសីចក្រ | តោ</string>
+	<key>🚂</key>
+	<string>ក្បាលរថភ្លើង | រថភ្លើង | ក្បាលរថភ្លើង</string>
+	<key>🎄</key>
+	<string>ការប្រារព្ធពិធី | ដើមគ្រីស្តម៉ាស | ដើមគ្រីស្ទម៉ាស | ណូអែល | ដើមគ្រីស្តម៉ាស</string>
+	<key>🇷🇺</key>
+	<string>flag of Russia</string>
+	<key>🦂</key>
+	<string>ខ្យាដំរី | សត្វល្អិត | ខ្យាដំរី</string>
+	<key>🚃</key>
+	<string>ទូរថភ្លើង | ទូរថភ្លើងផ្ទុកទំនិញ | ផ្លូវដែក | រថភ្លើង | រថភ្លើងអគ្គិសនី | រថយន្តក្រុងអគ្គិសនី | អគ្គិសនី | ទូរថភ្លើងផ្ទុកទំនិញ</string>
+	<key>🎅</key>
+	<string>ការប្រារព្ធពិធី | គ្រិស្ដស្មាស | តាណូអែល | បុណ្យណូអែល | តាណូអែល</string>
+	<key>🦃</key>
+	<string>មាន់ | មាន់តួកគី | មាន់តួកគី</string>
+	<key>🚄</key>
+	<string>ក្បាលរថភ្លើង | រថភ្លើង | រថភ្លើងលឿន | រថភ្លើងលឿន</string>
+	<key>🇳🇺</key>
+	<string>flag of Niue</string>
+	<key>🛩️</key>
+	<string>small airplane</string>
+	<key>◾️</key>
+	<string>black medium small square</string>
+	<key>🎆</key>
+	<string>កាំជ្រួច | អបអរ | កាំជ្រួច</string>
+	<key>🇧🇹</key>
+	<string>flag of Bhutan</string>
+	<key>🦄</key>
+	<string>មុខ | សេះដុះស្នែង | សេះដុះស្នែង</string>
+	<key>🚅</key>
+	<string>ក្បាលស្រួច | ផ្លូវរថភ្លើង | រថភ្លើង | រថភ្លើងល្បឿនលឿន | ល្បឿន | ស៊ីនកាន់សេន | រថភ្លើងល្បឿនលឿន</string>
+	<key>🎇</key>
+	<string>កាំជ្រួច | ការប្រារព្ធ | បញ្ចេញពន្លឺ | ពន្លឺផ្លេក | បញ្ចេញពន្លឺ</string>
+	<key>🦅</key>
+	<string>បក្សី | ឥន្ទ្រី | ឥន្ទ្រី</string>
+	<key>🚆</key>
+	<string>ក្បាលរថភ្លើង | រថភ្លើងមើលពីមុខ | រថភ្លើងមើលពីមុខ</string>
+	<key>👱‍♀️</key>
+	<string>woman with blonde hair</string>
+	<key>🎈</key>
+	<string>ប៉េងប៉ោង | ប៉ោងប៉ោង | អបអរ | ប៉ោងប៉ោង</string>
+	<key>🇿🇼</key>
+	<string>flag of Zimbabwe</string>
+	<key>🦆</key>
+	<string>ទា | បក្សី | ទា</string>
+	<key>🚇</key>
+	<string>ម៉េត្រូ | រថភ្លើង | រថភ្លើងម៉េត្រូ | រថភ្លើងម៉េត្រូ</string>
+	<key>😮‍💨</key>
+	<string>ខួច | ខ្សឹប | ដកដង្ហើមចេញ | ដង្ហក់ | ថ្ងូរ | ធូរចិត្ត | មុខដកដង្ហើមចេញ | មុខដកដង្ហើមចេញ</string>
+	<key>🎉</key>
+	<string>ការប្រារព្ធពិធី | ជប់លៀង | ប្រដាប់បាញ់ចេញក្រដាសអបអរសាទរ | ពិធីជប់លៀង | ជប់លៀង</string>
+	<key>🦇</key>
+	<string>ជញ្ជក់ឈាម | ប្រចៀវ | សត្វ | ប្រចៀវ</string>
+	<key>🚈</key>
+	<string>ក្បាលរថភ្លើង | រថភ្លើង | រថភ្លើងក្នុងក្រុង | រថភ្លើងក្នុងក្រុង</string>
+	<key>🎊</key>
+	<string>ដុំបាល់ក្រដាសអបអរសាទរ | ប្រអប់ | ប្រអប់ដាក់ផ្កាក្រដាសដើម្បីបាចពេលអបអរសាទរ | ផ្កាក្រដាស | អបអរសាទរ | ដុំបាល់ក្រដាសអបអរសាទរ</string>
+	<key>🦈</key>
+	<string>ត្រី | ត្រីឆ្លាម | ត្រីឆ្លាម</string>
+	<key>🚉</key>
+	<string>ផ្លូវរថភ្លើង | រថភ្លើង | ស្ថានីយ | ស្ថានីយ</string>
+	<key>🇷🇼</key>
+	<string>flag of Rwanda</string>
+	<key>🎋</key>
+	<string>ដើមឈើ | ដើមឈើលម្អក្នុងពិធី | ដើមឈើលំអក្នុងពិធី | ពិធី | លម្អ | ដើមឈើលម្អក្នុងពិធី</string>
+	<key>🦉</key>
+	<string>ឆ្លាតវៃ | ទីទុយ | បក្សី | ទីទុយ</string>
+	<key>🚊</key>
+	<string>រថភ្លើង | រថភ្លើងអគ្គិសនីរថក្នុងក្រុង | រថភ្លើងអគ្គិសនីរថក្នុងក្រុង</string>
+	<key>🎌</key>
+	<string>ខ្វែង | ទង់ជាតិ | ទង់ជាតិជប៉ុនខ្វែងគ្នា | ទង់ជាតិជប៉ុនខ្វែងគ្នា</string>
+	<key>🦊</key>
+	<string>កញ្រ្ជោង | មុខ | កញ្រ្ជោង</string>
+	<key>🚋</key>
+	<string>ទូរថភ្លើង | រថភ្លើងអគ្គិសនី | រថយន្តក្រុងអគ្គិសនី | រថយន្តក្រុងអគ្គិសនីបើកលើផ្លូវកំណត់ | រថយន្តក្រុងអគ្គិសនីបើកលើផ្លូវកំណត់</string>
+	<key>🎍</key>
+	<string>ដើមរាសី | ដើមឫស្សីបីកង់ដាក់ផ្គុំគ្នាដើម្បីទទួលទេវតាឆ្នាំថ្មីនៅប្រទេសជប៉ុន | សំណាងល្អ | ដើមឫស្សីបីកង់ដាក់ផ្គុំគ្នាដើម្បីទទួលទេវតាឆ្នាំថ្មីនៅប្រទេសជប៉ុន</string>
+	<key>🇧🇻</key>
+	<string>flag of Bouvet Island</string>
+	<key>🦋</key>
+	<string>មេអំបៅ | សត្វល្អិត | ស្អាត | មេអំបៅ</string>
+	<key>🚌</key>
+	<string>រថយន្តក្រុង | ឡានក្រុង | រថយន្តក្រុង</string>
+	<key>🎎</key>
+	<string>តុក្កតា | តុក្កតាជប៉ុន | តុក្កតាជប៉ុន</string>
+	<key>🦌</key>
+	<string>ក្តាន់ | ក្តាន់</string>
+	<key>🚍</key>
+	<string>ចំពីមុខ | រថយន្តក្រុង | រថយន្តក្រុងមើលពីមុខ | រថយន្តក្រុងមើលពីមុខ</string>
+	<key>🎏</key>
+	<string>តុបតែង | រំយោល | រំយោលរូបត្រីសម្រាប់តុបតែង | រំយោលរូបត្រីសម្រាប់តុបតែង</string>
+	<key>🦍</key>
+	<string>ស្វាឪ | ស្វាឪ</string>
+	<key>🚎</key>
+	<string>រថយន្តក្រុង | រថយន្តក្រុងអគ្គិសនី | រថយន្តក្រុងអគ្គិសនី</string>
+	<key>🚏</key>
+	<string>ចំណត | ចំណតរថយន្តក្រុង | រថយន្តក្រុង | ចំណតរថយន្តក្រុង</string>
+	<key>🎐</key>
+	<string>កណ្ដឹង | កណ្តឹងខ្យល់ | ការប្រារព្ធពិធី | ខ្យល់ | កណ្តឹងខ្យល់</string>
+	<key>🦎</key>
+	<string>ជីងចក់ | តុកែ | ល្មូន | ជីងចក់</string>
+	<key>🇧🇼</key>
+	<string>flag of Botswana</string>
+	<key>🚐</key>
+	<string>រថយន្ត24កៅអី | រថយន្តឈ្នួល | ឡាន | រថយន្ត24កៅអី</string>
+	<key>♏️</key>
+	<string>Scorpio</string>
+	<key>🎑</key>
+	<string>បុណ្យសែនព្រះខែ | សែន | បុណ្យសែនព្រះខែ</string>
+	<key>🦏</key>
+	<string>រមាស | រមាស</string>
+	<key>🚑</key>
+	<string>រថយន្ត | រថយន្តសង្គ្រោះបន្ទាន់ | ឡានពេទ្យ | ឡានពេទ្យ</string>
+	<key>👨‍🍼</key>
+	<string>ថែទាំ | ទារក | បំបៅ | បុរស | បុរសបំបៅទារក | បុរសបំបៅទារក</string>
+	<key>⚧️</key>
+	<string>transgender symbol</string>
+	<key>👨‍👨‍👧</key>
+	<string>family with two fathers and daughter</string>
+	<key>🖋️</key>
+	<string>fountain pen</string>
+	<key>🚒</key>
+	<string>ម៉ាស៊ីន | រថយន្ត | រថយន្តពន្លត់អគ្គីភ័យ | អគ្គិភ័យ | រថយន្តពន្លត់អគ្គីភ័យ</string>
+	<key>🎒</key>
+	<string>កាតាប | កាបូប | កាបូបស្ពាយ | កាបូបស្ពាយខ្នង | កាបូបស្ពាយពីក្រោយ | សាលារៀន | កាបូបស្ពាយខ្នង</string>
+	<key>🎓</key>
+	<string>ទទួលសញ្ញាបត្រ | មួក | មួកទទួលសញ្ញាបត្រ | មួកទទួលសញ្ញាបត្រ</string>
+	<key>🦐</key>
+	<string>តូច | បង្គារ | ពពួកខ្យង | អាហារ | បង្គារ</string>
+	<key>🦑</key>
+	<string>មឹក | មឹកបំពង់ | សិប្បិជាតិ | អាហារ | មឹកបំពង់</string>
+	<key>🚓</key>
+	<string>ប៉ូលីស | យាមល្បាត | រថយន្ត | ឡានប៉ូលីស | ឡានប៉ូលីស</string>
+	<key>❗️</key>
+	<string>red exclamation mark</string>
+	<key>🦒</key>
+	<string>សត្វកវែង | ស្នាមអុច | សត្វកវែង</string>
+	<key>🙇‍♀️</key>
+	<string>woman bowing</string>
+	<key>🗣️</key>
+	<string>speaking silhouette head</string>
+	<key>🚔</key>
+	<string>ចំពីមុខ | ប៉ូលីស | រថយន្ត | ឡានប៉ូលីសមើលពីមុខ | ឡានប៉ូលីសមើលពីមុខ</string>
+	<key>🦓</key>
+	<string>ឆ្នូត | សេះបង្កង់ | សេះបង្កង់</string>
+	<key>🚕</key>
+	<string>តាក់ស៊ី | រថយន្ត | ឡាន | ឡានតាក់ស៊ី | ឡានតាក់ស៊ី</string>
+	<key>🦔</key>
+	<string>កាំប្រមា | ដែលមានបន្លាច្រូង | កាំប្រមា</string>
+	<key>🇳🇿</key>
+	<string>flag of New Zealand</string>
+	<key>🦕</key>
+	<string>brachiosaurus | brontosaurus | diplodocus | sauropod | sauropod</string>
+	<key>🚖</key>
+	<string>ចំពីមុខ | តាក់ស៊ី | ឡានតាក់ស៊ីមើលពីមុខ | ឡានតាក់ស៊ីមើលពីមុខ</string>
+	<key>🇧🇾</key>
+	<string>flag of Belarus</string>
+	<key>🦖</key>
+	<string>T-Rex | Tyrannosaurus Rex | T-Rex</string>
+	<key>🚗</key>
+	<string>រថយន្ត | ឡាន | រថយន្ត</string>
+	<key>🦗</key>
+	<string>កណ្ដូប | ចង្រិត | ចង្រិត</string>
+	<key>🚘</key>
+	<string>ចំពីមុខ | យានយន្ត | រថយន្ត | រថយន្តមើលពីមុខ | រថយន្តមើលពីមុខ</string>
+	<key>🦘</key>
+	<string>កង់ហ្គូរូ | កូនកង់ហ្គូរូ | ពពួកសត្វដែលមាន​ថង់នៅពោះ | លោត | អូស្ត្រាលី | កង់ហ្គូរូ</string>
+	<key>🚙</key>
+	<string>រថយន្ត | រថយន្តកែច្នៃ | ឡាន | រថយន្តកែច្នៃ</string>
+	<key>🇧🇿</key>
+	<string>flag of Belize</string>
+	<key>🦙</key>
+	<string>ក្វាណាកូ | យ៉ាម៉ា | រោម | វីគូញ៉ា | អាល់ប៉ាកា | យ៉ាម៉ា</string>
+	<key>🚚</key>
+	<string>ដឹកទំនិញ | រថយន្ត | រថយន្តដឹកទំនិញ | រថយន្តដឹកទំនិញ</string>
+	<key>♈️</key>
+	<string>Aries</string>
+	<key>🦚</key>
+	<string>ក្ងោក | ក្ងោកញី | ដែលមានមោទនភាព | បក្សី | សំញ៉ែង | ក្ងោក</string>
+	<key>🚛</key>
+	<string>កុងទីន័រ | ឡានកុងទីន័រ | កុងទីន័រ</string>
+	<key>⚠️</key>
+	<string>warning</string>
+	<key>🦛</key>
+	<string>ដំរីទឹក | សត្វដំរីទឹក | សត្វដំរីទឹក</string>
+	<key>🚜</key>
+	<string>ត្រាក់ទ័រ | យានជំនិះ | ត្រាក់ទ័រ</string>
+	<key>⛸️</key>
+	<string>ice skate</string>
+	<key>🧘‍♂️</key>
+	<string>man in lotus position</string>
+	<key>🧑‍🚀</key>
+	<string>រ៉ុកកែត | អ្នកអវកាស | អ្នកអវកាស</string>
+	<key>🦜</key>
+	<string>ចោរសមុទ្រ | និយាយ | បក្សី | សេក | សេក</string>
+	<key>🚝</key>
+	<string>រថភ្លើង | រថភ្លើងរថលើផ្លូវតែមួយ | រថភ្លើងលើផ្លូវ | រថភ្លើងរថលើផ្លូវតែមួយ</string>
+	<key>🦝</key>
+	<string>ចង់ដឹងចង់ឮ | ល្បិចច្រើន | សំពោចរ៉ាគូន | សំពោចរ៉ាគូន</string>
+	<key>🚞</key>
+	<string>ទូរថភ្លើង | ផ្លូវរថភ្លើង | ផ្លូវរថភ្លើងលើភ្នំ | ភ្នំ | ផ្លូវរថភ្លើងលើភ្នំ</string>
+	<key>🎠</key>
+	<string>ទោងវិល | សេះទោងវិល | សេះវិល | សេះទោងវិល</string>
+	<key>🦞</key>
+	<string>ក្រញាំ | បង្កង | ស៊ុបខាប់ | អាហារសមុទ្រ | បង្កង</string>
+	<key>🚟</key>
+	<string>រថភ្លើង | រថភ្លើងយោង | រថភ្លើងយោង</string>
+	<key>🎡</key>
+	<string>កន្ត្រកវិល | ទោងវិល | សួនកម្សាន្ត | កន្ត្រកវិល</string>
+	<key>🦟</key>
+	<string>គ្រុនក្ដៅ | គ្រុនចាញ់ | ជំងឺ | មូស | មេរោគ | សត្វល្អិត | មូស</string>
+	<key>🚠</key>
+	<string>ខ្សែកាប | ទូយោង | ទូយោងដោយខ្សែកាប | ទូយោងដោយខ្សែកាប</string>
+	<key>🎢</key>
+	<string>រថភ្លើងហោះ | រទេះភ្លើងហោះ | រទេះភ្លើងហោះ (សម្រាប់កម្សាន្ត) | សួនកម្សាន្ត | រទេះភ្លើងហោះ (សម្រាប់កម្សាន្ត)</string>
+	<key>🦠</key>
+	<string>បាក់តេរី | មីក្រុប | មេរោគ | អាមីប | មីក្រុប</string>
+	<key>🚡</key>
+	<string>ខ្សែកាប | ទូតូចយោងដោយខ្សែកាប | ទូយោង | ទូយោងដោយខ្សែកាប | ទូរថភ្លើង | អាកាស | ទូតូចយោងដោយខ្សែកាប</string>
+	<key>🧝‍♀️</key>
+	<string>woman elf</string>
+	<key>🎣</key>
+	<string>ដងសន្ទូច | ត្រី | ស្ទូចត្រី | ដងសន្ទូច</string>
+	<key>🦡</key>
+	<string>ផេស្ទើរ | ស្ការដែលរស់នៅក្នុងរូងក្រោមដី | ហាន់នី ប៊ែជើរ | ស្ការដែលរស់នៅក្នុងរូងក្រោមដី</string>
+	<key>🚢</key>
+	<string>កប៉ាល់ | កាប៉ាល់ | នាវា | អ្នកដំណើរ | កប៉ាល់</string>
+	<key>🎤</key>
+	<string>ណោតភ្លេង | មីក្រូហ្វូន​ | មីក្រូហ្វូន​និងណោតភ្លេងបី | ម៉ៃក្រូហ្វូន | មីក្រូហ្វូន​និងណោតភ្លេងបី</string>
+	<key>🦢</key>
+	<string>កូនទារូបអាក្រក់ | កូនហង្ស | បក្សី | ហង្ស | ហង្ស</string>
+	<key>🚣</key>
+	<string>ទូក | មនុស្សអុំទូក | អុំ | មនុស្សអុំទូក</string>
+	<key>🎥</key>
+	<string>កាមេរ៉ា | កាមេរ៉ាថតកុន | ថតកុន | ភាពយន្ត | កាមេរ៉ាថតកុន</string>
+	<key>🦣</key>
+	<string>ការផុតពូជ | ដំរីមាំម៉ូត | ធំ | ធ្វើពីរោមសត្វ | ភ្លុក | ដំរីមាំម៉ូត</string>
+	<key>🚤</key>
+	<string>កាណូត | ទូក | កាណូត</string>
+	<key>🎦</key>
+	<string>ប៊ូតុង | ប៊ូតុងប្រភេទមើលកុន | មើលកុន | ប៊ូតុងប្រភេទមើលកុន</string>
+	<key>🦤</key>
+	<string>ការផុតពូជ | ដូដូ | ធំ | ម៉ូរីទុស | ដូដូ</string>
+	<key>🚥</key>
+	<string>ភ្លើងចរាចរណ៍ | ភ្លើងចរាចរណ៍ផ្តេក | ភ្លើងចរាចរណ៍ផ្តេក</string>
+	<key>⚙️</key>
+	<string>gear</string>
+	<key>🚴‍♂️</key>
+	<string>man cyclist</string>
+	<key>🎧</key>
+	<string>កាស | កាសនិងណោតភ្លេងបី | ណោតភ្លេង | ភ្លេង | កាសនិងណោតភ្លេងបី</string>
+	<key>🦥</key>
+	<string>ខ្ជិល | យឺត | ស្លុដ | ស្លុដ</string>
+	<key>🚦</key>
+	<string>ភ្លើងចរាចរណ៍ | ភ្លើងចរាចរណ៍បញ្ឈរ | ភ្លើងចរាចរណ៍បញ្ឈរ</string>
+	<key>⛱️</key>
+	<string>beach umbrella</string>
+	<key>🖍️</key>
+	<string>crayon</string>
+	<key>🎨</key>
+	<string>កូល័រ | ក្តារថ្នាំពណ៌សម្រាប់ជាងគំនូ | ពណ៌ | ក្តារថ្នាំពណ៌សម្រាប់ជាងគំនូ</string>
+	<key>🦦</key>
+	<string>ចាប់ត្រី | ភេ | លេងច្រើន | ភេ</string>
+	<key>🚧</key>
+	<string>ការសារសង់ | បាំងផ្លូវ | ការសារសង់</string>
+	<key>🎩</key>
+	<string>មួក | មួកវែង | មួកអ្នកលេងសៀក | មួកអ្នកលេងសៀក</string>
+	<key>🦧</key>
+	<string>ស្វាអូរ៉ង់ហ្គូតង់ | ស្វាឪ | ស្វាអូរ៉ង់ហ្គូតង់</string>
+	<key>🚨</key>
+	<string>ប៉ូលីស | ភ្លើង | ភ្លើងសញ្ញា | រថយន្ត | វិល | សេរែនប៉ូលីស | សេរែនប៉ូលីស</string>
+	<key>➡️</key>
+	<string>right arrow</string>
+	<key>🎪</key>
+	<string>រោង | រោងសៀក | សៀក | រោងសៀក</string>
+	<key>🦨</key>
+	<string>ស្កុង | ស្អុយ | ស្កុង</string>
+	<key>🚩</key>
+	<string>ទង់ជាតិ | ទង់ជាតិរាងត្រីកោន | រាងត្រីកោន | ទង់ជាតិរាងត្រីកោន</string>
+	<key>🎫</key>
+	<string>សំបុត្រ | អនុញ្ញាត | សំបុត្រ</string>
+	<key>🦩</key>
+	<string>កុកពណ៌ស៊ីកូលាប | ត្រូពិច | ពណ៌ភ្លឺច្រាល | កុកពណ៌ស៊ីកូលាប</string>
+	<key>🚪</key>
+	<string>ទ្វារ | ទ្វារ</string>
+	<key>🦸‍♀️</key>
+	<string>woman superhero</string>
+	<key>🎬</key>
+	<string>ក្តារថតកុន | ក្តារធ្វើជាសញ្ញាពេលចាប់ផ្តើមថតកុន | ថតកុន | ក្តារធ្វើជាសញ្ញាពេលចាប់ផ្តើមថតកុន</string>
+	<key>🦪</key>
+	<string>ការមុជទឹក | គុជខ្យង | អ័រស្ទ័រ | អ័រស្ទ័រ</string>
+	<key>🚫</key>
+	<string>មិនអនុញ្ញាត | សញ្ញា | សញ្ញាហាមឃាត់ | ហាម | ហាមឃាត់ | សញ្ញាហាមឃាត់</string>
+	<key>🎖️</key>
+	<string>military medal</string>
+	<key>🎭</key>
+	<string>ស្រោមមុខ | ស្រោមមុខសម្រាប់សម្តែងសិល្បៈ | ស្រោមមុខសម្រាប់សម្តែងសិល្បៈ</string>
+	<key>🦫</key>
+	<string>កាស្ទ័រ | មេ | សត្វកាស្ទ័រ | សត្វកាស្ទ័រ</string>
+	<key>🚬</key>
+	<string>ជក់ | បារី | បារីហុយផ្សែង | បារីហុយផ្សែង</string>
+	<key>🎮</key>
+	<string>ដៃហ្គេម | បញ្ជា | ដៃហ្គេម</string>
+	<key>🦬</key>
+	<string>ក្របី | គោព្រៃអាមេរិក | គោព្រៃអឺរ៉ុប | វ៉ូង | គោព្រៃអាមេរិក</string>
+	<key>🚭</key>
+	<string>ឃាត់ | ជក់បារី | សញ្ញា | សញ្ញាហាមជក់បារី | ហាម | សញ្ញាហាមជក់បារី</string>
+	<key>🎯</key>
+	<string>គប់ចំកណ្ដាល | គប់ព្រួញ | គោលដៅ | ព្រួញ | ល្បែង | ហ្គេម | គប់ព្រួញ</string>
+	<key>🦭</key>
+	<string>ឆ្មាទឹក | តោសមុទ្រ | ឆ្មាទឹក</string>
+	<key>🚮</key>
+	<string>ក្នុងធុង | ចោលសំរាម | សញ្ញាចោលសំរាមក្នុងធុង | សញ្ញាចោលសំរាមក្នុងធុង</string>
+	<key>☺️</key>
+	<string>smiling face</string>
+	<key>🎰</key>
+	<string>ទូហ្គេម | ម៉ាស៊ីនលេងហ្គេម | ម៉ាស៊ីនហ្គេមបង្វិល | ម៉ាស៊ីហ្គេមបង្វិល | ម៉ាស៊ីនហ្គេមបង្វិល</string>
+	<key>🦮</key>
+	<string>ឆ្កែនាំផ្លូវ | នាំផ្លូវ | ពិការភ្នែក | លទ្ធភាព​ទទួលបាន | ឆ្កែនាំផ្លូវ</string>
+	<key>🚯</key>
+	<string>ចោលសំរាម | សញ្ញា | សញ្ញាហាមចោលសំរាម | ហាម | សញ្ញាហាមចោលសំរាម</string>
+	<key>⚒️</key>
+	<string>hammer and pick</string>
+	<key>🎱</key>
+	<string>៨ | គ្រាប់ប៊ីយ៉ា | គ្រាប់ប៊ីយ៉ាលេខ ៨ | គ្រាប់ប៊ីយ៉ាលេខ៨ | ប៊ីយ៉ា | ប្រាំបី | ល្បែង | ហ្គេម | គ្រាប់ប៊ីយ៉ាលេខ៨</string>
+	<key>🦯</key>
+	<string>ខ្វាក់ | ឈើច្រត់ជនពិការ | ភាពងាយស្រួល | ឈើច្រត់ជនពិការ</string>
+	<key>🚰</key>
+	<string>ទឹក | ទឹកស្អាត | ផឹក | ស្អាត | ទឹកស្អាត</string>
+	<key>🧑‍🎄</key>
+	<string>បុណ្យណូអែល គ្រីស្តស្មាស | បុរសណូអែល | បុរសណូអែល</string>
+	<key>⛪️</key>
+	<string>church</string>
+	<key>🎲</key>
+	<string>គ្រាប់ឡុកឡាក់ | ល្បែង | គ្រាប់ឡុកឡាក់</string>
+	<key>🤵‍♀️</key>
+	<string>woman in tuxedo</string>
+	<key>⌛️</key>
+	<string>hourglass</string>
+	<key>🏋️‍♂️</key>
+	<string>man weightlifter</string>
+	<key>🚱</key>
+	<string>ក្បាលរ៉ូប៊ីនេ | ទឹក | ផឹក | មិន | សញ្ញា | សញ្ញាទឹកចេញពីក្បាលរ៉ូប៊ីនេមិនអាចផឹកបាន | សញ្ញាទឹកចេញពីក្បាលរ៉ូប៊ីនេមិនអាចផឹកបាន</string>
+	<key>🎳</key>
+	<string>ប៊ូល | បោះប៊ូល | បោះប៊ូល</string>
+	<key>👯‍♂️</key>
+	<string>dancing men wearing bunny ears</string>
+	<key>👨‍🚀</key>
+	<string>ប្រុស | រ៉ុកែត | លំហរអាកាស | អាវកាសយានិក | អាវកាសយានិកប្រុស | អាវកាសយានិកប្រុស</string>
+	<key>🚲</key>
+	<string>កង់ | ទោចក្រយាន | កង់</string>
+	<key>🎴</key>
+	<string>បៀ | បៀរូប | ល្បែង | បៀរូប</string>
+	<key>🚳</key>
+	<string>កង់ | ឃាត់ | សញ្ញា | សញ្ញាហាមចំពោះកង់ | ហាម | សញ្ញាហាមចំពោះកង់</string>
+	<key>👩‍👦‍👦</key>
+	<string>family with mother and two sons</string>
+	<key>🎵</key>
+	<string>ណោតភ្លេង | ណោតភ្លេងដូចអក្សរ ក អត់សក់ | តន្រ្តី | ភ្លេង | ណោតភ្លេងដូចអក្សរ ក អត់សក់</string>
+	<key>👨‍🤝‍👨</key>
+	<string>men holding hands</string>
+	<key>🚴</key>
+	<string>កង់ | ជិះកង់ | មនុស្សជិះកង់ | អ្នកជិះកង់ | មនុស្សជិះកង់</string>
+	<key>🎶</key>
+	<string>ណោតភ្លេង | ណោតភ្លេងដូចអក្សរ រ បី | តន្រ្តី | ភ្លេង | ណោតភ្លេងដូចអក្សរ រ បី</string>
+	<key>🦴</key>
+	<string>គ្រោងឆ្អឹង | ឆ្អឹង | ឆ្អឹង</string>
+	<key>🚵</key>
+	<string>កង់ | ភ្នំ | មនុស្សជិះកង់ឡើងភ្នំ | អ្នកជិះកង់ | មនុស្សជិះកង់ឡើងភ្នំ</string>
+	<key>🎷</key>
+	<string>ត្រែ | ត្រែផ្លុំ | ផ្លុំ | ត្រែផ្លុំ</string>
+	<key>🦵</key>
+	<string>ជើង | ទាត់ | អវយវៈ | ជើង</string>
+	<key>🚶</key>
+	<string>ដើរ | ថ្មើរជើង | មនុស្សកំពុងដើរ | មនុស្សកំពុងដើរ</string>
+	<key>🎸</key>
+	<string>សម្លេង | ហ្គីតា | ហ្គីតា</string>
+	<key>🦶</key>
+	<string>តន្ត្រំ | ទាត់ | ប្រអប់ជើង | ប្រអប់ជើង</string>
+	<key>🚷</key>
+	<string>ឃាត់ | ថ្មើរជើង | បម្រាម | ហាមអ្នកថ្មើរជើង | ហាមអ្នកថ្មើរជើង</string>
+	<key>🎹</key>
+	<string>ខ្ទង់ | ខ្ទង់ព្យាណូ | ព្យាណូ | ខ្ទង់ព្យាណូ</string>
+	<key>🦷</key>
+	<string>ទន្តពេទ្យ | ធ្មេញ | ធ្មេញ</string>
+	<key>🚸</key>
+	<string>ក្មេងឆ្លងកាត់ | ឆ្លងផ្លូវ | សញ្ញា | សញ្ញាមានក្មេងឆ្លងកាត់ | សញ្ញាមានក្មេងឆ្លងកាត់</string>
+	<key>🎺</key>
+	<string>ត្រុំប៉ែត | ត្រែ | ត្រុំប៉ែត</string>
+	<key>🦸</key>
+	<string>កំពូលវីរជន | ថាមពលពិសេស | ល្អ | វីរនារី | វីរបុរស | កំពូលវីរជន</string>
+	<key>🚹</key>
+	<string>បន្ទប់ទឹក | បន្ទប់បុរស | សញ្ញា | សញ្ញាបន្ទប់ទឹកបុរស | សញ្ញាបន្ទប់បុរស | សញ្ញាបន្ទប់បុរស</string>
+	<key>🎻</key>
+	<string>កូត | វីយូឡុង | វីយូឡុង</string>
+	<key>🦹</key>
+	<string>កំពូលជនអាក្រក់ | ជនអាក្រក់ | ថាមពលពិសេស | អាក្រក់ | ឧក្រិដ្ឋជន | កំពូលជនអាក្រក់</string>
+	<key>🚺</key>
+	<string>បន្ទប់ទឹក | បន្ទប់ទឹកនារី | សញ្ញា | សញ្ញាបន្ទប់នារី | សញ្ញាបន្ទប់នារី</string>
+	<key>🎼</key>
+	<string>ណោតភ្លេងពីក្រោយឆ្នូតផ្តេកប្រាំ | ណោតភ្លេងភ្លេង | តន្ត្រី | ភ្លេង | ណោតភ្លេងពីក្រោយឆ្នូតផ្តេកប្រាំ</string>
+	<key>🦺</key>
+	<string>គ្រាអាសន្ន | សុវត្ថិភាព | អាវពោង | អាវពោងសុវត្ថិភាព | អាវពោងសុវត្ថិភាព</string>
+	<key>🚻</key>
+	<string>បន្ទប់ | បន្ទប់ទឹក | សញ្ញា | សញ្ញាបន្ទប់ទឹក | សញ្ញាបន្ទប់ទឹក</string>
+	<key>🎽</key>
+	<string>អាវកាក់ | អាវកីឡា | អាវសម្រាប់រត់ | អាវសម្រាប់រត់</string>
+	<key>🦻</key>
+	<string>ត្រចៀកពាក់ឧបករណ៍ជំនួយការស្ដាប់ | មានការពិបាកក្នុងការស្ដាប់ | លទ្ធភាព​ទទួលបាន | ត្រចៀកពាក់ឧបករណ៍ជំនួយការស្ដាប់</string>
+	<key>🚼</key>
+	<string>ទារក | ប្ដូរកន្ទប | សញ្ញាទារក | សញ្ញាមានទារក | សញ្ញាមានទារក</string>
+	<key>🎾</key>
+	<string>កីឡា | កូនបាល់ | កូនបាល់សម្រាប់កីឡាថេនីស | តេនីស | បាល់ | កូនបាល់សម្រាប់កីឡាថេនីស</string>
+	<key>🦼</key>
+	<string>រទេះជនពិការដែលប្រើម៉ាស៊ីន | លទ្ធភាព​ចូល | រទេះជនពិការដែលប្រើម៉ាស៊ីន</string>
+	<key>🚽</key>
+	<string>បង្គន់ | បន្ទោរបង់ | បង្គន់</string>
+	<key>🎿</key>
+	<string>ក្តារ | ក្តារនិងឈើច្រត់សម្រាប់ជិះលើជំរាលទឹកកក | ជំរាលទឹកកក | ឈើច្រត់ | ស្គី | ក្តារនិងឈើច្រត់សម្រាប់ជិះលើជំរាលទឹកកក</string>
+	<key>🦽</key>
+	<string>រទេះជនពិការដែលរុញដោយដៃ | លទ្ធភាពទទួលបាន | រទេះជនពិការដែលរុញដោយដៃ</string>
+	<key>🚾</key>
+	<string>WC | បង្គន់ | សញ្ញា | សញ្ញាបង្គន់ | សញ្ញាបង្គន់</string>
+	<key>🏀</key>
+	<string>បាល់ | បាល់បោះ | បាល់បោះ</string>
+	<key>🦾</key>
+	<string>ដៃមេកានិច | លទ្ធភាព​ទទួលបាន | សិប្បនិម្មិត | ដៃមេកានិច</string>
+	<key>🙅‍♂️</key>
+	<string>man gesturing no</string>
+	<key>🚿</key>
+	<string>ទឹកផ្កាឈូក | រ៉ូប៊ីនេ | រ៉ូប៊ីនេទឹកផ្កាឈូក | រ៉ូប៊ីនេទឹកផ្កាឈូក</string>
+	<key>🏁</key>
+	<string>ទង់ | ទង់សម្រាប់ការប្រណាំង | ទង់សម្រាប់ការប្រណាំង</string>
+	<key>🦿</key>
+	<string>ជើងមេកានិច | លទ្ធភាព​ទទួលបាន | សិប្បនិម្មិត | ជើងមេកានិច</string>
+	<key>🛀</key>
+	<string>ដេកត្រាំ | មនុស្សកំពុងដេកត្រាំក្នុងអាង | អាង | មនុស្សកំពុងដេកត្រាំក្នុងអាង</string>
+	<key>🏂</key>
+	<string>ក្តារស្គី | ជំរាលទឹកកក | អ្នកជិះ | អ្នកជិះក្តារស្គីលើជំរាលទឹកកក | អ្នកជិះក្តារស្គីលើជំរាលទឹកកក</string>
+	<key>🧀</key>
+	<string>ឈីស | ដុំឈីស | ប្រហុក | ដុំឈីស</string>
+	<key>🛁</key>
+	<string>ងូតទឹក | អាងងូតទឹក | អាងងូតទឹក</string>
+	<key>🚣‍♂️</key>
+	<string>man rowing boat</string>
+	<key>🏃</key>
+	<string>មនុស្សកំពុងរត់ | ម៉ារ៉ាតុង | រត់ | មនុស្សកំពុងរត់</string>
+	<key>🧁</key>
+	<string>នំផ្អែម | នំពែង | ហាងនំដុត | នំពែង</string>
+	<key>🛂</key>
+	<string>លិខិតឆ្លងដែន | សញ្ញា | សញ្ញាពិនិត្យលិខិតឆ្លងដែន | សញ្ញាពិនិត្យលិខិតឆ្លងដែន</string>
+	<key>🏄</key>
+	<string>ការជិះក្តារលើរលក | មនុស្សជិះក្តារលើរលក | មនុស្សជិះក្តារលើរលក</string>
+	<key>🧂</key>
+	<string>កំប៉ុងដាក់គ្រឿងទេស | គ្រឿងផ្សំរសជាតិ | អំបិល | អំបិល</string>
+	<key>🛃</key>
+	<string>គយ | ពន្ធគយ | សញ្ញា | សញ្ញាពន្ធគយ | សញ្ញាពន្ធគយ</string>
+	<key>🏅</key>
+	<string>មេដាយ | មេដាយកីឡា | ស្នាដៃ | មេដាយកីឡា</string>
+	<key>🧃</key>
+	<string>កំប៉ុងទឹកផ្លែឈើ | កំប៉ុងភេសជ្ជៈ | កំប៉ុងភេសជ្ជៈ</string>
+	<key>🛄</key>
+	<string>កន្លែងយកអីវ៉ាន់ | សញ្ញា | សញ្ញាមកយកឥវ៉ាន់ | ឥវ៉ាន់ | កន្លែងយកអីវ៉ាន់</string>
+	<key>🏆</key>
+	<string>ពាន | ពានរង្វាន់ | ពានរង្វាន់</string>
+	<key>🧄</key>
+	<string>ខ្ទឹមស | គ្រឿងបន្ថែមរសជាតិ | ខ្ទឹមស</string>
+	<key>🛅</key>
+	<string>សញ្ញា | សញ្ញាឥវ៉ាន់ដែលភ្លេច | ឥវ៉ាន់ភ្លេច | សញ្ញាឥវ៉ាន់ដែលភ្លេច</string>
+	<key>🏇</key>
+	<string>ជិះសេះ | ប្រណាំងសេះ | សេះ | ប្រណាំងសេះ</string>
+	<key>🧅</key>
+	<string>ខ្ទឹមបារាំង | គ្រឿងបន្ថែមរសជាតិ | ខ្ទឹមបារាំង</string>
+	<key>✴️</key>
+	<string>eight pointed star</string>
+	<key>🖼️</key>
+	<string>frame with picture</string>
+	<key>🏈</key>
+	<string>បាល់ | បាល់អោបអាមេរិក | បាល់ឱប | អាមេរិក | បាល់អោបអាមេរិក</string>
+	<key>🧆</key>
+	<string>នំហ្វាឡាហ្វល់ | ប្រហិត | សណ្តែក​បារាំង​ពណ៌លឿង | នំហ្វាឡាហ្វល់</string>
+	<key>🏉</key>
+	<string>បាល់ | បាល់អោប | បាល់ឱប | បាល់អោប</string>
+	<key>🧇</key>
+	<string>ដែក | នំពុម្ព | មិនច្បាស់ | នំពុម្ព</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>family with two fathers, son and daughter</string>
+	<key>🏊</key>
+	<string>មនុស្សហែលទឹក | ហែលទឹក | មនុស្សហែលទឹក</string>
+	<key>🧈</key>
+	<string>បឺរ | ប្រភេទអាហារដែល​ធ្វើពីទឹកដោះគោ ឬក្រែម | បឺរ</string>
+	<key>🧑‍⚖️</key>
+	<string>judge</string>
+	<key>3️⃣</key>
+	<string>keycap digit three</string>
+	<key>🧉</key>
+	<string>ភេសជ្ជៈ | ម៉ាតេ | ម៉ាតេ</string>
+	<key>🧊</key>
+	<string>កាតិបទឹកកក | ដុំទឹកកក | ត្រជាក់ | ដុំទឹកកក</string>
+	<key>🧋</key>
+	<string>គុជ | តែ | តែគុជ | ទឹកដោះគោ | តែគុជ</string>
+	<key>🛌</key>
+	<string>ដេក | មនុស្សដេក | មនុស្សដេកលើគ្រែ | លើគ្រែ | មនុស្សដេកលើគ្រែ</string>
+	<key>🧛‍♂️</key>
+	<string>man vampire</string>
+	<key>🧌</key>
+	<string>troll</string>
+	<key>🏏</key>
+	<string>កីឡាគ្រីឃីត | កូនបាល់ | គ្រីឃីត | ដំបង | ដំបងនិងកូនបាល់សម្រាប់កីឡាគ្រីឃីត | គ្រីឃីត</string>
+	<key>🧍</key>
+	<string>ការឈរ | ឈរ | មនុស្សឈរ | មនុស្សឈរ</string>
+	<key>🏐</key>
+	<string>បាល់ | បាល់ទះ | បាល់ទះ</string>
+	<key>🧎</key>
+	<string>ការលុតជង្គង់ | មនុស្សលុតជង្គង់ | លុតជង្គង់ | មនុស្សលុតជង្គង់</string>
+	<key>🏑</key>
+	<string>កីឡា | កូនបាល់ | គ្រាប់ហុកគី | ដំបង | ដំបងនិងកូនបាល់សម្រាប់កីឡាហុគីលើស្មៅ | ទីលាន | ហុកគី | ដំបងនិងកូនបាល់សម្រាប់កីឡាហុគីលើស្មៅ</string>
+	<key>🧏</key>
+	<string>ត្រចៀក | ថ្លង់ | មនុស្សថ្លង់ | លទ្ធភាព​ទទួលបាន | ឮ | មនុស្សថ្លង់</string>
+	<key>🛐</key>
+	<string>ថ្វាយបង្គំ | សញ្ញា | សញ្ញាកន្លែងថ្វាយបង្គំ | សញ្ញាកន្លែងថ្វាយបង្គំ</string>
+	<key>🏒</key>
+	<string>កីឡា | គ្រាប់ហុកគី | ដំបង | ដំបងនិងកូនបាល់សម្រាប់កីឡាហុគីលើទឹកកក | ទឹកកក | ហុកគី | ដំបងនិងកូនបាល់សម្រាប់កីឡាហុគីលើទឹកកក</string>
+	<key>🧐</key>
+	<string>មុខពាក់វ៉ែនតាម្ខាង | ហប់ | មុខពាក់វ៉ែនតាម្ខាង</string>
+	<key>🛑</key>
+	<string>ឈប់ | សញ្ញា | សញ្ញាឈប់ | អដ្ឋកោន | សញ្ញាឈប់</string>
+	<key>🏓</key>
+	<string>កូនបាល់ | ដំបង | ដំបងនិងកូនបាល់សម្រាប់កីឡាវាយកូនបាល់លើតុ | វាយកូនបាល់លើតុ | ដំបងនិងកូនបាល់សម្រាប់កីឡាវាយកូនបាល់លើតុ</string>
+	<key>🧑</key>
+	<string>មនុស្ស | មនុស្សធំ | មនុស្សពេញវ័យ | មិនបញ្ជាក់ភេទ | មនុស្សធំ</string>
+	<key>🛒</key>
+	<string>ការទិញអីវ៉ាន់ | រទេះ | រទេះទិញអីវ៉ាន់ | រទេះរុញ | រទេះទិញអីវ៉ាន់</string>
+	<key>🧒</key>
+	<string>ក្មេង | សម្រាប់ភេទទាំងអស់ | ក្មេង</string>
+	<key>🧓</key>
+	<string>ចាស់ | មនុស្សចាស់ | មនុស្សធំ | មិនបញ្ជាក់ភេទ | អភេទ | មនុស្សចាស់</string>
+	<key>🎚️</key>
+	<string>level slider</string>
+	<key>🧔</key>
+	<string>បុរស | បុរសមានពុកចង្កា | ពុកចង្កា | មនុស្ស | មនុស្សមានពុកចង្កា | មនុស្សមានពុកចង្កា</string>
+	<key>🛕</key>
+	<string>វិហារ | វិហារសាសនាហិណ្ឌូ | ហិណ្ឌូ | វិហារសាសនាហិណ្ឌូ</string>
+	<key>🧕</key>
+	<string>កន្សែងគ្របក្បាល | កន្សែងគ្របក្បាលជ្វីហ្វ | កន្សែងគ្របក្បាលអ៊ីស្លាម | កន្សែងគ្របក្បាលអេស្ប៉ាញ | ស្ត្រីគ្របកន្សែងលើក្បាល | ស្ត្រីគ្របកន្សែងលើក្បាល</string>
+	<key>🛖</key>
+	<string>ខ្ទម | ផ្ទះ | ផ្ទះរាងមូល | ខ្ទម</string>
+	<key>🧖</key>
+	<string>បន្ទប់ស្ទីម | មនុស្សនៅក្នុងបន្ទប់ស្ទីម | សូណា | មនុស្សនៅក្នុងបន្ទប់ស្ទីម</string>
+	<key>🛗</key>
+	<string>គ្រឿងលើកស្ទូច | ជណ្ដើរប្រអប់ | ជណ្ដើរយន្តប្រអប់ | លទ្ធភាពចូល | ជណ្ដើរយន្តប្រអប់</string>
+	<key>🧗</key>
+	<string>មនុស្សកំពុងឡើង | អ្នកឡើង | មនុស្សកំពុងឡើង</string>
+	<key>🧘</key>
+	<string>មនុស្សកំពុងអង្គុយជាទម្រង់ផ្កាឈូក | យ៉ូហ្គា | សមាធិ | មនុស្សកំពុងអង្គុយជាទម្រង់ផ្កាឈូក</string>
+	<key>🧙</key>
+	<string>mage</string>
+	<key>🧚</key>
+	<string>ទីតានៀ | ផាក់ | មនុស្សទេព | អូបេរ៉ុន | មនុស្សទេព</string>
+	<key>👩‍💻</key>
+	<string>នារី | អ្នកបច្ចេកវិទ្យា | អ្នកបច្ចេកវិទ្យាស្រី | អ្នកសសេរកូដ | អ្នកអភិវឌ្ឍកម្មវិធី | អ្នកបច្ចេកវិទ្យាស្រី</string>
+	<key>🧛</key>
+	<string>ត្រាខ្យូឡា | បិសាចជញ្ជក់ឈាម | បិសាចមិនចេះស្លាប់ | បិសាចជញ្ជក់ឈាម</string>
+	<key>🛜</key>
+	<string>wireless symbol</string>
+	<key>🧜</key>
+	<string>នាងមច្ឆា | ប្រុសមច្ឆា | មនុស្សមច្ឆា | ស្រីមច្ឆា | មនុស្សមច្ឆា</string>
+	<key>🛝</key>
+	<string>playground slide</string>
+	<key>🧝</key>
+	<string>ដែលចេះវេទមន្ត | អែលហ្វ | អែលហ្វ</string>
+	<key>🛞</key>
+	<string>wheel</string>
+	<key>👨‍⚖️</key>
+	<string>man judge</string>
+	<key>🏠</key>
+	<string>house</string>
+	<key>🧞</key>
+	<string>ជីន | ជីនី | ជីនី</string>
+	<key>↘️</key>
+	<string>down-right arrow</string>
+	<key>🛟</key>
+	<string>ring buoy</string>
+	<key>🏡</key>
+	<string>​ សួនច្បារ | ផ្ទះ | ផ្ទះមានសួនច្បារ | ផ្ទះមានសួនច្បារ</string>
+	<key>🧟</key>
+	<string>ខ្មោចដើរ | បិសាចមិនចេះស្លាប់ | ហ្សំប៊ី | ហ្សំប៊ី</string>
+	<key>🤸‍♀️</key>
+	<string>woman doing a cartwheel</string>
+	<key>🏢</key>
+	<string>ការរិយាល័យ | អគារ | អគារការិយាល័យ | អគារការិយាល័យ</string>
+	<key>🧠</key>
+	<string>ខួរក្បាល | ឆ្លាតវៃ | ខួរក្បាល</string>
+	<key>🏣</key>
+	<string>ប៉ុស្តិ៍ប្រៃសនីយ៍ជប៉ុន | ប្រៃសនីយ៍ | ប៉ុស្តិ៍ប្រៃសនីយ៍ជប៉ុន</string>
+	<key>🧡</key>
+	<string>បេះដូងពណ៌ទឹកក្រូច | ពណ៌ទឹកក្រូច | បេះដូងពណ៌ទឹកក្រូច</string>
+	<key>👩‍💼</key>
+	<string>ជំនួញ | ធុរកិច្ច | នារី | បុគ្គលិកការិយាល័យ | បុគ្គលិកស្រី | ស្ត្រី | ស្ថាបត្យករ | ស្រី | អ្នកគ្រប់គ្រង | អ្នកធ្វើការក្នុង​ការិយាល័យ | បុគ្គលិកស្រី</string>
+	<key>🏤</key>
+	<string>ប៉ុស្តិ៍ប្រៃសនីយ៍ | ប៉ុុស្តិ៍ប្រៃសនីយ៍ | ប៉ុុស្តិ៍ប្រៃសនីយ៍</string>
+	<key>🧢</key>
+	<string>មួកកាតិប | មួកកាតិប</string>
+	<key>🏥</key>
+	<string>ពេទ្យ | មន្ទីរពេទ្យ | មន្ទីរពេទ្យ</string>
+	<key>🧣</key>
+	<string>ក | កន្សែង | កន្សែង</string>
+	<key>🏦</key>
+	<string>ធនាគារ | អគារ | ធនាគារ</string>
+	<key>🧤</key>
+	<string>ប្រអប់ដៃ | ស្រោមដៃ | ស្រោមដៃ</string>
+	<key>🏧</key>
+	<string>atm | ធនាគារ | សញ្ញា ATM | សញ្ញា អេធីអឹម | ស្វ័យប្រវត្តិ | អេធីអឹម | សញ្ញា អេធីអឹម</string>
+	<key>🧥</key>
+	<string>អាវធំខ្លី | អាវធំវែង | អាវធំវែង</string>
+	<key>👷‍♀️</key>
+	<string>woman construction worker</string>
+	<key>🏨</key>
+	<string>សណ្ឋាគារ | អូតែល | សណ្ឋាគារ</string>
+	<key>🧦</key>
+	<string>ស្រោមជើង | ស្រោមជើងវែង | ស្រោមជើង</string>
+	<key>🏩</key>
+	<string>សណ្ឋាគារ | សណ្ឋាគារគូស្នេហ៍ | ស្នេហា | អូតែល | សណ្ឋាគារគូស្នេហ៍</string>
+	<key>🧧</key>
+	<string>កាដូ | លុយ | សំណាងល្អ | អំណោយ | អាំងប៉ាវ | អាំងប៉ាវ</string>
+	<key>ℹ️</key>
+	<string>information source</string>
+	<key>🏪</key>
+	<string>ហាង | ហាងទំនិញ | ហាងទំនិញ24ម៉ោង | ហាងទំនិញ24ម៉ោង</string>
+	<key>🧨</key>
+	<string>គ្រឿងផ្ទុះ | ឌីណាមិក | ផាវ | ផាវ</string>
+	<key>🏫</key>
+	<string>សាលា | សាលារៀន | សាលារៀន</string>
+	<key>🧩</key>
+	<string>ង៉ាំ | តម្រុយ | បំណែក | ល្បែងផ្គុំរូប | ល្បែងផ្គុំរូប</string>
+	<key>🏬</key>
+	<string>ហាងទំនិញទំនើប | ហាងទំនើប | ហាងទំនិញទំនើប</string>
+	<key>🧪</key>
+	<string>គីមីវិទូ | គីមីវិទ្យា | បំពង់តេស្ត | ពិសោធន៍ | មន្ទីរពិសោធន៍ | វិទ្យាសាស្ត្រ | បំពង់តេស្ត</string>
+	<key>🛫</key>
+	<string>ចាកចេញ | ចុះឈ្មោះ | ចេញដំណើរ | យន្តហោះ | យន្តហោះឡើង | យន្តហោះឡើង</string>
+	<key>🛳️</key>
+	<string>passenger ship</string>
+	<key>🏭</key>
+	<string>រោងចក្រ | រោចចក្រ | សហគ្រាស | រោងចក្រ</string>
+	<key>🧫</key>
+	<string>ចានបណ្ដុះកោសិកា | ជីវវិទូ | ជីវវិទ្យា | បាក់តេរី | មន្ទីរពិសោធន៍ | វប្បធម៌ | ចានបណ្ដុះកោសិកា</string>
+	<key>🛬</key>
+	<string>ចុះចត | យន្តហោះ | យន្តហោះចុះចត | យន្តហោះចុះចត</string>
+	<key>♨️</key>
+	<string>hot springs</string>
+	<key>🏮</key>
+	<string>គោម | គោមពណ៌ក្រហម | គោមពណ៌ក្រហម</string>
+	<key>🧬</key>
+	<string>DNA | ការវិវត្ត | ជីវវិទូ | ជីវិត | សេនេទិច | សែន | DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>family with mother, father and son</string>
+	<key>🏯</key>
+	<string>ជប៉ុន | ប្រាសាទ | ប្រាសាទជប៉ុន | ប្រាសាទជប៉ុន</string>
+	<key>🧭</key>
+	<string>ការរុករកផ្លូវ | កីឡារុករកផ្លូវ | ត្រីវិស័យ | ម៉ាញេទិច | ត្រីវិស័យ</string>
+	<key>🧏‍♀️</key>
+	<string>Deaf woman</string>
+	<key>🏰</key>
+	<string>ប្រាសាទ | អឺរ៉ុប | ប្រាសាទ</string>
+	<key>🧮</key>
+	<string>ការគណនា | ក្បាច់ | ក្បាច់</string>
+	<key>🧯</key>
+	<string>បំពង់ពន្លត់អគ្គិភ័យ | ពន្លត់ | ពន្លត់ភ្លើង | ភ្លើង | បំពង់ពន្លត់អគ្គិភ័យ</string>
+	<key>⏹️</key>
+	<string>stop symbol</string>
+	<key>🧰</key>
+	<string>ប្រអប់ដាក់ឧបករណ៍ | មេកានិច | ហិប | ឧបករណ៍ | ប្រអប់ដាក់ឧបករណ៍</string>
+	<key>🧱</key>
+	<string>ជញ្ជាំង | ដីឥដ្ឋ | ដុំឥដ្ឋ | បាយអ | ដុំឥដ្ឋ</string>
+	<key>🏴</key>
+	<string>ទង់ | ទង់ជាតិ | ទង់ជាតិពណ៌ខ្មៅ | ទង់ជាតិពណ៌ខ្មៅ</string>
+	<key>🧲</key>
+	<string>ការឆក់ | ក្រចកជើងសេះ | ឆក់ | ដែកឆក់ | ដែកឆក់</string>
+	<key>🙍‍♀️</key>
+	<string>woman frowning</string>
+	<key>🧳</key>
+	<string>ការធ្វើដំណើរ | ការរៀបចំអីវ៉ាន់ | វ៉ាលី | វ៉ាលី</string>
+	<key>🛴</key>
+	<string>scooter អត់ម៉ាស៊ីន | កូនកង់ធាក់ | ធាក់ | scooter អត់ម៉ាស៊ីន</string>
+	<key>🧴</key>
+	<string>ក្រែមរក្សាសំណើម | ដបឡេ | សាប៊ូកក់សក់ | ឡេ | ឡេការពារកម្ដៅថ្ងៃ | ដបឡេ</string>
+	<key>🛵</key>
+	<string>scooter មានម៉ាស៊ីន | ម៉ូតូ | scooter មានម៉ាស៊ីន</string>
+	<key>👨‍👦</key>
+	<string>family with father and son</string>
+	<key>🧵</key>
+	<string>ការដេរ | ខ្នារ | ខ្សែ | ម្ជុល | សរសៃអំបោះ | សរសៃអំបោះ</string>
+	<key>💆‍♂️</key>
+	<string>man getting a head massage</string>
+	<key>🛶</key>
+	<string>ទូក | ទូកចែវ | ទូកចែវ</string>
+	<key>🏸</key>
+	<string>​ សី | ដងរ៉ាកែតនិងសី | រ៉ាកែត | ដងរ៉ាកែតនិងសី</string>
+	<key>🧶</key>
+	<string>ចាក់ | ដុំសរសៃអំបោះ | បាល់ | ដុំសរសៃអំបោះ</string>
+	<key>🛷</key>
+	<string>ក្ដាររំកិល | ក្ដាររំកិលលើទឹកកក | ក្ដាររំកិល</string>
+	<key>🏹</key>
+	<string>ធ្នូ | ធ្នូនិងព្រួញ | ព្រួញ | ធ្នូនិងព្រួញ</string>
+	<key>🧷</key>
+	<string>ក្រណាត់ទ្រាប់គូទក្មេង | តន្ត្រីរ៉ុកញាក់ខ្លាំង | ម្ជុលខ្ទាស់ | ម្ជុលខ្ទាស់</string>
+	<key>🛸</key>
+	<string>ថាសហោះ | ថាសហោះ</string>
+	<key>🏺</key>
+	<string>ថូ | ថូបុរាណ | ថូបុរាណ</string>
+	<key>🧸</key>
+	<string>ញាត់ណែន | តុក្កតាខ្លាឃ្មុំ | ប្រដាប់ក្មេងលេង | របស់លេង | សរសៃទន់ | តុក្កតាខ្លាឃ្មុំ</string>
+	<key>🛹</key>
+	<string>ក្ដារ | ក្ដារស្គី | ក្ដារស្គី</string>
+	<key>🧹</key>
+	<string>ការបោស | ការសម្អាត | ធ្មប់ | អម្បោស | អម្បោស</string>
+	<key>🛺</key>
+	<string>តុតុ | រ៉ឺម៉កកង់បីដែល​ប្រើម៉ាស៊ីន | រ៉ឺម៉កកង់បីដែល​ប្រើម៉ាស៊ីន</string>
+	<key>⏲️</key>
+	<string>timer clock</string>
+	<key>🧺</key>
+	<string>កន្ត្រក | ការធ្វើកសិកម្ម | ការបោកសម្លៀកបំពាក់ | ពិចនិច | កន្ត្រក</string>
+	<key>🛻</key>
+	<string>ភីកអាប់ | រថយន្ត | រថយន្តភីកអាប់ | រថយន្តភីកអាប់</string>
+	<key>🧻</key>
+	<string>ក្រដាសបង្គន់ | ក្រដាសអនាម័យ | របុំក្រដាស | របុំក្រដាស</string>
+	<key>🛼</key>
+	<string>កង់វិល | ស្គី | ស្បែកជើងស្គី | ស្បែកជើងស្គី</string>
+	<key>👨‍👧</key>
+	<string>family with father and daughter</string>
+	<key>🧼</key>
+	<string>ការងូតទឹក | ការសម្អាត | ចានសាប៊ូដុំ | ដុំ | ពពុះ | សាប៊ូដុំ | សាប៊ូដុំ</string>
+	<key>🧞‍♂️</key>
+	<string>man genie</string>
+	<key>🧽</key>
+	<string>ការសម្អាត | ការស្រូប | ជ្រាបទឹក | អេប៉ុង | អេប៉ុង</string>
+	<key>🎞️</key>
+	<string>film frames</string>
+	<key>🧾</key>
+	<string>ការកត់ត្រាក្នុងបញ្ជីគណនេយ្យ | គណនេយ្យ | តឹកតាង | បង្កាន់ដៃ | ភស្តុតាង | បង្កាន់ដៃ</string>
+	<key>▪️</key>
+	<string>black small square</string>
+	<key>🧿</key>
+	<string>ណាហ្សា | បន្តោង | បន្តោងគ្រឿងអលង្ការ | បន្តោងមន្តអាគមណាហ្សា | បន្តោងវេទមន្ត | ភ្នែកបិសាច | បន្តោងមន្តអាគមណាហ្សា</string>
+	<key>☂️</key>
+	<string>umbrella</string>
+	<key>🗂️</key>
+	<string>card index dividers</string>
+	<key>🦹‍♂️</key>
+	<string>man supervillain</string>
+	<key>🏋️</key>
+	<string>weightlifter</string>
+	<key>◻️</key>
+	<string>white medium square</string>
+	<key>♓️</key>
+	<string>Pisces</string>
+	<key>⚫️</key>
+	<string>black circle</string>
+	<key>⏩</key>
+	<string>ទៅមុខ | ប៊ូតុង | ប៊ូតុងខាទៅមុខ | ប៊ូតុងខាទៅមុខ</string>
+	<key>⏪</key>
+	<string>ទៅក្រោយ | ប៊ូតុង | ប៊ូតុងខាទៅក្រោយ | ប៊ូតុងខាទៅក្រោយ</string>
+	<key>⏫</key>
+	<string>ទៅលើ | ប៊ូតុង | ប៊ូតុងទៅលើលឿន | លឿន | ប៊ូតុងទៅលើលឿន</string>
+	<key>⏬</key>
+	<string>ចុះក្រោម | ប៊ូតុង | ប៊ូតុងចុះក្រោមលឿន | លឿន | ប៊ូតុងចុះក្រោមលឿន</string>
+	<key>🗯️</key>
+	<string>angry speech bubble</string>
+	<key>⏰</key>
+	<string>នាឡិកា | នាឡិកាប៉ោល | ម៉ោង | នាឡិកាប៉ោល</string>
+	<key>⏳</key>
+	<string>នាឡិកាខ្សាច់ | នាឡិកាខ្សាច់មានខ្សាច់ធ្លាក់ចុះ | នាឡិកាខ្សាច់មានខ្សាច់ធ្លាក់ចុះ</string>
+	<key>🧑‍🎓</key>
+	<string>និស្សិត | និស្សិតបញ្ចប់ការសិក្សា | សិស្សនិស្សិត | សិស្សនិស្សិត</string>
+	<key>🧑‍🚒</key>
+	<string>រថយន្តពន្លត់​អគ្គិភ័យ | អ្នកពន្លត់អគ្គិភ័យ | អ្នកពន្លត់អគ្គិភ័យ</string>
+	<key>♌️</key>
+	<string>Leo</string>
+	<key>🗄️</key>
+	<string>file cabinet</string>
+	<key>🧍‍♂️</key>
+	<string>man standing</string>
+	<key>🏍️</key>
+	<string>motorcycle</string>
+	<key>🙋‍♂️</key>
+	<string>man raising one hand</string>
+	<key>👨‍👩‍👧</key>
+	<string>family with mother, father and daughter</string>
+	<key>🇸🇦</key>
+	<string>flag of Saudi Arabia</string>
+	<key>⛵️</key>
+	<string>sailboat</string>
+	<key>👩‍🏫</key>
+	<string>គ្រូ | នារី | សាស្ត្រាចារ្យ | ស្រី | អ្នកគ្រូ | អ្នកគ្រូ</string>
+	<key>⬜️</key>
+	<string>white large square</string>
+	<key>🇸🇧</key>
+	<string>flag of the Solomon Islands</string>
+	<key>🇬🇦</key>
+	<string>flag of Gabon</string>
+	<key>🇨🇦</key>
+	<string>flag of Canada</string>
+	<key>🇸🇨</key>
+	<string>flag of Seychelles</string>
+	<key>🇬🇧</key>
+	<string>flag of the United Kingdom</string>
+	<key>👨‍🎓</key>
+	<string>និស្សិត | បញ្ចប់ការសិក្សា | ប្រុស | សិស្សប្រុស | សិស្សប្រុស</string>
+	<key>👨‍🚒</key>
+	<string>បុរស | ប្រុស | ឡានទឹក | អ្នកពន្លត់អគ្គិភ័យ | អ្នកពន្លត់អគ្គិភ័យប្រុស | អ្នកពន្លត់អគ្គិភ័យប្រុស</string>
+	<key>⚖️</key>
+	<string>scales</string>
+	<key>🇸🇩</key>
+	<string>flag of Sudan</string>
+	<key>🇨🇨</key>
+	<string>flag of the Cocos (Keeling) Islands</string>
+	<key>⏏️</key>
+	<string>eject symbol</string>
+	<key>🇸🇪</key>
+	<string>flag of Sweden</string>
+	<key>🇬🇩</key>
+	<string>flag of Grenada</string>
+	<key>👩‍🏭</key>
+	<string>កម្មករ | កម្មការនី | កម្មការនីរោងចក្រ | នារី | រោងចក្រ | ស្រី | កម្មការនីរោងចក្រ</string>
+	<key>🇼🇫</key>
+	<string>flag of Wallis &amp; Futuna</string>
+	<key>🇨🇩</key>
+	<string>flag of the Democratic Republic of the Congo</string>
+	<key>🇰🇪</key>
+	<string>flag of Kenya</string>
+	<key>🛎️</key>
+	<string>bellhop bell</string>
+	<key>🇬🇪</key>
+	<string>flag of Georgia</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>family with two mothers, son and daughter</string>
+	<key>🇸🇬</key>
+	<string>flag of Singapore</string>
+	<key>🇬🇫</key>
+	<string>flag of French Guiana</string>
+	<key>🇨🇫</key>
+	<string>flag of the Central African Republic</string>
+	<key>🇰🇬</key>
+	<string>flag of Kyrgyzstan</string>
+	<key>🗳️</key>
+	<string>ballot box with ballot</string>
+	<key>🇸🇭</key>
+	<string>flag of Saint Helena</string>
+	<key>🇬🇬</key>
+	<string>flag of Guernsey</string>
+	<key>🧑‍⚕️</key>
+	<string>health worker</string>
+	<key>🏃‍♀️</key>
+	<string>woman runner</string>
+	<key>🇨🇬</key>
+	<string>flag of the Republic of the Congo</string>
+	<key>🇰🇭</key>
+	<string>flag of Cambodia</string>
+	<key>🤹‍♂️</key>
+	<string>man juggling</string>
+	<key>🇸🇮</key>
+	<string>flag of Slovenia</string>
+	<key>🇬🇭</key>
+	<string>flag of Ghana</string>
+	<key>〽️</key>
+	<string>part alternation mark</string>
+	<key>🇨🇭</key>
+	<string>flag of Switzerland</string>
+	<key>🇰🇮</key>
+	<string>flag of Kiribati</string>
+	<key>🇸🇯</key>
+	<string>flag of Svalbard and Jan Mayen</string>
+	<key>🕰️</key>
+	<string>mantelpiece clock</string>
+	<key>8️⃣</key>
+	<string>keycap digit eight</string>
+	<key>🇬🇮</key>
+	<string>flag of Gibraltar</string>
+	<key>🤾‍♀️</key>
+	<string>woman playing handball</string>
+	<key>🇨🇮</key>
+	<string>flag of Côte d’Ivoire</string>
+	<key>⬇️</key>
+	<string>down arrow</string>
+	<key>👩‍✈️</key>
+	<string>woman pilot</string>
+	<key>👩‍👧‍👦</key>
+	<string>family with mother, son and daughter</string>
+	<key>🇸🇰</key>
+	<string>flag of Slovakia</string>
+	<key>🌡️</key>
+	<string>thermometer</string>
+	<key>↪️</key>
+	<string>left arrow curving right</string>
+	<key>🇸🇱</key>
+	<string>flag of Sierra Leone</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>two men kissing</string>
+	<key>🇨🇰</key>
+	<string>flag of the Cook Islands</string>
+	<key>🇸🇲</key>
+	<string>flag of San Marino</string>
+	<key>🇬🇱</key>
+	<string>flag of Greenland</string>
+	<key>🇴🇲</key>
+	<string>flag of Oman</string>
+	<key>🇨🇱</key>
+	<string>flag of Chile</string>
+	<key>🇰🇲</key>
+	<string>flag of Comoros</string>
+	<key>🇸🇳</key>
+	<string>flag of Senegal</string>
+	<key>🇬🇲</key>
+	<string>flag of Gambia</string>
+	<key>1️⃣</key>
+	<string>keycap digit one</string>
+	<key>Ⓜ️</key>
+	<string>circled M</string>
+	<key>🇨🇲</key>
+	<string>flag of Cameroon</string>
+	<key>👨‍⚕️</key>
+	<string>man health worker</string>
+	<key>🙎‍♂️</key>
+	<string>man pouting</string>
+	<key>🇰🇳</key>
+	<string>flag of Saint Kitts &amp; Nevis</string>
+	<key>🇸🇴</key>
+	<string>flag of Somalia</string>
+	<key>🇬🇳</key>
+	<string>flag of Guinea</string>
+	<key>🇨🇳</key>
+	<string>flag of China</string>
+	<key>☢️</key>
+	<string>radioactive</string>
+	<key>🇨🇴</key>
+	<string>flag of Colombia</string>
+	<key>‼️</key>
+	<string>red double exclamation mark</string>
+	<key>🃏</key>
+	<string>បៀរ | បៀរខ្មោច | ល្បែង | បៀរខ្មោច</string>
+	<key>🇰🇵</key>
+	<string>flag of North Korea</string>
+	<key>🇬🇵</key>
+	<string>flag of Guadeloupe</string>
+	<key>㊗️</key>
+	<string>Japanese sign meaning “congratulations”</string>
+	<key>🐿️</key>
+	<string>chipmunk</string>
+	<key>🇨🇵</key>
+	<string>flag of Clipperton Island</string>
+	<key>🇸🇷</key>
+	<string>flag of Suriname</string>
+	<key>🏳️‍⚧️</key>
+	<string>transgender flag</string>
+	<key>🇬🇶</key>
+	<string>flag of Equatorial Guinea</string>
+	<key>🇼🇸</key>
+	<string>flag of Samoa</string>
+	<key>*️⃣</key>
+	<string>keycap asterisk</string>
+	<key>🇰🇷</key>
+	<string>flag of South Korea</string>
+	<key>🇸🇸</key>
+	<string>flag of South Sudan</string>
+	<key>🇬🇷</key>
+	<string>flag of Greece</string>
+	<key>🇨🇷</key>
+	<string>flag of Costa Rica</string>
+	<key>®️</key>
+	<string>registered sign</string>
+	<key>🇸🇹</key>
+	<string>flag of São Tomé &amp; Príncipe</string>
+	<key>🇬🇸</key>
+	<string>flag of South Georgia &amp; the South Sandwich Islands</string>
+	<key>↕️</key>
+	<string>up-down arrow</string>
+	<key>🇬🇹</key>
+	<string>flag of Guatemala</string>
+	<key>☔️</key>
+	<string>umbrella with rain drops</string>
+	<key>🏳️‍🌈</key>
+	<string>rainbow flag</string>
+	<key>🇸🇻</key>
+	<string>flag of El Salvador</string>
+	<key>🕴️</key>
+	<string>man in business suit levitating</string>
+	<key>⛄️</key>
+	<string>snowman</string>
+	<key>🇬🇺</key>
+	<string>flag of Guam</string>
+	<key>🇨🇺</key>
+	<string>flag of Cuba</string>
+	<key>#️⃣</key>
+	<string>number sign</string>
+	<key>🤼‍♂️</key>
+	<string>men wrestling</string>
+	<key>🌥️</key>
+	<string>sun behind large cloud</string>
+	<key>👁️</key>
+	<string>eye</string>
+	<key>🇨🇻</key>
+	<string>flag of Cape Verde</string>
+	<key>🍽️</key>
+	<string>fork and knife with plate</string>
+	<key>🇰🇼</key>
+	<string>flag of Kuwait</string>
+	<key>🇸🇽</key>
+	<string>flag of Sint Maarten</string>
+	<key>🇬🇼</key>
+	<string>flag of Guinea-Bissau</string>
+	<key>🏕️</key>
+	<string>camping</string>
+	<key>🩰</key>
+	<string>របាំបាឡេ | រាំ | ស្បែកជើងសម្រាប់​រាំរបាំ​បាឡេ | ស្បែកជើងសម្រាប់​រាំរបាំ​បាឡេ</string>
+	<key>🇨🇼</key>
+	<string>flag of Curaçao</string>
+	<key>🩱</key>
+	<string>ឈុតហែលទឹក | ឈុតហែលទឹក</string>
+	<key>🇸🇾</key>
+	<string>flag of Syria</string>
+	<key>♥️</key>
+	<string>hearts suit</string>
+	<key>🩲</key>
+	<string>ខោក្នុង | ឈុតងួតទឹក | ឈុតហែលទឹក | មួយឈុត | ខោក្នុង</string>
+	<key>🕉️</key>
+	<string>om symbol</string>
+	<key>⚽️</key>
+	<string>soccer ball</string>
+	<key>🩳</key>
+	<string>ខោក្នុង | ខោខ្លី | ឈុតងួតទឹក | ខោខ្លី</string>
+	<key>🇨🇽</key>
+	<string>flag of Christmas Island</string>
+	<key>🩴</key>
+	<string>ស្បែកជើង | ស្បែកជើងផ្ទាត់ | ស្បែកជើងសម្រាប់ដើរលើឆ្នេរ | ស្បែកជើងផ្ទាត់</string>
+	<key>🇰🇾</key>
+	<string>flag of the Cayman Islands</string>
+	<key>🇸🇿</key>
+	<string>flag of Eswatini</string>
+	<key>🩵</key>
+	<string>light blue heart</string>
+	<key>👩‍👧‍👧</key>
+	<string>family with mother and two daughters</string>
+	<key>🇬🇾</key>
+	<string>flag of Guyana</string>
+	<key>🩶</key>
+	<string>grey heart</string>
+	<key>🩷</key>
+	<string>pink heart</string>
+	<key>🇨🇾</key>
+	<string>flag of Cyprus</string>
+	<key>🇰🇿</key>
+	<string>flag of Kazakhstan</string>
+	<key>🩸</key>
+	<string>ការធ្លាក់រដូវ | ការបរិច្ចាគឈាម | តំណក់ឈាម | ឱសថ | តំណក់ឈាម</string>
+	<key>🩹</key>
+	<string>បង់ | បង់ស្អិត | បង់ស្អិត</string>
+	<key>🩺</key>
+	<string>បេះដូង | វេជ្ជបណ្ឌិត | ស្តេតូ | ឱសថ | ស្តេតូ</string>
+	<key>🇨🇿</key>
+	<string>flag of Czechia</string>
+	<key>🩻</key>
+	<string>X-ray</string>
+	<key>🩼</key>
+	<string>crutch</string>
+	<key>🕶️</key>
+	<string>sunglasses</string>
+	<key>🧘‍♀️</key>
+	<string>woman in lotus position</string>
+	<key>⏯️</key>
+	<string>play/pause symbol</string>
+	<key>🪀</key>
+	<string>ចុះឡើង | យ៉ូយ៉ូ | របស់ក្មេងលេង | យ៉ូយ៉ូ</string>
+	<key>🌧️</key>
+	<string>cloud with rain</string>
+	<key>🪁</key>
+	<string>ខ្លែង | សំកាំង | ហោះ | ខ្លែង</string>
+	<key>🪂</key>
+	<string>ឆត្រយោង | ជិះឆត្រយោង​សណ្ដោងពីក្រោយកាណូត | លោតឆត្រយោង | ហោះសំកាំង | ឆត្រយោង</string>
+	<key>🧑‍🎤</key>
+	<string>តារា | តារាសម្ដែង | អ្នកចម្រៀង | អ្នកចម្រៀង</string>
+	<key>🪃</key>
+	<string>ត្រឡប់មកវិញ | ប្រដាប់គប់លេង | អូស្ត្រាលី | ប្រដាប់គប់លេង</string>
+	<key>🪄</key>
+	<string>ឈើវេទមន្ត | ធ្មប់ប្រុស | ធ្មប់ស្រី | វេទមន្ត | ឈើវេទមន្ត</string>
+	<key>🏗️</key>
+	<string>building construction</string>
+	<key>🪅</key>
+	<string>ការប្រារព្ធពិធី | ពិធីជប់លៀង | ភីញ៉ាតា | ភីញ៉ាតា</string>
+	<key>🪆</key>
+	<string>ការដាក់លើគ្នា | តុក្កតាកូនក្រមុំ | តុក្កតាកូនក្រមុំដាក់លើគ្នា | រុស្ស៊ី | តុក្កតាកូនក្រមុំដាក់លើគ្នា</string>
+	<key>🚴‍♀️</key>
+	<string>woman cyclist</string>
+	<key>🪇</key>
+	<string>maracas</string>
+	<key>🐀</key>
+	<string>កណ្ដុរ | កណ្តុរ | កណ្ដុរ</string>
+	<key>🪈</key>
+	<string>flute</string>
+	<key>🐁</key>
+	<string>កណ្តុរ | កណ្តុរ</string>
+	<key>🐂</key>
+	<string>គោ | គោឈ្មោល | គោឈ្មោល</string>
+	<key>🐃</key>
+	<string>ក្របី | ក្របីទឹក | ទឹក | ក្របីទឹក</string>
+	<key>🐄</key>
+	<string>គោ | គោញី | គោញី</string>
+	<key>🅱️</key>
+	<string>blood type B</string>
+	<key>🐅</key>
+	<string>ខ្លា | ខ្លា</string>
+	<key>🐆</key>
+	<string>ខ្លារខិន | ខ្លារខិន</string>
+	<key>🐇</key>
+	<string>ទន្សាយ | សត្វចិញ្ចឹម | ទន្សាយ</string>
+	<key>🐈</key>
+	<string>ឆ្មា | សត្វចិញ្ចឹម | ឆ្មា</string>
+	<key>🪐</key>
+	<string>ភពដែលមាន​កងរង្វង់ជុំវិញ | ភពសៅរ៍ | ភពដែលមាន​កងរង្វង់ជុំវិញ</string>
+	<key>♐️</key>
+	<string>Sagittarius</string>
+	<key>🐉</key>
+	<string>នាគ | នាគ</string>
+	<key>🪑</key>
+	<string>កៅអី | អង្គុយ | កៅអី</string>
+	<key>🕸️</key>
+	<string>spiderweb</string>
+	<key>🐊</key>
+	<string>ក្រពើ | ក្រពើ</string>
+	<key>🪒</key>
+	<string>កាំបិតកោរពុកមាត់ | កោរ | មុត | កាំបិតកោរពុកមាត់</string>
+	<key>👩‍🍳</key>
+	<string>ចុងភៅ | ចុងភៅស្រី | នារី | ស្រី | អ្នកចម្អិនអាហារ | ចុងភៅស្រី</string>
+	<key>🐋</key>
+	<string>ត្រី | ត្រីបាឡែន | បាឡែន | ត្រីបាឡែន</string>
+	<key>👯‍♀️</key>
+	<string>dancing women wearing bunny ears</string>
+	<key>🪓</key>
+	<string>កាប់ | ឈើ | ពុះ | ពូថៅ | ពូថៅដៃ | ពូថៅ</string>
+	<key>🐌</key>
+	<string>ខ្យង | ខ្យង</string>
+	<key>🪔</key>
+	<string>ចង្កៀង | ចង្កៀងឌីយ៉ា | ឌីយ៉ា | ប្រេង | ចង្កៀងឌីយ៉ា</string>
+	<key>🐍</key>
+	<string>ពស់ | ពស់</string>
+	<key>🪕</key>
+	<string>តន្ត្រី | បានចូ | មានខ្សែ | បានចូ</string>
+	<key>🏄‍♂️</key>
+	<string>man surfer</string>
+	<key>🌩️</key>
+	<string>cloud with lightning</string>
+	<key>🐎</key>
+	<string>ការជិះសេះ | ការប្រណាំង | សេះ | សេះប្រណាំង | សេះ</string>
+	<key>🪖</key>
+	<string>កងទ័ព | ទាហាន | មួក | មួកទាហាន | យោធា | អ្នកចម្បាំង | មួកទាហាន</string>
+	<key>🐏</key>
+	<string>ចៀម | ចៀមឈ្មោល | ចៀមបង្កាត់ពូជ | ចៀមបា | ឈ្មោល | ចៀមឈ្មោល</string>
+	<key>🪗</key>
+	<string>អគ័រដេអុង | អាក់គ័រដេអុង | ឧបករណ៍ភ្លេងសង្កត់ចូលគ្នា | អាក់គ័រដេអុង</string>
+	<key>🐐</key>
+	<string>ពពែ | រាសីចក្រ | ពពែ</string>
+	<key>🪘</key>
+	<string>ចង្វាក់ | វាយ | ស្គរ | ស្គរវែង | ស្គរវែង</string>
+	<key>👨‍🎤</key>
+	<string>តារា | តួសម្តែង | ប្រុស | អ្នកចម្រៀង | អ្នកចម្រៀងប្រុស | អ្នកចម្រៀងប្រុស</string>
+	<key>🏙️</key>
+	<string>cityscape</string>
+	<key>🐑</key>
+	<string>ចៀម | ចៀមញី | ញី | ចៀម</string>
+	<key>🪙</key>
+	<string>កាក់ | ទ្រព្យ | ប្រាក់ | មាស | លុយ | លោហៈ | កាក់</string>
+	<key>🐒</key>
+	<string>ស្វា | ស្វា</string>
+	<key>🪚</key>
+	<string>ជាងឈើ | ឈើ | រណារ | រណារអារឈើ | ឧបករណ៍ | រណារអារឈើ</string>
+	<key>♉️</key>
+	<string>Taurus</string>
+	<key>🐓</key>
+	<string>មាន់ | មាន់គក | មាន់គក</string>
+	<key>🪛</key>
+	<string>ទួរណឺវិស | វីស | ឧបករណ៍ | ទួរណឺវិស</string>
+	<key>⚡️</key>
+	<string>lightning bolt</string>
+	<key>🐔</key>
+	<string>បក្សី | មាន់ | មាន់</string>
+	<key>🪜</key>
+	<string>កាំជណ្ដើរ | ជណ្ដើរ | ឡើង | ជណ្ដើរ</string>
+	<key>⛹️</key>
+	<string>basketball player</string>
+	<key>🖥️</key>
+	<string>desktop computer</string>
+	<key>🐕</key>
+	<string>ឆ្កែ | សត្វចិញ្ចឹម | សុនខ | ឆ្កែ</string>
+	<key>🪝</key>
+	<string>កោង | ចំណុចទាក់ទាញ | ចាប់ | ដាក់អន្ទាក់ | តម្ពក់ | ផ្លែសន្ទូច | ផ្លែសន្ទូច</string>
+	<key>🧑‍🎨</key>
+	<string>ក្ដារលាយពណ៌ | សិល្បករ | សិល្បករ</string>
+	<key>🐖</key>
+	<string>ជ្រូក | ជ្រូក</string>
+	<key>🪞</key>
+	<string>កញ្ចក់ | កញ្ចក់ចំណាំងផ្លាត | ចំណាំងផ្លាត | កញ្ចក់</string>
+	<key>🐗</key>
+	<string>ជ្រូក | ជ្រូកព្រៃ | ជ្រូកព្រៃ</string>
+	<key>🪟</key>
+	<string>ខ្យល់បរិសុទ្ធ | ថ្លា | ទិដ្ឋភាព | បង្អួច | ប្រហោង | ស៊ុម | បង្អួច</string>
+	<key>🐘</key>
+	<string>ដំរី | ដំរី</string>
+	<key>🙅‍♀️</key>
+	<string>woman gesturing no</string>
+	<key>🪠</key>
+	<string>ជាងទុយោ | បង្គន់ | បំពង់បំបាត់ស្ទះ | ប្រដាប់បឺត | ប្រដាប់បឺតកំណកស្ទះ | បំពង់បំបាត់ស្ទះ</string>
+	<key>🐙</key>
+	<string>មឹក | មឹក</string>
+	<key>🪡</key>
+	<string>ការកាត់ដេរ | ការដេរ | ថ្នេរ | ថ្នេររបួស | ម្ជុល | ម្ជុលដេរ | រូបប៉ាក់ | ម្ជុលដេរ</string>
+	<key>🐚</key>
+	<string>រាងគូថខ្យង | សម្បកខ្យង | សម្បកខ្យង</string>
+	<key>🪢</key>
+	<string>ខ្សែ | ចង | ចំណង | ជំពាក់ | មួល | រុំ | ចំណង</string>
+	<key>🚣‍♀️</key>
+	<string>woman rowing boat</string>
+	<key>🐛</key>
+	<string>ដង្កូវ | សត្វល្អិត | សត្វល្អិត</string>
+	<key>🪣</key>
+	<string>ធុង | ធុងឈើ | ធុងយួរដៃ | ធុង</string>
+	<key>🐜</key>
+	<string>សត្វល្អិត | ស្រមោច | ស្រមោច</string>
+	<key>🪤</key>
+	<string>នុយ | អង្គប់ | អង្គប់កណ្ដុរ | អន្ទាក់ | អង្គប់កណ្ដុរ</string>
+	<key>🐝</key>
+	<string>ឃ្មុំ | សត្វល្អិត | ឃ្មុំ</string>
+	<key>🪥</key>
+	<string>ច្រាស | ច្រាសដុសធ្មេញ | ធេ្មញ | បន្ទប់ទឹក | សម្អាត | អនាម័យ | ច្រាសដុសធ្មេញ</string>
+	<key>🐞</key>
+	<string>សត្វល្អិត | អណ្ដើកមាស | អណ្តើកមាសញី | អណ្តើកមាសញី</string>
+	<key>🪦</key>
+	<string>ឈាបនដ្ឋាន | ថ្មក្បាលផ្នូរ | ទីកប់ខ្មោច | ទីប៉ាឆា | ផ្នូរ | ថ្មក្បាលផ្នូរ</string>
+	<key>⛲️</key>
+	<string>fountain</string>
+	<key>🐟</key>
+	<string>ត្រី | ត្រី</string>
+	<key>🪧</key>
+	<string>ការតវ៉ា | បដា | បាតុកម្ម | សញ្ញា | បដា</string>
+	<key>🐠</key>
+	<string>ត្រី | ត្រីតំបន់ត្រូពិច | ត្រូពិច | ត្រីតំបន់ត្រូពិច</string>
+	<key>🗒️</key>
+	<string>spiral notepad</string>
+	<key>🪨</key>
+	<string>ដុំថ្មធំ | ថ្ម | ធ្ងន់ | រឹង | ថ្ម</string>
+	<key>🐡</key>
+	<string>ត្រី | ត្រីកំពត | ត្រីកំពត</string>
+	<key>🪩</key>
+	<string>mirror ball</string>
+	<key>🧖‍♂️</key>
+	<string>man in a sauna</string>
+	<key>🌫️</key>
+	<string>fog</string>
+	<key>🐢</key>
+	<string>អណ្ដើក | អណ្តើក | អណ្តើកតូច | អណ្តើក</string>
+	<key>🪪</key>
+	<string>identification card</string>
+	<key>🐣</key>
+	<string>កូន | កូនមាន់ | កូនមាន់ញាស់ | ញាស់ | បក្សី | កូនមាន់ញាស់</string>
+	<key>🪫</key>
+	<string>low battery</string>
+	<key>🐤</key>
+	<string>កូន | កូនមាន់ | កូនមាន់តូច | បក្សី | កូនមាន់តូច</string>
+	<key>🪬</key>
+	<string>hamsa</string>
+	<key>🐥</key>
+	<string>កូន | កូនមាន់ | កូនមាន់តូច | បក្សី | កូនមាន់</string>
+	<key>😶‍🌫️</key>
+	<string>face in clouds</string>
+	<key>🏛️</key>
+	<string>classical building</string>
+	<key>🪭</key>
+	<string>folding hand fan</string>
+	<key>🐦</key>
+	<string>បក្សី | បក្សី</string>
+	<key>🧛‍♀️</key>
+	<string>woman vampire</string>
+	<key>🪮</key>
+	<string>hair pick</string>
+	<key>🐧</key>
+	<string>បក្សី | ផេនឃ្វីន | ផេនឃ្វីន</string>
+	<key>🪯</key>
+	<string>khanda symbol</string>
+	<key>🐨</key>
+	<string>កូឡា | ខ្លាឃ្មុំ | ខ្លាឃ្មុំកូឡា | ខ្លាឃ្មុំកូឡា</string>
+	<key>⚓️</key>
+	<string>anchor</string>
+	<key>🪰</key>
+	<string>ជំងឺ | ដង្កូវ | រលួយ | រុយ | សត្វចង្រៃ | រុយ</string>
+	<key>🐩</key>
+	<string>ឆ្កែ | ឆ្កែកាត់រោមធ្វើម៉ូត | លេងម៉ូត | ឆ្កែកាត់រោមធ្វើម៉ូត</string>
+	<key>🪱</key>
+	<string>ជន្លេន | ដង្កូវ | បរាសិត | ដង្កូវ</string>
+	<key>🐪</key>
+	<string>បូក | អូដ្ឋ | អូដ្ឋ</string>
+	<key>🪲</key>
+	<string>កញ្ចែ | សត្វល្អិត | កញ្ចែ</string>
+	<key>👨‍🎨</key>
+	<string>គំនូរ | ប្រុស | ផាត់ពណ៌ | វិចិត្រករ | វិចិត្រករ</string>
+	<key>🐫</key>
+	<string>បូក | អូដ្ឋ | អូដ្ឋបូកពីរ | អូដ្ឋបូកពីរ</string>
+	<key>🪳</key>
+	<string>កន្លាត | សត្វចង្រៃ | សត្វល្អិត | កន្លាត</string>
+	<key>🐬</key>
+	<string>ដូហ្វីន | ត្រី | ត្រីដូហ្វីន | ផ្សោត | ត្រីដូហ្វីន</string>
+	<key>🪴</key>
+	<string>ការថែទាំ | គួរឱ្យធុញ | ដុះ | ផ្ទះ | រុក្ខជាតិ | រុក្ខជាតិដាំក្នុងផើង | ឥតប្រយោជន៍ | រុក្ខជាតិដាំក្នុងផើង</string>
+	<key>🐭</key>
+	<string>កណ្តុរ | មុខ | មុខកណ្តុរ | មុខកណ្តុរ</string>
+	<key>🪵</key>
+	<string>កំណាត់ឈើ | ឈើ | ដុំឈើ | បន្ទះឈើ | ឈើ</string>
+	<key>🐮</key>
+	<string>គោ | មុខ | មុខគោ | មុខគោ</string>
+	<key>🪶</key>
+	<string>ការហើរ | បក្សី | ស្រាល | ស្លាប | ស្លាប</string>
+	<key>🐯</key>
+	<string>ខ្លា | មុខ | មុខខ្លា | មុខខ្លា</string>
+	<key>🪷</key>
+	<string>lotus</string>
+	<key>🐕‍🦺</key>
+	<string>ការបម្រើ | ឆ្កែ | ឆ្កែបម្រើ | ជំនួយ | លទ្ធភាព​ទទួលបាន | ឆ្កែបម្រើ</string>
+	<key>🐰</key>
+	<string>ទន្សាយ | មុខ | មុខទន្សាយ | សត្វចិញ្ចឹម | មុខទន្សាយ</string>
+	<key>🪸</key>
+	<string>coral</string>
+	<key>🐱</key>
+	<string>ឆ្មា | មុខ | មុខឆ្មា | សត្វចិញ្ចឹម | មុខឆ្មា</string>
+	<key>🪹</key>
+	<string>empty nest</string>
+	<key>🐲</key>
+	<string>ក្បាលនាគ | នាគ | ក្បាលនាគ</string>
+	<key>🪺</key>
+	<string>nest with eggs</string>
+	<key>🐳</key>
+	<string>ត្រីបាឡែនបាញ់ទឹក | បាញ់ទឹក | បាឡែន | មុខ | ត្រីបាឡែនបាញ់ទឹក</string>
+	<key>🪻</key>
+	<string>hyacinth</string>
+	<key>🐴</key>
+	<string>មុខ | មុខសេះ | សេះ | មុខសេះ</string>
+	<key>🪼</key>
+	<string>jellyfish</string>
+	<key>🐵</key>
+	<string>មុខស្វា | ស្វា | មុខស្វា</string>
+	<key>🪽</key>
+	<string>wing</string>
+	<key>🐶</key>
+	<string>ឆ្កែ | មុខ | មុុខឆ្កែ | សត្វចិញ្ចឹម | មុុខឆ្កែ</string>
+	<key>🐷</key>
+	<string>ជ្រូក | មុខ | មុខជ្រូក | មុខជ្រូក</string>
+	<key>🪿</key>
+	<string>goose</string>
+	<key>🐸</key>
+	<string>កង្កែប | មុខ | កង្កែប</string>
+	<key>🫀</key>
+	<string>កណ្ដាល | គ្រឿងក្នុង | គ្រឿងក្នុងបេះដូង | ចង្វាក់បេះដូង | ជីពចរ | ហទយវិទ្យា​ | គ្រឿងក្នុងបេះដូង</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>flag of England</string>
+	<key>🐹</key>
+	<string>មុខ | សត្វកកេរ | សត្វចិញ្ចឹម | សត្វកកេរ</string>
+	<key>🫁</key>
+	<string>ការដកដង្ហើម | ការដកដង្ហើមចូល | ការដកដង្ហើមចេញ | គ្រឿងក្នុង | ដង្ហើម | សួត | សួត</string>
+	<key>🐺</key>
+	<string>ចចក | មុខ | ចចក</string>
+	<key>🏝️</key>
+	<string>desert island</string>
+	<key>🫂</key>
+	<string>មនុស្សកំពុងឱប | លាហើយ | សួស្ដី | អរគុណ | ឱប | មនុស្សកំពុងឱប</string>
+	<key>🐻</key>
+	<string>ខ្លាឃ្មុំ | មុខ | ខ្លាឃ្មុំ</string>
+	<key>🏌️‍♂️</key>
+	<string>man golfer</string>
+	<key>🫃</key>
+	<string>pregnant man</string>
+	<key>🐼</key>
+	<string>ខ្លាឃ្មុំផេនដា | មុខ | ខ្លាឃ្មុំផេនដា</string>
+	<key>🫄</key>
+	<string>pregnant person</string>
+	<key>6️⃣</key>
+	<string>keycap digit six</string>
+	<key>🐽</key>
+	<string>ច្រមុះ | ច្រមុះជ្រូក | ជ្រូក | មុខ | ច្រមុះជ្រូក</string>
+	<key>🫅</key>
+	<string>person with crown</string>
+	<key>🐾</key>
+	<string>ក្រញាំ | ដាន | ដានក្រញាំជើង | ដានក្រញាំជើង</string>
+	<key>👀</key>
+	<string>ភ្នែក | មុខ | រាងកាយ | ភ្នែក</string>
+	<key>👂</key>
+	<string>ត្រចៀក | ស្តាប់ | ត្រចៀក</string>
+	<key>👃</key>
+	<string>ច្រមុះ | ហិត | ច្រមុះ</string>
+	<key>👄</key>
+	<string>បបូរមាត់ | មាត់ | មាត់</string>
+	<key>👅</key>
+	<string>លិឍ | អណ្តាត | អណ្តាត</string>
+	<key>☦️</key>
+	<string>Orthodox cross</string>
+	<key>👆</key>
+	<string>ខ្នងដៃ | ចង្អុល | ចង្អុលទៅលើដោយបង្ហាញខ្នងដៃ | បាតដៃ | ម្រាមដៃ | ឡើងលើ | ចង្អុលទៅលើដោយបង្ហាញខ្នងដៃ</string>
+	<key>👩‍🍼</key>
+	<string>ថែទាំ | ទារក | បំបៅ | ស្ត្រី | ស្រ្តីបំបៅទារក | ស្រ្តីបំបៅទារក</string>
+	<key>🫎</key>
+	<string>moose face</string>
+	<key>♾️</key>
+	<string>infinity</string>
+	<key>👇</key>
+	<string>ក្រោម | ខ្នងដៃ | ចង្អុល | ចង្អុលទៅក្រោម | ប្រអប់ដៃ | ម្រាមដៃ | ចង្អុលទៅក្រោម</string>
+	<key>🫏</key>
+	<string>donkey</string>
+	<key>👈</key>
+	<string>ចង្អុល | ចង្អុលទៅឆ្វេង | ឆ្វេង | ដៃចង្អុល | ប្រអប់ដៃ | ម្រាមដៃ | ចង្អុលទៅឆ្វេង</string>
+	<key>🫐</key>
+	<string>ខៀវ | បីលបឺរី | បឺរី | ប៊្លូបឺរី | ប៊្លូបឺរី</string>
+	<key>👉</key>
+	<string>ខ្នងដៃ | ចង្អុល | ចង្អុលទៅស្តាំ | ដៃចង្អុល | ប្រអប់ដៃ | ម្រាមដៃ | ស្តាំ | ចង្អុលទៅស្តាំ</string>
+	<key>🫑</key>
+	<string>បន្លែ | ពពួកម្ទេស | ម្ទេស | ម្ទេសប្លោក | ម្ទេសប្លោក</string>
+	<key>👊</key>
+	<string>កណ្តាប់ដៃមើលចំពីមុខ | ក្ដាប់ | ក្តាប់ដៃ | ដាល់ | ដៃ | កណ្តាប់ដៃមើលចំពីមុខ</string>
+	<key>🫒</key>
+	<string>អាហារ | អូលីវ | អូលីវ</string>
+	<key>⭕️</key>
+	<string>circle mark</string>
+	<key>💁‍♂️</key>
+	<string>information desk man</string>
+	<key>👋</key>
+	<string>ដៃ | បក់ | បក់ដៃ | បក់ដៃ</string>
+	<key>🫓</key>
+	<string>ណាន | នំក្រៀប | នំប៉័ងសំប៉ែត | ពីតា | ឡាវ៉ាស់ | អារ៉េប៉ា | នំប៉័ងសំប៉ែត</string>
+	<key>👌</key>
+	<string>OK | ដៃ | ធ្វើម្រាមដៃ OK | ធ្វើម្រាមដៃ OK</string>
+	<key>🫔</key>
+	<string>តាម៉ាឡេ | ម៉ិកស៊ិក | រុំ | តាម៉ាឡេ</string>
+	<key>👍</key>
+	<string>+1 | ដៃ | មេដៃ | មេដៃឡើងលើ | ឱ្យមេដៃ | មេដៃឡើងលើ</string>
+	<key>🫕</key>
+	<string>ឆ្នាំង | ឈីស | រលាយ | សូកូឡា | ស្វ៊ីស | ហ្វោនឌូ | ហ្វោនឌូ</string>
+	<key>👎</key>
+	<string>-1 | ចុះក្រោម | ដៃ | មេដៃ | មេដៃចុះក្រោម | មេដៃចុះក្រោម</string>
+	<key>🫖</key>
+	<string>តែ | ទឹកតែ | ប៉ាន់ | ប៉ាន់តែ | ប៉ាន់តែ</string>
+	<key>🏟️</key>
+	<string>stadium</string>
+	<key>👏</key>
+	<string>ទះដៃ | ល្អណាស់ | ស្វាគមន៍ | ទះដៃ</string>
+	<key>🫗</key>
+	<string>pouring liquid</string>
+	<key>💆‍♀️</key>
+	<string>woman getting a head massage</string>
+	<key>👐</key>
+	<string>លាដៃ | លាបង្ហាញបាតដៃទាំងពីរ | លាបង្ហាញបាតដៃទាំងពីរ</string>
+	<key>🫘</key>
+	<string>beans</string>
+	<key>🐦‍⬛</key>
+	<string>black bird</string>
+	<key>🧑‍🦯</key>
+	<string>ខ្វាក់ | ឈើច្រត់ | ភាពងាយស្រួល | មនុស្សកាន់ឈើច្រត់ | ឈើច្រត់</string>
+	<key>🫙</key>
+	<string>jar</string>
+	<key>🧙‍♂️</key>
+	<string>man mage</string>
+	<key>👑</key>
+	<string>ម្កុជ | ស្តេច | ម្កុជ</string>
+	<key>⛏️</key>
+	<string>pick</string>
+	<key>👒</key>
+	<string>មួកនារី | មួកស្រី | មួកនារី</string>
+	<key>🫚</key>
+	<string>ginger root</string>
+	<key>👓</key>
+	<string>ម៉្ញូប | វ៉ែនតា | វ៉ែនតា</string>
+	<key>🫛</key>
+	<string>pea pod</string>
+	<key>👔</key>
+	<string>ក្រវាត់ក | ក្រវាត់កជាប់នឹងអាវ | សម្លៀកបំពាក់ | ក្រវាត់កជាប់នឹងអាវ</string>
+	<key>👕</key>
+	<string>សម្លៀកបំពាក់ | អាវ | អាវយឺត | អាវយឺត</string>
+	<key>👖</key>
+	<string>ខោ | ខោខូវប៊យ | ខោខូវប៊យ</string>
+	<key>🧞‍♀️</key>
+	<string>woman genie</string>
+	<key>👗</key>
+	<string>រ៉ូប | សម្លៀកបំពាក់ | រ៉ូប</string>
+	<key>↙️</key>
+	<string>down-left arrow</string>
+	<key>🧑‍🦰</key>
+	<string>person with red hair</string>
+	<key>🕵️‍♂️</key>
+	<string>man detective</string>
+	<key>👘</key>
+	<string>គីម៉ូណូ (ឈុតប្រពៃណីជប៉ុន) | ឈុតប្រពៃណី | សម្លៀកបំពាក់ | គីម៉ូណូ (ឈុតប្រពៃណីជប៉ុន)</string>
+	<key>🟠</key>
+	<string>ពណ៌ទឹកក្រូច | រង្វង់ | រង្វង់ពណ៌ទឹកក្រូច | រង្វង់ពណ៌ទឹកក្រូច</string>
+	<key>🫠</key>
+	<string>melting face</string>
+	<key>🟡</key>
+	<string>ពណ៌លឿង | រង្វង់ | រង្វង់ពណ៌លឿង | រង្វង់ពណ៌លឿង</string>
+	<key>👩‍❤️‍👨</key>
+	<string>man and woman with heart</string>
+	<key>👙</key>
+	<string>ឈុតប៊ីគីនី (ឈុតហែលទឹក) | ឈុតហែលទឹក | ស៊ិចស៊ី | ឈុតប៊ីគីនី (ឈុតហែលទឹក)</string>
+	<key>◀️</key>
+	<string>left-pointing triangle</string>
+	<key>🫡</key>
+	<string>saluting face</string>
+	<key>🟢</key>
+	<string>ពណ៌បៃតង | រង្វង់ | រង្វង់ពណ៌បៃតង | រង្វង់ពណ៌បៃតង</string>
+	<key>👚</key>
+	<string>មនុស្សស្រី | អាវ | អាវមនុស្សស្រី | អាវមនុស្សស្រី</string>
+	<key>☘️</key>
+	<string>shamrock</string>
+	<key>🫢</key>
+	<string>face with open eyes and hand over mouth</string>
+	<key>🚵‍♂️</key>
+	<string>man mountain biker</string>
+	<key>🟣</key>
+	<string>ពណ៌ស្វាយ | រង្វង់ | រង្វង់ពណ៌ស្វាយ | រង្វង់ពណ៌ស្វាយ</string>
+	<key>👛</key>
+	<string>កាបូបដៃ | កាបូបលុយ | ការបូបដៃ | កូនកាបូប | ការបូបដៃ</string>
+	<key>🫣</key>
+	<string>face with peeking eye</string>
+	<key>🟤</key>
+	<string>ពណ៌ត្នោត | រង្វង់ | រង្វង់ពណ៌ត្នោត | រង្វង់ពណ៌ត្នោត</string>
+	<key>👜</key>
+	<string>កាបូបយួរដៃ | កាបូបស្ពាយចំហៀង | ការបូូស្ពាយចំហៀង | ការបូូស្ពាយចំហៀង</string>
+	<key>⛈️</key>
+	<string>cloud with lightning and rain</string>
+	<key>🫤</key>
+	<string>face with diagonal mouth</string>
+	<key>🟥</key>
+	<string>ការ៉េ | ការ៉េ​ពណ៌ក្រហម | ពណ៌ក្រហម | ការ៉េ​ពណ៌ក្រហម</string>
+	<key>👝</key>
+	<string>កាបូបប៊ិច | កាបូបរូត | កាបូបប៊ិច</string>
+	<key>🫥</key>
+	<string>dotted line face</string>
+	<key>🟦</key>
+	<string>ការ៉េ | ការ៉េពណ៌ខៀវ | ពណ៌ខៀវ | ការ៉េពណ៌ខៀវ</string>
+	<key>👞</key>
+	<string>ស្បែកជើង | ស្បែកជើងឃ្វា | ស្បែកជើងបុរស | ស្បែកជើងបុរស</string>
+	<key>🧑‍🦱</key>
+	<string>person with curly hair</string>
+	<key>🫦</key>
+	<string>biting lip</string>
+	<key>🟧</key>
+	<string>ការ៉េ | ការ៉េ​ពណ៌ទឹកក្រូច | ពណ៌ទឹកក្រូច | ការ៉េ​ពណ៌ទឹកក្រូច</string>
+	<key>🦹‍♀️</key>
+	<string>woman supervillain</string>
+	<key>👟</key>
+	<string>ស្បែកជើងកីឡា | ស្បែងជើងរត់កីឡា | ស្បែងជើងរត់កីឡា</string>
+	<key>🫧</key>
+	<string>bubbles</string>
+	<key>🟨</key>
+	<string>ការ៉េ | ការ៉េ​ពណ៌​លឿង | ពណ៌លឿង | ការ៉េ​ពណ៌​លឿង</string>
+	<key>❤️‍🔥</key>
+	<string>heart on fire</string>
+	<key>👠</key>
+	<string>កែងចោត | ស្បែកជើកែង | ស្បែកជើងកែងចោត | ស្បែកជើងកែងចោត</string>
+	<key>🟩</key>
+	<string>ការ៉េ | ការ៉េ​ពណ៌បៃតង | ពណ៌បៃតង | ការ៉េ​ពណ៌បៃតង</string>
+	<key>🫨</key>
+	<string>shaking face</string>
+	<key>👡</key>
+	<string>ស្បែកជើងស្រី | ស្បែកជើស៊ក | ស្បែងជើងកែងស៊ក | ស្បែងជើងកែងស៊ក</string>
+	<key>🟪</key>
+	<string>ការ៉េ | ការ៉េ​ពណ៌ស្វាយ | ពណ៌ស្វាយ | ការ៉េ​ពណ៌ស្វាយ</string>
+	<key>👢</key>
+	<string>ស្បែកជើងកវែង | ស្បែកជើងកវែងនារី | ស្បែកជើងស្រី | ស្បែកជើងកវែងនារី</string>
+	<key>🟫</key>
+	<string>ការ៉េ | ការ៉េពណ៌ត្នោត | ពណ៌ត្នោត | ការ៉េពណ៌ត្នោត</string>
+	<key>👣</key>
+	<string>ដាន | ដានជើង | សម្លៀកបំពាក់ | ដានជើង</string>
+	<key>🛠️</key>
+	<string>hammer and wrench</string>
+	<key>📽️</key>
+	<string>film projector</string>
+	<key>👤</key>
+	<string>មនុស្ស | ស្រមោល | ស្រមោលមនុស្សត្រឹមស្មាឡើងលើ | ស្រមោលមនុស្សត្រឹមស្មាឡើងលើ</string>
+	<key>☑️</key>
+	<string>ballot box with check</string>
+	<key>🧑‍🦲</key>
+	<string>person with no hair</string>
+	<key>👥</key>
+	<string>ពីរនាក់ | មនុស្សពីរនាក់ | ស្រមោល | ស្រមោលមនុស្សពីរនាក់ត្រឹមស្មាឡើងលើ | ស្រមោលមនុស្សពីរនាក់ត្រឹមស្មាឡើងលើ</string>
+	<key>👦</key>
+	<string>ក្មេងប្រុស | ប្រុស | មុខ | មុខក្មេងប្រុស | ក្មេងប្រុស</string>
+	<key>👨‍🦯</key>
+	<string>បុរស | បុរស​កាន់ឈើច្រត់សម្រាប់​ជនពិការភ្នែក | ពិការភ្នែក | លទ្ធភាព​ទទួលបាន | បុរស​កាន់ឈើច្រត់សម្រាប់​ជនពិការភ្នែក</string>
+	<key>👧</key>
+	<string>ក្មេងស្រី | មុខ | មុខក្មេងស្រី | ស្រី | ក្មេងស្រី</string>
+	<key>👰‍♂️</key>
+	<string>man with veil</string>
+	<key>👩‍🚀</key>
+	<string>រ៉ុកែត | លំហរអាកាស | ស្រី | អាវកាសយានិក | អាវកាសយានិកស្រី | អាវកាសយានិកស្រី</string>
+	<key>🟰</key>
+	<string>equals sign</string>
+	<key>🏴‍☠️</key>
+	<string>pirate flag</string>
+	<key>👨</key>
+	<string>បុរស | ប្រុស | មនុស្សធំ | បុរស</string>
+	<key>🫰</key>
+	<string>hand with index finger and thumb crossed</string>
+	<key>⏺️</key>
+	<string>record symbol</string>
+	<key>👩</key>
+	<string>នារី | មនុស្សធំ | មុខស្រ្តី | ស្ត្រី | ស្រី | ស្រ្តី | ស្រ្តី</string>
+	<key>🫱</key>
+	<string>rightward hand</string>
+	<key>👪</key>
+	<string>គ្រួសារ | គ្រួសារ</string>
+	<key>🫲</key>
+	<string>leftward hand</string>
+	<key>👫</key>
+	<string>កាន់ដៃ | បុរសនារី | បុរសនិងនារីកាន់ដៃគ្នា | បុ្រស្រី | បុរសនិងនារីកាន់ដៃគ្នា</string>
+	<key>🫳</key>
+	<string>palm down hand</string>
+	<key>🧑‍🦳</key>
+	<string>person with white hair</string>
+	<key>👬</key>
+	<string>កាន់ដៃ | បុរស | បុរសពីរនាក់កាន់ដៃគ្នា | បុ្រស | បុរសពីរនាក់កាន់ដៃគ្នា</string>
+	<key>🫴</key>
+	<string>palm up hand</string>
+	<key>👭</key>
+	<string>កាន់ដៃ | នារី | នារីពីរនាក់កាន់ដៃគ្នា | ស្រី | នារីពីរនាក់កាន់ដៃគ្នា</string>
+	<key>👨‍🦰</key>
+	<string>man with red hair</string>
+	<key>🫵</key>
+	<string>index pointing at the viewer</string>
+	<key>👮</key>
+	<string>នគរបាល | ប៉ូលីស | មន្ត្រីប៉ូលីស | ប៉ូលីស</string>
+	<key>🏊‍♂️</key>
+	<string>man swimmer</string>
+	<key>🫶</key>
+	<string>heart hands</string>
+	<key>👯</key>
+	<string>ជប់លៀង | ត្រចៀកទន្សាយ | មនុស្សពាក់ត្រចៀកទន្សាយ | មនុស្សរាំពាក់ត្រចៀកទន្សាយ | អ្នករាំ | អ្នរាំជាគូ | មនុស្សរាំពាក់ត្រចៀកទន្សាយ</string>
+	<key>🫷</key>
+	<string>leftwards pushing hand</string>
+	<key>👰</key>
+	<string>កូនក្រមុំ | កូនក្រមុំពាក់ស្បៃមុខ | រៀបការ | កូនក្រមុំពាក់ស្បៃមុខ</string>
+	<key>🫸</key>
+	<string>rightwards pushing hand</string>
+	<key>👱</key>
+	<string>ទង់ដែង | មនុស្សសក់ទង់ដែង | សក់ | មនុស្សសក់ទង់ដែង</string>
+	<key>✒️</key>
+	<string>fountain pen</string>
+	<key>👲</key>
+	<string>បុរស | បុរសពាក់មួកចិនបុរាណ | មួក | មួកចិន | បុរសពាក់មួកចិនបុរាណ</string>
+	<key>🧍‍♀️</key>
+	<string>woman standing</string>
+	<key>👳</key>
+	<string>ឈ្នួត | មនុស្សពាក់ឈ្នួត | មនុស្សពាក់ឈ្នួត</string>
+	<key>👨‍🦱</key>
+	<string>man with curly hair</string>
+	<key>👴</key>
+	<string>ចាស់ | បុរស | បុរសចំណាស់ | មនុស្សធំ | បុរសចំណាស់</string>
+	<key>🙆‍♂️</key>
+	<string>man gesturing OK</string>
+	<key>👵</key>
+	<string>ចាស់ | មនុស្សចាស់ | ស្ត្រី | ស្រ្តីចំណាស់ | ស្រ្តីចំណាស់</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>family with mother, father, son and daughter</string>
+	<key>👶</key>
+	<string>កូនង៉ែត | ក្មេង | ទារក | ទារក</string>
+	<key>👷</key>
+	<string>កម្មករ | កម្មករសំណង់ | មួក | សំណង់ | កម្មករសំណង់</string>
+	<key>▫️</key>
+	<string>white small square</string>
+	<key>👸</key>
+	<string>ព្រះនាង | ម្កុជ | ព្រះនាង</string>
+	<key>🛢️</key>
+	<string>oil drum</string>
+	<key>☃️</key>
+	<string>snowman with snowflakes</string>
+	<key>👹</key>
+	<string>មុខ | មុខយក្ស | យក្ស | សត្វចម្លែក | អាក្រក់ | មុខយក្ស</string>
+	<key>🙋‍♀️</key>
+	<string>woman raising one hand</string>
+	<key>👺</key>
+	<string>មនុស្ស | មុខមនុស្សអាក្រក់ | អាក្រក់ | មុខមនុស្សអាក្រក់</string>
+	<key>👨‍🦲</key>
+	<string>man with no hair</string>
+	<key>🇹🇦</key>
+	<string>flag of Tristan da Cunha</string>
+	<key>👻</key>
+	<string>ខោ្មចលង | ខ្មោច | លង | ខ្មោច</string>
+	<key>🇵🇦</key>
+	<string>flag of Panama</string>
+	<key>👼</key>
+	<string>ទេពធីតា | ទេពធីតាតូច | មុខទេពធីតាតូច | ទេពធីតាតូច</string>
+	<key>❣️</key>
+	<string>red heart as an exclamation mark</string>
+	<key>👽</key>
+	<string>ភពក្រៅ | មនុស្សក្រៅភព, មនុស្សចម្លែក | មនុស្សចម្លែក | មនុស្សក្រៅភព, មនុស្សចម្លែក</string>
+	<key>🇱🇦</key>
+	<string>flag of Laos</string>
+	<key>👾</key>
+	<string>ក្រៅភព | តុក្កតា | តុក្កតាក្រៅភព | តុក្កតាក្រៅភព</string>
+	<key>👿</key>
+	<string>ខឹង | ពេប | មុខ | មុខមានស្នែងខឹង | ស្នែង | មុខមានស្នែងខឹង</string>
+	<key>💀</key>
+	<string>ក្បាលខ្មោច | លលាដ៏ក្បាល | ក្បាលខ្មោច</string>
+	<key>🇱🇧</key>
+	<string>flag of Lebanon</string>
+	<key>👨‍🦳</key>
+	<string>man with white hair</string>
+	<key>💁</key>
+	<string>ជួយ | ដៃ | បញ្ចេញព័ត៌មាន | ប្រាប់ព័ត៌មាន | ព័ត៌មាន | មនុស្សបង្ហើបព័ត៌មាន | មនុស្សបង្ហើបព័ត៌មាន</string>
+	<key>🇹🇨</key>
+	<string>flag of the Turks &amp; Caicos Islands</string>
+	<key>🧜‍♂️</key>
+	<string>merman</string>
+	<key>💂</key>
+	<string>អ្នកយាម | អ្នកយាម</string>
+	<key>💃</key>
+	<string>មនុស្សស្រីកំពុងរាំ | រាំ | ស្ត្រី | ស្រី | មនុស្សស្រីកំពុងរាំ</string>
+	<key>◼️</key>
+	<string>black medium square</string>
+	<key>🇱🇨</key>
+	<string>flag of Saint Lucia</string>
+	<key>💄</key>
+	<string>ក្រែម | ក្រែមលាបមាត់ | ក្រែមលាបមាត់</string>
+	<key>🇹🇩</key>
+	<string>flag of Chad</string>
+	<key>💅</key>
+	<string>ក្រចក | លាបថ្នាំក្រចក | លាបថ្នាំក្រចក</string>
+	<key>💆</key>
+	<string>មនុស្សគេងម៉ាស្សា | ម៉ាស្សា | មុខ | សាឡន | មនុស្សគេងម៉ាស្សា</string>
+	<key>💇</key>
+	<string>កាត់សក់ | ជាងកាត់សក់ | មនុស្សកំពុងកាត់សក់ | សម្រស់ | ហាង | មនុស្សកំពុងកាត់សក់</string>
+	<key>🗜️</key>
+	<string>clamp</string>
+	<key>💈</key>
+	<string>កាត់សក់ | ជាងកាត់សក់ | បង្គោល | បង្គោលនៅកន្លែងកាត់សក់ | បង្គោលនៅកន្លែងកាត់សក់</string>
+	<key>💉</key>
+	<string>ចាក់ | ឈឺ | ថ្នាំ | ម្ជុល | សឺរ៉ាំង | ស៊ឺរ៉ាងចាក់ថ្មាំ | ស៊ឺរ៉ាងចាក់ថ្មាំ</string>
+	<key>🇵🇪</key>
+	<string>flag of Peru</string>
+	<key>💊</key>
+	<string>ជម្ងឺ | ថ្នាំ | ពេទ្យ | ថ្នាំ</string>
+	<key>💋</key>
+	<string>បបេរមាត់ | ស្នាមថើប | ស្នាមថើប</string>
+	<key>🇹🇫</key>
+	<string>flag of French Southern Territories</string>
+	<key>💌</key>
+	<string>សំបុត្រ | សំបុត្រស្នេហា | ស្នេហា | សំបុត្រស្នេហា</string>
+	<key>👩‍❤️‍👩</key>
+	<string>two women with heart</string>
+	<key>🇵🇫</key>
+	<string>flag of French Polynesia</string>
+	<key>🛤️</key>
+	<string>railway track</string>
+	<key>💍</key>
+	<string>ចិញ្ចៀន | ពេជ្រ | ចិញ្ចៀន</string>
+	<key>🆎</key>
+	<string>ab | ប៊ូតុងអក្សរ AB (ប្រភេទឈាម) | ប្រភេទឈាម | ប៊ូតុងអក្សរ AB (ប្រភេទឈាម)</string>
+	<key>🇩🇪</key>
+	<string>flag of Germany</string>
+	<key>🈂️</key>
+	<string>Japanese sign meaning “service” or “service charge”</string>
+	<key>💎</key>
+	<string>ត្បូង | ពេជ្រ | អលង្ការ | ត្បូង</string>
+	<key>♍️</key>
+	<string>Virgo</string>
+	<key>🇹🇬</key>
+	<string>flag of Togo</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>two women kissing</string>
+	<key>💏</key>
+	<string>គូស្នេហ៍ | ថើប | ថើប</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>កាន់ | កាន់ដៃគ្នា | គូស្នេហ៍ | ដៃ | មនុស្ស | មនុស្សកាន់ដៃគ្នា | មនុស្សកាន់ដៃគ្នា</string>
+	<key>💐</key>
+	<string>បាច់ផ្កា | ផ្កា | បាច់ផ្កា</string>
+	<key>⛽️</key>
+	<string>fuel pump</string>
+	<key>🇵🇬</key>
+	<string>flag of Papua New Guinea</string>
+	<key>🖱️</key>
+	<string>computer mouse</string>
+	<key>🆑</key>
+	<string>CL | ប៊ូតុង | ប៊ូតុងមានអក្សរ CL ធំ | ប៊ូតុងមានអក្សរ CL ធំ</string>
+	<key>💑</key>
+	<string>គូស្នេហ៍ | បេះដូង | បេះដូងនៅចន្លោះគូស្នេហ៍ | ស្នេហា | បេះដូងនៅចន្លោះគូស្នេហ៍</string>
+	<key>🆒</key>
+	<string>COOL | ប៊ូតុង | ប៊ូតុងមានអក្សរ COOL ធំ | ប៊ូតុងមានអក្សរ COOL ធំ</string>
+	<key>🇹🇭</key>
+	<string>flag of Thailand</string>
+	<key>💒</key>
+	<string>រៀបការ | រៀបការនៅវិហារ | វិហារ | រៀបការនៅវិហារ</string>
+	<key>🆓</key>
+	<string>FREE | ប៊ូតុង | ប៊ូតុងមានអក្សរ FREE ធំ | ប៊ូតុងមានអក្សរ FREE ធំ</string>
+	<key>💓</key>
+	<string>ញ័រ | បេះដូង | បេះដូងកំពុងញ័រ | បេះដូងកំពុងញ័រ</string>
+	<key>🆔</key>
+	<string>ID | ប៊ូតុង | ប៊ូតុងមានអក្សរ ID ធំ | ប៊ូតុងមានអក្សរ ID ធំ</string>
+	<key>🇵🇭</key>
+	<string>flag of Philippines</string>
+	<key>👩‍⚖️</key>
+	<string>woman judge</string>
+	<key>💔</key>
+	<string>បេះដូងបែកជាពីរ | បេះដូងប្រេះស្រាំ | បែកបេះដូង | បេះដូងបែកជាពីរ</string>
+	<key>🇩🇬</key>
+	<string>flag of Diego Garcia</string>
+	<key>🆕</key>
+	<string>NEW | ប៊ូតុង | ប៊ូតុងមានអក្សរ NEW | ប៊ូតុងមានអក្សរ NEW</string>
+	<key>🅿️</key>
+	<string>parking sign</string>
+	<key>💕</key>
+	<string>បេះដូង | បេះដូងពីរ | បេះដូងមួយគូ | ស្នេហា | បេះដូងពីរ</string>
+	<key>🤹‍♀️</key>
+	<string>woman juggling</string>
+	<key>🆖</key>
+	<string>NG | ប៊ូតុង | ប៊ូតុងមានអក្សរ NG | ប៊ូតុងមានអក្សរ NG</string>
+	<key>💖</key>
+	<string>ចែងចាំង | បេដូង | បេះដូចចែងចាំង | បេះដូចចែងចាំង</string>
+	<key>🆗</key>
+	<string>OK | ប៊ូតុង | ប៊ូតុងមានអក្សរ OK ធំ | ប៊ូតុងមានអក្សរ OK ធំ</string>
+	<key>💗</key>
+	<string>បេះដូង | បេះដូងរីកធំធាត់ | បេះដូងលោតញាប់ | រំភើប | បេះដូងរីកធំធាត់</string>
+	<key>👳‍♂️</key>
+	<string>man with turban</string>
+	<key>🆘</key>
+	<string>SOS | ប៊ូតុង | ប៊ូតុងមានអក្សរ SOS ធំ | ប៊ូតុងមានអក្សរ SOS ធំ</string>
+	<key>💘</key>
+	<string>បេះដូង | បេះដូងត្រូវគ្រាប់ព្រួញ | ព្រួញស្នេហ៍ | ស្នេហ៍ | បេះដូងត្រូវគ្រាប់ព្រួញ</string>
+	<key>🇱🇮</key>
+	<string>flag of Liechtenstein</string>
+	<key>🆙</key>
+	<string>UP! | ប៊ូតុង | ប៊ូតុងមានអក្សរ UP! ធំនិងសញ្ញាឧទាន | ប៊ូតុងមានអក្សរ UP! ធំនិងសញ្ញាឧទាន</string>
+	<key>🈯️</key>
+	<string>Japanese sign meaning “reserved”</string>
+	<key>🇹🇯</key>
+	<string>flag of Tajikistan</string>
+	<key>💙</key>
+	<string>ខៀវ | បេះដូង | បេះដូងពណ៌ខៀវ | បេះដូងពណ៌ខៀវ</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>family with two fathers and two sons</string>
+	<key>🆚</key>
+	<string>ប៊ូតុង VS | ប៊ូតុងមានអក្សរ VS ធំ | ប៊ូតុងមានអក្សរ VS ធំ</string>
+	<key>💚</key>
+	<string>បេះដូង | បេះដូងពណ៌បៃតង | បៃតង | បេះដូងពណ៌បៃតង</string>
+	<key>🇽🇰</key>
+	<string>flag of Kosovo</string>
+	<key>💛</key>
+	<string>បេះដូង | បេះដូងពណ៌លឿង | លឿង | បេះដូងពណ៌លឿង</string>
+	<key>🗞️</key>
+	<string>rolled-up newspaper</string>
+	<key>💜</key>
+	<string>បេះដូង | បេះដូងពណ៌ស្វាយ | ពណ៌ស្វាយ | បេះដូងពណ៌ស្វាយ</string>
+	<key>🇹🇰</key>
+	<string>flag of Tokelau</string>
+	<key>💝</key>
+	<string>ចងបូ | បេះដូង | បេះដូងចងបូ | ស្រឡាញ់ | បេះដូងចងបូ</string>
+	<key>🇵🇰</key>
+	<string>flag of Pakistan</string>
+	<key>💞</key>
+	<string>បេះដូង | បេះដូងកំពុុងរង្វិលជុំ | វិល | បេះដូងកំពុុងរង្វិលជុំ</string>
+	<key>🇩🇯</key>
+	<string>flag of Djibouti</string>
+	<key>💟</key>
+	<string>បេះដូង | ពុម្ពបេះដូង | ពុម្ពបេះដូង</string>
+	<key>🇱🇰</key>
+	<string>flag of Sri Lanka</string>
+	<key>🇹🇱</key>
+	<string>flag of Timor-Leste</string>
+	<key>👩‍🤝‍👨</key>
+	<string>woman and man holding hands</string>
+	<key>💠</key>
+	<string>ចំនុច | បួន | ពេជ្រ | ពេជ្រមានចំនុចបួន | ពេជ្រមានចំនុចបួន</string>
+	<key>🇭🇰</key>
+	<string>flag of Hong Kong</string>
+	<key>💡</key>
+	<string>ពន្លឺ | ភ្លឺ | ភ្លើង | អំពូល | អំពូលពងមាន់ | អំពូលភ្លើង | អំពូលពងមាន់</string>
+	<key>🇵🇱</key>
+	<string>flag of Poland</string>
+	<key>🇩🇰</key>
+	<string>flag of Denmark</string>
+	<key>💢</key>
+	<string>ខឹង​ | សញ្ញាខឹង | សញ្ញាខឹង</string>
+	<key>🇹🇲</key>
+	<string>flag of Turkmenistan</string>
+	<key>💣</key>
+	<string>គ្រាប់បែក | ផ្ទុះ | គ្រាប់បែក</string>
+	<key>⚗️</key>
+	<string>alembic</string>
+	<key>💤</key>
+	<string>គេង | ដេក | ស្រមុក | អក្សរ Z បី | អក្សរ Z បី</string>
+	<key>🇵🇲</key>
+	<string>flag of Saint Pierre &amp; Miquelon</string>
+	<key>💥</key>
+	<string>បុកគ្នា | ផ្ទុុះ | បុកគ្នា</string>
+	<key>❇️</key>
+	<string>sparkle</string>
+	<key>💦</key>
+	<string>តំណក់ទឹក | តំណក់ទឹកបី | ភ្លៀង | តំណក់ទឹកបី</string>
+	<key>🇹🇳</key>
+	<string>flag of Tunisia</string>
+	<key>🧑‍🦼</key>
+	<string>មនុស្សអង្គុយលើរទេះរុញដោយកម្លាំងម៉ាស៊ីន | រទេះរុញ | លទ្ធភាពចូល | មនុស្សអង្គុយលើរទេះរុញដោយកម្លាំងម៉ាស៊ីន</string>
+	<key>💧</key>
+	<string>ញើស | ដំណក់ទឹក | ត្រជាក់ | អាកាសធាតុ | ដំណក់ទឹក</string>
+	<key>🇭🇲</key>
+	<string>flag of Heard and McDonald Islands</string>
+	<key>🇵🇳</key>
+	<string>flag of Pitcairn</string>
+	<key>💨</key>
+	<string>រត់់ | សន្ទុះខ្យល់ពីការរត់យ៉ាងលឿន | សន្ទុះខ្យល់ពីការរត់យ៉ាងលឿន</string>
+	<key>🇩🇲</key>
+	<string>flag of Dominica</string>
+	<key>💩</key>
+	<string>គំនរអាចម៍, គំនរលាមក | លាមក | អាចម៍ | គំនរអាចម៍, គំនរលាមក</string>
+	<key>🙎‍♀️</key>
+	<string>woman pouting</string>
+	<key>🇹🇴</key>
+	<string>flag of Tonga</string>
+	<key>💪</key>
+	<string>ដៃ | សាចដុំ | សាច់ដុំដើមដៃ | សាច់ដុំដើមដៃ</string>
+	<key>🇭🇳</key>
+	<string>flag of Honduras</string>
+	<key>👩‍👦</key>
+	<string>family with mother and son</string>
+	<key>💫</key>
+	<string>វិល | វិលវល់ | វិលវល់</string>
+	<key>💇‍♂️</key>
+	<string>man getting a haircut</string>
+	<key>💬</key>
+	<string>និយាយ | ពាក្យសម្តី | រង្វង់បង្ហាញពាក្យកំពុងនិយាយខាងស្តាំ | រង្វង់បង្ហាញពាក្យកំពុងនិយាយខាងស្តាំ</string>
+	<key>☸️</key>
+	<string>wheel of dharma</string>
+	<key>💭</key>
+	<string>គិត | និយាយ | ពពក | ពពកបង្ហាញពាក្យកំពុងគិត | ពពកបង្ហាញពាក្យកំពុងគិត</string>
+	<key>🧑‍🦽</key>
+	<string>មនុស្សអង្គុយ​លើ​រទេះរុញដោយដៃ | រទេះរុញ | លទ្ធភាពចូល | មនុស្សអង្គុយ​លើ​រទេះរុញដោយដៃ</string>
+	<key>💮</key>
+	<string>ផ្កា | ផ្កាស | រីក​ | ផ្កាស</string>
+	<key>💯</key>
+	<string>100 | ពិន្ទុ១០០ | ពិន្ទុ១០០</string>
+	<key>🇩🇴</key>
+	<string>flag of the Dominican Republic</string>
+	<key>💰</key>
+	<string>ដុល្លារ | ថង់ | ថង់លុយ | លុយ | ថង់លុយ</string>
+	<key>💱</key>
+	<string>ដូរលុយ | ធនាគារ | ប្តូរប្រាក់ | រូបិយប័ណ្ណ | ដូរលុយ</string>
+	<key>😵‍💫</key>
+	<string>គូទខ្យង | ត្រូវសណ្ដំ | បញ្ហា | មុខមានភ្នែកវិលរាងគូទខ្យង | វិលមុខ | មុខមានភ្នែកវិលរាងគូទខ្យង</string>
+	<key>👩‍👧</key>
+	<string>family with mother and daughter</string>
+	<key>🧟‍♂️</key>
+	<string>man zombie</string>
+	<key>💲</key>
+	<string>ដុល្លារ | រូ​បិយប័ណ្ណ | លុយ | ដុល្លារ</string>
+	<key>💳</key>
+	<string>កាត | កាតឥនទាន | ប័ណ្ណ | លុយ | ឥណទាន | កាតឥនទាន</string>
+	<key>🇹🇷</key>
+	<string>flag of Türkiye</string>
+	<key>💴</key>
+	<string>ក្រដាសប្រាក់ | ប្រាក់ | យ៉េន | រូបិយប័ណ្ណ | លុយ | លុយយេន | លុយយេន</string>
+	<key>💵</key>
+	<string>ក្រដាសប្រាក់ | ដុល្លារ | ប្រាក់ | រូបិយប័ណ្ណ | លុយ | លុយដុល្លារ | លុុយដុល្លារ | លុុយដុល្លារ</string>
+	<key>🇵🇷</key>
+	<string>flag of Puerto Rico</string>
+	<key>💶</key>
+	<string>ក្រដាសប្រាក់ | ប្រាក់ | រូបិយប័ណ្ណ | លុយ | លុយអឺរូ | អឺរ៉ូ | លុយអឺរូ</string>
+	<key>🇱🇷</key>
+	<string>flag of Liberia</string>
+	<key>💷</key>
+	<string>ក្រដាសប្រាក់ | ប្រាក់ | ផោន | រូបិយប័ណ្ណ | លុយ | លុយផោន | លុយផោន</string>
+	<key>💸</key>
+	<string>ក្រដាសប្រាក់ | លុយ | លុយមានស្លាប | លុយមួយបាច់មានដុះស្លាប | ស្លាប | ហោះ | លុយមួយបាច់មានដុះស្លាប</string>
+	<key>🇭🇷</key>
+	<string>flag of Croatia</string>
+	<key>🇵🇸</key>
+	<string>flag of the Palestinian Territories</string>
+	<key>💹</key>
+	<string>កំណើន | តារាង | តារាងកំណើនលុយយេន | លុយយេន | តារាងកំណើនលុយយេន</string>
+	<key>💺</key>
+	<string>កន្លែងអង្គុយ | កៅអី | កន្លែងអង្គុយ</string>
+	<key>🇱🇸</key>
+	<string>flag of Lesotho</string>
+	<key>🇹🇹</key>
+	<string>flag of Trinidad &amp; Tobago</string>
+	<key>💻</key>
+	<string>pc | កុំព្យូទ័រ | កុំព្យូទ័រយួរដៃ | យកតាមខ្លួន | កុំព្យូទ័រយួរដៃ</string>
+	<key>💼</key>
+	<string>កាបូបយួរ | កាបូបយួសម្រាប់អ្នកធ្វើការ | កាបូបយួសម្រាប់អ្នកធ្វើការ</string>
+	<key>👨‍🦼</key>
+	<string>បុរស | បុរស​ជិះ​រទេះជនពិការ​ដែលមាន​បំពាក់​ម៉ាស៊ីន | រទេះរុញ | លទ្ធភាពទទួលបាន | បុរស​ជិះ​រទេះជនពិការ​ដែលមាន​បំពាក់​ម៉ាស៊ីន</string>
+	<key>🇵🇹</key>
+	<string>flag of Portugal</string>
+	<key>💽</key>
+	<string>ឌីស | ឌីសខ្នាតតូច | ស៊ីឌី | ឌីសខ្នាតតូច</string>
+	<key>🇱🇹</key>
+	<string>flag of Lithuania</string>
+	<key>💾</key>
+	<string>កុំព្យូទ័រ | ឌីស | ឌីសជ្រុង | ឌីសបួនជ្រុងរក្សាទុកឯកសារ (ហួសសម័យ) | ឌីសបួនជ្រុងរក្សាទុកឯកសារ (ហួសសម័យ)</string>
+	<key>🇭🇹</key>
+	<string>flag of Haiti</string>
+	<key>💿</key>
+	<string>កុំព្យូទ័រ | ឌីស | ឌីសឡាស៊ែរ | ស៊ីឌី | ឌីសឡាស៊ែរ</string>
+	<key>📀</key>
+	<string>ឌីវីឌី | ឌីស | ស៊ីឌី | ឌីវីឌី</string>
+	<key>🤷‍♂️</key>
+	<string>man shrugging</string>
+	<key>📁</key>
+	<string>ថត | ថតដាក់ឯកសារ | ស៊ឺម៉ីដាក់ឯកសារ | ឯកសារ | ស៊ឺម៉ីដាក់ឯកសារ</string>
+	<key>🇱🇺</key>
+	<string>flag of Luxembourg</string>
+	<key>☪️</key>
+	<string>star and crescent</string>
+	<key>🇹🇻</key>
+	<string>flag of Tuvalu</string>
+	<key>📂</key>
+	<string>ថត | បើក | ស៊ឺម៉ីបើក | ឯកសារ | ស៊ឺម៉ីបើក</string>
+	<key>4️⃣</key>
+	<string>keycap digit four</string>
+	<key>🇭🇺</key>
+	<string>flag of Hungary</string>
+	<key>👨‍🦽</key>
+	<string>បុរស | បុរសជិះ​រទេះជនពិការដែលរុញដោយដៃ | រទេះជនពិការ | លទ្ធភាព​ទទួលបាន | បុរសជិះ​រទេះជនពិការដែលរុញដោយដៃ</string>
+	<key>📃</key>
+	<string>ក្រដាស | សន្លឹកក្រដាស | សន្លឹកក្រដាសរមូលពីក្រោម | សន្លឹកក្រដាសរមូលពីក្រោម</string>
+	<key>🖊️</key>
+	<string>ballpoint pen</string>
+	<key>📄</key>
+	<string>ក្រដាស | សន្លឹកក្រដាស | សន្លឹកក្រដាសផ្ងារ | សន្លឹកក្រដាសផ្ងារ</string>
+	<key>🇱🇻</key>
+	<string>flag of Latvia</string>
+	<key>🇹🇼</key>
+	<string>flag of Taiwan</string>
+	<key>📅</key>
+	<string>កាលបរិច្ឆេទ | ប្រតិទិន | ប្រតិទិន</string>
+	<key>🤼‍♀️</key>
+	<string>women wrestling</string>
+	<key>📆</key>
+	<string>ប្រតិទិន | សន្លឹកប្រតិទិនដែលត្រូវហែកចេញ | សន្លឹកប្រតិទិនដែលត្រូវហែកចេញ</string>
+	<key>🇵🇼</key>
+	<string>flag of Palau</string>
+	<key>📇</key>
+	<string>កាត | ប្រដាប់ព្យួរកាត | ប្រដាប់ព្យួរកាត</string>
+	<key>📈</key>
+	<string>កំណើន​ | តារាង | តារាងកំណើន​ | តារាងកំណើន​</string>
+	<key>🧑‍🔧</key>
+	<string>ជាងទុយោ | ជាងម៉ាស៊ីន | ជាងអគ្គិសនី | ឈ្មួញ | ជាងម៉ាស៊ីន</string>
+	<key>📉</key>
+	<string>តារាង | តារាងធ្លាក់ចុះ | ធ្លាក់ចុះ | តារាងធ្លាក់ចុះ</string>
+	<key>〰️</key>
+	<string>wavy dash</string>
+	<key>📊</key>
+	<string>ក្រាហ្វ | គំនូសតាង | តារាងជារបា | របារ | តារាងជារបា</string>
+	<key>📋</key>
+	<string>ក្តារកៀប | ក្តារកៀបក្រដាសសម្រាប់សរសេរ | ក្រដាស | ក្តារកៀបក្រដាសសម្រាប់សរសេរ</string>
+	<key>☣️</key>
+	<string>biohazard</string>
+	<key>📌</key>
+	<string>ម្ជុល | ម្ជុលដោត | ម្ជុលដោតលើក្តារជូនដំណឹង | ម្ជុលដោតលើក្តារជូនដំណឹង</string>
+	<key>♻️</key>
+	<string>recycling symbol</string>
+	<key>📍</key>
+	<string>ម្ជុល | ម្ជុលដោត | ម្ជុលដោតក្បាលមូល | ម្ជុលដោតក្បាលមូល</string>
+	<key>🇵🇾</key>
+	<string>flag of Paraguay</string>
+	<key>⛓️</key>
+	<string>chains</string>
+	<key>📎</key>
+	<string>ឃ្នាប | ឃ្នាបក្រដាស | ឃ្នាបក្រដាស</string>
+	<key>🧎‍♂️</key>
+	<string>man kneeling</string>
+	<key>🇱🇾</key>
+	<string>flag of Libya</string>
+	<key>📏</key>
+	<string>ត្រង់ | បន្ទាត់ | បន្ទាត់ត្រង់ | បន្ទាត់ត្រង់</string>
+	<key>🇹🇿</key>
+	<string>flag of Tanzania</string>
+	<key>📐</key>
+	<string>បន្ទាត់ | បន្ទាត់រាងត្រីកោន | រាងត្រីកោន | បន្ទាត់រាងត្រីកោន</string>
+	<key>📑</key>
+	<string>ចំណាំ | ទំព័រមានបន្ទះសៀតចំណាំ | បន្ទះសៀតចំណាំ | សម្គាល់ | សៀតចំណាំ | ទំព័រមានបន្ទះសៀតចំណាំ</string>
+	<key>📒</key>
+	<string>កូនសៀវភៅ | សៀវភៅ | សៀវភៅកត់ត្រា | សៀវភៅបញ្ជី | សៀវភៅបញ្ជី</string>
+	<key>📓</key>
+	<string>កូនសៀវភៅ | សៀវភៅ | សៀវភៅកត់ត្រា | សៀវភៅកត់ត្រា</string>
+	<key>👩‍🤝‍👩</key>
+	<string>women holding hands</string>
+	<key>📔</key>
+	<string>កូនសៀវភៅ | សៀវភៅ | សៀវភៅកត់ត្រា | សៀវភៅកត់ត្រាមានក្រប | សៀវភៅកត់ត្រាមានក្រប</string>
+	<key>🇩🇿</key>
+	<string>flag of Algeria</string>
+	<key>📕</key>
+	<string>បិទ | សៀវភៅ | សៀវភៅបិទ | សៀវភៅបិទ</string>
+	<key>📖</key>
+	<string>បើក | សៀវភៅ | សៀវភៅបើក | សៀវភៅបើក</string>
+	<key>📗</key>
+	<string>បៃតង | សៀវភៅ | សៀវភៅក្របពណ៌បៃតង | សៀវភៅក្របពណ៌បៃតង</string>
+	<key>🖌️</key>
+	<string>paintbrush</string>
+	<key>📘</key>
+	<string>ខៀវ | សៀវភៅ | សៀវភៅក្របពណ៌ខៀវ | សៀវភៅក្របពណ៌ខៀវ</string>
+	<key>📙</key>
+	<string>ទឹកក្រូច | សៀវភៅ | សៀវភៅក្របពណ៌ទឹកក្រូច | សៀវភៅក្របពណ៌ទឹកក្រូច</string>
+	<key>👩‍👩‍👦</key>
+	<string>family with two mothers and son</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>family with two fathers and two daughters</string>
+	<key>📚</key>
+	<string>កូនសៀវភៅ | គំនរសៀវភៅ | សៀវភៅ | សៀវភៅកត់ត្រា | សៀវភៅបីត្រួតលើគ្នា | សៀវភៅបីត្រួតលើគ្នា</string>
+	<key>📛</key>
+	<string>ឈ្មោះ | សញ្ញាស្លាកឈ្មោះ | ស្លាក | សញ្ញាស្លាកឈ្មោះ</string>
+	<key>📜</key>
+	<string>ក្រដាស | សន្លឹកក្រដាស | សន្លឹកក្រដាសរមូលពីខាងលើនិងខាងក្រោម | សន្លឹកក្រដាសរមូលពីខាងលើនិងខាងក្រោម</string>
+	<key>📝</key>
+	<string>ក្រដាស | ខ្មៅដៃ | ខ្មៅដៃកំពុងសរសេរលើក្រដាស | សរសេរ | ខ្មៅដៃកំពុងសរសេរលើក្រដាស</string>
+	<key>↖️</key>
+	<string>up-left arrow</string>
+	<key>🤦‍♂️</key>
+	<string>man facepalming</string>
+	<key>📞</key>
+	<string>ដៃទូរស័ព្ទ | ទូរសព្ទ | ទូរស័ព្ទ | ដៃទូរស័ព្ទ</string>
+	<key>👩‍🎓</key>
+	<string>និស្សិត | បញ្ចប់ការសិក្សា | សិស្សស្រី | ស្រី | សិស្សស្រី</string>
+	<key>👩‍🚒</key>
+	<string>នារី | ស្រី | ឡានទឹក | អ្នកពន្លត់អគ្គិភ័យ | អ្នកពន្លត់អគ្គិភ័យស្រី | អ្នកពន្លត់អគ្គិភ័យស្រី</string>
+	<key>⤴️</key>
+	<string>right arrow curving up</string>
+	<key>👨‍🔧</key>
+	<string>ជាង | ជាងទុយោ | ជាងភ្លើង | ជាងម៉ាស៊ីន | ជាងម៉ាស៊ីនប្រុស | ឈ្មួញ | បុរស | ប្រុស | ជាងម៉ាស៊ីនប្រុស</string>
+	<key>📟</key>
+	<string>ប្រាប់ដំណឹង | ឧបករណ៍ | ឧបករណ៍ប្រាប់ដំណឹង | ឧបករណ៍ប្រាប់ដំណឹង</string>
+	<key>☕️</key>
+	<string>hot beverage</string>
+	<key>📠</key>
+	<string>ម៉ាស៊ីន | ម៉ាស៊ីនហ្វាក់ | ម៉ាស៊ីនហ្វាក់</string>
+	<key>📡</key>
+	<string>ចានផ្កាយរណប | ផ្កាយរណប | អង់តែន | ចានផ្កាយរណប</string>
+	<key>⛅️</key>
+	<string>sun behind cloud</string>
+	<key>📢</key>
+	<string>បំពងសម្លេង | មីក្រូ | មីក្រូបំពងសម្លេង | មីក្រូបំពងសម្លេង</string>
+	<key>🧑‍🌾</key>
+	<string>កសិករ | ម្ចាស់កសិដ្ឋាន | អ្នកថែសួន | កសិករ</string>
+	<key>✝️</key>
+	<string>Latin cross</string>
+	<key>📣</key>
+	<string>បំពងសម្លេង | លឺខ្លាំង | ឧបករណ៍ជួយបំពងសម្លេង | ឧបករណ៍ជួយបំពងសម្លេង</string>
+	<key>📤</key>
+	<string>ថត | ថតដាក់ឯកសារចេញ | បានផ្ញើ | ប្រអប់ | ប្រអប់សារចេញ | សំបុត្រ | សារ | ថតដាក់ឯកសារចេញ</string>
+	<key>📥</key>
+	<string>ថត | ថតដាក់ឯកសារចូល | ទទួល | ប្រអប់ | ប្រអប់សារចូល | សំបុត្រ | សារ | ថតដាក់ឯកសារចូល</string>
+	<key>📦</key>
+	<string>កញ្ចប់ | កេះ | ប្រអប់ | កញ្ចប់</string>
+	<key>📧</key>
+	<string>ផ្ញើអ៊ីមែល | អ៊ីមែល | អ៊ីមែល</string>
+	<key>📨</key>
+	<string>ចូល | ទទួល | សំបុត្រ | ស្រោមសំបុត្រ | ស្រោមសំបុត្រហោះមកដល់ | អ៊ីមែល | អ៊ីម៉ែល | ស្រោមសំបុត្រហោះមកដល់</string>
+	<key>📩</key>
+	<string>ចេញ | សញ្ញាព្រួញ | ស្រោមសំបុត្រ | ស្រោមសំបុត្រ​មានសញ្ញាព្រួញ | ស្រោមសំបុត្រមានសញ្ញាព្រួញចុះក្រោម | អ៊ីមែល | អ៊ីម៉ែល | ស្រោមសំបុត្រមានសញ្ញាព្រួញចុះក្រោម</string>
+	<key>▶️</key>
+	<string>right-pointing triangle</string>
+	<key>🧑‍🔬</key>
+	<string>គីមីវិទូ | ជីវវិទូ | រូបវិទូ | វិស្វករ | អ្នកវិទ្យាសាស្ត្រ | អ្នកវិទ្យាសាស្ត្រ</string>
+	<key>📪</key>
+	<string>ប្រអប់សំបុត្យបិទនិងមានទង់ជាតិតូចផ្តេក | ប្រអប់សំបុត្រ | ប្រអប់សំបុត្យបិទនិងមានទង់ជាតិតូចផ្តេក</string>
+	<key>☎️</key>
+	<string>telephone</string>
+	<key>🈷️</key>
+	<string>Japanese sign meaning “monthly amount”</string>
+	<key>♦️</key>
+	<string>diamonds suit</string>
+	<key>📫</key>
+	<string>ប្រអប់សំបុត្យបិទនិងមានទង់ជាតិតូចបញ្ឈរ | ប្រអប់សំបុត្រ | ប្រអប់សំបុត្យបិទនិងមានទង់ជាតិតូចបញ្ឈរ</string>
+	<key>📬</key>
+	<string>ប្រអប់សំបុត្រ | ប្រអប់សំបុត្របើកនិងមានទង់ជាតិតូចបញ្ឈរ | ប្រអប់សំបុត្របើកនិងមានទង់ជាតិតូចបញ្ឈរ</string>
+	<key>⚾️</key>
+	<string>baseball</string>
+	<key>📭</key>
+	<string>ប្រអប់សំបុត្រ | ប្រអប់សំបុត្របើកនិងមានទង់ជាតិតូចផ្តេក | ប្រអប់សំបុត្របើកនិងមានទង់ជាតិតូចផ្តេក</string>
+	<key>✖️</key>
+	<string>multiplication symbol</string>
+	<key>📮</key>
+	<string>ប្រអប់ប្រៃសណីយ៍ | ប្រអប់សំបុត្រ | សំបុត្រ | ប្រអប់ប្រៃសណីយ៍</string>
+	<key>📯</key>
+	<string>ត្រែ | ផ្លុំ | ត្រែ</string>
+	<key>🏄‍♀️</key>
+	<string>woman surfer</string>
+	<key>📰</key>
+	<string>កាសែត | កាសែត</string>
+	<key>📱</key>
+	<string>ទូរស័ព្ចល័ត | ទូរសព្ទ | ទូរសព្ទចល័ត | ទូរសព្ទដៃ | ទូរស័ព្ទដៃ | ទូរស័ព្ទទ | ទូរស័ព្ទស្មាតហ្វូន | ទូរស័ព្ទស្មាតហ្វូន</string>
+	<key>🎗️</key>
+	<string>reminder ribbon</string>
+	<key>📲</key>
+	<string>ទូរសព្ទ | ទូរស័ព្ទ | ទូរសព្ទចល័ត | ទូរស័ព្ទដៃ | ទូរសព្ទដៃ​ជាមួយសញ្ញាព្រួញ | ទូរស័ព្ទស្មាតហ្វូនមានសញ្ញាព្រួញទៅឆ្វេង | សញ្ញាព្រួញ | ស្មាតហ្វូន | ទូរស័ព្ទស្មាតហ្វូនមានសញ្ញាព្រួញទៅឆ្វេង</string>
+	<key>📳</key>
+	<string>ញ័រ | ទូរសព្ទ | សញ្ញា | សញ្ញាទូរសព្ទញ័រ | សញ្ញាទូរសព្ទញ័រ</string>
+	<key>📴</key>
+	<string>ទូរសព្ទ | បិទ | សញ្ញា | សញ្ញាទូរសព្ទបិទ | សញ្ញាទូរសព្ទបិទ</string>
+	<key>📵</key>
+	<string>ឃាត់ | ទូរស័ព្ទ | សញ្ញា | សញ្ញាហាមឃាត់ចំពោះទូរស័ព្ទ | ហាម | សញ្ញាហាមឃាត់ចំពោះទូរស័ព្ទ</string>
+	<key>♟️</key>
+	<string>chess pawn</string>
+	<key>📶</key>
+	<string>ទូរសព្ទ | ទូរសព្ទចល័ត | ទូរសព្ទដៃ | របាកម្រិតសេវាទូរសព្ទ | របារ | របារសេវា | អង់តែន | របាកម្រិតសេវាទូរសព្ទ</string>
+	<key>📷</key>
+	<string>កាមេរ៉ា​ | ម៉ាស៊ីនថត | កាមេរ៉ា​</string>
+	<key>✏️</key>
+	<string>pencil</string>
+	<key>📸</key>
+	<string>កាមេរ៉ា | កាមេរ៉ាបាញ់ភ្លើងហ្វ្លាស់ | បាញ់ភ្លើង | កាមេរ៉ាបាញ់ភ្លើងហ្វ្លាស់</string>
+	<key>👨‍🌾</key>
+	<string>កសិករ | កសិករប្រុស | បុរស | ប្រុស | អ្នកចម្ការ | កសិករប្រុស</string>
+	<key>📹</key>
+	<string>កាមេរ៉ា | កាមេរ៉ាថតវីដេអូ | វីដេអូ | កាមេរ៉ាថតវីដេអូ</string>
+	<key>📺</key>
+	<string>TV | ទូរទស្សន៍ | វីដេអូ | ទូរទស្សន៍</string>
+	<key>🐻‍❄️</key>
+	<string>polar bear</string>
+	<key>📻</key>
+	<string>រ៉ាឌីយ៉ូ | វីទ្យុ | វីទ្យុ</string>
+	<key>📼</key>
+	<string>កាសែត | កាសែតវីដេអូ | ដុំកាសែតវីដេអូ | ដុំកាសែតវីដេអូ</string>
+	<key>☀️</key>
+	<string>sun</string>
+	<key>📿</key>
+	<string>ខ្សែក | ខ្សែអង្កាំអ្នកបួស | បួងសួង | សម្លៀកបំពាក់ | សាសនា | អង្កាំ | ខ្សែអង្កាំអ្នកបួស</string>
+	<key>👨‍🔬</key>
+	<string>គីមីវិទូ | ជីវវិទូ | បុរស | ប្រុស | រូបវិទូ | វិស្វករ | អ្នកវិទ្យាសាស្ត្រ | អ្នកវិទ្យាសាស្ត្រប្រុស | អ្នកវិទ្យាសាស្ត្រប្រុស</string>
+	<key>🔀</key>
+	<string>ឆ្លាស់ | ប៊ូតុង | ប៊ូតុងឆ្លាស់បទភ្លេង | ប៊ូតុងឆ្លាស់បទភ្លេង</string>
+	<key>🈁</key>
+	<string>កុកុ | ជប៉ុន | ប៊ូតុង | ប៊ូតុងមានអក្សរជប៉ុនពីរអានថា កុកុ | ប៊ូតុងមានអក្សរជប៉ុនពីរអានថា កុកុ</string>
+	<key>⚰️</key>
+	<string>coffin</string>
+	<key>🔁</key>
+	<string>ចាក់ | ប៊ូតុង | ប៊ូតុងចាក់ឡើងវិញ | ឡើងវិញ | ប៊ូតុងចាក់ឡើងវិញ</string>
+	<key>🖐️</key>
+	<string>raised hand with fingers splayed</string>
+	<key>✈️</key>
+	<string>airplane</string>
+	<key>🔂</key>
+	<string>ចាក់ឡើងវិញ | ប៊ូតុង | ប៊ូតុងចាក់ឡើងវិញតែមួយបទ | មួយបទ | ប៊ូតុងចាក់ឡើងវិញតែមួយបទ</string>
+	<key>🗨️</key>
+	<string>left speech bubble</string>
+	<key>🔃</key>
+	<string>ទិស | ទិសដៅ | ព្រួញ | ព្រួញបញ្ឈវវិលតាមទិស​ទ្រនិចនាឡិកា | ព្រួញវិលបញ្ឈរតាមទ្រនិចនាឡិកាក្នុងរាងបួងជ្រុង | ព្រួញបញ្ឈវវិលតាមទិស​ទ្រនិចនាឡិកា</string>
+	<key>🧖‍♀️</key>
+	<string>woman in a sauna</string>
+	<key>🔄</key>
+	<string>ទិស | ទិសដៅ | ព្រួញ | ព្រួញវិលជារង្វង់ច្រាសទ្រនិចនាឡិកាក្នុងរាងបួងជ្រុង | ព្រួញវិលជារង្វង់ច្រាសទ្រនិចនាឡិកាក្នុងរាងបួងជ្រុង</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>family with two mothers and two sons</string>
+	<key>👩‍⚕️</key>
+	<string>woman health worker</string>
+	<key>™️</key>
+	<string>trade mark sign</string>
+	<key>🔅</key>
+	<string>​ ខ្សោយ | ភ្លឺ | ភ្លឺខ្សោយ | ភ្លឺខ្សោយ</string>
+	<key>🔆</key>
+	<string>ខ្លាំង | ភ្លឺ | ភ្លឺខ្លាំង | ភ្លឺខ្លាំង</string>
+	<key>🎙️</key>
+	<string>studio microphone</string>
+	<key>🔇</key>
+	<string>បាសបិទ | បាសមានឆ្នូតក្រហម (បិទសម្លេង) | បិទ | ស្ងាត់ | បាសមានឆ្នូតក្រហម (បិទសម្លេង)</string>
+	<key>🔈</key>
+	<string>បាស​ | សម្លេង | បាស​</string>
+	<key>🛰️</key>
+	<string>satellite</string>
+	<key>🔉</key>
+	<string>បាសបើក | បើក | បាសបើក</string>
+	<key>♑️</key>
+	<string>Capricorn</string>
+	<key>🔊</key>
+	<string>បាស | បាសបើកខ្លាំង | បើកខ្លាំង | បាសបើកខ្លាំង</string>
+	<key>🔋</key>
+	<string>ថ្ម | ថ្មពិល | ថ្មពិល</string>
+	<key>🔌</key>
+	<string>ឌុយ | ឌុយដោត | ឌុយដោត</string>
+	<key>👩‍👩‍👧</key>
+	<string>family with two mothers and daughter</string>
+	<key>🔍</key>
+	<string>កែវពង្រីក | កែវពង្រីកទ្រេតទៅឆ្វេង | ពង្រីក | កែវពង្រីកទ្រេតទៅឆ្វេង</string>
+	<key>🔎</key>
+	<string>កែវពង្រីក | កែវពង្រីកទ្រេតទៅស្តាំ | ពង្រីក | កែវពង្រីកទ្រេតទៅស្តាំ</string>
+	<key>🔏</key>
+	<string>ចាក់សោ | ប៊ិច | យកប៊ិចចាក់សោ | យកប៊ិចចាក់សោ</string>
+	<key>🔐</key>
+	<string>កូនសោ | ចាក់សោ | ចាក់សោជាប់ដោយប្រើកូនសោ | ចាក់សោជាប់ដោយប្រើកូនសោ</string>
+	<key>🔑</key>
+	<string>កូនសោ | សោ | សោ</string>
+	<key>🔒</key>
+	<string>មេសោ | មេសោជាប់ | មេសោជាប់</string>
+	<key>🔓</key>
+	<string>ដោះសោ | មេសោ | មេសោដោះ | មេសោដោះ</string>
+	<key>♊️</key>
+	<string>Gemini</string>
+	<key>🔔</key>
+	<string>កណ្តឹង | ជួង | កណ្តឹង</string>
+	<key>🔕</key>
+	<string>កណ្ដឹង | កណ្ដឹងមានឆ្នូតពីលើ | ជួង | ជួងមានឆ្នូតក្រហម | បិទសំឡេង | ស្ងាត់ | ជួងមានឆ្នូតក្រហម</string>
+	<key>⛺️</key>
+	<string>tent</string>
+	<key>🔖</key>
+	<string>ចំណាំទំព័រ | ប្រដាប់សៀត | ប្រដាប់សៀតចំណាំទំព័រ | ប្រដាប់សៀតចំណាំទំព័រ</string>
+	<key>🔗</key>
+	<string>តំណ | តំណ</string>
+	<key>🔘</key>
+	<string>ប៊ូតុង | ប៊ូតុងមូល | ប៊ូតុងមូលផុសចេញពីប៊ូតុងធំ | ផុស | ប៊ូតុងមូលផុសចេញពីប៊ូតុងធំ</string>
+	<key>🔙</key>
+	<string>ថយក្រោយ | ព្រួញ | ព្រួញទៅឆ្វេងមានអក្សរ Back នៅពីក្រោម | ព្រួញអក្សរ BACK | ព្រួញទៅឆ្វេងមានអក្សរ Back នៅពីក្រោម</string>
+	<key>🔚</key>
+	<string>END | ព្រួញ | ព្រួញទៅឆ្វេងមានអក្សរ End នៅពីក្រោម | ព្រួញទៅឆ្វេងមានអក្សរ End នៅពីក្រោម</string>
+	<key>🔛</key>
+	<string>ON! | ព្រួញ | ព្រួញទៅឆ្វេងទៅស្តាំមានអក្សរ ON នៅពីក្រោម | ព្រួញទៅឆ្វេងទៅស្តាំមានអក្សរ ON នៅពីក្រោម</string>
+	<key>🎛️</key>
+	<string>control knobs</string>
+	<key>🔜</key>
+	<string>SOON | ព្រួញ | ព្រួញទៅស្តាំមានអក្សរ Soon នៅពីក្រោម | ព្រួញទៅស្តាំមានអក្សរ Soon នៅពីក្រោម</string>
+	<key>🏳️</key>
+	<string>white flag</string>
+	<key>🔝</key>
+	<string>TOP | ព្រួញ | ព្រួញទៅលើមានអក្សរ Top នៅពីក្រោម | ព្រួញទៅលើមានអក្សរ Top នៅពីក្រោម</string>
+	<key>🔞</key>
+	<string>១៨ ឆ្នាំ | ការដាក់កំហិតអាយុ | មិនគ្រប់អាយុ | សញ្ញាហាមចំពោះអ្នកមានអាយុក្រោម ១៨ ឆ្នាំ | សញ្ញាហាមចំពោះអ្នកមានអាយុក្រោម១៨ឆ្នាំ | សញ្ញាហាាមចំពោះអ្នកមានអាយុក្រោម១៨ឆ្នាំ | ហាម | សញ្ញាហាមចំពោះអ្នកមានអាយុក្រោម១៨ឆ្នាំ</string>
+	<key>🔟</key>
+	<string>keycap ten</string>
+	<key>⚛️</key>
+	<string>atom symbol</string>
+	<key>🔠</key>
+	<string>ABCD | បញ្ចូល | ប៊ូតុងបញ្ចូលអក្សរធំ | ឡាតាំង | អក្សរ | អក្សរធំ | ប៊ូតុងបញ្ចូលអក្សរធំ</string>
+	<key>⛳️</key>
+	<string>golf hole with flag</string>
+	<key>🔡</key>
+	<string>abcd | បញ្ចូល | ប៊ូតុងបញ្ចូលអក្សរតូច | ឡាតាំង | អក្សរ | អក្សរតូច | ប៊ូតុងបញ្ចូលអក្សរតូច</string>
+	<key>🤽‍♂️</key>
+	<string>man playing water polo</string>
+	<key>🔢</key>
+	<string>1234 | បញ្ចូល | ប៊ូតុងបញ្ចូលលេខ | លេខ | ប៊ូតុងបញ្ចូលលេខ</string>
+	<key>🔣</key>
+	<string>បញ្ចូល | ប៊ូតុង | ប៊ូតុងបញ្ចូលសញ្ញា | សញ្ញា | ប៊ូតុងបញ្ចូលសញ្ញា</string>
+	<key>🔤</key>
+	<string>abc | បញ្ចូល | ប៊ូតុងបញ្ចូលអក្សរឡាតាំង | ឡាតាំង | អក្ខរក្រម | អក្សរ | ប៊ូតុងបញ្ចូលអក្សរឡាតាំង</string>
+	<key>🔥</key>
+	<string>ភ្លើង | អគ្គី | ភ្លើង</string>
+	<key>🔦</key>
+	<string>ពន្លឺ | ពិល | ភ្លើង | ភ្លើងពិល | អគ្គិសនី | ពិល</string>
+	<key>🔧</key>
+	<string>សោមូល | សោសម្រាប់មួលខ្ចៅ | សោសម្រាប់មួលខ្ចៅ</string>
+	<key>🔨</key>
+	<string>ញញួរ | ឧបករណ៍ | ញញួរ</string>
+	<key>🔩</key>
+	<string>ក្បាលឡោស៊ី | ខ្ចៅ | ខ្ចៅនិងក្បាលឡោស៊ី | ខ្ចៅនិងក្បាលឡោស៊ី</string>
+	<key>⚔️</key>
+	<string>crossed swords</string>
+	<key>🔪</key>
+	<string>កាំបិទ | កាំបិទចិតបន្លែ | កាំបិទចិតបន្លែ</string>
+	<key>🔫</key>
+	<string>កាំភ្លើង | កាំភ្លើងខ្លី | កាំភ្លើងបាញ់ទឹក | អាវុធ | ឧបករណ៍ | កាំភ្លើងបាញ់ទឹក</string>
+	<key>❄️</key>
+	<string>snowflake</string>
+	<key>🔬</key>
+	<string>ឆ្លុះ | មីក្រូទស្សន៍ | មីក្រូទស្សន៍</string>
+	<key>💁‍♀️</key>
+	<string>information desk woman</string>
+	<key>🔭</key>
+	<string>​ មើលព្រះច័ន្ទ | កែវយិត | កែវយិតមើលព្រះចន្ទ | កែវយិតមើលព្រះចន្ទ</string>
+	<key>🔮</key>
+	<string>កែវចរណៃ | ជោគវាសនា | បាល់ | បាល់ចរណៃ | បាល់ចរណៃ</string>
+	<key>🧔‍♂️</key>
+	<string>bearded man</string>
+	<key>🔯</key>
+	<string>ប្រាំមួយ | ផ្កាយ | សញ្ញា | សញ្ញាផ្កាយមុខប្រាំមួយ | សញ្ញាផ្កាយមុខប្រាំមួយ</string>
+	<key>🔰</key>
+	<string>ព្រួញ | សញ្ញា | សញ្ញាបន្ទះសញ្ញាព្រួញចុះក្រោម (សម្គាល់អ្នកចាប់ផ្តើមដំបូង) | សញ្ញាបន្ទះសញ្ញាព្រួញចុះក្រោម (សម្គាល់អ្នកចាប់ផ្តើមដំបូង)</string>
+	<key>🔱</key>
+	<string>មុខបី | លំពែង | សញ្ញា | សញ្ញាដូចលំពែងមុខបី | សញ្ញាដូចលំពែងមុខបី</string>
+	<key>🈲</key>
+	<string>ប៊ូតុង | ប៊ូតុងមានអក្សរចិនប្រែថា ហាម | ហាម | អក្សរចិន | ប៊ូតុងមានអក្សរចិនប្រែថា ហាម</string>
+	<key>🏵️</key>
+	<string>rosette</string>
+	<key>🔲</key>
+	<string>ខ្មៅ | បួនជ្រុង | បួនជ្រុងពណ៌សនៅក្នុងបួនជ្រុងពណ៌ខ្មៅ | ស | បួនជ្រុងពណ៌សនៅក្នុងបួនជ្រុងពណ៌ខ្មៅ</string>
+	<key>🈳</key>
+	<string>ទទេ | ប៊ូតុង | ប៊ូតុងមានអក្សរចិនប្រែថា ទទេ | អក្សរចិន | ប៊ូតុងមានអក្សរចិនប្រែថា ទទេ</string>
+	<key>🔳</key>
+	<string>ខ្មៅ | បួនជ្រុង | បួនជ្រុងពណ៌ខ្មៅនៅក្នុងបួនជ្រុងពណ៌ស | ស | បួនជ្រុងពណ៌ខ្មៅនៅក្នុងបួនជ្រុងពណ៌ស</string>
+	<key>🈴</key>
+	<string>ប៊ូតុង | ប៊ូតុងមានអក្សរចិនប្រែថា រួមគ្នា | រួមគ្នា | អក្សរចិន | ប៊ូតុងមានអក្សរចិនប្រែថា រួមគ្នា</string>
+	<key>🧙‍♀️</key>
+	<string>woman mage</string>
+	<key>🔴</key>
+	<string>ក្រហម | ធរណីមាត្រ | រង្វង់ | រង្វង់ពណ៌ក្រហម | រង្វង់ពណ៌ក្រហម</string>
+	<key>🈵</key>
+	<string>ប៊ូតុង | ប៊ូតុងមានអក្សរចិនប្រែថា ភាពពេញលេញ | ពេញ | ពេញលេញ | អក្សរចិន | ប៊ូតុងមានអក្សរចិនប្រែថា ភាពពេញលេញ</string>
+	<key>🔵</key>
+	<string>ខៀវ | ធរណីមាត្រ | រង្វង់ | រង្វង់ពណ៌ខៀវ | រង្វង់ពណ៌ខៀវ</string>
+	<key>🈶</key>
+	<string>កើតមាន | ប៊ូតុង | ប៊ូតុងមានអក្សរចិនប្រែថា កើតមាន | អក្សរចិន | ប៊ូតុងមានអក្សរចិនប្រែថា កើតមាន</string>
+	<key>🔶</key>
+	<string>ទឹកក្រូច | ធំ | ពេជ្រ | ពេជ្រធំពណ៌ទឹកក្រូច | ពេជ្រធំពណ៌ទឹកក្រូច</string>
+	<key>🔷</key>
+	<string>​ ធំ | ខៀវ | ពេជ្រ | ពេជ្រធំពណ៌ខៀវ | ពេជ្រធំពណ៌ខៀវ</string>
+	<key>🈸</key>
+	<string>ដាក់ពាក្យ | ប៊ូតុង | ប៊ូតុងមានអក្សរចិនប្រែថា អនុវត្តឬដាក់ពាក្យ | អក្សរចិន | អនុវត្ត | ប៊ូតុងមានអក្សរចិនប្រែថា អនុវត្តឬដាក់ពាក្យ</string>
+	<key>🔸</key>
+	<string>តូច | ទឹកក្រូច | ពេជ្រ | ពេជ្រតូចពណ៌ទឹកក្រូច | ពេជ្រតូចពណ៌ទឹកក្រូច</string>
+	<key>🈹</key>
+	<string>“បញ្ចុះតម្លៃ” | ជប៉ុន | ប៊ូតុង “បញ្ចុះតម្លៃ” ជាភាសាជប៉ុន | 割 | ជប៉ុន</string>
+	<key>🔹</key>
+	<string>ខៀវ | តូច | ពេជ្រ | ពេជ្រតូចពណ៌ខៀវ | ពេជ្រតូចពណ៌ខៀវ</string>
+	<key>9️⃣</key>
+	<string>keycap digit nine</string>
+	<key>🈺</key>
+	<string>ប៊ូតុង | ប៊ូតុងមានអក្សរចិនប្រែថា ប្រតិបត្តិការ | ប្រតិបត្តិការ | អក្សរចិន | ប៊ូតុងមានអក្សរចិនប្រែថា ប្រតិបត្តិការ</string>
+	<key>🔺</key>
+	<string>ក្រហម | ត្រីកោន | ត្រីកោនក្រហមកំពូលទៅលើ | លើ | ត្រីកោនក្រហមកំពូលទៅលើ</string>
+	<key>🔻</key>
+	<string>ក្រហម | ក្រោម | ត្រីកោន | ត្រីកោនក្រហមកំពូលចុះក្រោម | ត្រីកោនក្រហមកំពូលចុះក្រោម</string>
+	<key>🀄️</key>
+	<string>mahjong tile red dragon</string>
+	<key>🔼</key>
+	<string>ទៅលើ | ប៊ូតុង | ប៊ូតុងទៅលើ | ប៊ូតុងទៅលើ</string>
+	<key>🚵‍♀️</key>
+	<string>woman mountain biker</string>
+	<key>☮️</key>
+	<string>peace symbol</string>
+	<key>🔽</key>
+	<string>ចុះក្រោម | ប៊ូតុង | ប៊ូតុងចុះក្រោម | ប៊ូតុងចុះក្រោម</string>
+	<key>👨‍👦‍👦</key>
+	<string>family with father and two sons</string>
+	<key>⬅️</key>
+	<string>left arrow</string>
+	<key>⛎</key>
+	<string>ពស់ | ម្សាញ់ | សញ្ញាតារាសស្ត្រអ៊ឺរ៉ុបប្រភទទី១៣ ពស់ | សញ្ញាតារាសាស្ត្រអ៊ឺរ៉ុបប្រភទទី១៣ ពស់ | សញ្ញាតារាសាស្ត្រអ៊ឺរ៉ុបប្រភទទី១៣ ពស់</string>
+	<key>🎟️</key>
+	<string>admission ticket</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>family with two mothers and two daughters</string>
+	<key>🏷️</key>
+	<string>label tag</string>
+	<key>2️⃣</key>
+	<string>keycap digit two</string>
+	<key>♿️</key>
+	<string>wheelchair symbol</string>
+	<key>👰‍♀️</key>
+	<string>woman with veil</string>
+	<key>🗃️</key>
+	<string>card file box</string>
+	<key>🕋</key>
+	<string>វិហារ | វិហារកាបា (សាសនាអ៊ីស្លាម) | សាសនា | វិហារកាបា (សាសនាអ៊ីស្លាម)</string>
+	<key>🕌</key>
+	<string>វិហារ | វិហារអ៊ីស្លាម | សាសនា | អ៊ីស្លាម | វិហារអ៊ីស្លាម</string>
+	<key>🕍</key>
+	<string>វិហារ | វិហារជនជាតិជ្វីស | វិហារជនជាតិជ្វីស</string>
+	<key>🕎</key>
+	<string>ជើងទៀន | សញ្ញា | សញ្ញាជើងទៀនជាជួរ | សញ្ញាជើងទៀនជាជួរ</string>
+	<key>👩‍🎤</key>
+	<string>តារា | តួសម្តែង | ស្រី | អ្នកចម្រៀង | អ្នកចម្រៀងស្រី | អ្នកចម្រៀងស្រី</string>
+	<key>🉐</key>
+	<string>ក្នុងរង្វង់ | ក្នុងរង្វង់មានអក្សរចិនប្រែថា ផលប្រយោជន៍ | ប្រយោជន៍ | អក្សរចិន | ក្នុងរង្វង់មានអក្សរចិនប្រែថា ផលប្រយោជន៍</string>
+	<key>🏌️</key>
+	<string>golfer</string>
+	<key>🛋️</key>
+	<string>couch and lamp</string>
+	<key>🕐</key>
+	<string>ម៉ោង | ម៉ោងមួយគត់ | ម៉ោងមួយគត់</string>
+	<key>🏊‍♀️</key>
+	<string>woman swimmer</string>
+	<key>🉑</key>
+	<string>ក្នុងរង្វង់មានអក្សរចិនប្រែថា ទទួល | ទទួល | ប៊ូតុង | អក្សរចិន | ក្នុងរង្វង់មានអក្សរចិនប្រែថា ទទួល</string>
+	<key>☠️</key>
+	<string>skull and crossbones</string>
+	<key>🕑</key>
+	<string>ម៉ោង | ម៉ោងពីរគត់ | ម៉ោងពីរគត់</string>
+	<key>🕒</key>
+	<string>ម៉ោង | ម៉ោងបីគត់ | ម៉ោងបីគត់</string>
+	<key>🏋️‍♀️</key>
+	<string>woman weightlifter</string>
+	<key>🕓</key>
+	<string>ម៉ោង | ម៉ោងបួនគត់ | ម៉ោងបួនគត់</string>
+	<key>🕔</key>
+	<string>ម៉ោង | ម៉ោងប្រាំគត់ | ម៉ោងប្រាំគត់</string>
+	<key>🕕</key>
+	<string>ម៉ោង | ម៉ោងប្រាំមួយគត់ | ម៉ោងប្រាំមួយគត់</string>
+	<key>🕖</key>
+	<string>ម៉ោង | ម៉ោងប្រាំពីរគត់ | ម៉ោងប្រាំពីរគត់</string>
+	<key>🙆‍♀️</key>
+	<string>woman gesturing OK</string>
+	<key>🕗</key>
+	<string>ម៉ោង | ម៉ោងប្រាំបីគត់ | ម៉ោងប្រាំបីគត់</string>
+	<key>🕘</key>
+	<string>ម៉ោង | ម៉ោងប្រាំបួន | ម៉ោងប្រាំបួន</string>
+	<key>🕙</key>
+	<string>ម៉ោង | ម៉ោងដប់់គត់ | ម៉ោងដប់់គត់</string>
+	<key>🕚</key>
+	<string>ម៉ោង | ម៉ោងដប់មួយគត់ | ម៉ោងដប់មួយគត់</string>
+	<key>🕛</key>
+	<string>00 | 12 | 12:00 | ម៉ោង | ម៉ោងដប់ពីរ | ម៉ោងដប់ពីរ</string>
+	<key>🕜</key>
+	<string>ម៉ោង | ម៉ោងមួយកន្លះ | ម៉ោងមួយកន្លះ</string>
+	<key>🇺🇦</key>
+	<string>flag of Ukraine</string>
+	<key>🕝</key>
+	<string>ម៉ោង | ម៉ោងពីរកន្លះ | ម៉ោងពីរកន្លះ</string>
+	<key>🇶🇦</key>
+	<string>flag of Qatar</string>
+	<key>🕞</key>
+	<string>ម៉ោង | ម៉ោងបីកន្លះ | ម៉ោងបីកន្លះ</string>
+	<key>✡️</key>
+	<string>Star of David</string>
+	<key>🇲🇦</key>
+	<string>flag of Morocco</string>
+	<key>🕟</key>
+	<string>ម៉ោង | ម៉ោងបួនកន្លះ | ម៉ោងបួនកន្លះ</string>
+	<key>🧗‍♂️</key>
+	<string>man rock climber</string>
+	<key>🕠</key>
+	<string>ម៉ោង | ម៉ោងប្រាំកន្លះ | ម៉ោងប្រាំកន្លះ</string>
+	<key>🕡</key>
+	<string>ម៉ោង | ម៉ោងប្រាំមួយកន្លះ | ម៉ោងប្រាំមួយកន្លះ</string>
+	<key>🇪🇦</key>
+	<string>flag of Ceuta and Melilla</string>
+	<key>🕢</key>
+	<string>ម៉ោង | ម៉ោងប្រាំពីរកន្លះ | ម៉ោងប្រាំពីរកន្លះ</string>
+	<key>✅</key>
+	<string>✓ | គ្រីស | ធីក | ប៊ូតុង | សញ្ញា | សញ្ញាគ្រីស | សញ្ញាគ្រីស</string>
+	<key>🕣</key>
+	<string>ម៉ោង | ម៉ោងប្រាំបីកន្លះ | ម៉ោងប្រាំបីកន្លះ</string>
+	<key>🧜‍♀️</key>
+	<string>mermaid</string>
+	<key>🏎️</key>
+	<string>race car</string>
+	<key>🕤</key>
+	<string>ម៉ោង | ម៉ោងប្រាំបួនកន្លះ | ម៉ោងប្រាំបួនកន្លះ</string>
+	<key>🛍️</key>
+	<string>shopping bags</string>
+	<key>🕥</key>
+	<string>ម៉ោង | ម៉ោងដប់កន្លះ | ម៉ោងដប់កន្លះ</string>
+	<key>✊</key>
+	<string>កណ្តាប់ដៃ | ក្តាប់ | ក្តាប់ដៃ | លើកកណ្តាប់ដៃ | លើកកណ្តាប់ដៃ</string>
+	<key>🇲🇨</key>
+	<string>flag of Monaco</string>
+	<key>✋</key>
+	<string>បាតដៃ | លើកដៃ | លើកដៃ</string>
+	<key>🕦</key>
+	<string>ម៉ោង | ម៉ោងដប់មួយកន្លះ | ម៉ោងដប់មួយកន្លះ</string>
+	<key>🕧</key>
+	<string>ម៉ោង | ម៉ោងដប់ពីរកន្លះ | ម៉ោងដប់ពីរកន្លះ</string>
+	<key>🇮🇨</key>
+	<string>flag of the Canary Islands</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>flag of Wales</string>
+	<key>🇾🇪</key>
+	<string>flag of Yemen</string>
+	<key>🇪🇨</key>
+	<string>flag of Ecuador</string>
+	<key>👩‍🎨</key>
+	<string>គំនូរ | ផាត់ពណ៌ | វិចិត្រករ | វិចិត្រការនី | ស្រី | វិចិត្រការនី</string>
+	<key>🇲🇩</key>
+	<string>flag of Moldova</string>
+	<key>🇦🇨</key>
+	<string>flag of Ascension Island</string>
+	<key>🇮🇩</key>
+	<string>flag of Indonesia</string>
+	<key>🇲🇪</key>
+	<string>flag of Montenegro</string>
+	<key>🇦🇩</key>
+	<string>flag of Andorra</string>
+	<key>🇮🇪</key>
+	<string>flag of Ireland</string>
+	<key>🇪🇪</key>
+	<string>flag of Estonia</string>
+	<key>🇲🇫</key>
+	<string>flag of Saint Martin</string>
+	<key>🇺🇬</key>
+	<string>flag of Uganda</string>
+	<key>♣️</key>
+	<string>clubs suit</string>
+	<key>🇦🇪</key>
+	<string>flag of the United Arab Emirates</string>
+	<key>🕯️</key>
+	<string>candle</string>
+	<key>🇲🇬</key>
+	<string>flag of Madagascar</string>
+	<key>🇦🇫</key>
+	<string>flag of Afghanistan</string>
+	<key>👮‍♂️</key>
+	<string>policeman</string>
+	<key>🇪🇬</key>
+	<string>flag of Egypt</string>
+	<key>🇲🇭</key>
+	<string>flag of the Marshall Islands</string>
+	<key>✨</key>
+	<string>* | ចាំងផ្លេកៗ | ចែងចាំង | តារា | ផ្កាយ | ចែងចាំង</string>
+	<key>🇦🇬</key>
+	<string>flag of Antigua &amp; Barbuda</string>
+	<key>🛏️</key>
+	<string>bed</string>
+	<key>👳‍♀️</key>
+	<string>woman with turban</string>
+	<key>🇪🇭</key>
+	<string>flag of Western Sahara</string>
+	<key>☄️</key>
+	<string>comet</string>
+	<key>🕺</key>
+	<string>បុរស | បុុរសកំពុងរាំ | រាំ | បុុរសកំពុងរាំ</string>
+	<key>✌️</key>
+	<string>peace hand sign</string>
+	<key>❤️</key>
+	<string>red heart</string>
+	<key>⏭️</key>
+	<string>skip forward symbol</string>
+	<key>🇦🇮</key>
+	<string>flag of Anguilla</string>
+	<key>🇲🇰</key>
+	<string>flag of North Macedonia</string>
+	<key>◽️</key>
+	<string>white medium small square</string>
+	<key>🇲🇱</key>
+	<string>flag of Mali</string>
+	<key>🈚️</key>
+	<string>Japanese sign meaning “free of charge”</string>
+	<key>🇺🇲</key>
+	<string>flag of United States Minor Outlying Islands</string>
+	<key>🇮🇱</key>
+	<string>flag of Israel</string>
+	<key>🇲🇲</key>
+	<string>flag of Myanmar (Burma)</string>
+	<key>💂‍♂️</key>
+	<string>guardsman</string>
+	<key>🇺🇳</key>
+	<string>flag of the United Nations</string>
+	<key>🇦🇱</key>
+	<string>flag of Albania</string>
+	<key>🧑‍💻</key>
+	<string>សូហ្វវែរ | អ្នកបង្កើតថ្មី | អ្នកបច្ចេកវិទ្យា | អ្នកសរសេរកូដ | អ្នកអភិវឌ្ឍន៍ | អ្នកបច្ចេកវិទ្យា</string>
+	<key>🇮🇲</key>
+	<string>flag of the Isle of Man</string>
+	<key>⛹️‍♂️</key>
+	<string>man basketball player</string>
+	<key>🇲🇳</key>
+	<string>flag of Mongolia</string>
+	<key>🇦🇲</key>
+	<string>flag of Armenia</string>
+	<key>🇮🇳</key>
+	<string>flag of India</string>
+	<key>❌</key>
+	<string>ខ្វែង | ពណ៌ក្រហម | សញ្ញា | សញ្ញាខ្វែង | សញ្ញាខ្វែងពណ៌ក្រហម | សញ្ញាខ្វែង</string>
+	<key>💇‍♀️</key>
+	<string>woman getting a haircut</string>
+	<key>❎</key>
+	<string>× | x | ប៊ូតុងសញ្ញាខ្វែង | បួនជ្រុង | សញ្ញា | ប៊ូតុងសញ្ញាខ្វែង</string>
+	<key>🇲🇴</key>
+	<string>flag of Macao</string>
+	<key>♎️</key>
+	<string>Libra</string>
+	<key>🧚‍♂️</key>
+	<string>man fairy</string>
+	<key>🧑‍💼</key>
+	<string>ធុរកិច្ច | បុគ្គលិកការិយាល័យ | ស្ថាបត្យករ | អ្នកគ្រប់គ្រង | អ្នកធ្វើការក្នុងការិយាល័យ | បុគ្គលិកការិយាល័យ</string>
+	<key>🇮🇴</key>
+	<string>flag of the British Indian Ocean Territory</string>
+	<key>❓</key>
+	<string>? | វណ្ណយុត្ត | សញ្ញា | សញ្ញាសួរ | សួរ | សញ្ញាសួរ</string>
+	<key>❔</key>
+	<string>? | សញ្ញា | សញ្ញាសួរពណ៌ស | សួរ | សញ្ញាសួរពណ៌ស</string>
+	<key>🇲🇵</key>
+	<string>flag of the Northern Mariana Islands</string>
+	<key>❕</key>
+	<string>! | សញ្ញា | សញ្ញាឧទានពណ៌ស | ឧទាន | សញ្ញាឧទានពណ៌ស</string>
+	<key>🇦🇴</key>
+	<string>flag of Angola</string>
+	<key>🧟‍♀️</key>
+	<string>woman zombie</string>
+	<key>🖕</key>
+	<string>ដៃ | ម្រាមដៃ | ម្រាមដៃកណ្ដាល | ម្រាមដៃកណ្តាល | ម្រាមដៃកណ្ដាល</string>
+	<key>🇲🇶</key>
+	<string>flag of Martinique</string>
+	<key>🖖</key>
+	<string>ផ្គុំម្រាមដៃជាពីរគូ | ម្រាមផ្គុំ | ផ្គុំម្រាមដៃជាពីរគូ</string>
+	<key>🇮🇶</key>
+	<string>flag of Iraq</string>
+	<key>🚶‍♂️</key>
+	<string>man pedestrian</string>
+	<key>🇲🇷</key>
+	<string>flag of Mauritania</string>
+	<key>🇺🇸</key>
+	<string>flag of the United States</string>
+	<key>🇦🇶</key>
+	<string>flag of Antarctica</string>
+	<key>🇮🇷</key>
+	<string>flag of Iran</string>
+	<key>🕳️</key>
+	<string>hole</string>
+	<key>⌨️</key>
+	<string>keyboard</string>
+	<key>🇾🇹</key>
+	<string>flag of Mayotte</string>
+	<key>🇪🇷</key>
+	<string>flag of Eritrea</string>
+	<key>⛷️</key>
+	<string>skier</string>
+	<key>🇲🇸</key>
+	<string>flag of Montserrat</string>
+	<key>🇦🇷</key>
+	<string>flag of Argentina</string>
+	<key>🇮🇸</key>
+	<string>flag of Iceland</string>
+	<key>👨‍💻</key>
+	<string>បុរស | អ្នកបច្ចេកវិទ្យា | អ្នកបច្ចេកវិទ្យាប្រុស | អ្នកសសេរកូដ | អ្នកអភិវឌ្ឍកម្មវិធី | អ្នកបច្ចេកវិទ្យាប្រុស</string>
+	<key>🌤️</key>
+	<string>sun behind small cloud</string>
+	<key>🇪🇸</key>
+	<string>flag of Spain</string>
+	<key>🇲🇹</key>
+	<string>flag of Malta</string>
+	<key>🇦🇸</key>
+	<string>flag of American Samoa</string>
+	<key>🇮🇹</key>
+	<string>flag of Italy</string>
+	<key>❤️‍🩹</key>
+	<string>mending heart</string>
+	<key>🏔️</key>
+	<string>snow capped mountain</string>
+	<key>🇪🇹</key>
+	<string>flag of Ethiopia</string>
+	<key>🤷‍♀️</key>
+	<string>woman shrugging</string>
+	<key>🇲🇺</key>
+	<string>flag of Mauritius</string>
+	<key>🇦🇹</key>
+	<string>flag of Austria</string>
+	<key>🖤</key>
+	<string>ខ្មៅ | ធ្មប់ | បិសាច | បេះដូងពណ៌ខ្មៅ | បេះដូវ | បេះដូងពណ៌ខ្មៅ</string>
+	<key>👩‍🦯</key>
+	<string>ពិការភ្នែក | លទ្ធភាព​ទទួលបាន | ស្ត្រី | ស្ត្រីកាន់ឈើច្រត់សម្រាប់​ជនពិការភ្នែក | ស្ត្រីកាន់ឈើច្រត់សម្រាប់​ជនពិការភ្នែក</string>
+	<key>👱‍♂️</key>
+	<string>man with blond hair</string>
+	<key>👨‍💼</key>
+	<string>ជំនួញ | ធុរកិច្ច | បុគ្គលិកការិយាល័យ | បុគ្គលិកប្រុស | បុរស | ប្រុស | ស្ថាបត្យករ | អ្នកគ្រប់គ្រង | អ្នកធ្វើការក្នុងការិយាល័យ | បុគ្គលិកប្រុស</string>
+	<key>⛰️</key>
+	<string>mountain</string>
+	<key>🇪🇺</key>
+	<string>flag of European Union</string>
+	<key>🇲🇻</key>
+	<string>flag of Maldives</string>
+	<key>🇦🇺</key>
+	<string>flag of Australia</string>
+	<key>🇲🇼</key>
+	<string>flag of Malawi</string>
+	<key>👩‍🦰</key>
+	<string>woman with red hair</string>
+	<key>🇲🇽</key>
+	<string>flag of Mexico</string>
+	<key>🇺🇾</key>
+	<string>flag of Uruguay</string>
+	<key>🇦🇼</key>
+	<string>flag of Aruba</string>
+	<key>☹️</key>
+	<string>frowning face</string>
+	<key>⌚️</key>
+	<string>watch</string>
+	<key>🕵️</key>
+	<string>detective</string>
+	<key>⛩️</key>
+	<string>Shinto shrine</string>
+	<key>🇲🇾</key>
+	<string>flag of Malaysia</string>
+	<key>🧎‍♀️</key>
+	<string>woman kneeling</string>
+	<key>🇺🇿</key>
+	<string>flag of Uzbekistan</string>
+	<key>🇦🇽</key>
+	<string>flag of the Åland Islands</string>
+	<key>👩‍🦱</key>
+	<string>woman with curly hair</string>
+	<key>🙇‍♂️</key>
+	<string>man bowing</string>
+	<key>🌦️</key>
+	<string>sun behind rain cloud</string>
+	<key>🇲🇿</key>
+	<string>flag of Mozambique</string>
+	<key>🏖️</key>
+	<string>beach with umbrella</string>
+	<key>👩‍🦲</key>
+	<string>woman with no hair</string>
+	<key>🇦🇿</key>
+	<string>flag of Azerbaijan</string>
+	<key>➕</key>
+	<string>+ | គណិតវិទ្យា | បូក | សញ្ញា | សញ្ញាបូក | សញ្ញាបូក</string>
+	<key>🕊️</key>
+	<string>dove</string>
+	<key>➖</key>
+	<string>- | − | គណិតវិទ្យា | ដក | សញ្ញា | សញ្ញាដក | សញ្ញាដក</string>
+	<key>➗</key>
+	<string>÷ | គណិតវិទ្យា | ចែក | សញ្ញា | សញ្ញាចែក | សញ្ញាចែក</string>
+	<key>🗺️</key>
+	<string>world map</string>
+	<key>👩‍🦳</key>
+	<string>woman with white hair</string>
+	<key>7️⃣</key>
+	<string>keycap digit seven</string>
+	<key>🅰️</key>
+	<string>blood type A</string>
+	<key>🤦‍♀️</key>
+	<string>woman facepalming</string>
+	<key>🧝‍♂️</key>
+	<string>man elf</string>
+	<key>🕷️</key>
+	<string>spider</string>
+	<key>✳️</key>
+	<string>eight spoked asterisk</string>
+	<key>🌨️</key>
+	<string>cloud with snow</string>
+	<key>🦸‍♂️</key>
+	<string>man superhero</string>
+	<key>➰</key>
+	<string>ខ្សែ | រង្វេល | សញ្ញា | សញ្ញាខ្សែមួយរង្វេល | សញ្ញាខ្សែមួយរង្វេល</string>
+	<key>🏘️</key>
+	<string>group of houses</string>
+	<key>0️⃣</key>
+	<string>keycap digit zero</string>
+	<key>🤵‍♂️</key>
+	<string>man in tuxedo</string>
+	<key>⛔️</key>
+	<string>no entry</string>
+	<key>👨‍👧‍👦</key>
+	<string>family with father, son and daughter</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>family with mother, father and two sons</string>
+	<key>🧑‍🏫</key>
+	<string>គ្រូបង្រៀន | គ្រូបង្វឹក | សាស្ត្រាចារ្យ | គ្រូបង្រៀន</string>
+	<key>➿</key>
+	<string>ខ្សែ | រង្វេល | សញ្ញា | សញ្ញាខ្សែពីររង្វេល | សញ្ញាខ្សែពីររង្វេល</string>
+	<key>㊙️</key>
+	<string>Japanese sign meaning “secret”</string>
+	<key>☝️</key>
+	<string>index finger pointing up</string>
+	<key>🕹️</key>
+	<string>joystick</string>
+	<key>🗑️</key>
+	<string>wastebasket</string>
+	<key>🌪️</key>
+	<string>tornado</string>
+	<key>🧑‍🏭</key>
+	<string>កម្មករ | កម្មកររោងចក្រ | ការដំឡើង | រោងចក្រ | ឧស្សាហកម្ម | កម្មកររោងចក្រ</string>
+	<key>↗️</key>
+	<string>up-right arrow</string>
+	<key>⤵️</key>
+	<string>right arrow curving down</string>
+	<key>🏚️</key>
+	<string>derelict house</string>
+	<key>©️</key>
+	<string>copyright sign</string>
+	<key>👨‍🏫</key>
+	<string>គ្រូ | បុរស | ប្រុស | លោកគ្រូ | សាស្ត្រាចារ្យ | លោកគ្រូ</string>
+	<key>🗓️</key>
+	<string>spiral calendar</string>
+	<key>⏸️</key>
+	<string>pause symbol</string>
+	<key>🧑‍✈️</key>
+	<string>pilot</string>
+	<key>🌬️</key>
+	<string>wind blowing face</string>
+	<key>👨‍🏭</key>
+	<string>កម្មករ | កម្មកររោងចក្រប្រុស | បុរស | ប្រុស | រោងចក្រ | កម្មកររោងចក្រប្រុស</string>
+	<key>🏜️</key>
+	<string>desert</string>
+	<key>♠️</key>
+	<string>spades suit</string>
+	<key>🖨️</key>
+	<string>printer</string>
+	<key>⏱️</key>
+	<string>stopwatch</string>
+	<key>👩‍🦼</key>
+	<string>រទេះរុញ | លទ្ធភាពទទួលបាន | ស្ត្រី | ស្ត្រី​ជិះ​រទេះជនពិការ​ដែលមាន​បំពាក់​ម៉ាស៊ីន | ស្ត្រី​ជិះ​រទេះជនពិការ​ដែលមាន​បំពាក់​ម៉ាស៊ីន</string>
+	<key>🗻</key>
+	<string>ភ្នំ | ភ្នំហ្វូជី (នៅជប៉ុន) | ហ្វូជី | ភ្នំហ្វូជី (នៅជប៉ុន)</string>
+	<key>🫱‍🫲</key>
+	<string>handshake</string>
+	<key>🗼</key>
+	<string>តូក្យូ | ប៉ម | ប៉មតូក្យូ | ប៉មតូក្យូ</string>
+	<key>🗽</key>
+	<string>រូបសំណាក | រូបសំណាកសេរីភាព (នៅសហរដ្ឋអាមេរិក) | សន្តិភាព | អាមេរិក | រូបសំណាកសេរីភាព (នៅសហរដ្ឋអាមេរិក)</string>
+	<key>🗾</key>
+	<string>ជប៉ុន | ផែនទី | ផែនទីប្រទេសជប៉ុន | ផែនទីប្រទេសជប៉ុន</string>
+	<key>🤸‍♂️</key>
+	<string>man doing a cartwheel</string>
+	<key>🌀</key>
+	<string>កូច | គូថខ្យង | រង្វង់ | រង្វង់គូថខ្យង | រង្វង់គូថខ្យង</string>
+	<key>🗿</key>
+	<string>មុខ | ម៉ូអៃ | រូបចម្លាក់ | ម៉ូអៃ</string>
+	<key>☁️</key>
+	<string>cloud</string>
+	<key>🌁</key>
+	<string>មិនច្បាស់ | អ័ព្ទ | អ័ព្ទបាំងភ្នំ | អ័ព្ទបាំងភ្នំ</string>
+	<key>😀</key>
+	<string>មុខ | មុខសើច | សើច | មុខសើច</string>
+	<key>👩‍🦽</key>
+	<string>រទេះជនពិការ | លទ្ធភាព​ទទួលបាន | ស្ត្រី | ស្ត្រីជិះ​រទេះជនពិការដែលរុញដោយដៃ | ស្ត្រីជិះ​រទេះជនពិការដែលរុញដោយដៃ</string>
+	<key>🌂</key>
+	<string>ឆ័ត្រ | ឆ័ត្របិទ | បិទ | ឆ័ត្របិទ</string>
+	<key>😁</key>
+	<string>ធ្មេញ | មុខសើចស្អេញ | មុុខ | ស្អេញ | មុខសើចស្អេញ</string>
+	<key>⚱️</key>
+	<string>funeral urn</string>
+	<key>🌃</key>
+	<string>ព្រះខែ | យប់ | រាត្រី | រាត្រីមានផ្កាយរះ | រាត្រីមានផ្កាយរះ</string>
+	<key>😂</key>
+	<string>​ រីករាយ | ​ សប្បាយ | ទឹកភ្នែក | មុខសើចឡើងហៀរទឹកភ្នែក | សើច | មុខសើចឡើងហៀរទឹកភ្នែក</string>
+	<key>✉️</key>
+	<string>envelope</string>
+	<key>👨‍👧‍👧</key>
+	<string>family with father and two daughters</string>
+	<key>🤽‍♀️</key>
+	<string>woman playing water polo</string>
+	<key>🌄</key>
+	<string>ថ្ងៃរះ | ពេលព្រឹក | ព្រះអាទិត្យ | ព្រះអាទិត្យលើកំពូលភ្នំ | ព្រះអាទិត្យលើកំពូលភ្នំ</string>
+	<key>😃</key>
+	<string>បើក | ភ្នែក | មុខ | មុខសើចបើកភ្នែកធំៗ | សើច | មុខសើចបើកភ្នែកធំៗ</string>
+	<key>🌅</key>
+	<string>ថ្ងៃរះ | ពេលព្រឹក | ព្រះអាទិត្យរះ | ព្រះអាទិត្ររះពីផ្ទៃទឹក | រះ | ព្រះអាទិត្ររះពីផ្ទៃទឹក</string>
+	<key>😄</key>
+	<string>ភ្នែក | មាត់ | មុខសើចទាំងមាត់ និងភ្នែក | សើច | មុខសើចទាំងមាត់ និងភ្នែក</string>
+	<key>👷‍♂️</key>
+	<string>man construction worker</string>
+	<key>👨‍✈️</key>
+	<string>man pilot</string>
+	<key>🌆</key>
+	<string>ទិដ្ឋភាពទីក្រុងពេលព្រលប់ | ទីក្រុង | ទីក្រុងពេលព្រលប់ | ទេសភាព | ព្រលប់ | ព្រះអាទិត្យលិច | ល្ងាច | ទីក្រុងពេលព្រលប់</string>
+	<key>😅</key>
+	<string>ញើស | ដំណក់ទឹក | បើកមុខ | ភ្នែក | មុខ | មុខសើចចេញញើសពីថ្ងាស | សើច | មុខសើចចេញញើសពីថ្ងាស</string>
+	<key>🌇</key>
+	<string>ថ្ងៃលិច | ទីក្រុង | ទីក្រុងពេលថ្ងៃលិច | ពេលថ្ងៃលិច | ទីក្រុងពេលថ្ងៃលិច</string>
+	<key>😆</key>
+	<string>បិទ | ភ្នែក | មុខ | មុខសើចបិទភ្នែក | សើច | មុខសើចបិទភ្នែក</string>
+	<key>🌈</key>
+	<string>អាកាសធាតុ | ឥន្ទធនូ | ឥន្ទធនូ</string>
+	<key>😇</key>
+	<string>ញញឹម | ទេវតា | មុខមានរង្វង់ទេវតានៅលើក្បាល | មុខមានរង្វង់ទេវតានៅលើក្បាល</string>
+	<key>🌉</key>
+	<string>ពេលយប់ | ស្ពាន | ស្ពានពេលយប់ | ស្ពានពេលយប់</string>
+	<key>😈</key>
+	<string>ញញឹម | មុខ | មុខមានស្នែងញញឺមក្នុងបំណងមិនល្អ | ស្នែង | មុខមានស្នែងញញឺមក្នុងបំណងមិនល្អ</string>
+	<key>🏞️</key>
+	<string>national park</string>
+	<key>🌊</key>
+	<string>ទឹក | រលក | សមុទ្រ | រលក</string>
+	<key>😉</key>
+	<string>ញាក់ភ្នែក | ភ្នែក | មិចភ្នែក | មុខ | មុខញាក់ភ្នែក | មុខញាក់ភ្នែក</string>
+	<key>🌋</key>
+	<string>ផ្ទុះ | ភ្នំ | ភ្នំភ្លើង | អាកាសធាតុ | ភ្នំភ្លើង</string>
+	<key>😊</key>
+	<string>ញញឹម | មុខ | មុខក្រហម | មុខញញឹមពេញចិត្ត | អៀន | មុខញញឹមពេញចិត្ត</string>
+	<key>♒️</key>
+	<string>Aquarius</string>
+	<key>🌌</key>
+	<string>មេឃ | លំហរ | លំហរចក្រវាឡ | អកាស | លំហរចក្រវាឡ</string>
+	<key>😋</key>
+	<string>ឃ្លាន | ឆ្ងាញ់ | ញញឹម | មុខលិឍមាត់ពេលបានម្ហូបឆ្ងាញ់ | ម្ហូបឆ្ងាញ់ | ស្រក់ទឹកមាត់ | មុខលិឍមាត់ពេលបានម្ហូបឆ្ងាញ់</string>
+	<key>⚪️</key>
+	<string>white circle</string>
+	<key>🌍</key>
+	<string>ផែនដី | ផែនដីបង្ហាញទ្វីបអឺរ៉ុបនិងអាហ្រ្វិក | ពិភពលោក | ផែនដីបង្ហាញទ្វីបអឺរ៉ុបនិងអាហ្រ្វិក</string>
+	<key>😌</key>
+	<string>ធូរស្រាល | មុខធូរស្រាលរឿងអ្វីមួយ | មុខធូរស្រាលរឿងអ្វីមួយ</string>
+	<key>🧏‍♂️</key>
+	<string>Deaf man</string>
+	<key>✂️</key>
+	<string>scissors</string>
+	<key>🌎</key>
+	<string>ផែនដី | ផែនដីបង្ហាញទ្វីបអាមេរិក | ពិភពលោក | ផែនដីបង្ហាញទ្វីបអាមេរិក</string>
+	<key>🤌</key>
+	<string>កាយវិការដៃ | ការស៊ើបអង្កេត | ចំអកបញ្ឈឺចិត្ត | ច្បិច | ម្រាមច្បិច | ម្រាមដៃ | ម្រាមច្បិច</string>
+	<key>😍</key>
+	<string>ញញឹម | បេះដូង | មុខចេញរូបបេះដូងក្នុងភ្នែក | ស្នេហ៍ | ស្នេហា | ស្រឡាញ់ | មុខចេញរូបបេះដូងក្នុងភ្នែក</string>
+	<key>🌏</key>
+	<string>ផែនដី | ផែនដីបង្ហាញទ្វីបអាស៊ីនិងអូស្ត្រាលី | ពិភពលោក | ផែនដីបង្ហាញទ្វីបអាស៊ីនិងអូស្ត្រាលី</string>
+	<key>🤍</key>
+	<string>បេះដូង | បេះដូងពណ៌ស | ពណ៌ស | បេះដូងពណ៌ស</string>
+	<key>😎</key>
+	<string>ចាំងថ្ងៃ | ចាំងភ្នែក | ញញឹម | មុខ | មុខញញឹមពាក់វ៉ែនតាខ្មៅ | វ៉ែនតា | វ៉ែនតាខ្មៅ | មុខញញឹមពាក់វ៉ែនតាខ្មៅ</string>
+	<key>🌐</key>
+	<string>ផែនដី | ផែនដីផ្គុំដោយខ្សែវណ្ឌ | ពិភពលោក | ផែនដីផ្គុំដោយខ្សែវណ្ឌ</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>family with mother, father and two daughters</string>
+	<key>🤎</key>
+	<string>បេះដូង | បេះដូងពណ៌ត្នោត | ពណ៌ត្នោត | បេះដូងពណ៌ត្នោត</string>
+	<key>😏</key>
+	<string>ចំអក | មុខញញឹមចំអក | មុខញញឹមចំអក</string>
+	<key>🌑</key>
+	<string>ងងឹត | ព្រះច័ន្ទថ្មី | យប់ | អាកាសធាតុ | ព្រះច័ន្ទថ្មី</string>
+	<key>🤏</key>
+	<string>ច្បិចដៃ | បរិមាណតិច | ច្បិចដៃ</string>
+	<key>😐</key>
+	<string>មុខ | មុខធ្វើមាត់ស្មើ | ស្ងៀមស្ងាត់ | ស្មើ | មុខធ្វើមាត់ស្មើ</string>
+	<key>🧔‍♀️</key>
+	<string>bearded woman</string>
+	<key>🌒</key>
+	<string>ខ្នើត | ព្រះចន្ទ | ព្រះចន្ទបង្ហាញខ្លួនមួយចំនិត | អឌ្ឍចន្ទ | ព្រះចន្ទបង្ហាញខ្លួនមួយចំនិត</string>
+	<key>🤐</key>
+	<string>កុំមាត់ | បិទមាត់ | មាត់ | មុខទាញខ្សែរូតបិតមាត់ | រូត | ស្ងៀមស្ងាត់ | មុខទាញខ្សែរូតបិតមាត់</string>
+	<key>😑</key>
+	<string>ធម្មតា | មុខ | មុខធម្មតាមិនបង្ហាញអារម្មណ៍ | មុខស្មើ | មុខធម្មតាមិនបង្ហាញអារម្មណ៍</string>
+	<key>🙍‍♂️</key>
+	<string>man frowning</string>
+	<key>🌓</key>
+	<string>ព្រះច័ន្ទ | ព្រះចន្ទបង្ហាញខ្លួនបាន១ភាគ៤ | ព្រះចន្ទបង្ហាញខ្លួនបាន១ភាគ៤</string>
+	<key>🤑</key>
+	<string>ដុលា្លរ | មុខ | មុខលុយ | មុខលុយ ដោយមានរូបដុល្លារលើអណា្តតនិងភ្នែក | លុយ | មុខលុយ ដោយមានរូបដុល្លារលើអណា្តតនិងភ្នែក</string>
+	<key>😒</key>
+	<string>ទុក្ខព្រួយ | មិនសប្បាយចិត្ត | មុខស្រពោន | ស្រពោន | មុខស្រពោន</string>
+	<key>🌔</key>
+	<string>ខ្នើត | ជិតពេញវង់ | ព្រច័ន្ទ | ព្រចន្ទជិតពេញវង់ | ព្រចន្ទជិតពេញវង់</string>
+	<key>🤒</key>
+	<string>ក្តៅខ្លួន | ឈឺ | មុខបៀមឧបករណ៍ស្ទង់កំដៅ | មុខបៀមឧបករណ៍ស្ទង់កំដៅ</string>
+	<key>😓</key>
+	<string>ញើស | បែកញើស | ពេបមាត់ | មុខស្រពោនមានញើសពីថ្ងាស | ស្រពោន | មុខស្រពោនមានញើសពីថ្ងាស</string>
+	<key>🌕</key>
+	<string>ពេញវង់ | ព្រះច័ន្ទ | ព្រះចន្ទពេញវង់ | ព្រះចន្ទពេញវង់</string>
+	<key>🤓</key>
+	<string>កំប្លែង | មុខកំប្លែង | ឡប់ឡប់ | ឡឺកី | មុខកំប្លែង</string>
+	<key>😔</key>
+	<string>ក្រៀមក្រំ | តូចចិត្ត | ធ្លាក់ទឹកមុខ | មុខក្រៀមក្រំ | អន់ចិត្ត | មុខក្រៀមក្រំ</string>
+	<key>♋️</key>
+	<string>Cancer</string>
+	<key>🌖</key>
+	<string>ព្រះច័ន្ទ | ព្រះចន្ទបាត់មួយចំណិតតូច | ព្រះចន្ទបាត់មួយចំនិត | រនោច | ព្រះចន្ទបាត់មួយចំនិត</string>
+	<key>🤔</key>
+	<string>គិត | មុខ | មុខកំពុុងគិត | មុខកំពុុងគិត</string>
+	<key>😕</key>
+	<string>ឆ្ងល់ | មុខឆ្ងល់អ្វីមួយ | មុខឆ្ងល់អ្វីមួយ</string>
+	<key>🌗</key>
+	<string>ព្រះច័ន្ទ | ព្រះចន្ទបាត់អស់៣ភាគ៤ | មួយចំនិត | ព្រះចន្ទបាត់អស់៣ភាគ៤</string>
+	<key>🤕</key>
+	<string>គ្រោះថ្នាក់ | មុខរុំប៉ង់សេម៉ង់ | របួស | មុខរុំប៉ង់សេម៉ង់</string>
+	<key>😖</key>
+	<string>ញ៉ស់ | មុខឡប់ | មុខឡប់ៗ | មុខឡប់ៗ</string>
+	<key>🌘</key>
+	<string>ព្រះចន្ទ | ព្រះចន្ទសល់តែមួយចំនិត | រនោច | អឌ្ឍចន្ទ | ព្រះចន្ទសល់តែមួយចំនិត</string>
+	<key>🤖</key>
+	<string>មនុស្សយន្ត | មុខ | មុខមនុស្សយន្ត | មុខមនុស្សយន្ត</string>
+	<key>😗</key>
+	<string>ថើប | មុខកំពុងថើប | ស្រឡាញ់ | មុខកំពុងថើប</string>
+	<key>🌙</key>
+	<string>ចំនិតខែ | ព្រះចន្ទ | អឌ្ឍចន្ទ | ចំនិតខែ</string>
+	<key>🤗</key>
+	<string>ញញឹម | បាតដៃ | មុខបង្ហាញដៃទាំងពីរចង់អោប | អោប | មុខបង្ហាញដៃទាំងពីរចង់អោប</string>
+	<key>😘</key>
+	<string>ថើប | បេះដូង | មុខថើបចេញរូបបេះដូង | ស្រឡាញ់ | មុខថើបចេញរូបបេះដូង</string>
+	<key>🌚</key>
+	<string>ព្រះច័ន្ទ | មុខ | មុខព្រះចន្ទថ្មី | មុខព្រះចន្ទថ្មី</string>
+	<key>🤘</key>
+	<string>ប្រើម្រាមធ្វើជាសញ្ញាស្នែង | ម្រាមពីរ | ស្នែង | អេម | ប្រើម្រាមធ្វើជាសញ្ញាស្នែង</string>
+	<key>😙</key>
+	<string>ថើប | ភ្នែក | មុខថើបហើយភ្នែកញញឹម | ស្រឡាញ់ | មុខថើបហើយភ្នែកញញឹម</string>
+	<key>🌛</key>
+	<string>ចំនិតខែ | ទៅឆ្វេង | មុខ | មុខចំនិតខែបែទៅឆ្វេង | មុខចំនិតខែបែទៅឆ្វេង</string>
+	<key>🤙</key>
+	<string>ដៃ | ដៃជាសញ្ញាតេទូរស័ព្ទ | តេទូរស័ព្ទ | ដៃជាសញ្ញាតេទូរស័ព្ទ</string>
+	<key>😚</key>
+	<string>ថើប | បិទ | ភ្នែក | មុខថើបហើយភ្នែកបិទ | មុខថើបហើយភ្នែកបិទ</string>
+</dict>
+</plist>

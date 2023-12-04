@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>måne i sidste kvarter med ansigt</string>
+	<key>🤚</key>
+	<string>bagside af hånd</string>
+	<key>😛</key>
+	<string>ansigt, der rækker tunge</string>
+	<key>👩‍🔧</key>
+	<string>kvindelig mekaniker</string>
+	<key>🌝</key>
+	<string>fuldmåne med ansigt</string>
+	<key>🤛</key>
+	<string>knytnæve, der vender mod venstre</string>
+	<key>😜</key>
+	<string>blinkende ansigt, som rækker tunge</string>
+	<key>🌞</key>
+	<string>sol med ansigt</string>
+	<key>🤜</key>
+	<string>knytnæve, der vender mod højre</string>
+	<key>😝</key>
+	<string>ansigt, der rækker tunge og har sammenknebne øjne</string>
+	<key>🌟</key>
+	<string>lysende stjerne</string>
+	<key>🤝</key>
+	<string>håndtryk</string>
+	<key>😞</key>
+	<string>skuffet ansigt</string>
+	<key>🌠</key>
+	<string>stjerneskud</string>
+	<key>🤞</key>
+	<string>krydser fingre</string>
+	<key>😟</key>
+	<string>bekymret ansigt</string>
+	<key>🐈‍⬛</key>
+	<string>sort kat</string>
+	<key>🤟</key>
+	<string>jeg elsker dig-tegn</string>
+	<key>😠</key>
+	<string>vredt ansigt</string>
+	<key>⚜️</key>
+	<string>fransk lilje</string>
+	<key>⛴️</key>
+	<string>færge</string>
+	<key>🤠</key>
+	<string>cowboyansigt</string>
+	<key>😡</key>
+	<string>rød vredt ansigt</string>
+	<key>🤡</key>
+	<string>klovneansigt</string>
+	<key>😢</key>
+	<string>grædende ansigt</string>
+	<key>⬛️</key>
+	<string>stort sort kvadrat</string>
+	<key>🤢</key>
+	<string>ansigt med kvalme</string>
+	<key>😣</key>
+	<string>standhaftigt ansigt</string>
+	<key>🤣</key>
+	<string>ruller grinende rundt på gulvet - ansigt</string>
+	<key>😤</key>
+	<string>ansigt med damp fra næsen</string>
+	<key>🤤</key>
+	<string>savlende ansigt</string>
+	<key>😥</key>
+	<string>trist, men lettet ansigt</string>
+	<key>🤥</key>
+	<string>ansigt, der lyver</string>
+	<key>😦</key>
+	<string>utilfreds ansigt med åben mund</string>
+	<key>🤦</key>
+	<string>person, der slår sig for panden</string>
+	<key>😧</key>
+	<string>forpint ansigt</string>
+	<key>🤧</key>
+	<string>nysende ansigt</string>
+	<key>😨</key>
+	<string>frygtsomt ansigt</string>
+	<key>🤨</key>
+	<string>ansigt med løftet øjenbryn</string>
+	<key>😩</key>
+	<string>udmattet ansigt</string>
+	<key>🤩</key>
+	<string>ansigt med stjerner i øjnene</string>
+	<key>⚕️</key>
+	<string>æskulapstav</string>
+	<key>😪</key>
+	<string>søvnigt ansigt</string>
+	<key>👁️‍🗨️</key>
+	<string>jeg er vidne</string>
+	<key>🤪</key>
+	<string>fjoget ansigt</string>
+	<key>😫</key>
+	<string>oprevet ansigt</string>
+	<key>🌭</key>
+	<string>hotdog</string>
+	<key>🤫</key>
+	<string>tyssende ansigt</string>
+	<key>😬</key>
+	<string>ansigt med grimasse</string>
+	<key>🌮</key>
+	<string>taco</string>
+	<key>🤬</key>
+	<string>ansigt med symboler for munden</string>
+	<key>😭</key>
+	<string>ansigt, der græder højt</string>
+	<key>🌯</key>
+	<string>burrito</string>
+	<key>🤭</key>
+	<string>ansigt med hånden over munden og smilende øjne</string>
+	<key>😮</key>
+	<string>forbavset ansigt med åben mund</string>
+	<key>🌰</key>
+	<string>kastanje</string>
+	<key>🤮</key>
+	<string>ansigt, der kaster op</string>
+	<key>😯</key>
+	<string>forbavset ansigt</string>
+	<key>🌱</key>
+	<string>kimplante</string>
+	<key>🤯</key>
+	<string>eksploderende hoved</string>
+	<key>😰</key>
+	<string>ængsteligt ansigt med sved</string>
+	<key>🌲</key>
+	<string>stedsegrønt træ</string>
+	<key>🤰</key>
+	<string>gravid kvinde</string>
+	<key>😱</key>
+	<string>ansigt, der skriger af frygt</string>
+	<key>🌳</key>
+	<string>træ</string>
+	<key>🤱</key>
+	<string>ammende</string>
+	<key>😲</key>
+	<string>forbavset ansigt</string>
+	<key>🛡️</key>
+	<string>skjold</string>
+	<key>🌴</key>
+	<string>palme</string>
+	<key>🤲</key>
+	<string>samlede håndflader, der vender opad</string>
+	<key>😳</key>
+	<string>ansigt med helt åbne øjne</string>
+	<key>🌵</key>
+	<string>kaktus</string>
+	<key>🤳</key>
+	<string>selfie</string>
+	<key>😴</key>
+	<string>sovende ansigt</string>
+	<key>🤴</key>
+	<string>prins</string>
+	<key>😵</key>
+	<string>tummelumsk ansigt</string>
+	<key>👩‍🌾</key>
+	<string>kvindelig landbruger</string>
+	<key>🌷</key>
+	<string>tulipan</string>
+	<key>🤵</key>
+	<string>person i smoking</string>
+	<key>😶</key>
+	<string>ansigt uden mund</string>
+	<key>🌸</key>
+	<string>kirsebærblomst</string>
+	<key>🤶</key>
+	<string>Nissemor</string>
+	<key>😷</key>
+	<string>ansigt med lægemaske</string>
+	<key>🌹</key>
+	<string>rose</string>
+	<key>🤷</key>
+	<string>person, der trækker på skuldrene</string>
+	<key>😸</key>
+	<string>grinende katteansigt</string>
+	<key>🌺</key>
+	<string>hibiscus</string>
+	<key>🤸</key>
+	<string>person, der slår en vejrmølle</string>
+	<key>😹</key>
+	<string>katteansigt med glædestårer</string>
+	<key>🌻</key>
+	<string>solsikke</string>
+	<key>🤹</key>
+	<string>person, der jonglerer</string>
+	<key>😺</key>
+	<string>glad katteansigt</string>
+	<key>🌼</key>
+	<string>blomst</string>
+	<key>🤺</key>
+	<string>fægter</string>
+	<key>😻</key>
+	<string>smilende katteansigt med hjerteøjne</string>
+	<key>🌽</key>
+	<string>majskolbe</string>
+	<key>😼</key>
+	<string>katteansigt med smørret grin</string>
+	<key>🇿🇦</key>
+	<string>Sydafrikas flag</string>
+	<key>👩‍🔬</key>
+	<string>kvindelig forsker</string>
+	<key>🌾</key>
+	<string>risaks</string>
+	<key>🤼</key>
+	<string>personer, der bryder</string>
+	<key>😽</key>
+	<string>kyssende katteansigt</string>
+	<key>🇻🇦</key>
+	<string>Vatikanstatens flag</string>
+	<key>🌿</key>
+	<string>urt</string>
+	<key>🤽</key>
+	<string>person, der spiller vandpolo</string>
+	<key>😾</key>
+	<string>surmulende kat</string>
+	<key>☯️</key>
+	<string>yin og yang</string>
+	<key>🍀</key>
+	<string>firkløver</string>
+	<key>🤾</key>
+	<string>person, der spiller håndbold</string>
+	<key>😿</key>
+	<string>grædende katteansigt</string>
+	<key>🍁</key>
+	<string>ahornblad</string>
+	<key>🤿</key>
+	<string>dykkermaske</string>
+	<key>🧑‍🍳</key>
+	<string>kok</string>
+	<key>🇳🇦</key>
+	<string>Namibias flag</string>
+	<key>🙀</key>
+	<string>katteansigt, der skriger af frygt</string>
+	<key>🧗‍♀️</key>
+	<string>kvindelig klippeklatrer</string>
+	<key>⁉️</key>
+	<string>rødt udråbstegn og spørgsmålstegn</string>
+	<key>🍂</key>
+	<string>faldende blade</string>
+	<key>🥀</key>
+	<string>vissen rose</string>
+	<key>🙁</key>
+	<string>lidt utilfreds ansigt</string>
+	<key>🍃</key>
+	<string>blade, der blafrer i vinden</string>
+	<key>🥁</key>
+	<string>tromme</string>
+	<key>🙂</key>
+	<string>en anelse smilende ansigt</string>
+	<key>⬆️</key>
+	<string>pil op</string>
+	<key>🍄</key>
+	<string>svamp</string>
+	<key>🥂</key>
+	<string>klinkende glas</string>
+	<key>🙃</key>
+	<string>omvendt ansigt</string>
+	<key>5️⃣</key>
+	<string>5 på numerisk blok</string>
+	<key>🍅</key>
+	<string>tomat</string>
+	<key>🥃</key>
+	<string>vandglas</string>
+	<key>🙄</key>
+	<string>ansigt med rullende øjne</string>
+	<key>🇻🇨</key>
+	<string>Skt. Vincents og Grenadinernes flag</string>
+	<key>🇧🇦</key>
+	<string>Bosnien-Hercegovinas flag</string>
+	<key>↩️</key>
+	<string>højrepil, der buer til venstre</string>
+	<key>🍆</key>
+	<string>aubergine</string>
+	<key>🥄</key>
+	<string>ske</string>
+	<key>🙅</key>
+	<string>person, der signalerer nej</string>
+	<key>🍇</key>
+	<string>druer</string>
+	<key>🥅</key>
+	<string>målnet</string>
+	<key>🙆</key>
+	<string>person, der signalerer OK</string>
+	<key>🛣️</key>
+	<string>motorvej</string>
+	<key>🍈</key>
+	<string>melon</string>
+	<key>🙇</key>
+	<string>person, der bukker</string>
+	<key>🇳🇨</key>
+	<string>Ny Kaledoniens flag</string>
+	<key>🍉</key>
+	<string>vandmelon</string>
+	<key>🇧🇧</key>
+	<string>Barbados' flag</string>
+	<key>🥇</key>
+	<string>guldmedalje</string>
+	<key>🙈</key>
+	<string>abe, der ikke ser noget</string>
+	<key>🍊</key>
+	<string>mandarin</string>
+	<key>🥈</key>
+	<string>sølvmedalje</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>Skotlands flag</string>
+	<key>🙉</key>
+	<string>abe, der ikke hører noget</string>
+	<key>🍋</key>
+	<string>citron</string>
+	<key>🥉</key>
+	<string>bronzemedalje</string>
+	<key>🙊</key>
+	<string>abe, der ikke siger noget</string>
+	<key>🍌</key>
+	<string>banan</string>
+	<key>🥊</key>
+	<string>boksehandske</string>
+	<key>🇻🇪</key>
+	<string>Venezuelas flag</string>
+	<key>🙋</key>
+	<string>person, der løfter en hånd</string>
+	<key>🍍</key>
+	<string>ananas</string>
+	<key>🥋</key>
+	<string>kampsportsuniform</string>
+	<key>🙌</key>
+	<string>hænder løftet i triumf</string>
+	<key>🇷🇪</key>
+	<string>Réunions flag</string>
+	<key>🍎</key>
+	<string>rødt æble</string>
+	<key>🥌</key>
+	<string>curlingsten</string>
+	<key>🙍</key>
+	<string>person, der skuler</string>
+	<key>🍏</key>
+	<string>grønt æble</string>
+	<key>🇳🇪</key>
+	<string>Nigers flag</string>
+	<key>🥍</key>
+	<string>lacrossestav og bold</string>
+	<key>🙎</key>
+	<string>surmulende person</string>
+	<key>🅾️</key>
+	<string>blodtype 0</string>
+	<key>🇧🇩</key>
+	<string>Bangladeshs flag</string>
+	<key>🍐</key>
+	<string>pære</string>
+	<key>🥎</key>
+	<string>softball</string>
+	<key>🇯🇪</key>
+	<string>Jerseys flag</string>
+	<key>🙏</key>
+	<string>sammentrykkede hænder</string>
+	<key>🍑</key>
+	<string>fersken</string>
+	<key>🥏</key>
+	<string>frisbee</string>
+	<key>🍒</key>
+	<string>kirsebær</string>
+	<key>🥐</key>
+	<string>croissant</string>
+	<key>🇳🇫</key>
+	<string>Norfolk Islands flag</string>
+	<key>🍓</key>
+	<string>jordbær</string>
+	<key>🇻🇬</key>
+	<string>De Britiske Jomfruøers flag</string>
+	<key>🇧🇪</key>
+	<string>Belgiens flag</string>
+	<key>🥑</key>
+	<string>avocado</string>
+	<key>🍔</key>
+	<string>hamburger</string>
+	<key>🥒</key>
+	<string>agurk</string>
+	<key>⛑️</key>
+	<string>hjelm med hvidt kryds</string>
+	<key>🍕</key>
+	<string>pizza</string>
+	<key>🥓</key>
+	<string>bacon</string>
+	<key>🇳🇬</key>
+	<string>Nigerias flag</string>
+	<key>🍖</key>
+	<string>kød på ben</string>
+	<key>🥔</key>
+	<string>kartoffel</string>
+	<key>👨‍🍳</key>
+	<string>mandlig kok</string>
+	<key>🇧🇫</key>
+	<string>Burkina Fasos flag</string>
+	<key>🍗</key>
+	<string>lår fra fjerkræ</string>
+	<key>👮‍♀️</key>
+	<string>kvindelig politibetjent</string>
+	<key>🥕</key>
+	<string>gulerod</string>
+	<key>⭐️</key>
+	<string>stjerne</string>
+	<key>🍘</key>
+	<string>riskiks</string>
+	<key>🥖</key>
+	<string>baguette</string>
+	<key>🗝️</key>
+	<string>gammel nøgle</string>
+	<key>🌶️</key>
+	<string>chilipeber</string>
+	<key>🍙</key>
+	<string>risbolle</string>
+	<key>🥗</key>
+	<string>grøn salat</string>
+	<key>🏃‍♂️</key>
+	<string>mandlig løber</string>
+	<key>🇻🇮</key>
+	<string>De Amerikanske Jomfruøers flag</string>
+	<key>🇧🇬</key>
+	<string>Bulgariens flag</string>
+	<key>🍚</key>
+	<string>kogt ris</string>
+	<key>🥘</key>
+	<string>pande med mad</string>
+	<key>🍛</key>
+	<string>karry og ris</string>
+	<key>🥙</key>
+	<string>pitabrød</string>
+	<key>🍜</key>
+	<string>dampende skål</string>
+	<key>🥚</key>
+	<string>æg</string>
+	<key>🛥️</key>
+	<string>motorbåd</string>
+	<key>🇳🇮</key>
+	<string>Nicaraguas flag</string>
+	<key>🍝</key>
+	<string>spaghetti</string>
+	<key>🥛</key>
+	<string>glas mælk</string>
+	<key>🇧🇭</key>
+	<string>Bahrains flag</string>
+	<key>🍞</key>
+	<string>brød</string>
+	<key>🥜</key>
+	<string>peanuts</string>
+	<key>🍟</key>
+	<string>pommes frites</string>
+	<key>👨‍👨‍👦</key>
+	<string>familie med to fædre og søn</string>
+	<key>🥝</key>
+	<string>kiwi</string>
+	<key>🇫🇮</key>
+	<string>Finlands flag</string>
+	<key>🤾‍♂️</key>
+	<string>mand, der spiller håndbold</string>
+	<key>🍠</key>
+	<string>stegt sød kartoffel</string>
+	<key>🖲️</key>
+	<string>styrekugle</string>
+	<key>🥞</key>
+	<string>pandekager</string>
+	<key>🇧🇮</key>
+	<string>Burundis flag</string>
+	<key>🍡</key>
+	<string>dango</string>
+	<key>🥟</key>
+	<string>dumpling</string>
+	<key>🍢</key>
+	<string>oden</string>
+	<key>🥠</key>
+	<string>lykkekage</string>
+	<key>🇫🇯</key>
+	<string>Fijis flag</string>
+	<key>🍣</key>
+	<string>sushi</string>
+	<key>🥡</key>
+	<string>takeaway-boks</string>
+	<key>🍤</key>
+	<string>friturestegt reje</string>
+	<key>🥢</key>
+	<string>spisepinde</string>
+	<key>🇧🇯</key>
+	<string>Benins flag</string>
+	<key>↔️</key>
+	<string>venstre-/højrepil</string>
+	<key>🍥</key>
+	<string>fiskefrikadelle med hvirveldesign</string>
+	<key>🥣</key>
+	<string>skål med ske</string>
+	<key>🍦</key>
+	<string>softice</string>
+	<key>🇿🇲</key>
+	<string>Zambias flag</string>
+	<key>🇫🇰</key>
+	<string>Falklandsøernes flag</string>
+	<key>🥤</key>
+	<string>to-go-kop</string>
+	<key>🏌️‍♀️</key>
+	<string>kvindelig golfspiller</string>
+	<key>🇳🇱</key>
+	<string>Nederlandenes flag</string>
+	<key>🍧</key>
+	<string>shave ice</string>
+	<key>🥥</key>
+	<string>kokosnød</string>
+	<key>🍨</key>
+	<string>is</string>
+	<key>🥦</key>
+	<string>broccoli</string>
+	<key>🍩</key>
+	<string>doughnut</string>
+	<key>🥧</key>
+	<string>tærte</string>
+	<key>🖇️</key>
+	<string>forbundne papirklips</string>
+	<key>🍪</key>
+	<string>cookie</string>
+	<key>🥨</key>
+	<string>saltkringle</string>
+	<key>🇻🇳</key>
+	<string>Vietnams flag</string>
+	<key>💂‍♀️</key>
+	<string>kvindelig garder</string>
+	<key>🇧🇱</key>
+	<string>Saint Barthélemys flag</string>
+	<key>🍫</key>
+	<string>chokoladestang</string>
+	<key>🇯🇲</key>
+	<string>Jamaicas flag</string>
+	<key>🥩</key>
+	<string>bøf</string>
+	<key>🍬</key>
+	<string>slik</string>
+	<key>🥪</key>
+	<string>sandwich</string>
+	<key>⛹️‍♀️</key>
+	<string>kvindelig basketballspiller</string>
+	<key>🍭</key>
+	<string>slikkepind</string>
+	<key>🇫🇲</key>
+	<string>Mikronesiens flag</string>
+	<key>🥫</key>
+	<string>dåsemad</string>
+	<key>🍮</key>
+	<string>creme</string>
+	<key>👨‍❤️‍👨</key>
+	<string>to mænd med hjerte</string>
+	<key>🥬</key>
+	<string>bladgrøntsager</string>
+	<key>🇧🇲</key>
+	<string>Bermudas flag</string>
+	<key>🍯</key>
+	<string>honningkrukke</string>
+	<key>🥭</key>
+	<string>mango</string>
+	<key>🇷🇴</key>
+	<string>Rumæniens flag</string>
+	<key>🍰</key>
+	<string>kage</string>
+	<key>🥮</key>
+	<string>månekage</string>
+	<key>🍱</key>
+	<string>bento-madkasse</string>
+	<key>🇳🇴</key>
+	<string>Norges flag</string>
+	<key>🥯</key>
+	<string>bagel</string>
+	<key>🇧🇳</key>
+	<string>Bruneis flag</string>
+	<key>🧚‍♀️</key>
+	<string>kvindelig fe</string>
+	<key>🍲</key>
+	<string>gryde med mad</string>
+	<key>🇯🇴</key>
+	<string>Jordans flag</string>
+	<key>🥰</key>
+	<string>smilende ansigt med hjerter</string>
+	<key>🍳</key>
+	<string>madlavning</string>
+	<key>🥱</key>
+	<string>ansigt, der gaber</string>
+	<key>🇫🇴</key>
+	<string>Færøernes flag</string>
+	<key>🍴</key>
+	<string>kniv og gaffel</string>
+	<key>🥲</key>
+	<string>smilende ansigt med tåre</string>
+	<key>🇳🇵</key>
+	<string>Nepals flag</string>
+	<key>✔️</key>
+	<string>hak</string>
+	<key>🍵</key>
+	<string>tekop uden håndtag</string>
+	<key>🥳</key>
+	<string>ansigt i festhumør</string>
+	<key>🇧🇴</key>
+	<string>Bolivias flag</string>
+	<key>🇯🇵</key>
+	<string>Japans flag</string>
+	<key>🍶</key>
+	<string>sakeflaske og -kop</string>
+	<key>🥴</key>
+	<string>omtåget ansigt</string>
+	<key>🍷</key>
+	<string>vinglas</string>
+	<key>🥵</key>
+	<string>varmt ansigt</string>
+	<key>🍸</key>
+	<string>cocktailglas</string>
+	<key>🥶</key>
+	<string>koldt ansigt</string>
+	<key>🍹</key>
+	<string>tropisk drink</string>
+	<key>🥷</key>
+	<string>ninja</string>
+	<key>🍺</key>
+	<string>ølkrus</string>
+	<key>🥸</key>
+	<string>ansigt med forklædning</string>
+	<key>🚶‍♀️</key>
+	<string>kvindelig fodgænger</string>
+	<key>🍻</key>
+	<string>klinkende ølkrus</string>
+	<key>🥹</key>
+	<string>smilende ansigt, der holder tårer tilbage</string>
+	<key>🇳🇷</key>
+	<string>Naurus flag</string>
+	<key>🍼</key>
+	<string>sutteflaske</string>
+	<key>🇧🇶</key>
+	<string>Bonaires flag</string>
+	<key>🥺</key>
+	<string>bønfaldende ansigt</string>
+	<key>🧑‍🍼</key>
+	<string>person, der mader en baby</string>
+	<key>🥻</key>
+	<string>sari</string>
+	<key>🇷🇸</key>
+	<string>Serbiens flag</string>
+	<key>🍾</key>
+	<string>flaske med prop, der springer</string>
+	<key>🇫🇷</key>
+	<string>Frankrigs flag</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>mand og kvinde, der kysser</string>
+	<key>🥼</key>
+	<string>hvid kittel</string>
+	<key>✍️</key>
+	<string>skrivende hånd</string>
+	<key>🍿</key>
+	<string>popcorn</string>
+	<key>🥽</key>
+	<string>beskyttelsesbriller</string>
+	<key>🇧🇷</key>
+	<string>Brasiliens flag</string>
+	<key>🗡️</key>
+	<string>dolk</string>
+	<key>⏮️</key>
+	<string>mediesymbol for forrige</string>
+	<key>🎀</key>
+	<string>sløjfebånd</string>
+	<key>🥾</key>
+	<string>vandrestøvle</string>
+	<key>🎁</key>
+	<string>gave</string>
+	<key>🥿</key>
+	<string>flad sko</string>
+	<key>🚀</key>
+	<string>raket</string>
+	<key>🎂</key>
+	<string>fødselsdagskage</string>
+	<key>🦀</key>
+	<string>krabbe</string>
+	<key>🚁</key>
+	<string>helikopter</string>
+	<key>🇻🇺</key>
+	<string>Vanuatus flag</string>
+	<key>🇧🇸</key>
+	<string>Bahamas' flag</string>
+	<key>🎃</key>
+	<string>græskarlygte</string>
+	<key>🕵️‍♀️</key>
+	<string>kvindelig detektiv</string>
+	<key>🦁</key>
+	<string>løveansigt</string>
+	<key>🚂</key>
+	<string>damplokomotiv</string>
+	<key>🎄</key>
+	<string>Juletræ</string>
+	<key>🇷🇺</key>
+	<string>Ruslands flag</string>
+	<key>🦂</key>
+	<string>skorpion</string>
+	<key>🚃</key>
+	<string>togvogn</string>
+	<key>🎅</key>
+	<string>Julemanden</string>
+	<key>🦃</key>
+	<string>kalkun</string>
+	<key>🚄</key>
+	<string>højhastighedstog</string>
+	<key>🇳🇺</key>
+	<string>Niues flag</string>
+	<key>🛩️</key>
+	<string>mindre fly</string>
+	<key>◾️</key>
+	<string>mellemstort sort kvadrat</string>
+	<key>🎆</key>
+	<string>fyrværkeri</string>
+	<key>🇧🇹</key>
+	<string>Bhutans flag</string>
+	<key>🦄</key>
+	<string>enhjørning</string>
+	<key>🚅</key>
+	<string>højhastighedstog med spids næse</string>
+	<key>🎇</key>
+	<string>fyrværkerignister</string>
+	<key>🦅</key>
+	<string>ørn</string>
+	<key>🚆</key>
+	<string>tog</string>
+	<key>👱‍♀️</key>
+	<string>lyshåret kvinde</string>
+	<key>🎈</key>
+	<string>ballon</string>
+	<key>🇿🇼</key>
+	<string>Zimbabwes flag</string>
+	<key>🦆</key>
+	<string>and</string>
+	<key>🚇</key>
+	<string>undergrundstog</string>
+	<key>😮‍💨</key>
+	<string>ansigt, der udånder</string>
+	<key>🎉</key>
+	<string>bordbombe</string>
+	<key>🦇</key>
+	<string>flagermus</string>
+	<key>🚈</key>
+	<string>letbane</string>
+	<key>🎊</key>
+	<string>konfettikugle</string>
+	<key>🦈</key>
+	<string>haj</string>
+	<key>🚉</key>
+	<string>station</string>
+	<key>🇷🇼</key>
+	<string>Rwandas flag</string>
+	<key>🎋</key>
+	<string>tanabata-træ</string>
+	<key>🦉</key>
+	<string>ugle</string>
+	<key>🚊</key>
+	<string>letbane</string>
+	<key>🎌</key>
+	<string>krydsede flag</string>
+	<key>🦊</key>
+	<string>ræveansigt</string>
+	<key>🚋</key>
+	<string>sporvogn</string>
+	<key>🎍</key>
+	<string>dørdekoration</string>
+	<key>🇧🇻</key>
+	<string>Bouvetøens flag</string>
+	<key>🦋</key>
+	<string>sommerfugl</string>
+	<key>🚌</key>
+	<string>bus</string>
+	<key>🎎</key>
+	<string>Japanske dukker</string>
+	<key>🦌</key>
+	<string>rådyr</string>
+	<key>🚍</key>
+	<string>modkørende bus</string>
+	<key>🎏</key>
+	<string>karpevimpel</string>
+	<key>🦍</key>
+	<string>gorilla</string>
+	<key>🚎</key>
+	<string>trolleybus</string>
+	<key>🚏</key>
+	<string>busstoppested</string>
+	<key>🎐</key>
+	<string>vindharpe</string>
+	<key>🦎</key>
+	<string>firben</string>
+	<key>🇧🇼</key>
+	<string>Botswanas flag</string>
+	<key>🚐</key>
+	<string>minibus</string>
+	<key>♏️</key>
+	<string>Skorpionen</string>
+	<key>🎑</key>
+	<string>måneceremoni</string>
+	<key>🦏</key>
+	<string>næsehorn</string>
+	<key>🚑</key>
+	<string>ambulance</string>
+	<key>👨‍🍼</key>
+	<string>mand, der mader en baby</string>
+	<key>⚧️</key>
+	<string>symbol for transkønnet</string>
+	<key>👨‍👨‍👧</key>
+	<string>familie med to fædre og datter</string>
+	<key>🖋️</key>
+	<string>fyldepen</string>
+	<key>🚒</key>
+	<string>brandbil</string>
+	<key>🎒</key>
+	<string>rygsæk</string>
+	<key>🎓</key>
+	<string>eksamenshue</string>
+	<key>🦐</key>
+	<string>reje</string>
+	<key>🦑</key>
+	<string>blæksprutte</string>
+	<key>🚓</key>
+	<string>politibil</string>
+	<key>❗️</key>
+	<string>rødt udråbstegn</string>
+	<key>🦒</key>
+	<string>giraf</string>
+	<key>🙇‍♀️</key>
+	<string>kvinde, der bukker</string>
+	<key>🗣️</key>
+	<string>silhouet af talende hoved</string>
+	<key>🚔</key>
+	<string>modkørende politibil</string>
+	<key>🦓</key>
+	<string>zebra</string>
+	<key>🚕</key>
+	<string>taxi</string>
+	<key>🦔</key>
+	<string>pindsvin</string>
+	<key>🇳🇿</key>
+	<string>New Zealands flag</string>
+	<key>🦕</key>
+	<string>dinosaur</string>
+	<key>🚖</key>
+	<string>modkørende taxi</string>
+	<key>🇧🇾</key>
+	<string>Hvideruslands flag</string>
+	<key>🦖</key>
+	<string>t-rex</string>
+	<key>🚗</key>
+	<string>bil</string>
+	<key>🦗</key>
+	<string>græshoppe</string>
+	<key>🚘</key>
+	<string>modkørende bil</string>
+	<key>🦘</key>
+	<string>kænguru</string>
+	<key>🚙</key>
+	<string>suv</string>
+	<key>🇧🇿</key>
+	<string>Belizes flag</string>
+	<key>🦙</key>
+	<string>lama</string>
+	<key>🚚</key>
+	<string>lastvogn</string>
+	<key>♈️</key>
+	<string>Vædder</string>
+	<key>🦚</key>
+	<string>påfugl</string>
+	<key>🚛</key>
+	<string>lastvogn</string>
+	<key>⚠️</key>
+	<string>advarsel</string>
+	<key>🦛</key>
+	<string>flodhest</string>
+	<key>🚜</key>
+	<string>traktor</string>
+	<key>⛸️</key>
+	<string>skøjte</string>
+	<key>🧘‍♂️</key>
+	<string>mand i lotusstilling</string>
+	<key>🧑‍🚀</key>
+	<string>astronaut</string>
+	<key>🦜</key>
+	<string>papegøje</string>
+	<key>🚝</key>
+	<string>enskinnebane</string>
+	<key>🦝</key>
+	<string>vaskebjørn</string>
+	<key>🚞</key>
+	<string>bjergbane</string>
+	<key>🎠</key>
+	<string>karruselhest</string>
+	<key>🦞</key>
+	<string>hummer</string>
+	<key>🚟</key>
+	<string>hængebane</string>
+	<key>🎡</key>
+	<string>pariserhjul</string>
+	<key>🦟</key>
+	<string>myg</string>
+	<key>🚠</key>
+	<string>bjergsvævebane</string>
+	<key>🎢</key>
+	<string>rutsjebane</string>
+	<key>🦠</key>
+	<string>mikrobe</string>
+	<key>🚡</key>
+	<string>svævebane</string>
+	<key>🧝‍♀️</key>
+	<string>kvindelig elver</string>
+	<key>🎣</key>
+	<string>fiskestang og fisk</string>
+	<key>🦡</key>
+	<string>grævling</string>
+	<key>🚢</key>
+	<string>skib</string>
+	<key>🎤</key>
+	<string>mikrofon</string>
+	<key>🦢</key>
+	<string>svane</string>
+	<key>🚣</key>
+	<string>person, der ror i en båd</string>
+	<key>🎥</key>
+	<string>filmkamera</string>
+	<key>🦣</key>
+	<string>mammut</string>
+	<key>🚤</key>
+	<string>speedbåd</string>
+	<key>🎦</key>
+	<string>biograf</string>
+	<key>🦤</key>
+	<string>dronte</string>
+	<key>🚥</key>
+	<string>vandret lyskurv</string>
+	<key>⚙️</key>
+	<string>tandhjul</string>
+	<key>🚴‍♂️</key>
+	<string>mandlig cyklist</string>
+	<key>🎧</key>
+	<string>hovedtelefoner</string>
+	<key>🦥</key>
+	<string>dovendyr</string>
+	<key>🚦</key>
+	<string>lodret lyskurv</string>
+	<key>⛱️</key>
+	<string>strandparasol</string>
+	<key>🖍️</key>
+	<string>farveblyant</string>
+	<key>🎨</key>
+	<string>palet</string>
+	<key>🦦</key>
+	<string>odder</string>
+	<key>🚧</key>
+	<string>vejarbejde-skilt</string>
+	<key>🎩</key>
+	<string>høj hat</string>
+	<key>🦧</key>
+	<string>orangutang</string>
+	<key>🚨</key>
+	<string>udrykningslys</string>
+	<key>➡️</key>
+	<string>højrepil</string>
+	<key>🎪</key>
+	<string>cirkustelt</string>
+	<key>🦨</key>
+	<string>stinkdyr</string>
+	<key>🚩</key>
+	<string>trekantet flag på stang</string>
+	<key>🎫</key>
+	<string>billet</string>
+	<key>🦩</key>
+	<string>flamingo</string>
+	<key>🚪</key>
+	<string>dør</string>
+	<key>🦸‍♀️</key>
+	<string>kvindelig superhelt</string>
+	<key>🎬</key>
+	<string>klaptræ</string>
+	<key>🦪</key>
+	<string>østers</string>
+	<key>🚫</key>
+	<string>ikke tilladt</string>
+	<key>🎖️</key>
+	<string>militærmedalje</string>
+	<key>🎭</key>
+	<string>scenekunst</string>
+	<key>🦫</key>
+	<string>bæver</string>
+	<key>🚬</key>
+	<string>cigaret</string>
+	<key>🎮</key>
+	<string>controller</string>
+	<key>🦬</key>
+	<string>bison</string>
+	<key>🚭</key>
+	<string>rygning forbudt-skilt</string>
+	<key>🎯</key>
+	<string>skydeskive</string>
+	<key>🦭</key>
+	<string>sæl</string>
+	<key>🚮</key>
+	<string>symbol for brug affaldsspanden</string>
+	<key>☺️</key>
+	<string>smilende ansigt</string>
+	<key>🎰</key>
+	<string>spilleautomat</string>
+	<key>🦮</key>
+	<string>førerhund</string>
+	<key>🚯</key>
+	<string>smid ikke affald</string>
+	<key>⚒️</key>
+	<string>hammer og hakke</string>
+	<key>🎱</key>
+	<string>billard</string>
+	<key>🦯</key>
+	<string>hvid stok</string>
+	<key>🚰</key>
+	<string>vandhane</string>
+	<key>🧑‍🎄</key>
+	<string>julenisse</string>
+	<key>⛪️</key>
+	<string>kirke</string>
+	<key>🎲</key>
+	<string>terning</string>
+	<key>🤵‍♀️</key>
+	<string>kvinde i smoking</string>
+	<key>⌛️</key>
+	<string>timeglas</string>
+	<key>🏋️‍♂️</key>
+	<string>mandlig vægtløfter</string>
+	<key>🚱</key>
+	<string>ikke drikkevand</string>
+	<key>🎳</key>
+	<string>bowlingkugle og -kegler</string>
+	<key>👯‍♂️</key>
+	<string>dansende mænd med kaninører</string>
+	<key>👨‍🚀</key>
+	<string>mandlig astronaut</string>
+	<key>🚲</key>
+	<string>cykel</string>
+	<key>🎴</key>
+	<string>spillekort med blomster</string>
+	<key>🚳</key>
+	<string>ingen cykler</string>
+	<key>👩‍👦‍👦</key>
+	<string>familie med mor og to sønner</string>
+	<key>🎵</key>
+	<string>node</string>
+	<key>👨‍🤝‍👨</key>
+	<string>mænd, der holder i hånd</string>
+	<key>🚴</key>
+	<string>cyklist</string>
+	<key>🎶</key>
+	<string>musiknoder</string>
+	<key>🦴</key>
+	<string>knogle</string>
+	<key>🚵</key>
+	<string>cyklist på mountainbike</string>
+	<key>🎷</key>
+	<string>saxofon</string>
+	<key>🦵</key>
+	<string>ben</string>
+	<key>🚶</key>
+	<string>fodgænger</string>
+	<key>🎸</key>
+	<string>guitar</string>
+	<key>🦶</key>
+	<string>fod</string>
+	<key>🚷</key>
+	<string>ingen fodgængere</string>
+	<key>🎹</key>
+	<string>keyboard</string>
+	<key>🦷</key>
+	<string>tand</string>
+	<key>🚸</key>
+	<string>børn på vejen</string>
+	<key>🎺</key>
+	<string>trompet</string>
+	<key>🦸</key>
+	<string>superhelt</string>
+	<key>🚹</key>
+	<string>mandetegn</string>
+	<key>🎻</key>
+	<string>violin</string>
+	<key>🦹</key>
+	<string>superskurk</string>
+	<key>🚺</key>
+	<string>kvindetegn</string>
+	<key>🎼</key>
+	<string>partitur</string>
+	<key>🦺</key>
+	<string>sikkerhedsvest</string>
+	<key>🚻</key>
+	<string>toilet</string>
+	<key>🎽</key>
+	<string>løbetop</string>
+	<key>🦻</key>
+	<string>øre med høreapparat</string>
+	<key>🚼</key>
+	<string>babysymbol</string>
+	<key>🎾</key>
+	<string>tennisbold</string>
+	<key>🦼</key>
+	<string>elektrisk kørestol</string>
+	<key>🚽</key>
+	<string>toilet</string>
+	<key>🎿</key>
+	<string>ski</string>
+	<key>🦽</key>
+	<string>manuel kørestol</string>
+	<key>🚾</key>
+	<string>WC</string>
+	<key>🏀</key>
+	<string>basketball</string>
+	<key>🦾</key>
+	<string>mekanisk arm</string>
+	<key>🙅‍♂️</key>
+	<string>mand, der signalerer nej</string>
+	<key>🚿</key>
+	<string>brusebad</string>
+	<key>🏁</key>
+	<string>ternet flag</string>
+	<key>🦿</key>
+	<string>mekanisk ben</string>
+	<key>🛀</key>
+	<string>badende person</string>
+	<key>🏂</key>
+	<string>snowboardløber</string>
+	<key>🧀</key>
+	<string>ostestykke</string>
+	<key>🛁</key>
+	<string>badekar</string>
+	<key>🚣‍♂️</key>
+	<string>mand, der ror en båd</string>
+	<key>🏃</key>
+	<string>løber</string>
+	<key>🧁</key>
+	<string>cupcake</string>
+	<key>🛂</key>
+	<string>paskontrol</string>
+	<key>🏄</key>
+	<string>surfer</string>
+	<key>🧂</key>
+	<string>salt</string>
+	<key>🛃</key>
+	<string>told</string>
+	<key>🏅</key>
+	<string>sportsmedalje</string>
+	<key>🧃</key>
+	<string>juicebrik</string>
+	<key>🛄</key>
+	<string>bagageudlevering</string>
+	<key>🏆</key>
+	<string>trofæ</string>
+	<key>🧄</key>
+	<string>hvidløg</string>
+	<key>🛅</key>
+	<string>efterladt bagage</string>
+	<key>🏇</key>
+	<string>jockey på væddeløbshest</string>
+	<key>🧅</key>
+	<string>løg</string>
+	<key>✴️</key>
+	<string>ottetakket stjerne</string>
+	<key>🖼️</key>
+	<string>ramme med billede</string>
+	<key>🏈</key>
+	<string>Amerikansk fodbold</string>
+	<key>🧆</key>
+	<string>falafel</string>
+	<key>🏉</key>
+	<string>rugby</string>
+	<key>🧇</key>
+	<string>vaffel</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>familie med to fædre, søn og datter</string>
+	<key>🏊</key>
+	<string>svømmer</string>
+	<key>🧈</key>
+	<string>smør</string>
+	<key>🧑‍⚖️</key>
+	<string>dommer</string>
+	<key>3️⃣</key>
+	<string>3 på numerisk blok</string>
+	<key>🧉</key>
+	<string>matedrik</string>
+	<key>🧊</key>
+	<string>is</string>
+	<key>🧋</key>
+	<string>bubble tea</string>
+	<key>🛌</key>
+	<string>sovende person</string>
+	<key>🧛‍♂️</key>
+	<string>mandlig vampyr</string>
+	<key>🧌</key>
+	<string>trold</string>
+	<key>🏏</key>
+	<string>cricketbat og bold</string>
+	<key>🧍</key>
+	<string>person, der står op</string>
+	<key>🏐</key>
+	<string>volleyball</string>
+	<key>🧎</key>
+	<string>person, der knæler</string>
+	<key>🏑</key>
+	<string>hockeystav og bold</string>
+	<key>🧏</key>
+	<string>Døv person</string>
+	<key>🛐</key>
+	<string>sted til bøn</string>
+	<key>🏒</key>
+	<string>ishockeystav og puck</string>
+	<key>🧐</key>
+	<string>ansigt med monokel</string>
+	<key>🛑</key>
+	<string>ottekantet tegn</string>
+	<key>🏓</key>
+	<string>bordtennisbat og bold</string>
+	<key>🧑</key>
+	<string>voksen</string>
+	<key>🛒</key>
+	<string>indkøbsvogn</string>
+	<key>🧒</key>
+	<string>barn</string>
+	<key>🧓</key>
+	<string>ældre person</string>
+	<key>🎚️</key>
+	<string>målemærke</string>
+	<key>🧔</key>
+	<string>person med skæg</string>
+	<key>🛕</key>
+	<string>hindutempel</string>
+	<key>🧕</key>
+	<string>kvinde med hovedtørklæde</string>
+	<key>🛖</key>
+	<string>hytte</string>
+	<key>🧖</key>
+	<string>person i en sauna</string>
+	<key>🛗</key>
+	<string>elevator</string>
+	<key>🧗</key>
+	<string>klippeklatrer</string>
+	<key>🧘</key>
+	<string>person i lotusstilling</string>
+	<key>🧙</key>
+	<string>magiker</string>
+	<key>🧚</key>
+	<string>fe</string>
+	<key>👩‍💻</key>
+	<string>kvindelig teknolog</string>
+	<key>🧛</key>
+	<string>vampyr</string>
+	<key>🛜</key>
+	<string>trådløs-symbol</string>
+	<key>🧜</key>
+	<string>havperson</string>
+	<key>🛝</key>
+	<string>rutsjebane på legeplads</string>
+	<key>🧝</key>
+	<string>elver</string>
+	<key>🛞</key>
+	<string>hjul</string>
+	<key>👨‍⚖️</key>
+	<string>mandlig dommer</string>
+	<key>🏠</key>
+	<string>hus</string>
+	<key>🧞</key>
+	<string>ånd</string>
+	<key>↘️</key>
+	<string>pil ned og til højre</string>
+	<key>🛟</key>
+	<string>redningskrans</string>
+	<key>🏡</key>
+	<string>hus med have</string>
+	<key>🧟</key>
+	<string>zombie</string>
+	<key>🤸‍♀️</key>
+	<string>kvinde, der slår en vejrmølle</string>
+	<key>🏢</key>
+	<string>kontorbygning</string>
+	<key>🧠</key>
+	<string>hjerne</string>
+	<key>🏣</key>
+	<string>Japansk postkontor</string>
+	<key>🧡</key>
+	<string>orange hjerte</string>
+	<key>👩‍💼</key>
+	<string>kvindelig kontorarbejder</string>
+	<key>🏤</key>
+	<string>Europæisk postkontor</string>
+	<key>🧢</key>
+	<string>baseball kasket</string>
+	<key>🏥</key>
+	<string>hospital</string>
+	<key>🧣</key>
+	<string>halstørklæde</string>
+	<key>🏦</key>
+	<string>bank</string>
+	<key>🧤</key>
+	<string>handsker</string>
+	<key>🏧</key>
+	<string>Symbol for hæveautomat</string>
+	<key>🧥</key>
+	<string>frakke</string>
+	<key>👷‍♀️</key>
+	<string>kvindelig bygningsarbejder</string>
+	<key>🏨</key>
+	<string>hotel</string>
+	<key>🧦</key>
+	<string>sokker</string>
+	<key>🏩</key>
+	<string>elskovshotel</string>
+	<key>🧧</key>
+	<string>rød gavekort-kuvert</string>
+	<key>ℹ️</key>
+	<string>information</string>
+	<key>🏪</key>
+	<string>døgnkiosk</string>
+	<key>🧨</key>
+	<string>knaldfyrværkeri</string>
+	<key>🏫</key>
+	<string>skole</string>
+	<key>🧩</key>
+	<string>puslespilsbrik</string>
+	<key>🏬</key>
+	<string>stormagasin</string>
+	<key>🧪</key>
+	<string>reagensglas</string>
+	<key>🛫</key>
+	<string>fly, der letter</string>
+	<key>🛳️</key>
+	<string>passagerskib</string>
+	<key>🏭</key>
+	<string>fabrik</string>
+	<key>🧫</key>
+	<string>petriskål</string>
+	<key>🛬</key>
+	<string>fly, der lander</string>
+	<key>♨️</key>
+	<string>varm kilde</string>
+	<key>🏮</key>
+	<string>izakaya-lygte</string>
+	<key>🧬</key>
+	<string>DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>familie med mor, far og søn</string>
+	<key>🏯</key>
+	<string>Japansk slot</string>
+	<key>🧭</key>
+	<string>kompas</string>
+	<key>🧏‍♀️</key>
+	<string>Døv kvinde</string>
+	<key>🏰</key>
+	<string>Europæisk slot</string>
+	<key>🧮</key>
+	<string>kugleramme</string>
+	<key>🧯</key>
+	<string>brandslukker</string>
+	<key>⏹️</key>
+	<string>stop-symbol</string>
+	<key>🧰</key>
+	<string>værktøjskasse</string>
+	<key>🧱</key>
+	<string>mursten</string>
+	<key>🏴</key>
+	<string>sort flag</string>
+	<key>🧲</key>
+	<string>magnet</string>
+	<key>🙍‍♀️</key>
+	<string>kvinde, der skuler</string>
+	<key>🧳</key>
+	<string>bagage</string>
+	<key>🛴</key>
+	<string>løbehjul</string>
+	<key>🧴</key>
+	<string>lotionflaske</string>
+	<key>🛵</key>
+	<string>scooter</string>
+	<key>👨‍👦</key>
+	<string>familie med far og søn</string>
+	<key>🧵</key>
+	<string>tråd</string>
+	<key>💆‍♂️</key>
+	<string>mand, der får hovedmassage</string>
+	<key>🛶</key>
+	<string>kano</string>
+	<key>🏸</key>
+	<string>badmintonketsjer og fjerbold</string>
+	<key>🧶</key>
+	<string>garn</string>
+	<key>🛷</key>
+	<string>slæde</string>
+	<key>🏹</key>
+	<string>bue og pil</string>
+	<key>🧷</key>
+	<string>sikkerhedsnål</string>
+	<key>🛸</key>
+	<string>UFO</string>
+	<key>🏺</key>
+	<string>amfora</string>
+	<key>🧸</key>
+	<string>teddybjørn</string>
+	<key>🛹</key>
+	<string>skateboard</string>
+	<key>🧹</key>
+	<string>kost</string>
+	<key>🛺</key>
+	<string>tuk-tuk</string>
+	<key>⏲️</key>
+	<string>nedtællingsur</string>
+	<key>🧺</key>
+	<string>kurv</string>
+	<key>🛻</key>
+	<string>pickuptruck</string>
+	<key>🧻</key>
+	<string>papirrulle</string>
+	<key>🛼</key>
+	<string>rulleskøjte</string>
+	<key>👨‍👧</key>
+	<string>familie med far og datter</string>
+	<key>🧼</key>
+	<string>sæbe</string>
+	<key>🧞‍♂️</key>
+	<string>mandlig ånd</string>
+	<key>🧽</key>
+	<string>svamp</string>
+	<key>🎞️</key>
+	<string>filmstrimmel</string>
+	<key>🧾</key>
+	<string>kvittering</string>
+	<key>▪️</key>
+	<string>lille sort kvadrat</string>
+	<key>🧿</key>
+	<string>nazaramulet</string>
+	<key>☂️</key>
+	<string>paraply</string>
+	<key>🗂️</key>
+	<string>faneblade til kartotekskort</string>
+	<key>🦹‍♂️</key>
+	<string>mandlig superskurk</string>
+	<key>🏋️</key>
+	<string>vægtløfter</string>
+	<key>◻️</key>
+	<string>medium hvidt kvadrat</string>
+	<key>♓️</key>
+	<string>Fiskene</string>
+	<key>⚫️</key>
+	<string>sort cirkel</string>
+	<key>⏩</key>
+	<string>mediesymbol for spol frem</string>
+	<key>⏪</key>
+	<string>mediesymbol for spol tilbage</string>
+	<key>⏫</key>
+	<string>dobbelttrekant, der peger opad</string>
+	<key>⏬</key>
+	<string>dobbelttrekant, der peger nedad</string>
+	<key>🗯️</key>
+	<string>vred taleboble</string>
+	<key>⏰</key>
+	<string>vækkeur</string>
+	<key>⏳</key>
+	<string>timeglas med løbende sand</string>
+	<key>🧑‍🎓</key>
+	<string>studerende</string>
+	<key>🧑‍🚒</key>
+	<string>brandslukker</string>
+	<key>♌️</key>
+	<string>Løve</string>
+	<key>🗄️</key>
+	<string>arkivskab</string>
+	<key>🧍‍♂️</key>
+	<string>mand, der står op</string>
+	<key>🏍️</key>
+	<string>motorcykel</string>
+	<key>🙋‍♂️</key>
+	<string>mand, der løfter en hånd</string>
+	<key>👨‍👩‍👧</key>
+	<string>familie med mor, far og datter</string>
+	<key>🇸🇦</key>
+	<string>Saudi-Arabiens flag</string>
+	<key>⛵️</key>
+	<string>sejlbåd</string>
+	<key>👩‍🏫</key>
+	<string>kvindelig lærer</string>
+	<key>⬜️</key>
+	<string>stort hvidt kvadrat</string>
+	<key>🇸🇧</key>
+	<string>Salomonøernes flag</string>
+	<key>🇬🇦</key>
+	<string>Gabons flag</string>
+	<key>🇨🇦</key>
+	<string>Canadas flag</string>
+	<key>🇸🇨</key>
+	<string>Seychellernes flag</string>
+	<key>🇬🇧</key>
+	<string>Storbritanniens flag</string>
+	<key>👨‍🎓</key>
+	<string>mandlig studerende</string>
+	<key>👨‍🚒</key>
+	<string>mandlig brandslukker</string>
+	<key>⚖️</key>
+	<string>vægt</string>
+	<key>🇸🇩</key>
+	<string>Sudans flag</string>
+	<key>🇨🇨</key>
+	<string>Cocosøernes (Keelingøernes) flag</string>
+	<key>⏏️</key>
+	<string>eject-symbol</string>
+	<key>🇸🇪</key>
+	<string>Sveriges flag</string>
+	<key>🇬🇩</key>
+	<string>Grenadas flag</string>
+	<key>👩‍🏭</key>
+	<string>kvindelig fabriksarbejder</string>
+	<key>🇼🇫</key>
+	<string>Wallis og Futunas flag</string>
+	<key>🇨🇩</key>
+	<string>Den Demokratiske Republik Congos flag</string>
+	<key>🇰🇪</key>
+	<string>Kenyas flag</string>
+	<key>🛎️</key>
+	<string>ringeklokke</string>
+	<key>🇬🇪</key>
+	<string>Georgiens flag</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>familie med to mødre, søn og datter</string>
+	<key>🇸🇬</key>
+	<string>Singapores flag</string>
+	<key>🇬🇫</key>
+	<string>Fransk Guyanas flag</string>
+	<key>🇨🇫</key>
+	<string>Den Centralafrikanske Republiks flag</string>
+	<key>🇰🇬</key>
+	<string>Kirgisistans flag</string>
+	<key>🗳️</key>
+	<string>valgurne med stemmeseddel</string>
+	<key>🇸🇭</key>
+	<string>St. Helenas flag</string>
+	<key>🇬🇬</key>
+	<string>Guernseys flag</string>
+	<key>🧑‍⚕️</key>
+	<string>sundhedsarbejder</string>
+	<key>🏃‍♀️</key>
+	<string>kvindelig løber</string>
+	<key>🇨🇬</key>
+	<string>Republikken Congos flag</string>
+	<key>🇰🇭</key>
+	<string>Cambodias flag</string>
+	<key>🤹‍♂️</key>
+	<string>mand, der jonglerer</string>
+	<key>🇸🇮</key>
+	<string>Sloveniens flag</string>
+	<key>🇬🇭</key>
+	<string>Ghanas flag</string>
+	<key>〽️</key>
+	<string>mærke til ny deling</string>
+	<key>🇨🇭</key>
+	<string>Schweiz' flag</string>
+	<key>🇰🇮</key>
+	<string>Kiribatis flag</string>
+	<key>🇸🇯</key>
+	<string>Svalbard og Jan Mayens flag</string>
+	<key>🕰️</key>
+	<string>konsolur</string>
+	<key>8️⃣</key>
+	<string>8 på numerisk blok</string>
+	<key>🇬🇮</key>
+	<string>Gibraltars flag</string>
+	<key>🤾‍♀️</key>
+	<string>kvinde, der spiller håndbold</string>
+	<key>🇨🇮</key>
+	<string>flag fra Côte d’Ivoire</string>
+	<key>⬇️</key>
+	<string>pil ned</string>
+	<key>👩‍✈️</key>
+	<string>kvindelig pilot</string>
+	<key>👩‍👧‍👦</key>
+	<string>familie med mor, søn og datter</string>
+	<key>🇸🇰</key>
+	<string>Slovakiets flag</string>
+	<key>🌡️</key>
+	<string>termometer</string>
+	<key>↪️</key>
+	<string>venstrepil, der buer til højre</string>
+	<key>🇸🇱</key>
+	<string>Sierra Leones flag</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>to mænd, der kysser</string>
+	<key>🇨🇰</key>
+	<string>Cookøernes flag</string>
+	<key>🇸🇲</key>
+	<string>San Marinos flag</string>
+	<key>🇬🇱</key>
+	<string>Grønlands flag</string>
+	<key>🇴🇲</key>
+	<string>Omans flag</string>
+	<key>🇨🇱</key>
+	<string>Chiles flag</string>
+	<key>🇰🇲</key>
+	<string>Comorernes flag</string>
+	<key>🇸🇳</key>
+	<string>Senegals flag</string>
+	<key>🇬🇲</key>
+	<string>Gambias flag</string>
+	<key>1️⃣</key>
+	<string>1 på numerisk blok</string>
+	<key>Ⓜ️</key>
+	<string>m i en cirkel</string>
+	<key>🇨🇲</key>
+	<string>Camerouns flag</string>
+	<key>👨‍⚕️</key>
+	<string>mandlig sundhedsarbejder</string>
+	<key>🙎‍♂️</key>
+	<string>surmulende mand</string>
+	<key>🇰🇳</key>
+	<string>Skt. Kitts' &amp; Nevis' flag</string>
+	<key>🇸🇴</key>
+	<string>Somalias flag</string>
+	<key>🇬🇳</key>
+	<string>Guineas flag</string>
+	<key>🇨🇳</key>
+	<string>Kinas flag</string>
+	<key>☢️</key>
+	<string>radioaktiv</string>
+	<key>🇨🇴</key>
+	<string>Colombias flag</string>
+	<key>‼️</key>
+	<string>rødt dobbelt udråbstegn</string>
+	<key>🃏</key>
+	<string>joker</string>
+	<key>🇰🇵</key>
+	<string>Nordkoreas flag</string>
+	<key>🇬🇵</key>
+	<string>Guadeloupes flag</string>
+	<key>㊗️</key>
+	<string>Japansk symbol for tillykke</string>
+	<key>🐿️</key>
+	<string>jordegern</string>
+	<key>🇨🇵</key>
+	<string>Clippertonøens flag</string>
+	<key>🇸🇷</key>
+	<string>Surinams flag</string>
+	<key>🏳️‍⚧️</key>
+	<string>flag for transkønnet</string>
+	<key>🇬🇶</key>
+	<string>Ækvatorialguineas flag</string>
+	<key>🇼🇸</key>
+	<string>Samoas flag</string>
+	<key>*️⃣</key>
+	<string>asterisk på numerisk blok</string>
+	<key>🇰🇷</key>
+	<string>Sydkoreas flag</string>
+	<key>🇸🇸</key>
+	<string>Sydsudans flag</string>
+	<key>🇬🇷</key>
+	<string>Grækenlands flag</string>
+	<key>🇨🇷</key>
+	<string>Costa Ricas flag</string>
+	<key>®️</key>
+	<string>registreret varemærketegn</string>
+	<key>🇸🇹</key>
+	<string>São Tomés &amp; Príncipes flag</string>
+	<key>🇬🇸</key>
+	<string>South Georgia og De Sydlige Sandwichøers flag</string>
+	<key>↕️</key>
+	<string>pil op/ned</string>
+	<key>🇬🇹</key>
+	<string>Guatemalas flag</string>
+	<key>☔️</key>
+	<string>paraply med regndråber</string>
+	<key>🏳️‍🌈</key>
+	<string>regnbueflag</string>
+	<key>🇸🇻</key>
+	<string>El Salvadors flag</string>
+	<key>🕴️</key>
+	<string>mand i jakkesæt, der svæver</string>
+	<key>⛄️</key>
+	<string>snemand</string>
+	<key>🇬🇺</key>
+	<string>Guams flag</string>
+	<key>🇨🇺</key>
+	<string>Cubas flag</string>
+	<key>#️⃣</key>
+	<string>nummertegn</string>
+	<key>🤼‍♂️</key>
+	<string>mænd, der bryder</string>
+	<key>🌥️</key>
+	<string>sol bag stor sky</string>
+	<key>👁️</key>
+	<string>øje</string>
+	<key>🇨🇻</key>
+	<string>Kap Verdes flag</string>
+	<key>🍽️</key>
+	<string>kniv og gaffel med tallerken</string>
+	<key>🇰🇼</key>
+	<string>Kuwaits flag</string>
+	<key>🇸🇽</key>
+	<string>Sint Maartens flag</string>
+	<key>🇬🇼</key>
+	<string>Guinea-Bissaus flag</string>
+	<key>🏕️</key>
+	<string>camping</string>
+	<key>🩰</key>
+	<string>balletsko</string>
+	<key>🇨🇼</key>
+	<string>Curaçaos flag</string>
+	<key>🩱</key>
+	<string>badedragt</string>
+	<key>🇸🇾</key>
+	<string>Syriens flag</string>
+	<key>♥️</key>
+	<string>hjerter</string>
+	<key>🩲</key>
+	<string>underbukser</string>
+	<key>🕉️</key>
+	<string>omsymbol</string>
+	<key>⚽️</key>
+	<string>fodbold</string>
+	<key>🩳</key>
+	<string>shorts</string>
+	<key>🇨🇽</key>
+	<string>Juleøernes flag</string>
+	<key>🩴</key>
+	<string>sandal</string>
+	<key>🇰🇾</key>
+	<string>Caymanøernes flag</string>
+	<key>🇸🇿</key>
+	<string>Eswatinis flag</string>
+	<key>🩵</key>
+	<string>lyseblåt hjerte</string>
+	<key>👩‍👧‍👧</key>
+	<string>familie med mor og to døtre</string>
+	<key>🇬🇾</key>
+	<string>Guyanas flag</string>
+	<key>🩶</key>
+	<string>gråt hjerte</string>
+	<key>🩷</key>
+	<string>lyserødt hjerte</string>
+	<key>🇨🇾</key>
+	<string>Cyperns flag</string>
+	<key>🇰🇿</key>
+	<string>Kasakhstans flag</string>
+	<key>🩸</key>
+	<string>bloddråbe</string>
+	<key>🩹</key>
+	<string>plaster</string>
+	<key>🩺</key>
+	<string>stetoskop</string>
+	<key>🇨🇿</key>
+	<string>Tjekkiets flag</string>
+	<key>🩻</key>
+	<string>røntgenbillede</string>
+	<key>🩼</key>
+	<string>krykke</string>
+	<key>🕶️</key>
+	<string>solbriller</string>
+	<key>🧘‍♀️</key>
+	<string>kvinde i lotusstilling</string>
+	<key>⏯️</key>
+	<string>afspil-/pausesymbol</string>
+	<key>🪀</key>
+	<string>yoyo</string>
+	<key>🌧️</key>
+	<string>sky med regn</string>
+	<key>🪁</key>
+	<string>legetøjsdrage</string>
+	<key>🪂</key>
+	<string>faldskærm</string>
+	<key>🧑‍🎤</key>
+	<string>sanger</string>
+	<key>🪃</key>
+	<string>boomerang</string>
+	<key>🪄</key>
+	<string>tryllestav</string>
+	<key>🏗️</key>
+	<string>byggeplads</string>
+	<key>🪅</key>
+	<string>piñata</string>
+	<key>🪆</key>
+	<string>babusjkadukker</string>
+	<key>🚴‍♀️</key>
+	<string>kvindelig cyklist</string>
+	<key>🪇</key>
+	<string>maracas</string>
+	<key>🐀</key>
+	<string>rotte</string>
+	<key>🪈</key>
+	<string>fløjte</string>
+	<key>🐁</key>
+	<string>mus</string>
+	<key>🐂</key>
+	<string>okse</string>
+	<key>🐃</key>
+	<string>vandbøffel</string>
+	<key>🐄</key>
+	<string>ko</string>
+	<key>🅱️</key>
+	<string>blodtype B</string>
+	<key>🐅</key>
+	<string>tiger</string>
+	<key>🐆</key>
+	<string>leopard</string>
+	<key>🐇</key>
+	<string>kanin</string>
+	<key>🐈</key>
+	<string>kat</string>
+	<key>🪐</key>
+	<string>planet</string>
+	<key>♐️</key>
+	<string>Skytte</string>
+	<key>🐉</key>
+	<string>drage</string>
+	<key>🪑</key>
+	<string>stol</string>
+	<key>🕸️</key>
+	<string>edderkoppespind</string>
+	<key>🐊</key>
+	<string>krokodille</string>
+	<key>🪒</key>
+	<string>barberskraber</string>
+	<key>👩‍🍳</key>
+	<string>kvindelig kok</string>
+	<key>🐋</key>
+	<string>hval</string>
+	<key>👯‍♀️</key>
+	<string>dansende kvinder med kaninører</string>
+	<key>🪓</key>
+	<string>økse</string>
+	<key>🐌</key>
+	<string>snegl</string>
+	<key>🪔</key>
+	<string>diya-lampe</string>
+	<key>🐍</key>
+	<string>slange</string>
+	<key>🪕</key>
+	<string>banjo</string>
+	<key>🏄‍♂️</key>
+	<string>mandlig surfer</string>
+	<key>🌩️</key>
+	<string>sky med lyn</string>
+	<key>🐎</key>
+	<string>hest</string>
+	<key>🪖</key>
+	<string>militærhjelm</string>
+	<key>🐏</key>
+	<string>vædder</string>
+	<key>🪗</key>
+	<string>harmonika</string>
+	<key>🐐</key>
+	<string>ged</string>
+	<key>🪘</key>
+	<string>høj tromme</string>
+	<key>👨‍🎤</key>
+	<string>mandlig sanger</string>
+	<key>🏙️</key>
+	<string>bylandskab</string>
+	<key>🐑</key>
+	<string>får</string>
+	<key>🪙</key>
+	<string>mønt</string>
+	<key>🐒</key>
+	<string>abe</string>
+	<key>🪚</key>
+	<string>håndsav</string>
+	<key>♉️</key>
+	<string>Tyr</string>
+	<key>🐓</key>
+	<string>hane</string>
+	<key>🪛</key>
+	<string>skruetrækker</string>
+	<key>⚡️</key>
+	<string>lyn</string>
+	<key>🐔</key>
+	<string>kylling</string>
+	<key>🪜</key>
+	<string>stige</string>
+	<key>⛹️</key>
+	<string>basketballspiller</string>
+	<key>🖥️</key>
+	<string>skrivebordscomputer</string>
+	<key>🐕</key>
+	<string>hund</string>
+	<key>🪝</key>
+	<string>krog</string>
+	<key>🧑‍🎨</key>
+	<string>kunstner</string>
+	<key>🐖</key>
+	<string>gris</string>
+	<key>🪞</key>
+	<string>spejl</string>
+	<key>🐗</key>
+	<string>vildsvin</string>
+	<key>🪟</key>
+	<string>vindue</string>
+	<key>🐘</key>
+	<string>elefant</string>
+	<key>🙅‍♀️</key>
+	<string>kvinde, der signalerer nej</string>
+	<key>🪠</key>
+	<string>svupper</string>
+	<key>🐙</key>
+	<string>blæksprutte</string>
+	<key>🪡</key>
+	<string>synål</string>
+	<key>🐚</key>
+	<string>konkylie</string>
+	<key>🪢</key>
+	<string>knob</string>
+	<key>🚣‍♀️</key>
+	<string>kvinde, der ror en båd</string>
+	<key>🐛</key>
+	<string>kryb</string>
+	<key>🪣</key>
+	<string>spand</string>
+	<key>🐜</key>
+	<string>myre</string>
+	<key>🪤</key>
+	<string>musefælde</string>
+	<key>🐝</key>
+	<string>bi</string>
+	<key>🪥</key>
+	<string>tandbørste</string>
+	<key>🐞</key>
+	<string>mariehøne</string>
+	<key>🪦</key>
+	<string>gravsten</string>
+	<key>⛲️</key>
+	<string>fontæne</string>
+	<key>🐟</key>
+	<string>fisk</string>
+	<key>🪧</key>
+	<string>skilt</string>
+	<key>🐠</key>
+	<string>tropisk fisk</string>
+	<key>🗒️</key>
+	<string>notesbog med spiralryg</string>
+	<key>🪨</key>
+	<string>sten</string>
+	<key>🐡</key>
+	<string>kuglefisk</string>
+	<key>🪩</key>
+	<string>spejlkugle</string>
+	<key>🧖‍♂️</key>
+	<string>mand i en sauna</string>
+	<key>🌫️</key>
+	<string>tåge</string>
+	<key>🐢</key>
+	<string>skildpadde</string>
+	<key>🪪</key>
+	<string>id-kort</string>
+	<key>🐣</key>
+	<string>udklækket kylling</string>
+	<key>🪫</key>
+	<string>batteri med lav spænding</string>
+	<key>🐤</key>
+	<string>lille kylling</string>
+	<key>🪬</key>
+	<string>hamsa-amulet</string>
+	<key>🐥</key>
+	<string>stående kylling</string>
+	<key>😶‍🌫️</key>
+	<string>ansigt i skyerne</string>
+	<key>🏛️</key>
+	<string>klassisk bygning</string>
+	<key>🪭</key>
+	<string>vifte</string>
+	<key>🐦</key>
+	<string>fugl</string>
+	<key>🧛‍♀️</key>
+	<string>kvindelig vampyr</string>
+	<key>🪮</key>
+	<string>kam</string>
+	<key>🐧</key>
+	<string>pingvin</string>
+	<key>🪯</key>
+	<string>khanda-symbol</string>
+	<key>🐨</key>
+	<string>koalaansigt</string>
+	<key>⚓️</key>
+	<string>anker</string>
+	<key>🪰</key>
+	<string>flue</string>
+	<key>🐩</key>
+	<string>puddel</string>
+	<key>🪱</key>
+	<string>orm</string>
+	<key>🐪</key>
+	<string>dromedar</string>
+	<key>🪲</key>
+	<string>bille</string>
+	<key>👨‍🎨</key>
+	<string>mandlig kunstner</string>
+	<key>🐫</key>
+	<string>kamel</string>
+	<key>🪳</key>
+	<string>kakerlak</string>
+	<key>🐬</key>
+	<string>delfin</string>
+	<key>🪴</key>
+	<string>potteplante</string>
+	<key>🐭</key>
+	<string>museansigt</string>
+	<key>🪵</key>
+	<string>træ</string>
+	<key>🐮</key>
+	<string>koansigt</string>
+	<key>🪶</key>
+	<string>fjer</string>
+	<key>🐯</key>
+	<string>tigeransigt</string>
+	<key>🪷</key>
+	<string>lotusblomst</string>
+	<key>🐕‍🦺</key>
+	<string>servicehund</string>
+	<key>🐰</key>
+	<string>kaninansigt</string>
+	<key>🪸</key>
+	<string>koral</string>
+	<key>🐱</key>
+	<string>katteansigt</string>
+	<key>🪹</key>
+	<string>tom rede</string>
+	<key>🐲</key>
+	<string>dragehoved</string>
+	<key>🪺</key>
+	<string>rede med æg</string>
+	<key>🐳</key>
+	<string>sprøjtende hval</string>
+	<key>🪻</key>
+	<string>hyacint</string>
+	<key>🐴</key>
+	<string>hestehoved</string>
+	<key>🪼</key>
+	<string>gople</string>
+	<key>🐵</key>
+	<string>abeansigt</string>
+	<key>🪽</key>
+	<string>vinge</string>
+	<key>🐶</key>
+	<string>hundeansigt</string>
+	<key>🐷</key>
+	<string>griseansigt</string>
+	<key>🪿</key>
+	<string>gås</string>
+	<key>🐸</key>
+	<string>frøansigt</string>
+	<key>🫀</key>
+	<string>anatomisk hjerte</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>Englands flag</string>
+	<key>🐹</key>
+	<string>hamsteransigt</string>
+	<key>🫁</key>
+	<string>lunger</string>
+	<key>🐺</key>
+	<string>ulv</string>
+	<key>🏝️</key>
+	<string>øde ø</string>
+	<key>🫂</key>
+	<string>personer, der omfavner hinanden</string>
+	<key>🐻</key>
+	<string>bjørneansigt</string>
+	<key>🏌️‍♂️</key>
+	<string>mandlig golfspiller</string>
+	<key>🫃</key>
+	<string>gravid mand</string>
+	<key>🐼</key>
+	<string>pandaansigt</string>
+	<key>🫄</key>
+	<string>gravid person</string>
+	<key>6️⃣</key>
+	<string>6 på numerisk blok</string>
+	<key>🐽</key>
+	<string>grisetryne</string>
+	<key>🫅</key>
+	<string>person med krone</string>
+	<key>🐾</key>
+	<string>poteaftryk</string>
+	<key>👀</key>
+	<string>øjne</string>
+	<key>👂</key>
+	<string>øre</string>
+	<key>👃</key>
+	<string>næse</string>
+	<key>👄</key>
+	<string>mund</string>
+	<key>👅</key>
+	<string>tunge</string>
+	<key>☦️</key>
+	<string>Ortodoks kors</string>
+	<key>👆</key>
+	<string>håndryg med pegefinger opad</string>
+	<key>👩‍🍼</key>
+	<string>kvinde, der mader en baby</string>
+	<key>🫎</key>
+	<string>elghoved</string>
+	<key>♾️</key>
+	<string>uendelig</string>
+	<key>👇</key>
+	<string>håndryg med pegefinger nedad</string>
+	<key>🫏</key>
+	<string>æsel</string>
+	<key>👈</key>
+	<string>håndryg med pegefinger til venstre</string>
+	<key>🫐</key>
+	<string>blåbær</string>
+	<key>👉</key>
+	<string>håndryg med pegefinger til højre</string>
+	<key>🫑</key>
+	<string>peberfrugt</string>
+	<key>👊</key>
+	<string>knyttet næve</string>
+	<key>🫒</key>
+	<string>oliven</string>
+	<key>⭕️</key>
+	<string>cirkel</string>
+	<key>💁‍♂️</key>
+	<string>mand ved informationsskranke</string>
+	<key>👋</key>
+	<string>vinkende hånd</string>
+	<key>🫓</key>
+	<string>fladbrød</string>
+	<key>👌</key>
+	<string>håndtegn for OK</string>
+	<key>🫔</key>
+	<string>tamale</string>
+	<key>👍</key>
+	<string>tommelfinger opad</string>
+	<key>🫕</key>
+	<string>fondue</string>
+	<key>👎</key>
+	<string>tommelfinger nedad</string>
+	<key>🫖</key>
+	<string>tekande</string>
+	<key>🏟️</key>
+	<string>stadion</string>
+	<key>👏</key>
+	<string>klappende hænder</string>
+	<key>🫗</key>
+	<string>hælde væske</string>
+	<key>💆‍♀️</key>
+	<string>kvinde, der får hovedmassage</string>
+	<key>👐</key>
+	<string>åbne hænder</string>
+	<key>🫘</key>
+	<string>bønner</string>
+	<key>🐦‍⬛</key>
+	<string>solsort</string>
+	<key>🧑‍🦯</key>
+	<string>person med hvid stok</string>
+	<key>🫙</key>
+	<string>krukke</string>
+	<key>🧙‍♂️</key>
+	<string>mandlig magiker</string>
+	<key>👑</key>
+	<string>krone</string>
+	<key>⛏️</key>
+	<string>hakke</string>
+	<key>👒</key>
+	<string>hat med sløjfe</string>
+	<key>🫚</key>
+	<string>ingefærrod</string>
+	<key>👓</key>
+	<string>briller</string>
+	<key>🫛</key>
+	<string>ærtebælg</string>
+	<key>👔</key>
+	<string>skjorte og slips</string>
+	<key>👕</key>
+	<string>poloskjorte</string>
+	<key>👖</key>
+	<string>cowboybukser</string>
+	<key>🧞‍♀️</key>
+	<string>kvindelig ånd</string>
+	<key>👗</key>
+	<string>kjole</string>
+	<key>↙️</key>
+	<string>pil ned og til venstre</string>
+	<key>🧑‍🦰</key>
+	<string>person med rødt hår</string>
+	<key>🕵️‍♂️</key>
+	<string>mandlig detektiv</string>
+	<key>👘</key>
+	<string>kimono</string>
+	<key>🟠</key>
+	<string>orange cirkel</string>
+	<key>🫠</key>
+	<string>smeltende ansigt</string>
+	<key>🟡</key>
+	<string>gul cirkel</string>
+	<key>👩‍❤️‍👨</key>
+	<string>mand og kvinde med hjerte</string>
+	<key>👙</key>
+	<string>bikini</string>
+	<key>◀️</key>
+	<string>trekant, der peger mod venstre</string>
+	<key>🫡</key>
+	<string>ansigt, der gør honnør</string>
+	<key>🟢</key>
+	<string>grøn cirkel</string>
+	<key>👚</key>
+	<string>bluse</string>
+	<key>☘️</key>
+	<string>trekløver</string>
+	<key>🫢</key>
+	<string>ansigt med åbne øjne og hånden over munden</string>
+	<key>🚵‍♂️</key>
+	<string>mandlig cyklist på mountainbike</string>
+	<key>🟣</key>
+	<string>lilla cirkel</string>
+	<key>👛</key>
+	<string>pung</string>
+	<key>🫣</key>
+	<string>ansigt, der smugkigger</string>
+	<key>🟤</key>
+	<string>brun cirkel</string>
+	<key>👜</key>
+	<string>håndtaske</string>
+	<key>⛈️</key>
+	<string>sky med lyn og regn</string>
+	<key>🫤</key>
+	<string>ansigt med skrå mund</string>
+	<key>🟥</key>
+	<string>rødt kvadrat</string>
+	<key>👝</key>
+	<string>pung</string>
+	<key>🫥</key>
+	<string>stiplet linje-ansigt</string>
+	<key>🟦</key>
+	<string>blåt kvadrat</string>
+	<key>👞</key>
+	<string>gallasko</string>
+	<key>🧑‍🦱</key>
+	<string>person med krøllet hår</string>
+	<key>🫦</key>
+	<string>læbe, der bides</string>
+	<key>🟧</key>
+	<string>orange kvadrat</string>
+	<key>🦹‍♀️</key>
+	<string>kvindelig superskurk</string>
+	<key>👟</key>
+	<string>tennissko</string>
+	<key>🫧</key>
+	<string>bobler</string>
+	<key>🟨</key>
+	<string>gult kvadrat</string>
+	<key>❤️‍🔥</key>
+	<string>hjerte i brand</string>
+	<key>👠</key>
+	<string>højhælet sko</string>
+	<key>🟩</key>
+	<string>grønt kvadrat</string>
+	<key>🫨</key>
+	<string>rystende ansigt</string>
+	<key>👡</key>
+	<string>sandal med hæl</string>
+	<key>🟪</key>
+	<string>lilla kvadrat</string>
+	<key>👢</key>
+	<string>støvler med hæl</string>
+	<key>🟫</key>
+	<string>brunt kvadrat</string>
+	<key>👣</key>
+	<string>fodaftryk</string>
+	<key>🛠️</key>
+	<string>hammer og skruenøgle</string>
+	<key>📽️</key>
+	<string>filmfremviser</string>
+	<key>👤</key>
+	<string>silhuet af en person</string>
+	<key>☑️</key>
+	<string>markering i afkrydsningsfelt</string>
+	<key>🧑‍🦲</key>
+	<string>person uden hår</string>
+	<key>👥</key>
+	<string>silhuet af to personer</string>
+	<key>👦</key>
+	<string>dreng</string>
+	<key>👨‍🦯</key>
+	<string>mand med hvid stok</string>
+	<key>👧</key>
+	<string>pige</string>
+	<key>👰‍♂️</key>
+	<string>mand med slør</string>
+	<key>👩‍🚀</key>
+	<string>kvindelig astronaut</string>
+	<key>🟰</key>
+	<string>lighedstegn</string>
+	<key>🏴‍☠️</key>
+	<string>piratflag</string>
+	<key>👨</key>
+	<string>mand</string>
+	<key>🫰</key>
+	<string>hånd med krydset pegefinger og tommelfinger</string>
+	<key>⏺️</key>
+	<string>optag-symbol</string>
+	<key>👩</key>
+	<string>kvinde</string>
+	<key>🫱</key>
+	<string>hånd til højre</string>
+	<key>👪</key>
+	<string>familie</string>
+	<key>🫲</key>
+	<string>hånd til venstre</string>
+	<key>👫</key>
+	<string>mand og kvinde, der holder hinanden i hånden</string>
+	<key>🫳</key>
+	<string>håndflade nedad</string>
+	<key>🧑‍🦳</key>
+	<string>person med hvidt hår</string>
+	<key>👬</key>
+	<string>to mænd, der holder i hånd</string>
+	<key>🫴</key>
+	<string>håndflade opad</string>
+	<key>👭</key>
+	<string>to kvinder, der holder i hånd</string>
+	<key>👨‍🦰</key>
+	<string>mand med rødt hår</string>
+	<key>🫵</key>
+	<string>pegefinger, der peger på seeren</string>
+	<key>👮</key>
+	<string>politibetjent</string>
+	<key>🏊‍♂️</key>
+	<string>mandlig svømmer</string>
+	<key>🫶</key>
+	<string>hjertehænder</string>
+	<key>👯</key>
+	<string>dansende personer med kaninører</string>
+	<key>🫷</key>
+	<string>hånd der skubber til venstre</string>
+	<key>👰</key>
+	<string>person med slør</string>
+	<key>🫸</key>
+	<string>hånd der skubber til højre</string>
+	<key>👱</key>
+	<string>lyshåret person</string>
+	<key>✒️</key>
+	<string>fyldepen</string>
+	<key>👲</key>
+	<string>mand med kinesisk kasket</string>
+	<key>🧍‍♀️</key>
+	<string>kvinde, der står op</string>
+	<key>👳</key>
+	<string>person med turban</string>
+	<key>👨‍🦱</key>
+	<string>mand med krøllet hår</string>
+	<key>👴</key>
+	<string>ældre mand</string>
+	<key>🙆‍♂️</key>
+	<string>mand, der signalerer OK</string>
+	<key>👵</key>
+	<string>ældre kvinde</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>familie med mor, far, søn og datter</string>
+	<key>👶</key>
+	<string>baby</string>
+	<key>👷</key>
+	<string>arbejder</string>
+	<key>▫️</key>
+	<string>lille hvidt kvadrat</string>
+	<key>👸</key>
+	<string>prinsesse</string>
+	<key>🛢️</key>
+	<string>olietønde</string>
+	<key>☃️</key>
+	<string>snemand med snefnug</string>
+	<key>👹</key>
+	<string>uhyre</string>
+	<key>🙋‍♀️</key>
+	<string>kvinde, der løfter en hånd</string>
+	<key>👺</key>
+	<string>trold</string>
+	<key>👨‍🦲</key>
+	<string>mand uden hår</string>
+	<key>🇹🇦</key>
+	<string>Tristan da Cunhas flag</string>
+	<key>👻</key>
+	<string>spøgelse</string>
+	<key>🇵🇦</key>
+	<string>Panamas flag</string>
+	<key>👼</key>
+	<string>englebarn</string>
+	<key>❣️</key>
+	<string>rødt hjerte som udråbstegn</string>
+	<key>👽</key>
+	<string>rumvæsen</string>
+	<key>🇱🇦</key>
+	<string>Laos' flag</string>
+	<key>👾</key>
+	<string>fremmed uhyre</string>
+	<key>👿</key>
+	<string>vredt ansigt med horn</string>
+	<key>💀</key>
+	<string>kranium</string>
+	<key>🇱🇧</key>
+	<string>Libanons flag</string>
+	<key>👨‍🦳</key>
+	<string>hvidhåret mand</string>
+	<key>💁</key>
+	<string>medarbejder ved informationsskranke</string>
+	<key>🇹🇨</key>
+	<string>Turks- og Caicosøernes flag</string>
+	<key>🧜‍♂️</key>
+	<string>havmand</string>
+	<key>💂</key>
+	<string>garder</string>
+	<key>💃</key>
+	<string>kvinde, der danser</string>
+	<key>◼️</key>
+	<string>medium sort kvadrat</string>
+	<key>🇱🇨</key>
+	<string>Skt. Lucias flag</string>
+	<key>💄</key>
+	<string>læbestift</string>
+	<key>🇹🇩</key>
+	<string>Tchads flag</string>
+	<key>💅</key>
+	<string>neglelak</string>
+	<key>💆</key>
+	<string>person, der får hovedmassage</string>
+	<key>💇</key>
+	<string>person, der bliver klippet</string>
+	<key>🗜️</key>
+	<string>skruetvinge</string>
+	<key>💈</key>
+	<string>barberstang</string>
+	<key>💉</key>
+	<string>kanyle</string>
+	<key>🇵🇪</key>
+	<string>Perus flag</string>
+	<key>💊</key>
+	<string>pille</string>
+	<key>💋</key>
+	<string>læbeaftryk</string>
+	<key>🇹🇫</key>
+	<string>Franske Sydlige og Antarktiske Territoriers flag</string>
+	<key>💌</key>
+	<string>kærestebrev</string>
+	<key>👩‍❤️‍👩</key>
+	<string>to kvinder med hjerte</string>
+	<key>🇵🇫</key>
+	<string>Fransk Polynesiens flag</string>
+	<key>🛤️</key>
+	<string>jernbanespor</string>
+	<key>💍</key>
+	<string>ring</string>
+	<key>🆎</key>
+	<string>blodtype AB</string>
+	<key>🇩🇪</key>
+	<string>Tysklands flag</string>
+	<key>🈂️</key>
+	<string>japansk symbol for drikkepenge</string>
+	<key>💎</key>
+	<string>ædelsten</string>
+	<key>♍️</key>
+	<string>Jomfru</string>
+	<key>🇹🇬</key>
+	<string>Togos flag</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>to kvinder, der kysser</string>
+	<key>💏</key>
+	<string>par, der kysser</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>personer, der holder i hånd</string>
+	<key>💐</key>
+	<string>buket</string>
+	<key>⛽️</key>
+	<string>benzinpumpe</string>
+	<key>🇵🇬</key>
+	<string>Papua Ny Guineas flag</string>
+	<key>🖱️</key>
+	<string>computermus</string>
+	<key>🆑</key>
+	<string>CL-tegn</string>
+	<key>💑</key>
+	<string>par med hjerte</string>
+	<key>🆒</key>
+	<string>“COOL”-symbol</string>
+	<key>🇹🇭</key>
+	<string>Thailands flag</string>
+	<key>💒</key>
+	<string>bryllup</string>
+	<key>🆓</key>
+	<string>gratis-skilt</string>
+	<key>💓</key>
+	<string>bankende hjerte</string>
+	<key>🆔</key>
+	<string>id-tegn</string>
+	<key>🇵🇭</key>
+	<string>Filippinernes flag</string>
+	<key>👩‍⚖️</key>
+	<string>kvindelig dommer</string>
+	<key>💔</key>
+	<string>knust hjerte</string>
+	<key>🇩🇬</key>
+	<string>Diego Garcias flag</string>
+	<key>🆕</key>
+	<string>“NEW”-symbol</string>
+	<key>🅿️</key>
+	<string>parkeringsskilt</string>
+	<key>💕</key>
+	<string>to hjerter</string>
+	<key>🤹‍♀️</key>
+	<string>kvinde, der jonglerer</string>
+	<key>🆖</key>
+	<string>tegn for ikke OK</string>
+	<key>💖</key>
+	<string>hjerte med stjerneglimt</string>
+	<key>🆗</key>
+	<string>tegn for OK</string>
+	<key>💗</key>
+	<string>svulmende hjerte</string>
+	<key>👳‍♂️</key>
+	<string>mand med turban</string>
+	<key>🆘</key>
+	<string>SOS-tegn</string>
+	<key>💘</key>
+	<string>hjerte med pil</string>
+	<key>🇱🇮</key>
+	<string>Liechtensteins flag</string>
+	<key>🆙</key>
+	<string>“UP”-symbol</string>
+	<key>🈯️</key>
+	<string>Japansk symbol for reserveret</string>
+	<key>🇹🇯</key>
+	<string>Tadsjikistans flag</string>
+	<key>💙</key>
+	<string>blåt hjerte</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>familie med to fædre og to sønner</string>
+	<key>🆚</key>
+	<string>kvadratisk VS</string>
+	<key>💚</key>
+	<string>grønt hjerte</string>
+	<key>🇽🇰</key>
+	<string>Kosovos flag</string>
+	<key>💛</key>
+	<string>gult hjerte</string>
+	<key>🗞️</key>
+	<string>sammenrullet avis</string>
+	<key>💜</key>
+	<string>lilla hjerte</string>
+	<key>🇹🇰</key>
+	<string>Tokelaus flag</string>
+	<key>💝</key>
+	<string>hjerte med bånd</string>
+	<key>🇵🇰</key>
+	<string>Pakistans flag</string>
+	<key>💞</key>
+	<string>roterende hjerter</string>
+	<key>🇩🇯</key>
+	<string>Djiboutis flag</string>
+	<key>💟</key>
+	<string>hjertedekoration</string>
+	<key>🇱🇰</key>
+	<string>Sri Lankas flag</string>
+	<key>🇹🇱</key>
+	<string>Timor-Lestes flag</string>
+	<key>👩‍🤝‍👨</key>
+	<string>kvinde og mand, der holder i hånd</string>
+	<key>💠</key>
+	<string>rombe med en prik indeni</string>
+	<key>🇭🇰</key>
+	<string>Hongkongs flag</string>
+	<key>💡</key>
+	<string>elpære</string>
+	<key>🇵🇱</key>
+	<string>Polens flag</string>
+	<key>🇩🇰</key>
+	<string>Danmarks flag</string>
+	<key>💢</key>
+	<string>vredessymbol</string>
+	<key>🇹🇲</key>
+	<string>Turkmenistans flag</string>
+	<key>💣</key>
+	<string>bombe</string>
+	<key>⚗️</key>
+	<string>destillationskolbe</string>
+	<key>💤</key>
+	<string>sovesymbol</string>
+	<key>🇵🇲</key>
+	<string>Saint Pierre og Miquelons flag</string>
+	<key>💥</key>
+	<string>eksplosion</string>
+	<key>❇️</key>
+	<string>gnist</string>
+	<key>💦</key>
+	<string>vanddråber</string>
+	<key>🇹🇳</key>
+	<string>Tunesiens flag</string>
+	<key>🧑‍🦼</key>
+	<string>person i elektrisk kørestol</string>
+	<key>💧</key>
+	<string>dråbe</string>
+	<key>🇭🇲</key>
+	<string>Heard- og McDonald-øernes flag</string>
+	<key>🇵🇳</key>
+	<string>Pitcairnøernes flag</string>
+	<key>💨</key>
+	<string>vindstød</string>
+	<key>🇩🇲</key>
+	<string>Dominicas flag</string>
+	<key>💩</key>
+	<string>bunke afføring</string>
+	<key>🙎‍♀️</key>
+	<string>surmulende kvinde</string>
+	<key>🇹🇴</key>
+	<string>Tongas flag</string>
+	<key>💪</key>
+	<string>spændt biceps</string>
+	<key>🇭🇳</key>
+	<string>Honduras' flag</string>
+	<key>👩‍👦</key>
+	<string>familie med mor og søn</string>
+	<key>💫</key>
+	<string>symbol for svimmelhed</string>
+	<key>💇‍♂️</key>
+	<string>mand, der bliver klippet</string>
+	<key>💬</key>
+	<string>taleboble</string>
+	<key>☸️</key>
+	<string>livshjulet</string>
+	<key>💭</key>
+	<string>tankeboble</string>
+	<key>🧑‍🦽</key>
+	<string>person i manuel kørestol</string>
+	<key>💮</key>
+	<string>hvid blomst</string>
+	<key>💯</key>
+	<string>symbol for hundred point</string>
+	<key>🇩🇴</key>
+	<string>Den Dominikanske Republiks flag</string>
+	<key>💰</key>
+	<string>pengesæk</string>
+	<key>💱</key>
+	<string>valutaveksling</string>
+	<key>😵‍💫</key>
+	<string>ansigt med spiraløjne</string>
+	<key>👩‍👧</key>
+	<string>familie med mor og datter</string>
+	<key>🧟‍♂️</key>
+	<string>mandlig zombie</string>
+	<key>💲</key>
+	<string>dollartegn</string>
+	<key>💳</key>
+	<string>kreditkort</string>
+	<key>🇹🇷</key>
+	<string>Tyrkiets flag</string>
+	<key>💴</key>
+	<string>yensedler</string>
+	<key>💵</key>
+	<string>dollarsedler</string>
+	<key>🇵🇷</key>
+	<string>Puerto Ricos flag</string>
+	<key>💶</key>
+	<string>eurosedler</string>
+	<key>🇱🇷</key>
+	<string>Liberias flag</string>
+	<key>💷</key>
+	<string>pundsedler</string>
+	<key>💸</key>
+	<string>penge med vinger</string>
+	<key>🇭🇷</key>
+	<string>Kroatiens flag</string>
+	<key>🇵🇸</key>
+	<string>De palæstinensiske områders flag</string>
+	<key>💹</key>
+	<string>diagram med stigende tendens og yentegn</string>
+	<key>💺</key>
+	<string>sæde</string>
+	<key>🇱🇸</key>
+	<string>Lesothos flag</string>
+	<key>🇹🇹</key>
+	<string>Trinidads &amp; Tobagos flag</string>
+	<key>💻</key>
+	<string>bærbar</string>
+	<key>💼</key>
+	<string>dokumentmappe</string>
+	<key>👨‍🦼</key>
+	<string>mand i elektrisk kørestol</string>
+	<key>🇵🇹</key>
+	<string>Portugals flag</string>
+	<key>💽</key>
+	<string>minidisc</string>
+	<key>🇱🇹</key>
+	<string>Litauens flag</string>
+	<key>💾</key>
+	<string>diskette</string>
+	<key>🇭🇹</key>
+	<string>Haitis flag</string>
+	<key>💿</key>
+	<string>cd</string>
+	<key>📀</key>
+	<string>dvd</string>
+	<key>🤷‍♂️</key>
+	<string>mand, der trækker på skulderen</string>
+	<key>📁</key>
+	<string>lukket arkivmappe</string>
+	<key>🇱🇺</key>
+	<string>Luxembourgs flag</string>
+	<key>☪️</key>
+	<string>stjerne og halvmåne</string>
+	<key>🇹🇻</key>
+	<string>Tuvalus flag</string>
+	<key>📂</key>
+	<string>åben arkivmappe</string>
+	<key>4️⃣</key>
+	<string>4 på numerisk blok</string>
+	<key>🇭🇺</key>
+	<string>Ungarns flag</string>
+	<key>👨‍🦽</key>
+	<string>mand i manuel kørestol</string>
+	<key>📃</key>
+	<string>side, der er krøllet op</string>
+	<key>🖊️</key>
+	<string>kuglepen</string>
+	<key>📄</key>
+	<string>side, der vender opad</string>
+	<key>🇱🇻</key>
+	<string>Letlands flag</string>
+	<key>🇹🇼</key>
+	<string>Taiwans flag</string>
+	<key>📅</key>
+	<string>kalender</string>
+	<key>🤼‍♀️</key>
+	<string>kvinder, der bryder</string>
+	<key>📆</key>
+	<string>afrivningskalender</string>
+	<key>🇵🇼</key>
+	<string>Palaus flag</string>
+	<key>📇</key>
+	<string>kartotekskort</string>
+	<key>📈</key>
+	<string>diagram med stigende tendens</string>
+	<key>🧑‍🔧</key>
+	<string>mekaniker</string>
+	<key>📉</key>
+	<string>diagram med faldende tendens</string>
+	<key>〰️</key>
+	<string>bølget streg</string>
+	<key>📊</key>
+	<string>søjlediagram</string>
+	<key>📋</key>
+	<string>udklipsholder</string>
+	<key>☣️</key>
+	<string>biologisk betinget fare</string>
+	<key>📌</key>
+	<string>tegnestift</string>
+	<key>♻️</key>
+	<string>genbrugssymbol</string>
+	<key>📍</key>
+	<string>knappenål</string>
+	<key>🇵🇾</key>
+	<string>Paraguays flag</string>
+	<key>⛓️</key>
+	<string>kæder</string>
+	<key>📎</key>
+	<string>papirklips</string>
+	<key>🧎‍♂️</key>
+	<string>mand, der knæler</string>
+	<key>🇱🇾</key>
+	<string>Libyens flag</string>
+	<key>📏</key>
+	<string>lige lineal</string>
+	<key>🇹🇿</key>
+	<string>Tanzanias flag</string>
+	<key>📐</key>
+	<string>vinkellineal</string>
+	<key>📑</key>
+	<string>bogmærkefaner</string>
+	<key>📒</key>
+	<string>hovedbog</string>
+	<key>📓</key>
+	<string>notesbog til stil</string>
+	<key>👩‍🤝‍👩</key>
+	<string>kvinder, der holder i hånd</string>
+	<key>📔</key>
+	<string>notesblok med dekorativt omslag</string>
+	<key>🇩🇿</key>
+	<string>Algeriets flag</string>
+	<key>📕</key>
+	<string>rød lærebog</string>
+	<key>📖</key>
+	<string>åben bog</string>
+	<key>📗</key>
+	<string>grøn lærebog</string>
+	<key>🖌️</key>
+	<string>pensel</string>
+	<key>📘</key>
+	<string>blå lærebog</string>
+	<key>📙</key>
+	<string>orange lærebog</string>
+	<key>👩‍👩‍👦</key>
+	<string>familie med to mødre og søn</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>familie med to fædre og to døtre</string>
+	<key>📚</key>
+	<string>bøger</string>
+	<key>📛</key>
+	<string>navneskilt</string>
+	<key>📜</key>
+	<string>skriftrulle</string>
+	<key>📝</key>
+	<string>memo</string>
+	<key>↖️</key>
+	<string>pil op og til venstre</string>
+	<key>🤦‍♂️</key>
+	<string>mand, der slår sig for panden</string>
+	<key>📞</key>
+	<string>telefonrør</string>
+	<key>👩‍🎓</key>
+	<string>kvindelig studerende</string>
+	<key>👩‍🚒</key>
+	<string>kvindelig brandslukker</string>
+	<key>⤴️</key>
+	<string>højrepil, der buer opad</string>
+	<key>👨‍🔧</key>
+	<string>mandlig mekaniker</string>
+	<key>📟</key>
+	<string>bipper</string>
+	<key>☕️</key>
+	<string>varm drik</string>
+	<key>📠</key>
+	<string>fax</string>
+	<key>📡</key>
+	<string>satellitantenne</string>
+	<key>⛅️</key>
+	<string>sol bag sky</string>
+	<key>📢</key>
+	<string>offentlig højttaler</string>
+	<key>🧑‍🌾</key>
+	<string>landbruger</string>
+	<key>✝️</key>
+	<string>Latinsk kors</string>
+	<key>📣</key>
+	<string>larmende megafon</string>
+	<key>📤</key>
+	<string>udbakke</string>
+	<key>📥</key>
+	<string>indbakke</string>
+	<key>📦</key>
+	<string>pakke</string>
+	<key>📧</key>
+	<string>e-mail</string>
+	<key>📨</key>
+	<string>indkommende kuvert</string>
+	<key>📩</key>
+	<string>kuvert med pil</string>
+	<key>▶️</key>
+	<string>trekant, der peger mod højre</string>
+	<key>🧑‍🔬</key>
+	<string>forsker</string>
+	<key>📪</key>
+	<string>lukket postkasse med sænket flag</string>
+	<key>☎️</key>
+	<string>telefon</string>
+	<key>🈷️</key>
+	<string>Japansk symbol for månedligt beløb</string>
+	<key>♦️</key>
+	<string>ruder</string>
+	<key>📫</key>
+	<string>lukket postkasse med hævet flag</string>
+	<key>📬</key>
+	<string>åben postkasse med hævet flag</string>
+	<key>⚾️</key>
+	<string>baseball</string>
+	<key>📭</key>
+	<string>åben postkasse med sænket flag</string>
+	<key>✖️</key>
+	<string>multiplikationssymbol</string>
+	<key>📮</key>
+	<string>postkasse</string>
+	<key>📯</key>
+	<string>posthorn</string>
+	<key>🏄‍♀️</key>
+	<string>kvindelig surfer</string>
+	<key>📰</key>
+	<string>avis</string>
+	<key>📱</key>
+	<string>mobiltelefon</string>
+	<key>🎗️</key>
+	<string>huskesløjfe</string>
+	<key>📲</key>
+	<string>telefon med pil</string>
+	<key>📳</key>
+	<string>vibration</string>
+	<key>📴</key>
+	<string>mobiltelefon slukket</string>
+	<key>📵</key>
+	<string>ingen mobiltelefoner</string>
+	<key>♟️</key>
+	<string>skakbonde</string>
+	<key>📶</key>
+	<string>mobilsignalstreger</string>
+	<key>📷</key>
+	<string>kamera</string>
+	<key>✏️</key>
+	<string>blyant</string>
+	<key>📸</key>
+	<string>kamera med blitz</string>
+	<key>👨‍🌾</key>
+	<string>mandlig landbruger</string>
+	<key>📹</key>
+	<string>videokamera</string>
+	<key>📺</key>
+	<string>fjernsyn</string>
+	<key>🐻‍❄️</key>
+	<string>isbjørn</string>
+	<key>📻</key>
+	<string>radio</string>
+	<key>📼</key>
+	<string>videokassette</string>
+	<key>☀️</key>
+	<string>sol</string>
+	<key>📿</key>
+	<string>bønnekæde</string>
+	<key>👨‍🔬</key>
+	<string>mandlig forsker</string>
+	<key>🔀</key>
+	<string>symbol for bland spor</string>
+	<key>🈁</key>
+	<string>Japansk tegn for “her”</string>
+	<key>⚰️</key>
+	<string>kiste</string>
+	<key>🔁</key>
+	<string>symbol for afspil igen</string>
+	<key>🖐️</key>
+	<string>løftet hånd med spredte fingre</string>
+	<key>✈️</key>
+	<string>flyvemaskine</string>
+	<key>🔂</key>
+	<string>symbol for afspil et spor igen</string>
+	<key>🗨️</key>
+	<string>taleboble til venstre</string>
+	<key>🔃</key>
+	<string>lodrette pile med uret</string>
+	<key>🧖‍♀️</key>
+	<string>kvinde i en sauna</string>
+	<key>🔄</key>
+	<string>pile mod uret</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>familie med to mødre og to sønner</string>
+	<key>👩‍⚕️</key>
+	<string>kvindelig sundhedsarbejder</string>
+	<key>™️</key>
+	<string>varemærketegn</string>
+	<key>🔅</key>
+	<string>symbol for lav lysstyrke</string>
+	<key>🔆</key>
+	<string>symbol for høj lysstyrke</string>
+	<key>🎙️</key>
+	<string>studiomikrofon</string>
+	<key>🔇</key>
+	<string>lydløs højttaler</string>
+	<key>🔈</key>
+	<string>højttaler</string>
+	<key>🛰️</key>
+	<string>satellit</string>
+	<key>🔉</key>
+	<string>højttaler med medium lydstyrke</string>
+	<key>♑️</key>
+	<string>Stenbuk</string>
+	<key>🔊</key>
+	<string>højttaler med høj lydstyrke</string>
+	<key>🔋</key>
+	<string>batteri</string>
+	<key>🔌</key>
+	<string>elstik</string>
+	<key>👩‍👩‍👧</key>
+	<string>familie med to mødre og datter</string>
+	<key>🔍</key>
+	<string>forstørrelsesglas, der peger mod venstre</string>
+	<key>🔎</key>
+	<string>forstørrelsesglas, der peger mod højre</string>
+	<key>🔏</key>
+	<string>lås med fyldepen</string>
+	<key>🔐</key>
+	<string>lukket lås med nøgle</string>
+	<key>🔑</key>
+	<string>nøgle</string>
+	<key>🔒</key>
+	<string>lukket lås</string>
+	<key>🔓</key>
+	<string>åben lås</string>
+	<key>♊️</key>
+	<string>Tvilling</string>
+	<key>🔔</key>
+	<string>klokke</string>
+	<key>🔕</key>
+	<string>lydløs klokke</string>
+	<key>⛺️</key>
+	<string>telt</string>
+	<key>🔖</key>
+	<string>bogmærke</string>
+	<key>🔗</key>
+	<string>kædesymbol</string>
+	<key>🔘</key>
+	<string>radioknap</string>
+	<key>🔙</key>
+	<string>pil tilbage</string>
+	<key>🔚</key>
+	<string>slutpil</string>
+	<key>🔛</key>
+	<string>on!-pil</string>
+	<key>🎛️</key>
+	<string>kontrolpanelknapper</string>
+	<key>🔜</key>
+	<string>snart-pil</string>
+	<key>🏳️</key>
+	<string>hvidt flag</string>
+	<key>🔝</key>
+	<string>top-pil</string>
+	<key>🔞</key>
+	<string>ikke under atten</string>
+	<key>🔟</key>
+	<string>10 numerisk blok</string>
+	<key>⚛️</key>
+	<string>atomsymbol</string>
+	<key>🔠</key>
+	<string>indtastningssymbol for store bogstaver</string>
+	<key>⛳️</key>
+	<string>golfhul med flag</string>
+	<key>🔡</key>
+	<string>indtastningssymbol for små bogstaver</string>
+	<key>🤽‍♂️</key>
+	<string>mand, der spiller vandpolo</string>
+	<key>🔢</key>
+	<string>indtastningssymbol for tal</string>
+	<key>🔣</key>
+	<string>indtastningssymbol for symboler</string>
+	<key>🔤</key>
+	<string>indtastningssymbol for bogstaver</string>
+	<key>🔥</key>
+	<string>ild</string>
+	<key>🔦</key>
+	<string>lommelygte</string>
+	<key>🔧</key>
+	<string>skruenøgle</string>
+	<key>🔨</key>
+	<string>hammer</string>
+	<key>🔩</key>
+	<string>møtrik og bolt</string>
+	<key>⚔️</key>
+	<string>krydsede sværd</string>
+	<key>🔪</key>
+	<string>kniv</string>
+	<key>🔫</key>
+	<string>vandpistol</string>
+	<key>❄️</key>
+	<string>snefnug</string>
+	<key>🔬</key>
+	<string>mikroskop</string>
+	<key>💁‍♀️</key>
+	<string>kvinde ved informationsskranke</string>
+	<key>🔭</key>
+	<string>teleskop</string>
+	<key>🔮</key>
+	<string>krystalkugle</string>
+	<key>🧔‍♂️</key>
+	<string>mand med skæg</string>
+	<key>🔯</key>
+	<string>sekstakket stjerne med punkt i midten</string>
+	<key>🔰</key>
+	<string>Japansk symbol for begynder</string>
+	<key>🔱</key>
+	<string>treforkemblem</string>
+	<key>🈲</key>
+	<string>Japansk symbol for forbudt</string>
+	<key>🏵️</key>
+	<string>roset</string>
+	<key>🔲</key>
+	<string>sort kvadratisk knap</string>
+	<key>🈳</key>
+	<string>japansk symbol for ledig</string>
+	<key>🔳</key>
+	<string>hvid kvadratisk knap</string>
+	<key>🈴</key>
+	<string>Japansk symbol for bestået</string>
+	<key>🧙‍♀️</key>
+	<string>kvindelig magiker</string>
+	<key>🔴</key>
+	<string>rød cirkel</string>
+	<key>🈵</key>
+	<string>Japansk symbol for ingen ledige værelser</string>
+	<key>🔵</key>
+	<string>blå cirkel</string>
+	<key>🈶</key>
+	<string>Japansk symbol for ikke gratis</string>
+	<key>🔶</key>
+	<string>stor orange ruder</string>
+	<key>🔷</key>
+	<string>stor blå ruder</string>
+	<key>🈸</key>
+	<string>Japansk symbol for ansøgning</string>
+	<key>🔸</key>
+	<string>lille orange ruder</string>
+	<key>🈹</key>
+	<string>Japansk symbol for rabat</string>
+	<key>🔹</key>
+	<string>lille blå ruder</string>
+	<key>9️⃣</key>
+	<string>9 på numerisk blok</string>
+	<key>🈺</key>
+	<string>Japansk symbol for åbent</string>
+	<key>🔺</key>
+	<string>trekant med spidsen opad</string>
+	<key>🔻</key>
+	<string>trekant med spidsen nedad</string>
+	<key>🀄️</key>
+	<string>mahjong-brik med rød drage</string>
+	<key>🔼</key>
+	<string>trekant, der peger opad</string>
+	<key>🚵‍♀️</key>
+	<string>kvindelig cyklist på mountainbike</string>
+	<key>☮️</key>
+	<string>fredstegn</string>
+	<key>🔽</key>
+	<string>trekant, der peger nedad</string>
+	<key>👨‍👦‍👦</key>
+	<string>familie med far og to sønner</string>
+	<key>⬅️</key>
+	<string>venstrepil</string>
+	<key>⛎</key>
+	<string>Slangebæreren</string>
+	<key>🎟️</key>
+	<string>entrebillet</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>familie med to mødre og to døtre</string>
+	<key>🏷️</key>
+	<string>etiket</string>
+	<key>2️⃣</key>
+	<string>2 på numerisk blok</string>
+	<key>♿️</key>
+	<string>symbol for kørestol</string>
+	<key>👰‍♀️</key>
+	<string>kvinde med slør</string>
+	<key>🗃️</key>
+	<string>kartotekskasse</string>
+	<key>🕋</key>
+	<string>Kaaba</string>
+	<key>🕌</key>
+	<string>moske</string>
+	<key>🕍</key>
+	<string>synagoge</string>
+	<key>🕎</key>
+	<string>menorah</string>
+	<key>👩‍🎤</key>
+	<string>kvindelig sanger</string>
+	<key>🉐</key>
+	<string>Japansk symbol for tilbud</string>
+	<key>🏌️</key>
+	<string>golfspiller</string>
+	<key>🛋️</key>
+	<string>sofa og lampe</string>
+	<key>🕐</key>
+	<string>kl. et</string>
+	<key>🏊‍♀️</key>
+	<string>kvindelig svømmer</string>
+	<key>🉑</key>
+	<string>Japansk symbol for accepteret</string>
+	<key>☠️</key>
+	<string>dødningehoved og korslagte knogler</string>
+	<key>🕑</key>
+	<string>kl. to</string>
+	<key>🕒</key>
+	<string>kl. tre</string>
+	<key>🏋️‍♀️</key>
+	<string>kvindelig vægtløfter</string>
+	<key>🕓</key>
+	<string>kl. fire</string>
+	<key>🕔</key>
+	<string>kl. fem</string>
+	<key>🕕</key>
+	<string>kl. seks</string>
+	<key>🕖</key>
+	<string>kl. syv</string>
+	<key>🙆‍♀️</key>
+	<string>kvinde, der signalerer OK</string>
+	<key>🕗</key>
+	<string>kl. otte</string>
+	<key>🕘</key>
+	<string>kl. ni</string>
+	<key>🕙</key>
+	<string>kl. ti</string>
+	<key>🕚</key>
+	<string>kl. elleve</string>
+	<key>🕛</key>
+	<string>kl. tolv</string>
+	<key>🕜</key>
+	<string>halv to</string>
+	<key>🇺🇦</key>
+	<string>Ukraines flag</string>
+	<key>🕝</key>
+	<string>halv tre</string>
+	<key>🇶🇦</key>
+	<string>Qatars flag</string>
+	<key>🕞</key>
+	<string>halv fire</string>
+	<key>✡️</key>
+	<string>Davidsstjerne</string>
+	<key>🇲🇦</key>
+	<string>Marokkos flag</string>
+	<key>🕟</key>
+	<string>halv fem</string>
+	<key>🧗‍♂️</key>
+	<string>mandlig klippeklatrer</string>
+	<key>🕠</key>
+	<string>halv seks</string>
+	<key>🕡</key>
+	<string>halv syv</string>
+	<key>🇪🇦</key>
+	<string>Ceuta og Melillas flag</string>
+	<key>🕢</key>
+	<string>halv otte</string>
+	<key>✅</key>
+	<string>symbol for flueben</string>
+	<key>🕣</key>
+	<string>halv ni</string>
+	<key>🧜‍♀️</key>
+	<string>havfrue</string>
+	<key>🏎️</key>
+	<string>racerbil</string>
+	<key>🕤</key>
+	<string>halv ti</string>
+	<key>🛍️</key>
+	<string>indkøbsposer</string>
+	<key>🕥</key>
+	<string>halv elleve</string>
+	<key>✊</key>
+	<string>hævet knytnæve</string>
+	<key>🇲🇨</key>
+	<string>Monacos flag</string>
+	<key>✋</key>
+	<string>hævet hånd</string>
+	<key>🕦</key>
+	<string>halv tolv</string>
+	<key>🕧</key>
+	<string>halv et</string>
+	<key>🇮🇨</key>
+	<string>Kanariske øers flag</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>Wales' flag</string>
+	<key>🇾🇪</key>
+	<string>Yemens flag</string>
+	<key>🇪🇨</key>
+	<string>Ecuadors flag</string>
+	<key>👩‍🎨</key>
+	<string>kvindelig kunstner</string>
+	<key>🇲🇩</key>
+	<string>Moldovas flag</string>
+	<key>🇦🇨</key>
+	<string>Ascensions flag</string>
+	<key>🇮🇩</key>
+	<string>Indonesiens flag</string>
+	<key>🇲🇪</key>
+	<string>Montenegros flag</string>
+	<key>🇦🇩</key>
+	<string>Andorras flag</string>
+	<key>🇮🇪</key>
+	<string>Irlands flag</string>
+	<key>🇪🇪</key>
+	<string>Estlands flag</string>
+	<key>🇲🇫</key>
+	<string>St. Martins flag</string>
+	<key>🇺🇬</key>
+	<string>Ugandas flag</string>
+	<key>♣️</key>
+	<string>klør</string>
+	<key>🇦🇪</key>
+	<string>Forenede Arabiske Emiraters flag</string>
+	<key>🕯️</key>
+	<string>stearinlys</string>
+	<key>🇲🇬</key>
+	<string>Madagaskars flag</string>
+	<key>🇦🇫</key>
+	<string>Afghanistans flag</string>
+	<key>👮‍♂️</key>
+	<string>mandlig politibetjent</string>
+	<key>🇪🇬</key>
+	<string>Egyptens flag</string>
+	<key>🇲🇭</key>
+	<string>Marshalløernes flag</string>
+	<key>✨</key>
+	<string>gnister</string>
+	<key>🇦🇬</key>
+	<string>Antiguas &amp; Barbudas flag</string>
+	<key>🛏️</key>
+	<string>seng</string>
+	<key>👳‍♀️</key>
+	<string>kvinde med turban</string>
+	<key>🇪🇭</key>
+	<string>Vestsaharas flag</string>
+	<key>☄️</key>
+	<string>komet</string>
+	<key>🕺</key>
+	<string>mand, der danser</string>
+	<key>✌️</key>
+	<string>håndtegn for fred</string>
+	<key>❤️</key>
+	<string>rødt hjerte</string>
+	<key>⏭️</key>
+	<string>mediesymbol for næste</string>
+	<key>🇦🇮</key>
+	<string>Anguillas flag</string>
+	<key>🇲🇰</key>
+	<string>Nordmakedoniens flag</string>
+	<key>◽️</key>
+	<string>mellemstort hvidt kvadrat</string>
+	<key>🇲🇱</key>
+	<string>Malis flag</string>
+	<key>🈚️</key>
+	<string>Japansk symbol for gratis</string>
+	<key>🇺🇲</key>
+	<string>USA’s mindre øbesiddelsers flag</string>
+	<key>🇮🇱</key>
+	<string>Israels flag</string>
+	<key>🇲🇲</key>
+	<string>Myanmars (Burma) flag</string>
+	<key>💂‍♂️</key>
+	<string>mandlig garder</string>
+	<key>🇺🇳</key>
+	<string>FN's flag</string>
+	<key>🇦🇱</key>
+	<string>Albaniens flag</string>
+	<key>🧑‍💻</key>
+	<string>teknolog</string>
+	<key>🇮🇲</key>
+	<string>Isle of Mans flag</string>
+	<key>⛹️‍♂️</key>
+	<string>mandlig basketballspiller</string>
+	<key>🇲🇳</key>
+	<string>Mongoliets flag</string>
+	<key>🇦🇲</key>
+	<string>Armeniens flag</string>
+	<key>🇮🇳</key>
+	<string>Indiens flag</string>
+	<key>❌</key>
+	<string>kryds</string>
+	<key>💇‍♀️</key>
+	<string>kvinde, der bliver klippet</string>
+	<key>❎</key>
+	<string>X</string>
+	<key>🇲🇴</key>
+	<string>Macaos flag</string>
+	<key>♎️</key>
+	<string>Vægt</string>
+	<key>🧚‍♂️</key>
+	<string>mandlig fe</string>
+	<key>🧑‍💼</key>
+	<string>kontorarbejder</string>
+	<key>🇮🇴</key>
+	<string>Det britiske territorium i Det Indiske Oceans flag</string>
+	<key>❓</key>
+	<string>rødt spørgsmålstegn</string>
+	<key>❔</key>
+	<string>hvidt spørgsmålstegn</string>
+	<key>🇲🇵</key>
+	<string>Nordmarianernes flag</string>
+	<key>❕</key>
+	<string>hvidt udråbstegn</string>
+	<key>🇦🇴</key>
+	<string>Angolas flag</string>
+	<key>🧟‍♀️</key>
+	<string>kvindelig zombie</string>
+	<key>🖕</key>
+	<string>langefinger</string>
+	<key>🇲🇶</key>
+	<string>Martiniques flag</string>
+	<key>🖖</key>
+	<string>hånd, der spreder lange- og ringefinger</string>
+	<key>🇮🇶</key>
+	<string>Iraks flag</string>
+	<key>🚶‍♂️</key>
+	<string>mandlig fodgænger</string>
+	<key>🇲🇷</key>
+	<string>Mauretaniens flag</string>
+	<key>🇺🇸</key>
+	<string>USA's flag</string>
+	<key>🇦🇶</key>
+	<string>Antarktis' flag</string>
+	<key>🇮🇷</key>
+	<string>Irans flag</string>
+	<key>🕳️</key>
+	<string>hul</string>
+	<key>⌨️</key>
+	<string>tastatur</string>
+	<key>🇾🇹</key>
+	<string>Mayottes flag</string>
+	<key>🇪🇷</key>
+	<string>Eritreas flag</string>
+	<key>⛷️</key>
+	<string>skiløber</string>
+	<key>🇲🇸</key>
+	<string>Montserrats flag</string>
+	<key>🇦🇷</key>
+	<string>Argentinas flag</string>
+	<key>🇮🇸</key>
+	<string>Islands flag</string>
+	<key>👨‍💻</key>
+	<string>mandlig teknolog</string>
+	<key>🌤️</key>
+	<string>sol bag lille sky</string>
+	<key>🇪🇸</key>
+	<string>Spaniens flag</string>
+	<key>🇲🇹</key>
+	<string>Maltas flag</string>
+	<key>🇦🇸</key>
+	<string>Amerikansk Samoas flag</string>
+	<key>🇮🇹</key>
+	<string>Italiens flag</string>
+	<key>❤️‍🩹</key>
+	<string>helende hjerte</string>
+	<key>🏔️</key>
+	<string>sneklædt bjergtop</string>
+	<key>🇪🇹</key>
+	<string>Etiopiens flag</string>
+	<key>🤷‍♀️</key>
+	<string>kvinde, der trækker på skulderen</string>
+	<key>🇲🇺</key>
+	<string>Mauritius' flag</string>
+	<key>🇦🇹</key>
+	<string>Østrigs flag</string>
+	<key>🖤</key>
+	<string>sort hjerte</string>
+	<key>👩‍🦯</key>
+	<string>kvinde med hvid stok</string>
+	<key>👱‍♂️</key>
+	<string>lyshåret mand</string>
+	<key>👨‍💼</key>
+	<string>mandlig kontorarbejder</string>
+	<key>⛰️</key>
+	<string>bjerg</string>
+	<key>🇪🇺</key>
+	<string>Den Europæiske Unions flag</string>
+	<key>🇲🇻</key>
+	<string>Maldivernes flag</string>
+	<key>🇦🇺</key>
+	<string>Australiens flag</string>
+	<key>🇲🇼</key>
+	<string>Malawis flag</string>
+	<key>👩‍🦰</key>
+	<string>kvinde med rødt hår</string>
+	<key>🇲🇽</key>
+	<string>Mexicos flag</string>
+	<key>🇺🇾</key>
+	<string>Uruguays flag</string>
+	<key>🇦🇼</key>
+	<string>Arubas flag</string>
+	<key>☹️</key>
+	<string>utilfreds ansigt</string>
+	<key>⌚️</key>
+	<string>ur</string>
+	<key>🕵️</key>
+	<string>detektiv</string>
+	<key>⛩️</key>
+	<string>Shinto-helligdom</string>
+	<key>🇲🇾</key>
+	<string>Malaysias flag</string>
+	<key>🧎‍♀️</key>
+	<string>kvinde, der knæler</string>
+	<key>🇺🇿</key>
+	<string>Usbekistans flag</string>
+	<key>🇦🇽</key>
+	<string>Ålandsøernes flag</string>
+	<key>👩‍🦱</key>
+	<string>kvinde med krøllet hår</string>
+	<key>🙇‍♂️</key>
+	<string>mand, der bukker</string>
+	<key>🌦️</key>
+	<string>sol bag regnsky</string>
+	<key>🇲🇿</key>
+	<string>Mozambiques flag</string>
+	<key>🏖️</key>
+	<string>strand med parasol</string>
+	<key>👩‍🦲</key>
+	<string>kvinde uden hår</string>
+	<key>🇦🇿</key>
+	<string>Aserbajdsjans flag</string>
+	<key>➕</key>
+	<string>plussymbol</string>
+	<key>🕊️</key>
+	<string>due</string>
+	<key>➖</key>
+	<string>minussymbol</string>
+	<key>➗</key>
+	<string>divisionssymbol</string>
+	<key>🗺️</key>
+	<string>verdenskort</string>
+	<key>👩‍🦳</key>
+	<string>hvidhåret kvinde</string>
+	<key>7️⃣</key>
+	<string>7 på numerisk blok</string>
+	<key>🅰️</key>
+	<string>blodtype A</string>
+	<key>🤦‍♀️</key>
+	<string>kvinde, der slår sig for panden</string>
+	<key>🧝‍♂️</key>
+	<string>mandlig elver</string>
+	<key>🕷️</key>
+	<string>edderkop</string>
+	<key>✳️</key>
+	<string>asterisk med otte spidser</string>
+	<key>🌨️</key>
+	<string>sky med sne</string>
+	<key>🦸‍♂️</key>
+	<string>mandlig superhelt</string>
+	<key>➰</key>
+	<string>krøllet sløjfe</string>
+	<key>🏘️</key>
+	<string>gruppe af huse</string>
+	<key>0️⃣</key>
+	<string>0 på numerisk blok</string>
+	<key>🤵‍♂️</key>
+	<string>mand i smoking</string>
+	<key>⛔️</key>
+	<string>ingen adgang</string>
+	<key>👨‍👧‍👦</key>
+	<string>familie med far, søn og datter</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>familie med mor, far og to sønner</string>
+	<key>🧑‍🏫</key>
+	<string>lærer</string>
+	<key>➿</key>
+	<string>dobbelt krøllet sløjfe</string>
+	<key>㊙️</key>
+	<string>Japansk symbol for hemmelig</string>
+	<key>☝️</key>
+	<string>pegefinger peger opad</string>
+	<key>🕹️</key>
+	<string>joystick</string>
+	<key>🗑️</key>
+	<string>skraldespand</string>
+	<key>🌪️</key>
+	<string>tornado</string>
+	<key>🧑‍🏭</key>
+	<string>fabriksarbejder</string>
+	<key>↗️</key>
+	<string>pil op og til højre</string>
+	<key>⤵️</key>
+	<string>højrepil, der buer nedad</string>
+	<key>🏚️</key>
+	<string>ubeboet hus</string>
+	<key>©️</key>
+	<string>ophavsretsymbol</string>
+	<key>👨‍🏫</key>
+	<string>mandlig lærer</string>
+	<key>🗓️</key>
+	<string>spiralkalender</string>
+	<key>⏸️</key>
+	<string>pausesymbol</string>
+	<key>🧑‍✈️</key>
+	<string>pilot</string>
+	<key>🌬️</key>
+	<string>ansigt, der blæser vind</string>
+	<key>👨‍🏭</key>
+	<string>mandlig fabriksarbejder</string>
+	<key>🏜️</key>
+	<string>ørken</string>
+	<key>♠️</key>
+	<string>spar</string>
+	<key>🖨️</key>
+	<string>printer</string>
+	<key>⏱️</key>
+	<string>stopur</string>
+	<key>👩‍🦼</key>
+	<string>kvinde i elektrisk kørestol</string>
+	<key>🗻</key>
+	<string>fuji-bjerget</string>
+	<key>🫱‍🫲</key>
+	<string>håndtryk</string>
+	<key>🗼</key>
+	<string>Tokyo tower</string>
+	<key>🗽</key>
+	<string>Frihedsgudinden</string>
+	<key>🗾</key>
+	<string>silhuet af Japan</string>
+	<key>🤸‍♂️</key>
+	<string>mand, der slår en vejrmølle</string>
+	<key>🌀</key>
+	<string>cyklon</string>
+	<key>🗿</key>
+	<string>statue fra Påskeøen</string>
+	<key>☁️</key>
+	<string>sky</string>
+	<key>🌁</key>
+	<string>bro under tåge</string>
+	<key>😀</key>
+	<string>grinende ansigt</string>
+	<key>👩‍🦽</key>
+	<string>kvinde i manuel kørestol</string>
+	<key>🌂</key>
+	<string>lukket paraply</string>
+	<key>😁</key>
+	<string>strålende ansigt med smilende øjne</string>
+	<key>⚱️</key>
+	<string>urne</string>
+	<key>🌃</key>
+	<string>stjerneklar nat</string>
+	<key>😂</key>
+	<string>ansigt med glædestårer</string>
+	<key>✉️</key>
+	<string>kuvert</string>
+	<key>👨‍👧‍👧</key>
+	<string>familie med far og to døtre</string>
+	<key>🤽‍♀️</key>
+	<string>kvinde, der spiller vandpolo</string>
+	<key>🌄</key>
+	<string>solopgang over bjerge</string>
+	<key>😃</key>
+	<string>grinende ansigt med store øjne</string>
+	<key>🌅</key>
+	<string>solopgang</string>
+	<key>😄</key>
+	<string>grinende ansigt med smilende øjne</string>
+	<key>👷‍♂️</key>
+	<string>mandlig bygningsarbejder</string>
+	<key>👨‍✈️</key>
+	<string>mandlig pilot</string>
+	<key>🌆</key>
+	<string>bylandskab i tusmørke</string>
+	<key>😅</key>
+	<string>grinende ansigt med sved</string>
+	<key>🌇</key>
+	<string>solnedgang over bygninger</string>
+	<key>😆</key>
+	<string>grinende ansigt med sammenknebne øjne</string>
+	<key>🌈</key>
+	<string>regnbue</string>
+	<key>😇</key>
+	<string>smilende ansigt med glorie</string>
+	<key>🌉</key>
+	<string>bro ved nattetide</string>
+	<key>😈</key>
+	<string>smilende ansigt med horn</string>
+	<key>🏞️</key>
+	<string>nationalpark</string>
+	<key>🌊</key>
+	<string>bølge</string>
+	<key>😉</key>
+	<string>blinkende ansigt</string>
+	<key>🌋</key>
+	<string>vulkan</string>
+	<key>😊</key>
+	<string>smilende ansigt med smilende øjne</string>
+	<key>♒️</key>
+	<string>Vandmand</string>
+	<key>🌌</key>
+	<string>Mælkevejen</string>
+	<key>😋</key>
+	<string>smilende ansigt, der slikker sig om munden</string>
+	<key>⚪️</key>
+	<string>hvid cirkel</string>
+	<key>🌍</key>
+	<string>globus med Europa og Afrika</string>
+	<key>😌</key>
+	<string>lettet ansigt</string>
+	<key>🧏‍♂️</key>
+	<string>Døv mand</string>
+	<key>✂️</key>
+	<string>saks</string>
+	<key>🌎</key>
+	<string>globus med Nord- og Sydamerika</string>
+	<key>🤌</key>
+	<string>samlede fingre</string>
+	<key>😍</key>
+	<string>smilende ansigt med hjerteøjne</string>
+	<key>🌏</key>
+	<string>globus med Asien og Australien</string>
+	<key>🤍</key>
+	<string>hvidt hjerte</string>
+	<key>😎</key>
+	<string>smilende ansigt med solbriller</string>
+	<key>🌐</key>
+	<string>globus med meridianer</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>familie med mor, far og to døtre</string>
+	<key>🤎</key>
+	<string>brunt hjerte</string>
+	<key>😏</key>
+	<string>ansigt med smørret grin</string>
+	<key>🌑</key>
+	<string>nymåne</string>
+	<key>🤏</key>
+	<string>hånd, der kniber</string>
+	<key>😐</key>
+	<string>neutralt ansigt</string>
+	<key>🧔‍♀️</key>
+	<string>kvinde med skæg</string>
+	<key>🌒</key>
+	<string>tiltagende halvmåne</string>
+	<key>🤐</key>
+	<string>ansigt med lynlåsmund</string>
+	<key>😑</key>
+	<string>udtryksløst ansigt</string>
+	<key>🙍‍♂️</key>
+	<string>mand, der skuler</string>
+	<key>🌓</key>
+	<string>måne i første kvarter</string>
+	<key>🤑</key>
+	<string>ansigt med pengemund</string>
+	<key>😒</key>
+	<string>ufornøjet ansigt</string>
+	<key>🌔</key>
+	<string>tiltagende rund måne</string>
+	<key>🤒</key>
+	<string>ansigt med termometer</string>
+	<key>😓</key>
+	<string>nedslået udtryk med sved</string>
+	<key>🌕</key>
+	<string>fuldmåne</string>
+	<key>🤓</key>
+	<string>smilende ansigt med briller</string>
+	<key>😔</key>
+	<string>trist, tænksomt ansigt</string>
+	<key>♋️</key>
+	<string>Krebs</string>
+	<key>🌖</key>
+	<string>aftagende rund måne</string>
+	<key>🤔</key>
+	<string>tænkende ansigt</string>
+	<key>😕</key>
+	<string>forvirret ansigt</string>
+	<key>🌗</key>
+	<string>måne i sidste kvarter</string>
+	<key>🤕</key>
+	<string>ansigt med hovedbandage</string>
+	<key>😖</key>
+	<string>forbistret ansigt</string>
+	<key>🌘</key>
+	<string>aftagende måne</string>
+	<key>🤖</key>
+	<string>robotansigt</string>
+	<key>😗</key>
+	<string>kyssende ansigt</string>
+	<key>🌙</key>
+	<string>halvmåne</string>
+	<key>🤗</key>
+	<string>krammende ansigt</string>
+	<key>😘</key>
+	<string>ansigt, der sender et kys</string>
+	<key>🌚</key>
+	<string>nymåne med ansigt</string>
+	<key>🤘</key>
+	<string>rocktegn</string>
+	<key>😙</key>
+	<string>kyssende ansigt med smilende øjne</string>
+	<key>🌛</key>
+	<string>måne i første kvarter med ansigt</string>
+	<key>🤙</key>
+	<string>håndtegn for ring til mig</string>
+	<key>😚</key>
+	<string>kyssende ansigt med lukkede øjne</string>
+</dict>
+</plist>

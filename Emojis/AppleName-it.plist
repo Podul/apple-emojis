@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>ultimo quarto di luna con volto</string>
+	<key>🤚</key>
+	<string>dorso della mano</string>
+	<key>😛</key>
+	<string>faccina con la lingua fuori</string>
+	<key>👩‍🔧</key>
+	<string>meccanico donna</string>
+	<key>🌝</key>
+	<string>luna piena con volto</string>
+	<key>🤛</key>
+	<string>pugno rivolto verso sinistra</string>
+	<key>😜</key>
+	<string>faccina che strizza l’occhio con la lingua fuori</string>
+	<key>🌞</key>
+	<string>sole con volto</string>
+	<key>🤜</key>
+	<string>pugno rivolto verso destra</string>
+	<key>😝</key>
+	<string>faccina che fa la linguaccia e strizza gli occhi</string>
+	<key>🌟</key>
+	<string>stella che brilla</string>
+	<key>🤝</key>
+	<string>stretta di mano</string>
+	<key>😞</key>
+	<string>faccina delusa</string>
+	<key>🌠</key>
+	<string>stella cadente</string>
+	<key>🤞</key>
+	<string>dita incrociate</string>
+	<key>😟</key>
+	<string>faccina preoccupata</string>
+	<key>🐈‍⬛</key>
+	<string>gatto nero</string>
+	<key>🤟</key>
+	<string>gesto del “Ti amo” nel linguaggio dei segni</string>
+	<key>😠</key>
+	<string>faccina arrabbiata</string>
+	<key>⚜️</key>
+	<string>giglio araldico</string>
+	<key>⛴️</key>
+	<string>traghetto</string>
+	<key>🤠</key>
+	<string>faccina con cappello da cowboy</string>
+	<key>😡</key>
+	<string>faccina furiosa</string>
+	<key>🤡</key>
+	<string>pagliaccio</string>
+	<key>😢</key>
+	<string>faccina che piange</string>
+	<key>⬛️</key>
+	<string>quadrato grande nero</string>
+	<key>🤢</key>
+	<string>faccina nauseata</string>
+	<key>😣</key>
+	<string>faccina con espressione decisa</string>
+	<key>🤣</key>
+	<string>faccina che ride a crepapelle</string>
+	<key>😤</key>
+	<string>faccina con il fumo che esce dal naso</string>
+	<key>🤤</key>
+	<string>faccina con l’acquolina in bocca</string>
+	<key>😥</key>
+	<string>faccina triste ma sollevata</string>
+	<key>🤥</key>
+	<string>faccina con il naso da Pinocchio</string>
+	<key>😦</key>
+	<string>faccina imbronciata a bocca aperta</string>
+	<key>🤦</key>
+	<string>persona che si copre il volto con la mano</string>
+	<key>😧</key>
+	<string>faccina triste</string>
+	<key>🤧</key>
+	<string>faccina che starnutisce</string>
+	<key>😨</key>
+	<string>faccina impaurita</string>
+	<key>🤨</key>
+	<string>faccina con sopracciglio alzato</string>
+	<key>😩</key>
+	<string>faccina affaticata</string>
+	<key>🤩</key>
+	<string>faccina con occhi a forma di stella</string>
+	<key>⚕️</key>
+	<string>bastone di Asclepio</string>
+	<key>😪</key>
+	<string>faccina assonnata</string>
+	<key>👁️‍🗨️</key>
+	<string>sono un testimone</string>
+	<key>🤪</key>
+	<string>faccina con espressione buffa</string>
+	<key>😫</key>
+	<string>faccina disperata</string>
+	<key>🌭</key>
+	<string>hot dog</string>
+	<key>🤫</key>
+	<string>faccina che fa il gesto del silenzio</string>
+	<key>😬</key>
+	<string>faccina che fa le smorfie</string>
+	<key>🌮</key>
+	<string>taco</string>
+	<key>🤬</key>
+	<string>faccina con la bocca coperta di simboli</string>
+	<key>😭</key>
+	<string>faccina che piange disperata</string>
+	<key>🌯</key>
+	<string>burrito</string>
+	<key>🤭</key>
+	<string>faccina con la mano sulla bocca e gli occhi sorridenti</string>
+	<key>😮</key>
+	<string>faccina sorpresa a bocca aperta</string>
+	<key>🌰</key>
+	<string>castagna</string>
+	<key>🤮</key>
+	<string>faccina che vomita</string>
+	<key>😯</key>
+	<string>faccina sorpresa</string>
+	<key>🌱</key>
+	<string>piantina</string>
+	<key>🤯</key>
+	<string>faccina con testa che esplode</string>
+	<key>😰</key>
+	<string>faccina ansiosa con goccia di sudore</string>
+	<key>🌲</key>
+	<string>albero sempreverde</string>
+	<key>🤰</key>
+	<string>donna incinta</string>
+	<key>😱</key>
+	<string>faccina che urla di paura</string>
+	<key>🌳</key>
+	<string>albero</string>
+	<key>🤱</key>
+	<string>allattamento</string>
+	<key>😲</key>
+	<string>faccina stupita</string>
+	<key>🛡️</key>
+	<string>scudo</string>
+	<key>🌴</key>
+	<string>palma</string>
+	<key>🤲</key>
+	<string>mani unite con i palmi rivolti verso l’alto</string>
+	<key>😳</key>
+	<string>faccina con occhi spalancati</string>
+	<key>🌵</key>
+	<string>cactus</string>
+	<key>🤳</key>
+	<string>selfie</string>
+	<key>😴</key>
+	<string>faccina che dorme</string>
+	<key>🤴</key>
+	<string>principe</string>
+	<key>😵</key>
+	<string>faccina stordita</string>
+	<key>👩‍🌾</key>
+	<string>contadina</string>
+	<key>🌷</key>
+	<string>tulipano</string>
+	<key>🤵</key>
+	<string>persona in smoking</string>
+	<key>😶</key>
+	<string>faccina senza bocca</string>
+	<key>🌸</key>
+	<string>fiore di ciliegio</string>
+	<key>🤶</key>
+	<string>Mamma Natale</string>
+	<key>😷</key>
+	<string>faccina con mascherina</string>
+	<key>🌹</key>
+	<string>rosa</string>
+	<key>🤷</key>
+	<string>persona che fa spallucce</string>
+	<key>😸</key>
+	<string>muso di gatto sorridente</string>
+	<key>🌺</key>
+	<string>ibisco</string>
+	<key>🤸</key>
+	<string>persona che fa la ruota</string>
+	<key>😹</key>
+	<string>muso di gatto con lacrime di gioia</string>
+	<key>🌻</key>
+	<string>girasole</string>
+	<key>🤹</key>
+	<string>giocoliere</string>
+	<key>😺</key>
+	<string>muso di gatto felice</string>
+	<key>🌼</key>
+	<string>fiore</string>
+	<key>🤺</key>
+	<string>schermidore</string>
+	<key>😻</key>
+	<string>muso di gatto sorridente con gli occhi a forma di cuore</string>
+	<key>🌽</key>
+	<string>pannocchia</string>
+	<key>😼</key>
+	<string>muso di gatto con sorrisetto</string>
+	<key>🇿🇦</key>
+	<string>bandiera del Sudafrica</string>
+	<key>👩‍🔬</key>
+	<string>scienziata</string>
+	<key>🌾</key>
+	<string>spiga di riso</string>
+	<key>🤼</key>
+	<string>persone che praticano la lotta</string>
+	<key>😽</key>
+	<string>muso di gatto che manda un bacio</string>
+	<key>🇻🇦</key>
+	<string>bandiera della Città del Vaticano</string>
+	<key>🌿</key>
+	<string>erba aromatica</string>
+	<key>🤽</key>
+	<string>persona che gioca a pallanuoto</string>
+	<key>😾</key>
+	<string>muso di gatto accigliato</string>
+	<key>☯️</key>
+	<string>Yin e yang</string>
+	<key>🍀</key>
+	<string>quadrifoglio</string>
+	<key>🤾</key>
+	<string>persona che gioca a pallamano</string>
+	<key>😿</key>
+	<string>muso di gatto che piange</string>
+	<key>🍁</key>
+	<string>foglia d’acero</string>
+	<key>🤿</key>
+	<string>maschera per immersione</string>
+	<key>🧑‍🍳</key>
+	<string>cuoco</string>
+	<key>🇳🇦</key>
+	<string>bandiera della Namibia</string>
+	<key>🙀</key>
+	<string>muso di gatto che urla di paura</string>
+	<key>🧗‍♀️</key>
+	<string>scalatrice di roccia</string>
+	<key>⁉️</key>
+	<string>punto interrogativo ed esclamativo rossi</string>
+	<key>🍂</key>
+	<string>foglie autunnali</string>
+	<key>🥀</key>
+	<string>rosa appassita</string>
+	<key>🙁</key>
+	<string>faccina leggermente imbronciata</string>
+	<key>🍃</key>
+	<string>foglie che fluttuano nel vento</string>
+	<key>🥁</key>
+	<string>tamburo</string>
+	<key>🙂</key>
+	<string>faccina leggermente sorridente</string>
+	<key>⬆️</key>
+	<string>freccia rivolta verso l’alto</string>
+	<key>🍄</key>
+	<string>fungo</string>
+	<key>🥂</key>
+	<string>brindisi</string>
+	<key>🙃</key>
+	<string>faccina capovolta</string>
+	<key>5️⃣</key>
+	<string>tasto cinque</string>
+	<key>🍅</key>
+	<string>pomodoro</string>
+	<key>🥃</key>
+	<string>bicchiere</string>
+	<key>🙄</key>
+	<string>faccina che alza gli occhi verso il cielo</string>
+	<key>🇻🇨</key>
+	<string>bandiera di Saint Vincent e Grenadine</string>
+	<key>🇧🇦</key>
+	<string>bandiera della Bosnia Erzegovina</string>
+	<key>↩️</key>
+	<string>freccia ricurva rivolta verso sinistra</string>
+	<key>🍆</key>
+	<string>melanzana</string>
+	<key>🥄</key>
+	<string>cucchiaio</string>
+	<key>🙅</key>
+	<string>persona che fa segno di no</string>
+	<key>🍇</key>
+	<string>grappolo d’uva</string>
+	<key>🥅</key>
+	<string>rete</string>
+	<key>🙆</key>
+	<string>persona con le braccia alzate sopra la testa</string>
+	<key>🛣️</key>
+	<string>autostrada</string>
+	<key>🍈</key>
+	<string>melone</string>
+	<key>🙇</key>
+	<string>persona che si inchina</string>
+	<key>🇳🇨</key>
+	<string>bandiera della Nuova Caledonia</string>
+	<key>🍉</key>
+	<string>anguria</string>
+	<key>🇧🇧</key>
+	<string>bandiera delle Barbados</string>
+	<key>🥇</key>
+	<string>medaglia d’oro</string>
+	<key>🙈</key>
+	<string>scimmia che non vede</string>
+	<key>🍊</key>
+	<string>mandarancio</string>
+	<key>🥈</key>
+	<string>medaglia d’argento</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>bandiera della Scozia</string>
+	<key>🙉</key>
+	<string>scimmia che non sente</string>
+	<key>🍋</key>
+	<string>limone</string>
+	<key>🥉</key>
+	<string>medaglia di bronzo</string>
+	<key>🙊</key>
+	<string>scimmia che non parla</string>
+	<key>🍌</key>
+	<string>banana</string>
+	<key>🥊</key>
+	<string>guantone da pugilato</string>
+	<key>🇻🇪</key>
+	<string>bandiera del Venezuela</string>
+	<key>🙋</key>
+	<string>persona che alza una mano</string>
+	<key>🍍</key>
+	<string>ananas</string>
+	<key>🥋</key>
+	<string>kimono per arti marziali</string>
+	<key>🙌</key>
+	<string>mani esultanti</string>
+	<key>🇷🇪</key>
+	<string>bandiera di Riunione</string>
+	<key>🍎</key>
+	<string>mela rossa</string>
+	<key>🥌</key>
+	<string>stone da curling</string>
+	<key>🙍</key>
+	<string>persona imbronciata</string>
+	<key>🍏</key>
+	<string>mela verde</string>
+	<key>🇳🇪</key>
+	<string>bandiera del Niger</string>
+	<key>🥍</key>
+	<string>mazza e palla da lacrosse</string>
+	<key>🙎</key>
+	<string>persona accigliata</string>
+	<key>🅾️</key>
+	<string>gruppo sanguigno 0</string>
+	<key>🇧🇩</key>
+	<string>bandiera del Bangladesh</string>
+	<key>🍐</key>
+	<string>pera</string>
+	<key>🥎</key>
+	<string>pallina da softball</string>
+	<key>🇯🇪</key>
+	<string>bandiera di Jersey</string>
+	<key>🙏</key>
+	<string>mani giunte</string>
+	<key>🍑</key>
+	<string>pesca</string>
+	<key>🥏</key>
+	<string>frisbee</string>
+	<key>🍒</key>
+	<string>ciliegie</string>
+	<key>🥐</key>
+	<string>croissant</string>
+	<key>🇳🇫</key>
+	<string>bandiera dell’Isola di Norfolk</string>
+	<key>🍓</key>
+	<string>fragola</string>
+	<key>🇻🇬</key>
+	<string>bandiera delle Isole Vergini Britanniche</string>
+	<key>🇧🇪</key>
+	<string>bandiera del Belgio</string>
+	<key>🥑</key>
+	<string>avocado</string>
+	<key>🍔</key>
+	<string>hamburger</string>
+	<key>🥒</key>
+	<string>cetriolo</string>
+	<key>⛑️</key>
+	<string>elmetto con una croce bianca</string>
+	<key>🍕</key>
+	<string>pizza</string>
+	<key>🥓</key>
+	<string>bacon</string>
+	<key>🇳🇬</key>
+	<string>bandiera della Nigeria</string>
+	<key>🍖</key>
+	<string>carne con osso</string>
+	<key>🥔</key>
+	<string>patata</string>
+	<key>👨‍🍳</key>
+	<string>chef uomo</string>
+	<key>🇧🇫</key>
+	<string>bandiera del Burkina Faso</string>
+	<key>🍗</key>
+	<string>coscia di pollo</string>
+	<key>👮‍♀️</key>
+	<string>poliziotta</string>
+	<key>🥕</key>
+	<string>carota</string>
+	<key>⭐️</key>
+	<string>stella</string>
+	<key>🍘</key>
+	<string>cracker di riso</string>
+	<key>🥖</key>
+	<string>baguette</string>
+	<key>🗝️</key>
+	<string>chiave antica</string>
+	<key>🌶️</key>
+	<string>peperoncino</string>
+	<key>🍙</key>
+	<string>polpetta di riso giapponese</string>
+	<key>🥗</key>
+	<string>insalata</string>
+	<key>🏃‍♂️</key>
+	<string>uomo che corre</string>
+	<key>🇻🇮</key>
+	<string>bandiera delle Isole Vergini americane</string>
+	<key>🇧🇬</key>
+	<string>bandiera della Bulgaria</string>
+	<key>🍚</key>
+	<string>riso cotto</string>
+	<key>🥘</key>
+	<string>padella con cibo</string>
+	<key>🍛</key>
+	<string>riso al curry</string>
+	<key>🥙</key>
+	<string>pita</string>
+	<key>🍜</key>
+	<string>ciotola fumante</string>
+	<key>🥚</key>
+	<string>uovo</string>
+	<key>🛥️</key>
+	<string>barca a motore</string>
+	<key>🇳🇮</key>
+	<string>bandiera del Nicaragua</string>
+	<key>🍝</key>
+	<string>spaghetti</string>
+	<key>🥛</key>
+	<string>bicchiere di latte</string>
+	<key>🇧🇭</key>
+	<string>bandiera del Bahrain</string>
+	<key>🍞</key>
+	<string>pane</string>
+	<key>🥜</key>
+	<string>arachidi</string>
+	<key>🍟</key>
+	<string>patatine fritte</string>
+	<key>👨‍👨‍👦</key>
+	<string>famiglia con due padri e un figlio</string>
+	<key>🥝</key>
+	<string>kiwi</string>
+	<key>🇫🇮</key>
+	<string>bandiera della Finlandia</string>
+	<key>🤾‍♂️</key>
+	<string>giocatore di pallamano</string>
+	<key>🍠</key>
+	<string>patata americana arrosto</string>
+	<key>🖲️</key>
+	<string>trackball</string>
+	<key>🥞</key>
+	<string>pancake</string>
+	<key>🇧🇮</key>
+	<string>bandiera del Burundi</string>
+	<key>🍡</key>
+	<string>dango giapponese</string>
+	<key>🥟</key>
+	<string>raviolo</string>
+	<key>🍢</key>
+	<string>oden</string>
+	<key>🥠</key>
+	<string>biscotto della fortuna</string>
+	<key>🇫🇯</key>
+	<string>bandiera delle Fiji</string>
+	<key>🍣</key>
+	<string>sushi</string>
+	<key>🥡</key>
+	<string>confezione per cibo da asporto</string>
+	<key>🍤</key>
+	<string>gamberetto fritto</string>
+	<key>🥢</key>
+	<string>bacchette</string>
+	<key>🇧🇯</key>
+	<string>bandiera del Benin</string>
+	<key>↔️</key>
+	<string>freccia sinistra-destra</string>
+	<key>🍥</key>
+	<string>tortino di pesce a spirale</string>
+	<key>🥣</key>
+	<string>ciotola con cucchiaio</string>
+	<key>🍦</key>
+	<string>gelato industriale</string>
+	<key>🇿🇲</key>
+	<string>bandiera dello Zambia</string>
+	<key>🇫🇰</key>
+	<string>bandiera delle Isole Falkland</string>
+	<key>🥤</key>
+	<string>bicchiere da asporto</string>
+	<key>🏌️‍♀️</key>
+	<string>giocatrice di golf</string>
+	<key>🇳🇱</key>
+	<string>bandiera dei Paesi Bassi</string>
+	<key>🍧</key>
+	<string>granita</string>
+	<key>🥥</key>
+	<string>noce di cocco</string>
+	<key>🍨</key>
+	<string>gelato</string>
+	<key>🥦</key>
+	<string>broccolo</string>
+	<key>🍩</key>
+	<string>ciambella</string>
+	<key>🥧</key>
+	<string>torta</string>
+	<key>🖇️</key>
+	<string>graffette unite</string>
+	<key>🍪</key>
+	<string>biscotto</string>
+	<key>🥨</key>
+	<string>pretzel</string>
+	<key>🇻🇳</key>
+	<string>bandiera del Vietnam</string>
+	<key>💂‍♀️</key>
+	<string>guardia donna</string>
+	<key>🇧🇱</key>
+	<string>bandiera di Saint Barthélemy</string>
+	<key>🍫</key>
+	<string>barretta di cioccolato</string>
+	<key>🇯🇲</key>
+	<string>bandiera della Giamaica</string>
+	<key>🥩</key>
+	<string>bistecca</string>
+	<key>🍬</key>
+	<string>caramella</string>
+	<key>🥪</key>
+	<string>sandwich</string>
+	<key>⛹️‍♀️</key>
+	<string>giocatrice di pallacanestro</string>
+	<key>🍭</key>
+	<string>leccalecca</string>
+	<key>🇫🇲</key>
+	<string>bandiera della Micronesia</string>
+	<key>🥫</key>
+	<string>lattina di cibo in scatola</string>
+	<key>🍮</key>
+	<string>budino</string>
+	<key>👨‍❤️‍👨</key>
+	<string>due uomini con cuore</string>
+	<key>🥬</key>
+	<string>cespo di verdura a foglia verde</string>
+	<key>🇧🇲</key>
+	<string>bandiera delle Bermuda</string>
+	<key>🍯</key>
+	<string>barattolo di miele</string>
+	<key>🥭</key>
+	<string>mango</string>
+	<key>🇷🇴</key>
+	<string>bandiera della Romania</string>
+	<key>🍰</key>
+	<string>fetta di torta</string>
+	<key>🥮</key>
+	<string>torta lunare</string>
+	<key>🍱</key>
+	<string>vassoio con cibo</string>
+	<key>🇳🇴</key>
+	<string>bandiera della Norvegia</string>
+	<key>🥯</key>
+	<string>bagel</string>
+	<key>🇧🇳</key>
+	<string>bandiera del Brunei</string>
+	<key>🧚‍♀️</key>
+	<string>fata</string>
+	<key>🍲</key>
+	<string>pentola</string>
+	<key>🇯🇴</key>
+	<string>bandiera della Giordania</string>
+	<key>🥰</key>
+	<string>faccina sorridente con cuori</string>
+	<key>🍳</key>
+	<string>cucina</string>
+	<key>🥱</key>
+	<string>faccina che sbadiglia</string>
+	<key>🇫🇴</key>
+	<string>bandiera delle Isole Faroe</string>
+	<key>🍴</key>
+	<string>forchetta e coltello</string>
+	<key>🥲</key>
+	<string>faccina sorridente con una lacrima</string>
+	<key>🇳🇵</key>
+	<string>bandiera del Nepal</string>
+	<key>✔️</key>
+	<string>segno di spunta</string>
+	<key>🍵</key>
+	<string>tazza da tè senza manico</string>
+	<key>🥳</key>
+	<string>faccina che festeggia</string>
+	<key>🇧🇴</key>
+	<string>bandiera della Bolivia</string>
+	<key>🇯🇵</key>
+	<string>bandiera del Giappone</string>
+	<key>🍶</key>
+	<string>bottiglia e bicchiere da sake</string>
+	<key>🥴</key>
+	<string>faccina frastornata</string>
+	<key>🍷</key>
+	<string>bicchiere di vino</string>
+	<key>🥵</key>
+	<string>faccina accaldata</string>
+	<key>🍸</key>
+	<string>bicchiere da cocktail</string>
+	<key>🥶</key>
+	<string>faccina congelata</string>
+	<key>🍹</key>
+	<string>bevanda tropicale</string>
+	<key>🥷</key>
+	<string>ninja</string>
+	<key>🍺</key>
+	<string>boccale di birra</string>
+	<key>🥸</key>
+	<string>faccina camuffata</string>
+	<key>🚶‍♀️</key>
+	<string>donna che attraversa la strada</string>
+	<key>🍻</key>
+	<string>brindisi con boccali di birra</string>
+	<key>🥹</key>
+	<string>faccina sorridente che trattiene le lacrime</string>
+	<key>🇳🇷</key>
+	<string>bandiera di Nauru</string>
+	<key>🍼</key>
+	<string>biberon</string>
+	<key>🇧🇶</key>
+	<string>bandiera del Bonaire</string>
+	<key>🥺</key>
+	<string>faccina supplicante</string>
+	<key>🧑‍🍼</key>
+	<string>persona che allatta un bebè</string>
+	<key>🥻</key>
+	<string>sari</string>
+	<key>🇷🇸</key>
+	<string>bandiera della Serbia</string>
+	<key>🍾</key>
+	<string>bottiglia che viene stappata</string>
+	<key>🇫🇷</key>
+	<string>bandiera della Francia</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>uomo e donna che si mandano un bacio</string>
+	<key>🥼</key>
+	<string>camice da laboratorio</string>
+	<key>✍️</key>
+	<string>mano che scrive</string>
+	<key>🍿</key>
+	<string>popcorn</string>
+	<key>🥽</key>
+	<string>occhiali di protezione</string>
+	<key>🇧🇷</key>
+	<string>bandiera del Brasile</string>
+	<key>🗡️</key>
+	<string>pugnale</string>
+	<key>⏮️</key>
+	<string>simbolo di manda indietro la riproduzione</string>
+	<key>🎀</key>
+	<string>fiocco rosa</string>
+	<key>🥾</key>
+	<string>scarpone da montagna</string>
+	<key>🎁</key>
+	<string>regalo</string>
+	<key>🥿</key>
+	<string>scarpa senza tacco</string>
+	<key>🚀</key>
+	<string>razzo</string>
+	<key>🎂</key>
+	<string>torta di compleanno</string>
+	<key>🦀</key>
+	<string>granchio</string>
+	<key>🚁</key>
+	<string>elicottero</string>
+	<key>🇻🇺</key>
+	<string>bandiera di Vanuatu</string>
+	<key>🇧🇸</key>
+	<string>bandiera delle Bahamas</string>
+	<key>🎃</key>
+	<string>zucca di Halloween</string>
+	<key>🕵️‍♀️</key>
+	<string>investigatrice</string>
+	<key>🦁</key>
+	<string>muso di leone</string>
+	<key>🚂</key>
+	<string>locomotiva a vapore</string>
+	<key>🎄</key>
+	<string>albero di Natale</string>
+	<key>🇷🇺</key>
+	<string>bandiera della Russia</string>
+	<key>🦂</key>
+	<string>scorpione</string>
+	<key>🚃</key>
+	<string>vagone ferroviario</string>
+	<key>🎅</key>
+	<string>Babbo Natale</string>
+	<key>🦃</key>
+	<string>tacchino</string>
+	<key>🚄</key>
+	<string>treno ad alta velocità</string>
+	<key>🇳🇺</key>
+	<string>bandiera di Niue</string>
+	<key>🛩️</key>
+	<string>piccolo aeroplano</string>
+	<key>◾️</key>
+	<string>quadrato mediamente piccolo nero</string>
+	<key>🎆</key>
+	<string>fuochi d’artificio</string>
+	<key>🇧🇹</key>
+	<string>bandiera del Bhutan</string>
+	<key>🦄</key>
+	<string>unicorno</string>
+	<key>🚅</key>
+	<string>treno ad alta velocità a punta di proiettile</string>
+	<key>🎇</key>
+	<string>fuochi d’artificio scintillanti</string>
+	<key>🦅</key>
+	<string>aquila</string>
+	<key>🚆</key>
+	<string>treno</string>
+	<key>👱‍♀️</key>
+	<string>donna con capelli biondi</string>
+	<key>🎈</key>
+	<string>palloncino</string>
+	<key>🇿🇼</key>
+	<string>bandiera dello Zimbabwe</string>
+	<key>🦆</key>
+	<string>anatra</string>
+	<key>🚇</key>
+	<string>treno della metropolitana</string>
+	<key>😮‍💨</key>
+	<string>faccina che sbuffa</string>
+	<key>🎉</key>
+	<string>spara coriandoli</string>
+	<key>🦇</key>
+	<string>pipistrello</string>
+	<key>🚈</key>
+	<string>metropolitana</string>
+	<key>🎊</key>
+	<string>palla di coriandoli</string>
+	<key>🦈</key>
+	<string>squalo</string>
+	<key>🚉</key>
+	<string>stazione</string>
+	<key>🇷🇼</key>
+	<string>bandiera del Ruanda</string>
+	<key>🎋</key>
+	<string>albero della festa di Tanabata</string>
+	<key>🦉</key>
+	<string>gufo</string>
+	<key>🚊</key>
+	<string>tram</string>
+	<key>🎌</key>
+	<string>bandiere incrociate</string>
+	<key>🦊</key>
+	<string>muso di volpe</string>
+	<key>🚋</key>
+	<string>tram</string>
+	<key>🎍</key>
+	<string>decorazione kadomatsu</string>
+	<key>🇧🇻</key>
+	<string>bandiera dell’Isola Bouvet</string>
+	<key>🦋</key>
+	<string>farfalla</string>
+	<key>🚌</key>
+	<string>autobus</string>
+	<key>🎎</key>
+	<string>bambole giapponesi</string>
+	<key>🦌</key>
+	<string>cervo</string>
+	<key>🚍</key>
+	<string>autobus in arrivo</string>
+	<key>🎏</key>
+	<string>festone con carpe</string>
+	<key>🦍</key>
+	<string>gorilla</string>
+	<key>🚎</key>
+	<string>filobus</string>
+	<key>🚏</key>
+	<string>fermata dell’autobus</string>
+	<key>🎐</key>
+	<string>campana a vento</string>
+	<key>🦎</key>
+	<string>lucertola</string>
+	<key>🇧🇼</key>
+	<string>bandiera del Botswana</string>
+	<key>🚐</key>
+	<string>minibus</string>
+	<key>♏️</key>
+	<string>Scorpione</string>
+	<key>🎑</key>
+	<string>cerimonia della festa della Luna</string>
+	<key>🦏</key>
+	<string>rinoceronte</string>
+	<key>🚑</key>
+	<string>ambulanza</string>
+	<key>👨‍🍼</key>
+	<string>uomo che allatta un bebè</string>
+	<key>⚧️</key>
+	<string>simbolo transgender</string>
+	<key>👨‍👨‍👧</key>
+	<string>famiglia con due padri e una figlia</string>
+	<key>🖋️</key>
+	<string>penna stilografica</string>
+	<key>🚒</key>
+	<string>autopompa antincendio</string>
+	<key>🎒</key>
+	<string>zaino</string>
+	<key>🎓</key>
+	<string>tocco di laurea</string>
+	<key>🦐</key>
+	<string>gamberetto</string>
+	<key>🦑</key>
+	<string>calamaro</string>
+	<key>🚓</key>
+	<string>auto della polizia</string>
+	<key>❗️</key>
+	<string>punto esclamativo rosso</string>
+	<key>🦒</key>
+	<string>giraffa</string>
+	<key>🙇‍♀️</key>
+	<string>donna che si inchina</string>
+	<key>🗣️</key>
+	<string>silhouette di una testa che parla</string>
+	<key>🚔</key>
+	<string>auto della polizia in arrivo</string>
+	<key>🦓</key>
+	<string>zebra</string>
+	<key>🚕</key>
+	<string>taxi</string>
+	<key>🦔</key>
+	<string>riccio</string>
+	<key>🇳🇿</key>
+	<string>bandiera della Nuova Zelanda</string>
+	<key>🦕</key>
+	<string>dinosauro</string>
+	<key>🚖</key>
+	<string>taxi in arrivo</string>
+	<key>🇧🇾</key>
+	<string>bandiera della Bielorussia</string>
+	<key>🦖</key>
+	<string>T-Rex</string>
+	<key>🚗</key>
+	<string>auto</string>
+	<key>🦗</key>
+	<string>grillo</string>
+	<key>🚘</key>
+	<string>auto in arrivo</string>
+	<key>🦘</key>
+	<string>canguro</string>
+	<key>🚙</key>
+	<string>utilitaria sportiva</string>
+	<key>🇧🇿</key>
+	<string>bandiera del Belize</string>
+	<key>🦙</key>
+	<string>lama</string>
+	<key>🚚</key>
+	<string>camion delle consegne</string>
+	<key>♈️</key>
+	<string>Ariete</string>
+	<key>🦚</key>
+	<string>pavone</string>
+	<key>🚛</key>
+	<string>autotreno</string>
+	<key>⚠️</key>
+	<string>avviso</string>
+	<key>🦛</key>
+	<string>ippopotamo</string>
+	<key>🚜</key>
+	<string>trattore</string>
+	<key>⛸️</key>
+	<string>pattino da ghiaccio</string>
+	<key>🧘‍♂️</key>
+	<string>uomo nella posizione del loto</string>
+	<key>🧑‍🚀</key>
+	<string>astronauta</string>
+	<key>🦜</key>
+	<string>pappagallo</string>
+	<key>🚝</key>
+	<string>monorotaia</string>
+	<key>🦝</key>
+	<string>procione</string>
+	<key>🚞</key>
+	<string>treno con montagna</string>
+	<key>🎠</key>
+	<string>cavallo della giostra</string>
+	<key>🦞</key>
+	<string>aragosta</string>
+	<key>🚟</key>
+	<string>ferrovia sospesa</string>
+	<key>🎡</key>
+	<string>ruota panoramica</string>
+	<key>🦟</key>
+	<string>zanzara</string>
+	<key>🚠</key>
+	<string>teleferica</string>
+	<key>🎢</key>
+	<string>montagne russe</string>
+	<key>🦠</key>
+	<string>microbo</string>
+	<key>🚡</key>
+	<string>funivia</string>
+	<key>🧝‍♀️</key>
+	<string>elfa</string>
+	<key>🎣</key>
+	<string>canna da pesca con pesce</string>
+	<key>🦡</key>
+	<string>tasso</string>
+	<key>🚢</key>
+	<string>nave</string>
+	<key>🎤</key>
+	<string>microfono</string>
+	<key>🦢</key>
+	<string>cigno</string>
+	<key>🚣</key>
+	<string>persona che rema su una barca</string>
+	<key>🎥</key>
+	<string>macchina da presa</string>
+	<key>🦣</key>
+	<string>mammut</string>
+	<key>🚤</key>
+	<string>motoscafo da corsa</string>
+	<key>🎦</key>
+	<string>simbolo del cinema</string>
+	<key>🦤</key>
+	<string>dodo</string>
+	<key>🚥</key>
+	<string>semaforo orizzontale</string>
+	<key>⚙️</key>
+	<string>ingranaggio</string>
+	<key>🚴‍♂️</key>
+	<string>ciclista uomo</string>
+	<key>🎧</key>
+	<string>cuffie</string>
+	<key>🦥</key>
+	<string>bradipo</string>
+	<key>🚦</key>
+	<string>semaforo</string>
+	<key>⛱️</key>
+	<string>ombrellone</string>
+	<key>🖍️</key>
+	<string>pastello a cera</string>
+	<key>🎨</key>
+	<string>tavolozza da pittore</string>
+	<key>🦦</key>
+	<string>lontra</string>
+	<key>🚧</key>
+	<string>segnale di lavori in corso</string>
+	<key>🎩</key>
+	<string>cappello a cilindro</string>
+	<key>🦧</key>
+	<string>orango</string>
+	<key>🚨</key>
+	<string>lampeggiante per vetture</string>
+	<key>➡️</key>
+	<string>freccia rivolta verso destra</string>
+	<key>🎪</key>
+	<string>tendone da circo</string>
+	<key>🦨</key>
+	<string>moffetta</string>
+	<key>🚩</key>
+	<string>bandiera triangolare su asta</string>
+	<key>🎫</key>
+	<string>biglietto</string>
+	<key>🦩</key>
+	<string>fenicottero</string>
+	<key>🚪</key>
+	<string>porta</string>
+	<key>🦸‍♀️</key>
+	<string>supereroina</string>
+	<key>🎬</key>
+	<string>ciak</string>
+	<key>🦪</key>
+	<string>ostrica</string>
+	<key>🚫</key>
+	<string>proibito</string>
+	<key>🎖️</key>
+	<string>medaglia militare</string>
+	<key>🎭</key>
+	<string>Arti espressive</string>
+	<key>🦫</key>
+	<string>castoro</string>
+	<key>🚬</key>
+	<string>sigaretta</string>
+	<key>🎮</key>
+	<string>gamepad per videogiochi</string>
+	<key>🦬</key>
+	<string>bisonte</string>
+	<key>🚭</key>
+	<string>simbolo vietato fumare</string>
+	<key>🎯</key>
+	<string>bersaglio</string>
+	<key>🦭</key>
+	<string>foca</string>
+	<key>🚮</key>
+	<string>simbolo che indica di gettare i rifiuti negli appositi contenitori</string>
+	<key>☺️</key>
+	<string>faccina sorridente</string>
+	<key>🎰</key>
+	<string>slot machine</string>
+	<key>🦮</key>
+	<string>cane guida</string>
+	<key>🚯</key>
+	<string>divieto di gettare rifiuti</string>
+	<key>⚒️</key>
+	<string>martello e piccone</string>
+	<key>🎱</key>
+	<string>palla da biliardo</string>
+	<key>🦯</key>
+	<string>bastone bianco per non vedenti</string>
+	<key>🚰</key>
+	<string>rubinetto</string>
+	<key>🧑‍🎄</key>
+	<string>Babbo Natale non binario</string>
+	<key>⛪️</key>
+	<string>chiesa</string>
+	<key>🎲</key>
+	<string>dado</string>
+	<key>🤵‍♀️</key>
+	<string>donna in smoking</string>
+	<key>⌛️</key>
+	<string>clessidra</string>
+	<key>🏋️‍♂️</key>
+	<string>uomo che solleva pesi</string>
+	<key>🚱</key>
+	<string>acqua non potabile</string>
+	<key>🎳</key>
+	<string>palla da bowling e birilli</string>
+	<key>👯‍♂️</key>
+	<string>uomini che ballano indossando orecchie da coniglio</string>
+	<key>👨‍🚀</key>
+	<string>astronauta uomo</string>
+	<key>🚲</key>
+	<string>bicicletta</string>
+	<key>🎴</key>
+	<string>carta da gioco giapponese</string>
+	<key>🚳</key>
+	<string>simbolo che vieta le biciclette</string>
+	<key>👩‍👦‍👦</key>
+	<string>famiglia con madre e due figli</string>
+	<key>🎵</key>
+	<string>nota musicale</string>
+	<key>👨‍🤝‍👨</key>
+	<string>uomini che si tengono per mano</string>
+	<key>🚴</key>
+	<string>ciclista</string>
+	<key>🎶</key>
+	<string>note musicali</string>
+	<key>🦴</key>
+	<string>osso</string>
+	<key>🚵</key>
+	<string>persona su bici da montagna</string>
+	<key>🎷</key>
+	<string>sassofono</string>
+	<key>🦵</key>
+	<string>gamba</string>
+	<key>🚶</key>
+	<string>persona che cammina</string>
+	<key>🎸</key>
+	<string>chitarra</string>
+	<key>🦶</key>
+	<string>piede</string>
+	<key>🚷</key>
+	<string>pedoni non ammessi</string>
+	<key>🎹</key>
+	<string>tastiera</string>
+	<key>🦷</key>
+	<string>dente</string>
+	<key>🚸</key>
+	<string>bambini che attraversano</string>
+	<key>🎺</key>
+	<string>tromba</string>
+	<key>🦸</key>
+	<string>supereroina</string>
+	<key>🚹</key>
+	<string>simbolo con immagine stilizzata di uomo</string>
+	<key>🎻</key>
+	<string>violino</string>
+	<key>🦹</key>
+	<string>supercattivo</string>
+	<key>🚺</key>
+	<string>simbolo con immagine stilizzata di donna</string>
+	<key>🎼</key>
+	<string>partitura musicale</string>
+	<key>🦺</key>
+	<string>giubbotto di sicurezza</string>
+	<key>🚻</key>
+	<string>servizi igienici</string>
+	<key>🎽</key>
+	<string>maglietta da palestra</string>
+	<key>🦻</key>
+	<string>orecchio con apparecchio acustico</string>
+	<key>🚼</key>
+	<string>simbolo con immagine di bambino</string>
+	<key>🎾</key>
+	<string>pallina da tennis</string>
+	<key>🦼</key>
+	<string>sedia a rotelle motorizzata</string>
+	<key>🚽</key>
+	<string>gabinetto</string>
+	<key>🎿</key>
+	<string>sci</string>
+	<key>🦽</key>
+	<string>sedia a rotelle manuale</string>
+	<key>🚾</key>
+	<string>wc</string>
+	<key>🏀</key>
+	<string>palla da pallacanestro</string>
+	<key>🦾</key>
+	<string>braccio meccanico</string>
+	<key>🙅‍♂️</key>
+	<string>uomo che fa segno di no</string>
+	<key>🚿</key>
+	<string>doccia</string>
+	<key>🏁</key>
+	<string>bandiera a scacchi</string>
+	<key>🦿</key>
+	<string>gamba meccanica</string>
+	<key>🛀</key>
+	<string>persona che fa il bagno</string>
+	<key>🏂</key>
+	<string>uomo sullo snowboard</string>
+	<key>🧀</key>
+	<string>fetta di formaggio</string>
+	<key>🛁</key>
+	<string>vasca da bagno</string>
+	<key>🚣‍♂️</key>
+	<string>uomo che rema su una barca</string>
+	<key>🏃</key>
+	<string>corridore</string>
+	<key>🧁</key>
+	<string>cupcake</string>
+	<key>🛂</key>
+	<string>controllo passaporti</string>
+	<key>🏄</key>
+	<string>surfista</string>
+	<key>🧂</key>
+	<string>sale</string>
+	<key>🛃</key>
+	<string>dogana</string>
+	<key>🏅</key>
+	<string>medaglia sportiva</string>
+	<key>🧃</key>
+	<string>succo di frutta</string>
+	<key>🛄</key>
+	<string>ritiro bagagli</string>
+	<key>🏆</key>
+	<string>trofeo</string>
+	<key>🧄</key>
+	<string>aglio</string>
+	<key>🛅</key>
+	<string>deposito bagagli</string>
+	<key>🏇</key>
+	<string>fantino su cavallo da corsa</string>
+	<key>🧅</key>
+	<string>cipolla</string>
+	<key>✴️</key>
+	<string>stella a otto punte</string>
+	<key>🖼️</key>
+	<string>cornice con foto</string>
+	<key>🏈</key>
+	<string>Palla da football americano</string>
+	<key>🧆</key>
+	<string>falafel</string>
+	<key>🏉</key>
+	<string>palla da rugby</string>
+	<key>🧇</key>
+	<string>cialda</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>famiglia con due padri, figlio e figlia</string>
+	<key>🏊</key>
+	<string>nuotatore</string>
+	<key>🧈</key>
+	<string>burro</string>
+	<key>🧑‍⚖️</key>
+	<string>giudice</string>
+	<key>3️⃣</key>
+	<string>tasto tre</string>
+	<key>🧉</key>
+	<string>tazza di mate</string>
+	<key>🧊</key>
+	<string>ghiaccio</string>
+	<key>🧋</key>
+	<string>tè boba</string>
+	<key>🛌</key>
+	<string>persona che dorme</string>
+	<key>🧛‍♂️</key>
+	<string>vampiro</string>
+	<key>🧌</key>
+	<string>troll</string>
+	<key>🏏</key>
+	<string>mazza e pallina da cricket</string>
+	<key>🧍</key>
+	<string>persona in piedi</string>
+	<key>🏐</key>
+	<string>palla da pallavolo</string>
+	<key>🧎</key>
+	<string>persona in ginocchio</string>
+	<key>🏑</key>
+	<string>mazza e palla da hockey su prato</string>
+	<key>🧏</key>
+	<string>Persona sorda</string>
+	<key>🛐</key>
+	<string>luogo di culto</string>
+	<key>🏒</key>
+	<string>mazza e dischetto da hockey su ghiaccio</string>
+	<key>🧐</key>
+	<string>faccina con monocolo</string>
+	<key>🛑</key>
+	<string>cartello ottagonale</string>
+	<key>🏓</key>
+	<string>racchetta e pallina da ping pong</string>
+	<key>🧑</key>
+	<string>persona adulta</string>
+	<key>🛒</key>
+	<string>carrello della spesa</string>
+	<key>🧒</key>
+	<string>bambino</string>
+	<key>🧓</key>
+	<string>persona anziana</string>
+	<key>🎚️</key>
+	<string>cursore livello</string>
+	<key>🧔</key>
+	<string>persona con barba</string>
+	<key>🛕</key>
+	<string>tempio indù</string>
+	<key>🧕</key>
+	<string>donna con il velo</string>
+	<key>🛖</key>
+	<string>capanna</string>
+	<key>🧖</key>
+	<string>persona che fa la sauna</string>
+	<key>🛗</key>
+	<string>ascensore</string>
+	<key>🧗</key>
+	<string>scalatore di roccia</string>
+	<key>🧘</key>
+	<string>persona nella posizione del loto</string>
+	<key>🧙</key>
+	<string>mago</string>
+	<key>🧚</key>
+	<string>folletto alato</string>
+	<key>👩‍💻</key>
+	<string>donna con computer</string>
+	<key>🧛</key>
+	<string>vampiro</string>
+	<key>🛜</key>
+	<string>simbolo della rete wireless</string>
+	<key>🧜</key>
+	<string>persona con coda di pesce</string>
+	<key>🛝</key>
+	<string>scivolo</string>
+	<key>🧝</key>
+	<string>elfo</string>
+	<key>🛞</key>
+	<string>ruota</string>
+	<key>👨‍⚖️</key>
+	<string>giudice uomo</string>
+	<key>🏠</key>
+	<string>casa</string>
+	<key>🧞</key>
+	<string>genio della lampada</string>
+	<key>↘️</key>
+	<string>freccia rivolta verso destra che punta in basso</string>
+	<key>🛟</key>
+	<string>salvagente</string>
+	<key>🏡</key>
+	<string>casa con giardino</string>
+	<key>🧟</key>
+	<string>zombie</string>
+	<key>🤸‍♀️</key>
+	<string>donna che fa la ruota</string>
+	<key>🏢</key>
+	<string>uffici</string>
+	<key>🧠</key>
+	<string>cervello</string>
+	<key>🏣</key>
+	<string>Ufficio postale giapponese</string>
+	<key>🧡</key>
+	<string>cuore arancione</string>
+	<key>👩‍💼</key>
+	<string>impiegata</string>
+	<key>🏤</key>
+	<string>Poste</string>
+	<key>🧢</key>
+	<string>cappellino con visiera</string>
+	<key>🏥</key>
+	<string>ospedale</string>
+	<key>🧣</key>
+	<string>sciarpa</string>
+	<key>🏦</key>
+	<string>banca</string>
+	<key>🧤</key>
+	<string>guanti</string>
+	<key>🏧</key>
+	<string>Simbolo ATM</string>
+	<key>🧥</key>
+	<string>cappotto</string>
+	<key>👷‍♀️</key>
+	<string>operaio edile donna</string>
+	<key>🏨</key>
+	<string>hotel</string>
+	<key>🧦</key>
+	<string>calzini</string>
+	<key>🏩</key>
+	<string>love hotel</string>
+	<key>🧧</key>
+	<string>busta regalo rossa</string>
+	<key>ℹ️</key>
+	<string>simbolo delle informazioni</string>
+	<key>🏪</key>
+	<string>minimarket</string>
+	<key>🧨</key>
+	<string>petardo</string>
+	<key>🏫</key>
+	<string>scuola</string>
+	<key>🧩</key>
+	<string>tessera del puzzle</string>
+	<key>🏬</key>
+	<string>grande magazzino</string>
+	<key>🧪</key>
+	<string>provetta</string>
+	<key>🛫</key>
+	<string>aereo che decolla</string>
+	<key>🛳️</key>
+	<string>nave passeggeri</string>
+	<key>🏭</key>
+	<string>fabbrica</string>
+	<key>🧫</key>
+	<string>piastra di Petri</string>
+	<key>🛬</key>
+	<string>aereo che atterra</string>
+	<key>♨️</key>
+	<string>sorgenti termali</string>
+	<key>🏮</key>
+	<string>lanterna giapponese</string>
+	<key>🧬</key>
+	<string>DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>famiglia con madre, padre e figlio</string>
+	<key>🏯</key>
+	<string>castello giapponese</string>
+	<key>🧭</key>
+	<string>bussola</string>
+	<key>🧏‍♀️</key>
+	<string>Donna sorda</string>
+	<key>🏰</key>
+	<string>castello europeo</string>
+	<key>🧮</key>
+	<string>abaco</string>
+	<key>🧯</key>
+	<string>estintore</string>
+	<key>⏹️</key>
+	<string>simbolo dell’interruzione della riproduzione</string>
+	<key>🧰</key>
+	<string>cassetta degli attrezzi</string>
+	<key>🧱</key>
+	<string>mattoni</string>
+	<key>🏴</key>
+	<string>bandiera nera</string>
+	<key>🧲</key>
+	<string>calamita</string>
+	<key>🙍‍♀️</key>
+	<string>donna imbronciata</string>
+	<key>🧳</key>
+	<string>bagaglio</string>
+	<key>🛴</key>
+	<string>monopattino</string>
+	<key>🧴</key>
+	<string>flacone</string>
+	<key>🛵</key>
+	<string>scooter</string>
+	<key>👨‍👦</key>
+	<string>famiglia con padre e figlio</string>
+	<key>🧵</key>
+	<string>rocchetto di filo</string>
+	<key>💆‍♂️</key>
+	<string>uomo che riceve un massaggio alla testa</string>
+	<key>🛶</key>
+	<string>canoa</string>
+	<key>🏸</key>
+	<string>racchetta da badminton e volano</string>
+	<key>🧶</key>
+	<string>gomitolo</string>
+	<key>🛷</key>
+	<string>slittino</string>
+	<key>🏹</key>
+	<string>arco e freccia</string>
+	<key>🧷</key>
+	<string>spilla di sicurezza</string>
+	<key>🛸</key>
+	<string>UFO</string>
+	<key>🏺</key>
+	<string>anfora</string>
+	<key>🧸</key>
+	<string>orsetto di peluche</string>
+	<key>🛹</key>
+	<string>skateboard</string>
+	<key>🧹</key>
+	<string>scopa</string>
+	<key>🛺</key>
+	<string>macchina risciò</string>
+	<key>⏲️</key>
+	<string>timer</string>
+	<key>🧺</key>
+	<string>cesto</string>
+	<key>🛻</key>
+	<string>camioncino</string>
+	<key>🧻</key>
+	<string>rotolo di carta igienica</string>
+	<key>🛼</key>
+	<string>pattino a rotelle</string>
+	<key>👨‍👧</key>
+	<string>famiglia con padre e figlia</string>
+	<key>🧼</key>
+	<string>saponetta</string>
+	<key>🧞‍♂️</key>
+	<string>genio della lampada uomo</string>
+	<key>🧽</key>
+	<string>spugna</string>
+	<key>🎞️</key>
+	<string>pellicola cinematografica</string>
+	<key>🧾</key>
+	<string>ricevuta</string>
+	<key>▪️</key>
+	<string>quadrato piccolo nero</string>
+	<key>🧿</key>
+	<string>amuleto nazar</string>
+	<key>☂️</key>
+	<string>ombrello</string>
+	<key>🗂️</key>
+	<string>schedario</string>
+	<key>🦹‍♂️</key>
+	<string>supercattivo</string>
+	<key>🏋️</key>
+	<string>persona che solleva pesi</string>
+	<key>◻️</key>
+	<string>quadrato medio bianco</string>
+	<key>♓️</key>
+	<string>Pesci</string>
+	<key>⚫️</key>
+	<string>cerchio nero</string>
+	<key>⏩</key>
+	<string>simbolo Avanti veloce</string>
+	<key>⏪</key>
+	<string>simbolo del riavvolgimento</string>
+	<key>⏫</key>
+	<string>doppio triangolo rivolto verso l’alto</string>
+	<key>⏬</key>
+	<string>doppio triangolo rivolto verso il basso</string>
+	<key>🗯️</key>
+	<string>fumetto di voce arrabbiata</string>
+	<key>⏰</key>
+	<string>sveglia</string>
+	<key>⏳</key>
+	<string>clessidra con sabbia che scorre</string>
+	<key>🧑‍🎓</key>
+	<string>studente</string>
+	<key>🧑‍🚒</key>
+	<string>vigile del fuoco</string>
+	<key>♌️</key>
+	<string>Leone</string>
+	<key>🗄️</key>
+	<string>schedario</string>
+	<key>🧍‍♂️</key>
+	<string>uomo in piedi</string>
+	<key>🏍️</key>
+	<string>motocicletta</string>
+	<key>🙋‍♂️</key>
+	<string>uomo che alza una mano</string>
+	<key>👨‍👩‍👧</key>
+	<string>famiglia con madre, padre e figlia</string>
+	<key>🇸🇦</key>
+	<string>bandiera dell’Arabia Saudita</string>
+	<key>⛵️</key>
+	<string>barca a vela</string>
+	<key>👩‍🏫</key>
+	<string>professoressa</string>
+	<key>⬜️</key>
+	<string>quadrato grande bianco</string>
+	<key>🇸🇧</key>
+	<string>bandiera delle Isole Salomone</string>
+	<key>🇬🇦</key>
+	<string>bandiera del Gabon</string>
+	<key>🇨🇦</key>
+	<string>bandiera del Canada</string>
+	<key>🇸🇨</key>
+	<string>bandiera delle Seychelles</string>
+	<key>🇬🇧</key>
+	<string>bandiera del Regno Unito</string>
+	<key>👨‍🎓</key>
+	<string>studente</string>
+	<key>👨‍🚒</key>
+	<string>vigile del fuoco</string>
+	<key>⚖️</key>
+	<string>bilancia</string>
+	<key>🇸🇩</key>
+	<string>bandiera del Sudan</string>
+	<key>🇨🇨</key>
+	<string>bandiera delle Isole Cocos (Keeling)</string>
+	<key>⏏️</key>
+	<string>simbolo dell’espulsione</string>
+	<key>🇸🇪</key>
+	<string>bandiera della Svezia</string>
+	<key>🇬🇩</key>
+	<string>bandiera di Grenada</string>
+	<key>👩‍🏭</key>
+	<string>operaia</string>
+	<key>🇼🇫</key>
+	<string>bandiera di Wallis e Futuna</string>
+	<key>🇨🇩</key>
+	<string>bandiera della Repubblica Democratica del Congo</string>
+	<key>🇰🇪</key>
+	<string>bandiera del Kenya</string>
+	<key>🛎️</key>
+	<string>campanello da hotel</string>
+	<key>🇬🇪</key>
+	<string>bandiera della Georgia</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>famiglia con due madri, figlio e figlia</string>
+	<key>🇸🇬</key>
+	<string>bandiera di Singapore</string>
+	<key>🇬🇫</key>
+	<string>bandiera della Guyana Francese</string>
+	<key>🇨🇫</key>
+	<string>bandiera della Repubblica Centrafricana</string>
+	<key>🇰🇬</key>
+	<string>bandiera del Kirghizistan</string>
+	<key>🗳️</key>
+	<string>urna elettorale con scheda</string>
+	<key>🇸🇭</key>
+	<string>bandiera di Sant’Elena</string>
+	<key>🇬🇬</key>
+	<string>bandiera di Guernsey</string>
+	<key>🧑‍⚕️</key>
+	<string>operatore sanitario</string>
+	<key>🏃‍♀️</key>
+	<string>donna che corre</string>
+	<key>🇨🇬</key>
+	<string>bandiera della Repubblica del Congo</string>
+	<key>🇰🇭</key>
+	<string>bandiera della Cambogia</string>
+	<key>🤹‍♂️</key>
+	<string>giocoliere</string>
+	<key>🇸🇮</key>
+	<string>bandiera della Slovenia</string>
+	<key>🇬🇭</key>
+	<string>bandiera del Ghana</string>
+	<key>〽️</key>
+	<string>simbolo alternanza delle parti</string>
+	<key>🇨🇭</key>
+	<string>bandiera della Svizzera</string>
+	<key>🇰🇮</key>
+	<string>bandiera delle Kiribati</string>
+	<key>🇸🇯</key>
+	<string>bandiera delle Isole Svalbard e Jan Mayen</string>
+	<key>🕰️</key>
+	<string>orologio da mensola</string>
+	<key>8️⃣</key>
+	<string>tasto otto</string>
+	<key>🇬🇮</key>
+	<string>bandiera di Gibilterra</string>
+	<key>🤾‍♀️</key>
+	<string>giocatrice di pallamano</string>
+	<key>🇨🇮</key>
+	<string>bandiera della Côte d’Ivoire</string>
+	<key>⬇️</key>
+	<string>freccia rivolta verso il basso</string>
+	<key>👩‍✈️</key>
+	<string>pilota donna</string>
+	<key>👩‍👧‍👦</key>
+	<string>famiglia con madre, figlio e figlia</string>
+	<key>🇸🇰</key>
+	<string>bandiera della Slovacchia</string>
+	<key>🌡️</key>
+	<string>termometro</string>
+	<key>↪️</key>
+	<string>freccia ricurva rivolta verso destra</string>
+	<key>🇸🇱</key>
+	<string>bandiera della Sierra Leone</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>due uomini che si mandano un bacio</string>
+	<key>🇨🇰</key>
+	<string>bandiera delle Isole Cook</string>
+	<key>🇸🇲</key>
+	<string>bandiera di San Marino</string>
+	<key>🇬🇱</key>
+	<string>bandiera della Groenlandia</string>
+	<key>🇴🇲</key>
+	<string>bandiera dell’Oman</string>
+	<key>🇨🇱</key>
+	<string>bandiera del Cile</string>
+	<key>🇰🇲</key>
+	<string>bandiera delle Comore</string>
+	<key>🇸🇳</key>
+	<string>bandiera del Senegal</string>
+	<key>🇬🇲</key>
+	<string>bandiera del Gambia</string>
+	<key>1️⃣</key>
+	<string>tasto uno</string>
+	<key>Ⓜ️</key>
+	<string>M cerchiata</string>
+	<key>🇨🇲</key>
+	<string>bandiera del Camerun</string>
+	<key>👨‍⚕️</key>
+	<string>operatore sanitario</string>
+	<key>🙎‍♂️</key>
+	<string>uomo accigliato</string>
+	<key>🇰🇳</key>
+	<string>bandiera di Saint Kitts e Nevis</string>
+	<key>🇸🇴</key>
+	<string>bandiera della Somalia</string>
+	<key>🇬🇳</key>
+	<string>bandiera della Guinea</string>
+	<key>🇨🇳</key>
+	<string>bandiera della Cina</string>
+	<key>☢️</key>
+	<string>radioattivo</string>
+	<key>🇨🇴</key>
+	<string>bandiera della Colombia</string>
+	<key>‼️</key>
+	<string>doppio punto esclamativo rosso</string>
+	<key>🃏</key>
+	<string>jolly</string>
+	<key>🇰🇵</key>
+	<string>bandiera della Corea del Nord</string>
+	<key>🇬🇵</key>
+	<string>bandiera della Guadalupa</string>
+	<key>㊗️</key>
+	<string>ideogramma giapponese di “congratulazioni”</string>
+	<key>🐿️</key>
+	<string>scoiattolo</string>
+	<key>🇨🇵</key>
+	<string>bandiera dell’Isola di Clipperton</string>
+	<key>🇸🇷</key>
+	<string>bandiera del Suriname</string>
+	<key>🏳️‍⚧️</key>
+	<string>bandiera transgender</string>
+	<key>🇬🇶</key>
+	<string>bandiera della Guinea Equatoriale</string>
+	<key>🇼🇸</key>
+	<string>bandiera di Samoa</string>
+	<key>*️⃣</key>
+	<string>tasto asterisco</string>
+	<key>🇰🇷</key>
+	<string>bandiera della Corea del Sud</string>
+	<key>🇸🇸</key>
+	<string>bandiera del Sudan del Sud</string>
+	<key>🇬🇷</key>
+	<string>bandiera della Grecia</string>
+	<key>🇨🇷</key>
+	<string>bandiera della Costa Rica</string>
+	<key>®️</key>
+	<string>simbolo del marchio registrato</string>
+	<key>🇸🇹</key>
+	<string>bandiera di São Tomé e Príncipe</string>
+	<key>🇬🇸</key>
+	<string>bandiera della Georgia del Sud e delle Isole Sandwich del Sud</string>
+	<key>↕️</key>
+	<string>freccia su e giù</string>
+	<key>🇬🇹</key>
+	<string>bandiera del Guatemala</string>
+	<key>☔️</key>
+	<string>ombrello con gocce di pioggia</string>
+	<key>🏳️‍🌈</key>
+	<string>bandiera arcobaleno</string>
+	<key>🇸🇻</key>
+	<string>bandiera di El Salvador</string>
+	<key>🕴️</key>
+	<string>uomo in completo elegante che levita</string>
+	<key>⛄️</key>
+	<string>pupazzo di neve</string>
+	<key>🇬🇺</key>
+	<string>bandiera di Guam</string>
+	<key>🇨🇺</key>
+	<string>bandiera di Cuba</string>
+	<key>#️⃣</key>
+	<string>simbolo del cancelletto</string>
+	<key>🤼‍♂️</key>
+	<string>lottatori</string>
+	<key>🌥️</key>
+	<string>sole dietro a una nuvola di grandi dimensioni</string>
+	<key>👁️</key>
+	<string>occhio</string>
+	<key>🇨🇻</key>
+	<string>bandiera di Capo Verde</string>
+	<key>🍽️</key>
+	<string>forchetta e coltello con piatto</string>
+	<key>🇰🇼</key>
+	<string>bandiera del Kuwait</string>
+	<key>🇸🇽</key>
+	<string>bandiera di Sint Maarten</string>
+	<key>🇬🇼</key>
+	<string>bandiera della Guinea-Bissau</string>
+	<key>🏕️</key>
+	<string>campeggio</string>
+	<key>🩰</key>
+	<string>scarpette da danza</string>
+	<key>🇨🇼</key>
+	<string>bandiera di Curaçao</string>
+	<key>🩱</key>
+	<string>costume da bagno intero</string>
+	<key>🇸🇾</key>
+	<string>bandiera della Siria</string>
+	<key>♥️</key>
+	<string>seme di cuori</string>
+	<key>🩲</key>
+	<string>slip da uomo</string>
+	<key>🕉️</key>
+	<string>simbolo Om</string>
+	<key>⚽️</key>
+	<string>palla da calcio</string>
+	<key>🩳</key>
+	<string>pantaloncini</string>
+	<key>🇨🇽</key>
+	<string>bandiera dell’Isola Christmas</string>
+	<key>🩴</key>
+	<string>sandalo</string>
+	<key>🇰🇾</key>
+	<string>bandiera delle Isole Cayman</string>
+	<key>🇸🇿</key>
+	<string>bandiera dell’Eswatini</string>
+	<key>🩵</key>
+	<string>cuore azzurro</string>
+	<key>👩‍👧‍👧</key>
+	<string>famiglia con madre e due figlie</string>
+	<key>🇬🇾</key>
+	<string>bandiera della Guyana</string>
+	<key>🩶</key>
+	<string>cuore grigio</string>
+	<key>🩷</key>
+	<string>cuore rosa</string>
+	<key>🇨🇾</key>
+	<string>bandiera di Cipro</string>
+	<key>🇰🇿</key>
+	<string>bandiera del Kazakistan</string>
+	<key>🩸</key>
+	<string>goccia di sangue</string>
+	<key>🩹</key>
+	<string>benda adesiva</string>
+	<key>🩺</key>
+	<string>stetoscopio</string>
+	<key>🇨🇿</key>
+	<string>bandiera della Cechia</string>
+	<key>🩻</key>
+	<string>lastra</string>
+	<key>🩼</key>
+	<string>stampella</string>
+	<key>🕶️</key>
+	<string>occhiali da sole</string>
+	<key>🧘‍♀️</key>
+	<string>donna nella posizione del loto</string>
+	<key>⏯️</key>
+	<string>simbolo di riproduzione/pausa</string>
+	<key>🪀</key>
+	<string>yo-yo</string>
+	<key>🌧️</key>
+	<string>nuvola con pioggia</string>
+	<key>🪁</key>
+	<string>aquilone</string>
+	<key>🪂</key>
+	<string>paracadute</string>
+	<key>🧑‍🎤</key>
+	<string>cantante</string>
+	<key>🪃</key>
+	<string>boomerang</string>
+	<key>🪄</key>
+	<string>bacchetta magica</string>
+	<key>🏗️</key>
+	<string>gru</string>
+	<key>🪅</key>
+	<string>piñata</string>
+	<key>🪆</key>
+	<string>matrioske</string>
+	<key>🚴‍♀️</key>
+	<string>ciclista donna</string>
+	<key>🪇</key>
+	<string>maracas</string>
+	<key>🐀</key>
+	<string>ratto</string>
+	<key>🪈</key>
+	<string>flauto</string>
+	<key>🐁</key>
+	<string>topo</string>
+	<key>🐂</key>
+	<string>bue</string>
+	<key>🐃</key>
+	<string>bufalo d’acqua</string>
+	<key>🐄</key>
+	<string>mucca</string>
+	<key>🅱️</key>
+	<string>gruppo sanguigno B</string>
+	<key>🐅</key>
+	<string>tigre</string>
+	<key>🐆</key>
+	<string>leopardo</string>
+	<key>🐇</key>
+	<string>coniglio</string>
+	<key>🐈</key>
+	<string>gatto</string>
+	<key>🪐</key>
+	<string>pianeta</string>
+	<key>♐️</key>
+	<string>Sagittario</string>
+	<key>🐉</key>
+	<string>drago</string>
+	<key>🪑</key>
+	<string>sedia</string>
+	<key>🕸️</key>
+	<string>ragnatela</string>
+	<key>🐊</key>
+	<string>coccodrillo</string>
+	<key>🪒</key>
+	<string>rasoio</string>
+	<key>👩‍🍳</key>
+	<string>chef donna</string>
+	<key>🐋</key>
+	<string>balena</string>
+	<key>👯‍♀️</key>
+	<string>donne che ballano indossando orecchie da coniglio</string>
+	<key>🪓</key>
+	<string>ascia</string>
+	<key>🐌</key>
+	<string>lumaca</string>
+	<key>🪔</key>
+	<string>lampada diya</string>
+	<key>🐍</key>
+	<string>serpente</string>
+	<key>🪕</key>
+	<string>banjo</string>
+	<key>🏄‍♂️</key>
+	<string>surfista uomo</string>
+	<key>🌩️</key>
+	<string>nuvola con fulmine</string>
+	<key>🐎</key>
+	<string>cavallo</string>
+	<key>🪖</key>
+	<string>elmetto militare</string>
+	<key>🐏</key>
+	<string>ariete</string>
+	<key>🪗</key>
+	<string>fisarmonica</string>
+	<key>🐐</key>
+	<string>capra</string>
+	<key>🪘</key>
+	<string>tamburo lungo</string>
+	<key>👨‍🎤</key>
+	<string>cantante uomo</string>
+	<key>🏙️</key>
+	<string>città</string>
+	<key>🐑</key>
+	<string>pecora</string>
+	<key>🪙</key>
+	<string>moneta</string>
+	<key>🐒</key>
+	<string>scimmia</string>
+	<key>🪚</key>
+	<string>sega a mano</string>
+	<key>♉️</key>
+	<string>Toro</string>
+	<key>🐓</key>
+	<string>gallo</string>
+	<key>🪛</key>
+	<string>cacciavite</string>
+	<key>⚡️</key>
+	<string>fulmine</string>
+	<key>🐔</key>
+	<string>pollo</string>
+	<key>🪜</key>
+	<string>scala</string>
+	<key>⛹️</key>
+	<string>giocatore di pallacanestro</string>
+	<key>🖥️</key>
+	<string>computer desktop</string>
+	<key>🐕</key>
+	<string>cane</string>
+	<key>🪝</key>
+	<string>gancio</string>
+	<key>🧑‍🎨</key>
+	<string>artista</string>
+	<key>🐖</key>
+	<string>maiale</string>
+	<key>🪞</key>
+	<string>specchio</string>
+	<key>🐗</key>
+	<string>cinghiale</string>
+	<key>🪟</key>
+	<string>finestra</string>
+	<key>🐘</key>
+	<string>elefante</string>
+	<key>🙅‍♀️</key>
+	<string>donna che fa segno di no</string>
+	<key>🪠</key>
+	<string>sturalavandini</string>
+	<key>🐙</key>
+	<string>polpo</string>
+	<key>🪡</key>
+	<string>ago da cucito</string>
+	<key>🐚</key>
+	<string>conchiglia</string>
+	<key>🪢</key>
+	<string>nodo</string>
+	<key>🚣‍♀️</key>
+	<string>donna che rema su una barca</string>
+	<key>🐛</key>
+	<string>insetto</string>
+	<key>🪣</key>
+	<string>secchio</string>
+	<key>🐜</key>
+	<string>formica</string>
+	<key>🪤</key>
+	<string>trappola per topi</string>
+	<key>🐝</key>
+	<string>ape</string>
+	<key>🪥</key>
+	<string>spazzolino da denti</string>
+	<key>🐞</key>
+	<string>coccinella</string>
+	<key>🪦</key>
+	<string>lapide</string>
+	<key>⛲️</key>
+	<string>fontana</string>
+	<key>🐟</key>
+	<string>pesce</string>
+	<key>🪧</key>
+	<string>cartello</string>
+	<key>🐠</key>
+	<string>pesce tropicale</string>
+	<key>🗒️</key>
+	<string>blocco per appunti con spirale</string>
+	<key>🪨</key>
+	<string>roccia</string>
+	<key>🐡</key>
+	<string>pesce palla</string>
+	<key>🪩</key>
+	<string>palla a specchi</string>
+	<key>🧖‍♂️</key>
+	<string>uomo che fa la sauna</string>
+	<key>🌫️</key>
+	<string>nebbia</string>
+	<key>🐢</key>
+	<string>tartaruga</string>
+	<key>🪪</key>
+	<string>carta d’identità</string>
+	<key>🐣</key>
+	<string>pulcino che esce dall’uovo</string>
+	<key>🪫</key>
+	<string>batteria scarica</string>
+	<key>🐤</key>
+	<string>pulcino</string>
+	<key>🪬</key>
+	<string>mano di Fatima</string>
+	<key>🐥</key>
+	<string>pulcino in piedi</string>
+	<key>😶‍🌫️</key>
+	<string>faccina che sbircia tra le nuvole</string>
+	<key>🏛️</key>
+	<string>edificio in stile classico</string>
+	<key>🪭</key>
+	<string>ventaglio</string>
+	<key>🐦</key>
+	<string>uccello</string>
+	<key>🧛‍♀️</key>
+	<string>vampira</string>
+	<key>🪮</key>
+	<string>pettine afro</string>
+	<key>🐧</key>
+	<string>pinguino</string>
+	<key>🪯</key>
+	<string>simbolo khanda</string>
+	<key>🐨</key>
+	<string>muso di koala</string>
+	<key>⚓️</key>
+	<string>ancora</string>
+	<key>🪰</key>
+	<string>mosca</string>
+	<key>🐩</key>
+	<string>barboncino</string>
+	<key>🪱</key>
+	<string>verme</string>
+	<key>🐪</key>
+	<string>dromedario</string>
+	<key>🪲</key>
+	<string>scarabeo</string>
+	<key>👨‍🎨</key>
+	<string>pittore</string>
+	<key>🐫</key>
+	<string>cammello</string>
+	<key>🪳</key>
+	<string>scarafaggio</string>
+	<key>🐬</key>
+	<string>delfino</string>
+	<key>🪴</key>
+	<string>pianta in vaso</string>
+	<key>🐭</key>
+	<string>muso di topo</string>
+	<key>🪵</key>
+	<string>legno</string>
+	<key>🐮</key>
+	<string>muso di mucca</string>
+	<key>🪶</key>
+	<string>piuma</string>
+	<key>🐯</key>
+	<string>muso di tigre</string>
+	<key>🪷</key>
+	<string>loto</string>
+	<key>🐕‍🦺</key>
+	<string>cane di servizio</string>
+	<key>🐰</key>
+	<string>muso di coniglio</string>
+	<key>🪸</key>
+	<string>corallo</string>
+	<key>🐱</key>
+	<string>muso di gatto</string>
+	<key>🪹</key>
+	<string>nido vuoto</string>
+	<key>🐲</key>
+	<string>testa di drago</string>
+	<key>🪺</key>
+	<string>nido con le uova</string>
+	<key>🐳</key>
+	<string>balena che spruzza acqua</string>
+	<key>🪻</key>
+	<string>giacinto</string>
+	<key>🐴</key>
+	<string>testa di cavallo</string>
+	<key>🪼</key>
+	<string>medusa</string>
+	<key>🐵</key>
+	<string>muso di scimmia</string>
+	<key>🪽</key>
+	<string>ala</string>
+	<key>🐶</key>
+	<string>muso di cane</string>
+	<key>🐷</key>
+	<string>muso di maiale</string>
+	<key>🪿</key>
+	<string>oca</string>
+	<key>🐸</key>
+	<string>muso di rana</string>
+	<key>🫀</key>
+	<string>cuore in anatomia</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>bandiera dell’Inghilterra</string>
+	<key>🐹</key>
+	<string>muso di criceto</string>
+	<key>🫁</key>
+	<string>polmoni</string>
+	<key>🐺</key>
+	<string>lupo</string>
+	<key>🏝️</key>
+	<string>isola deserta</string>
+	<key>🫂</key>
+	<string>persone abbracciate</string>
+	<key>🐻</key>
+	<string>muso di orso</string>
+	<key>🏌️‍♂️</key>
+	<string>giocatore di golf</string>
+	<key>🫃</key>
+	<string>uomo incinto</string>
+	<key>🐼</key>
+	<string>muso di panda</string>
+	<key>🫄</key>
+	<string>persona incinta</string>
+	<key>6️⃣</key>
+	<string>tasto sei</string>
+	<key>🐽</key>
+	<string>naso di maiale</string>
+	<key>🫅</key>
+	<string>persona con la corona</string>
+	<key>🐾</key>
+	<string>impronte</string>
+	<key>👀</key>
+	<string>occhi</string>
+	<key>👂</key>
+	<string>orecchio</string>
+	<key>👃</key>
+	<string>naso</string>
+	<key>👄</key>
+	<string>bocca</string>
+	<key>👅</key>
+	<string>lingua</string>
+	<key>☦️</key>
+	<string>croce ortodossa</string>
+	<key>👆</key>
+	<string>indice rivolto verso l’alto</string>
+	<key>👩‍🍼</key>
+	<string>donna che allatta un bebè</string>
+	<key>🫎</key>
+	<string>muso di alce</string>
+	<key>♾️</key>
+	<string>simbolo dell’infinito</string>
+	<key>👇</key>
+	<string>indice rivolto verso il basso</string>
+	<key>🫏</key>
+	<string>asino</string>
+	<key>👈</key>
+	<string>indice rivolto verso sinistra</string>
+	<key>🫐</key>
+	<string>mirtilli</string>
+	<key>👉</key>
+	<string>indice rivolto verso destra</string>
+	<key>🫑</key>
+	<string>peperone</string>
+	<key>👊</key>
+	<string>pugno chiuso</string>
+	<key>🫒</key>
+	<string>oliva</string>
+	<key>⭕️</key>
+	<string>cerchio</string>
+	<key>💁‍♂️</key>
+	<string>addetto ufficio informazioni</string>
+	<key>👋</key>
+	<string>mano che saluta</string>
+	<key>🫓</key>
+	<string>pane piatto</string>
+	<key>👌</key>
+	<string>gesto OK</string>
+	<key>🫔</key>
+	<string>tamale</string>
+	<key>👍</key>
+	<string>pollice rivolto verso l’alto</string>
+	<key>🫕</key>
+	<string>fonduta</string>
+	<key>👎</key>
+	<string>pollice rivolto verso il basso</string>
+	<key>🫖</key>
+	<string>teiera</string>
+	<key>🏟️</key>
+	<string>stadio</string>
+	<key>👏</key>
+	<string>mani che applaudono</string>
+	<key>🫗</key>
+	<string>liquido versato</string>
+	<key>💆‍♀️</key>
+	<string>donna che riceve un massaggio alla testa</string>
+	<key>👐</key>
+	<string>mani aperte</string>
+	<key>🫘</key>
+	<string>fagioli</string>
+	<key>🐦‍⬛</key>
+	<string>merlo</string>
+	<key>🧑‍🦯</key>
+	<string>persona con bastone bianco per non vedenti</string>
+	<key>🫙</key>
+	<string>barattolo</string>
+	<key>🧙‍♂️</key>
+	<string>mago</string>
+	<key>👑</key>
+	<string>corona</string>
+	<key>⛏️</key>
+	<string>piccone</string>
+	<key>👒</key>
+	<string>cappello con fiocco</string>
+	<key>🫚</key>
+	<string>radice di zenzero</string>
+	<key>👓</key>
+	<string>occhiali</string>
+	<key>🫛</key>
+	<string>baccello di piselli</string>
+	<key>👔</key>
+	<string>camicia con cravatta</string>
+	<key>👕</key>
+	<string>maglietta a maniche corte</string>
+	<key>👖</key>
+	<string>jeans</string>
+	<key>🧞‍♀️</key>
+	<string>genio della lampada donna</string>
+	<key>👗</key>
+	<string>vestito</string>
+	<key>↙️</key>
+	<string>freccia rivolta verso sinistra che punta in basso</string>
+	<key>🧑‍🦰</key>
+	<string>persona con capelli rossi</string>
+	<key>🕵️‍♂️</key>
+	<string>investigatore</string>
+	<key>👘</key>
+	<string>kimono</string>
+	<key>🟠</key>
+	<string>cerchio arancione</string>
+	<key>🫠</key>
+	<string>faccina che si scioglie</string>
+	<key>🟡</key>
+	<string>cerchio giallo</string>
+	<key>👩‍❤️‍👨</key>
+	<string>uomo e donna con cuore</string>
+	<key>👙</key>
+	<string>bikini</string>
+	<key>◀️</key>
+	<string>triangolo rivolto verso sinistra</string>
+	<key>🫡</key>
+	<string>faccina che fa il saluto militare</string>
+	<key>🟢</key>
+	<string>cerchio verde</string>
+	<key>👚</key>
+	<string>maglietta</string>
+	<key>☘️</key>
+	<string>trifoglio</string>
+	<key>🫢</key>
+	<string>faccina con gli occhi aperti e una mano sulla bocca</string>
+	<key>🚵‍♂️</key>
+	<string>uomo su bici da montagna</string>
+	<key>🟣</key>
+	<string>cerchio viola</string>
+	<key>👛</key>
+	<string>porta monete</string>
+	<key>🫣</key>
+	<string>faccina che sbircia con un occhio</string>
+	<key>🟤</key>
+	<string>cerchio marrone</string>
+	<key>👜</key>
+	<string>borsetta</string>
+	<key>⛈️</key>
+	<string>nuvola con fulmine e pioggia</string>
+	<key>🫤</key>
+	<string>faccina con la bocca in diagonale</string>
+	<key>🟥</key>
+	<string>quadrato rosso</string>
+	<key>👝</key>
+	<string>borsa</string>
+	<key>🫥</key>
+	<string>faccina con il bordo tratteggiato</string>
+	<key>🟦</key>
+	<string>quadrato blu</string>
+	<key>👞</key>
+	<string>scarpa da uomo elegante</string>
+	<key>🧑‍🦱</key>
+	<string>persona con capelli ricci</string>
+	<key>🫦</key>
+	<string>labbro morso</string>
+	<key>🟧</key>
+	<string>quadrato arancione</string>
+	<key>🦹‍♀️</key>
+	<string>supercattiva</string>
+	<key>👟</key>
+	<string>scarpa da tennis</string>
+	<key>🫧</key>
+	<string>bolle</string>
+	<key>🟨</key>
+	<string>quadrato giallo</string>
+	<key>❤️‍🔥</key>
+	<string>cuore in fiamme</string>
+	<key>👠</key>
+	<string>scarpa con tacco alto</string>
+	<key>🟩</key>
+	<string>quadrato verde</string>
+	<key>🫨</key>
+	<string>faccina che trema</string>
+	<key>👡</key>
+	<string>sandalo con tacco</string>
+	<key>🟪</key>
+	<string>quadrato viola</string>
+	<key>👢</key>
+	<string>stivali con tacco</string>
+	<key>🟫</key>
+	<string>quadrato marrone</string>
+	<key>👣</key>
+	<string>orme</string>
+	<key>🛠️</key>
+	<string>martello e chiave inglese</string>
+	<key>📽️</key>
+	<string>proiettore</string>
+	<key>👤</key>
+	<string>sagoma di persona</string>
+	<key>☑️</key>
+	<string>riquadro con segno di spunta</string>
+	<key>🧑‍🦲</key>
+	<string>persona calva</string>
+	<key>👥</key>
+	<string>sagoma di due persone</string>
+	<key>👦</key>
+	<string>ragazzo</string>
+	<key>👨‍🦯</key>
+	<string>uomo con bastone bianco per non vedenti</string>
+	<key>👧</key>
+	<string>ragazza</string>
+	<key>👰‍♂️</key>
+	<string>uomo con il velo</string>
+	<key>👩‍🚀</key>
+	<string>astronauta donna</string>
+	<key>🟰</key>
+	<string>simbolo dell’uguale</string>
+	<key>🏴‍☠️</key>
+	<string>bandiera dei pirati</string>
+	<key>👨</key>
+	<string>uomo</string>
+	<key>🫰</key>
+	<string>mano con indice e pollice incrociati</string>
+	<key>⏺️</key>
+	<string>simbolo della registrazione</string>
+	<key>👩</key>
+	<string>donna</string>
+	<key>🫱</key>
+	<string>mano rivolta verso destra</string>
+	<key>👪</key>
+	<string>famiglia</string>
+	<key>🫲</key>
+	<string>mano rivolta verso sinistra</string>
+	<key>👫</key>
+	<string>uomo e donna che si tengono per mano</string>
+	<key>🫳</key>
+	<string>mano con il palmo verso il basso</string>
+	<key>🧑‍🦳</key>
+	<string>persona con capelli bianchi</string>
+	<key>👬</key>
+	<string>due uomini che si tengono per mano</string>
+	<key>🫴</key>
+	<string>mano con il palmo verso l’alto</string>
+	<key>👭</key>
+	<string>due donne che si tengono per mano</string>
+	<key>👨‍🦰</key>
+	<string>uomo con capelli rossi</string>
+	<key>🫵</key>
+	<string>indice che punta verso l’utente</string>
+	<key>👮</key>
+	<string>poliziotto</string>
+	<key>🏊‍♂️</key>
+	<string>nuotatore</string>
+	<key>🫶</key>
+	<string>mani a cuore</string>
+	<key>👯</key>
+	<string>persone che ballano indossando orecchie da coniglio</string>
+	<key>🫷</key>
+	<string>mano che spinge verso sinistra</string>
+	<key>👰</key>
+	<string>persona con il velo</string>
+	<key>🫸</key>
+	<string>mano che spinge verso destra</string>
+	<key>👱</key>
+	<string>persona con capelli biondi</string>
+	<key>✒️</key>
+	<string>penna stilografica</string>
+	<key>👲</key>
+	<string>uomo con copricapo cinese</string>
+	<key>🧍‍♀️</key>
+	<string>donna in piedi</string>
+	<key>👳</key>
+	<string>persona con turbante</string>
+	<key>👨‍🦱</key>
+	<string>uomo con capelli ricci</string>
+	<key>👴</key>
+	<string>uomo anziano</string>
+	<key>🙆‍♂️</key>
+	<string>uomo con le braccia alzate sopra la testa</string>
+	<key>👵</key>
+	<string>donna anziana</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>famiglia con madre, padre, figlio e figlia</string>
+	<key>👶</key>
+	<string>bebè</string>
+	<key>👷</key>
+	<string>operaio edile</string>
+	<key>▫️</key>
+	<string>quadrato piccolo bianco</string>
+	<key>👸</key>
+	<string>principessa</string>
+	<key>🛢️</key>
+	<string>barile di petrolio</string>
+	<key>☃️</key>
+	<string>pupazzo di neve con fiocchi</string>
+	<key>👹</key>
+	<string>orco giapponese</string>
+	<key>🙋‍♀️</key>
+	<string>donna che alza una mano</string>
+	<key>👺</key>
+	<string>folletto giapponese</string>
+	<key>👨‍🦲</key>
+	<string>uomo calvo</string>
+	<key>🇹🇦</key>
+	<string>bandiera di Tristan da Cunha</string>
+	<key>👻</key>
+	<string>fantasma</string>
+	<key>🇵🇦</key>
+	<string>bandiera di Panama</string>
+	<key>👼</key>
+	<string>cherubino</string>
+	<key>❣️</key>
+	<string>punto esclamativo a forma di cuore rosso</string>
+	<key>👽</key>
+	<string>alieno</string>
+	<key>🇱🇦</key>
+	<string>bandiera del Laos</string>
+	<key>👾</key>
+	<string>mostro alieno</string>
+	<key>👿</key>
+	<string>faccina arrabbiata con le corna</string>
+	<key>💀</key>
+	<string>teschio</string>
+	<key>🇱🇧</key>
+	<string>bandiera del Libano</string>
+	<key>👨‍🦳</key>
+	<string>uomo con capelli bianchi</string>
+	<key>💁</key>
+	<string>addetto ufficio informazioni</string>
+	<key>🇹🇨</key>
+	<string>bandiera delle Isole Turks e Caicos</string>
+	<key>🧜‍♂️</key>
+	<string>tritone</string>
+	<key>💂</key>
+	<string>guardia</string>
+	<key>💃</key>
+	<string>donna che balla</string>
+	<key>◼️</key>
+	<string>quadrato medio nero</string>
+	<key>🇱🇨</key>
+	<string>bandiera di Santa Lucia</string>
+	<key>💄</key>
+	<string>rossetto</string>
+	<key>🇹🇩</key>
+	<string>bandiera del Ciad</string>
+	<key>💅</key>
+	<string>smalto per unghie</string>
+	<key>💆</key>
+	<string>persona che riceve un massaggio alla testa</string>
+	<key>💇</key>
+	<string>persona che si fa tagliare i capelli</string>
+	<key>🗜️</key>
+	<string>morsetto</string>
+	<key>💈</key>
+	<string>palo da barbiere</string>
+	<key>💉</key>
+	<string>siringa</string>
+	<key>🇵🇪</key>
+	<string>bandiera del Perù</string>
+	<key>💊</key>
+	<string>pillola</string>
+	<key>💋</key>
+	<string>bacio</string>
+	<key>🇹🇫</key>
+	<string>bandiera dei Territori Francesi del Sud</string>
+	<key>💌</key>
+	<string>lettera d’amore</string>
+	<key>👩‍❤️‍👩</key>
+	<string>due donne con cuore</string>
+	<key>🇵🇫</key>
+	<string>bandiera della Polinesia Francese</string>
+	<key>🛤️</key>
+	<string>rotaie</string>
+	<key>💍</key>
+	<string>anello</string>
+	<key>🆎</key>
+	<string>gruppo sanguigno AB</string>
+	<key>🇩🇪</key>
+	<string>bandiera della Germania</string>
+	<key>🈂️</key>
+	<string>ideogramma giapponese di “servizio” o “costo del servizio”</string>
+	<key>💎</key>
+	<string>pietra preziosa</string>
+	<key>♍️</key>
+	<string>Vergine</string>
+	<key>🇹🇬</key>
+	<string>bandiera del Togo</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>due donne che si mandano un bacio</string>
+	<key>💏</key>
+	<string>coppia che si manda un bacio</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>persone che si tengono per mano</string>
+	<key>💐</key>
+	<string>bouquet</string>
+	<key>⛽️</key>
+	<string>pompa di carburante</string>
+	<key>🇵🇬</key>
+	<string>bandiera della Papua Nuova Guinea</string>
+	<key>🖱️</key>
+	<string>mouse</string>
+	<key>🆑</key>
+	<string>Simbolo CL</string>
+	<key>💑</key>
+	<string>coppia con cuore</string>
+	<key>🆒</key>
+	<string>simbolo con parola inglese “Cool”</string>
+	<key>🇹🇭</key>
+	<string>bandiera della Thailandia</string>
+	<key>💒</key>
+	<string>matrimonio</string>
+	<key>🆓</key>
+	<string>simbolo con parola “free”</string>
+	<key>💓</key>
+	<string>cuore che batte</string>
+	<key>🆔</key>
+	<string>simbolo di identificazione</string>
+	<key>🇵🇭</key>
+	<string>bandiera delle Filippine</string>
+	<key>👩‍⚖️</key>
+	<string>giudice donna</string>
+	<key>💔</key>
+	<string>cuore infranto</string>
+	<key>🇩🇬</key>
+	<string>bandiera di Diego Garcia</string>
+	<key>🆕</key>
+	<string>simbolo con la parola “Nuovo” in lingua inglese</string>
+	<key>🅿️</key>
+	<string>simbolo di parcheggio</string>
+	<key>💕</key>
+	<string>due cuori</string>
+	<key>🤹‍♀️</key>
+	<string>giocoliera</string>
+	<key>🆖</key>
+	<string>sigla NG in inglese</string>
+	<key>💖</key>
+	<string>cuore brillante</string>
+	<key>🆗</key>
+	<string>simbolo OK</string>
+	<key>💗</key>
+	<string>cuore che cresce</string>
+	<key>👳‍♂️</key>
+	<string>uomo con turbante</string>
+	<key>🆘</key>
+	<string>Segnale di SOS</string>
+	<key>💘</key>
+	<string>cuore con freccia</string>
+	<key>🇱🇮</key>
+	<string>bandiera del Liechtenstein</string>
+	<key>🆙</key>
+	<string>simbolo con parola “Su” in lingua inglese</string>
+	<key>🈯️</key>
+	<string>ideogramma giapponese di “riservato”</string>
+	<key>🇹🇯</key>
+	<string>bandiera del Tagikistan</string>
+	<key>💙</key>
+	<string>cuore azzurro</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>famiglia con due padri e due figli</string>
+	<key>🆚</key>
+	<string>simbolo VS quadrato</string>
+	<key>💚</key>
+	<string>cuore verde</string>
+	<key>🇽🇰</key>
+	<string>bandiera del Kosovo</string>
+	<key>💛</key>
+	<string>cuore giallo</string>
+	<key>🗞️</key>
+	<string>giornale arrotolato</string>
+	<key>💜</key>
+	<string>cuore viola</string>
+	<key>🇹🇰</key>
+	<string>bandiera di Tokelau</string>
+	<key>💝</key>
+	<string>cuore con fiocco</string>
+	<key>🇵🇰</key>
+	<string>bandiera del Pakistan</string>
+	<key>💞</key>
+	<string>cuori che ruotano su loro stessi</string>
+	<key>🇩🇯</key>
+	<string>bandiera del Gibuti</string>
+	<key>💟</key>
+	<string>pulsante a forma di cuore</string>
+	<key>🇱🇰</key>
+	<string>bandiera dello Sri Lanka</string>
+	<key>🇹🇱</key>
+	<string>bandiera di Timor Est</string>
+	<key>👩‍🤝‍👨</key>
+	<string>donna e uomo che si tengono per mano</string>
+	<key>💠</key>
+	<string>forma di diamante con un punto all’interno</string>
+	<key>🇭🇰</key>
+	<string>bandiera di Hong Kong</string>
+	<key>💡</key>
+	<string>lampadina</string>
+	<key>🇵🇱</key>
+	<string>bandiera della Polonia</string>
+	<key>🇩🇰</key>
+	<string>bandiera della Danimarca</string>
+	<key>💢</key>
+	<string>simbolo collera</string>
+	<key>🇹🇲</key>
+	<string>bandiera del Turkmenistan</string>
+	<key>💣</key>
+	<string>bomba</string>
+	<key>⚗️</key>
+	<string>alambicco</string>
+	<key>💤</key>
+	<string>simbolo di riposo</string>
+	<key>🇵🇲</key>
+	<string>bandiera di Saint Pierre e Miquelon</string>
+	<key>💥</key>
+	<string>esplosione</string>
+	<key>❇️</key>
+	<string>scintilla</string>
+	<key>💦</key>
+	<string>gocce d’acqua</string>
+	<key>🇹🇳</key>
+	<string>bandiera della Tunisia</string>
+	<key>🧑‍🦼</key>
+	<string>persona in sedia a rotelle motorizzata</string>
+	<key>💧</key>
+	<string>goccia</string>
+	<key>🇭🇲</key>
+	<string>bandiera delle isole di Heard e McDonald</string>
+	<key>🇵🇳</key>
+	<string>bandiera delle isole Pitcairn</string>
+	<key>💨</key>
+	<string>folata di vento</string>
+	<key>🇩🇲</key>
+	<string>bandiera della Dominica</string>
+	<key>💩</key>
+	<string>escrementi</string>
+	<key>🙎‍♀️</key>
+	<string>donna accigliata</string>
+	<key>🇹🇴</key>
+	<string>bandiera di Tonga</string>
+	<key>💪</key>
+	<string>bicipite flesso</string>
+	<key>🇭🇳</key>
+	<string>bandiera dell’Honduras</string>
+	<key>👩‍👦</key>
+	<string>famiglia con madre e figlio</string>
+	<key>💫</key>
+	<string>simbolo della stella con scia circolare</string>
+	<key>💇‍♂️</key>
+	<string>uomo che si fa tagliare i capelli</string>
+	<key>💬</key>
+	<string>fumetto</string>
+	<key>☸️</key>
+	<string>ruota del dharma</string>
+	<key>💭</key>
+	<string>fumetto pensiero</string>
+	<key>🧑‍🦽</key>
+	<string>persona in sedia a rotelle manuale</string>
+	<key>💮</key>
+	<string>fiore bianco</string>
+	<key>💯</key>
+	<string>simbolo di cento punti</string>
+	<key>🇩🇴</key>
+	<string>bandiera della Repubblica Dominicana</string>
+	<key>💰</key>
+	<string>sacco di soldi</string>
+	<key>💱</key>
+	<string>cambio valuta</string>
+	<key>😵‍💫</key>
+	<string>faccina con occhi a spirale</string>
+	<key>👩‍👧</key>
+	<string>famiglia con madre e figlia</string>
+	<key>🧟‍♂️</key>
+	<string>zombie uomo</string>
+	<key>💲</key>
+	<string>simbolo del dollaro</string>
+	<key>💳</key>
+	<string>carta di credito</string>
+	<key>🇹🇷</key>
+	<string>bandiera della Turchia</string>
+	<key>💴</key>
+	<string>banconote in yen</string>
+	<key>💵</key>
+	<string>banconote in dollari</string>
+	<key>🇵🇷</key>
+	<string>bandiera di Portorico</string>
+	<key>💶</key>
+	<string>banconote in euro</string>
+	<key>🇱🇷</key>
+	<string>bandiera della Liberia</string>
+	<key>💷</key>
+	<string>banconote in sterline</string>
+	<key>💸</key>
+	<string>soldi con ali</string>
+	<key>🇭🇷</key>
+	<string>bandiera della Croazia</string>
+	<key>🇵🇸</key>
+	<string>bandiera dei Territori Palestinesi</string>
+	<key>💹</key>
+	<string>grafico con andamento positivo e simbolo dello yen</string>
+	<key>💺</key>
+	<string>sedile</string>
+	<key>🇱🇸</key>
+	<string>bandiera del Lesotho</string>
+	<key>🇹🇹</key>
+	<string>bandiera di Trinidad e Tobago</string>
+	<key>💻</key>
+	<string>computer portatile</string>
+	<key>💼</key>
+	<string>valigetta 24 ore</string>
+	<key>👨‍🦼</key>
+	<string>uomo in sedia a rotelle motorizzata</string>
+	<key>🇵🇹</key>
+	<string>bandiera del Portogallo</string>
+	<key>💽</key>
+	<string>minidisc</string>
+	<key>🇱🇹</key>
+	<string>bandiera della Lituania</string>
+	<key>💾</key>
+	<string>floppy disk</string>
+	<key>🇭🇹</key>
+	<string>bandiera di Haiti</string>
+	<key>💿</key>
+	<string>cd</string>
+	<key>📀</key>
+	<string>dvd</string>
+	<key>🤷‍♂️</key>
+	<string>uomo che fa spallucce</string>
+	<key>📁</key>
+	<string>cartella file chiusa</string>
+	<key>🇱🇺</key>
+	<string>bandiera del Lussemburgo</string>
+	<key>☪️</key>
+	<string>stella e luna crescente</string>
+	<key>🇹🇻</key>
+	<string>bandiera di Tuvalu</string>
+	<key>📂</key>
+	<string>cartella file aperta</string>
+	<key>4️⃣</key>
+	<string>tasto quattro</string>
+	<key>🇭🇺</key>
+	<string>bandiera dell’Ungheria</string>
+	<key>👨‍🦽</key>
+	<string>uomo in sedia a rotelle manuale</string>
+	<key>📃</key>
+	<string>pagina con piega</string>
+	<key>🖊️</key>
+	<string>penna a sfera</string>
+	<key>📄</key>
+	<string>pagina</string>
+	<key>🇱🇻</key>
+	<string>bandiera della Lettonia</string>
+	<key>🇹🇼</key>
+	<string>bandiera di Taiwan</string>
+	<key>📅</key>
+	<string>calendario</string>
+	<key>🤼‍♀️</key>
+	<string>lottatrici</string>
+	<key>📆</key>
+	<string>calendario a strappo</string>
+	<key>🇵🇼</key>
+	<string>bandiera di Palau</string>
+	<key>📇</key>
+	<string>schedario</string>
+	<key>📈</key>
+	<string>grafico con andamento positivo</string>
+	<key>🧑‍🔧</key>
+	<string>meccanico</string>
+	<key>📉</key>
+	<string>grafico con andamento negativo</string>
+	<key>〰️</key>
+	<string>lineetta ondulata</string>
+	<key>📊</key>
+	<string>grafico a barre</string>
+	<key>📋</key>
+	<string>portablocco</string>
+	<key>☣️</key>
+	<string>simbolo del rischio biologico</string>
+	<key>📌</key>
+	<string>puntina</string>
+	<key>♻️</key>
+	<string>simbolo riciclaggio</string>
+	<key>📍</key>
+	<string>puntina da disegno arrotondata</string>
+	<key>🇵🇾</key>
+	<string>bandiera del Paraguay</string>
+	<key>⛓️</key>
+	<string>catene</string>
+	<key>📎</key>
+	<string>graffetta</string>
+	<key>🧎‍♂️</key>
+	<string>uomo in ginocchio</string>
+	<key>🇱🇾</key>
+	<string>bandiera della Libia</string>
+	<key>📏</key>
+	<string>righello</string>
+	<key>🇹🇿</key>
+	<string>bandiera della Tanzania</string>
+	<key>📐</key>
+	<string>squadra</string>
+	<key>📑</key>
+	<string>etichette segnalibro</string>
+	<key>📒</key>
+	<string>quaderno ad anelli</string>
+	<key>📓</key>
+	<string>quaderno</string>
+	<key>👩‍🤝‍👩</key>
+	<string>donne che si tengono per mano</string>
+	<key>📔</key>
+	<string>quaderno con copertina decorata</string>
+	<key>🇩🇿</key>
+	<string>bandiera dell’Algeria</string>
+	<key>📕</key>
+	<string>libro di testo rosso</string>
+	<key>📖</key>
+	<string>libro aperto</string>
+	<key>📗</key>
+	<string>libro di testo verde</string>
+	<key>🖌️</key>
+	<string>pennello</string>
+	<key>📘</key>
+	<string>libro di testo azzurro</string>
+	<key>📙</key>
+	<string>libro di testo arancione</string>
+	<key>👩‍👩‍👦</key>
+	<string>famiglia con due madri e un figlio</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>famiglia con due padri e due figlie</string>
+	<key>📚</key>
+	<string>libri</string>
+	<key>📛</key>
+	<string>tesserino per nome</string>
+	<key>📜</key>
+	<string>pergamena</string>
+	<key>📝</key>
+	<string>memo</string>
+	<key>↖️</key>
+	<string>freccia rivolta verso sinistra che punta in alto</string>
+	<key>🤦‍♂️</key>
+	<string>uomo che si copre il volto con la mano</string>
+	<key>📞</key>
+	<string>cornetta del telefono</string>
+	<key>👩‍🎓</key>
+	<string>studentessa</string>
+	<key>👩‍🚒</key>
+	<string>vigile del fuoco donna</string>
+	<key>⤴️</key>
+	<string>freccia ricurva rivolta verso l’alto che punta a destra</string>
+	<key>👨‍🔧</key>
+	<string>meccanico</string>
+	<key>📟</key>
+	<string>cercapersone</string>
+	<key>☕️</key>
+	<string>bevanda calda</string>
+	<key>📠</key>
+	<string>fax</string>
+	<key>📡</key>
+	<string>antenna satellitare</string>
+	<key>⛅️</key>
+	<string>sole tra le nuvole</string>
+	<key>📢</key>
+	<string>altoparlante amplificato</string>
+	<key>🧑‍🌾</key>
+	<string>contadino</string>
+	<key>✝️</key>
+	<string>croce latina</string>
+	<key>📣</key>
+	<string>megafono</string>
+	<key>📤</key>
+	<string>casella di posta in uscita</string>
+	<key>📥</key>
+	<string>casella di posta in entrata</string>
+	<key>📦</key>
+	<string>pacchetto</string>
+	<key>📧</key>
+	<string>email</string>
+	<key>📨</key>
+	<string>busta in arrivo</string>
+	<key>📩</key>
+	<string>busta con freccia</string>
+	<key>▶️</key>
+	<string>triangolo rivolto verso destra</string>
+	<key>🧑‍🔬</key>
+	<string>scienziato</string>
+	<key>📪</key>
+	<string>cassetta della posta chiusa con bandierina abbassata</string>
+	<key>☎️</key>
+	<string>telefono</string>
+	<key>🈷️</key>
+	<string>ideogramma giapponese di “importo mensile”</string>
+	<key>♦️</key>
+	<string>seme di quadri</string>
+	<key>📫</key>
+	<string>cassetta della posta chiusa con bandierina alzata</string>
+	<key>📬</key>
+	<string>cassetta della posta aperta con bandierina alzata</string>
+	<key>⚾️</key>
+	<string>pallina da baseball</string>
+	<key>📭</key>
+	<string>cassetta della posta aperta con bandierina abbassata</string>
+	<key>✖️</key>
+	<string>simbolo della moltiplicazione</string>
+	<key>📮</key>
+	<string>cassetta delle lettere</string>
+	<key>📯</key>
+	<string>corno postale</string>
+	<key>🏄‍♀️</key>
+	<string>surfista donna</string>
+	<key>📰</key>
+	<string>giornale</string>
+	<key>📱</key>
+	<string>telefono cellulare</string>
+	<key>🎗️</key>
+	<string>nastro commemorativo</string>
+	<key>📲</key>
+	<string>telefono con freccia</string>
+	<key>📳</key>
+	<string>modalità vibrazione</string>
+	<key>📴</key>
+	<string>telefono cellulare spento</string>
+	<key>📵</key>
+	<string>simbolo che vieta l’utilizzo dei telefoni cellulari</string>
+	<key>♟️</key>
+	<string>pedone degli scacchi</string>
+	<key>📶</key>
+	<string>tacche segnale cellulare</string>
+	<key>📷</key>
+	<string>fotocamera</string>
+	<key>✏️</key>
+	<string>matita</string>
+	<key>📸</key>
+	<string>macchina fotografica con flash</string>
+	<key>👨‍🌾</key>
+	<string>contadino</string>
+	<key>📹</key>
+	<string>videocamera</string>
+	<key>📺</key>
+	<string>televisore</string>
+	<key>🐻‍❄️</key>
+	<string>orso polare</string>
+	<key>📻</key>
+	<string>radio</string>
+	<key>📼</key>
+	<string>videocassetta</string>
+	<key>☀️</key>
+	<string>sole</string>
+	<key>📿</key>
+	<string>rosario</string>
+	<key>👨‍🔬</key>
+	<string>scienziato</string>
+	<key>🔀</key>
+	<string>simbolo della ripetizione casuale</string>
+	<key>🈁</key>
+	<string>ideogramma giapponese di “qui”</string>
+	<key>⚰️</key>
+	<string>bara</string>
+	<key>🔁</key>
+	<string>simbolo della ripetizione</string>
+	<key>🖐️</key>
+	<string>mano alzata con le dita aperte</string>
+	<key>✈️</key>
+	<string>aereo</string>
+	<key>🔂</key>
+	<string>simbolo della ripetizione di una singola traccia</string>
+	<key>🗨️</key>
+	<string>fumetto a sinistra</string>
+	<key>🔃</key>
+	<string>frecce che ruotano in senso orario</string>
+	<key>🧖‍♀️</key>
+	<string>donna che fa la sauna</string>
+	<key>🔄</key>
+	<string>frecce in senso antiorario</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>famiglia con due madri e due figli</string>
+	<key>👩‍⚕️</key>
+	<string>operatrice sanitaria</string>
+	<key>™️</key>
+	<string>simbolo del marchio di fabbrica</string>
+	<key>🔅</key>
+	<string>simbolo luminosità minima</string>
+	<key>🔆</key>
+	<string>simbolo luminosità massima</string>
+	<key>🎙️</key>
+	<string>microfono da studio</string>
+	<key>🔇</key>
+	<string>altoparlante disattivato</string>
+	<key>🔈</key>
+	<string>altoparlante</string>
+	<key>🛰️</key>
+	<string>satellite</string>
+	<key>🔉</key>
+	<string>altoparlante a volume medio</string>
+	<key>♑️</key>
+	<string>Capricorno</string>
+	<key>🔊</key>
+	<string>altoparlante a volume alto</string>
+	<key>🔋</key>
+	<string>batteria</string>
+	<key>🔌</key>
+	<string>presa elettrica</string>
+	<key>👩‍👩‍👧</key>
+	<string>famiglia con due madri e una figlia</string>
+	<key>🔍</key>
+	<string>lente di ingrandimento rivolta a sinistra</string>
+	<key>🔎</key>
+	<string>lente di ingrandimento rivolta a destra</string>
+	<key>🔏</key>
+	<string>lucchetto con penna stilografica</string>
+	<key>🔐</key>
+	<string>lucchetto chiuso con chiave</string>
+	<key>🔑</key>
+	<string>chiave</string>
+	<key>🔒</key>
+	<string>lucchetto chiuso</string>
+	<key>🔓</key>
+	<string>lucchetto aperto</string>
+	<key>♊️</key>
+	<string>Gemelli</string>
+	<key>🔔</key>
+	<string>campana</string>
+	<key>🔕</key>
+	<string>campana disattivata</string>
+	<key>⛺️</key>
+	<string>tenda</string>
+	<key>🔖</key>
+	<string>segnalibro</string>
+	<key>🔗</key>
+	<string>simbolo di collegamento</string>
+	<key>🔘</key>
+	<string>pulsante rotondo</string>
+	<key>🔙</key>
+	<string>freccia nera rivolta verso sinistra con testo BACK</string>
+	<key>🔚</key>
+	<string>freccia nera rivolta verso sinistra con testo END</string>
+	<key>🔛</key>
+	<string>freccia nera bidirezionale con la parola ON e il punto esclamativo</string>
+	<key>🎛️</key>
+	<string>manopole di controllo</string>
+	<key>🔜</key>
+	<string>freccia nera rivolta verso destra con testo SOON</string>
+	<key>🏳️</key>
+	<string>bandiera bianca</string>
+	<key>🔝</key>
+	<string>freccia nera rivolta verso l’alto con testo TOP</string>
+	<key>🔞</key>
+	<string>simbolo di divieto ai minorenni</string>
+	<key>🔟</key>
+	<string>tasto dieci</string>
+	<key>⚛️</key>
+	<string>simbolo dell’atomo</string>
+	<key>🔠</key>
+	<string>simbolo di input per lettere maiuscole</string>
+	<key>⛳️</key>
+	<string>buca da golf con bandierina</string>
+	<key>🔡</key>
+	<string>simbolo di input per lettere minuscole</string>
+	<key>🤽‍♂️</key>
+	<string>giocatore di pallanuoto</string>
+	<key>🔢</key>
+	<string>simbolo di input per numeri</string>
+	<key>🔣</key>
+	<string>simbolo di input per simboli</string>
+	<key>🔤</key>
+	<string>simbolo di input per lettere</string>
+	<key>🔥</key>
+	<string>fuoco</string>
+	<key>🔦</key>
+	<string>torcia</string>
+	<key>🔧</key>
+	<string>chiave inglese</string>
+	<key>🔨</key>
+	<string>martello</string>
+	<key>🔩</key>
+	<string>vite e bullone</string>
+	<key>⚔️</key>
+	<string>spade incrociate</string>
+	<key>🔪</key>
+	<string>coltello</string>
+	<key>🔫</key>
+	<string>pistola ad acqua</string>
+	<key>❄️</key>
+	<string>fiocco di neve</string>
+	<key>🔬</key>
+	<string>microscopio</string>
+	<key>💁‍♀️</key>
+	<string>addetta ufficio informazioni</string>
+	<key>🔭</key>
+	<string>telescopio</string>
+	<key>🔮</key>
+	<string>sfera di cristallo</string>
+	<key>🧔‍♂️</key>
+	<string>uomo con barba</string>
+	<key>🔯</key>
+	<string>stella a sei punte con punto al centro</string>
+	<key>🔰</key>
+	<string>ideogramma giapponese per principiante</string>
+	<key>🔱</key>
+	<string>emblema del tridente</string>
+	<key>🈲</key>
+	<string>ideogramma giapponese di “proibito”</string>
+	<key>🏵️</key>
+	<string>coccarda</string>
+	<key>🔲</key>
+	<string>tasto quadrato nero</string>
+	<key>🈳</key>
+	<string>ideogramma giapponese di “posti liberi”</string>
+	<key>🔳</key>
+	<string>tasto quadrato bianco</string>
+	<key>🈴</key>
+	<string>ideogramma giapponese di “promozione”</string>
+	<key>🧙‍♀️</key>
+	<string>maga</string>
+	<key>🔴</key>
+	<string>cerchio rosso</string>
+	<key>🈵</key>
+	<string>ideogramma giapponese di “pieno”, “tutto occupato”</string>
+	<key>🔵</key>
+	<string>cerchio azzurro</string>
+	<key>🈶</key>
+	<string>ideogramma giapponese di “a pagamento”</string>
+	<key>🔶</key>
+	<string>rombo arancione grande</string>
+	<key>🔷</key>
+	<string>rombo blu grande</string>
+	<key>🈸</key>
+	<string>ideogramma giapponese di “applicazione”</string>
+	<key>🔸</key>
+	<string>rombo arancione piccolo</string>
+	<key>🈹</key>
+	<string>ideogramma giapponese di “sconto”</string>
+	<key>🔹</key>
+	<string>rombo azzurro piccolo</string>
+	<key>9️⃣</key>
+	<string>tasto nove</string>
+	<key>🈺</key>
+	<string>ideogramma giapponese di “aperto”</string>
+	<key>🔺</key>
+	<string>triangolo rosso con la punta verso l’alto</string>
+	<key>🔻</key>
+	<string>triangolo rosso con la punta verso il basso</string>
+	<key>🀄️</key>
+	<string>tessera del mahjong con ideogramma del drago rosso</string>
+	<key>🔼</key>
+	<string>triangolo rivolto verso l’alto</string>
+	<key>🚵‍♀️</key>
+	<string>donna su bici da montagna</string>
+	<key>☮️</key>
+	<string>simbolo della pace</string>
+	<key>🔽</key>
+	<string>triangolo rivolto in basso</string>
+	<key>👨‍👦‍👦</key>
+	<string>famiglia con padre e due figli</string>
+	<key>⬅️</key>
+	<string>freccia rivolta verso sinistra</string>
+	<key>⛎</key>
+	<string>Ofiuco</string>
+	<key>🎟️</key>
+	<string>biglietto di ingresso</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>famiglia con due madri e due figlie</string>
+	<key>🏷️</key>
+	<string>etichetta di identificazione</string>
+	<key>2️⃣</key>
+	<string>tasto due</string>
+	<key>♿️</key>
+	<string>simbolo della sedia a rotelle</string>
+	<key>👰‍♀️</key>
+	<string>donna con il velo</string>
+	<key>🗃️</key>
+	<string>schedario da tavolo</string>
+	<key>🕋</key>
+	<string>Kaaba</string>
+	<key>🕌</key>
+	<string>moschea</string>
+	<key>🕍</key>
+	<string>sinagoga</string>
+	<key>🕎</key>
+	<string>menorah</string>
+	<key>👩‍🎤</key>
+	<string>cantante donna</string>
+	<key>🉐</key>
+	<string>ideogramma giapponese di “affare”</string>
+	<key>🏌️</key>
+	<string>persona che gioca a golf</string>
+	<key>🛋️</key>
+	<string>divano e lampada</string>
+	<key>🕐</key>
+	<string>orologio che segna l’una</string>
+	<key>🏊‍♀️</key>
+	<string>nuotatrice</string>
+	<key>🉑</key>
+	<string>ideogramma giapponese di “accettabile”</string>
+	<key>☠️</key>
+	<string>teschio con ossa incrociate</string>
+	<key>🕑</key>
+	<string>orologio che segna le due</string>
+	<key>🕒</key>
+	<string>orologio che segna le tre</string>
+	<key>🏋️‍♀️</key>
+	<string>donna che solleva pesi</string>
+	<key>🕓</key>
+	<string>orologio che segna le quattro</string>
+	<key>🕔</key>
+	<string>orologio che segna le cinque</string>
+	<key>🕕</key>
+	<string>orologio che segna le sei</string>
+	<key>🕖</key>
+	<string>orologio che segna le sette</string>
+	<key>🙆‍♀️</key>
+	<string>donna con le braccia alzate sopra la testa</string>
+	<key>🕗</key>
+	<string>orologio che segna le otto</string>
+	<key>🕘</key>
+	<string>orologio che segna le nove</string>
+	<key>🕙</key>
+	<string>orologio che segna le dieci</string>
+	<key>🕚</key>
+	<string>orologio che segna le undici</string>
+	<key>🕛</key>
+	<string>orologio che segna le dodici</string>
+	<key>🕜</key>
+	<string>una e mezza</string>
+	<key>🇺🇦</key>
+	<string>bandiera dell’Ucraina</string>
+	<key>🕝</key>
+	<string>due e mezza</string>
+	<key>🇶🇦</key>
+	<string>bandiera del Qatar</string>
+	<key>🕞</key>
+	<string>tre e mezza</string>
+	<key>✡️</key>
+	<string>stella di Davide</string>
+	<key>🇲🇦</key>
+	<string>bandiera del Marocco</string>
+	<key>🕟</key>
+	<string>quattro e mezza</string>
+	<key>🧗‍♂️</key>
+	<string>scalatore di roccia</string>
+	<key>🕠</key>
+	<string>cinque e mezza</string>
+	<key>🕡</key>
+	<string>sei e mezza</string>
+	<key>🇪🇦</key>
+	<string>bandiera di Ceuta e Melilla</string>
+	<key>🕢</key>
+	<string>sette e mezza</string>
+	<key>✅</key>
+	<string>simbolo del segno di spunta</string>
+	<key>🕣</key>
+	<string>otto e mezza</string>
+	<key>🧜‍♀️</key>
+	<string>sirena</string>
+	<key>🏎️</key>
+	<string>auto da corsa</string>
+	<key>🕤</key>
+	<string>nove e mezza</string>
+	<key>🛍️</key>
+	<string>borse della spesa</string>
+	<key>🕥</key>
+	<string>dieci e mezza</string>
+	<key>✊</key>
+	<string>pugno alzato</string>
+	<key>🇲🇨</key>
+	<string>bandiera del Principato di Monaco</string>
+	<key>✋</key>
+	<string>mano alzata</string>
+	<key>🕦</key>
+	<string>undici e mezza</string>
+	<key>🕧</key>
+	<string>dodici e mezza</string>
+	<key>🇮🇨</key>
+	<string>bandiera delle Isole Canarie</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>bandiera del Galles</string>
+	<key>🇾🇪</key>
+	<string>bandiera dello Yemen</string>
+	<key>🇪🇨</key>
+	<string>bandiera dell’Ecuador</string>
+	<key>👩‍🎨</key>
+	<string>pittrice</string>
+	<key>🇲🇩</key>
+	<string>bandiera della Moldavia</string>
+	<key>🇦🇨</key>
+	<string>bandiera dell’isola di Ascensione</string>
+	<key>🇮🇩</key>
+	<string>bandiera dell’Indonesia</string>
+	<key>🇲🇪</key>
+	<string>bandiera del Montenegro</string>
+	<key>🇦🇩</key>
+	<string>bandiera di Andorra</string>
+	<key>🇮🇪</key>
+	<string>bandiera dell’Irlanda</string>
+	<key>🇪🇪</key>
+	<string>bandiera dell’Estonia</string>
+	<key>🇲🇫</key>
+	<string>bandiera di Saint Martin</string>
+	<key>🇺🇬</key>
+	<string>bandiera dell’Uganda</string>
+	<key>♣️</key>
+	<string>seme di fiori</string>
+	<key>🇦🇪</key>
+	<string>bandiera degli Emirati Arabi Uniti</string>
+	<key>🕯️</key>
+	<string>candela</string>
+	<key>🇲🇬</key>
+	<string>bandiera del Madagascar</string>
+	<key>🇦🇫</key>
+	<string>bandiera dell’Afghanistan</string>
+	<key>👮‍♂️</key>
+	<string>poliziotto</string>
+	<key>🇪🇬</key>
+	<string>bandiera dell’Egitto</string>
+	<key>🇲🇭</key>
+	<string>bandiera delle Isole Marshall</string>
+	<key>✨</key>
+	<string>scintille</string>
+	<key>🇦🇬</key>
+	<string>bandiera di Antigua e Barbuda</string>
+	<key>🛏️</key>
+	<string>letto</string>
+	<key>👳‍♀️</key>
+	<string>donna con turbante</string>
+	<key>🇪🇭</key>
+	<string>bandiera del Sahara Occidentale</string>
+	<key>☄️</key>
+	<string>cometa</string>
+	<key>🕺</key>
+	<string>uomo che balla</string>
+	<key>✌️</key>
+	<string>mano che fa il gesto della pace</string>
+	<key>❤️</key>
+	<string>cuore rosso</string>
+	<key>⏭️</key>
+	<string>simbolo di manda avanti la riproduzione</string>
+	<key>🇦🇮</key>
+	<string>bandiera di Anguilla</string>
+	<key>🇲🇰</key>
+	<string>bandiera della Macedonia del Nord</string>
+	<key>◽️</key>
+	<string>quadrato mediamente piccolo bianco</string>
+	<key>🇲🇱</key>
+	<string>bandiera del Mali</string>
+	<key>🈚️</key>
+	<string>ideogramma giapponese di “gratis”</string>
+	<key>🇺🇲</key>
+	<string>bandiera delle Isole Minori Esterne degli Stati Uniti</string>
+	<key>🇮🇱</key>
+	<string>bandiera di Israele</string>
+	<key>🇲🇲</key>
+	<string>bandiera del Myanmar (Birmania)</string>
+	<key>💂‍♂️</key>
+	<string>guardia</string>
+	<key>🇺🇳</key>
+	<string>bandiera delle Nazioni Unite</string>
+	<key>🇦🇱</key>
+	<string>bandiera dell’Albania</string>
+	<key>🧑‍💻</key>
+	<string>persona esperta di tecnologia</string>
+	<key>🇮🇲</key>
+	<string>bandiera dell’Isola di Man</string>
+	<key>⛹️‍♂️</key>
+	<string>giocatore di pallacanestro</string>
+	<key>🇲🇳</key>
+	<string>bandiera della Mongolia</string>
+	<key>🇦🇲</key>
+	<string>bandiera dell’Armenia</string>
+	<key>🇮🇳</key>
+	<string>bandiera dell’India</string>
+	<key>❌</key>
+	<string>segno X</string>
+	<key>💇‍♀️</key>
+	<string>donna che si fa tagliare i capelli</string>
+	<key>❎</key>
+	<string>Segno X</string>
+	<key>🇲🇴</key>
+	<string>bandiera di Macao</string>
+	<key>♎️</key>
+	<string>Bilancia</string>
+	<key>🧚‍♂️</key>
+	<string>folletto alato</string>
+	<key>🧑‍💼</key>
+	<string>impiegato</string>
+	<key>🇮🇴</key>
+	<string>bandiera del Territorio Britannico dell’Oceano Indiano</string>
+	<key>❓</key>
+	<string>punto interrogativo rosso</string>
+	<key>❔</key>
+	<string>punto interrogativo bianco</string>
+	<key>🇲🇵</key>
+	<string>bandiera delle Isole Marianne Settentrionali</string>
+	<key>❕</key>
+	<string>punto esclamativo bianco</string>
+	<key>🇦🇴</key>
+	<string>bandiera dell’Angola</string>
+	<key>🧟‍♀️</key>
+	<string>zombie donna</string>
+	<key>🖕</key>
+	<string>dito medio</string>
+	<key>🇲🇶</key>
+	<string>bandiera della Martinica</string>
+	<key>🖖</key>
+	<string>mano con medio e anulare separati</string>
+	<key>🇮🇶</key>
+	<string>bandiera dell’Iraq</string>
+	<key>🚶‍♂️</key>
+	<string>uomo che attraversa la strada</string>
+	<key>🇲🇷</key>
+	<string>bandiera della Mauritania</string>
+	<key>🇺🇸</key>
+	<string>bandiera degli Stati Uniti</string>
+	<key>🇦🇶</key>
+	<string>bandiera dell’Antartide</string>
+	<key>🇮🇷</key>
+	<string>bandiera dell’Iran</string>
+	<key>🕳️</key>
+	<string>buco</string>
+	<key>⌨️</key>
+	<string>tastiera</string>
+	<key>🇾🇹</key>
+	<string>bandiera di Mayotte</string>
+	<key>🇪🇷</key>
+	<string>bandiera dell’Eritrea</string>
+	<key>⛷️</key>
+	<string>sciatore</string>
+	<key>🇲🇸</key>
+	<string>bandiera di Montserrat</string>
+	<key>🇦🇷</key>
+	<string>bandiera dell’Argentina</string>
+	<key>🇮🇸</key>
+	<string>bandiera dell’Islanda</string>
+	<key>👨‍💻</key>
+	<string>uomo con computer</string>
+	<key>🌤️</key>
+	<string>sole dietro a una piccola nuvola</string>
+	<key>🇪🇸</key>
+	<string>bandiera della Spagna</string>
+	<key>🇲🇹</key>
+	<string>bandiera di Malta</string>
+	<key>🇦🇸</key>
+	<string>bandiera delle Samoa Americane</string>
+	<key>🇮🇹</key>
+	<string>bandiera dell’Italia</string>
+	<key>❤️‍🩹</key>
+	<string>cuore con bende</string>
+	<key>🏔️</key>
+	<string>montagna innevata</string>
+	<key>🇪🇹</key>
+	<string>bandiera dell’Etiopia</string>
+	<key>🤷‍♀️</key>
+	<string>donna che fa spallucce</string>
+	<key>🇲🇺</key>
+	<string>bandiera delle Mauritius</string>
+	<key>🇦🇹</key>
+	<string>bandiera dell’Austria</string>
+	<key>🖤</key>
+	<string>cuore nero</string>
+	<key>👩‍🦯</key>
+	<string>donna con bastone bianco per non vedenti</string>
+	<key>👱‍♂️</key>
+	<string>uomo con capelli biondi</string>
+	<key>👨‍💼</key>
+	<string>impiegato</string>
+	<key>⛰️</key>
+	<string>montagna</string>
+	<key>🇪🇺</key>
+	<string>bandiera dell’Unione europea</string>
+	<key>🇲🇻</key>
+	<string>bandiera delle Maldive</string>
+	<key>🇦🇺</key>
+	<string>bandiera dell’Australia</string>
+	<key>🇲🇼</key>
+	<string>bandiera del Malawi</string>
+	<key>👩‍🦰</key>
+	<string>donna con capelli rossi</string>
+	<key>🇲🇽</key>
+	<string>bandiera del Messico</string>
+	<key>🇺🇾</key>
+	<string>bandiera dell’Uruguay</string>
+	<key>🇦🇼</key>
+	<string>bandiera di Aruba</string>
+	<key>☹️</key>
+	<string>faccina imbronciata</string>
+	<key>⌚️</key>
+	<string>orologio</string>
+	<key>🕵️</key>
+	<string>investigatore</string>
+	<key>⛩️</key>
+	<string>Santuario shintoista</string>
+	<key>🇲🇾</key>
+	<string>bandiera della Malaysia</string>
+	<key>🧎‍♀️</key>
+	<string>donna in ginocchio</string>
+	<key>🇺🇿</key>
+	<string>bandiera dell’Uzbekistan</string>
+	<key>🇦🇽</key>
+	<string>bandiera delle Isole Åland</string>
+	<key>👩‍🦱</key>
+	<string>donna con capelli ricci</string>
+	<key>🙇‍♂️</key>
+	<string>uomo che si inchina</string>
+	<key>🌦️</key>
+	<string>sole dietro a una nuvola carica di pioggia</string>
+	<key>🇲🇿</key>
+	<string>bandiera del Mozambico</string>
+	<key>🏖️</key>
+	<string>spiaggia con ombrellone</string>
+	<key>👩‍🦲</key>
+	<string>donna calva</string>
+	<key>🇦🇿</key>
+	<string>bandiera dell’Azerbaigian</string>
+	<key>➕</key>
+	<string>simbolo dell’addizione</string>
+	<key>🕊️</key>
+	<string>colomba</string>
+	<key>➖</key>
+	<string>simbolo della sottrazione</string>
+	<key>➗</key>
+	<string>simbolo della divisione</string>
+	<key>🗺️</key>
+	<string>mappa del mondo</string>
+	<key>👩‍🦳</key>
+	<string>donna con capelli bianchi</string>
+	<key>7️⃣</key>
+	<string>tasto sette</string>
+	<key>🅰️</key>
+	<string>gruppo sanguigno A</string>
+	<key>🤦‍♀️</key>
+	<string>donna che si copre il volto con la mano</string>
+	<key>🧝‍♂️</key>
+	<string>elfo</string>
+	<key>🕷️</key>
+	<string>ragno</string>
+	<key>✳️</key>
+	<string>asterisco con otto raggi</string>
+	<key>🌨️</key>
+	<string>nuvola con neve</string>
+	<key>🦸‍♂️</key>
+	<string>supereroe</string>
+	<key>➰</key>
+	<string>stella filante</string>
+	<key>🏘️</key>
+	<string>gruppo di case</string>
+	<key>0️⃣</key>
+	<string>tasto zero</string>
+	<key>🤵‍♂️</key>
+	<string>uomo in smoking</string>
+	<key>⛔️</key>
+	<string>divieto d’accesso</string>
+	<key>👨‍👧‍👦</key>
+	<string>famiglia con padre, figlio e figlia</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>famiglia con madre, padre e due figli</string>
+	<key>🧑‍🏫</key>
+	<string>docente</string>
+	<key>➿</key>
+	<string>stelle filanti doppie</string>
+	<key>㊙️</key>
+	<string>ideogramma giapponese di “segreto”</string>
+	<key>☝️</key>
+	<string>indice rivolto verso l’alto</string>
+	<key>🕹️</key>
+	<string>joystick</string>
+	<key>🗑️</key>
+	<string>cestino</string>
+	<key>🌪️</key>
+	<string>tornado</string>
+	<key>🧑‍🏭</key>
+	<string>operaio</string>
+	<key>↗️</key>
+	<string>freccia rivolta verso destra che punta in alto</string>
+	<key>⤵️</key>
+	<string>freccia ricurva rivolta verso il basso che punta a destra</string>
+	<key>🏚️</key>
+	<string>casa abbandonata</string>
+	<key>©️</key>
+	<string>simbolo del copyright</string>
+	<key>👨‍🏫</key>
+	<string>professore</string>
+	<key>🗓️</key>
+	<string>calendario a spirale</string>
+	<key>⏸️</key>
+	<string>simbolo della pausa</string>
+	<key>🧑‍✈️</key>
+	<string>pilota</string>
+	<key>🌬️</key>
+	<string>volto che soffia</string>
+	<key>👨‍🏭</key>
+	<string>operaio</string>
+	<key>🏜️</key>
+	<string>deserto</string>
+	<key>♠️</key>
+	<string>seme di picche</string>
+	<key>🖨️</key>
+	<string>stampante</string>
+	<key>⏱️</key>
+	<string>cronometro</string>
+	<key>👩‍🦼</key>
+	<string>donna in sedia a rotelle motorizzata</string>
+	<key>🗻</key>
+	<string>monte Fuji</string>
+	<key>🫱‍🫲</key>
+	<string>stretta di mano</string>
+	<key>🗼</key>
+	<string>Torre di Tokyo</string>
+	<key>🗽</key>
+	<string>Statua della Libertà</string>
+	<key>🗾</key>
+	<string>immagine dell’arcipelago giapponese</string>
+	<key>🤸‍♂️</key>
+	<string>uomo che fa la ruota</string>
+	<key>🌀</key>
+	<string>ciclone</string>
+	<key>🗿</key>
+	<string>statua dell’Isola di Pasqua</string>
+	<key>☁️</key>
+	<string>nuvola</string>
+	<key>🌁</key>
+	<string>ponte nascosto dalla nebbia</string>
+	<key>😀</key>
+	<string>faccina sorridente</string>
+	<key>👩‍🦽</key>
+	<string>donna in sedia a rotelle manuale</string>
+	<key>🌂</key>
+	<string>ombrello chiuso</string>
+	<key>😁</key>
+	<string>faccina con occhi sorridenti</string>
+	<key>⚱️</key>
+	<string>urna funeraria</string>
+	<key>🌃</key>
+	<string>notte stellata</string>
+	<key>😂</key>
+	<string>faccina con lacrime di gioia</string>
+	<key>✉️</key>
+	<string>busta</string>
+	<key>👨‍👧‍👧</key>
+	<string>famiglia con padre e due figlie</string>
+	<key>🤽‍♀️</key>
+	<string>giocatrice di pallanuoto</string>
+	<key>🌄</key>
+	<string>alba sulle montagne</string>
+	<key>😃</key>
+	<string>faccina che ride con occhi grandi</string>
+	<key>🌅</key>
+	<string>alba</string>
+	<key>😄</key>
+	<string>faccina che ride con gli occhi sorridenti</string>
+	<key>👷‍♂️</key>
+	<string>operaio edile</string>
+	<key>👨‍✈️</key>
+	<string>pilota</string>
+	<key>🌆</key>
+	<string>paesaggio urbano al crepuscolo</string>
+	<key>😅</key>
+	<string>faccina che ride con sudore</string>
+	<key>🌇</key>
+	<string>tramonto su edifici</string>
+	<key>😆</key>
+	<string>faccina molto sorridente che strizza gli occhi</string>
+	<key>🌈</key>
+	<string>arcobaleno</string>
+	<key>😇</key>
+	<string>faccina sorridente con aureola</string>
+	<key>🌉</key>
+	<string>ponte di notte</string>
+	<key>😈</key>
+	<string>faccina sorridente con le corna</string>
+	<key>🏞️</key>
+	<string>parco nazionale</string>
+	<key>🌊</key>
+	<string>onda</string>
+	<key>😉</key>
+	<string>faccina che strizza l’occhio</string>
+	<key>🌋</key>
+	<string>vulcano</string>
+	<key>😊</key>
+	<string>faccina che sorride con occhi sorridenti</string>
+	<key>♒️</key>
+	<string>Acquario</string>
+	<key>🌌</key>
+	<string>Immagine della Via Lattea</string>
+	<key>😋</key>
+	<string>faccina sorridente che si lecca i baffi</string>
+	<key>⚪️</key>
+	<string>cerchio bianco</string>
+	<key>🌍</key>
+	<string>globo terrestre con Europa e Africa</string>
+	<key>😌</key>
+	<string>faccina rilassata</string>
+	<key>🧏‍♂️</key>
+	<string>Uomo sordo</string>
+	<key>✂️</key>
+	<string>forbici</string>
+	<key>🌎</key>
+	<string>globo terrestre con il continente americano</string>
+	<key>🤌</key>
+	<string>dita unite verso l’alto</string>
+	<key>😍</key>
+	<string>faccina sorridente con gli occhi a forma di cuore</string>
+	<key>🌏</key>
+	<string>globo terrestre con Asia e Australia</string>
+	<key>🤍</key>
+	<string>cuore bianco</string>
+	<key>😎</key>
+	<string>faccina sorridente con occhiali da sole</string>
+	<key>🌐</key>
+	<string>globo terrestre con meridiani</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>famiglia con madre, padre e due figlie</string>
+	<key>🤎</key>
+	<string>cuore marrone</string>
+	<key>😏</key>
+	<string>faccina con sorrisetto</string>
+	<key>🌑</key>
+	<string>luna nuova</string>
+	<key>🤏</key>
+	<string>mano che pizzica</string>
+	<key>😐</key>
+	<string>faccina neutra</string>
+	<key>🧔‍♀️</key>
+	<string>donna con barba</string>
+	<key>🌒</key>
+	<string>luna crescente</string>
+	<key>🤐</key>
+	<string>faccina con una cerniera al posto della bocca</string>
+	<key>😑</key>
+	<string>faccina inespressiva</string>
+	<key>🙍‍♂️</key>
+	<string>uomo imbronciato</string>
+	<key>🌓</key>
+	<string>luna al primo quarto</string>
+	<key>🤑</key>
+	<string>soldi in bocca</string>
+	<key>😒</key>
+	<string>faccina infastidita</string>
+	<key>🌔</key>
+	<string>luna gibbosa crescente</string>
+	<key>🤒</key>
+	<string>faccina con termometro</string>
+	<key>😓</key>
+	<string>faccina abbattuta con sudore</string>
+	<key>🌕</key>
+	<string>luna piena</string>
+	<key>🤓</key>
+	<string>faccina sorridente con occhiali</string>
+	<key>😔</key>
+	<string>faccina pensierosa triste</string>
+	<key>♋️</key>
+	<string>Cancro</string>
+	<key>🌖</key>
+	<string>luna gibbosa calante</string>
+	<key>🤔</key>
+	<string>faccina che pensa</string>
+	<key>😕</key>
+	<string>faccina confusa</string>
+	<key>🌗</key>
+	<string>luna all’ultimo quarto</string>
+	<key>🤕</key>
+	<string>faccina con la testa bendata</string>
+	<key>😖</key>
+	<string>faccina disorientata</string>
+	<key>🌘</key>
+	<string>luna calante</string>
+	<key>🤖</key>
+	<string>testa di robot</string>
+	<key>😗</key>
+	<string>faccina che manda un bacio</string>
+	<key>🌙</key>
+	<string>luna crescente</string>
+	<key>🤗</key>
+	<string>faccina che abbraccia</string>
+	<key>😘</key>
+	<string>faccina che manda un bacio</string>
+	<key>🌚</key>
+	<string>luna nuova con volto</string>
+	<key>🤘</key>
+	<string>gesto delle corna</string>
+	<key>😙</key>
+	<string>faccina che manda un bacio con gli occhi sorridenti</string>
+	<key>🌛</key>
+	<string>primo quarto di luna con volto</string>
+	<key>🤙</key>
+	<string>mano che fa il gesto del telefono</string>
+	<key>😚</key>
+	<string>faccina che manda un bacio a occhi chiusi</string>
+</dict>
+</plist>

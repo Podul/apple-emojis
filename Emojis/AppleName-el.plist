@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>σελήνη τελευταίου τετάρτου με πρόσωπο</string>
+	<key>🤚</key>
+	<string>ανάποδη χεριού</string>
+	<key>😛</key>
+	<string>πρόσωπο με τη γλώσσα έξω</string>
+	<key>👩‍🔧</key>
+	<string>γυναίκα μηχανικός</string>
+	<key>🌝</key>
+	<string>πανσέληνος με πρόσωπο</string>
+	<key>🤛</key>
+	<string>γροθιά αριστερά</string>
+	<key>😜</key>
+	<string>πρόσωπο που κλείνει το μάτι και βγάζει τη γλώσσα</string>
+	<key>🌞</key>
+	<string>ήλιος με πρόσωπο</string>
+	<key>🤜</key>
+	<string>γροθιά δεξιά</string>
+	<key>😝</key>
+	<string>πρόσωπο με τη γλώσσα έξω και μισόκλειστα μάτια</string>
+	<key>🌟</key>
+	<string>ακτινοβόλο αστέρι</string>
+	<key>🤝</key>
+	<string>χειραψία</string>
+	<key>😞</key>
+	<string>απογοητευμένο πρόσωπο</string>
+	<key>🌠</key>
+	<string>πεφταστέρι</string>
+	<key>🤞</key>
+	<string>σταυρωμένα δάχτυλα</string>
+	<key>😟</key>
+	<string>ανήσυχο πρόσωπο</string>
+	<key>🐈‍⬛</key>
+	<string>μαύρη γάτα</string>
+	<key>🤟</key>
+	<string>χειρονομία «σε αγαπώ»</string>
+	<key>😠</key>
+	<string>θυμωμένο πρόσωπο</string>
+	<key>⚜️</key>
+	<string>άνθος του κρίνου</string>
+	<key>⛴️</key>
+	<string>φεριμπότ</string>
+	<key>🤠</key>
+	<string>πρόσωπο καουμπόη</string>
+	<key>😡</key>
+	<string>κόκκινο θυμωμένο πρόσωπο</string>
+	<key>🤡</key>
+	<string>πρόσωπο κλόουν</string>
+	<key>😢</key>
+	<string>πρόσωπο που κλαίει</string>
+	<key>⬛️</key>
+	<string>μεγάλο μαύρο τετράγωνο</string>
+	<key>🤢</key>
+	<string>πρόσωπο που ανακατεύεται</string>
+	<key>😣</key>
+	<string>καρτερικό πρόσωπο</string>
+	<key>🤣</key>
+	<string>πρόσωπο που ξεκαρδίζεται στα γέλια</string>
+	<key>😤</key>
+	<string>πρόσωπο που βγάζει καπνούς από τη μύτη</string>
+	<key>🤤</key>
+	<string>πρόσωπο με σάλια που τρέχουν</string>
+	<key>😥</key>
+	<string>λυπημένο αλλά ανακουφισμένο πρόσωπο</string>
+	<key>🤥</key>
+	<string>πρόσωπο που λέει ψέματα</string>
+	<key>😦</key>
+	<string>συνοφρυωμένο πρόσωπο με ανοιχτό στόμα</string>
+	<key>🤦</key>
+	<string>άτομο με παλάμη στο πρόσωπο</string>
+	<key>😧</key>
+	<string>αγχωμένο πρόσωπο</string>
+	<key>🤧</key>
+	<string>πρόσωπο που φταρνίζεται</string>
+	<key>😨</key>
+	<string>φοβισμένο πρόσωπο</string>
+	<key>🤨</key>
+	<string>πρόσωπο με σηκωμένο φρύδι</string>
+	<key>😩</key>
+	<string>εξαντλημένο πρόσωπο</string>
+	<key>🤩</key>
+	<string>πρόσωπο με αστέρια στα μάτια</string>
+	<key>⚕️</key>
+	<string>ράβδος του Ασκληπιού</string>
+	<key>😪</key>
+	<string>νυσταγμένο πρόσωπο</string>
+	<key>👁️‍🗨️</key>
+	<string>Είμαι μάρτυρας</string>
+	<key>🤪</key>
+	<string>χαζούλικο πρόσωπο</string>
+	<key>😫</key>
+	<string>ταραγμένο πρόσωπο</string>
+	<key>🌭</key>
+	<string>χοτ ντογκ</string>
+	<key>🤫</key>
+	<string>πρόσωπο που κάνει τη χειρονομία σιωπής</string>
+	<key>😬</key>
+	<string>πρόσωπο που κάνει γκριμάτσα</string>
+	<key>🌮</key>
+	<string>τάκο</string>
+	<key>🤬</key>
+	<string>πρόσωπο με σύμβολα πάνω στο στόμα</string>
+	<key>😭</key>
+	<string>πρόσωπο που κλαίει γοερά</string>
+	<key>🌯</key>
+	<string>μπουρίτο</string>
+	<key>🤭</key>
+	<string>πρόσωπο με το χέρι πάνω στο στόμα και χαμογελαστά μάτια</string>
+	<key>😮</key>
+	<string>έκπληκτο πρόσωπο με ανοιχτό στόμα</string>
+	<key>🌰</key>
+	<string>κάστανο</string>
+	<key>🤮</key>
+	<string>πρόσωπο που κάνει εμετό</string>
+	<key>😯</key>
+	<string>έκπληκτο πρόσωπο</string>
+	<key>🌱</key>
+	<string>δενδρύλλιο</string>
+	<key>🤯</key>
+	<string>κεφάλι που εκρήγνυται</string>
+	<key>😰</key>
+	<string>αγχωμένο πρόσωπο με ιδρώτα</string>
+	<key>🌲</key>
+	<string>αειθαλές δέντρο</string>
+	<key>🤰</key>
+	<string>έγκυος γυναίκα</string>
+	<key>😱</key>
+	<string>πρόσωπο που φωνάζει με τρόμο</string>
+	<key>🌳</key>
+	<string>δέντρο</string>
+	<key>🤱</key>
+	<string>θηλασμός</string>
+	<key>😲</key>
+	<string>έκπληκτο πρόσωπο</string>
+	<key>🛡️</key>
+	<string>ασπίδα</string>
+	<key>🌴</key>
+	<string>φοινικόδεντρο</string>
+	<key>🤲</key>
+	<string>παλάμες μαζί και γυρισμένες προς τα πάνω</string>
+	<key>😳</key>
+	<string>πρόσωπο με ορθάνοιχτα μάτια</string>
+	<key>🌵</key>
+	<string>κάκτος</string>
+	<key>🤳</key>
+	<string>σέλφι</string>
+	<key>😴</key>
+	<string>πρόσωπο που κοιμάται</string>
+	<key>🤴</key>
+	<string>πρίγκιπας</string>
+	<key>😵</key>
+	<string>ζαλισμένο πρόσωπο</string>
+	<key>👩‍🌾</key>
+	<string>αγρότισσα</string>
+	<key>🌷</key>
+	<string>τουλίπα</string>
+	<key>🤵</key>
+	<string>άτομο με σμόκιν</string>
+	<key>😶</key>
+	<string>πρόσωπο χωρίς στόμα</string>
+	<key>🌸</key>
+	<string>άνθος κερασιάς</string>
+	<key>🤶</key>
+	<string>Αγιοβασιλίνα</string>
+	<key>😷</key>
+	<string>πρόσωπο με ιατρική μάσκα</string>
+	<key>🌹</key>
+	<string>τριαντάφυλλο</string>
+	<key>🤷</key>
+	<string>άτομο που σηκώνει τους ώμους</string>
+	<key>😸</key>
+	<string>πρόσωπο γάτας με πλατύ χαμόγελο</string>
+	<key>🌺</key>
+	<string>ιβίσκος</string>
+	<key>🤸</key>
+	<string>άτομο που κάνει ρόδα</string>
+	<key>😹</key>
+	<string>πρόσωπο γάτας με δάκρυα χαράς</string>
+	<key>🌻</key>
+	<string>ηλιοτρόπιο</string>
+	<key>🤹</key>
+	<string>άτομο που κάνει ζογκλερικά</string>
+	<key>😺</key>
+	<string>χαρούμενο πρόσωπο γάτας</string>
+	<key>🌼</key>
+	<string>λουλούδι</string>
+	<key>🤺</key>
+	<string>ξιφομάχος</string>
+	<key>😻</key>
+	<string>χαμογελαστό πρόσωπο γάτας με μάτια-καρδούλες</string>
+	<key>🌽</key>
+	<string>στάχυ καλαμποκιού</string>
+	<key>😼</key>
+	<string>πρόσωπο γάτας με αυτάρεσκο χαμόγελο</string>
+	<key>🇿🇦</key>
+	<string>σημαία της Νότιας Αφρικής</string>
+	<key>👩‍🔬</key>
+	<string>γυναίκα επιστήμονας</string>
+	<key>🌾</key>
+	<string>βλαστός ρυζιού</string>
+	<key>🤼</key>
+	<string>άτομα που παλεύουν</string>
+	<key>😽</key>
+	<string>πρόσωπο γάτας που δίνει φιλί</string>
+	<key>🇻🇦</key>
+	<string>σημαία της Πόλης του Βατικανού</string>
+	<key>🌿</key>
+	<string>βότανο</string>
+	<key>🤽</key>
+	<string>άτομο που παίζει υδατοσφαίριση (πόλο)</string>
+	<key>😾</key>
+	<string>πρόσωπο κατσουφιασμένης γάτας</string>
+	<key>☯️</key>
+	<string>γιν γιάνγκ</string>
+	<key>🍀</key>
+	<string>τετράφυλλο τριφύλλι</string>
+	<key>🤾</key>
+	<string>άτομο που παίζει χάντμπολ</string>
+	<key>😿</key>
+	<string>πρόσωπο γάτας που κλαίει</string>
+	<key>🍁</key>
+	<string>φύλλο σφένδαμου</string>
+	<key>🤿</key>
+	<string>μάσκα κατάδυσης</string>
+	<key>🧑‍🍳</key>
+	<string>μάγειρας</string>
+	<key>🇳🇦</key>
+	<string>σημαία της Ναμίμπιας</string>
+	<key>🙀</key>
+	<string>πρόσωπο γάτας που φωνάζει με τρόμο</string>
+	<key>🧗‍♀️</key>
+	<string>αναρριχήτρια</string>
+	<key>⁉️</key>
+	<string>κόκκινο θαυμαστικό και λατινικό ερωτηματικό</string>
+	<key>🍂</key>
+	<string>πεσμένα φύλλα</string>
+	<key>🥀</key>
+	<string>μαραμένο τριαντάφυλλο</string>
+	<key>🙁</key>
+	<string>ελαφρώς συνοφρυωμένο πρόσωπο</string>
+	<key>🍃</key>
+	<string>φύλλα στροβιλιζόμενα στον άνεμο</string>
+	<key>🥁</key>
+	<string>τύμπανο</string>
+	<key>🙂</key>
+	<string>ελαφρώς χαμογελαστό πρόσωπο</string>
+	<key>⬆️</key>
+	<string>πάνω βέλος</string>
+	<key>🍄</key>
+	<string>μανιτάρι</string>
+	<key>🥂</key>
+	<string>ποτήρια που τσουγκρίζουν</string>
+	<key>🙃</key>
+	<string>αναποδογυρισμένο πρόσωπο</string>
+	<key>5️⃣</key>
+	<string>πλήκτρο με τον αριθμό πέντε</string>
+	<key>🍅</key>
+	<string>ντομάτα</string>
+	<key>🥃</key>
+	<string>χαμηλό ποτήρι</string>
+	<key>🙄</key>
+	<string>πρόσωπο με γυρισμένα μάτια</string>
+	<key>🇻🇨</key>
+	<string>σημαία του Αγίου Βικεντίου και Γρεναδίνων</string>
+	<key>🇧🇦</key>
+	<string>σημαία της Βοσνίας-Ερζεγοβίνης</string>
+	<key>↩️</key>
+	<string>δεξί βέλος που γέρνει προς τα αριστερά</string>
+	<key>🍆</key>
+	<string>μελιτζάνα</string>
+	<key>🥄</key>
+	<string>κουτάλι</string>
+	<key>🙅</key>
+	<string>άτομο που κάνει τη χειρονομία «όχι»</string>
+	<key>🍇</key>
+	<string>σταφύλια</string>
+	<key>🥅</key>
+	<string>δίχτυ τέρματος</string>
+	<key>🙆</key>
+	<string>άτομο που κάνει τη χειρονομία «ΟΚ»</string>
+	<key>🛣️</key>
+	<string>αυτοκινητόδρομος</string>
+	<key>🍈</key>
+	<string>πεπόνι</string>
+	<key>🙇</key>
+	<string>άτομο που υποκλίνεται</string>
+	<key>🇳🇨</key>
+	<string>σημαία της Νέας Καληδονίας</string>
+	<key>🍉</key>
+	<string>καρπούζι</string>
+	<key>🇧🇧</key>
+	<string>σημαία των Μπαρμπέιντος</string>
+	<key>🥇</key>
+	<string>χρυσό μετάλλιο</string>
+	<key>🙈</key>
+	<string>μαϊμού «Δεν είδα τίποτα»</string>
+	<key>🍊</key>
+	<string>μανταρίνι</string>
+	<key>🥈</key>
+	<string>αργυρό μετάλλιο</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>σημαία της Σκοτίας</string>
+	<key>🙉</key>
+	<string>μαϊμού «Δεν άκουσα τίποτα»</string>
+	<key>🍋</key>
+	<string>λεμόνι</string>
+	<key>🥉</key>
+	<string>χάλκινο μετάλλιο</string>
+	<key>🙊</key>
+	<string>μαϊμού «Δεν λέω τίποτα»</string>
+	<key>🍌</key>
+	<string>μπανάνα</string>
+	<key>🥊</key>
+	<string>γάντι μποξ</string>
+	<key>🇻🇪</key>
+	<string>σημαία της Βενεζουέλας</string>
+	<key>🙋</key>
+	<string>άτομο που σηκώνει ένα χέρι</string>
+	<key>🍍</key>
+	<string>ανανάς</string>
+	<key>🥋</key>
+	<string>στολή πολεμικών τεχνών</string>
+	<key>🙌</key>
+	<string>χέρια υψωμένα σε πανηγυρισμό</string>
+	<key>🇷🇪</key>
+	<string>σημαία της Ρεϊνιόν</string>
+	<key>🍎</key>
+	<string>κόκκινο μήλο</string>
+	<key>🥌</key>
+	<string>πέτρα κέρλινγκ</string>
+	<key>🙍</key>
+	<string>συνοφρυωμένο άτομο</string>
+	<key>🍏</key>
+	<string>πράσινο μήλο</string>
+	<key>🇳🇪</key>
+	<string>σημαία του Νίγηρα</string>
+	<key>🥍</key>
+	<string>ρακέτα και μπάλα λακρός</string>
+	<key>🙎</key>
+	<string>κατσουφιασμένο άτομο</string>
+	<key>🅾️</key>
+	<string>ομάδα αίματος Ο</string>
+	<key>🇧🇩</key>
+	<string>σημαία του Μπαγκλαντές</string>
+	<key>🍐</key>
+	<string>αχλάδι</string>
+	<key>🥎</key>
+	<string>σόφτμπολ</string>
+	<key>🇯🇪</key>
+	<string>σημαία του Τζέρσι</string>
+	<key>🙏</key>
+	<string>χέρια πιεσμένα μαζί</string>
+	<key>🍑</key>
+	<string>ροδάκινο</string>
+	<key>🥏</key>
+	<string>φρίσμπι</string>
+	<key>🍒</key>
+	<string>κεράσια</string>
+	<key>🥐</key>
+	<string>κρουασάν</string>
+	<key>🇳🇫</key>
+	<string>σημαία της Νήσου Νόρφολκ</string>
+	<key>🍓</key>
+	<string>φράουλα</string>
+	<key>🇻🇬</key>
+	<string>σημαία των Βρετανικών Παρθένων Νήσων</string>
+	<key>🇧🇪</key>
+	<string>σημαία του Βελγίου</string>
+	<key>🥑</key>
+	<string>αβοκάντο</string>
+	<key>🍔</key>
+	<string>χάμπουργκερ</string>
+	<key>🥒</key>
+	<string>αγγούρι</string>
+	<key>⛑️</key>
+	<string>κράνος με λευκό σταυρό</string>
+	<key>🍕</key>
+	<string>πίτσα</string>
+	<key>🥓</key>
+	<string>μπέικον</string>
+	<key>🇳🇬</key>
+	<string>σημαία της Νιγηρίας</string>
+	<key>🍖</key>
+	<string>κρέας με κόκαλο</string>
+	<key>🥔</key>
+	<string>πατάτα</string>
+	<key>👨‍🍳</key>
+	<string>μάγειρας</string>
+	<key>🇧🇫</key>
+	<string>σημαία της Μπουρκίνα Φάσο</string>
+	<key>🍗</key>
+	<string>μπούτι πουλερικού</string>
+	<key>👮‍♀️</key>
+	<string>γυναίκα αστυνομικός</string>
+	<key>🥕</key>
+	<string>καρότο</string>
+	<key>⭐️</key>
+	<string>αστέρι</string>
+	<key>🍘</key>
+	<string>κράκερ ρυζιού</string>
+	<key>🥖</key>
+	<string>μπαγκέτα</string>
+	<key>🗝️</key>
+	<string>παλιό κλειδί</string>
+	<key>🌶️</key>
+	<string>καυτερό πιπέρι</string>
+	<key>🍙</key>
+	<string>ρυζόμπαλα</string>
+	<key>🥗</key>
+	<string>πράσινη σαλάτα</string>
+	<key>🏃‍♂️</key>
+	<string>άντρας δρομέας</string>
+	<key>🇻🇮</key>
+	<string>σημαία των Αμερικανικών Παρθένων Νήσων</string>
+	<key>🇧🇬</key>
+	<string>σημαία της Βουλγαρίας</string>
+	<key>🍚</key>
+	<string>μαγειρεμένο ρύζι</string>
+	<key>🥘</key>
+	<string>τηγάνι με φαγητό</string>
+	<key>🍛</key>
+	<string>κάρι και ρύζι</string>
+	<key>🥙</key>
+	<string>πίτα</string>
+	<key>🍜</key>
+	<string>αχνιστό μπολ</string>
+	<key>🥚</key>
+	<string>αβγό</string>
+	<key>🛥️</key>
+	<string>βενζινάκατος</string>
+	<key>🇳🇮</key>
+	<string>σημαία της Νικαράγουας</string>
+	<key>🍝</key>
+	<string>μακαρονάδα</string>
+	<key>🥛</key>
+	<string>ποτήρι γάλα</string>
+	<key>🇧🇭</key>
+	<string>σημαία του Μπαχρέιν</string>
+	<key>🍞</key>
+	<string>ψωμί</string>
+	<key>🥜</key>
+	<string>φιστίκια</string>
+	<key>🍟</key>
+	<string>τηγανητές πατάτες</string>
+	<key>👨‍👨‍👦</key>
+	<string>οικογένεια με δύο πατέρες και γιο</string>
+	<key>🥝</key>
+	<string>ακτινίδιο</string>
+	<key>🇫🇮</key>
+	<string>σημαία της Φινλανδίας</string>
+	<key>🤾‍♂️</key>
+	<string>άντρας που παίζει χάντμπολ</string>
+	<key>🍠</key>
+	<string>ψητή γλυκοπατάτα</string>
+	<key>🖲️</key>
+	<string>ιχνόσφαιρα</string>
+	<key>🥞</key>
+	<string>τηγανίτες</string>
+	<key>🇧🇮</key>
+	<string>σημαία του Μπουρούντι</string>
+	<key>🍡</key>
+	<string>ντάνγκο</string>
+	<key>🥟</key>
+	<string>ντάμπλινγκ</string>
+	<key>🍢</key>
+	<string>όντεν</string>
+	<key>🥠</key>
+	<string>μπισκότο τύχης</string>
+	<key>🇫🇯</key>
+	<string>σημαία των Φίτζι</string>
+	<key>🍣</key>
+	<string>σούσι</string>
+	<key>🥡</key>
+	<string>κουτί ταχυδιανομής φαγητού</string>
+	<key>🍤</key>
+	<string>τηγανητή γαρίδα</string>
+	<key>🥢</key>
+	<string>κινέζικα ξυλάκια</string>
+	<key>🇧🇯</key>
+	<string>σημαία του Μπενίν</string>
+	<key>↔️</key>
+	<string>βέλος αριστερά-δεξιά</string>
+	<key>🍥</key>
+	<string>ψαροκεφτές με σχέδιο δίνης</string>
+	<key>🥣</key>
+	<string>μπολ με κουτάλι</string>
+	<key>🍦</key>
+	<string>παγωτό μηχανής</string>
+	<key>🇿🇲</key>
+	<string>σημαία της Ζάμπιας</string>
+	<key>🇫🇰</key>
+	<string>σημαία των Νήσων Φόκλαντ</string>
+	<key>🥤</key>
+	<string>πλαστικό ποτήρι</string>
+	<key>🏌️‍♀️</key>
+	<string>γυναίκα γκόλφερ</string>
+	<key>🇳🇱</key>
+	<string>σημαία των Κάτω Χωρών</string>
+	<key>🍧</key>
+	<string>επιδόρπιο με τριμμένο πάγο</string>
+	<key>🥥</key>
+	<string>καρύδα</string>
+	<key>🍨</key>
+	<string>παγωτό</string>
+	<key>🥦</key>
+	<string>μπρόκολο</string>
+	<key>🍩</key>
+	<string>ντόνατ</string>
+	<key>🥧</key>
+	<string>πίτα</string>
+	<key>🖇️</key>
+	<string>συνδεδεμένοι συνδετήρες</string>
+	<key>🍪</key>
+	<string>μπισκότο</string>
+	<key>🥨</key>
+	<string>πρέτσελ</string>
+	<key>🇻🇳</key>
+	<string>σημαία του Βιετνάμ</string>
+	<key>💂‍♀️</key>
+	<string>γυναίκα φρουρός</string>
+	<key>🇧🇱</key>
+	<string>σημαία του Αγίου Βαρθολομαίου</string>
+	<key>🍫</key>
+	<string>σοκολάτα</string>
+	<key>🇯🇲</key>
+	<string>σημαία της Τζαμάικας</string>
+	<key>🥩</key>
+	<string>μπριζόλα</string>
+	<key>🍬</key>
+	<string>ζαχαρωτά</string>
+	<key>🥪</key>
+	<string>σάντουιτς</string>
+	<key>⛹️‍♀️</key>
+	<string>παίκτρια μπάσκετ</string>
+	<key>🍭</key>
+	<string>γλειφιτζούρι</string>
+	<key>🇫🇲</key>
+	<string>σημαία της Μικρονησίας</string>
+	<key>🥫</key>
+	<string>τροφή σε κονσέρβα</string>
+	<key>🍮</key>
+	<string>κρέμα καραμελέ</string>
+	<key>👨‍❤️‍👨</key>
+	<string>δύο άντρες με καρδιά</string>
+	<key>🥬</key>
+	<string>φυλλώδη λαχανικά</string>
+	<key>🇧🇲</key>
+	<string>σημαία των Βερμούδων</string>
+	<key>🍯</key>
+	<string>βαζάκι με μέλι</string>
+	<key>🥭</key>
+	<string>μάνγκο</string>
+	<key>🇷🇴</key>
+	<string>σημαία της Ρουμανίας</string>
+	<key>🍰</key>
+	<string>κομμάτι κέικ</string>
+	<key>🥮</key>
+	<string>mooncake</string>
+	<key>🍱</key>
+	<string>κουτί Bento</string>
+	<key>🇳🇴</key>
+	<string>σημαία της Νορβηγίας</string>
+	<key>🥯</key>
+	<string>κουλούρι</string>
+	<key>🇧🇳</key>
+	<string>σημαία του Μπρουνέι</string>
+	<key>🧚‍♀️</key>
+	<string>νεράιδα</string>
+	<key>🍲</key>
+	<string>κατσαρόλα με φαγητό</string>
+	<key>🇯🇴</key>
+	<string>σημαία της Ιορδανίας</string>
+	<key>🥰</key>
+	<string>χαμογελαστό πρόσωπο με καρδιές</string>
+	<key>🍳</key>
+	<string>μαγείρεμα</string>
+	<key>🥱</key>
+	<string>πρόσωπο που χασμουριέται</string>
+	<key>🇫🇴</key>
+	<string>σημαία των Νήσων Φερόε</string>
+	<key>🍴</key>
+	<string>πιρούνι και μαχαίρι</string>
+	<key>🥲</key>
+	<string>χαμογελαστό πρόσωπο με δάκρυ</string>
+	<key>🇳🇵</key>
+	<string>σημαία του Νεπάλ</string>
+	<key>✔️</key>
+	<string>σημάδι επιλογής</string>
+	<key>🍵</key>
+	<string>φλιτζάνι χωρίς χερούλι</string>
+	<key>🥳</key>
+	<string>πρόσωπο σε πάρτι</string>
+	<key>🇧🇴</key>
+	<string>σημαία της Βολιβίας</string>
+	<key>🇯🇵</key>
+	<string>σημαία της Ιαπωνίας</string>
+	<key>🍶</key>
+	<string>μπουκάλι και φλιτζάνι σάκε</string>
+	<key>🥴</key>
+	<string>ζαβλακωμένο πρόσωπο</string>
+	<key>🍷</key>
+	<string>ποτήρι κρασιού</string>
+	<key>🥵</key>
+	<string>πρόσωπο που έχει σκάσει από τη ζέστη</string>
+	<key>🍸</key>
+	<string>ποτήρι κοκτέιλ</string>
+	<key>🥶</key>
+	<string>ξεπαγιασμένο πρόσωπο</string>
+	<key>🍹</key>
+	<string>τροπικό ποτό</string>
+	<key>🥷</key>
+	<string>νίντζα</string>
+	<key>🍺</key>
+	<string>ποτήρι μπίρας</string>
+	<key>🥸</key>
+	<string>μεταμφιεσμένο πρόσωπο</string>
+	<key>🚶‍♀️</key>
+	<string>πεζή</string>
+	<key>🍻</key>
+	<string>ποτήρια μπίρας που τσουγκρίζουν</string>
+	<key>🥹</key>
+	<string>χαμογελαστό πρόσωπο έτοιμο να κλάψει</string>
+	<key>🇳🇷</key>
+	<string>σημαία του Ναούρου</string>
+	<key>🍼</key>
+	<string>μπιμπερό</string>
+	<key>🇧🇶</key>
+	<string>σημαία του Μπονέρ</string>
+	<key>🥺</key>
+	<string>πρόσωπο που ικετεύει</string>
+	<key>🧑‍🍼</key>
+	<string>άτομο που ταΐζει ένα μωρό</string>
+	<key>🥻</key>
+	<string>σάρι</string>
+	<key>🇷🇸</key>
+	<string>σημαία της Σερβίας</string>
+	<key>🍾</key>
+	<string>μπουκάλι με φελλό που πετάγεται</string>
+	<key>🇫🇷</key>
+	<string>σημαία της Γαλλίας</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>άντρας και γυναίκα που φιλιούνται</string>
+	<key>🥼</key>
+	<string>ρόμπα εργαστηρίου</string>
+	<key>✍️</key>
+	<string>χέρι που γράφει</string>
+	<key>🍿</key>
+	<string>ποπκόρν</string>
+	<key>🥽</key>
+	<string>προστατευτικά γυαλιά</string>
+	<key>🇧🇷</key>
+	<string>σημαία της Βραζιλίας</string>
+	<key>🗡️</key>
+	<string>στιλέτο</string>
+	<key>⏮️</key>
+	<string>σύμβολο μετάβασης προς τα πίσω</string>
+	<key>🎀</key>
+	<string>φιόγκος</string>
+	<key>🥾</key>
+	<string>μποτάκι ορειβασίας</string>
+	<key>🎁</key>
+	<string>δώρο</string>
+	<key>🥿</key>
+	<string>ίσιο παπούτσι</string>
+	<key>🚀</key>
+	<string>πύραυλος</string>
+	<key>🎂</key>
+	<string>τούρτα γενεθλίων</string>
+	<key>🦀</key>
+	<string>καβούρι</string>
+	<key>🚁</key>
+	<string>ελικόπτερο</string>
+	<key>🇻🇺</key>
+	<string>σημαία του Βανουάτου</string>
+	<key>🇧🇸</key>
+	<string>σημαία των Μπαχαμών</string>
+	<key>🎃</key>
+	<string>φανάρι από κολοκύθα</string>
+	<key>🕵️‍♀️</key>
+	<string>γυναίκα ντετέκτιβ</string>
+	<key>🦁</key>
+	<string>πρόσωπο λιονταριού</string>
+	<key>🚂</key>
+	<string>σιδηροδρομική ατμομηχανή</string>
+	<key>🎄</key>
+	<string>Χριστουγεννιάτικο δέντρο</string>
+	<key>🇷🇺</key>
+	<string>σημαία της Ρωσίας</string>
+	<key>🦂</key>
+	<string>σκορπιός</string>
+	<key>🚃</key>
+	<string>βαγόνι τρένου</string>
+	<key>🎅</key>
+	<string>Άγιος Βασίλης</string>
+	<key>🦃</key>
+	<string>γαλοπούλα</string>
+	<key>🚄</key>
+	<string>τρένο υψηλής ταχύτητας</string>
+	<key>🇳🇺</key>
+	<string>σημαία του Νιούε</string>
+	<key>🛩️</key>
+	<string>μικρό αεροσκάφος</string>
+	<key>◾️</key>
+	<string>μεσαίο-μικρό μαύρο τετράγωνο</string>
+	<key>🎆</key>
+	<string>πυροτεχνήματα</string>
+	<key>🇧🇹</key>
+	<string>σημαία του Μπουτάν</string>
+	<key>🦄</key>
+	<string>μονόκερος</string>
+	<key>🚅</key>
+	<string>τρένο υψηλής ταχύτητας με στρογγυλή μύτη</string>
+	<key>🎇</key>
+	<string>αστράκι πυροτεχνήματος</string>
+	<key>🦅</key>
+	<string>αετός</string>
+	<key>🚆</key>
+	<string>τρένο</string>
+	<key>👱‍♀️</key>
+	<string>γυναίκα με ξανθά μαλλιά</string>
+	<key>🎈</key>
+	<string>μπαλόνι</string>
+	<key>🇿🇼</key>
+	<string>σημαία της Ζιμπάμπουε</string>
+	<key>🦆</key>
+	<string>πάπια</string>
+	<key>🚇</key>
+	<string>συρμός μετρό</string>
+	<key>😮‍💨</key>
+	<string>πρόσωπο που ξεφυσά</string>
+	<key>🎉</key>
+	<string>κομφετί</string>
+	<key>🦇</key>
+	<string>νυχτερίδα</string>
+	<key>🚈</key>
+	<string>αστικός σιδηρόδρομος</string>
+	<key>🎊</key>
+	<string>μπάλα με κομφετί</string>
+	<key>🦈</key>
+	<string>καρχαρίας</string>
+	<key>🚉</key>
+	<string>σταθμός</string>
+	<key>🇷🇼</key>
+	<string>σημαία της Ρουάντας</string>
+	<key>🎋</key>
+	<string>δέντρο Ταναμπάτα</string>
+	<key>🦉</key>
+	<string>κουκουβάγια</string>
+	<key>🚊</key>
+	<string>τραμ</string>
+	<key>🎌</key>
+	<string>διασταυρούμενες σημαίες</string>
+	<key>🦊</key>
+	<string>πρόσωπο αλεπούς</string>
+	<key>🚋</key>
+	<string>βαγόνι τραμ</string>
+	<key>🎍</key>
+	<string>ιαπωνικό πρωτοχρονιάτικο διακοσμητικό</string>
+	<key>🇧🇻</key>
+	<string>σημαία της Νήσου Μπουβέ</string>
+	<key>🦋</key>
+	<string>πεταλούδα</string>
+	<key>🚌</key>
+	<string>λεωφορείο</string>
+	<key>🎎</key>
+	<string>Ιαπωνικές κούκλες</string>
+	<key>🦌</key>
+	<string>ελάφι</string>
+	<key>🚍</key>
+	<string>λεωφορείο που πλησιάζει</string>
+	<key>🎏</key>
+	<string>σημαία με κυπρίνους</string>
+	<key>🦍</key>
+	<string>γορίλας</string>
+	<key>🚎</key>
+	<string>τρόλεϊ</string>
+	<key>🚏</key>
+	<string>στάση λεωφορείου</string>
+	<key>🎐</key>
+	<string>μελωδός</string>
+	<key>🦎</key>
+	<string>σαύρα</string>
+	<key>🇧🇼</key>
+	<string>σημαία της Μποτσουάνας</string>
+	<key>🚐</key>
+	<string>μικρό λεωφορείο</string>
+	<key>♏️</key>
+	<string>Σκορπιός</string>
+	<key>🎑</key>
+	<string>τελετή θέασης της σελήνης</string>
+	<key>🦏</key>
+	<string>ρινόκερος</string>
+	<key>🚑</key>
+	<string>ασθενοφόρο</string>
+	<key>👨‍🍼</key>
+	<string>άντρας που ταΐζει ένα μωρό</string>
+	<key>⚧️</key>
+	<string>σύμβολο διαφυλικών</string>
+	<key>👨‍👨‍👧</key>
+	<string>οικογένεια με δύο πατέρες και κόρη</string>
+	<key>🖋️</key>
+	<string>πένα</string>
+	<key>🚒</key>
+	<string>πυροσβεστικό</string>
+	<key>🎒</key>
+	<string>σακίδιο</string>
+	<key>🎓</key>
+	<string>καπέλο αποφοίτησης</string>
+	<key>🦐</key>
+	<string>γαρίδα</string>
+	<key>🦑</key>
+	<string>καλαμάρι</string>
+	<key>🚓</key>
+	<string>περιπολικό</string>
+	<key>❗️</key>
+	<string>κόκκινο θαυμαστικό</string>
+	<key>🦒</key>
+	<string>καμηλοπάρδαλη</string>
+	<key>🙇‍♀️</key>
+	<string>γυναίκα που υποκλίνεται</string>
+	<key>🗣️</key>
+	<string>περίγραμμα κεφαλιού που μιλά</string>
+	<key>🚔</key>
+	<string>περιπολικό που πλησιάζει</string>
+	<key>🦓</key>
+	<string>ζέβρα</string>
+	<key>🚕</key>
+	<string>ταξί</string>
+	<key>🦔</key>
+	<string>σκαντζόχοιρος</string>
+	<key>🇳🇿</key>
+	<string>σημαία της Νέας Ζηλανδίας</string>
+	<key>🦕</key>
+	<string>δεινόσαυρος</string>
+	<key>🚖</key>
+	<string>ταξί που πλησιάζει</string>
+	<key>🇧🇾</key>
+	<string>σημαία της Λευκορωσίας</string>
+	<key>🦖</key>
+	<string>Τ-Ρεξ</string>
+	<key>🚗</key>
+	<string>αυτοκίνητο</string>
+	<key>🦗</key>
+	<string>γρύλος</string>
+	<key>🚘</key>
+	<string>αυτοκίνητο που πλησιάζει</string>
+	<key>🦘</key>
+	<string>καγκουρό</string>
+	<key>🚙</key>
+	<string>όχημα ψυχαγωγίας/εργασίας (SUV)</string>
+	<key>🇧🇿</key>
+	<string>σημαία της Μπελίζ</string>
+	<key>🦙</key>
+	<string>λάμα</string>
+	<key>🚚</key>
+	<string>φορτηγό παραδόσεων</string>
+	<key>♈️</key>
+	<string>Κριός</string>
+	<key>🦚</key>
+	<string>παγόνι</string>
+	<key>🚛</key>
+	<string>αρθρωτό φορτηγό</string>
+	<key>⚠️</key>
+	<string>προειδοποίηση</string>
+	<key>🦛</key>
+	<string>ιπποπόταμος</string>
+	<key>🚜</key>
+	<string>τρακτέρ</string>
+	<key>⛸️</key>
+	<string>παγοπέδιλο</string>
+	<key>🧘‍♂️</key>
+	<string>άντρας στη στάση λωτού</string>
+	<key>🧑‍🚀</key>
+	<string>αστροναύτης</string>
+	<key>🦜</key>
+	<string>παπαγάλος</string>
+	<key>🚝</key>
+	<string>μονόραβδος σιδηρόδρομος</string>
+	<key>🦝</key>
+	<string>ρακούν</string>
+	<key>🚞</key>
+	<string>ορεινός σιδηρόδρομος</string>
+	<key>🎠</key>
+	<string>αλογάκι λούνα-παρκ</string>
+	<key>🦞</key>
+	<string>αστακός</string>
+	<key>🚟</key>
+	<string>κρεμαστός σιδηρόδρομος</string>
+	<key>🎡</key>
+	<string>τροχός λούνα-παρκ</string>
+	<key>🦟</key>
+	<string>κουνούπι</string>
+	<key>🚠</key>
+	<string>ορεινό τελεφερίκ</string>
+	<key>🎢</key>
+	<string>τρενάκι λούνα-παρκ</string>
+	<key>🦠</key>
+	<string>μικρόβιο</string>
+	<key>🚡</key>
+	<string>τελεφερίκ</string>
+	<key>🧝‍♀️</key>
+	<string>γυναίκα ξωτικό</string>
+	<key>🎣</key>
+	<string>καλάμι ψαρέματος και ψάρι</string>
+	<key>🦡</key>
+	<string>ασβός</string>
+	<key>🚢</key>
+	<string>πλοίο</string>
+	<key>🎤</key>
+	<string>μικρόφωνο</string>
+	<key>🦢</key>
+	<string>κύκνος</string>
+	<key>🚣</key>
+	<string>άτομο που κάνει κωπηλασία</string>
+	<key>🎥</key>
+	<string>κινηματογραφική κάμερα</string>
+	<key>🦣</key>
+	<string>μαμούθ</string>
+	<key>🚤</key>
+	<string>ταχύπλοο</string>
+	<key>🎦</key>
+	<string>σύμβολο σινεμά</string>
+	<key>🦤</key>
+	<string>πουλί ντόντο</string>
+	<key>🚥</key>
+	<string>οριζόντιος φωτεινός σηματοδότης</string>
+	<key>⚙️</key>
+	<string>γρανάζι</string>
+	<key>🚴‍♂️</key>
+	<string>ποδηλάτης</string>
+	<key>🎧</key>
+	<string>ακουστικά</string>
+	<key>🦥</key>
+	<string>βραδύποδας</string>
+	<key>🚦</key>
+	<string>κάθετος φωτεινός σηματοδότης</string>
+	<key>⛱️</key>
+	<string>ομπρέλα παραλίας</string>
+	<key>🖍️</key>
+	<string>κηρομπογιά</string>
+	<key>🎨</key>
+	<string>παλέτα καλλιτέχνη</string>
+	<key>🦦</key>
+	<string>βίδρα</string>
+	<key>🚧</key>
+	<string>ταμπέλα έργων</string>
+	<key>🎩</key>
+	<string>ημίψηλο καπέλο</string>
+	<key>🦧</key>
+	<string>ουρακοτάγκος</string>
+	<key>🚨</key>
+	<string>σειρήνα περιπολικού</string>
+	<key>➡️</key>
+	<string>δεξί βέλος</string>
+	<key>🎪</key>
+	<string>σκηνή τσίρκου</string>
+	<key>🦨</key>
+	<string>νυφίτσα</string>
+	<key>🚩</key>
+	<string>τριγωνική σημαία σε ιστό</string>
+	<key>🎫</key>
+	<string>εισιτήριο</string>
+	<key>🦩</key>
+	<string>φλαμίνγκο</string>
+	<key>🚪</key>
+	<string>πόρτα</string>
+	<key>🦸‍♀️</key>
+	<string>υπερηρωίδα</string>
+	<key>🎬</key>
+	<string>κλακέτα</string>
+	<key>🦪</key>
+	<string>στρείδι</string>
+	<key>🚫</key>
+	<string>απαγορεύεται</string>
+	<key>🎖️</key>
+	<string>στρατιωτικό παράσημο</string>
+	<key>🎭</key>
+	<string>ερμηνευτικές τέχνες</string>
+	<key>🦫</key>
+	<string>κάστορας</string>
+	<key>🚬</key>
+	<string>τσιγάρο</string>
+	<key>🎮</key>
+	<string>χειριστήριο παιχνιδιών</string>
+	<key>🦬</key>
+	<string>βίσονας</string>
+	<key>🚭</key>
+	<string>σήμα «απαγορεύεται το κάπνισμα»</string>
+	<key>🎯</key>
+	<string>κέντρο στόχου</string>
+	<key>🦭</key>
+	<string>φώκια</string>
+	<key>🚮</key>
+	<string>σύμβολο «Πετάξτε τα σκουπίδια στον κάδο»</string>
+	<key>☺️</key>
+	<string>χαμογελαστό πρόσωπο</string>
+	<key>🎰</key>
+	<string>κουλοχέρης</string>
+	<key>🦮</key>
+	<string>σκύλος-οδηγός</string>
+	<key>🚯</key>
+	<string>απαγορεύεται η ρίψη σκουπιδιών</string>
+	<key>⚒️</key>
+	<string>σφυρί και αξίνα</string>
+	<key>🎱</key>
+	<string>μπιλιάρδο</string>
+	<key>🦯</key>
+	<string>λευκό μπαστούνι</string>
+	<key>🚰</key>
+	<string>βρύση νερού</string>
+	<key>🧑‍🎄</key>
+	<string>Άγιος Βασίλης</string>
+	<key>⛪️</key>
+	<string>εκκλησία</string>
+	<key>🎲</key>
+	<string>ζάρια παιχνιδιού</string>
+	<key>🤵‍♀️</key>
+	<string>γυναίκα με σμόκιν</string>
+	<key>⌛️</key>
+	<string>κλεψύδρα</string>
+	<key>🏋️‍♂️</key>
+	<string>αρσιβαρίστας</string>
+	<key>🚱</key>
+	<string>μη πόσιμο νερό</string>
+	<key>🎳</key>
+	<string>μπάλα μπόουλινγκ και κορίνες</string>
+	<key>👯‍♂️</key>
+	<string>χορευτές που φορούν λαγουδένια αυτιά</string>
+	<key>👨‍🚀</key>
+	<string>αστροναύτης</string>
+	<key>🚲</key>
+	<string>ποδήλατο</string>
+	<key>🎴</key>
+	<string>τράπουλα με λουλούδια</string>
+	<key>🚳</key>
+	<string>απαγορεύονται τα ποδήλατα</string>
+	<key>👩‍👦‍👦</key>
+	<string>οικογένεια με μητέρα και δύο γιους</string>
+	<key>🎵</key>
+	<string>μουσική νότα</string>
+	<key>👨‍🤝‍👨</key>
+	<string>άντρες χεράκι-χεράκι</string>
+	<key>🚴</key>
+	<string>ποδηλάτης</string>
+	<key>🎶</key>
+	<string>μουσικές νότες</string>
+	<key>🦴</key>
+	<string>κόκαλο</string>
+	<key>🚵</key>
+	<string>ορεινός ποδηλάτης</string>
+	<key>🎷</key>
+	<string>σαξόφωνο</string>
+	<key>🦵</key>
+	<string>πόδι</string>
+	<key>🚶</key>
+	<string>πεζός</string>
+	<key>🎸</key>
+	<string>κιθάρα</string>
+	<key>🦶</key>
+	<string>πόδι</string>
+	<key>🚷</key>
+	<string>απαγορεύονται οι πεζοί</string>
+	<key>🎹</key>
+	<string>αρμόνιο</string>
+	<key>🦷</key>
+	<string>δόντι</string>
+	<key>🚸</key>
+	<string>διάβαση παιδιών</string>
+	<key>🎺</key>
+	<string>τρομπέτα</string>
+	<key>🦸</key>
+	<string>υπερήρωας</string>
+	<key>🚹</key>
+	<string>σύμβολο ανδρών</string>
+	<key>🎻</key>
+	<string>βιολί</string>
+	<key>🦹</key>
+	<string>υπερκακός</string>
+	<key>🚺</key>
+	<string>σύμβολο γυναικών</string>
+	<key>🎼</key>
+	<string>παρτιτούρα</string>
+	<key>🦺</key>
+	<string>προστατευτικό γιλέκο</string>
+	<key>🚻</key>
+	<string>τουαλέτα</string>
+	<key>🎽</key>
+	<string>μπλουζάκι τρεξίματος</string>
+	<key>🦻</key>
+	<string>αυτί με βοήθημα ακοής</string>
+	<key>🚼</key>
+	<string>σύμβολο μωρού</string>
+	<key>🎾</key>
+	<string>μπαλάκι τένις</string>
+	<key>🦼</key>
+	<string>ηλεκτροκίνητο αναπηρικό αμαξίδιο</string>
+	<key>🚽</key>
+	<string>τουαλέτα</string>
+	<key>🎿</key>
+	<string>σκι</string>
+	<key>🦽</key>
+	<string>χειροκίνητο αναπηρικό αμαξίδιο</string>
+	<key>🚾</key>
+	<string>αποχωρητήριο</string>
+	<key>🏀</key>
+	<string>μπάλα μπάσκετ</string>
+	<key>🦾</key>
+	<string>μηχανικός βραχίονας</string>
+	<key>🙅‍♂️</key>
+	<string>άντρας που κάνει τη χειρονομία «όχι»</string>
+	<key>🚿</key>
+	<string>ντους</string>
+	<key>🏁</key>
+	<string>σημαία τερματισμού</string>
+	<key>🦿</key>
+	<string>μηχανικό πόδι</string>
+	<key>🛀</key>
+	<string>άτομο που κάνει μπάνιο</string>
+	<key>🏂</key>
+	<string>αθλητής σνόουμπορντ</string>
+	<key>🧀</key>
+	<string>κομμάτι τυριού</string>
+	<key>🛁</key>
+	<string>μπανιέρα</string>
+	<key>🚣‍♂️</key>
+	<string>άντρας που κάνει κωπηλασία</string>
+	<key>🏃</key>
+	<string>δρομέας</string>
+	<key>🧁</key>
+	<string>κεκάκι</string>
+	<key>🛂</key>
+	<string>έλεγχος διαβατηρίων</string>
+	<key>🏄</key>
+	<string>σέρφερ</string>
+	<key>🧂</key>
+	<string>αλάτι</string>
+	<key>🛃</key>
+	<string>τελωνείο</string>
+	<key>🏅</key>
+	<string>αθλητικό μετάλλιο</string>
+	<key>🧃</key>
+	<string>κουτί χυμού</string>
+	<key>🛄</key>
+	<string>παραλαβή αποσκευών</string>
+	<key>🏆</key>
+	<string>τρόπαιο</string>
+	<key>🧄</key>
+	<string>σκόρδο</string>
+	<key>🛅</key>
+	<string>φύλαξη αποσκευών</string>
+	<key>🏇</key>
+	<string>αναβάτης σε άλογο ιπποδρομιών</string>
+	<key>🧅</key>
+	<string>κρεμμύδι</string>
+	<key>✴️</key>
+	<string>αστέρι οκτώ ακτίνων</string>
+	<key>🖼️</key>
+	<string>κορνίζα με φωτογραφία</string>
+	<key>🏈</key>
+	<string>Αμερικανικό φούτμπολ</string>
+	<key>🧆</key>
+	<string>φαλάφελ</string>
+	<key>🏉</key>
+	<string>μπάλα ράγκμπι</string>
+	<key>🧇</key>
+	<string>βάφλα</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>οικογένεια με δύο πατέρες, γιο και κόρη</string>
+	<key>🏊</key>
+	<string>κολυμβητής</string>
+	<key>🧈</key>
+	<string>βούτυρο</string>
+	<key>🧑‍⚖️</key>
+	<string>δικαστής</string>
+	<key>3️⃣</key>
+	<string>πλήκτρο με τον αριθμό τρία</string>
+	<key>🧉</key>
+	<string>ματέ</string>
+	<key>🧊</key>
+	<string>πάγος</string>
+	<key>🧋</key>
+	<string>τσάι μπόμπα</string>
+	<key>🛌</key>
+	<string>άτομο που κοιμάται</string>
+	<key>🧛‍♂️</key>
+	<string>άντρας βαμπίρ</string>
+	<key>🧌</key>
+	<string>τρολ</string>
+	<key>🏏</key>
+	<string>μπαστούνι και μπάλα κρίκετ</string>
+	<key>🧍</key>
+	<string>άτομο που στέκεται όρθιο</string>
+	<key>🏐</key>
+	<string>μπάλα βόλεϊ</string>
+	<key>🧎</key>
+	<string>άτομο που γονατίζει</string>
+	<key>🏑</key>
+	<string>μπαστούνι και μπάλα για χόκεϊ επί χόρτου</string>
+	<key>🧏</key>
+	<string>Κωφό άτομο</string>
+	<key>🛐</key>
+	<string>χώρος θρησκευτικής λατρείας</string>
+	<key>🏒</key>
+	<string>μπαστούνι και πακ για χόκεϊ επί πάγου</string>
+	<key>🧐</key>
+	<string>πρόσωπο με μονόκλ</string>
+	<key>🛑</key>
+	<string>οκταγωνικό σήμα</string>
+	<key>🏓</key>
+	<string>ρακέτα και μπαλάκι πινγκ πονγκ</string>
+	<key>🧑</key>
+	<string>ενήλικας</string>
+	<key>🛒</key>
+	<string>καρότσι αγορών</string>
+	<key>🧒</key>
+	<string>παιδί</string>
+	<key>🧓</key>
+	<string>ηλικιωμένος</string>
+	<key>🎚️</key>
+	<string>ρυθμιστικό επιπέδου</string>
+	<key>🧔</key>
+	<string>μουσάτο άτομο</string>
+	<key>🛕</key>
+	<string>ινδουιστικός ναός</string>
+	<key>🧕</key>
+	<string>γυναίκα με μαντίλα</string>
+	<key>🛖</key>
+	<string>καλύβα</string>
+	<key>🧖</key>
+	<string>άτομο σε σάουνα</string>
+	<key>🛗</key>
+	<string>ασανσέρ</string>
+	<key>🧗</key>
+	<string>αναρριχήτρια</string>
+	<key>🧘</key>
+	<string>άτομο στη στάση λωτού</string>
+	<key>🧙</key>
+	<string>μάγος</string>
+	<key>🧚</key>
+	<string>νεράιδα</string>
+	<key>👩‍💻</key>
+	<string>γυναίκα τεχνολόγος</string>
+	<key>🧛</key>
+	<string>βαμπίρ</string>
+	<key>🛜</key>
+	<string>σύμβολο ασύρματου δικτύου</string>
+	<key>🧜</key>
+	<string>γοργόνος</string>
+	<key>🛝</key>
+	<string>τσουλήθρα παιδικής χαράς</string>
+	<key>🧝</key>
+	<string>ξωτικό</string>
+	<key>🛞</key>
+	<string>τροχός</string>
+	<key>👨‍⚖️</key>
+	<string>άντρας δικαστής</string>
+	<key>🏠</key>
+	<string>σπίτι</string>
+	<key>🧞</key>
+	<string>τζίνι</string>
+	<key>↘️</key>
+	<string>βέλος κάτω-δεξιά</string>
+	<key>🛟</key>
+	<string>στρογγυλό σωσίβιο</string>
+	<key>🏡</key>
+	<string>σπίτι με κήπο</string>
+	<key>🧟</key>
+	<string>ζόμπι</string>
+	<key>🤸‍♀️</key>
+	<string>γυναίκα που κάνει ρόδα</string>
+	<key>🏢</key>
+	<string>κτήριο γραφείων</string>
+	<key>🧠</key>
+	<string>μυαλό</string>
+	<key>🏣</key>
+	<string>Ιαπωνικό ταχυδρομείο</string>
+	<key>🧡</key>
+	<string>πορτοκαλί καρδιά</string>
+	<key>👩‍💼</key>
+	<string>γυναίκα υπάλληλος γραφείου</string>
+	<key>🏤</key>
+	<string>Ευρωπαϊκό ταχυδρομείο</string>
+	<key>🧢</key>
+	<string>καπέλο με γείσο</string>
+	<key>🏥</key>
+	<string>νοσοκομείο</string>
+	<key>🧣</key>
+	<string>κασκόλ</string>
+	<key>🏦</key>
+	<string>τράπεζα</string>
+	<key>🧤</key>
+	<string>γάντια</string>
+	<key>🏧</key>
+	<string>σήμα «ATM»</string>
+	<key>🧥</key>
+	<string>παλτό</string>
+	<key>👷‍♀️</key>
+	<string>γυναίκα οικοδόμος</string>
+	<key>🏨</key>
+	<string>ξενοδοχείο</string>
+	<key>🧦</key>
+	<string>κάλτσες</string>
+	<key>🏩</key>
+	<string>ξενοδοχείο ημιδιαμονής</string>
+	<key>🧧</key>
+	<string>κόκκινος φάκελος δώρου</string>
+	<key>ℹ️</key>
+	<string>πηγή πληροφοριών</string>
+	<key>🏪</key>
+	<string>κατάστημα</string>
+	<key>🧨</key>
+	<string>πυροτέχνημα</string>
+	<key>🏫</key>
+	<string>σχολείο</string>
+	<key>🧩</key>
+	<string>κομμάτι παζλ</string>
+	<key>🏬</key>
+	<string>πολυκατάστημα</string>
+	<key>🧪</key>
+	<string>δοκιμαστικός σωλήνας</string>
+	<key>🛫</key>
+	<string>αεροπλάνο που απογειώνεται</string>
+	<key>🛳️</key>
+	<string>επιβατικό πλοίο</string>
+	<key>🏭</key>
+	<string>εργοστάσιο</string>
+	<key>🧫</key>
+	<string>τρυβλίο καλλιέργειας</string>
+	<key>🛬</key>
+	<string>αεροπλάνο που προσγειώνεται</string>
+	<key>♨️</key>
+	<string>θερμοπηγή</string>
+	<key>🏮</key>
+	<string>φανάρι Izakaya</string>
+	<key>🧬</key>
+	<string>DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>οικογένεια με μητέρα, πατέρα και γιο</string>
+	<key>🏯</key>
+	<string>Ιαπωνικό κάστρο</string>
+	<key>🧭</key>
+	<string>πυξίδα</string>
+	<key>🧏‍♀️</key>
+	<string>Κωφή γυναίκα</string>
+	<key>🏰</key>
+	<string>Ευρωπαϊκό κάστρο</string>
+	<key>🧮</key>
+	<string>άβακας</string>
+	<key>🧯</key>
+	<string>πυροσβεστήρας</string>
+	<key>⏹️</key>
+	<string>σύμβολο διακοπής</string>
+	<key>🧰</key>
+	<string>εργαλειοθήκη</string>
+	<key>🧱</key>
+	<string>τούβλα</string>
+	<key>🏴</key>
+	<string>μαύρη σημαία</string>
+	<key>🧲</key>
+	<string>μαγνήτης</string>
+	<key>🙍‍♀️</key>
+	<string>συνοφρυωμένη γυναίκα</string>
+	<key>🧳</key>
+	<string>αποσκευή</string>
+	<key>🛴</key>
+	<string>σκούτερ</string>
+	<key>🧴</key>
+	<string>μπουκάλι λοσιόν</string>
+	<key>🛵</key>
+	<string>μηχανοκίνητο σκούτερ</string>
+	<key>👨‍👦</key>
+	<string>οικογένεια με πατέρα και γιο</string>
+	<key>🧵</key>
+	<string>κλωστή</string>
+	<key>💆‍♂️</key>
+	<string>άντρας που του κάνουν μασάζ στο κεφάλι</string>
+	<key>🛶</key>
+	<string>κανό</string>
+	<key>🏸</key>
+	<string>ρακέτα και μπαλάκι μπάντμιντον</string>
+	<key>🧶</key>
+	<string>νήμα</string>
+	<key>🛷</key>
+	<string>έλκηθρο</string>
+	<key>🏹</key>
+	<string>τόξο και βέλος</string>
+	<key>🧷</key>
+	<string>παραμάνα</string>
+	<key>🛸</key>
+	<string>ΑΤΙΑ</string>
+	<key>🏺</key>
+	<string>αμφορέας</string>
+	<key>🧸</key>
+	<string>αρκουδάκι</string>
+	<key>🛹</key>
+	<string>σανίδα σκέιτμπορντ</string>
+	<key>🧹</key>
+	<string>σκούπα</string>
+	<key>🛺</key>
+	<string>αυτόματο ρίκσο</string>
+	<key>⏲️</key>
+	<string>χρονοδιακόπτης</string>
+	<key>🧺</key>
+	<string>καλάθι</string>
+	<key>🛻</key>
+	<string>ημιφορτηγό</string>
+	<key>🧻</key>
+	<string>ρολό χαρτιού</string>
+	<key>🛼</key>
+	<string>τροχοπέδιλο</string>
+	<key>👨‍👧</key>
+	<string>οικογένεια με πατέρα και κόρη</string>
+	<key>🧼</key>
+	<string>σαπούνι</string>
+	<key>🧞‍♂️</key>
+	<string>άντρας τζίνι</string>
+	<key>🧽</key>
+	<string>σφουγγάρι</string>
+	<key>🎞️</key>
+	<string>καρέ φιλμ</string>
+	<key>🧾</key>
+	<string>απόδειξη</string>
+	<key>▪️</key>
+	<string>μικρό μαύρο τετράγωνο</string>
+	<key>🧿</key>
+	<string>ματόχαντρο</string>
+	<key>☂️</key>
+	<string>ομπρέλα</string>
+	<key>🗂️</key>
+	<string>διαχωριστικά ευρετηρίου καρτών</string>
+	<key>🦹‍♂️</key>
+	<string>υπερκακός</string>
+	<key>🏋️</key>
+	<string>αρσιβαρίστας</string>
+	<key>◻️</key>
+	<string>μεσαίο λευκό τετράγωνο</string>
+	<key>♓️</key>
+	<string>Ιχθείς</string>
+	<key>⚫️</key>
+	<string>μαύρος κύκλος</string>
+	<key>⏩</key>
+	<string>σύμβολο γρήγορης προώθησης</string>
+	<key>⏪</key>
+	<string>σύμβολο γρήγορης επαναφοράς</string>
+	<key>⏫</key>
+	<string>διπλό τρίγωνο που δείχνει προς τα πάνω</string>
+	<key>⏬</key>
+	<string>διπλό τρίγωνο που δείχνει προς τα κάτω</string>
+	<key>🗯️</key>
+	<string>φούσκα νευριασμένης ομιλίας</string>
+	<key>⏰</key>
+	<string>ξυπνητήρι</string>
+	<key>⏳</key>
+	<string>κλεψύδρα με άμμο που τρέχει</string>
+	<key>🧑‍🎓</key>
+	<string>μαθητής</string>
+	<key>🧑‍🚒</key>
+	<string>πυροσβέστης</string>
+	<key>♌️</key>
+	<string>Λέων</string>
+	<key>🗄️</key>
+	<string>ερμάριο εγγράφων</string>
+	<key>🧍‍♂️</key>
+	<string>άντρας που στέκεται όρθιος</string>
+	<key>🏍️</key>
+	<string>μοτοσικλέτα</string>
+	<key>🙋‍♂️</key>
+	<string>άντρας που σηκώνει ένα χέρι</string>
+	<key>👨‍👩‍👧</key>
+	<string>οικογένεια με μητέρα, πατέρα και κόρη</string>
+	<key>🇸🇦</key>
+	<string>σημαία της Σαουδικής Αραβίας</string>
+	<key>⛵️</key>
+	<string>ιστιοφόρο</string>
+	<key>👩‍🏫</key>
+	<string>δασκάλα</string>
+	<key>⬜️</key>
+	<string>μεγάλο λευκό τετράγωνο</string>
+	<key>🇸🇧</key>
+	<string>σημαία των Νήσων Σολομώντα</string>
+	<key>🇬🇦</key>
+	<string>σημαία της Γκαμπόν</string>
+	<key>🇨🇦</key>
+	<string>σημαία του Καναδά</string>
+	<key>🇸🇨</key>
+	<string>σημαία των Σεϋχελλών</string>
+	<key>🇬🇧</key>
+	<string>σημαία του Ηνωμένου Βασιλείου</string>
+	<key>👨‍🎓</key>
+	<string>μαθητής</string>
+	<key>👨‍🚒</key>
+	<string>πυροσβέστης</string>
+	<key>⚖️</key>
+	<string>ζυγός</string>
+	<key>🇸🇩</key>
+	<string>σημαία του Σουδάν</string>
+	<key>🇨🇨</key>
+	<string>σημαία των Νήσων Κόκος (Κίλινγκ)</string>
+	<key>⏏️</key>
+	<string>σύμβολο εξαγωγής</string>
+	<key>🇸🇪</key>
+	<string>σημαία της Σουηδίας</string>
+	<key>🇬🇩</key>
+	<string>σημαία της Γρενάδας</string>
+	<key>👩‍🏭</key>
+	<string>εργάτρια εργοστασίου</string>
+	<key>🇼🇫</key>
+	<string>σημαία των Γουάλις και Φουτούνα</string>
+	<key>🇨🇩</key>
+	<string>σημαία της Λαϊκής Δημοκρατίας του Κογκό</string>
+	<key>🇰🇪</key>
+	<string>σημαία της Κένυας</string>
+	<key>🛎️</key>
+	<string>κουδούνι υποδοχής</string>
+	<key>🇬🇪</key>
+	<string>σημαία της Γεωργίας</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>οικογένεια με δύο μητέρες, γιο και κόρη</string>
+	<key>🇸🇬</key>
+	<string>σημαία της Σιγκαπούρης</string>
+	<key>🇬🇫</key>
+	<string>σημαία της Γαλλικής Γουιάνας</string>
+	<key>🇨🇫</key>
+	<string>σημαία της Κεντροαφρικανικής Δημοκρατίας</string>
+	<key>🇰🇬</key>
+	<string>σημαία του Κιργιστάν</string>
+	<key>🗳️</key>
+	<string>κάλπη με ψηφοδέλτιο</string>
+	<key>🇸🇭</key>
+	<string>σημαία της Αγίας Ελένης</string>
+	<key>🇬🇬</key>
+	<string>σημαία του Γκέρνσι</string>
+	<key>🧑‍⚕️</key>
+	<string>εργαζόμενος στον τομέα υγείας</string>
+	<key>🏃‍♀️</key>
+	<string>γυναίκα δρομέας</string>
+	<key>🇨🇬</key>
+	<string>σημαία της Δημοκρατίας του Κογκό</string>
+	<key>🇰🇭</key>
+	<string>σημαία της Καμπότζης</string>
+	<key>🤹‍♂️</key>
+	<string>άντρας που κάνει ζογκλερικά</string>
+	<key>🇸🇮</key>
+	<string>σημαία της Σλοβενίας</string>
+	<key>🇬🇭</key>
+	<string>σημαία της Γκάνας</string>
+	<key>〽️</key>
+	<string>σύμβολο εναλλαγής</string>
+	<key>🇨🇭</key>
+	<string>σημαία της Ελβετίας</string>
+	<key>🇰🇮</key>
+	<string>σημαία του Κιριμπάτι</string>
+	<key>🇸🇯</key>
+	<string>σημαία του Σβάλμπαρντ και Γιαν Μάγεν</string>
+	<key>🕰️</key>
+	<string>διακοσμητικό επιτραπέζιο ρολόι</string>
+	<key>8️⃣</key>
+	<string>πλήκτρο με τον αριθμό οκτώ</string>
+	<key>🇬🇮</key>
+	<string>σημαία του Γιβραλτάρ</string>
+	<key>🤾‍♀️</key>
+	<string>γυναίκα που παίζει χάντμπολ</string>
+	<key>🇨🇮</key>
+	<string>σημαία της Ακτής Ελεφαντοστού</string>
+	<key>⬇️</key>
+	<string>κάτω βέλος</string>
+	<key>👩‍✈️</key>
+	<string>γυναίκα πιλότος</string>
+	<key>👩‍👧‍👦</key>
+	<string>οικογένεια με μητέρα, γιο και κόρη</string>
+	<key>🇸🇰</key>
+	<string>σημαία της Σλοβακίας</string>
+	<key>🌡️</key>
+	<string>θερμόμετρο</string>
+	<key>↪️</key>
+	<string>αριστερό βέλος που γέρνει προς τα δεξιά</string>
+	<key>🇸🇱</key>
+	<string>σημαία της Σιέρα Λεόνε</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>δύο άντρες που φιλιούνται</string>
+	<key>🇨🇰</key>
+	<string>σημαία των Νήσων Κουκ</string>
+	<key>🇸🇲</key>
+	<string>σημαία του Σαν Μαρίνο</string>
+	<key>🇬🇱</key>
+	<string>σημαία της Γροιλανδίας</string>
+	<key>🇴🇲</key>
+	<string>σημαία του Ομάν</string>
+	<key>🇨🇱</key>
+	<string>σημαία της Χιλής</string>
+	<key>🇰🇲</key>
+	<string>σημαία των Κομορών</string>
+	<key>🇸🇳</key>
+	<string>σημαία της Σενεγάλης</string>
+	<key>🇬🇲</key>
+	<string>σημαία της Γκάμπιας</string>
+	<key>1️⃣</key>
+	<string>πλήκτρο με τον αριθμό ένα</string>
+	<key>Ⓜ️</key>
+	<string>M σε κύκλο</string>
+	<key>🇨🇲</key>
+	<string>σημαία του Καμερούν</string>
+	<key>👨‍⚕️</key>
+	<string>εργαζόμενος στον τομέα υγείας</string>
+	<key>🙎‍♂️</key>
+	<string>κατσουφιασμένος άντρας</string>
+	<key>🇰🇳</key>
+	<string>σημαία του Αγίου Χριστόφορου και Νέβις</string>
+	<key>🇸🇴</key>
+	<string>σημαία της Σομαλίας</string>
+	<key>🇬🇳</key>
+	<string>σημαία της Γουινέας</string>
+	<key>🇨🇳</key>
+	<string>σημαία της Κίνας</string>
+	<key>☢️</key>
+	<string>ραδιενεργό</string>
+	<key>🇨🇴</key>
+	<string>σημαία της Κολομβίας</string>
+	<key>‼️</key>
+	<string>κόκκινο διπλό θαυμαστικό</string>
+	<key>🃏</key>
+	<string>μπαλαντέρ</string>
+	<key>🇰🇵</key>
+	<string>σημαία της Βόρειας Κορέας</string>
+	<key>🇬🇵</key>
+	<string>σημαία της Γουαδελούπης</string>
+	<key>㊗️</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «συγχαρητήρια»</string>
+	<key>🐿️</key>
+	<string>σκίουρος</string>
+	<key>🇨🇵</key>
+	<string>σημαία της Νήσου Κλίπερτον</string>
+	<key>🇸🇷</key>
+	<string>σημαία του Σουρινάμ</string>
+	<key>🏳️‍⚧️</key>
+	<string>σημαία διαφυλικών</string>
+	<key>🇬🇶</key>
+	<string>σημαία της Ισημερινής Γουινέας</string>
+	<key>🇼🇸</key>
+	<string>σημαία της Σαμόας</string>
+	<key>*️⃣</key>
+	<string>πλήκτρο αστερίσκου</string>
+	<key>🇰🇷</key>
+	<string>σημαία της Νότιας Κορέας</string>
+	<key>🇸🇸</key>
+	<string>σημαία του Νότιου Σουδάν</string>
+	<key>🇬🇷</key>
+	<string>σημαία της Ελλάδας</string>
+	<key>🇨🇷</key>
+	<string>σημαία της Κόστα Ρίκα</string>
+	<key>®️</key>
+	<string>σύμβολο σήματος κατατεθέντος</string>
+	<key>🇸🇹</key>
+	<string>σημαία του Σάο Τομέ και Πρίντσιπε</string>
+	<key>🇬🇸</key>
+	<string>σημαία της Νότιας Γεωργίας και των Νότιων Νήσων Σάντουιτς</string>
+	<key>↕️</key>
+	<string>βέλος πάνω-κάτω</string>
+	<key>🇬🇹</key>
+	<string>σημαία της Γουατεμάλας</string>
+	<key>☔️</key>
+	<string>ομπρέλα με σταγόνες βροχής</string>
+	<key>🏳️‍🌈</key>
+	<string>σημαία ουράνιου τόξου</string>
+	<key>🇸🇻</key>
+	<string>σημαία του Ελ Σαλβαδόρ</string>
+	<key>🕴️</key>
+	<string>αιωρούμενος άντρας με κοστούμι</string>
+	<key>⛄️</key>
+	<string>χιονάνθρωπος</string>
+	<key>🇬🇺</key>
+	<string>σημαία του Γκουάμ</string>
+	<key>🇨🇺</key>
+	<string>σημαία της Κούβας</string>
+	<key>#️⃣</key>
+	<string>σύμβολο αριθμού</string>
+	<key>🤼‍♂️</key>
+	<string>άντρες που παλεύουν</string>
+	<key>🌥️</key>
+	<string>ήλιος πίσω από μεγάλο σύννεφο</string>
+	<key>👁️</key>
+	<string>μάτι</string>
+	<key>🇨🇻</key>
+	<string>σημαία του Πράσινου Ακρωτηρίου</string>
+	<key>🍽️</key>
+	<string>πιρούνι και μαχαίρι με πιάτο</string>
+	<key>🇰🇼</key>
+	<string>σημαία του Κουβέιτ</string>
+	<key>🇸🇽</key>
+	<string>σημαία του Αγίου Μαρτίνου (Ολλανδικό τμήμα)</string>
+	<key>🇬🇼</key>
+	<string>σημαία της Γουινέας-Μπισάου</string>
+	<key>🏕️</key>
+	<string>κάμπινγκ</string>
+	<key>🩰</key>
+	<string>παπούτσια μπαλέτου</string>
+	<key>🇨🇼</key>
+	<string>σημαία του Κουρασάο</string>
+	<key>🩱</key>
+	<string>ολόσωμο μαγιό</string>
+	<key>🇸🇾</key>
+	<string>σημαία της Συρίας</string>
+	<key>♥️</key>
+	<string>κούπες (χαρτιά)</string>
+	<key>🩲</key>
+	<string>σλιπ</string>
+	<key>🕉️</key>
+	<string>σύμβολο Ομ</string>
+	<key>⚽️</key>
+	<string>μπάλα ποδοσφαίρου</string>
+	<key>🩳</key>
+	<string>σορτς</string>
+	<key>🇨🇽</key>
+	<string>σημαία της Νήσου των Χριστουγέννων</string>
+	<key>🩴</key>
+	<string>σαγιονάρα</string>
+	<key>🇰🇾</key>
+	<string>σημαία των Νήσων Κέιμαν</string>
+	<key>🇸🇿</key>
+	<string>σημαία του Εσουατίνι</string>
+	<key>🩵</key>
+	<string>γαλάζια καρδιά</string>
+	<key>👩‍👧‍👧</key>
+	<string>οικογένεια με μητέρα και δύο κόρες</string>
+	<key>🇬🇾</key>
+	<string>σημαία τς Γουιάνας</string>
+	<key>🩶</key>
+	<string>γκρι καρδιά</string>
+	<key>🩷</key>
+	<string>ροζ καρδιά</string>
+	<key>🇨🇾</key>
+	<string>σημαία της Κύπρου</string>
+	<key>🇰🇿</key>
+	<string>σημαία του Καζακστάν</string>
+	<key>🩸</key>
+	<string>σταγόνα αίματος</string>
+	<key>🩹</key>
+	<string>αυτοκόλλητος επίδεσμος</string>
+	<key>🩺</key>
+	<string>στηθοσκόπιο</string>
+	<key>🇨🇿</key>
+	<string>σημαία της Τσεχίας</string>
+	<key>🩻</key>
+	<string>Ακτινογραφία</string>
+	<key>🩼</key>
+	<string>πατερίτσα</string>
+	<key>🕶️</key>
+	<string>γυαλιά ηλίου</string>
+	<key>🧘‍♀️</key>
+	<string>γυναίκα στη στάση λωτού</string>
+	<key>⏯️</key>
+	<string>σύμβολο αναπαραγωγής/παύσης</string>
+	<key>🪀</key>
+	<string>γιο-γιο</string>
+	<key>🌧️</key>
+	<string>σύννεφο με βροχή</string>
+	<key>🪁</key>
+	<string>χαρταετός</string>
+	<key>🪂</key>
+	<string>αλεξίπτωτο</string>
+	<key>🧑‍🎤</key>
+	<string>τραγουδιστής</string>
+	<key>🪃</key>
+	<string>μπούμερανγκ</string>
+	<key>🪄</key>
+	<string>μαγικό ραβδί</string>
+	<key>🏗️</key>
+	<string>γερανός κατασκευής</string>
+	<key>🪅</key>
+	<string>πινιάτα</string>
+	<key>🪆</key>
+	<string>κούκλες ματριόσκα</string>
+	<key>🚴‍♀️</key>
+	<string>ποδηλάτισσα</string>
+	<key>🪇</key>
+	<string>μαράκες</string>
+	<key>🐀</key>
+	<string>αρουραίος</string>
+	<key>🪈</key>
+	<string>φλογέρα</string>
+	<key>🐁</key>
+	<string>ποντίκι</string>
+	<key>🐂</key>
+	<string>βόδι</string>
+	<key>🐃</key>
+	<string>νεροβούβαλος</string>
+	<key>🐄</key>
+	<string>αγελάδα</string>
+	<key>🅱️</key>
+	<string>ομάδα αίματος Β</string>
+	<key>🐅</key>
+	<string>τίγρης</string>
+	<key>🐆</key>
+	<string>λεοπάρδαλη</string>
+	<key>🐇</key>
+	<string>κουνέλι</string>
+	<key>🐈</key>
+	<string>γάτα</string>
+	<key>🪐</key>
+	<string>πλανήτης</string>
+	<key>♐️</key>
+	<string>Τοξότης</string>
+	<key>🐉</key>
+	<string>δράκος</string>
+	<key>🪑</key>
+	<string>καρέκλα</string>
+	<key>🕸️</key>
+	<string>ιστός αράχνης</string>
+	<key>🐊</key>
+	<string>κροκόδειλος</string>
+	<key>🪒</key>
+	<string>ξυράφι</string>
+	<key>👩‍🍳</key>
+	<string>μαγείρισσα</string>
+	<key>🐋</key>
+	<string>φάλαινα</string>
+	<key>👯‍♀️</key>
+	<string>χορεύτριες που φορούν λαγουδένια αυτιά</string>
+	<key>🪓</key>
+	<string>τσεκούρι</string>
+	<key>🐌</key>
+	<string>σαλιγκάρι</string>
+	<key>🪔</key>
+	<string>λάμπα diya</string>
+	<key>🐍</key>
+	<string>φίδι</string>
+	<key>🪕</key>
+	<string>μπάντζο</string>
+	<key>🏄‍♂️</key>
+	<string>άντρας σέρφερ</string>
+	<key>🌩️</key>
+	<string>σύννεφο με αστραπή</string>
+	<key>🐎</key>
+	<string>άλογο</string>
+	<key>🪖</key>
+	<string>στρατιωτικό κράνος</string>
+	<key>🐏</key>
+	<string>κριάρι</string>
+	<key>🪗</key>
+	<string>ακορντεόν</string>
+	<key>🐐</key>
+	<string>κατσίκα</string>
+	<key>🪘</key>
+	<string>ψηλό τύμπανο</string>
+	<key>👨‍🎤</key>
+	<string>τραγουδιστής</string>
+	<key>🏙️</key>
+	<string>περίγραμμα πόλης</string>
+	<key>🐑</key>
+	<string>πρόβατο</string>
+	<key>🪙</key>
+	<string>κέρμα</string>
+	<key>🐒</key>
+	<string>πίθηκος</string>
+	<key>🪚</key>
+	<string>πριόνι χειρός</string>
+	<key>♉️</key>
+	<string>Ταύρος</string>
+	<key>🐓</key>
+	<string>πετεινός</string>
+	<key>🪛</key>
+	<string>κατσαβίδι</string>
+	<key>⚡️</key>
+	<string>αστραπή</string>
+	<key>🐔</key>
+	<string>κοτόπουλο</string>
+	<key>🪜</key>
+	<string>σκάλα</string>
+	<key>⛹️</key>
+	<string>παίκτης μπάσκετ</string>
+	<key>🖥️</key>
+	<string>επιτραπέζιος υπολογιστής</string>
+	<key>🐕</key>
+	<string>σκύλος</string>
+	<key>🪝</key>
+	<string>γάντζος</string>
+	<key>🧑‍🎨</key>
+	<string>καλλιτέχνης</string>
+	<key>🐖</key>
+	<string>γουρούνι</string>
+	<key>🪞</key>
+	<string>καθρέπτης</string>
+	<key>🐗</key>
+	<string>αγριόχοιρος</string>
+	<key>🪟</key>
+	<string>παράθυρο</string>
+	<key>🐘</key>
+	<string>ελέφαντας</string>
+	<key>🙅‍♀️</key>
+	<string>γυναίκα που κάνει τη χειρονομία «όχι»</string>
+	<key>🪠</key>
+	<string>βεντούζα</string>
+	<key>🐙</key>
+	<string>χταπόδι</string>
+	<key>🪡</key>
+	<string>βελόνα ραπτικής</string>
+	<key>🐚</key>
+	<string>κοχύλι</string>
+	<key>🪢</key>
+	<string>κόμπος</string>
+	<key>🚣‍♀️</key>
+	<string>γυναίκα που κάνει κωπηλασία</string>
+	<key>🐛</key>
+	<string>έντομο</string>
+	<key>🪣</key>
+	<string>κουβάς</string>
+	<key>🐜</key>
+	<string>μυρμήγκι</string>
+	<key>🪤</key>
+	<string>ποντικοπαγίδα</string>
+	<key>🐝</key>
+	<string>μέλισσα</string>
+	<key>🪥</key>
+	<string>οδοντόβουρτσα</string>
+	<key>🐞</key>
+	<string>πασχαλίτσα</string>
+	<key>🪦</key>
+	<string>ταφόπλακα</string>
+	<key>⛲️</key>
+	<string>σιντριβάνι</string>
+	<key>🐟</key>
+	<string>ψάρι</string>
+	<key>🪧</key>
+	<string>σήμα</string>
+	<key>🐠</key>
+	<string>τροπικό ψάρι</string>
+	<key>🗒️</key>
+	<string>σπιράλ σημειωματάριο</string>
+	<key>🪨</key>
+	<string>πέτρα</string>
+	<key>🐡</key>
+	<string>νεφελόψαρο</string>
+	<key>🪩</key>
+	<string>μπάλα-καθρέπτης</string>
+	<key>🧖‍♂️</key>
+	<string>άντρας σε σάουνα</string>
+	<key>🌫️</key>
+	<string>ομίχλη</string>
+	<key>🐢</key>
+	<string>χελώνα</string>
+	<key>🪪</key>
+	<string>δελτίο ταυτότητας</string>
+	<key>🐣</key>
+	<string>εκκολαπτόμενος νεοσσός</string>
+	<key>🪫</key>
+	<string>χαμηλή μπαταρία</string>
+	<key>🐤</key>
+	<string>νεοσσός</string>
+	<key>🪬</key>
+	<string>χάμσα</string>
+	<key>🐥</key>
+	<string>όρθιος νεοσσός</string>
+	<key>😶‍🌫️</key>
+	<string>πρόσωπο στα σύννεφα</string>
+	<key>🏛️</key>
+	<string>κτήριο κλασικής αρχιτεκτονικής</string>
+	<key>🪭</key>
+	<string>αναδιπλούμενη βεντάλια</string>
+	<key>🐦</key>
+	<string>πουλί</string>
+	<key>🧛‍♀️</key>
+	<string>γυναίκα βαμπίρ</string>
+	<key>🪮</key>
+	<string>χτένι</string>
+	<key>🐧</key>
+	<string>πιγκουίνος</string>
+	<key>🪯</key>
+	<string>σύμβολο khanda</string>
+	<key>🐨</key>
+	<string>πρόσωπο κοάλα</string>
+	<key>⚓️</key>
+	<string>άγκυρα</string>
+	<key>🪰</key>
+	<string>μύγα</string>
+	<key>🐩</key>
+	<string>πουντλ</string>
+	<key>🪱</key>
+	<string>σκουλήκι</string>
+	<key>🐪</key>
+	<string>καμήλα</string>
+	<key>🪲</key>
+	<string>σκαθάρι</string>
+	<key>👨‍🎨</key>
+	<string>καλλιτέχνης</string>
+	<key>🐫</key>
+	<string>καμήλα με δύο καμπούρες</string>
+	<key>🪳</key>
+	<string>κατσαρίδα</string>
+	<key>🐬</key>
+	<string>δελφίνι</string>
+	<key>🪴</key>
+	<string>φυτό σε γλάστρα</string>
+	<key>🐭</key>
+	<string>πρόσωπο ποντικιού</string>
+	<key>🪵</key>
+	<string>ξύλο</string>
+	<key>🐮</key>
+	<string>πρόσωπο αγελάδας</string>
+	<key>🪶</key>
+	<string>φτερό</string>
+	<key>🐯</key>
+	<string>πρόσωπο τίγρη</string>
+	<key>🪷</key>
+	<string>λωτός</string>
+	<key>🐕‍🦺</key>
+	<string>σκύλος-βοηθός</string>
+	<key>🐰</key>
+	<string>πρόσωπο κουνελιού</string>
+	<key>🪸</key>
+	<string>κοράλλι</string>
+	<key>🐱</key>
+	<string>πρόσωπο γάτας</string>
+	<key>🪹</key>
+	<string>άδεια φωλιά</string>
+	<key>🐲</key>
+	<string>κεφάλι δράκου</string>
+	<key>🪺</key>
+	<string>φωλιά με αυγά</string>
+	<key>🐳</key>
+	<string>φάλαινα που εκτοξεύει νερό</string>
+	<key>🪻</key>
+	<string>υάκινθος</string>
+	<key>🐴</key>
+	<string>κεφάλι αλόγου</string>
+	<key>🪼</key>
+	<string>μέδουσα</string>
+	<key>🐵</key>
+	<string>πρόσωπο πιθήκου</string>
+	<key>🪽</key>
+	<string>φτερό</string>
+	<key>🐶</key>
+	<string>πρόσωπο σκύλου</string>
+	<key>🐷</key>
+	<string>πρόσωπο χοίρου</string>
+	<key>🪿</key>
+	<string>χήνα</string>
+	<key>🐸</key>
+	<string>πρόσωπο βατράχου</string>
+	<key>🫀</key>
+	<string>ανατομική καρδιά</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>σημαία της Αγγλίας</string>
+	<key>🐹</key>
+	<string>πρόσωπο χάμστερ</string>
+	<key>🫁</key>
+	<string>πνεύμονες</string>
+	<key>🐺</key>
+	<string>λύκος</string>
+	<key>🏝️</key>
+	<string>ερημονήσι</string>
+	<key>🫂</key>
+	<string>άτομα που αγκαλιάζονται</string>
+	<key>🐻</key>
+	<string>πρόσωπο αρκούδας</string>
+	<key>🏌️‍♂️</key>
+	<string>άντρας γκόλφερ</string>
+	<key>🫃</key>
+	<string>έγκυος άντρας</string>
+	<key>🐼</key>
+	<string>πρόσωπο πάντα</string>
+	<key>🫄</key>
+	<string>έγκυο άτομο</string>
+	<key>6️⃣</key>
+	<string>πλήκτρο με τον αριθμό έξι</string>
+	<key>🐽</key>
+	<string>μουσούδα χοίρου</string>
+	<key>🫅</key>
+	<string>άτομο με στέμμα</string>
+	<key>🐾</key>
+	<string>αποτυπώματα πατούσας ζώου</string>
+	<key>👀</key>
+	<string>μάτια</string>
+	<key>👂</key>
+	<string>αυτί</string>
+	<key>👃</key>
+	<string>μύτη</string>
+	<key>👄</key>
+	<string>στόμα</string>
+	<key>👅</key>
+	<string>γλώσσα</string>
+	<key>☦️</key>
+	<string>Ορθόδοξος σταυρός</string>
+	<key>👆</key>
+	<string>εξωτερική πλευρά χεριού με τον δείκτη να δείχνει προς τα πάνω</string>
+	<key>👩‍🍼</key>
+	<string>γυναίκα που ταΐζει ένα μωρό</string>
+	<key>🫎</key>
+	<string>πρόσωπο άλκης</string>
+	<key>♾️</key>
+	<string>άπειρο</string>
+	<key>👇</key>
+	<string>εξωτερική πλευρά χεριού με τον δείκτη να δείχνει προς τα κάτω</string>
+	<key>🫏</key>
+	<string>γάιδαρος</string>
+	<key>👈</key>
+	<string>εξωτερική πλευρά χεριού με τον δείκτη να δείχνει προς τα αριστερά</string>
+	<key>🫐</key>
+	<string>μύρτιλα</string>
+	<key>👉</key>
+	<string>εξωτερική πλευρά χεριού με τον δείκτη να δείχνει προς τα δεξιά</string>
+	<key>🫑</key>
+	<string>πιπεριά</string>
+	<key>👊</key>
+	<string>κλειστή γροθιά</string>
+	<key>🫒</key>
+	<string>ελιά</string>
+	<key>⭕️</key>
+	<string>σημάδι κύκλου</string>
+	<key>💁‍♂️</key>
+	<string>άντρας υπάλληλος γραφείου πληροφοριών</string>
+	<key>👋</key>
+	<string>χέρι που χαιρετά</string>
+	<key>🫓</key>
+	<string>αραβική πίτα</string>
+	<key>👌</key>
+	<string>σήμα χεριού «OK»</string>
+	<key>🫔</key>
+	<string>τυλιχτό ταμάλες</string>
+	<key>👍</key>
+	<string>αντίχειρας πάνω</string>
+	<key>🫕</key>
+	<string>φοντί</string>
+	<key>👎</key>
+	<string>αντίχειρας κάτω</string>
+	<key>🫖</key>
+	<string>τσαγιέρα</string>
+	<key>🏟️</key>
+	<string>στάδιο</string>
+	<key>👏</key>
+	<string>χέρια που χτυπούν παλαμάκια</string>
+	<key>🫗</key>
+	<string>υγρό που χύνεται</string>
+	<key>💆‍♀️</key>
+	<string>γυναίκα που της κάνουν μασάζ στο κεφάλι</string>
+	<key>👐</key>
+	<string>ανοιχτά χέρια</string>
+	<key>🫘</key>
+	<string>φασόλια</string>
+	<key>🐦‍⬛</key>
+	<string>μαύρο πτηνό</string>
+	<key>🧑‍🦯</key>
+	<string>άτομο με λευκό μπαστούνι</string>
+	<key>🫙</key>
+	<string>βαζάκι</string>
+	<key>🧙‍♂️</key>
+	<string>μάγος</string>
+	<key>👑</key>
+	<string>στέμμα</string>
+	<key>⛏️</key>
+	<string>αξίνα</string>
+	<key>👒</key>
+	<string>καπέλο με φιόγκο</string>
+	<key>🫚</key>
+	<string>πιπερόριζα</string>
+	<key>👓</key>
+	<string>γυαλιά</string>
+	<key>🫛</key>
+	<string>κέλυφος μπιζελιού</string>
+	<key>👔</key>
+	<string>πουκάμισο και γραβάτα</string>
+	<key>👕</key>
+	<string>μπλουζάκι πόλο</string>
+	<key>👖</key>
+	<string>τζιν</string>
+	<key>🧞‍♀️</key>
+	<string>γυναίκα τζίνι</string>
+	<key>👗</key>
+	<string>φόρεμα</string>
+	<key>↙️</key>
+	<string>βέλος κάτω-αριστερά</string>
+	<key>🧑‍🦰</key>
+	<string>άτομο με κόκκινα μαλλιά</string>
+	<key>🕵️‍♂️</key>
+	<string>άντρας ντετέκτιβ</string>
+	<key>👘</key>
+	<string>κιμονό</string>
+	<key>🟠</key>
+	<string>πορτοκαλί κύκλος</string>
+	<key>🫠</key>
+	<string>πρόσωπο που λιώνει</string>
+	<key>🟡</key>
+	<string>κίτρινος κύκλος</string>
+	<key>👩‍❤️‍👨</key>
+	<string>άντρας και γυναίκα με καρδιά</string>
+	<key>👙</key>
+	<string>μπικίνι</string>
+	<key>◀️</key>
+	<string>τρίγωνο που δείχνει προς τα αριστερά</string>
+	<key>🫡</key>
+	<string>πρόσωπο που χαιρετά στρατιωτικά</string>
+	<key>🟢</key>
+	<string>πράσινος κύκλος</string>
+	<key>👚</key>
+	<string>μπλούζα</string>
+	<key>☘️</key>
+	<string>τριφύλλι</string>
+	<key>🫢</key>
+	<string>πρόσωπο με ανοιχτά μάτια και με το χέρι πάνω στο στόμα</string>
+	<key>🚵‍♂️</key>
+	<string>ορεινός ποδηλάτης</string>
+	<key>🟣</key>
+	<string>μοβ κύκλος</string>
+	<key>👛</key>
+	<string>γυναικεία τσάντα</string>
+	<key>🫣</key>
+	<string>πρόσωπο με μάτι που κρυφοκοιτά</string>
+	<key>🟤</key>
+	<string>καφέ κύκλος</string>
+	<key>👜</key>
+	<string>τσάντα</string>
+	<key>⛈️</key>
+	<string>σύννεφο με αστραπή και βροχή</string>
+	<key>🫤</key>
+	<string>πρόσωπο με διαγώνιο στόμα</string>
+	<key>🟥</key>
+	<string>κόκκινο τετράγωνο</string>
+	<key>👝</key>
+	<string>τσαντάκι</string>
+	<key>🫥</key>
+	<string>πρόσωπο με διάστικτες γραμμές</string>
+	<key>🟦</key>
+	<string>μπλε τετράγωνο</string>
+	<key>👞</key>
+	<string>επίσημο παπούτσι</string>
+	<key>🧑‍🦱</key>
+	<string>άτομο με σγουρά μαλλιά</string>
+	<key>🫦</key>
+	<string>στόμα που δαγκώνει το χείλος</string>
+	<key>🟧</key>
+	<string>πορτοκαλί τετράγωνο</string>
+	<key>🦹‍♀️</key>
+	<string>υπερκακή</string>
+	<key>👟</key>
+	<string>παπούτσι τένις</string>
+	<key>🫧</key>
+	<string>φυσαλίδες</string>
+	<key>🟨</key>
+	<string>κίτρινο τετράγωνο</string>
+	<key>❤️‍🔥</key>
+	<string>φλεγόμενη καρδιά</string>
+	<key>👠</key>
+	<string>ψηλοτάκουνο παπούτσι</string>
+	<key>🟩</key>
+	<string>πράσινο τετράγωνο</string>
+	<key>🫨</key>
+	<string>τρεμάμενο πρόσωπο</string>
+	<key>👡</key>
+	<string>πέδιλο με τακούνι</string>
+	<key>🟪</key>
+	<string>μοβ τετράγωνο</string>
+	<key>👢</key>
+	<string>μπότες με τακούνι</string>
+	<key>🟫</key>
+	<string>καφέ τετράγωνο</string>
+	<key>👣</key>
+	<string>πατημασιές</string>
+	<key>🛠️</key>
+	<string>σφυρί και γαλλικό κλειδί</string>
+	<key>📽️</key>
+	<string>προβολέας ταινιών</string>
+	<key>👤</key>
+	<string>περίγραμμα ατόμου</string>
+	<key>☑️</key>
+	<string>κάλπη με σημάδι επιλογής</string>
+	<key>🧑‍🦲</key>
+	<string>άτομο χωρίς μαλλιά</string>
+	<key>👥</key>
+	<string>περίγραμμα δύο ατόμων</string>
+	<key>👦</key>
+	<string>αγόρι</string>
+	<key>👨‍🦯</key>
+	<string>άντρας με λευκό μπαστούνι</string>
+	<key>👧</key>
+	<string>κορίτσι</string>
+	<key>👰‍♂️</key>
+	<string>άντρας με πέπλο</string>
+	<key>👩‍🚀</key>
+	<string>αστροναύτισσα</string>
+	<key>🟰</key>
+	<string>σύμβολο ίσον</string>
+	<key>🏴‍☠️</key>
+	<string>πειρατική σημαία</string>
+	<key>👨</key>
+	<string>άντρας</string>
+	<key>🫰</key>
+	<string>χέρι με σταυρωμένο τον δείκτη και τον αντίχειρα</string>
+	<key>⏺️</key>
+	<string>σύμβολο εγγραφής</string>
+	<key>👩</key>
+	<string>γυναίκα</string>
+	<key>🫱</key>
+	<string>χέρι γυρισμένο προς τα δεξιά</string>
+	<key>👪</key>
+	<string>οικογένεια</string>
+	<key>🫲</key>
+	<string>χέρι γυρισμένο προς τα αριστερά</string>
+	<key>👫</key>
+	<string>άντρας και γυναίκα χεράκι-χεράκι</string>
+	<key>🫳</key>
+	<string>χέρι με την παλάμη γυρισμένη προς τα κάτω</string>
+	<key>🧑‍🦳</key>
+	<string>άτομο με άσπρα μαλλιά</string>
+	<key>👬</key>
+	<string>δύο άντρες χεράκι-χεράκι</string>
+	<key>🫴</key>
+	<string>χέρι με την παλάμη γυρισμένη προς τα πάνω</string>
+	<key>👭</key>
+	<string>δύο γυναίκες χεράκι-χεράκι</string>
+	<key>👨‍🦰</key>
+	<string>άντρας με κόκκινα μαλλιά</string>
+	<key>🫵</key>
+	<string>δείκτης που δείχνει προς τον χρήστη</string>
+	<key>👮</key>
+	<string>αστυνομικός</string>
+	<key>🏊‍♂️</key>
+	<string>κολυμβητής</string>
+	<key>🫶</key>
+	<string>χέρια σε σχήμα καρδιάς</string>
+	<key>👯</key>
+	<string>άτομα που χορεύουν και φορούν λαγουδένια αυτιά</string>
+	<key>🫷</key>
+	<string>χέρι που σπρώχνει προς τα αριστερά</string>
+	<key>👰</key>
+	<string>άτομο με πέπλο</string>
+	<key>🫸</key>
+	<string>χέρι που σπρώχνει προς τα δεξιά</string>
+	<key>👱</key>
+	<string>άτομο με ξανθά μαλλιά</string>
+	<key>✒️</key>
+	<string>πένα</string>
+	<key>👲</key>
+	<string>άντρας με κινέζικο καπέλο</string>
+	<key>🧍‍♀️</key>
+	<string>γυναίκα που στέκεται όρθια</string>
+	<key>👳</key>
+	<string>άτομο με τουρμπάνι</string>
+	<key>👨‍🦱</key>
+	<string>άντρας με σγουρά μαλλιά</string>
+	<key>👴</key>
+	<string>ηλικιωμένος άντρας</string>
+	<key>🙆‍♂️</key>
+	<string>άντρας που κάνει τη χειρονομία «ΟΚ»</string>
+	<key>👵</key>
+	<string>ηλικιωμένη γυναίκα</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>οικογένεια με μητέρα, πατέρα, γιο και κόρη</string>
+	<key>👶</key>
+	<string>μωρό</string>
+	<key>👷</key>
+	<string>οικοδόμος</string>
+	<key>▫️</key>
+	<string>μικρό λευκό τετράγωνο</string>
+	<key>👸</key>
+	<string>πριγκίπισσα</string>
+	<key>🛢️</key>
+	<string>βαρέλι πετρελαίου</string>
+	<key>☃️</key>
+	<string>χιονάνθρωπος με χιονονιφάδες</string>
+	<key>👹</key>
+	<string>τέρας</string>
+	<key>🙋‍♀️</key>
+	<string>γυναίκα που σηκώνει ένα χέρι</string>
+	<key>👺</key>
+	<string>καλικάντζαρος</string>
+	<key>👨‍🦲</key>
+	<string>άντρας χωρίς μαλλιά</string>
+	<key>🇹🇦</key>
+	<string>σημαία του Τριστάν ντα Κούνια</string>
+	<key>👻</key>
+	<string>φάντασμα</string>
+	<key>🇵🇦</key>
+	<string>σημαία του Παναμά</string>
+	<key>👼</key>
+	<string>αγγελάκι</string>
+	<key>❣️</key>
+	<string>κόκκινη καρδιά ως θαυμαστικό</string>
+	<key>👽</key>
+	<string>εξωγήινος</string>
+	<key>🇱🇦</key>
+	<string>σημαία του Λάος</string>
+	<key>👾</key>
+	<string>εξωγήινο τέρας</string>
+	<key>👿</key>
+	<string>νευριασμένο πρόσωπο με κέρατα</string>
+	<key>💀</key>
+	<string>κρανίο</string>
+	<key>🇱🇧</key>
+	<string>σημαία του Λιβάνου</string>
+	<key>👨‍🦳</key>
+	<string>άντρας με άσπρα μαλλιά</string>
+	<key>💁</key>
+	<string>υπάλληλος γραφείου πληροφοριών</string>
+	<key>🇹🇨</key>
+	<string>σημαία των Νήσων Τερκς και Κέικος</string>
+	<key>🧜‍♂️</key>
+	<string>γοργόνος</string>
+	<key>💂</key>
+	<string>φρουρός</string>
+	<key>💃</key>
+	<string>γυναίκα που χορεύει</string>
+	<key>◼️</key>
+	<string>μεσαίο μαύρο τετράγωνο</string>
+	<key>🇱🇨</key>
+	<string>σημαία της Αγίας Λουκίας</string>
+	<key>💄</key>
+	<string>κραγιόν</string>
+	<key>🇹🇩</key>
+	<string>σημαία του Τσαντ</string>
+	<key>💅</key>
+	<string>βερνίκι νυχιών</string>
+	<key>💆</key>
+	<string>άτομο που του κάνουν μασάζ στο κεφάλι</string>
+	<key>💇</key>
+	<string>άτομο που κουρεύεται</string>
+	<key>🗜️</key>
+	<string>σφιγκτήρας</string>
+	<key>💈</key>
+	<string>στύλος μπαρμπέρη</string>
+	<key>💉</key>
+	<string>σύριγγα</string>
+	<key>🇵🇪</key>
+	<string>σημαία του Περού</string>
+	<key>💊</key>
+	<string>χάπι</string>
+	<key>💋</key>
+	<string>σημάδι φιλιού</string>
+	<key>🇹🇫</key>
+	<string>σημαία των Γαλλικών Νότιων Εδαφών</string>
+	<key>💌</key>
+	<string>ερωτική επιστολή</string>
+	<key>👩‍❤️‍👩</key>
+	<string>δύο γυναίκες με καρδιά</string>
+	<key>🇵🇫</key>
+	<string>σημαία της Γαλλικής Πολυνησίας</string>
+	<key>🛤️</key>
+	<string>σιδηροτροχιά</string>
+	<key>💍</key>
+	<string>δαχτυλίδι</string>
+	<key>🆎</key>
+	<string>ομάδα αίματος ΑΒ</string>
+	<key>🇩🇪</key>
+	<string>σημαία της Γερμανίας</string>
+	<key>🈂️</key>
+	<string>ιαπωνικό σήμα που σημαίνει «κουβέρ» ή «φιλοδώρημα»</string>
+	<key>💎</key>
+	<string>πολύτιμος λίθος</string>
+	<key>♍️</key>
+	<string>Παρθένος</string>
+	<key>🇹🇬</key>
+	<string>σημαία του Τόγκο</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>δύο γυναίκες που φιλιούνται</string>
+	<key>💏</key>
+	<string>ζευγάρι που φιλιέται</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>άτομα χεράκι-χεράκι</string>
+	<key>💐</key>
+	<string>μπουκέτο</string>
+	<key>⛽️</key>
+	<string>αντλία καυσίμων</string>
+	<key>🇵🇬</key>
+	<string>σημαία της Παπούας Νέας Γουινέας</string>
+	<key>🖱️</key>
+	<string>ποντίκι υπολογιστή</string>
+	<key>🆑</key>
+	<string>Υπογραφή CL</string>
+	<key>💑</key>
+	<string>ζευγάρι με καρδιά</string>
+	<key>🆒</key>
+	<string>πινακίδα «cool»</string>
+	<key>🇹🇭</key>
+	<string>σημαία της Ταϊλάνδης</string>
+	<key>💒</key>
+	<string>γάμος</string>
+	<key>🆓</key>
+	<string>σήμα «Free» (Δωρεάν)</string>
+	<key>💓</key>
+	<string>παλλόμενη καρδιά</string>
+	<key>🆔</key>
+	<string>σήμα αναγνώρισης</string>
+	<key>🇵🇭</key>
+	<string>σημαία των Φιλιππίνων</string>
+	<key>👩‍⚖️</key>
+	<string>γυναίκα δικαστής</string>
+	<key>💔</key>
+	<string>ραγισμένη καρδιά</string>
+	<key>🇩🇬</key>
+	<string>σημαία της Ντιέγκο Γκαρσία</string>
+	<key>🆕</key>
+	<string>πινακίδα «new»</string>
+	<key>🅿️</key>
+	<string>σύμβολο στάθμευσης</string>
+	<key>💕</key>
+	<string>δύο καρδιές</string>
+	<key>🤹‍♀️</key>
+	<string>γυναίκα που κάνει ζογκλερικά</string>
+	<key>🆖</key>
+	<string>σήμα «μη αποδεκτό»</string>
+	<key>💖</key>
+	<string>απαστράπτουσα καρδιά</string>
+	<key>🆗</key>
+	<string>σήμα «ΟΚ»</string>
+	<key>💗</key>
+	<string>καρδιά που μεγαλώνει</string>
+	<key>👳‍♂️</key>
+	<string>άντρας με τουρμπάνι</string>
+	<key>🆘</key>
+	<string>Σήμα SOS</string>
+	<key>💘</key>
+	<string>καρδιά με βέλος</string>
+	<key>🇱🇮</key>
+	<string>σημαία του Λιχτενστάιν</string>
+	<key>🆙</key>
+	<string>σήμα «UP» (Πάνω)</string>
+	<key>🈯️</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «ρεζερβέ»</string>
+	<key>🇹🇯</key>
+	<string>σημαία του Τατζικιστάν</string>
+	<key>💙</key>
+	<string>μπλε καρδιά</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>οικογένεια με δύο πατέρες και δύο γιους</string>
+	<key>🆚</key>
+	<string>VS (εναντίον) σε τετράγωνο</string>
+	<key>💚</key>
+	<string>πράσινη καρδιά</string>
+	<key>🇽🇰</key>
+	<string>σημαία του Κοσσυφοπεδίου</string>
+	<key>💛</key>
+	<string>κίτρινη καρδιά</string>
+	<key>🗞️</key>
+	<string>τυλιγμένη εφημερίδα</string>
+	<key>💜</key>
+	<string>μοβ καρδιά</string>
+	<key>🇹🇰</key>
+	<string>σημαία του Τοκελάου</string>
+	<key>💝</key>
+	<string>καρδιά με κορδέλα</string>
+	<key>🇵🇰</key>
+	<string>σημαία του Πακιστάν</string>
+	<key>💞</key>
+	<string>περιστρεφόμενες καρδιές</string>
+	<key>🇩🇯</key>
+	<string>σημαία του Τζιμπουτί</string>
+	<key>💟</key>
+	<string>διακοσμητικό καρδιάς</string>
+	<key>🇱🇰</key>
+	<string>σημαία της Σρι Λάνκα</string>
+	<key>🇹🇱</key>
+	<string>σημαία του Τιμόρ-Λέστε</string>
+	<key>👩‍🤝‍👨</key>
+	<string>γυναίκα και άντρας χεράκι-χεράκι</string>
+	<key>💠</key>
+	<string>σχήμα διαμαντιού με τελίτσα</string>
+	<key>🇭🇰</key>
+	<string>σημαία του Χονγκ Κονγκ</string>
+	<key>💡</key>
+	<string>λαμπτήρας</string>
+	<key>🇵🇱</key>
+	<string>σημαία της Πολωνίας</string>
+	<key>🇩🇰</key>
+	<string>σημαία της Δανίας</string>
+	<key>💢</key>
+	<string>σύμβολο θυμού</string>
+	<key>🇹🇲</key>
+	<string>σημαία του Τουρκμενιστάν</string>
+	<key>💣</key>
+	<string>βόμβα</string>
+	<key>⚗️</key>
+	<string>αποστακτήρας</string>
+	<key>💤</key>
+	<string>σήμα ύπνου</string>
+	<key>🇵🇲</key>
+	<string>σημαία του Σεν Πιερ και Μικελόν</string>
+	<key>💥</key>
+	<string>έκρηξη</string>
+	<key>❇️</key>
+	<string>λάμψη</string>
+	<key>💦</key>
+	<string>σταγόνες νερού</string>
+	<key>🇹🇳</key>
+	<string>σημαία της Τυνησίας</string>
+	<key>🧑‍🦼</key>
+	<string>άτομο σε ηλεκτροκίνητο αναπηρικό αμαξίδιο</string>
+	<key>💧</key>
+	<string>σταγονίδιο</string>
+	<key>🇭🇲</key>
+	<string>σημαία των Νήσων Χερντ και Μακντόναλντ</string>
+	<key>🇵🇳</key>
+	<string>σημαία του Πίτκερν</string>
+	<key>💨</key>
+	<string>ριπή ανέμου</string>
+	<key>🇩🇲</key>
+	<string>σημαία της Ντομίνικας</string>
+	<key>💩</key>
+	<string>σωρός από κόπρανα</string>
+	<key>🙎‍♀️</key>
+	<string>κατσουφιασμένη γυναίκα</string>
+	<key>🇹🇴</key>
+	<string>σημαία της Τόνγκα</string>
+	<key>💪</key>
+	<string>δικέφαλος σε κάμψη</string>
+	<key>🇭🇳</key>
+	<string>σημαία της Ονδούρας</string>
+	<key>👩‍👦</key>
+	<string>οικογένεια με μητέρα και γιο</string>
+	<key>💫</key>
+	<string>σύμβολο ζαλάδας</string>
+	<key>💇‍♂️</key>
+	<string>άντρας που κουρεύεται</string>
+	<key>💬</key>
+	<string>συννεφάκι ομιλίας</string>
+	<key>☸️</key>
+	<string>τροχός του Ντάρμα</string>
+	<key>💭</key>
+	<string>συννεφάκι σκέψης</string>
+	<key>🧑‍🦽</key>
+	<string>άτομο σε χειροκίνητο αναπηρικό αμαξίδιο</string>
+	<key>💮</key>
+	<string>λευκό λουλούδι</string>
+	<key>💯</key>
+	<string>σύμβολο εκατό πόντων</string>
+	<key>🇩🇴</key>
+	<string>σημαία της Δομινικανής Δημοκρατίας</string>
+	<key>💰</key>
+	<string>σάκος χρημάτων</string>
+	<key>💱</key>
+	<string>συνάλλαγμα</string>
+	<key>😵‍💫</key>
+	<string>πρόσωπο με ελικοειδή μάτια</string>
+	<key>👩‍👧</key>
+	<string>οικογένεια με μητέρα και κόρη</string>
+	<key>🧟‍♂️</key>
+	<string>άντρας ζόμπι</string>
+	<key>💲</key>
+	<string>σύμβολο δολαρίου</string>
+	<key>💳</key>
+	<string>πιστωτική κάρτα</string>
+	<key>🇹🇷</key>
+	<string>σημαία της Τουρκίας</string>
+	<key>💴</key>
+	<string>χαρτονομίσματα γιέν</string>
+	<key>💵</key>
+	<string>χαρτονομίσματα δολαρίου</string>
+	<key>🇵🇷</key>
+	<string>σημαία του Πουέρτο Ρίκο</string>
+	<key>💶</key>
+	<string>χαρτονομίσματα ευρώ</string>
+	<key>🇱🇷</key>
+	<string>σημαία της Λιβερίας</string>
+	<key>💷</key>
+	<string>χαρτονομίσματα λίρας</string>
+	<key>💸</key>
+	<string>χρήματα με φτερά</string>
+	<key>🇭🇷</key>
+	<string>σημαία της Κροατίας</string>
+	<key>🇵🇸</key>
+	<string>σημαία των Παλαιστινιακών Εδαφών</string>
+	<key>💹</key>
+	<string>γράφημα με ανοδική ροή και σύμβολο γιέν</string>
+	<key>💺</key>
+	<string>κάθισμα</string>
+	<key>🇱🇸</key>
+	<string>σημαία του Λεσότο</string>
+	<key>🇹🇹</key>
+	<string>σημαία του Τρινιντάντ και Τομπάγκο</string>
+	<key>💻</key>
+	<string>φορητός υπολογιστής</string>
+	<key>💼</key>
+	<string>χαρτοφύλακας</string>
+	<key>👨‍🦼</key>
+	<string>άντρας σε ηλεκτροκίνητο αναπηρικό αμαξίδιο</string>
+	<key>🇵🇹</key>
+	<string>σημαία της Πορτογαλίας</string>
+	<key>💽</key>
+	<string>μίνι δίσκος</string>
+	<key>🇱🇹</key>
+	<string>σημαία της Λιθουανίας</string>
+	<key>💾</key>
+	<string>δισκέτα</string>
+	<key>🇭🇹</key>
+	<string>σημαία της Αϊτής</string>
+	<key>💿</key>
+	<string>cd</string>
+	<key>📀</key>
+	<string>dvd</string>
+	<key>🤷‍♂️</key>
+	<string>άντρας που σηκώνει τους ώμους</string>
+	<key>📁</key>
+	<string>κλειστός φάκελος αρχείων</string>
+	<key>🇱🇺</key>
+	<string>σημαία του Λουξεμβούργου</string>
+	<key>☪️</key>
+	<string>αστέρι και μηνίσκος</string>
+	<key>🇹🇻</key>
+	<string>σημαία της Τουβαλού</string>
+	<key>📂</key>
+	<string>ανοιχτός φάκελος αρχείων</string>
+	<key>4️⃣</key>
+	<string>πλήκτρο με τον αριθμό τέσσερα</string>
+	<key>🇭🇺</key>
+	<string>σημαία της Ουγγαρίας</string>
+	<key>👨‍🦽</key>
+	<string>άντρας σε χειροκίνητο αναπηρικό αμαξίδιο</string>
+	<key>📃</key>
+	<string>ζαρωμένη σελίδα</string>
+	<key>🖊️</key>
+	<string>στιλό διαρκείας</string>
+	<key>📄</key>
+	<string>σελίδα προς τα επάνω</string>
+	<key>🇱🇻</key>
+	<string>σημαία της Λετονίας</string>
+	<key>🇹🇼</key>
+	<string>σημαία της Ταϊβάν</string>
+	<key>📅</key>
+	<string>ημερολόγιο</string>
+	<key>🤼‍♀️</key>
+	<string>γυναίκες που παλεύουν</string>
+	<key>📆</key>
+	<string>ημερολόγιο με σελίδες που σκίζονται</string>
+	<key>🇵🇼</key>
+	<string>σημαία του Παλάου</string>
+	<key>📇</key>
+	<string>ευρετήριο καρτών</string>
+	<key>📈</key>
+	<string>γράφημα με ανοδική τάση</string>
+	<key>🧑‍🔧</key>
+	<string>μηχανικός</string>
+	<key>📉</key>
+	<string>γράφημα με καθοδική τάση</string>
+	<key>〰️</key>
+	<string>κυματιστή παύλα</string>
+	<key>📊</key>
+	<string>γράφημα ράβδων</string>
+	<key>📋</key>
+	<string>πρόχειρο</string>
+	<key>☣️</key>
+	<string>βιολογικός κίνδυνος</string>
+	<key>📌</key>
+	<string>πινέζα</string>
+	<key>♻️</key>
+	<string>σύμβολο ανακύκλωσης</string>
+	<key>📍</key>
+	<string>στρογγυλή πινέζα</string>
+	<key>🇵🇾</key>
+	<string>σημαία της Παραγουάης</string>
+	<key>⛓️</key>
+	<string>αλυσίδες</string>
+	<key>📎</key>
+	<string>συνδετήρας</string>
+	<key>🧎‍♂️</key>
+	<string>άντρας που γονατίζει</string>
+	<key>🇱🇾</key>
+	<string>σημαία της Λιβύης</string>
+	<key>📏</key>
+	<string>χάρακας</string>
+	<key>🇹🇿</key>
+	<string>σημαία της Τανζανίας</string>
+	<key>📐</key>
+	<string>τρίγωνος χάρακας</string>
+	<key>📑</key>
+	<string>σελιδοδείκτες</string>
+	<key>📒</key>
+	<string>λογιστικό φύλλο</string>
+	<key>📓</key>
+	<string>σημειωματάριο συνθέσεων</string>
+	<key>👩‍🤝‍👩</key>
+	<string>γυναίκες χεράκι-χεράκι</string>
+	<key>📔</key>
+	<string>σημειωματάριο με διακοσμητικό κάλυμμα</string>
+	<key>🇩🇿</key>
+	<string>σημαία της Αλγερίας</string>
+	<key>📕</key>
+	<string>κόκκινο βιβλίο</string>
+	<key>📖</key>
+	<string>ανοιχτό βιβλίο</string>
+	<key>📗</key>
+	<string>πράσινο βιβλίο</string>
+	<key>🖌️</key>
+	<string>βούρτσα</string>
+	<key>📘</key>
+	<string>μπλε βιβλίο</string>
+	<key>📙</key>
+	<string>πορτοκαλί βιβλίο</string>
+	<key>👩‍👩‍👦</key>
+	<string>οικογένεια με δύο μητέρες και γιο</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>οικογένεια με δύο πατέρες και δύο κόρες</string>
+	<key>📚</key>
+	<string>βιβλία</string>
+	<key>📛</key>
+	<string>ταμπέλα ονόματος</string>
+	<key>📜</key>
+	<string>περγαμηνή</string>
+	<key>📝</key>
+	<string>σημείωμα</string>
+	<key>↖️</key>
+	<string>βέλος πάνω-αριστερά</string>
+	<key>🤦‍♂️</key>
+	<string>άντρας με παλάμη στο πρόσωπο</string>
+	<key>📞</key>
+	<string>ακουστικό τηλεφώνου</string>
+	<key>👩‍🎓</key>
+	<string>μαθήτρια</string>
+	<key>👩‍🚒</key>
+	<string>πυροσβέστρια</string>
+	<key>⤴️</key>
+	<string>δεξί βέλος που γέρνει προς τα πάνω</string>
+	<key>👨‍🔧</key>
+	<string>άντρας μηχανικός</string>
+	<key>📟</key>
+	<string>βομβητής</string>
+	<key>☕️</key>
+	<string>ζεστό ρόφημα</string>
+	<key>📠</key>
+	<string>φαξ</string>
+	<key>📡</key>
+	<string>δορυφορική κεραία</string>
+	<key>⛅️</key>
+	<string>ήλιος πίσω από σύννεφο</string>
+	<key>📢</key>
+	<string>τηλεβόας</string>
+	<key>🧑‍🌾</key>
+	<string>αγρότης</string>
+	<key>✝️</key>
+	<string>Λατινικός σταυρός</string>
+	<key>📣</key>
+	<string>μεγάφωνο</string>
+	<key>📤</key>
+	<string>συρτάρι εξερχόμενων</string>
+	<key>📥</key>
+	<string>συρτάρι εισερχόμενων</string>
+	<key>📦</key>
+	<string>πακέτο</string>
+	<key>📧</key>
+	<string>email</string>
+	<key>📨</key>
+	<string>εισερχόμενος φάκελος</string>
+	<key>📩</key>
+	<string>φάκελος με βέλος</string>
+	<key>▶️</key>
+	<string>τρίγωνο που δείχνει προς τα δεξιά</string>
+	<key>🧑‍🔬</key>
+	<string>επιστήμονας</string>
+	<key>📪</key>
+	<string>κλειστό γραμματοκιβώτιο με κατεβασμένο σημαιάκι</string>
+	<key>☎️</key>
+	<string>τηλέφωνο</string>
+	<key>🈷️</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «μηνιαίο ποσό»</string>
+	<key>♦️</key>
+	<string>καρό (χαρτιά)</string>
+	<key>📫</key>
+	<string>κλειστό γραμματοκιβώτιο με ανεβασμένο σημαιάκι</string>
+	<key>📬</key>
+	<string>ανοιχτό γραμματοκιβώτιο με σηκωμένο σημαιάκι</string>
+	<key>⚾️</key>
+	<string>μπέιζμπολ</string>
+	<key>📭</key>
+	<string>ανοιχτό γραμματοκιβώτιο με κατεβασμένο σημαιάκι</string>
+	<key>✖️</key>
+	<string>σύμβολο πολλαπλασιασμού</string>
+	<key>📮</key>
+	<string>ταχυδρομική θυρίδα</string>
+	<key>📯</key>
+	<string>ταχυδρομικό κόρνο</string>
+	<key>🏄‍♀️</key>
+	<string>γυναίκα σέρφερ</string>
+	<key>📰</key>
+	<string>εφημερίδα</string>
+	<key>📱</key>
+	<string>κινητό τηλέφωνο</string>
+	<key>🎗️</key>
+	<string>κορδέλα ειδικού σκοπού</string>
+	<key>📲</key>
+	<string>τηλέφωνο με βέλος</string>
+	<key>📳</key>
+	<string>λειτουργία δόνησης</string>
+	<key>📴</key>
+	<string>απενεργοποιημένο κινητό τηλέφωνο</string>
+	<key>📵</key>
+	<string>απαγορεύονται τα κινητά τηλέφωνα</string>
+	<key>♟️</key>
+	<string>πιόνι σκακιού</string>
+	<key>📶</key>
+	<string>γραμμές σήματος κινητού</string>
+	<key>📷</key>
+	<string>κάμερα</string>
+	<key>✏️</key>
+	<string>μολύβι</string>
+	<key>📸</key>
+	<string>κάμερα με φλας</string>
+	<key>👨‍🌾</key>
+	<string>αγρότης</string>
+	<key>📹</key>
+	<string>βιντεοκάμερα</string>
+	<key>📺</key>
+	<string>τηλεόραση</string>
+	<key>🐻‍❄️</key>
+	<string>πολική αρκούδα</string>
+	<key>📻</key>
+	<string>ραδιόφωνο</string>
+	<key>📼</key>
+	<string>βιντεοκασέτα</string>
+	<key>☀️</key>
+	<string>ήλιος</string>
+	<key>📿</key>
+	<string>προσευχητάρια</string>
+	<key>👨‍🔬</key>
+	<string>άντρας επιστήμονας</string>
+	<key>🔀</key>
+	<string>σύμβολο αναπαραγωγής κομματιών σε τυχαία σειρά</string>
+	<key>🈁</key>
+	<string>ιαπωνικό σήμα που σημαίνει «εδώ»</string>
+	<key>⚰️</key>
+	<string>φέρετρο</string>
+	<key>🔁</key>
+	<string>σύμβολο επανάληψης</string>
+	<key>🖐️</key>
+	<string>υψωμένο χέρι με απλωμένα δάχτυλα</string>
+	<key>✈️</key>
+	<string>αεροπλάνο</string>
+	<key>🔂</key>
+	<string>σύμβολο επανάληψης ενός κομματιού</string>
+	<key>🗨️</key>
+	<string>φούσκα ομιλίας στα αριστερά</string>
+	<key>🔃</key>
+	<string>δεξιόστροφα κατακόρυφα βέλη</string>
+	<key>🧖‍♀️</key>
+	<string>γυναίκα σε σάουνα</string>
+	<key>🔄</key>
+	<string>αριστερόστροφα βέλη</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>οικογένεια με δύο μητέρες και δύο γιους</string>
+	<key>👩‍⚕️</key>
+	<string>εργαζόμενη στον τομέα υγείας</string>
+	<key>™️</key>
+	<string>σύμβολο εμπορικού σήματος</string>
+	<key>🔅</key>
+	<string>σύμβολο χαμηλής φωτεινότητας</string>
+	<key>🔆</key>
+	<string>σύμβολο υψηλής φωτεινότητας</string>
+	<key>🎙️</key>
+	<string>μικρόφωνο στούντιο</string>
+	<key>🔇</key>
+	<string>ηχείο σε σίγαση</string>
+	<key>🔈</key>
+	<string>ηχείο</string>
+	<key>🛰️</key>
+	<string>δορυφόρος</string>
+	<key>🔉</key>
+	<string>ηχείο με μέτρια ένταση ήχου</string>
+	<key>♑️</key>
+	<string>Αιγόκερως</string>
+	<key>🔊</key>
+	<string>ηχείο με υψηλή ένταση ήχου</string>
+	<key>🔋</key>
+	<string>μπαταρία</string>
+	<key>🔌</key>
+	<string>πρίζα ρεύματος</string>
+	<key>👩‍👩‍👧</key>
+	<string>οικογένεια με δύο μητέρες και κόρη</string>
+	<key>🔍</key>
+	<string>μεγεθυντικός φακός που δείχνει προς τα αριστερά</string>
+	<key>🔎</key>
+	<string>μεγεθυντικός φακός που δείχνει προς τα δεξιά</string>
+	<key>🔏</key>
+	<string>κλειδαριά με κοντυλοφόρο</string>
+	<key>🔐</key>
+	<string>κλειστή κλειδαριά με κλειδί</string>
+	<key>🔑</key>
+	<string>κλειδί</string>
+	<key>🔒</key>
+	<string>κλειστή κλειδαριά</string>
+	<key>🔓</key>
+	<string>ανοιχτή κλειδαριά</string>
+	<key>♊️</key>
+	<string>Δίδυμοι</string>
+	<key>🔔</key>
+	<string>κουδούνι</string>
+	<key>🔕</key>
+	<string>κουδούνι σε σίγαση</string>
+	<key>⛺️</key>
+	<string>σκηνή</string>
+	<key>🔖</key>
+	<string>σελιδοδείκτης</string>
+	<key>🔗</key>
+	<string>σύμβολο σύνδεσης</string>
+	<key>🔘</key>
+	<string>ρυθμιστής</string>
+	<key>🔙</key>
+	<string>πίσω βέλος</string>
+	<key>🔚</key>
+	<string>βέλος τέλους</string>
+	<key>🔛</key>
+	<string>βέλος «on!»</string>
+	<key>🎛️</key>
+	<string>ρυθμιστές ελέγχου</string>
+	<key>🔜</key>
+	<string>βέλος «soon» (σύντομα)</string>
+	<key>🏳️</key>
+	<string>λευκή σημαία</string>
+	<key>🔝</key>
+	<string>πάνω βέλος</string>
+	<key>🔞</key>
+	<string>απαγορεύεται η είσοδος σε άτομα κάτω των δεκαοκτώ</string>
+	<key>🔟</key>
+	<string>πλήκτρο με τον αριθμό δέκα</string>
+	<key>⚛️</key>
+	<string>σύμβολο του ατόμου</string>
+	<key>🔠</key>
+	<string>σύμβολο εισαγωγής για κεφαλαία γράμματα</string>
+	<key>⛳️</key>
+	<string>οπή γκολφ με σημαία</string>
+	<key>🔡</key>
+	<string>σύμβολο εισαγωγής για πεζά γράμματα</string>
+	<key>🤽‍♂️</key>
+	<string>άντρας που παίζει υδατοσφαίριση (πόλο)</string>
+	<key>🔢</key>
+	<string>σύμβολο εισαγωγής για αριθμούς</string>
+	<key>🔣</key>
+	<string>σύμβολο εισαγωγής για σύμβολα</string>
+	<key>🔤</key>
+	<string>σύμβολο εισαγωγής για γράμματα</string>
+	<key>🔥</key>
+	<string>φωτιά</string>
+	<key>🔦</key>
+	<string>φακός</string>
+	<key>🔧</key>
+	<string>γαλλικό κλειδί</string>
+	<key>🔨</key>
+	<string>σφυρί</string>
+	<key>🔩</key>
+	<string>παξιμάδι και μπουλόνι</string>
+	<key>⚔️</key>
+	<string>σταυρωμένα σπαθιά</string>
+	<key>🔪</key>
+	<string>μαχαίρι</string>
+	<key>🔫</key>
+	<string>νεροπίστολο</string>
+	<key>❄️</key>
+	<string>χιονονιφάδα</string>
+	<key>🔬</key>
+	<string>μικροσκόπιο</string>
+	<key>💁‍♀️</key>
+	<string>γυναίκα υπάλληλος γραφείου πληροφοριών</string>
+	<key>🔭</key>
+	<string>τηλεσκόπιο</string>
+	<key>🔮</key>
+	<string>κρυστάλλινη μπάλα</string>
+	<key>🧔‍♂️</key>
+	<string>μουσάτος άντρας</string>
+	<key>🔯</key>
+	<string>αστέρι με έξι ακτίνες και κουκκίδα στο κέντρο</string>
+	<key>🔰</key>
+	<string>Ιαπωνικό σύμβολο για αρχάριο</string>
+	<key>🔱</key>
+	<string>έμβλημα τρίαινας</string>
+	<key>🈲</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «απαγορεύεται»</string>
+	<key>🏵️</key>
+	<string>ροζέτα</string>
+	<key>🔲</key>
+	<string>μαύρο τετράγωνο κουμπί</string>
+	<key>🈳</key>
+	<string>ιαπωνικό σήμα που σημαίνει «κενές θέσεις ή δωμάτια»</string>
+	<key>🔳</key>
+	<string>λευκό τετράγωνο κουμπί</string>
+	<key>🈴</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «βαθμός βάσης»</string>
+	<key>🧙‍♀️</key>
+	<string>μάγισσα</string>
+	<key>🔴</key>
+	<string>κόκκινος κύκλος</string>
+	<key>🈵</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «πλήρες, δεν υπάρχουν κενές θέσεις ή δωμάτια»</string>
+	<key>🔵</key>
+	<string>μπλε κύκλος</string>
+	<key>🈶</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «επί πληρωμή»</string>
+	<key>🔶</key>
+	<string>μεγάλο πορτοκαλί διαμάντι</string>
+	<key>🔷</key>
+	<string>μεγάλο μπλε διαμάντι</string>
+	<key>🈸</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «εφαρμογή»</string>
+	<key>🔸</key>
+	<string>μικρό πορτοκαλί διαμάντι</string>
+	<key>🈹</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «έκπτωση»</string>
+	<key>🔹</key>
+	<string>μικρό μπλε διαμάντι</string>
+	<key>9️⃣</key>
+	<string>πλήκτρο με τον αριθμό εννέα</string>
+	<key>🈺</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «ανοιχτά»</string>
+	<key>🔺</key>
+	<string>κόκκινο τρίγωνο που δείχνει προς τα πάνω</string>
+	<key>🔻</key>
+	<string>κόκκινο τρίγωνο που δείχνει προς τα κάτω</string>
+	<key>🀄️</key>
+	<string>πλακίδιο mahjong κόκκινος δράκος</string>
+	<key>🔼</key>
+	<string>τρίγωνο που δείχνει προς τα πάνω</string>
+	<key>🚵‍♀️</key>
+	<string>ορεινή ποδηλάτισσα</string>
+	<key>☮️</key>
+	<string>σύμβολο ειρήνης</string>
+	<key>🔽</key>
+	<string>τρίγωνο που δείχνει προς τα κάτω</string>
+	<key>👨‍👦‍👦</key>
+	<string>οικογένεια με πατέρα και δύο γιους</string>
+	<key>⬅️</key>
+	<string>αριστερό βέλος</string>
+	<key>⛎</key>
+	<string>Οφιούχος</string>
+	<key>🎟️</key>
+	<string>εισιτήριο εισόδου</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>οικογένεια με δύο μητέρες και δύο κόρες</string>
+	<key>🏷️</key>
+	<string>ετικέτα</string>
+	<key>2️⃣</key>
+	<string>πλήκτρο με τον αριθμό δύο</string>
+	<key>♿️</key>
+	<string>σύμβολο αναπηρικού αμαξιδίου</string>
+	<key>👰‍♀️</key>
+	<string>γυναίκα με πέπλο</string>
+	<key>🗃️</key>
+	<string>κουτί αρχειοθέτησης καρτών</string>
+	<key>🕋</key>
+	<string>Κάαμπα</string>
+	<key>🕌</key>
+	<string>τζαμί</string>
+	<key>🕍</key>
+	<string>συναγωγή</string>
+	<key>🕎</key>
+	<string>μενορά</string>
+	<key>👩‍🎤</key>
+	<string>τραγουδίστρια</string>
+	<key>🉐</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «προσφορά»</string>
+	<key>🏌️</key>
+	<string>γκόλφερ</string>
+	<key>🛋️</key>
+	<string>καναπές και λάμπα</string>
+	<key>🕐</key>
+	<string>μία η ώρα</string>
+	<key>🏊‍♀️</key>
+	<string>κολυμβήτρια</string>
+	<key>🉑</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «αποδεκτό»</string>
+	<key>☠️</key>
+	<string>νεκροκεφαλή με κόκαλα χιαστί</string>
+	<key>🕑</key>
+	<string>δύο η ώρα</string>
+	<key>🕒</key>
+	<string>τρεις η ώρα</string>
+	<key>🏋️‍♀️</key>
+	<string>αρσιβαρίστρια</string>
+	<key>🕓</key>
+	<string>τέσσερις η ώρα</string>
+	<key>🕔</key>
+	<string>πέντε η ώρα</string>
+	<key>🕕</key>
+	<string>έξι η ώρα</string>
+	<key>🕖</key>
+	<string>επτά η ώρα</string>
+	<key>🙆‍♀️</key>
+	<string>γυναίκα που κάνει τη χειρονομία «ΟΚ»</string>
+	<key>🕗</key>
+	<string>οκτώ η ώρα</string>
+	<key>🕘</key>
+	<string>εννέα η ώρα</string>
+	<key>🕙</key>
+	<string>δέκα η ώρα</string>
+	<key>🕚</key>
+	<string>έντεκα η ώρα</string>
+	<key>🕛</key>
+	<string>δώδεκα η ώρα</string>
+	<key>🕜</key>
+	<string>μία και μισή</string>
+	<key>🇺🇦</key>
+	<string>σημαία της Ουκρανίας</string>
+	<key>🕝</key>
+	<string>δύο και μισή</string>
+	<key>🇶🇦</key>
+	<string>σημαία του Κατάρ</string>
+	<key>🕞</key>
+	<string>τρεις και μισή</string>
+	<key>✡️</key>
+	<string>Άστρο του Δαβίδ</string>
+	<key>🇲🇦</key>
+	<string>σημαία του Μαρόκου</string>
+	<key>🕟</key>
+	<string>τέσσερις και μισή</string>
+	<key>🧗‍♂️</key>
+	<string>αναρριχητής</string>
+	<key>🕠</key>
+	<string>πέντε και μισή</string>
+	<key>🕡</key>
+	<string>έξι και μισή</string>
+	<key>🇪🇦</key>
+	<string>σημαία της Θέουτα και Μελίγια</string>
+	<key>🕢</key>
+	<string>επτά και μισή</string>
+	<key>✅</key>
+	<string>σύμβολο σημαδιού επιλογής</string>
+	<key>🕣</key>
+	<string>οκτώ και μισή</string>
+	<key>🧜‍♀️</key>
+	<string>γοργόνα</string>
+	<key>🏎️</key>
+	<string>αγωνιστικό αυτοκίνητο</string>
+	<key>🕤</key>
+	<string>εννέα και μισή</string>
+	<key>🛍️</key>
+	<string>τσάντες για ψώνια</string>
+	<key>🕥</key>
+	<string>δέκα και μισή</string>
+	<key>✊</key>
+	<string>υψωμένη γροθιά</string>
+	<key>🇲🇨</key>
+	<string>σημαία του Μονακό</string>
+	<key>✋</key>
+	<string>υψωμένο χέρι</string>
+	<key>🕦</key>
+	<string>έντεκα και μισή</string>
+	<key>🕧</key>
+	<string>δώδεκα και μισή</string>
+	<key>🇮🇨</key>
+	<string>σημαία των Κανάριων Νήσων</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>σημαία της Ουαλίας</string>
+	<key>🇾🇪</key>
+	<string>σημαία της Υεμένης</string>
+	<key>🇪🇨</key>
+	<string>σημαία του Εκουαδόρ</string>
+	<key>👩‍🎨</key>
+	<string>καλλιτέχνιδα</string>
+	<key>🇲🇩</key>
+	<string>σημαία της Μολδαβίας</string>
+	<key>🇦🇨</key>
+	<string>σημαία της Νήσου Ασενσιόν</string>
+	<key>🇮🇩</key>
+	<string>σημαία της Ινδονησίας</string>
+	<key>🇲🇪</key>
+	<string>σημαία του Μαυροβουνίου</string>
+	<key>🇦🇩</key>
+	<string>σημαία της Ανδόρας</string>
+	<key>🇮🇪</key>
+	<string>σημαία της Ιρλανδίας</string>
+	<key>🇪🇪</key>
+	<string>σημαία της Εσθονίας</string>
+	<key>🇲🇫</key>
+	<string>σημαία του Αγίου Μαρτίνου</string>
+	<key>🇺🇬</key>
+	<string>σημαία της Ουγκάντας</string>
+	<key>♣️</key>
+	<string>σπαθιά (χαρτιά)</string>
+	<key>🇦🇪</key>
+	<string>σημαία των Ηνωμένων Αραβικών Εμιράτων</string>
+	<key>🕯️</key>
+	<string>κερί</string>
+	<key>🇲🇬</key>
+	<string>σημαία της Μαδαγασκάρης</string>
+	<key>🇦🇫</key>
+	<string>σημαία του Αφγανιστάν</string>
+	<key>👮‍♂️</key>
+	<string>αστυνομικός</string>
+	<key>🇪🇬</key>
+	<string>σημαία της Αιγύπτου</string>
+	<key>🇲🇭</key>
+	<string>σημαία των Νήσων Μάρσαλ</string>
+	<key>✨</key>
+	<string>λάμψεις</string>
+	<key>🇦🇬</key>
+	<string>σημαία των Αντίγκουα και Μπαρμπούντα</string>
+	<key>🛏️</key>
+	<string>κρεβάτι</string>
+	<key>👳‍♀️</key>
+	<string>γυναίκα με τουρμπάνι</string>
+	<key>🇪🇭</key>
+	<string>σημαία της Δυτικής Σαχάρας</string>
+	<key>☄️</key>
+	<string>κομήτης</string>
+	<key>🕺</key>
+	<string>άντρας που χορεύει</string>
+	<key>✌️</key>
+	<string>σύμβολο χεριού που κάνει το σήμα της ειρήνης</string>
+	<key>❤️</key>
+	<string>κόκκινη καρδιά</string>
+	<key>⏭️</key>
+	<string>σύμβολο μετάβασης προς τα εμπρός</string>
+	<key>🇦🇮</key>
+	<string>σημαία της Αγκουίλας</string>
+	<key>🇲🇰</key>
+	<string>σημαία της Βόρειας Μακεδονίας</string>
+	<key>◽️</key>
+	<string>μεσαίο-μικρό λευκό τετράγωνο</string>
+	<key>🇲🇱</key>
+	<string>σημαία του Μάλι</string>
+	<key>🈚️</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «δωρεάν»</string>
+	<key>🇺🇲</key>
+	<string>σημαία των Απομακρυσμένων Νησίδων ΗΠΑ</string>
+	<key>🇮🇱</key>
+	<string>σημαία του Ισραήλ</string>
+	<key>🇲🇲</key>
+	<string>σημαία της Μιανμάρ (Βιρμανίας)</string>
+	<key>💂‍♂️</key>
+	<string>φρουρός</string>
+	<key>🇺🇳</key>
+	<string>σημαία των Ηνωμένων Εθνών</string>
+	<key>🇦🇱</key>
+	<string>σημαία της Αλβανίας</string>
+	<key>🧑‍💻</key>
+	<string>τεχνολόγος</string>
+	<key>🇮🇲</key>
+	<string>σημαία της Νήσου Μαν</string>
+	<key>⛹️‍♂️</key>
+	<string>παίκτης μπάσκετ</string>
+	<key>🇲🇳</key>
+	<string>σημαία της Μογγολίας</string>
+	<key>🇦🇲</key>
+	<string>σημαία της Αρμενίας</string>
+	<key>🇮🇳</key>
+	<string>σημαία της Ινδίας</string>
+	<key>❌</key>
+	<string>σύμβολο «Χ»</string>
+	<key>💇‍♀️</key>
+	<string>γυναίκα που κουρεύεται</string>
+	<key>❎</key>
+	<string>Σημάδι Χ</string>
+	<key>🇲🇴</key>
+	<string>σημαία του Μακάο</string>
+	<key>♎️</key>
+	<string>Ζυγός</string>
+	<key>🧚‍♂️</key>
+	<string>νεράιδος</string>
+	<key>🧑‍💼</key>
+	<string>υπάλληλος γραφείου</string>
+	<key>🇮🇴</key>
+	<string>σημαία των Βρετανικών Εδαφών Ινδικού Ωκεανού</string>
+	<key>❓</key>
+	<string>κόκκινο λατινικό ερωτηματικό</string>
+	<key>❔</key>
+	<string>λευκό λατινικό ερωτηματικό</string>
+	<key>🇲🇵</key>
+	<string>σημαία των Βορείων Μαριανών Νήσων</string>
+	<key>❕</key>
+	<string>λευκό θαυμαστικό</string>
+	<key>🇦🇴</key>
+	<string>σημαία της Αγκόλας</string>
+	<key>🧟‍♀️</key>
+	<string>γυναίκα ζόμπι</string>
+	<key>🖕</key>
+	<string>μεσαίο δάχτυλο</string>
+	<key>🇲🇶</key>
+	<string>σημαία της Μαρτινίκας</string>
+	<key>🖖</key>
+	<string>χέρι με τεντωμένα δάχτυλα που χωρίζονται μεταξύ του μέσου και του παράμεσου</string>
+	<key>🇮🇶</key>
+	<string>σημαία του Ιράκ</string>
+	<key>🚶‍♂️</key>
+	<string>πεζός</string>
+	<key>🇲🇷</key>
+	<string>σημαία της Μαυριτανίας</string>
+	<key>🇺🇸</key>
+	<string>σημαία των Ηνωμένων Πολιτειών</string>
+	<key>🇦🇶</key>
+	<string>σημαία της Ανταρκτικής</string>
+	<key>🇮🇷</key>
+	<string>σημαία του Ιράν</string>
+	<key>🕳️</key>
+	<string>τρύπα</string>
+	<key>⌨️</key>
+	<string>πληκτρολόγιο</string>
+	<key>🇾🇹</key>
+	<string>σημαία του Μαγιότ</string>
+	<key>🇪🇷</key>
+	<string>σημαία της Ερυθραίας</string>
+	<key>⛷️</key>
+	<string>σκιέρ</string>
+	<key>🇲🇸</key>
+	<string>σημαία του Μονσεράτ</string>
+	<key>🇦🇷</key>
+	<string>σημαία της Αργεντινής</string>
+	<key>🇮🇸</key>
+	<string>σημαία της Ισλανδίας</string>
+	<key>👨‍💻</key>
+	<string>άντρας τεχνολόγος</string>
+	<key>🌤️</key>
+	<string>ήλιος πίσω από μικρό σύννεφο</string>
+	<key>🇪🇸</key>
+	<string>σημαία της Ισπανίας</string>
+	<key>🇲🇹</key>
+	<string>σημαία της Μάλτας</string>
+	<key>🇦🇸</key>
+	<string>σημαία της Αμερικανικής Σαμόα</string>
+	<key>🇮🇹</key>
+	<string>σημαία της Ιταλίας</string>
+	<key>❤️‍🩹</key>
+	<string>καρδιά σε ανάρρωση</string>
+	<key>🏔️</key>
+	<string>χιονισμένο βουνό</string>
+	<key>🇪🇹</key>
+	<string>σημαία της Αιθιοπίας</string>
+	<key>🤷‍♀️</key>
+	<string>γυναίκα που σηκώνει τους ώμους</string>
+	<key>🇲🇺</key>
+	<string>σημαία του Μαυρίκιου</string>
+	<key>🇦🇹</key>
+	<string>σημαία της Αυστρίας</string>
+	<key>🖤</key>
+	<string>μαύρη καρδιά</string>
+	<key>👩‍🦯</key>
+	<string>γυναίκα με λευκό μπαστούνι</string>
+	<key>👱‍♂️</key>
+	<string>άντρας με ξανθά μαλλιά</string>
+	<key>👨‍💼</key>
+	<string>άντρας υπάλληλος γραφείου</string>
+	<key>⛰️</key>
+	<string>βουνό</string>
+	<key>🇪🇺</key>
+	<string>σημαία της Ευρωπαϊκής Ένωσης</string>
+	<key>🇲🇻</key>
+	<string>σημαία των Μαλδίβων</string>
+	<key>🇦🇺</key>
+	<string>σημαία της Αυστραλίας</string>
+	<key>🇲🇼</key>
+	<string>σημαία του Μαλάουι</string>
+	<key>👩‍🦰</key>
+	<string>γυναίκα με κόκκινα μαλλιά</string>
+	<key>🇲🇽</key>
+	<string>σημαία του Μεξικού</string>
+	<key>🇺🇾</key>
+	<string>σημαία της Ουρουγουάης</string>
+	<key>🇦🇼</key>
+	<string>σημαία της Αρούμπας</string>
+	<key>☹️</key>
+	<string>συνοφρυωμένο πρόσωπο</string>
+	<key>⌚️</key>
+	<string>ρολόι</string>
+	<key>🕵️</key>
+	<string>ντετέκτιβ</string>
+	<key>⛩️</key>
+	<string>Ιερό του Σίντο</string>
+	<key>🇲🇾</key>
+	<string>σημαία της Μαλαισίας</string>
+	<key>🧎‍♀️</key>
+	<string>γυναίκα που γονατίζει</string>
+	<key>🇺🇿</key>
+	<string>σημαία του Ουζμπεκιστάν</string>
+	<key>🇦🇽</key>
+	<string>σημαία των Νήσων Όλαντ</string>
+	<key>👩‍🦱</key>
+	<string>γυναίκα με σγουρά μαλλιά</string>
+	<key>🙇‍♂️</key>
+	<string>άντρας που υποκλίνεται</string>
+	<key>🌦️</key>
+	<string>ήλιος πίσω από σύννεφο βροχής</string>
+	<key>🇲🇿</key>
+	<string>σημαία της Μοζαμβίκης</string>
+	<key>🏖️</key>
+	<string>παραλία με ομπρέλα</string>
+	<key>👩‍🦲</key>
+	<string>γυναίκα χωρίς μαλλιά</string>
+	<key>🇦🇿</key>
+	<string>σημαία του Αζερμπαϊτζάν</string>
+	<key>➕</key>
+	<string>σύμβολο πρόσθεσης</string>
+	<key>🕊️</key>
+	<string>περιστέρι</string>
+	<key>➖</key>
+	<string>σύμβολο αφαίρεσης</string>
+	<key>➗</key>
+	<string>σύμβολο διαίρεσης</string>
+	<key>🗺️</key>
+	<string>παγκόσμιος χάρτης</string>
+	<key>👩‍🦳</key>
+	<string>γυναίκα με άσπρα μαλλιά</string>
+	<key>7️⃣</key>
+	<string>πλήκτρο με τον αριθμό επτά</string>
+	<key>🅰️</key>
+	<string>ομάδα αίματος Α</string>
+	<key>🤦‍♀️</key>
+	<string>γυναίκα με παλάμη στο πρόσωπο</string>
+	<key>🧝‍♂️</key>
+	<string>άντρας ξωτικό</string>
+	<key>🕷️</key>
+	<string>αράχνη</string>
+	<key>✳️</key>
+	<string>αστερίσκος με οκτώ ακτίνες</string>
+	<key>🌨️</key>
+	<string>σύννεφο με χιόνι</string>
+	<key>🦸‍♂️</key>
+	<string>υπερήρωας</string>
+	<key>➰</key>
+	<string>καμπυλωτή θηλιά</string>
+	<key>🏘️</key>
+	<string>ομάδα σπιτιών</string>
+	<key>0️⃣</key>
+	<string>πλήκτρο με τον αριθμό μηδέν</string>
+	<key>🤵‍♂️</key>
+	<string>άντρας με σμόκιν</string>
+	<key>⛔️</key>
+	<string>απαγορεύεται η είσοδος</string>
+	<key>👨‍👧‍👦</key>
+	<string>οικογένεια με πατέρα, γιο και κόρη</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>οικογένεια με μητέρα, πατέρα και δύο γιους</string>
+	<key>🧑‍🏫</key>
+	<string>δάσκαλος</string>
+	<key>➿</key>
+	<string>διπλή καμπυλωτή θηλιά</string>
+	<key>㊙️</key>
+	<string>Ιαπωνικό σήμα που σημαίνει «μυστικό»</string>
+	<key>☝️</key>
+	<string>δείκτης που δείχνει προς τα πάνω</string>
+	<key>🕹️</key>
+	<string>τζόιστικ</string>
+	<key>🗑️</key>
+	<string>καλάθι αχρήστων</string>
+	<key>🌪️</key>
+	<string>ανεμοστρόβιλος</string>
+	<key>🧑‍🏭</key>
+	<string>εργάτης εργοστασίου</string>
+	<key>↗️</key>
+	<string>βέλος πάνω δεξιά</string>
+	<key>⤵️</key>
+	<string>δεξί βέλος που γέρνει προς τα κάτω</string>
+	<key>🏚️</key>
+	<string>εγκαταλελειμμένο σπίτι</string>
+	<key>©️</key>
+	<string>σύμβολο πνευματικών δικαιωμάτων</string>
+	<key>👨‍🏫</key>
+	<string>δάσκαλος</string>
+	<key>🗓️</key>
+	<string>σπιράλ ημερολόγιο</string>
+	<key>⏸️</key>
+	<string>σύμβολο παύσης</string>
+	<key>🧑‍✈️</key>
+	<string>πιλότος</string>
+	<key>🌬️</key>
+	<string>πρόσωπο που φυσά</string>
+	<key>👨‍🏭</key>
+	<string>εργάτης εργοστασίου</string>
+	<key>🏜️</key>
+	<string>έρημος</string>
+	<key>♠️</key>
+	<string>μπαστούνια (χαρτιά)</string>
+	<key>🖨️</key>
+	<string>εκτυπωτής</string>
+	<key>⏱️</key>
+	<string>χρονόμετρο</string>
+	<key>👩‍🦼</key>
+	<string>γυναίκα σε ηλεκτροκίνητο αναπηρικό αμαξίδιο</string>
+	<key>🗻</key>
+	<string>όρος φούτζι</string>
+	<key>🫱‍🫲</key>
+	<string>χειραψία</string>
+	<key>🗼</key>
+	<string>πύργος Τόκιο</string>
+	<key>🗽</key>
+	<string>Άγαλμα της Ελευθερίας</string>
+	<key>🗾</key>
+	<string>περίγραμμα της Ιαπωνίας</string>
+	<key>🤸‍♂️</key>
+	<string>άντρας που κάνει ρόδα</string>
+	<key>🌀</key>
+	<string>κυκλώνας</string>
+	<key>🗿</key>
+	<string>Άγαλμα στη Νήσο του Πάσχα</string>
+	<key>☁️</key>
+	<string>σύννεφο</string>
+	<key>🌁</key>
+	<string>γέφυρα σε ομίχλη</string>
+	<key>😀</key>
+	<string>πρόσωπο με πλατύ χαμόγελο</string>
+	<key>👩‍🦽</key>
+	<string>γυναίκα σε ένα χειροκίνητο αναπηρικό αμαξίδιο</string>
+	<key>🌂</key>
+	<string>κλειστή ομπρέλα</string>
+	<key>😁</key>
+	<string>πρόσωπο με λαμπερό χαμόγελο και γελαστά μάτια</string>
+	<key>⚱️</key>
+	<string>τεφροδόχος</string>
+	<key>🌃</key>
+	<string>βραδιά με αστέρια</string>
+	<key>😂</key>
+	<string>πρόσωπο με δάκρυα χαράς</string>
+	<key>✉️</key>
+	<string>φάκελος</string>
+	<key>👨‍👧‍👧</key>
+	<string>οικογένεια με πατέρα και δύο κόρες</string>
+	<key>🤽‍♀️</key>
+	<string>γυναίκα που παίζει υδατοσφαίριση (πόλο)</string>
+	<key>🌄</key>
+	<string>ανατολή πάνω από βουνά</string>
+	<key>😃</key>
+	<string>πρόσωπο με πλατύ χαμόγελο και μεγάλα μάτια</string>
+	<key>🌅</key>
+	<string>ανατολή</string>
+	<key>😄</key>
+	<string>πρόσωπο με πλατύ χαμόγελο και γελαστά μάτια</string>
+	<key>👷‍♂️</key>
+	<string>άντρας οικοδόμος</string>
+	<key>👨‍✈️</key>
+	<string>άντρας πιλότος</string>
+	<key>🌆</key>
+	<string>περίγραμμα πόλης το σούρουπο</string>
+	<key>😅</key>
+	<string>πρόσωπο με πλατύ χαμόγελο και ιδρώτα</string>
+	<key>🌇</key>
+	<string>ηλιοβασίλεμα πίσω από κτήρια</string>
+	<key>😆</key>
+	<string>πρόσωπο με πλατύ χαμόγελο και μισόκλειστα μάτια</string>
+	<key>🌈</key>
+	<string>ουράνιο τόξο</string>
+	<key>😇</key>
+	<string>χαμογελαστό πρόσωπο με φωτοστέφανο</string>
+	<key>🌉</key>
+	<string>γέφυρα τη νύχτα</string>
+	<key>😈</key>
+	<string>χαμογελαστό πρόσωπο με κέρατα</string>
+	<key>🏞️</key>
+	<string>εθνικός δρυμός</string>
+	<key>🌊</key>
+	<string>κύμα</string>
+	<key>😉</key>
+	<string>πρόσωπο που κλείνει το μάτι</string>
+	<key>🌋</key>
+	<string>ηφαίστειο</string>
+	<key>😊</key>
+	<string>χαμογελαστό πρόσωπο με γελαστά μάτια</string>
+	<key>♒️</key>
+	<string>Υδροχόος</string>
+	<key>🌌</key>
+	<string>Γαλαξίας</string>
+	<key>😋</key>
+	<string>χαμογελαστό πρόσωπο που γλύφει τα χείλη</string>
+	<key>⚪️</key>
+	<string>λευκός κύκλος</string>
+	<key>🌍</key>
+	<string>υδρόγειος σφαίρα όπου φαίνονται η Ευρώπη και η Αφρική</string>
+	<key>😌</key>
+	<string>ανακουφισμένο πρόσωπο</string>
+	<key>🧏‍♂️</key>
+	<string>Κωφός άντρας</string>
+	<key>✂️</key>
+	<string>ψαλίδι</string>
+	<key>🌎</key>
+	<string>υδρόγειος σφαίρα όπου φαίνονται η Βόρεια και η Νότια Αμερική</string>
+	<key>🤌</key>
+	<string>ενωμένα δάχτυλα</string>
+	<key>😍</key>
+	<string>χαμογελαστό πρόσωπο με μάτια-καρδούλες</string>
+	<key>🌏</key>
+	<string>υδρόγειος σφαίρα όπου φαίνονται η Ασία και η Αυστραλία</string>
+	<key>🤍</key>
+	<string>λευκή καρδιά</string>
+	<key>😎</key>
+	<string>χαμογελαστό πρόσωπο με γυαλιά ηλίου</string>
+	<key>🌐</key>
+	<string>υδρόγειος με μεσημβρινούς</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>οικογένεια με μητέρα, πατέρα και δύο κόρες</string>
+	<key>🤎</key>
+	<string>καφέ καρδιά</string>
+	<key>😏</key>
+	<string>πρόσωπο με αυτάρεσκο χαμόγελο</string>
+	<key>🌑</key>
+	<string>νέα σελήνη</string>
+	<key>🤏</key>
+	<string>χέρι που τσιμπάει</string>
+	<key>😐</key>
+	<string>ουδέτερο πρόσωπο</string>
+	<key>🧔‍♀️</key>
+	<string>μουσάτη γυναίκα</string>
+	<key>🌒</key>
+	<string>αύξων μηνίσκος</string>
+	<key>🤐</key>
+	<string>πρόσωπο με φερμουάρ στο στόμα</string>
+	<key>😑</key>
+	<string>ανέκφραστο πρόσωπο</string>
+	<key>🙍‍♂️</key>
+	<string>συνοφρυωμένος άντρας</string>
+	<key>🌓</key>
+	<string>σελήνη πρώτου τετάρτου</string>
+	<key>🤑</key>
+	<string>πρόσωπο με χρήματα στο στόμα</string>
+	<key>😒</key>
+	<string>αδιάφορο πρόσωπο</string>
+	<key>🌔</key>
+	<string>αύξων αμφίκυρτος</string>
+	<key>🤒</key>
+	<string>πρόσωπο με θερμόμετρο</string>
+	<key>😓</key>
+	<string>λυπημένο πρόσωπο με ιδρώτα</string>
+	<key>🌕</key>
+	<string>πανσέληνος</string>
+	<key>🤓</key>
+	<string>χαμογελαστό πρόσωπο με γυαλιά</string>
+	<key>😔</key>
+	<string>στενοχωρημένο και σκεπτικό πρόσωπο</string>
+	<key>♋️</key>
+	<string>Καρκίνος</string>
+	<key>🌖</key>
+	<string>φθίνων αμφίκυρτος</string>
+	<key>🤔</key>
+	<string>σκεπτόμενο πρόσωπο</string>
+	<key>😕</key>
+	<string>πρόσωπο σε σύγχυση</string>
+	<key>🌗</key>
+	<string>σελήνη τελευταίου τετάρτου</string>
+	<key>🤕</key>
+	<string>πρόσωπο με επίδεσμο στο κεφάλι</string>
+	<key>😖</key>
+	<string>αποσβολωμένο πρόσωπο</string>
+	<key>🌘</key>
+	<string>φθίνων μηνίσκος</string>
+	<key>🤖</key>
+	<string>πρόσωπο ρομπότ</string>
+	<key>😗</key>
+	<string>πρόσωπο που δίνει φιλί</string>
+	<key>🌙</key>
+	<string>μισοφέγγαρο</string>
+	<key>🤗</key>
+	<string>πρόσωπο-αγκαλίτσα</string>
+	<key>😘</key>
+	<string>πρόσωπο που στέλνει φιλί</string>
+	<key>🌚</key>
+	<string>νέα σελήνη με πρόσωπο</string>
+	<key>🤘</key>
+	<string>κερατάκια</string>
+	<key>😙</key>
+	<string>πρόσωπο που δίνει φιλί με γελαστά μάτια</string>
+	<key>🌛</key>
+	<string>σελήνη πρώτου τετάρτου με πρόσωπο</string>
+	<key>🤙</key>
+	<string>σήμα «πάρε με τηλέφωνο»</string>
+	<key>😚</key>
+	<string>πρόσωπο που δίνει φιλί με κλειστά μάτια</string>
+</dict>
+</plist>

@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>trăng hạ huyền có khuôn mặt</string>
+	<key>🤚</key>
+	<string>mu bàn tay</string>
+	<key>😛</key>
+	<string>khuôn mặt lè lưỡi</string>
+	<key>👩‍🔧</key>
+	<string>thợ máy nữ</string>
+	<key>🌝</key>
+	<string>trăng tròn có khuôn mặt</string>
+	<key>🤛</key>
+	<string>nắm đấm hướng sang trái</string>
+	<key>😜</key>
+	<string>khuôn mặt nháy mắt với lưỡi lè ra</string>
+	<key>🌞</key>
+	<string>mặt trời có hình mặt người</string>
+	<key>🤜</key>
+	<string>nắm đấm hướng sang phải</string>
+	<key>😝</key>
+	<string>khuôn mặt lè lưỡi và nheo mắt</string>
+	<key>🌟</key>
+	<string>sao lấp lánh</string>
+	<key>🤝</key>
+	<string>bắt tay</string>
+	<key>😞</key>
+	<string>khuôn mặt thất vọng</string>
+	<key>🌠</key>
+	<string>sao băng</string>
+	<key>🤞</key>
+	<string>ngón tay bắt chéo</string>
+	<key>😟</key>
+	<string>khuôn mặt lo lắng</string>
+	<key>🐈‍⬛</key>
+	<string>mèo đen</string>
+	<key>🤟</key>
+	<string>cử chỉ yêu</string>
+	<key>😠</key>
+	<string>khuôn mặt tức giận</string>
+	<key>⚜️</key>
+	<string>hoa diên vĩ</string>
+	<key>⛴️</key>
+	<string>phà</string>
+	<key>🤠</key>
+	<string>khuôn mặt cao bồi</string>
+	<key>😡</key>
+	<string>khuôn mặt giận dữ</string>
+	<key>🤡</key>
+	<string>mặt hề</string>
+	<key>😢</key>
+	<string>khuôn mặt đang khóc</string>
+	<key>⬛️</key>
+	<string>hình vuông lớn màu đen</string>
+	<key>🤢</key>
+	<string>khuôn mặt buồn nôn</string>
+	<key>😣</key>
+	<string>khuôn mặt kiên quyết</string>
+	<key>🤣</key>
+	<string>khuôn mặt cười lăn cười bò</string>
+	<key>😤</key>
+	<string>khuôn mặt với hơi nước từ mũi</string>
+	<key>🤤</key>
+	<string>khuôn mặt chảy nước dãi</string>
+	<key>😥</key>
+	<string>khuôn mặt buồn nhưng thanh thản</string>
+	<key>🤥</key>
+	<string>khuôn mặt nói dối</string>
+	<key>😦</key>
+	<string>khuôn mặt cau có đang há miệng</string>
+	<key>🤦</key>
+	<string>một người đang che mặt</string>
+	<key>😧</key>
+	<string>khuôn mặt đau khổ</string>
+	<key>🤧</key>
+	<string>khuôn mặt đang hắt hơi</string>
+	<key>😨</key>
+	<string>khuôn mặt sợ hãi</string>
+	<key>🤨</key>
+	<string>khuôn mặt với lông mày rướn lên</string>
+	<key>😩</key>
+	<string>khuôn mặt mệt mỏi</string>
+	<key>🤩</key>
+	<string>khuôn mặt với hai mắt hình ngôi sao</string>
+	<key>⚕️</key>
+	<string>cây gậy của Aesculapius</string>
+	<key>😪</key>
+	<string>khuôn mặt buồn ngủ</string>
+	<key>👁️‍🗨️</key>
+	<string>Tôi là nhân chứng</string>
+	<key>🤪</key>
+	<string>khuôn mặt ngốc nghếch</string>
+	<key>😫</key>
+	<string>khuôn mặt quẫn trí</string>
+	<key>🌭</key>
+	<string>bánh mì xúc xích</string>
+	<key>🤫</key>
+	<string>khuôn mặt ra dấu suỵt</string>
+	<key>😬</key>
+	<string>khuôn mặt nhăn nhó</string>
+	<key>🌮</key>
+	<string>taco</string>
+	<key>🤬</key>
+	<string>khuôn mặt với các biểu tượng trên miệng</string>
+	<key>😭</key>
+	<string>khuôn mặt đang khóc to</string>
+	<key>🌯</key>
+	<string>burrito</string>
+	<key>🤭</key>
+	<string>khuôn mặt với bàn tay che miệng và đôi mắt mỉm cười</string>
+	<key>😮</key>
+	<string>khuôn mặt ngạc nhiên đang há miệng</string>
+	<key>🌰</key>
+	<string>hạt dẻ</string>
+	<key>🤮</key>
+	<string>khuôn mặt đang nôn</string>
+	<key>😯</key>
+	<string>khuôn mặt ngạc nhiên</string>
+	<key>🌱</key>
+	<string>cây non</string>
+	<key>🤯</key>
+	<string>đầu nổ tung</string>
+	<key>😰</key>
+	<string>khuôn mặt lo lắng có mồ hôi</string>
+	<key>🌲</key>
+	<string>cây thường xanh</string>
+	<key>🤰</key>
+	<string>người phụ nữ có thai</string>
+	<key>😱</key>
+	<string>khuôn mặt la hét sợ hãi</string>
+	<key>🌳</key>
+	<string>cây</string>
+	<key>🤱</key>
+	<string>cho con bú</string>
+	<key>😲</key>
+	<string>khuôn mặt ngạc nhiên</string>
+	<key>🛡️</key>
+	<string>cái khiên</string>
+	<key>🌴</key>
+	<string>cây cọ</string>
+	<key>🤲</key>
+	<string>hai lòng bàn tay cùng ngửa lên</string>
+	<key>😳</key>
+	<string>khuôn mặt có đôi mắt mở to</string>
+	<key>🌵</key>
+	<string>cây xương rồng</string>
+	<key>🤳</key>
+	<string>chụp ảnh selfie</string>
+	<key>😴</key>
+	<string>khuôn mặt đang ngủ</string>
+	<key>🤴</key>
+	<string>hoàng tử</string>
+	<key>😵</key>
+	<string>khuôn mặt choáng váng</string>
+	<key>👩‍🌾</key>
+	<string>nông dân nữ</string>
+	<key>🌷</key>
+	<string>hoa tulip</string>
+	<key>🤵</key>
+	<string>người mặc bộ vest</string>
+	<key>😶</key>
+	<string>khuôn mặt không có miệng</string>
+	<key>🌸</key>
+	<string>hoa anh đào</string>
+	<key>🤶</key>
+	<string>Bà già Noel</string>
+	<key>😷</key>
+	<string>khuôn mặt đeo khẩu trang y tế</string>
+	<key>🌹</key>
+	<string>hoa hồng</string>
+	<key>🤷</key>
+	<string>một người đang nhún vai</string>
+	<key>😸</key>
+	<string>mặt mèo cười tươi</string>
+	<key>🌺</key>
+	<string>hoa râm bụt</string>
+	<key>🤸</key>
+	<string>một người đang nhào lộn</string>
+	<key>😹</key>
+	<string>mặt mèo với những giọt nước mắt vui sướng</string>
+	<key>🌻</key>
+	<string>hoa hướng dương</string>
+	<key>🤹</key>
+	<string>một người đang tung hứng</string>
+	<key>😺</key>
+	<string>mặt mèo hạnh phúc</string>
+	<key>🌼</key>
+	<string>hoa</string>
+	<key>🤺</key>
+	<string>kiếm thủ</string>
+	<key>😻</key>
+	<string>mặt mèo đang cười có mắt hình trái tim</string>
+	<key>🌽</key>
+	<string>bắp ngô</string>
+	<key>😼</key>
+	<string>mặt mèo cười tự mãn</string>
+	<key>🇿🇦</key>
+	<string>cờ Nam Phi</string>
+	<key>👩‍🔬</key>
+	<string>nhà khoa học nữ</string>
+	<key>🌾</key>
+	<string>bông lúa</string>
+	<key>🤼</key>
+	<string>người đấu vật</string>
+	<key>😽</key>
+	<string>mặt mèo đang hôn</string>
+	<key>🇻🇦</key>
+	<string>cờ Thành Vatican</string>
+	<key>🌿</key>
+	<string>thảo mộc</string>
+	<key>🤽</key>
+	<string>một người đang chơi bóng nước</string>
+	<key>😾</key>
+	<string>mặt mèo bực tức</string>
+	<key>☯️</key>
+	<string>âm dương</string>
+	<key>🍀</key>
+	<string>cỏ bốn lá</string>
+	<key>🤾</key>
+	<string>một người đang chơi bóng ném</string>
+	<key>😿</key>
+	<string>mặt mèo đang khóc</string>
+	<key>🍁</key>
+	<string>lá phong</string>
+	<key>🤿</key>
+	<string>mặt nạ lặn</string>
+	<key>🧑‍🍳</key>
+	<string>đầu bếp</string>
+	<key>🇳🇦</key>
+	<string>cờ Namibia</string>
+	<key>🙀</key>
+	<string>mặt mèo la hét sợ hãi</string>
+	<key>🧗‍♀️</key>
+	<string>người leo núi đá nữ</string>
+	<key>⁉️</key>
+	<string>dấu chấm hỏi và dấu chấm than màu đỏ</string>
+	<key>🍂</key>
+	<string>lá rơi</string>
+	<key>🥀</key>
+	<string>hoa hồng héo</string>
+	<key>🙁</key>
+	<string>khuôn mặt hơi cau có</string>
+	<key>🍃</key>
+	<string>lá rung rinh trong gió</string>
+	<key>🥁</key>
+	<string>trống</string>
+	<key>🙂</key>
+	<string>khuôn mặt hơi mỉm cười</string>
+	<key>⬆️</key>
+	<string>mũi tên lên</string>
+	<key>🍄</key>
+	<string>nấm</string>
+	<key>🥂</key>
+	<string>chạm ly</string>
+	<key>🙃</key>
+	<string>khuôn mặt lộn ngược</string>
+	<key>5️⃣</key>
+	<string>phím số 5</string>
+	<key>🍅</key>
+	<string>cà chua</string>
+	<key>🥃</key>
+	<string>ly đáy phẳng</string>
+	<key>🙄</key>
+	<string>khuôn mặt với hai mắt xoay tròn</string>
+	<key>🇻🇨</key>
+	<string>cờ Saint Vincent &amp; Grenadines</string>
+	<key>🇧🇦</key>
+	<string>cờ Bosnia &amp; Herzegovina</string>
+	<key>↩️</key>
+	<string>mũi tên phải cong sang trái</string>
+	<key>🍆</key>
+	<string>cà tím</string>
+	<key>🥄</key>
+	<string>thìa</string>
+	<key>🙅</key>
+	<string>một người đang làm cử chỉ không</string>
+	<key>🍇</key>
+	<string>chùm nho</string>
+	<key>🥅</key>
+	<string>khung thành</string>
+	<key>🙆</key>
+	<string>một người đang làm cử chỉ OK</string>
+	<key>🛣️</key>
+	<string>đường cao tốc</string>
+	<key>🍈</key>
+	<string>dưa</string>
+	<key>🙇</key>
+	<string>một người đang cúi đầu</string>
+	<key>🇳🇨</key>
+	<string>cờ New Caledonia</string>
+	<key>🍉</key>
+	<string>dưa hấu</string>
+	<key>🇧🇧</key>
+	<string>cờ Barbados</string>
+	<key>🥇</key>
+	<string>huy chương vàng</string>
+	<key>🙈</key>
+	<string>khỉ không nhìn điều xấu</string>
+	<key>🍊</key>
+	<string>quýt</string>
+	<key>🥈</key>
+	<string>huy chương bạc</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>cờ Scotland</string>
+	<key>🙉</key>
+	<string>khỉ không nghe điều xấu</string>
+	<key>🍋</key>
+	<string>chanh</string>
+	<key>🥉</key>
+	<string>huy chương đồng</string>
+	<key>🙊</key>
+	<string>khỉ không nói điều xấu</string>
+	<key>🍌</key>
+	<string>chuối</string>
+	<key>🥊</key>
+	<string>găng tay quyền anh</string>
+	<key>🇻🇪</key>
+	<string>cờ Venezuela</string>
+	<key>🙋</key>
+	<string>một người đang giơ một tay lên</string>
+	<key>🍍</key>
+	<string>dứa</string>
+	<key>🥋</key>
+	<string>đồng phục võ thuật</string>
+	<key>🙌</key>
+	<string>hai bàn tay giơ lên chúc mừng</string>
+	<key>🇷🇪</key>
+	<string>cờ Réunion</string>
+	<key>🍎</key>
+	<string>táo đỏ</string>
+	<key>🥌</key>
+	<string>bi đá trên băng</string>
+	<key>🙍</key>
+	<string>một người đang cau mày</string>
+	<key>🍏</key>
+	<string>táo xanh</string>
+	<key>🇳🇪</key>
+	<string>cờ Niger</string>
+	<key>🥍</key>
+	<string>gậy và bóng môn bóng vợt</string>
+	<key>🙎</key>
+	<string>một người đang bực tức</string>
+	<key>🅾️</key>
+	<string>nhóm máu O</string>
+	<key>🇧🇩</key>
+	<string>cờ Bangladesh</string>
+	<key>🍐</key>
+	<string>lê</string>
+	<key>🥎</key>
+	<string>bóng mềm</string>
+	<key>🇯🇪</key>
+	<string>cờ Jersey</string>
+	<key>🙏</key>
+	<string>hai bàn tay chắp vào nhau</string>
+	<key>🍑</key>
+	<string>đào</string>
+	<key>🥏</key>
+	<string>đĩa ném</string>
+	<key>🍒</key>
+	<string>anh đào</string>
+	<key>🥐</key>
+	<string>bánh sừng bò</string>
+	<key>🇳🇫</key>
+	<string>cờ Đảo Norfolk</string>
+	<key>🍓</key>
+	<string>dâu tây</string>
+	<key>🇻🇬</key>
+	<string>cờ Quần đảo Virgin thuộc Anh</string>
+	<key>🇧🇪</key>
+	<string>cờ Bỉ</string>
+	<key>🥑</key>
+	<string>quả bơ</string>
+	<key>🍔</key>
+	<string>bánh hamburger</string>
+	<key>🥒</key>
+	<string>dưa chuột</string>
+	<key>⛑️</key>
+	<string>mũ cứng với chữ thập trắng</string>
+	<key>🍕</key>
+	<string>pizza</string>
+	<key>🥓</key>
+	<string>thịt muối</string>
+	<key>🇳🇬</key>
+	<string>cờ Nigeria</string>
+	<key>🍖</key>
+	<string>thịt trên xương</string>
+	<key>🥔</key>
+	<string>khoai tây</string>
+	<key>👨‍🍳</key>
+	<string>đầu bếp nam</string>
+	<key>🇧🇫</key>
+	<string>cờ Burkina Faso</string>
+	<key>🍗</key>
+	<string>đùi gia cầm</string>
+	<key>👮‍♀️</key>
+	<string>nữ cảnh sát</string>
+	<key>🥕</key>
+	<string>cà rốt</string>
+	<key>⭐️</key>
+	<string>ngôi sao</string>
+	<key>🍘</key>
+	<string>bánh gạo</string>
+	<key>🥖</key>
+	<string>bánh mì que</string>
+	<key>🗝️</key>
+	<string>chìa khóa cũ</string>
+	<key>🌶️</key>
+	<string>ớt cay</string>
+	<key>🍙</key>
+	<string>cơm nắm</string>
+	<key>🥗</key>
+	<string>salad rau xanh</string>
+	<key>🏃‍♂️</key>
+	<string>người chạy nam</string>
+	<key>🇻🇮</key>
+	<string>cờ Quần đảo Virgin thuộc Mỹ</string>
+	<key>🇧🇬</key>
+	<string>cờ Bulgaria</string>
+	<key>🍚</key>
+	<string>cơm</string>
+	<key>🥘</key>
+	<string>chảo thức ăn</string>
+	<key>🍛</key>
+	<string>cơm cà ri</string>
+	<key>🥙</key>
+	<string>bánh mì pita</string>
+	<key>🍜</key>
+	<string>bát mì</string>
+	<key>🥚</key>
+	<string>trứng</string>
+	<key>🛥️</key>
+	<string>thuyền máy</string>
+	<key>🇳🇮</key>
+	<string>cờ Nicaragua</string>
+	<key>🍝</key>
+	<string>mì spaghetti</string>
+	<key>🥛</key>
+	<string>cốc sữa</string>
+	<key>🇧🇭</key>
+	<string>cờ Bahrain</string>
+	<key>🍞</key>
+	<string>bánh mì</string>
+	<key>🥜</key>
+	<string>đậu phộng</string>
+	<key>🍟</key>
+	<string>khoai tây chiên</string>
+	<key>👨‍👨‍👦</key>
+	<string>gia đình với hai bố và con trai</string>
+	<key>🥝</key>
+	<string>kiwi</string>
+	<key>🇫🇮</key>
+	<string>cờ Phần Lan</string>
+	<key>🤾‍♂️</key>
+	<string>người đàn ông đang chơi bóng ném</string>
+	<key>🍠</key>
+	<string>khoai lang nướng</string>
+	<key>🖲️</key>
+	<string>bi xoay</string>
+	<key>🥞</key>
+	<string>bánh kếp</string>
+	<key>🇧🇮</key>
+	<string>cờ Burundi</string>
+	<key>🍡</key>
+	<string>bánh trôi</string>
+	<key>🥟</key>
+	<string>bánh bao</string>
+	<key>🍢</key>
+	<string>oden</string>
+	<key>🥠</key>
+	<string>bánh quy may mắn</string>
+	<key>🇫🇯</key>
+	<string>cờ Fiji</string>
+	<key>🍣</key>
+	<string>sushi</string>
+	<key>🥡</key>
+	<string>hộp đựng đồ ăn</string>
+	<key>🍤</key>
+	<string>tôm chiên</string>
+	<key>🥢</key>
+	<string>đôi đũa</string>
+	<key>🇧🇯</key>
+	<string>cờ Benin</string>
+	<key>↔️</key>
+	<string>mũi tên hai chiều</string>
+	<key>🍥</key>
+	<string>bánh cá có hình xoắn</string>
+	<key>🥣</key>
+	<string>bát và thìa</string>
+	<key>🍦</key>
+	<string>kem mềm</string>
+	<key>🇿🇲</key>
+	<string>cờ Zambia</string>
+	<key>🇫🇰</key>
+	<string>cờ Quần đảo Falkland</string>
+	<key>🥤</key>
+	<string>cốc mang đi</string>
+	<key>🏌️‍♀️</key>
+	<string>golf thủ nữ</string>
+	<key>🇳🇱</key>
+	<string>cờ Hà Lan</string>
+	<key>🍧</key>
+	<string>đá bào</string>
+	<key>🥥</key>
+	<string>dừa</string>
+	<key>🍨</key>
+	<string>kem</string>
+	<key>🥦</key>
+	<string>bông cải xanh</string>
+	<key>🍩</key>
+	<string>bánh rán vòng</string>
+	<key>🥧</key>
+	<string>bánh nướng</string>
+	<key>🖇️</key>
+	<string>kẹp giấy được nối</string>
+	<key>🍪</key>
+	<string>bánh quy</string>
+	<key>🥨</key>
+	<string>bánh quy xoắn</string>
+	<key>🇻🇳</key>
+	<string>cờ Việt Nam</string>
+	<key>💂‍♀️</key>
+	<string>nữ vệ binh</string>
+	<key>🇧🇱</key>
+	<string>cờ Saint Barthélemy</string>
+	<key>🍫</key>
+	<string>thanh sô cô la</string>
+	<key>🇯🇲</key>
+	<string>cờ Jamaica</string>
+	<key>🥩</key>
+	<string>bít tết</string>
+	<key>🍬</key>
+	<string>kẹo</string>
+	<key>🥪</key>
+	<string>bánh mỳ kẹp</string>
+	<key>⛹️‍♀️</key>
+	<string>cầu thủ bóng rổ nữ</string>
+	<key>🍭</key>
+	<string>kẹo mút</string>
+	<key>🇫🇲</key>
+	<string>cờ Micronesia</string>
+	<key>🥫</key>
+	<string>thực phẩm đóng hộp</string>
+	<key>🍮</key>
+	<string>bánh trứng</string>
+	<key>👨‍❤️‍👨</key>
+	<string>hai người đàn ông với trái tim</string>
+	<key>🥬</key>
+	<string>rau ăn lá</string>
+	<key>🇧🇲</key>
+	<string>cờ Bermuda</string>
+	<key>🍯</key>
+	<string>hũ mật ong</string>
+	<key>🥭</key>
+	<string>xoài</string>
+	<key>🇷🇴</key>
+	<string>cờ Romania</string>
+	<key>🍰</key>
+	<string>bánh ngọt</string>
+	<key>🥮</key>
+	<string>bánh trung thu</string>
+	<key>🍱</key>
+	<string>hộp cơm bento</string>
+	<key>🇳🇴</key>
+	<string>cờ Na Uy</string>
+	<key>🥯</key>
+	<string>bánh vòng</string>
+	<key>🇧🇳</key>
+	<string>cờ Brunei</string>
+	<key>🧚‍♀️</key>
+	<string>tiên nữ</string>
+	<key>🍲</key>
+	<string>nồi thức ăn</string>
+	<key>🇯🇴</key>
+	<string>cờ Jordan</string>
+	<key>🥰</key>
+	<string>khuôn mặt mỉm cười có trái tim</string>
+	<key>🍳</key>
+	<string>nấu ăn</string>
+	<key>🥱</key>
+	<string>khuôn mặt đang ngáp</string>
+	<key>🇫🇴</key>
+	<string>cờ Quần đảo Faroe</string>
+	<key>🍴</key>
+	<string>dĩa và dao</string>
+	<key>🥲</key>
+	<string>khuôn mặt mỉm cười có nước mắt</string>
+	<key>🇳🇵</key>
+	<string>cờ Nepal</string>
+	<key>✔️</key>
+	<string>dấu chọn</string>
+	<key>🍵</key>
+	<string>tách trà không có quai</string>
+	<key>🥳</key>
+	<string>khuôn mặt tiệc tùng</string>
+	<key>🇧🇴</key>
+	<string>cờ Bolivia</string>
+	<key>🇯🇵</key>
+	<string>cờ Nhật Bản</string>
+	<key>🍶</key>
+	<string>bình rượu sake và ly</string>
+	<key>🥴</key>
+	<string>khuôn mặt choáng váng</string>
+	<key>🍷</key>
+	<string>ly rượu vang</string>
+	<key>🥵</key>
+	<string>khuôn mặt nóng</string>
+	<key>🍸</key>
+	<string>ly cocktail</string>
+	<key>🥶</key>
+	<string>khuôn mặt lạnh</string>
+	<key>🍹</key>
+	<string>đồ uống nhiệt đới</string>
+	<key>🥷</key>
+	<string>ninja</string>
+	<key>🍺</key>
+	<string>cốc bia</string>
+	<key>🥸</key>
+	<string>khuôn mặt cải trang</string>
+	<key>🚶‍♀️</key>
+	<string>người đi bộ nữ</string>
+	<key>🍻</key>
+	<string>chạm cốc bia</string>
+	<key>🥹</key>
+	<string>khuôn mặt mỉm cười đang kìm nước mắt</string>
+	<key>🇳🇷</key>
+	<string>cờ Nauru</string>
+	<key>🍼</key>
+	<string>bình sữa trẻ em</string>
+	<key>🇧🇶</key>
+	<string>cờ Bonaire</string>
+	<key>🥺</key>
+	<string>khuôn mặt cầu xin</string>
+	<key>🧑‍🍼</key>
+	<string>người đang cho em bé ăn</string>
+	<key>🥻</key>
+	<string>sari</string>
+	<key>🇷🇸</key>
+	<string>cờ Serbia</string>
+	<key>🍾</key>
+	<string>chai rượu với nút gỗ bật ra</string>
+	<key>🇫🇷</key>
+	<string>cờ Pháp</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>người đàn ông và người phụ nữ đang hôn nhau</string>
+	<key>🥼</key>
+	<string>áo choàng phòng thí nghiệm</string>
+	<key>✍️</key>
+	<string>bàn tay đang viết</string>
+	<key>🍿</key>
+	<string>bỏng ngô</string>
+	<key>🥽</key>
+	<string>kính bảo hộ</string>
+	<key>🇧🇷</key>
+	<string>cờ Brazil</string>
+	<key>🗡️</key>
+	<string>dao găm</string>
+	<key>⏮️</key>
+	<string>biểu tượng lùi về phía sau</string>
+	<key>🎀</key>
+	<string>nơ ruy băng</string>
+	<key>🥾</key>
+	<string>giày đi bộ đường dài</string>
+	<key>🎁</key>
+	<string>món quà</string>
+	<key>🥿</key>
+	<string>giày bệt</string>
+	<key>🚀</key>
+	<string>tên lửa</string>
+	<key>🎂</key>
+	<string>bánh sinh nhật</string>
+	<key>🦀</key>
+	<string>cua</string>
+	<key>🚁</key>
+	<string>máy bay trực thăng</string>
+	<key>🇻🇺</key>
+	<string>cờ Vanuatu</string>
+	<key>🇧🇸</key>
+	<string>cờ Bahamas</string>
+	<key>🎃</key>
+	<string>đèn lồng bí ngô</string>
+	<key>🕵️‍♀️</key>
+	<string>nữ thám tử</string>
+	<key>🦁</key>
+	<string>mặt sư tử</string>
+	<key>🚂</key>
+	<string>đầu máy hơi nước</string>
+	<key>🎄</key>
+	<string>Cây thông giáng sinh</string>
+	<key>🇷🇺</key>
+	<string>cờ Nga</string>
+	<key>🦂</key>
+	<string>bọ cạp</string>
+	<key>🚃</key>
+	<string>toa tàu</string>
+	<key>🎅</key>
+	<string>Ông già Noel</string>
+	<key>🦃</key>
+	<string>gà tây</string>
+	<key>🚄</key>
+	<string>tàu cao tốc</string>
+	<key>🇳🇺</key>
+	<string>cờ Niue</string>
+	<key>🛩️</key>
+	<string>máy bay nhỏ</string>
+	<key>◾️</key>
+	<string>hình vuông nhỏ vừa màu đen</string>
+	<key>🎆</key>
+	<string>pháo hoa</string>
+	<key>🇧🇹</key>
+	<string>cờ Bhutan</string>
+	<key>🦄</key>
+	<string>kỳ lân</string>
+	<key>🚅</key>
+	<string>tàu cao tốc với mũi hình viên đạn</string>
+	<key>🎇</key>
+	<string>pháo bông</string>
+	<key>🦅</key>
+	<string>đại bàng</string>
+	<key>🚆</key>
+	<string>tàu</string>
+	<key>👱‍♀️</key>
+	<string>người phụ nữ có tóc vàng hoe</string>
+	<key>🎈</key>
+	<string>bóng bay</string>
+	<key>🇿🇼</key>
+	<string>cờ Zimbabwe</string>
+	<key>🦆</key>
+	<string>vịt</string>
+	<key>🚇</key>
+	<string>tàu điện ngầm</string>
+	<key>😮‍💨</key>
+	<string>khuôn mặt đang thở ra</string>
+	<key>🎉</key>
+	<string>pháo giấy buổi tiệc</string>
+	<key>🦇</key>
+	<string>dơi</string>
+	<key>🚈</key>
+	<string>tàu điện</string>
+	<key>🎊</key>
+	<string>bóng hoa giấy</string>
+	<key>🦈</key>
+	<string>cá mập</string>
+	<key>🚉</key>
+	<string>ga tàu</string>
+	<key>🇷🇼</key>
+	<string>cờ Rwanda</string>
+	<key>🎋</key>
+	<string>cây tanabata</string>
+	<key>🦉</key>
+	<string>cú</string>
+	<key>🚊</key>
+	<string>tàu điện</string>
+	<key>🎌</key>
+	<string>cờ bắt chéo</string>
+	<key>🦊</key>
+	<string>mặt cáo</string>
+	<key>🚋</key>
+	<string>xe điện</string>
+	<key>🎍</key>
+	<string>trang trí cây thông</string>
+	<key>🇧🇻</key>
+	<string>cờ Đảo Bouvet</string>
+	<key>🦋</key>
+	<string>bươm bướm</string>
+	<key>🚌</key>
+	<string>xe buýt</string>
+	<key>🎎</key>
+	<string>búp bê Nhật Bản</string>
+	<key>🦌</key>
+	<string>hươu</string>
+	<key>🚍</key>
+	<string>xe buýt đang tới</string>
+	<key>🎏</key>
+	<string>cờ cá chép</string>
+	<key>🦍</key>
+	<string>khỉ đột</string>
+	<key>🚎</key>
+	<string>ô tô điện</string>
+	<key>🚏</key>
+	<string>điểm dừng xe buýt</string>
+	<key>🎐</key>
+	<string>chuông gió</string>
+	<key>🦎</key>
+	<string>thằn lằn</string>
+	<key>🇧🇼</key>
+	<string>cờ Botswana</string>
+	<key>🚐</key>
+	<string>xe buýt nhỏ</string>
+	<key>♏️</key>
+	<string>Thiên Hạt</string>
+	<key>🎑</key>
+	<string>lễ vọng nguyệt</string>
+	<key>🦏</key>
+	<string>tê giác</string>
+	<key>🚑</key>
+	<string>xe cứu thương</string>
+	<key>👨‍🍼</key>
+	<string>người đàn ông đang cho em bé ăn</string>
+	<key>⚧️</key>
+	<string>biểu tượng người chuyển giới</string>
+	<key>👨‍👨‍👧</key>
+	<string>gia đình với hai bố và con gái</string>
+	<key>🖋️</key>
+	<string>bút máy</string>
+	<key>🚒</key>
+	<string>xe cứu hỏa</string>
+	<key>🎒</key>
+	<string>ba lô</string>
+	<key>🎓</key>
+	<string>mũ tốt nghiệp</string>
+	<key>🦐</key>
+	<string>tôm</string>
+	<key>🦑</key>
+	<string>mực</string>
+	<key>🚓</key>
+	<string>xe cảnh sát</string>
+	<key>❗️</key>
+	<string>dấu chấm than màu đỏ</string>
+	<key>🦒</key>
+	<string>hươu cao cổ</string>
+	<key>🙇‍♀️</key>
+	<string>người phụ nữ đang cúi đầu</string>
+	<key>🗣️</key>
+	<string>bóng đầu người đang nói</string>
+	<key>🚔</key>
+	<string>xe cảnh sát đang tới</string>
+	<key>🦓</key>
+	<string>ngựa vằn</string>
+	<key>🚕</key>
+	<string>taxi</string>
+	<key>🦔</key>
+	<string>nhím gai</string>
+	<key>🇳🇿</key>
+	<string>cờ New Zealand</string>
+	<key>🦕</key>
+	<string>khủng long</string>
+	<key>🚖</key>
+	<string>taxi đang tới</string>
+	<key>🇧🇾</key>
+	<string>cờ Belarus</string>
+	<key>🦖</key>
+	<string>khủng long bạo chúa</string>
+	<key>🚗</key>
+	<string>ô tô</string>
+	<key>🦗</key>
+	<string>dế</string>
+	<key>🚘</key>
+	<string>ô tô đang tới</string>
+	<key>🦘</key>
+	<string>kangaroo</string>
+	<key>🚙</key>
+	<string>xe thể thao đa dụng</string>
+	<key>🇧🇿</key>
+	<string>cờ Belize</string>
+	<key>🦙</key>
+	<string>lạc đà không bướu</string>
+	<key>🚚</key>
+	<string>xe tải giao hàng</string>
+	<key>♈️</key>
+	<string>Bạch Dương</string>
+	<key>🦚</key>
+	<string>chim công</string>
+	<key>🚛</key>
+	<string>đầu kéo rơ-moóc</string>
+	<key>⚠️</key>
+	<string>cảnh báo</string>
+	<key>🦛</key>
+	<string>hà mã</string>
+	<key>🚜</key>
+	<string>máy kéo</string>
+	<key>⛸️</key>
+	<string>giày trượt băng</string>
+	<key>🧘‍♂️</key>
+	<string>người đàn ông ngồi tư thế hoa sen</string>
+	<key>🧑‍🚀</key>
+	<string>phi hành gia</string>
+	<key>🦜</key>
+	<string>vẹt</string>
+	<key>🚝</key>
+	<string>tàu một ray</string>
+	<key>🦝</key>
+	<string>gấu trúc mỹ</string>
+	<key>🚞</key>
+	<string>đường ray leo núi</string>
+	<key>🎠</key>
+	<string>ngựa đu quay</string>
+	<key>🦞</key>
+	<string>tôm hùm</string>
+	<key>🚟</key>
+	<string>đường sắt trên cao</string>
+	<key>🎡</key>
+	<string>vòng đu quay</string>
+	<key>🦟</key>
+	<string>muỗi</string>
+	<key>🚠</key>
+	<string>cáp treo leo núi</string>
+	<key>🎢</key>
+	<string>tàu lượn siêu tốc</string>
+	<key>🦠</key>
+	<string>vi trùng</string>
+	<key>🚡</key>
+	<string>cáp treo</string>
+	<key>🧝‍♀️</key>
+	<string>nữ yêu tinh</string>
+	<key>🎣</key>
+	<string>cần câu và con cá</string>
+	<key>🦡</key>
+	<string>lửng</string>
+	<key>🚢</key>
+	<string>tàu thủy</string>
+	<key>🎤</key>
+	<string>micrô</string>
+	<key>🦢</key>
+	<string>thiên nga</string>
+	<key>🚣</key>
+	<string>một người đang chèo thuyền</string>
+	<key>🎥</key>
+	<string>máy quay phim</string>
+	<key>🦣</key>
+	<string>voi ma mút</string>
+	<key>🚤</key>
+	<string>xuồng cao tốc</string>
+	<key>🎦</key>
+	<string>biểu tượng rạp chiếu phim</string>
+	<key>🦤</key>
+	<string>chim dodo</string>
+	<key>🚥</key>
+	<string>đèn giao thông ngang</string>
+	<key>⚙️</key>
+	<string>bánh răng</string>
+	<key>🚴‍♂️</key>
+	<string>người đi xe đạp nam</string>
+	<key>🎧</key>
+	<string>tai nghe</string>
+	<key>🦥</key>
+	<string>con lười</string>
+	<key>🚦</key>
+	<string>đèn giao thông dọc</string>
+	<key>⛱️</key>
+	<string>ô bãi biển</string>
+	<key>🖍️</key>
+	<string>bút sáp màu</string>
+	<key>🎨</key>
+	<string>bảng màu</string>
+	<key>🦦</key>
+	<string>rái cá</string>
+	<key>🚧</key>
+	<string>biển báo công trường</string>
+	<key>🎩</key>
+	<string>mũ chóp cao</string>
+	<key>🦧</key>
+	<string>đười ươi</string>
+	<key>🚨</key>
+	<string>đèn xe cảnh sát</string>
+	<key>➡️</key>
+	<string>mũi tên phải</string>
+	<key>🎪</key>
+	<string>lều rạp xiếc</string>
+	<key>🦨</key>
+	<string>chồn hôi</string>
+	<key>🚩</key>
+	<string>cờ tam giác trên cột</string>
+	<key>🎫</key>
+	<string>vé</string>
+	<key>🦩</key>
+	<string>hồng hạc</string>
+	<key>🚪</key>
+	<string>cửa</string>
+	<key>🦸‍♀️</key>
+	<string>siêu anh hùng nữ</string>
+	<key>🎬</key>
+	<string>bảng clapper</string>
+	<key>🦪</key>
+	<string>hàu</string>
+	<key>🚫</key>
+	<string>bị cấm</string>
+	<key>🎖️</key>
+	<string>huân chương quân đội</string>
+	<key>🎭</key>
+	<string>nghệ thuật biểu diễn</string>
+	<key>🦫</key>
+	<string>hải ly</string>
+	<key>🚬</key>
+	<string>thuốc lá</string>
+	<key>🎮</key>
+	<string>bộ điều khiển trò chơi video</string>
+	<key>🦬</key>
+	<string>bò bison</string>
+	<key>🚭</key>
+	<string>biển báo không hút thuốc</string>
+	<key>🎯</key>
+	<string>hồng tâm</string>
+	<key>🦭</key>
+	<string>hải cẩu</string>
+	<key>🚮</key>
+	<string>biểu tượng xả rác đúng nơi quy định</string>
+	<key>☺️</key>
+	<string>khuôn mặt mỉm cười</string>
+	<key>🎰</key>
+	<string>máy giật xèng</string>
+	<key>🦮</key>
+	<string>chó dẫn đường</string>
+	<key>🚯</key>
+	<string>cấm xả rác</string>
+	<key>⚒️</key>
+	<string>búa và búa chim</string>
+	<key>🎱</key>
+	<string>bi-a</string>
+	<key>🦯</key>
+	<string>gậy trắng</string>
+	<key>🚰</key>
+	<string>vòi nước</string>
+	<key>🧑‍🎄</key>
+	<string>Mx. Claus</string>
+	<key>⛪️</key>
+	<string>nhà thờ</string>
+	<key>🎲</key>
+	<string>súc sắc</string>
+	<key>🤵‍♀️</key>
+	<string>người phụ nữ mặc bộ vest</string>
+	<key>⌛️</key>
+	<string>đồng hồ cát</string>
+	<key>🏋️‍♂️</key>
+	<string>vận động viên cử tạ nam</string>
+	<key>🚱</key>
+	<string>nước không uống được</string>
+	<key>🎳</key>
+	<string>bóng và ky bowling</string>
+	<key>👯‍♂️</key>
+	<string>nam vũ công đeo tai thỏ</string>
+	<key>👨‍🚀</key>
+	<string>phi hành gia nam</string>
+	<key>🚲</key>
+	<string>xe đạp</string>
+	<key>🎴</key>
+	<string>quân bài hình hoa</string>
+	<key>🚳</key>
+	<string>cấm xe đạp</string>
+	<key>👩‍👦‍👦</key>
+	<string>gia đình với mẹ và hai con trai</string>
+	<key>🎵</key>
+	<string>nốt nhạc</string>
+	<key>👨‍🤝‍👨</key>
+	<string>những người đàn ông đang nắm tay</string>
+	<key>🚴</key>
+	<string>người đi xe đạp</string>
+	<key>🎶</key>
+	<string>các nốt nhạc</string>
+	<key>🦴</key>
+	<string>xương</string>
+	<key>🚵</key>
+	<string>người đi xe đạp leo núi</string>
+	<key>🎷</key>
+	<string>kèn saxophone</string>
+	<key>🦵</key>
+	<string>chân</string>
+	<key>🚶</key>
+	<string>người đi bộ</string>
+	<key>🎸</key>
+	<string>ghi-ta</string>
+	<key>🦶</key>
+	<string>bàn chân</string>
+	<key>🚷</key>
+	<string>cấm người đi bộ</string>
+	<key>🎹</key>
+	<string>phím đàn</string>
+	<key>🦷</key>
+	<string>răng</string>
+	<key>🚸</key>
+	<string>trẻ em qua đường</string>
+	<key>🎺</key>
+	<string>kèn trumpet</string>
+	<key>🦸</key>
+	<string>siêu anh hùng</string>
+	<key>🚹</key>
+	<string>biểu tượng nam giới</string>
+	<key>🎻</key>
+	<string>đàn violin</string>
+	<key>🦹</key>
+	<string>siêu ác nhân</string>
+	<key>🚺</key>
+	<string>biểu tượng nữ giới</string>
+	<key>🎼</key>
+	<string>khuông nhạc</string>
+	<key>🦺</key>
+	<string>áo bảo hộ</string>
+	<key>🚻</key>
+	<string>nhà vệ sinh</string>
+	<key>🎽</key>
+	<string>áo chạy bộ</string>
+	<key>🦻</key>
+	<string>tai có thiết bị trợ thính</string>
+	<key>🚼</key>
+	<string>biểu tượng trẻ em</string>
+	<key>🎾</key>
+	<string>bóng tennis</string>
+	<key>🦼</key>
+	<string>xe lăn điện</string>
+	<key>🚽</key>
+	<string>nhà vệ sinh</string>
+	<key>🎿</key>
+	<string>ván trượt tuyết</string>
+	<key>🦽</key>
+	<string>xe lăn tay</string>
+	<key>🚾</key>
+	<string>nhà vệ sinh</string>
+	<key>🏀</key>
+	<string>bóng rổ</string>
+	<key>🦾</key>
+	<string>cánh tay cơ khí</string>
+	<key>🙅‍♂️</key>
+	<string>người đàn ông đang làm cử chỉ không</string>
+	<key>🚿</key>
+	<string>vòi sen</string>
+	<key>🏁</key>
+	<string>cờ ca rô đen trắng</string>
+	<key>🦿</key>
+	<string>chân cơ khí</string>
+	<key>🛀</key>
+	<string>người đang tắm</string>
+	<key>🏂</key>
+	<string>người trượt ván tuyết</string>
+	<key>🧀</key>
+	<string>miếng phô mai</string>
+	<key>🛁</key>
+	<string>bồn tắm</string>
+	<key>🚣‍♂️</key>
+	<string>người đàn ông đang chèo thuyền</string>
+	<key>🏃</key>
+	<string>người chạy</string>
+	<key>🧁</key>
+	<string>bánh nướng nhỏ</string>
+	<key>🛂</key>
+	<string>kiểm soát hộ chiếu</string>
+	<key>🏄</key>
+	<string>người lướt sóng</string>
+	<key>🧂</key>
+	<string>muối</string>
+	<key>🛃</key>
+	<string>hải quan</string>
+	<key>🏅</key>
+	<string>huy chương thể thao</string>
+	<key>🧃</key>
+	<string>hộp nước trái cây</string>
+	<key>🛄</key>
+	<string>nơi nhận hành lý</string>
+	<key>🏆</key>
+	<string>cúp</string>
+	<key>🧄</key>
+	<string>tỏi</string>
+	<key>🛅</key>
+	<string>hành lý bỏ quên</string>
+	<key>🏇</key>
+	<string>người cưỡi ngựa đua</string>
+	<key>🧅</key>
+	<string>hành</string>
+	<key>✴️</key>
+	<string>ngôi sao tám cánh</string>
+	<key>🖼️</key>
+	<string>khung ảnh có tranh</string>
+	<key>🏈</key>
+	<string>Bóng bầu dục Mỹ</string>
+	<key>🧆</key>
+	<string>falafel</string>
+	<key>🏉</key>
+	<string>bóng bầu dục</string>
+	<key>🧇</key>
+	<string>bánh quế</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>gia đình với hai bố, con trai và con gái</string>
+	<key>🏊</key>
+	<string>người bơi</string>
+	<key>🧈</key>
+	<string>bơ</string>
+	<key>🧑‍⚖️</key>
+	<string>thẩm phán</string>
+	<key>3️⃣</key>
+	<string>phím số 3</string>
+	<key>🧉</key>
+	<string>maté</string>
+	<key>🧊</key>
+	<string>nước đá</string>
+	<key>🧋</key>
+	<string>trà sữa trân châu</string>
+	<key>🛌</key>
+	<string>người đang ngủ</string>
+	<key>🧛‍♂️</key>
+	<string>ma cà rồng nam</string>
+	<key>🧌</key>
+	<string>yêu tinh</string>
+	<key>🏏</key>
+	<string>gậy cricket và bóng</string>
+	<key>🧍</key>
+	<string>người đang đứng</string>
+	<key>🏐</key>
+	<string>bóng chuyền</string>
+	<key>🧎</key>
+	<string>người đang quỳ</string>
+	<key>🏑</key>
+	<string>gậy hockey sân cỏ và bóng</string>
+	<key>🧏</key>
+	<string>Người khiếm thính</string>
+	<key>🛐</key>
+	<string>nơi thờ phụng</string>
+	<key>🏒</key>
+	<string>gậy hockey sân băng và bóng</string>
+	<key>🧐</key>
+	<string>khuôn mặt với kính một mắt</string>
+	<key>🛑</key>
+	<string>ký hiệu bát giác</string>
+	<key>🏓</key>
+	<string>vợt bóng bàn và bóng</string>
+	<key>🧑</key>
+	<string>người lớn</string>
+	<key>🛒</key>
+	<string>xe mua hàng</string>
+	<key>🧒</key>
+	<string>đứa trẻ</string>
+	<key>🧓</key>
+	<string>người cao tuổi</string>
+	<key>🎚️</key>
+	<string>thanh trượt mức</string>
+	<key>🧔</key>
+	<string>người có râu</string>
+	<key>🛕</key>
+	<string>đền thờ hindu</string>
+	<key>🧕</key>
+	<string>người phụ nữ đội khăn trùm đầu</string>
+	<key>🛖</key>
+	<string>lều</string>
+	<key>🧖</key>
+	<string>một người đang tắm hơi</string>
+	<key>🛗</key>
+	<string>thang cuốn</string>
+	<key>🧗</key>
+	<string>người leo núi đá</string>
+	<key>🧘</key>
+	<string>một người đang ngồi tư thế hoa sen</string>
+	<key>🧙</key>
+	<string>pháp sư</string>
+	<key>🧚</key>
+	<string>tiên</string>
+	<key>👩‍💻</key>
+	<string>kỹ sư công nghệ nữ</string>
+	<key>🧛</key>
+	<string>ma cà rồng</string>
+	<key>🛜</key>
+	<string>biểu tượng không dây</string>
+	<key>🧜</key>
+	<string>người cá</string>
+	<key>🛝</key>
+	<string>cầu trượt</string>
+	<key>🧝</key>
+	<string>yêu tinh</string>
+	<key>🛞</key>
+	<string>bánh xe</string>
+	<key>👨‍⚖️</key>
+	<string>thẩm phán nam</string>
+	<key>🏠</key>
+	<string>ngôi nhà</string>
+	<key>🧞</key>
+	<string>thần đèn</string>
+	<key>↘️</key>
+	<string>mũi tên xuống bên phải</string>
+	<key>🛟</key>
+	<string>phao cứu hộ</string>
+	<key>🏡</key>
+	<string>nhà có vườn</string>
+	<key>🧟</key>
+	<string>zombie</string>
+	<key>🤸‍♀️</key>
+	<string>người phụ nữ đang nhào lộn</string>
+	<key>🏢</key>
+	<string>tòa nhà văn phòng</string>
+	<key>🧠</key>
+	<string>bộ não</string>
+	<key>🏣</key>
+	<string>bưu điện Nhật Bản</string>
+	<key>🧡</key>
+	<string>trái tim màu cam</string>
+	<key>👩‍💼</key>
+	<string>nhân viên văn phòng nữ</string>
+	<key>🏤</key>
+	<string>bưu điện châu Âu</string>
+	<key>🧢</key>
+	<string>mũ lưỡi trai phẳng</string>
+	<key>🏥</key>
+	<string>bệnh viện</string>
+	<key>🧣</key>
+	<string>khăn quàng</string>
+	<key>🏦</key>
+	<string>ngân hàng</string>
+	<key>🧤</key>
+	<string>găng tay</string>
+	<key>🏧</key>
+	<string>ký hiệu ATM</string>
+	<key>🧥</key>
+	<string>áo khoác</string>
+	<key>👷‍♀️</key>
+	<string>công nhân xây dựng nữ</string>
+	<key>🏨</key>
+	<string>khách sạn</string>
+	<key>🧦</key>
+	<string>đôi tất</string>
+	<key>🏩</key>
+	<string>khách sạn tình yêu</string>
+	<key>🧧</key>
+	<string>phong bao lì xì</string>
+	<key>ℹ️</key>
+	<string>nguồn thông tin</string>
+	<key>🏪</key>
+	<string>cửa hàng tiện lợi</string>
+	<key>🧨</key>
+	<string>pháo</string>
+	<key>🏫</key>
+	<string>trường học</string>
+	<key>🧩</key>
+	<string>miếng ghép hình</string>
+	<key>🏬</key>
+	<string>cửa hàng bách hóa</string>
+	<key>🧪</key>
+	<string>ống nghiệm</string>
+	<key>🛫</key>
+	<string>máy bay cất cánh</string>
+	<key>🛳️</key>
+	<string>tàu chở khách</string>
+	<key>🏭</key>
+	<string>nhà máy</string>
+	<key>🧫</key>
+	<string>đĩa petri</string>
+	<key>🛬</key>
+	<string>máy bay hạ cánh</string>
+	<key>♨️</key>
+	<string>suối nước nóng</string>
+	<key>🏮</key>
+	<string>đèn lồng izakaya</string>
+	<key>🧬</key>
+	<string>DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>gia đình với mẹ, bố và con trai</string>
+	<key>🏯</key>
+	<string>lâu đài Nhật Bản</string>
+	<key>🧭</key>
+	<string>la bàn</string>
+	<key>🧏‍♀️</key>
+	<string>Người phụ nữ khiếm thính</string>
+	<key>🏰</key>
+	<string>Lâu đài Châu Âu</string>
+	<key>🧮</key>
+	<string>bàn tính</string>
+	<key>🧯</key>
+	<string>bình chữa cháy</string>
+	<key>⏹️</key>
+	<string>biểu tượng dừng</string>
+	<key>🧰</key>
+	<string>hộp dụng cụ</string>
+	<key>🧱</key>
+	<string>gạch</string>
+	<key>🏴</key>
+	<string>cờ đen</string>
+	<key>🧲</key>
+	<string>nam châm</string>
+	<key>🙍‍♀️</key>
+	<string>người phụ nữ đang cau mày</string>
+	<key>🧳</key>
+	<string>hành lý</string>
+	<key>🛴</key>
+	<string>xe scooter</string>
+	<key>🧴</key>
+	<string>lọ dung dịch</string>
+	<key>🛵</key>
+	<string>xe tay ga</string>
+	<key>👨‍👦</key>
+	<string>gia đình với bố và con trai</string>
+	<key>🧵</key>
+	<string>ống chỉ</string>
+	<key>💆‍♂️</key>
+	<string>người đàn ông đang mát xa đầu</string>
+	<key>🛶</key>
+	<string>xuồng</string>
+	<key>🏸</key>
+	<string>vợt cầu lông và quả cầu</string>
+	<key>🧶</key>
+	<string>cuộn len</string>
+	<key>🛷</key>
+	<string>xe trượt tuyết</string>
+	<key>🏹</key>
+	<string>cung tên</string>
+	<key>🧷</key>
+	<string>kim băng</string>
+	<key>🛸</key>
+	<string>UFO</string>
+	<key>🏺</key>
+	<string>vò hai quai</string>
+	<key>🧸</key>
+	<string>gấu bông</string>
+	<key>🛹</key>
+	<string>ván trượt</string>
+	<key>🧹</key>
+	<string>cái chổi</string>
+	<key>🛺</key>
+	<string>xe lam</string>
+	<key>⏲️</key>
+	<string>đồng hồ hẹn giờ</string>
+	<key>🧺</key>
+	<string>giỏ</string>
+	<key>🛻</key>
+	<string>xe bán tải</string>
+	<key>🧻</key>
+	<string>cuộn giấy</string>
+	<key>🛼</key>
+	<string>giày trượt patin</string>
+	<key>👨‍👧</key>
+	<string>gia đình với bố và con gái</string>
+	<key>🧼</key>
+	<string>xà phòng</string>
+	<key>🧞‍♂️</key>
+	<string>nam thần đèn</string>
+	<key>🧽</key>
+	<string>miếng bọt biển</string>
+	<key>🎞️</key>
+	<string>khung hình phim</string>
+	<key>🧾</key>
+	<string>giấy biên nhận</string>
+	<key>▪️</key>
+	<string>hình vuông nhỏ màu đen</string>
+	<key>🧿</key>
+	<string>bùa hộ mệnh hình con mắt</string>
+	<key>☂️</key>
+	<string>cái ô</string>
+	<key>🗂️</key>
+	<string>dụng cụ chia chỉ mục thẻ</string>
+	<key>🦹‍♂️</key>
+	<string>siêu ác nhân nam</string>
+	<key>🏋️</key>
+	<string>vận động viên cử tạ</string>
+	<key>◻️</key>
+	<string>hình vuông trung bình màu trắng</string>
+	<key>♓️</key>
+	<string>Song Ngư</string>
+	<key>⚫️</key>
+	<string>hình tròn màu đen</string>
+	<key>⏩</key>
+	<string>biểu tượng tua đi nhanh</string>
+	<key>⏪</key>
+	<string>biểu tượng tua lại</string>
+	<key>⏫</key>
+	<string>hai hình tam giác trỏ lên</string>
+	<key>⏬</key>
+	<string>hai hình tam giác trỏ xuống</string>
+	<key>🗯️</key>
+	<string>bong bóng lời thoại tức giận</string>
+	<key>⏰</key>
+	<string>đồng hồ báo thức</string>
+	<key>⏳</key>
+	<string>đồng hồ cát có cát đang chảy</string>
+	<key>🧑‍🎓</key>
+	<string>sinh viên</string>
+	<key>🧑‍🚒</key>
+	<string>lính cứu hỏa</string>
+	<key>♌️</key>
+	<string>Sư Tử</string>
+	<key>🗄️</key>
+	<string>tủ hồ sơ</string>
+	<key>🧍‍♂️</key>
+	<string>người đàn ông đang đứng</string>
+	<key>🏍️</key>
+	<string>xe máy</string>
+	<key>🙋‍♂️</key>
+	<string>người đàn ông đang giơ một tay lên</string>
+	<key>👨‍👩‍👧</key>
+	<string>gia đình với mẹ, bố và con gái</string>
+	<key>🇸🇦</key>
+	<string>cờ Ả Rập Xê-út</string>
+	<key>⛵️</key>
+	<string>thuyền buồm</string>
+	<key>👩‍🏫</key>
+	<string>giáo viên nữ</string>
+	<key>⬜️</key>
+	<string>hình vuông lớn màu trắng</string>
+	<key>🇸🇧</key>
+	<string>cờ Quần đảo Solomon</string>
+	<key>🇬🇦</key>
+	<string>cờ Gabon</string>
+	<key>🇨🇦</key>
+	<string>cờ Canada</string>
+	<key>🇸🇨</key>
+	<string>cờ Seychelles</string>
+	<key>🇬🇧</key>
+	<string>cờ Vương quốc Anh</string>
+	<key>👨‍🎓</key>
+	<string>sinh viên nam</string>
+	<key>👨‍🚒</key>
+	<string>lính cứu hỏa nam</string>
+	<key>⚖️</key>
+	<string>cái cân</string>
+	<key>🇸🇩</key>
+	<string>cờ Sudan</string>
+	<key>🇨🇨</key>
+	<string>cờ Quần đảo Cocos (Keeling)</string>
+	<key>⏏️</key>
+	<string>biểu tượng tháo</string>
+	<key>🇸🇪</key>
+	<string>cờ Thụy Điển</string>
+	<key>🇬🇩</key>
+	<string>cờ Grenada</string>
+	<key>👩‍🏭</key>
+	<string>công nhân nhà máy nữ</string>
+	<key>🇼🇫</key>
+	<string>cờ Wallis &amp; Futuna</string>
+	<key>🇨🇩</key>
+	<string>cờ Cộng hòa Dân chủ Congo</string>
+	<key>🇰🇪</key>
+	<string>cờ Kenya</string>
+	<key>🛎️</key>
+	<string>chuông gọi phục vụ</string>
+	<key>🇬🇪</key>
+	<string>cờ Gruzia</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>gia đình với hai mẹ, con trai và con gái</string>
+	<key>🇸🇬</key>
+	<string>cờ Singapore</string>
+	<key>🇬🇫</key>
+	<string>cờ Guiana thuộc Pháp</string>
+	<key>🇨🇫</key>
+	<string>cờ Cộng hòa Trung Phi</string>
+	<key>🇰🇬</key>
+	<string>cờ Kyrgyzstan</string>
+	<key>🗳️</key>
+	<string>hòm phiếu với lá phiếu</string>
+	<key>🇸🇭</key>
+	<string>cờ Saint Helena</string>
+	<key>🇬🇬</key>
+	<string>cờ Guernsey</string>
+	<key>🧑‍⚕️</key>
+	<string>nhân viên y tế</string>
+	<key>🏃‍♀️</key>
+	<string>người chạy nữ</string>
+	<key>🇨🇬</key>
+	<string>cờ Cộng hòa Congo</string>
+	<key>🇰🇭</key>
+	<string>cờ Campuchia</string>
+	<key>🤹‍♂️</key>
+	<string>người đàn ông đang tung hứng</string>
+	<key>🇸🇮</key>
+	<string>cờ Slovenia</string>
+	<key>🇬🇭</key>
+	<string>cờ Ghana</string>
+	<key>〽️</key>
+	<string>ký hiệu thay đổi luân phiên</string>
+	<key>🇨🇭</key>
+	<string>cờ Thụy Sĩ</string>
+	<key>🇰🇮</key>
+	<string>cờ Kiribati</string>
+	<key>🇸🇯</key>
+	<string>cờ Svalbard và Jan Mayen</string>
+	<key>🕰️</key>
+	<string>đồng hồ để bàn</string>
+	<key>8️⃣</key>
+	<string>phím số 8</string>
+	<key>🇬🇮</key>
+	<string>cờ Gibraltar</string>
+	<key>🤾‍♀️</key>
+	<string>người phụ nữ đang chơi bóng ném</string>
+	<key>🇨🇮</key>
+	<string>cờ Côte d’Ivoire</string>
+	<key>⬇️</key>
+	<string>mũi tên xuống</string>
+	<key>👩‍✈️</key>
+	<string>phi công nữ</string>
+	<key>👩‍👧‍👦</key>
+	<string>gia đình với mẹ, con trai và con gái</string>
+	<key>🇸🇰</key>
+	<string>cờ Slovakia</string>
+	<key>🌡️</key>
+	<string>nhiệt kế</string>
+	<key>↪️</key>
+	<string>mũi tên trái cong sang phải</string>
+	<key>🇸🇱</key>
+	<string>cờ Sierra Leone</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>hai người đàn ông đang hôn nhau</string>
+	<key>🇨🇰</key>
+	<string>cờ Quần đảo Cook</string>
+	<key>🇸🇲</key>
+	<string>cờ San Marino</string>
+	<key>🇬🇱</key>
+	<string>cờ Greenland</string>
+	<key>🇴🇲</key>
+	<string>cờ Oman</string>
+	<key>🇨🇱</key>
+	<string>cờ Chile</string>
+	<key>🇰🇲</key>
+	<string>cờ Comoros</string>
+	<key>🇸🇳</key>
+	<string>cờ Senegal</string>
+	<key>🇬🇲</key>
+	<string>cờ Gambia</string>
+	<key>1️⃣</key>
+	<string>phím số 1</string>
+	<key>Ⓜ️</key>
+	<string>chữ M trong vòng tròn</string>
+	<key>🇨🇲</key>
+	<string>cờ Cameroon</string>
+	<key>👨‍⚕️</key>
+	<string>nhân viên y tế nam</string>
+	<key>🙎‍♂️</key>
+	<string>người đàn ông đang bực tức</string>
+	<key>🇰🇳</key>
+	<string>cờ Saint Kitts &amp; Nevis</string>
+	<key>🇸🇴</key>
+	<string>cờ Somalia</string>
+	<key>🇬🇳</key>
+	<string>cờ Guinea</string>
+	<key>🇨🇳</key>
+	<string>cờ Trung Quốc</string>
+	<key>☢️</key>
+	<string>phóng xạ</string>
+	<key>🇨🇴</key>
+	<string>cờ Colombia</string>
+	<key>‼️</key>
+	<string>hai dấu chấm than màu đỏ</string>
+	<key>🃏</key>
+	<string>quân bài phăng</string>
+	<key>🇰🇵</key>
+	<string>cờ Triều Tiên</string>
+	<key>🇬🇵</key>
+	<string>cờ Guadeloupe</string>
+	<key>㊗️</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “chúc mừng”</string>
+	<key>🐿️</key>
+	<string>sóc chuột</string>
+	<key>🇨🇵</key>
+	<string>cờ Đảo Clipperton</string>
+	<key>🇸🇷</key>
+	<string>cờ Suriname</string>
+	<key>🏳️‍⚧️</key>
+	<string>lá cờ người chuyển giới</string>
+	<key>🇬🇶</key>
+	<string>cờ Guinea Xích đạo</string>
+	<key>🇼🇸</key>
+	<string>cờ Samoa</string>
+	<key>*️⃣</key>
+	<string>phím hoa thị</string>
+	<key>🇰🇷</key>
+	<string>cờ Hàn Quốc</string>
+	<key>🇸🇸</key>
+	<string>cờ Nam Sudan</string>
+	<key>🇬🇷</key>
+	<string>cờ Hy Lạp</string>
+	<key>🇨🇷</key>
+	<string>cờ Costa Rica</string>
+	<key>®️</key>
+	<string>ký hiệu đã đăng ký</string>
+	<key>🇸🇹</key>
+	<string>cờ São Tomé &amp; Príncipe</string>
+	<key>🇬🇸</key>
+	<string>cờ Quần đảo Nam Georgia &amp; Nam Sandwich</string>
+	<key>↕️</key>
+	<string>mũi tên lên xuống</string>
+	<key>🇬🇹</key>
+	<string>cờ Guatemala</string>
+	<key>☔️</key>
+	<string>cái ô với những giọt nước mưa</string>
+	<key>🏳️‍🌈</key>
+	<string>cờ cầu vồng</string>
+	<key>🇸🇻</key>
+	<string>cờ El Salvador</string>
+	<key>🕴️</key>
+	<string>người đàn ông mặc vest đang bay lên</string>
+	<key>⛄️</key>
+	<string>người tuyết</string>
+	<key>🇬🇺</key>
+	<string>cờ Guam</string>
+	<key>🇨🇺</key>
+	<string>cờ Cuba</string>
+	<key>#️⃣</key>
+	<string>ký hiệu số</string>
+	<key>🤼‍♂️</key>
+	<string>đấu vật nam</string>
+	<key>🌥️</key>
+	<string>mặt trời sau đám mây lớn</string>
+	<key>👁️</key>
+	<string>mắt</string>
+	<key>🇨🇻</key>
+	<string>cờ Cape Verde</string>
+	<key>🍽️</key>
+	<string>dĩa và dao với đĩa</string>
+	<key>🇰🇼</key>
+	<string>cờ Kuwait</string>
+	<key>🇸🇽</key>
+	<string>cờ Sint Maarten</string>
+	<key>🇬🇼</key>
+	<string>cờ Guinea-Bissau</string>
+	<key>🏕️</key>
+	<string>cắm trại</string>
+	<key>🩰</key>
+	<string>giày ba lê</string>
+	<key>🇨🇼</key>
+	<string>cờ Curaçao</string>
+	<key>🩱</key>
+	<string>đồ bơi một mảnh</string>
+	<key>🇸🇾</key>
+	<string>cờ Syria</string>
+	<key>♥️</key>
+	<string>bộ bài cơ</string>
+	<key>🩲</key>
+	<string>quần lót</string>
+	<key>🕉️</key>
+	<string>biểu tượng om</string>
+	<key>⚽️</key>
+	<string>bóng đá</string>
+	<key>🩳</key>
+	<string>quần đùi</string>
+	<key>🇨🇽</key>
+	<string>cờ Đảo Giáng sinh</string>
+	<key>🩴</key>
+	<string>xăng đan</string>
+	<key>🇰🇾</key>
+	<string>cờ Quần đảo Cayman</string>
+	<key>🇸🇿</key>
+	<string>cờ Eswatini</string>
+	<key>🩵</key>
+	<string>trái tim màu lam nhạt</string>
+	<key>👩‍👧‍👧</key>
+	<string>gia đình với mẹ và hai con gái</string>
+	<key>🇬🇾</key>
+	<string>cờ Guyana</string>
+	<key>🩶</key>
+	<string>trái tim màu xám</string>
+	<key>🩷</key>
+	<string>trái tim màu hồng</string>
+	<key>🇨🇾</key>
+	<string>cờ Síp</string>
+	<key>🇰🇿</key>
+	<string>cờ Kazakhstan</string>
+	<key>🩸</key>
+	<string>giọt máu</string>
+	<key>🩹</key>
+	<string>băng keo cá nhân</string>
+	<key>🩺</key>
+	<string>ống nghe</string>
+	<key>🇨🇿</key>
+	<string>cờ Séc</string>
+	<key>🩻</key>
+	<string>X-quang</string>
+	<key>🩼</key>
+	<string>nạng</string>
+	<key>🕶️</key>
+	<string>kính râm</string>
+	<key>🧘‍♀️</key>
+	<string>người phụ nữ ngồi tư thế hoa sen</string>
+	<key>⏯️</key>
+	<string>biểu tượng phát/tạm dừng</string>
+	<key>🪀</key>
+	<string>yo-yo</string>
+	<key>🌧️</key>
+	<string>đám mây với mưa</string>
+	<key>🪁</key>
+	<string>diều</string>
+	<key>🪂</key>
+	<string>dù</string>
+	<key>🧑‍🎤</key>
+	<string>ca sĩ</string>
+	<key>🪃</key>
+	<string>boomerang</string>
+	<key>🪄</key>
+	<string>đũa thần</string>
+	<key>🏗️</key>
+	<string>công trường xây dựng</string>
+	<key>🪅</key>
+	<string>piñata</string>
+	<key>🪆</key>
+	<string>búp bê lồng nhau</string>
+	<key>🚴‍♀️</key>
+	<string>người đi xe đạp nữ</string>
+	<key>🪇</key>
+	<string>trứng lắc cầm tay</string>
+	<key>🐀</key>
+	<string>chuột</string>
+	<key>🪈</key>
+	<string>sáo</string>
+	<key>🐁</key>
+	<string>chuột nhắt</string>
+	<key>🐂</key>
+	<string>bò đực</string>
+	<key>🐃</key>
+	<string>trâu nước</string>
+	<key>🐄</key>
+	<string>bò cái</string>
+	<key>🅱️</key>
+	<string>nhóm máu B</string>
+	<key>🐅</key>
+	<string>hổ</string>
+	<key>🐆</key>
+	<string>báo hoa mai</string>
+	<key>🐇</key>
+	<string>thỏ</string>
+	<key>🐈</key>
+	<string>mèo</string>
+	<key>🪐</key>
+	<string>hành tinh</string>
+	<key>♐️</key>
+	<string>Nhân Mã</string>
+	<key>🐉</key>
+	<string>rồng</string>
+	<key>🪑</key>
+	<string>ghế</string>
+	<key>🕸️</key>
+	<string>mạng nhện</string>
+	<key>🐊</key>
+	<string>cá sấu</string>
+	<key>🪒</key>
+	<string>dao cạo</string>
+	<key>👩‍🍳</key>
+	<string>đầu bếp nữ</string>
+	<key>🐋</key>
+	<string>cá voi</string>
+	<key>👯‍♀️</key>
+	<string>nữ vũ công đeo tai thỏ</string>
+	<key>🪓</key>
+	<string>rìu</string>
+	<key>🐌</key>
+	<string>ốc sên</string>
+	<key>🪔</key>
+	<string>đèn diya</string>
+	<key>🐍</key>
+	<string>rắn</string>
+	<key>🪕</key>
+	<string>đàn banjo</string>
+	<key>🏄‍♂️</key>
+	<string>người lướt sóng nam</string>
+	<key>🌩️</key>
+	<string>đám mây với tia chớp</string>
+	<key>🐎</key>
+	<string>ngựa</string>
+	<key>🪖</key>
+	<string>mũ bảo hiểm quân đội</string>
+	<key>🐏</key>
+	<string>cừu đực</string>
+	<key>🪗</key>
+	<string>đàn accordion</string>
+	<key>🐐</key>
+	<string>dê</string>
+	<key>🪘</key>
+	<string>trống dài</string>
+	<key>👨‍🎤</key>
+	<string>ca sĩ nam</string>
+	<key>🏙️</key>
+	<string>khung cảnh thành phố</string>
+	<key>🐑</key>
+	<string>cừu</string>
+	<key>🪙</key>
+	<string>đồng xu</string>
+	<key>🐒</key>
+	<string>khỉ</string>
+	<key>🪚</key>
+	<string>cưa cầm tay</string>
+	<key>♉️</key>
+	<string>Kim Ngưu</string>
+	<key>🐓</key>
+	<string>gà trống</string>
+	<key>🪛</key>
+	<string>tua vít</string>
+	<key>⚡️</key>
+	<string>tia chớp</string>
+	<key>🐔</key>
+	<string>gà</string>
+	<key>🪜</key>
+	<string>thang</string>
+	<key>⛹️</key>
+	<string>cầu thủ bóng rổ</string>
+	<key>🖥️</key>
+	<string>máy tính để bàn</string>
+	<key>🐕</key>
+	<string>chó</string>
+	<key>🪝</key>
+	<string>cái móc</string>
+	<key>🧑‍🎨</key>
+	<string>họa sĩ</string>
+	<key>🐖</key>
+	<string>lợn</string>
+	<key>🪞</key>
+	<string>gương</string>
+	<key>🐗</key>
+	<string>lợn rừng</string>
+	<key>🪟</key>
+	<string>cửa sổ</string>
+	<key>🐘</key>
+	<string>voi</string>
+	<key>🙅‍♀️</key>
+	<string>người phụ nữ đang làm cử chỉ không</string>
+	<key>🪠</key>
+	<string>ống bơm</string>
+	<key>🐙</key>
+	<string>bạch tuộc</string>
+	<key>🪡</key>
+	<string>kim khâu</string>
+	<key>🐚</key>
+	<string>vỏ ốc</string>
+	<key>🪢</key>
+	<string>nút buộc</string>
+	<key>🚣‍♀️</key>
+	<string>người phụ nữ đang chèo thuyền</string>
+	<key>🐛</key>
+	<string>con bọ</string>
+	<key>🪣</key>
+	<string>cái xô</string>
+	<key>🐜</key>
+	<string>kiến</string>
+	<key>🪤</key>
+	<string>bẫy chuột</string>
+	<key>🐝</key>
+	<string>ong</string>
+	<key>🪥</key>
+	<string>bàn chải đánh răng</string>
+	<key>🐞</key>
+	<string>bọ rùa</string>
+	<key>🪦</key>
+	<string>bia mộ</string>
+	<key>⛲️</key>
+	<string>đài phun nước</string>
+	<key>🐟</key>
+	<string>cá</string>
+	<key>🪧</key>
+	<string>biển báo</string>
+	<key>🐠</key>
+	<string>cá nhiệt đới</string>
+	<key>🗒️</key>
+	<string>sổ ghi chú gáy xoắn</string>
+	<key>🪨</key>
+	<string>đá</string>
+	<key>🐡</key>
+	<string>cá nóc</string>
+	<key>🪩</key>
+	<string>quả cầu gương</string>
+	<key>🧖‍♂️</key>
+	<string>người đàn ông tắm hơi</string>
+	<key>🌫️</key>
+	<string>sương mù</string>
+	<key>🐢</key>
+	<string>rùa</string>
+	<key>🪪</key>
+	<string>thẻ nhận dạng</string>
+	<key>🐣</key>
+	<string>gà mới nở</string>
+	<key>🪫</key>
+	<string>pin yếu</string>
+	<key>🐤</key>
+	<string>gà con</string>
+	<key>🪬</key>
+	<string>hamsa</string>
+	<key>🐥</key>
+	<string>gà con đang đứng</string>
+	<key>😶‍🌫️</key>
+	<string>khuôn mặt trong mây</string>
+	<key>🏛️</key>
+	<string>tòa nhà cổ điển</string>
+	<key>🪭</key>
+	<string>quạt xếp cầm tay</string>
+	<key>🐦</key>
+	<string>chim</string>
+	<key>🧛‍♀️</key>
+	<string>ma cà rồng nữ</string>
+	<key>🪮</key>
+	<string>lược tạo kiểu</string>
+	<key>🐧</key>
+	<string>chim cánh cụt</string>
+	<key>🪯</key>
+	<string>biểu tượng khanda</string>
+	<key>🐨</key>
+	<string>mặt koala</string>
+	<key>⚓️</key>
+	<string>mỏ neo</string>
+	<key>🪰</key>
+	<string>con ruồi</string>
+	<key>🐩</key>
+	<string>chó poodle</string>
+	<key>🪱</key>
+	<string>con sâu</string>
+	<key>🐪</key>
+	<string>lạc đà</string>
+	<key>🪲</key>
+	<string>bọ cánh cứng</string>
+	<key>👨‍🎨</key>
+	<string>họa sĩ nam</string>
+	<key>🐫</key>
+	<string>lạc đà hai bướu</string>
+	<key>🪳</key>
+	<string>con gián</string>
+	<key>🐬</key>
+	<string>cá heo</string>
+	<key>🪴</key>
+	<string>chậu cây</string>
+	<key>🐭</key>
+	<string>mặt chuột nhắt</string>
+	<key>🪵</key>
+	<string>gỗ</string>
+	<key>🐮</key>
+	<string>mặt bò cái</string>
+	<key>🪶</key>
+	<string>lông vũ</string>
+	<key>🐯</key>
+	<string>mặt hổ</string>
+	<key>🪷</key>
+	<string>hoa sen</string>
+	<key>🐕‍🦺</key>
+	<string>chó hỗ trợ</string>
+	<key>🐰</key>
+	<string>mặt thỏ</string>
+	<key>🪸</key>
+	<string>san hô</string>
+	<key>🐱</key>
+	<string>mặt mèo</string>
+	<key>🪹</key>
+	<string>tổ trống</string>
+	<key>🐲</key>
+	<string>đầu rồng</string>
+	<key>🪺</key>
+	<string>tổ có trứng</string>
+	<key>🐳</key>
+	<string>cá voi đang phun nước</string>
+	<key>🪻</key>
+	<string>dạ lan hương</string>
+	<key>🐴</key>
+	<string>đầu ngựa</string>
+	<key>🪼</key>
+	<string>sứa</string>
+	<key>🐵</key>
+	<string>mặt khỉ</string>
+	<key>🪽</key>
+	<string>cánh</string>
+	<key>🐶</key>
+	<string>mặt chó</string>
+	<key>🐷</key>
+	<string>mặt lợn</string>
+	<key>🪿</key>
+	<string>ngỗng</string>
+	<key>🐸</key>
+	<string>mặt ếch</string>
+	<key>🫀</key>
+	<string>mô hình giải phẫu tim</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>cờ Anh</string>
+	<key>🐹</key>
+	<string>mặt hamster</string>
+	<key>🫁</key>
+	<string>phổi</string>
+	<key>🐺</key>
+	<string>chó sói</string>
+	<key>🏝️</key>
+	<string>đảo hoang</string>
+	<key>🫂</key>
+	<string>người đang ôm</string>
+	<key>🐻</key>
+	<string>mặt gấu</string>
+	<key>🏌️‍♂️</key>
+	<string>golf thủ nam</string>
+	<key>🫃</key>
+	<string>người đàn ông có thai</string>
+	<key>🐼</key>
+	<string>mặt gấu trúc</string>
+	<key>🫄</key>
+	<string>người có thai</string>
+	<key>6️⃣</key>
+	<string>phím số 6</string>
+	<key>🐽</key>
+	<string>mũi lợn</string>
+	<key>🫅</key>
+	<string>người đội vương miện</string>
+	<key>🐾</key>
+	<string>dấu chân móng vuốt</string>
+	<key>👀</key>
+	<string>đôi mắt</string>
+	<key>👂</key>
+	<string>tai</string>
+	<key>👃</key>
+	<string>mũi</string>
+	<key>👄</key>
+	<string>miệng</string>
+	<key>👅</key>
+	<string>lưỡi</string>
+	<key>☦️</key>
+	<string>Thập giá Chính Thống giáo</string>
+	<key>👆</key>
+	<string>ngón trỏ mu bàn tay chỉ lên trên</string>
+	<key>👩‍🍼</key>
+	<string>người phụ nữ đang cho em bé ăn</string>
+	<key>🫎</key>
+	<string>mặt nai sừng tấm</string>
+	<key>♾️</key>
+	<string>vô cực</string>
+	<key>👇</key>
+	<string>ngón trỏ mu bàn tay chỉ xuống dưới</string>
+	<key>🫏</key>
+	<string>lừa</string>
+	<key>👈</key>
+	<string>ngón trỏ mu bàn tay chỉ sang trái</string>
+	<key>🫐</key>
+	<string>việt quất xanh</string>
+	<key>👉</key>
+	<string>ngón trỏ mu bàn tay chỉ sang phải</string>
+	<key>🫑</key>
+	<string>ớt chuông</string>
+	<key>👊</key>
+	<string>nắm đấm</string>
+	<key>🫒</key>
+	<string>ô-liu</string>
+	<key>⭕️</key>
+	<string>dấu tròn</string>
+	<key>💁‍♂️</key>
+	<string>nam nhân viên quầy thông tin</string>
+	<key>👋</key>
+	<string>vẫy tay</string>
+	<key>🫓</key>
+	<string>bánh mì dẹt</string>
+	<key>👌</key>
+	<string>ký hiệu bàn tay OK</string>
+	<key>🫔</key>
+	<string>bánh tamale</string>
+	<key>👍</key>
+	<string>ngón cái trỏ lên</string>
+	<key>🫕</key>
+	<string>nước sốt</string>
+	<key>👎</key>
+	<string>ngón cái trỏ xuống</string>
+	<key>🫖</key>
+	<string>ấm trà</string>
+	<key>🏟️</key>
+	<string>sân vận động</string>
+	<key>👏</key>
+	<string>vỗ tay</string>
+	<key>🫗</key>
+	<string>đổ chất lỏng</string>
+	<key>💆‍♀️</key>
+	<string>người phụ nữ đang mát xa đầu</string>
+	<key>👐</key>
+	<string>hai bàn tay đang xòe</string>
+	<key>🫘</key>
+	<string>hạt đậu</string>
+	<key>🐦‍⬛</key>
+	<string>chim hoét đen</string>
+	<key>🧑‍🦯</key>
+	<string>một người cầm gậy trắng</string>
+	<key>🫙</key>
+	<string>lọ</string>
+	<key>🧙‍♂️</key>
+	<string>nam pháp sư</string>
+	<key>👑</key>
+	<string>vương miện</string>
+	<key>⛏️</key>
+	<string>búa chim</string>
+	<key>👒</key>
+	<string>mũ có nơ</string>
+	<key>🫚</key>
+	<string>củ gừng</string>
+	<key>👓</key>
+	<string>kính</string>
+	<key>🫛</key>
+	<string>quả đậu</string>
+	<key>👔</key>
+	<string>áo sơ mi và cà vạt</string>
+	<key>👕</key>
+	<string>áo polo</string>
+	<key>👖</key>
+	<string>quần jeans</string>
+	<key>🧞‍♀️</key>
+	<string>nữ thần đèn</string>
+	<key>👗</key>
+	<string>váy</string>
+	<key>↙️</key>
+	<string>mũi tên xuống bên trái</string>
+	<key>🧑‍🦰</key>
+	<string>người tóc đỏ</string>
+	<key>🕵️‍♂️</key>
+	<string>nam thám tử</string>
+	<key>👘</key>
+	<string>kimono</string>
+	<key>🟠</key>
+	<string>hình tròn màu cam</string>
+	<key>🫠</key>
+	<string>khuôn mặt tan chảy</string>
+	<key>🟡</key>
+	<string>hình tròn màu vàng</string>
+	<key>👩‍❤️‍👨</key>
+	<string>người đàn ông và người phụ nữ với trái tim</string>
+	<key>👙</key>
+	<string>áo tắm hai mảnh</string>
+	<key>◀️</key>
+	<string>hình tam giác trỏ sang trái</string>
+	<key>🫡</key>
+	<string>khuôn mặt đang chào</string>
+	<key>🟢</key>
+	<string>hình tròn màu lục</string>
+	<key>👚</key>
+	<string>áo cánh</string>
+	<key>☘️</key>
+	<string>cỏ ba lá</string>
+	<key>🫢</key>
+	<string>khuôn mặt với mắt mở to và bàn tay che miệng</string>
+	<key>🚵‍♂️</key>
+	<string>người đi xe đạp leo núi nam</string>
+	<key>🟣</key>
+	<string>hình tròn màu tím</string>
+	<key>👛</key>
+	<string>ví cầm tay</string>
+	<key>🫣</key>
+	<string>khuôn mặt đang nhìn trộm</string>
+	<key>🟤</key>
+	<string>hình tròn màu nâu</string>
+	<key>👜</key>
+	<string>túi xách</string>
+	<key>⛈️</key>
+	<string>đám mây với tia chớp và mưa</string>
+	<key>🫤</key>
+	<string>khuôn mặt với miệng chéo</string>
+	<key>🟥</key>
+	<string>hình vuông màu đỏ</string>
+	<key>👝</key>
+	<string>túi nhỏ</string>
+	<key>🫥</key>
+	<string>khuôn mặt có đường chấm</string>
+	<key>🟦</key>
+	<string>hình vuông màu lam</string>
+	<key>👞</key>
+	<string>giày lễ phục</string>
+	<key>🧑‍🦱</key>
+	<string>người tóc xoăn</string>
+	<key>🫦</key>
+	<string>cắn môi</string>
+	<key>🟧</key>
+	<string>hình vuông màu cam</string>
+	<key>🦹‍♀️</key>
+	<string>siêu ác nhân nữ</string>
+	<key>👟</key>
+	<string>giày tennis</string>
+	<key>🫧</key>
+	<string>bong bóng</string>
+	<key>🟨</key>
+	<string>hình vuông màu vàng</string>
+	<key>❤️‍🔥</key>
+	<string>trái tim bốc cháy</string>
+	<key>👠</key>
+	<string>giày cao gót</string>
+	<key>🟩</key>
+	<string>hình vuông màu lục</string>
+	<key>🫨</key>
+	<string>khuôn mặt rung lắc</string>
+	<key>👡</key>
+	<string>dép cao gót</string>
+	<key>🟪</key>
+	<string>hình vuông màu tím</string>
+	<key>👢</key>
+	<string>bốt cao gót</string>
+	<key>🟫</key>
+	<string>hình vuông màu nâu</string>
+	<key>👣</key>
+	<string>dấu chân</string>
+	<key>🛠️</key>
+	<string>búa và cờ lê</string>
+	<key>📽️</key>
+	<string>máy chiếu phim</string>
+	<key>👤</key>
+	<string>bóng của một người</string>
+	<key>☑️</key>
+	<string>hộp kiểm có dấu chọn</string>
+	<key>🧑‍🦲</key>
+	<string>người không có tóc</string>
+	<key>👥</key>
+	<string>bóng của hai người</string>
+	<key>👦</key>
+	<string>bé trai</string>
+	<key>👨‍🦯</key>
+	<string>người đàn ông cầm gậy trắng</string>
+	<key>👧</key>
+	<string>bé gái</string>
+	<key>👰‍♂️</key>
+	<string>người đàn ông đội khăn voan</string>
+	<key>👩‍🚀</key>
+	<string>phi hành gia nữ</string>
+	<key>🟰</key>
+	<string>dấu bằng</string>
+	<key>🏴‍☠️</key>
+	<string>cờ hải tặc</string>
+	<key>👨</key>
+	<string>đàn ông</string>
+	<key>🫰</key>
+	<string>bàn tay với ngón trỏ và ngón cái bắt chéo</string>
+	<key>⏺️</key>
+	<string>biểu tượng ghi</string>
+	<key>👩</key>
+	<string>phụ nữ</string>
+	<key>🫱</key>
+	<string>bàn tay chỉ sang phải</string>
+	<key>👪</key>
+	<string>gia đình</string>
+	<key>🫲</key>
+	<string>bàn tay chỉ sang trái</string>
+	<key>👫</key>
+	<string>người đàn ông và người phụ nữ đang nắm tay</string>
+	<key>🫳</key>
+	<string>bàn tay úp xuống</string>
+	<key>🧑‍🦳</key>
+	<string>người tóc trắng</string>
+	<key>👬</key>
+	<string>hai người đàn ông đang nắm tay</string>
+	<key>🫴</key>
+	<string>bàn tay ngửa lên</string>
+	<key>👭</key>
+	<string>hai người phụ nữ đang nắm tay</string>
+	<key>👨‍🦰</key>
+	<string>người đàn ông tóc đỏ</string>
+	<key>🫵</key>
+	<string>ngón trỏ đang chỉ vào người xem</string>
+	<key>👮</key>
+	<string>sĩ quan cảnh sát</string>
+	<key>🏊‍♂️</key>
+	<string>người bơi nam</string>
+	<key>🫶</key>
+	<string>bàn tay hình trái tim</string>
+	<key>👯</key>
+	<string>vũ công đeo tai thỏ</string>
+	<key>🫷</key>
+	<string>bàn tay đẩy sang trái</string>
+	<key>👰</key>
+	<string>người đội khăn voan</string>
+	<key>🫸</key>
+	<string>bàn tay đẩy sang phải</string>
+	<key>👱</key>
+	<string>một người tóc vàng hoe</string>
+	<key>✒️</key>
+	<string>bút máy</string>
+	<key>👲</key>
+	<string>người đàn ông đội mũ Trung Quốc</string>
+	<key>🧍‍♀️</key>
+	<string>người phụ nữ đang đứng</string>
+	<key>👳</key>
+	<string>người đội khăn xếp</string>
+	<key>👨‍🦱</key>
+	<string>người đàn ông tóc xoăn</string>
+	<key>👴</key>
+	<string>ông già</string>
+	<key>🙆‍♂️</key>
+	<string>người đàn ông đang làm cử chỉ OK</string>
+	<key>👵</key>
+	<string>bà già</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>gia đình với mẹ, bố, con trai và con gái</string>
+	<key>👶</key>
+	<string>trẻ em</string>
+	<key>👷</key>
+	<string>công nhân xây dựng</string>
+	<key>▫️</key>
+	<string>hình vuông nhỏ màu trắng</string>
+	<key>👸</key>
+	<string>công chúa</string>
+	<key>🛢️</key>
+	<string>thùng dầu</string>
+	<key>☃️</key>
+	<string>người tuyết với bông tuyết</string>
+	<key>👹</key>
+	<string>quỷ</string>
+	<key>🙋‍♀️</key>
+	<string>người phụ nữ đang giơ một tay lên</string>
+	<key>👺</key>
+	<string>yêu tinh</string>
+	<key>👨‍🦲</key>
+	<string>người đàn ông không có tóc</string>
+	<key>🇹🇦</key>
+	<string>cờ Tristan da Cunha</string>
+	<key>👻</key>
+	<string>ma</string>
+	<key>🇵🇦</key>
+	<string>cờ Panama</string>
+	<key>👼</key>
+	<string>thiên thần nhỏ</string>
+	<key>❣️</key>
+	<string>trái tim màu đỏ như một dấu chấm than</string>
+	<key>👽</key>
+	<string>người ngoài hành tinh</string>
+	<key>🇱🇦</key>
+	<string>cờ Lào</string>
+	<key>👾</key>
+	<string>quái vật ngoài hành tinh</string>
+	<key>👿</key>
+	<string>khuôn mặt tức giận có sừng</string>
+	<key>💀</key>
+	<string>đầu lâu</string>
+	<key>🇱🇧</key>
+	<string>cờ Li-băng</string>
+	<key>👨‍🦳</key>
+	<string>người đàn ông tóc trắng</string>
+	<key>💁</key>
+	<string>nhân viên quầy thông tin</string>
+	<key>🇹🇨</key>
+	<string>cờ Quần đảo Turks &amp; Caicos</string>
+	<key>🧜‍♂️</key>
+	<string>chàng tiên cá</string>
+	<key>💂</key>
+	<string>lính gác</string>
+	<key>💃</key>
+	<string>người phụ nữ đang khiêu vũ</string>
+	<key>◼️</key>
+	<string>hình vuông trung bình màu đen</string>
+	<key>🇱🇨</key>
+	<string>cờ Saint Lucia</string>
+	<key>💄</key>
+	<string>son môi</string>
+	<key>🇹🇩</key>
+	<string>cờ Chad</string>
+	<key>💅</key>
+	<string>sơn móng tay</string>
+	<key>💆</key>
+	<string>một người đang mát xa đầu</string>
+	<key>💇</key>
+	<string>một người đang cắt tóc</string>
+	<key>🗜️</key>
+	<string>cái kẹp</string>
+	<key>💈</key>
+	<string>biển hiệu của thợ cắt tóc</string>
+	<key>💉</key>
+	<string>ống tiêm</string>
+	<key>🇵🇪</key>
+	<string>cờ Peru</string>
+	<key>💊</key>
+	<string>viên thuốc</string>
+	<key>💋</key>
+	<string>dấu nụ hôn</string>
+	<key>🇹🇫</key>
+	<string>cờ Lãnh thổ Phía Nam thuộc Pháp</string>
+	<key>💌</key>
+	<string>thư tình</string>
+	<key>👩‍❤️‍👩</key>
+	<string>hai người phụ nữ với trái tim</string>
+	<key>🇵🇫</key>
+	<string>cờ Polynesia thuộc Pháp</string>
+	<key>🛤️</key>
+	<string>đường ray tàu hỏa</string>
+	<key>💍</key>
+	<string>nhẫn</string>
+	<key>🆎</key>
+	<string>nhóm máu AB</string>
+	<key>🇩🇪</key>
+	<string>cờ Đức</string>
+	<key>🈂️</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “dịch vụ” hoặc “phí dịch vụ”</string>
+	<key>💎</key>
+	<string>đá quý</string>
+	<key>♍️</key>
+	<string>Xử Nữ</string>
+	<key>🇹🇬</key>
+	<string>cờ Togo</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>hai người phụ nữ đang hôn nhau</string>
+	<key>💏</key>
+	<string>cặp đôi đang hôn</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>những người đang nắm tay</string>
+	<key>💐</key>
+	<string>bó hoa</string>
+	<key>⛽️</key>
+	<string>bơm nhiên liệu</string>
+	<key>🇵🇬</key>
+	<string>cờ Papua New Guinea</string>
+	<key>🖱️</key>
+	<string>chuột máy tính</string>
+	<key>🆑</key>
+	<string>ký hiệu CL</string>
+	<key>💑</key>
+	<string>cặp đôi với trái tim</string>
+	<key>🆒</key>
+	<string>ký hiệu mát</string>
+	<key>🇹🇭</key>
+	<string>cờ Thái Lan</string>
+	<key>💒</key>
+	<string>đám cưới</string>
+	<key>🆓</key>
+	<string>ký hiệu miễn phí</string>
+	<key>💓</key>
+	<string>trái tim đang đập</string>
+	<key>🆔</key>
+	<string>ký hiệu nhận dạng</string>
+	<key>🇵🇭</key>
+	<string>cờ Philippines</string>
+	<key>👩‍⚖️</key>
+	<string>thẩm phán nữ</string>
+	<key>💔</key>
+	<string>trái tim tan vỡ</string>
+	<key>🇩🇬</key>
+	<string>cờ Diego Garcia</string>
+	<key>🆕</key>
+	<string>ký hiệu mới</string>
+	<key>🅿️</key>
+	<string>biển báo đỗ xe</string>
+	<key>💕</key>
+	<string>hai trái tim</string>
+	<key>🤹‍♀️</key>
+	<string>người phụ nữ đang tung hứng</string>
+	<key>🆖</key>
+	<string>ký hiệu không tốt</string>
+	<key>💖</key>
+	<string>trái tim lấp lánh</string>
+	<key>🆗</key>
+	<string>ký hiệu OK</string>
+	<key>💗</key>
+	<string>trái tim lớn dần</string>
+	<key>👳‍♂️</key>
+	<string>người đàn ông đội khăn xếp</string>
+	<key>🆘</key>
+	<string>Ký hiệu SOS</string>
+	<key>💘</key>
+	<string>trái tim với mũi tên</string>
+	<key>🇱🇮</key>
+	<string>cờ Liechtenstein</string>
+	<key>🆙</key>
+	<string>ký hiệu lên</string>
+	<key>🈯️</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “đặt trước”</string>
+	<key>🇹🇯</key>
+	<string>cờ Tajikistan</string>
+	<key>💙</key>
+	<string>trái tim màu lam</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>gia đình với hai bố và hai con trai</string>
+	<key>🆚</key>
+	<string>vs trong hình vuông</string>
+	<key>💚</key>
+	<string>trái tim màu lục</string>
+	<key>🇽🇰</key>
+	<string>cờ Kosovo</string>
+	<key>💛</key>
+	<string>trái tim màu vàng</string>
+	<key>🗞️</key>
+	<string>tờ báo được cuộn tròn</string>
+	<key>💜</key>
+	<string>trái tim màu tím</string>
+	<key>🇹🇰</key>
+	<string>cờ Tokelau</string>
+	<key>💝</key>
+	<string>trái tim với ruy băng</string>
+	<key>🇵🇰</key>
+	<string>cờ Pakistan</string>
+	<key>💞</key>
+	<string>trái tim xoay vòng</string>
+	<key>🇩🇯</key>
+	<string>cờ Djibouti</string>
+	<key>💟</key>
+	<string>hình trang trí trái tim</string>
+	<key>🇱🇰</key>
+	<string>cờ Sri Lanka</string>
+	<key>🇹🇱</key>
+	<string>cờ Timor-Leste</string>
+	<key>👩‍🤝‍👨</key>
+	<string>người phụ nữ và người đàn ông đang nắm tay</string>
+	<key>💠</key>
+	<string>hình thoi có dấu chấm bên trong</string>
+	<key>🇭🇰</key>
+	<string>cờ Hồng Kông</string>
+	<key>💡</key>
+	<string>bóng đèn</string>
+	<key>🇵🇱</key>
+	<string>cờ Ba Lan</string>
+	<key>🇩🇰</key>
+	<string>cờ Đan Mạch</string>
+	<key>💢</key>
+	<string>biểu tượng tức giận</string>
+	<key>🇹🇲</key>
+	<string>cờ Turkmenistan</string>
+	<key>💣</key>
+	<string>bom</string>
+	<key>⚗️</key>
+	<string>bình chưng cất</string>
+	<key>💤</key>
+	<string>ký hiệu đang ngủ</string>
+	<key>🇵🇲</key>
+	<string>cờ Saint Pierre &amp; Miquelon</string>
+	<key>💥</key>
+	<string>nổ</string>
+	<key>❇️</key>
+	<string>lấp lánh</string>
+	<key>💦</key>
+	<string>những giọt nước</string>
+	<key>🇹🇳</key>
+	<string>cờ Tunisia</string>
+	<key>🧑‍🦼</key>
+	<string>một người ngồi xe lăn điện</string>
+	<key>💧</key>
+	<string>giọt nước</string>
+	<key>🇭🇲</key>
+	<string>cờ Quần đảo Heard và McDonald</string>
+	<key>🇵🇳</key>
+	<string>cờ Pitcairn</string>
+	<key>💨</key>
+	<string>cơn gió mạnh</string>
+	<key>🇩🇲</key>
+	<string>cờ Dominica</string>
+	<key>💩</key>
+	<string>đống phân</string>
+	<key>🙎‍♀️</key>
+	<string>người phụ nữ đang bực tức</string>
+	<key>🇹🇴</key>
+	<string>cờ Tonga</string>
+	<key>💪</key>
+	<string>bắp tay co lại</string>
+	<key>🇭🇳</key>
+	<string>cờ Honduras</string>
+	<key>👩‍👦</key>
+	<string>gia đình với mẹ và con trai</string>
+	<key>💫</key>
+	<string>biểu tượng choáng váng</string>
+	<key>💇‍♂️</key>
+	<string>người đàn ông đang cắt tóc</string>
+	<key>💬</key>
+	<string>bong bóng lời thoại</string>
+	<key>☸️</key>
+	<string>pháp luân</string>
+	<key>💭</key>
+	<string>bong bóng suy nghĩ</string>
+	<key>🧑‍🦽</key>
+	<string>một người ngồi xe lăn tay</string>
+	<key>💮</key>
+	<string>bông hoa màu trắng</string>
+	<key>💯</key>
+	<string>biểu tượng 100 điểm</string>
+	<key>🇩🇴</key>
+	<string>cờ Cộng hòa Dominica</string>
+	<key>💰</key>
+	<string>túi tiền</string>
+	<key>💱</key>
+	<string>đổi tiền</string>
+	<key>😵‍💫</key>
+	<string>khuôn mặt với mắt xoắn ốc</string>
+	<key>👩‍👧</key>
+	<string>gia đình với mẹ và con gái</string>
+	<key>🧟‍♂️</key>
+	<string>zombie nam</string>
+	<key>💲</key>
+	<string>ký hiệu đô la</string>
+	<key>💳</key>
+	<string>thẻ tín dụng</string>
+	<key>🇹🇷</key>
+	<string>lá cờ Thổ Nhĩ Kỳ</string>
+	<key>💴</key>
+	<string>tiền giấy yên</string>
+	<key>💵</key>
+	<string>tiền giấy đô la</string>
+	<key>🇵🇷</key>
+	<string>cờ Puerto Rico</string>
+	<key>💶</key>
+	<string>tiền giấy euro</string>
+	<key>🇱🇷</key>
+	<string>cờ Liberia</string>
+	<key>💷</key>
+	<string>tiền giấy bảng</string>
+	<key>💸</key>
+	<string>tiền có cánh</string>
+	<key>🇭🇷</key>
+	<string>cờ Croatia</string>
+	<key>🇵🇸</key>
+	<string>cờ Lãnh thổ Palestine</string>
+	<key>💹</key>
+	<string>đồ thị với xu hướng tăng và ký hiệu yên</string>
+	<key>💺</key>
+	<string>ghế ngồi</string>
+	<key>🇱🇸</key>
+	<string>cờ Lesotho</string>
+	<key>🇹🇹</key>
+	<string>cờ Trinidad &amp; Tobago</string>
+	<key>💻</key>
+	<string>máy tính xách tay</string>
+	<key>💼</key>
+	<string>cặp tài liệu</string>
+	<key>👨‍🦼</key>
+	<string>người đàn ông ngồi xe lăn điện</string>
+	<key>🇵🇹</key>
+	<string>cờ Bồ Đào Nha</string>
+	<key>💽</key>
+	<string>đĩa nhỏ</string>
+	<key>🇱🇹</key>
+	<string>cờ Litva</string>
+	<key>💾</key>
+	<string>đĩa mềm</string>
+	<key>🇭🇹</key>
+	<string>cờ Haiti</string>
+	<key>💿</key>
+	<string>cd</string>
+	<key>📀</key>
+	<string>dvd</string>
+	<key>🤷‍♂️</key>
+	<string>người đàn ông đang nhún vai</string>
+	<key>📁</key>
+	<string>cặp tài liệu đóng</string>
+	<key>🇱🇺</key>
+	<string>cờ Luxembourg</string>
+	<key>☪️</key>
+	<string>sao và trăng lưỡi liềm</string>
+	<key>🇹🇻</key>
+	<string>cờ Tuvalu</string>
+	<key>📂</key>
+	<string>cặp tài liệu mở</string>
+	<key>4️⃣</key>
+	<string>phím số 4</string>
+	<key>🇭🇺</key>
+	<string>cờ Hungary</string>
+	<key>👨‍🦽</key>
+	<string>người đàn ông ngồi xe lăn tay</string>
+	<key>📃</key>
+	<string>trang bị quăn</string>
+	<key>🖊️</key>
+	<string>bút bi</string>
+	<key>📄</key>
+	<string>trang hướng lên trên</string>
+	<key>🇱🇻</key>
+	<string>cờ Latvia</string>
+	<key>🇹🇼</key>
+	<string>cờ Đài Loan</string>
+	<key>📅</key>
+	<string>lịch</string>
+	<key>🤼‍♀️</key>
+	<string>đấu vật nữ</string>
+	<key>📆</key>
+	<string>lịch bị xé rời</string>
+	<key>🇵🇼</key>
+	<string>cờ Palau</string>
+	<key>📇</key>
+	<string>chỉ mục thẻ</string>
+	<key>📈</key>
+	<string>đồ thị với xu hướng tăng</string>
+	<key>🧑‍🔧</key>
+	<string>thợ máy</string>
+	<key>📉</key>
+	<string>đồ thị với xu hướng giảm</string>
+	<key>〰️</key>
+	<string>dấu gạch ngang lượn sóng</string>
+	<key>📊</key>
+	<string>biểu đồ thanh</string>
+	<key>📋</key>
+	<string>bảng ghi nhớ</string>
+	<key>☣️</key>
+	<string>nguy hiểm sinh học</string>
+	<key>📌</key>
+	<string>đinh ghim</string>
+	<key>♻️</key>
+	<string>biểu tượng tái chế</string>
+	<key>📍</key>
+	<string>đinh ghim hình tròn</string>
+	<key>🇵🇾</key>
+	<string>cờ Paraguay</string>
+	<key>⛓️</key>
+	<string>dây xích</string>
+	<key>📎</key>
+	<string>kẹp giấy</string>
+	<key>🧎‍♂️</key>
+	<string>người đàn ông đang quỳ</string>
+	<key>🇱🇾</key>
+	<string>cờ Libya</string>
+	<key>📏</key>
+	<string>thước thẳng</string>
+	<key>🇹🇿</key>
+	<string>cờ Tanzania</string>
+	<key>📐</key>
+	<string>thước eke</string>
+	<key>📑</key>
+	<string>tab dấu trang</string>
+	<key>📒</key>
+	<string>sổ cái</string>
+	<key>📓</key>
+	<string>sổ ghi chép tổng hợp</string>
+	<key>👩‍🤝‍👩</key>
+	<string>những người phụ nữ đang nắm tay</string>
+	<key>📔</key>
+	<string>sổ ghi chép có bìa trang trí</string>
+	<key>🇩🇿</key>
+	<string>cờ Algeria</string>
+	<key>📕</key>
+	<string>sách giáo khoa màu đỏ</string>
+	<key>📖</key>
+	<string>sách đang mở</string>
+	<key>📗</key>
+	<string>sách giáo khoa màu lục</string>
+	<key>🖌️</key>
+	<string>cọ vẽ tranh</string>
+	<key>📘</key>
+	<string>sách giáo khoa màu lam</string>
+	<key>📙</key>
+	<string>sách giáo khoa màu cam</string>
+	<key>👩‍👩‍👦</key>
+	<string>gia đình với hai mẹ và con trai</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>gia đình với hai bố và hai con gái</string>
+	<key>📚</key>
+	<string>sách</string>
+	<key>📛</key>
+	<string>thẻ tên</string>
+	<key>📜</key>
+	<string>cuộn giấy</string>
+	<key>📝</key>
+	<string>sổ ghi nhớ</string>
+	<key>↖️</key>
+	<string>mũi tên lên bên trái</string>
+	<key>🤦‍♂️</key>
+	<string>người đàn ông đang che mặt</string>
+	<key>📞</key>
+	<string>ống nghe điện thoại bàn</string>
+	<key>👩‍🎓</key>
+	<string>sinh viên nữ</string>
+	<key>👩‍🚒</key>
+	<string>lính cứu hỏa nữ</string>
+	<key>⤴️</key>
+	<string>mũi tên phải cong lên</string>
+	<key>👨‍🔧</key>
+	<string>thợ máy nam</string>
+	<key>📟</key>
+	<string>máy nhắn tin</string>
+	<key>☕️</key>
+	<string>đồ uống nóng</string>
+	<key>📠</key>
+	<string>fax</string>
+	<key>📡</key>
+	<string>ăng-ten vệ tinh</string>
+	<key>⛅️</key>
+	<string>mặt trời sau đám mây</string>
+	<key>📢</key>
+	<string>loa phóng thanh</string>
+	<key>🧑‍🌾</key>
+	<string>nông dân</string>
+	<key>✝️</key>
+	<string>thánh giá La-tinh</string>
+	<key>📣</key>
+	<string>loa cổ vũ</string>
+	<key>📤</key>
+	<string>khay thư đi</string>
+	<key>📥</key>
+	<string>khay thư đến</string>
+	<key>📦</key>
+	<string>gói hàng</string>
+	<key>📧</key>
+	<string>email</string>
+	<key>📨</key>
+	<string>phong bì thư đến</string>
+	<key>📩</key>
+	<string>phong bì với mũi tên</string>
+	<key>▶️</key>
+	<string>hình tam giác trỏ sang phải</string>
+	<key>🧑‍🔬</key>
+	<string>nhà khoa học</string>
+	<key>📪</key>
+	<string>hộp thư được đóng với lá cờ nằm ngang</string>
+	<key>☎️</key>
+	<string>điện thoại bàn</string>
+	<key>🈷️</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “số tiền hàng tháng”</string>
+	<key>♦️</key>
+	<string>bộ bài rô</string>
+	<key>📫</key>
+	<string>hộp thư được đóng với lá cờ đứng</string>
+	<key>📬</key>
+	<string>hộp thư được mở với lá cờ đứng</string>
+	<key>⚾️</key>
+	<string>bóng chày</string>
+	<key>📭</key>
+	<string>hộp thư được mở với lá cờ nằm ngang</string>
+	<key>✖️</key>
+	<string>dấu nhân</string>
+	<key>📮</key>
+	<string>hòm thư</string>
+	<key>📯</key>
+	<string>kèn bưu chính</string>
+	<key>🏄‍♀️</key>
+	<string>người lướt sóng nữ</string>
+	<key>📰</key>
+	<string>báo</string>
+	<key>📱</key>
+	<string>điện thoại di động</string>
+	<key>🎗️</key>
+	<string>ruy băng nhắc nhở</string>
+	<key>📲</key>
+	<string>điện thoại với mũi tên</string>
+	<key>📳</key>
+	<string>chế độ rung</string>
+	<key>📴</key>
+	<string>tắt điện thoại di động</string>
+	<key>📵</key>
+	<string>cấm điện thoại di động</string>
+	<key>♟️</key>
+	<string>quân tốt cờ vua</string>
+	<key>📶</key>
+	<string>thanh tín hiệu di động</string>
+	<key>📷</key>
+	<string>máy ảnh</string>
+	<key>✏️</key>
+	<string>bút chì</string>
+	<key>📸</key>
+	<string>máy ảnh có đèn flash</string>
+	<key>👨‍🌾</key>
+	<string>nông dân nam</string>
+	<key>📹</key>
+	<string>máy quay phim</string>
+	<key>📺</key>
+	<string>tivi</string>
+	<key>🐻‍❄️</key>
+	<string>gấu trắng</string>
+	<key>📻</key>
+	<string>radio</string>
+	<key>📼</key>
+	<string>băng video</string>
+	<key>☀️</key>
+	<string>mặt trời</string>
+	<key>📿</key>
+	<string>tràng hạt</string>
+	<key>👨‍🔬</key>
+	<string>nhà khoa học nam</string>
+	<key>🔀</key>
+	<string>biểu tượng xáo trộn bài</string>
+	<key>🈁</key>
+	<string>từ Tiếng Nhật nghĩa là “tại đây”</string>
+	<key>⚰️</key>
+	<string>quan tài</string>
+	<key>🔁</key>
+	<string>biểu tượng lặp lại</string>
+	<key>🖐️</key>
+	<string>bàn tay giơ lên với các ngón tay xòe ra</string>
+	<key>✈️</key>
+	<string>máy bay</string>
+	<key>🔂</key>
+	<string>biểu tượng lặp lại một bài</string>
+	<key>🗨️</key>
+	<string>bong bóng lời thoại bên trái</string>
+	<key>🔃</key>
+	<string>các mũi tên dọc theo chiều kim đồng hồ</string>
+	<key>🧖‍♀️</key>
+	<string>người phụ nữ tắm hơi</string>
+	<key>🔄</key>
+	<string>mũi tên ngược chiều kim đồng hồ</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>gia đình với hai mẹ và hai con trai</string>
+	<key>👩‍⚕️</key>
+	<string>nhân viên y tế nữ</string>
+	<key>™️</key>
+	<string>ký hiệu thương hiệu</string>
+	<key>🔅</key>
+	<string>biểu tượng độ sáng thấp</string>
+	<key>🔆</key>
+	<string>biểu tượng độ sáng cao</string>
+	<key>🎙️</key>
+	<string>micrô phòng thu âm</string>
+	<key>🔇</key>
+	<string>loa bị tắt tiếng</string>
+	<key>🔈</key>
+	<string>loa</string>
+	<key>🛰️</key>
+	<string>vệ tinh</string>
+	<key>🔉</key>
+	<string>loa với âm lượng trung bình</string>
+	<key>♑️</key>
+	<string>Ma Kết</string>
+	<key>🔊</key>
+	<string>loa với âm lượng lớn</string>
+	<key>🔋</key>
+	<string>pin</string>
+	<key>🔌</key>
+	<string>phích cắm điện</string>
+	<key>👩‍👩‍👧</key>
+	<string>gia đình với hai mẹ và con gái</string>
+	<key>🔍</key>
+	<string>kính phóng đại trỏ sang trái</string>
+	<key>🔎</key>
+	<string>kính phóng đại trỏ sang phải</string>
+	<key>🔏</key>
+	<string>khóa với bút mực</string>
+	<key>🔐</key>
+	<string>khóa được đóng với chìa khóa</string>
+	<key>🔑</key>
+	<string>chìa khóa</string>
+	<key>🔒</key>
+	<string>khóa đã đóng</string>
+	<key>🔓</key>
+	<string>khóa đang mở</string>
+	<key>♊️</key>
+	<string>Song Tử</string>
+	<key>🔔</key>
+	<string>chuông</string>
+	<key>🔕</key>
+	<string>chuông bị tắt tiếng</string>
+	<key>⛺️</key>
+	<string>cái lều</string>
+	<key>🔖</key>
+	<string>dấu trang</string>
+	<key>🔗</key>
+	<string>biểu tượng liên kết</string>
+	<key>🔘</key>
+	<string>nút tròn</string>
+	<key>🔙</key>
+	<string>mũi tên back</string>
+	<key>🔚</key>
+	<string>mũi tên end</string>
+	<key>🔛</key>
+	<string>mũi tên on!</string>
+	<key>🎛️</key>
+	<string>núm điều khiển</string>
+	<key>🔜</key>
+	<string>mũi tên soon</string>
+	<key>🏳️</key>
+	<string>cờ trắng</string>
+	<key>🔝</key>
+	<string>mũi tên top</string>
+	<key>🔞</key>
+	<string>cấm người dưới 18 tuổi</string>
+	<key>🔟</key>
+	<string>phím số 10</string>
+	<key>⚛️</key>
+	<string>biểu tượng nguyên tử</string>
+	<key>🔠</key>
+	<string>biểu tượng nhập chữ hoa</string>
+	<key>⛳️</key>
+	<string>lỗ golf có cờ</string>
+	<key>🔡</key>
+	<string>biểu tượng nhập chữ thường</string>
+	<key>🤽‍♂️</key>
+	<string>người đàn ông đang chơi bóng nước</string>
+	<key>🔢</key>
+	<string>biểu tượng nhập số</string>
+	<key>🔣</key>
+	<string>biểu tượng nhập biểu tượng</string>
+	<key>🔤</key>
+	<string>biểu tượng nhập chữ cái</string>
+	<key>🔥</key>
+	<string>lửa</string>
+	<key>🔦</key>
+	<string>đèn pin</string>
+	<key>🔧</key>
+	<string>cờ lê</string>
+	<key>🔨</key>
+	<string>cái búa</string>
+	<key>🔩</key>
+	<string>đai ốc và bu lông</string>
+	<key>⚔️</key>
+	<string>kiếm bắt chéo</string>
+	<key>🔪</key>
+	<string>dao</string>
+	<key>🔫</key>
+	<string>súng nước</string>
+	<key>❄️</key>
+	<string>bông tuyết</string>
+	<key>🔬</key>
+	<string>kính hiển vi</string>
+	<key>💁‍♀️</key>
+	<string>nữ nhân viên quầy thông tin</string>
+	<key>🔭</key>
+	<string>kính viễn vọng</string>
+	<key>🔮</key>
+	<string>quả cầu pha lê</string>
+	<key>🧔‍♂️</key>
+	<string>người đàn ông có râu</string>
+	<key>🔯</key>
+	<string>sao sáu cạnh có dấu chấm ở giữa</string>
+	<key>🔰</key>
+	<string>Ký hiệu của Nhật cho người bắt đầu</string>
+	<key>🔱</key>
+	<string>biểu tượng đinh ba</string>
+	<key>🈲</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “bị cấm”</string>
+	<key>🏵️</key>
+	<string>nơ hoa hồng</string>
+	<key>🔲</key>
+	<string>nút vuông màu đen</string>
+	<key>🈳</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “còn trống”</string>
+	<key>🔳</key>
+	<string>nút vuông màu trắng</string>
+	<key>🈴</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “vượt (lớp)”</string>
+	<key>🧙‍♀️</key>
+	<string>nữ pháp sư</string>
+	<key>🔴</key>
+	<string>hình tròn màu đỏ</string>
+	<key>🈵</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “kín; hết chỗ”</string>
+	<key>🔵</key>
+	<string>hình tròn màu lam</string>
+	<key>🈶</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “không miễn phí”</string>
+	<key>🔶</key>
+	<string>hình thoi lớn màu cam</string>
+	<key>🔷</key>
+	<string>hình thoi lớn màu lam</string>
+	<key>🈸</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “đơn xin”</string>
+	<key>🔸</key>
+	<string>hình thoi nhỏ màu cam</string>
+	<key>🈹</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “giảm giá“</string>
+	<key>🔹</key>
+	<string>hình thoi nhỏ màu lam</string>
+	<key>9️⃣</key>
+	<string>phím số 9</string>
+	<key>🈺</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “mở cửa kinh doanh”</string>
+	<key>🔺</key>
+	<string>tam giác màu đỏ trỏ lên trên</string>
+	<key>🔻</key>
+	<string>tam giác màu đỏ trỏ xuống dưới</string>
+	<key>🀄️</key>
+	<string>quân mạt chược rồng đỏ</string>
+	<key>🔼</key>
+	<string>hình tam giác trỏ lên</string>
+	<key>🚵‍♀️</key>
+	<string>người đi xe đạp leo núi nữ</string>
+	<key>☮️</key>
+	<string>biểu tượng hòa bình</string>
+	<key>🔽</key>
+	<string>hình tam giác trỏ xuống</string>
+	<key>👨‍👦‍👦</key>
+	<string>gia đình với bố và hai con trai</string>
+	<key>⬅️</key>
+	<string>mũi tên trái</string>
+	<key>⛎</key>
+	<string>Xà Phu</string>
+	<key>🎟️</key>
+	<string>vé vào cửa</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>gia đình với hai mẹ và hai con gái</string>
+	<key>🏷️</key>
+	<string>thẻ nhãn</string>
+	<key>2️⃣</key>
+	<string>phím số 2</string>
+	<key>♿️</key>
+	<string>biểu tượng xe lăn</string>
+	<key>👰‍♀️</key>
+	<string>người phụ nữ đội khăn voan</string>
+	<key>🗃️</key>
+	<string>hộp đựng hồ sơ</string>
+	<key>🕋</key>
+	<string>Kaaba</string>
+	<key>🕌</key>
+	<string>nhà thờ Hồi giáo</string>
+	<key>🕍</key>
+	<string>giáo đường do thái</string>
+	<key>🕎</key>
+	<string>menorah</string>
+	<key>👩‍🎤</key>
+	<string>ca sĩ nữ</string>
+	<key>🉐</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “mặc cả”</string>
+	<key>🏌️</key>
+	<string>người chơi golf</string>
+	<key>🛋️</key>
+	<string>ghế dài và đèn</string>
+	<key>🕐</key>
+	<string>một giờ</string>
+	<key>🏊‍♀️</key>
+	<string>người bơi nữ</string>
+	<key>🉑</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “có thể chấp nhận”</string>
+	<key>☠️</key>
+	<string>đầu lâu xương chéo</string>
+	<key>🕑</key>
+	<string>hai giờ</string>
+	<key>🕒</key>
+	<string>ba giờ</string>
+	<key>🏋️‍♀️</key>
+	<string>vận động viên cử tạ nữ</string>
+	<key>🕓</key>
+	<string>bốn giờ</string>
+	<key>🕔</key>
+	<string>năm giờ</string>
+	<key>🕕</key>
+	<string>sáu giờ</string>
+	<key>🕖</key>
+	<string>bảy giờ</string>
+	<key>🙆‍♀️</key>
+	<string>người phụ nữ đang làm cử chỉ OK</string>
+	<key>🕗</key>
+	<string>tám giờ</string>
+	<key>🕘</key>
+	<string>chín giờ</string>
+	<key>🕙</key>
+	<string>mười giờ</string>
+	<key>🕚</key>
+	<string>mười một giờ</string>
+	<key>🕛</key>
+	<string>mười hai giờ</string>
+	<key>🕜</key>
+	<string>1 giờ rưỡi</string>
+	<key>🇺🇦</key>
+	<string>cờ Ukraina</string>
+	<key>🕝</key>
+	<string>2 giờ rưỡi</string>
+	<key>🇶🇦</key>
+	<string>cờ Qatar</string>
+	<key>🕞</key>
+	<string>3 giờ rưỡi</string>
+	<key>✡️</key>
+	<string>Ngôi sao David</string>
+	<key>🇲🇦</key>
+	<string>cờ Ma Rốc</string>
+	<key>🕟</key>
+	<string>4 giờ rưỡi</string>
+	<key>🧗‍♂️</key>
+	<string>người leo núi đá nam</string>
+	<key>🕠</key>
+	<string>5 giờ rưỡi</string>
+	<key>🕡</key>
+	<string>6 giờ rưỡi</string>
+	<key>🇪🇦</key>
+	<string>cờ Ceuta và Melilla</string>
+	<key>🕢</key>
+	<string>7 giờ rưỡi</string>
+	<key>✅</key>
+	<string>biểu tượng dấu chọn</string>
+	<key>🕣</key>
+	<string>8 giờ rưỡi</string>
+	<key>🧜‍♀️</key>
+	<string>nàng tiên cá</string>
+	<key>🏎️</key>
+	<string>xe đua</string>
+	<key>🕤</key>
+	<string>9 giờ rưỡi</string>
+	<key>🛍️</key>
+	<string>túi mua sắm</string>
+	<key>🕥</key>
+	<string>10 giờ rưỡi</string>
+	<key>✊</key>
+	<string>nắm đấm giơ lên</string>
+	<key>🇲🇨</key>
+	<string>cờ Monaco</string>
+	<key>✋</key>
+	<string>bàn tay giơ lên</string>
+	<key>🕦</key>
+	<string>11 giờ rưỡi</string>
+	<key>🕧</key>
+	<string>12 giờ rưỡi</string>
+	<key>🇮🇨</key>
+	<string>cờ Quần đảo Canary</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>cờ Wales</string>
+	<key>🇾🇪</key>
+	<string>cờ Yemen</string>
+	<key>🇪🇨</key>
+	<string>cờ Ecuador</string>
+	<key>👩‍🎨</key>
+	<string>họa sĩ nữ</string>
+	<key>🇲🇩</key>
+	<string>cờ Moldova</string>
+	<key>🇦🇨</key>
+	<string>cờ Đảo Ascension</string>
+	<key>🇮🇩</key>
+	<string>cờ Indonesia</string>
+	<key>🇲🇪</key>
+	<string>cờ Montenegro</string>
+	<key>🇦🇩</key>
+	<string>cờ Andorra</string>
+	<key>🇮🇪</key>
+	<string>cờ Ireland</string>
+	<key>🇪🇪</key>
+	<string>cờ Estonia</string>
+	<key>🇲🇫</key>
+	<string>cờ Saint Martin</string>
+	<key>🇺🇬</key>
+	<string>cờ Uganda</string>
+	<key>♣️</key>
+	<string>bộ bài nhép</string>
+	<key>🇦🇪</key>
+	<string>cờ Các Tiểu vương quốc Ả Rập Thống nhất</string>
+	<key>🕯️</key>
+	<string>nến</string>
+	<key>🇲🇬</key>
+	<string>cờ Madagascar</string>
+	<key>🇦🇫</key>
+	<string>cờ Afghanistan</string>
+	<key>👮‍♂️</key>
+	<string>nam cảnh sát</string>
+	<key>🇪🇬</key>
+	<string>cờ Ai Cập</string>
+	<key>🇲🇭</key>
+	<string>cờ Quần đảo Marshall</string>
+	<key>✨</key>
+	<string>lấp lánh</string>
+	<key>🇦🇬</key>
+	<string>cờ Antigua &amp; Barbuda</string>
+	<key>🛏️</key>
+	<string>giường</string>
+	<key>👳‍♀️</key>
+	<string>người phụ nữ đội khăn xếp</string>
+	<key>🇪🇭</key>
+	<string>cờ Tây Sahara</string>
+	<key>☄️</key>
+	<string>sao chổi</string>
+	<key>🕺</key>
+	<string>người đàn ông đang khiêu vũ</string>
+	<key>✌️</key>
+	<string>dấu tay hòa bình</string>
+	<key>❤️</key>
+	<string>trái tim màu đỏ</string>
+	<key>⏭️</key>
+	<string>biểu tượng tiến về phía trước</string>
+	<key>🇦🇮</key>
+	<string>cờ Anguilla</string>
+	<key>🇲🇰</key>
+	<string>cờ Bắc Macedonia</string>
+	<key>◽️</key>
+	<string>hình vuông nhỏ vừa màu trắng</string>
+	<key>🇲🇱</key>
+	<string>cờ Mali</string>
+	<key>🈚️</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “miễn phí”</string>
+	<key>🇺🇲</key>
+	<string>cờ Các tiểu đảo xa của Mỹ</string>
+	<key>🇮🇱</key>
+	<string>cờ Israel</string>
+	<key>🇲🇲</key>
+	<string>cờ Myanmar (Miến Điện)</string>
+	<key>💂‍♂️</key>
+	<string>vệ binh</string>
+	<key>🇺🇳</key>
+	<string>cờ Liên hợp quốc</string>
+	<key>🇦🇱</key>
+	<string>cờ Albania</string>
+	<key>🧑‍💻</key>
+	<string>kỹ sư công nghệ</string>
+	<key>🇮🇲</key>
+	<string>cờ Đảo Man</string>
+	<key>⛹️‍♂️</key>
+	<string>cầu thủ bóng rổ nam</string>
+	<key>🇲🇳</key>
+	<string>cờ Mông Cổ</string>
+	<key>🇦🇲</key>
+	<string>cờ Armenia</string>
+	<key>🇮🇳</key>
+	<string>cờ Ấn Độ</string>
+	<key>❌</key>
+	<string>dấu gạch chéo</string>
+	<key>💇‍♀️</key>
+	<string>người phụ nữ đang cắt tóc</string>
+	<key>❎</key>
+	<string>Dấu X</string>
+	<key>🇲🇴</key>
+	<string>cờ Ma Cao</string>
+	<key>♎️</key>
+	<string>Thiên Bình</string>
+	<key>🧚‍♂️</key>
+	<string>tiên nam</string>
+	<key>🧑‍💼</key>
+	<string>nhân viên văn phòng</string>
+	<key>🇮🇴</key>
+	<string>cờ Lãnh thổ Ấn Độ Dương thuộc Anh</string>
+	<key>❓</key>
+	<string>dấu chấm hỏi màu đỏ</string>
+	<key>❔</key>
+	<string>dấu chấm hỏi màu trắng</string>
+	<key>🇲🇵</key>
+	<string>cờ Quần đảo Bắc Mariana</string>
+	<key>❕</key>
+	<string>dấu chấm than màu trắng</string>
+	<key>🇦🇴</key>
+	<string>cờ Angola</string>
+	<key>🧟‍♀️</key>
+	<string>zombie nữ</string>
+	<key>🖕</key>
+	<string>ngón giữa</string>
+	<key>🇲🇶</key>
+	<string>cờ Martinique</string>
+	<key>🖖</key>
+	<string>bàn tay với các ngón tay tách rời nhau chỗ ngón giữa và ngón đeo nhẫn</string>
+	<key>🇮🇶</key>
+	<string>cờ Iraq</string>
+	<key>🚶‍♂️</key>
+	<string>người đi bộ nam</string>
+	<key>🇲🇷</key>
+	<string>cờ Mauritania</string>
+	<key>🇺🇸</key>
+	<string>cờ Mỹ</string>
+	<key>🇦🇶</key>
+	<string>cờ châu Nam Cực</string>
+	<key>🇮🇷</key>
+	<string>cờ Iran</string>
+	<key>🕳️</key>
+	<string>lỗ</string>
+	<key>⌨️</key>
+	<string>bàn phím</string>
+	<key>🇾🇹</key>
+	<string>cờ Mayotte</string>
+	<key>🇪🇷</key>
+	<string>cờ Eritrea</string>
+	<key>⛷️</key>
+	<string>người trượt tuyết</string>
+	<key>🇲🇸</key>
+	<string>cờ Montserrat</string>
+	<key>🇦🇷</key>
+	<string>cờ Argentina</string>
+	<key>🇮🇸</key>
+	<string>cờ Iceland</string>
+	<key>👨‍💻</key>
+	<string>kỹ sư công nghệ nam</string>
+	<key>🌤️</key>
+	<string>mặt trời sau đám mây nhỏ</string>
+	<key>🇪🇸</key>
+	<string>cờ Tây Ban Nha</string>
+	<key>🇲🇹</key>
+	<string>cờ Malta</string>
+	<key>🇦🇸</key>
+	<string>cờ Samoa thuộc Mỹ</string>
+	<key>🇮🇹</key>
+	<string>cờ Ý</string>
+	<key>❤️‍🩹</key>
+	<string>trái tim dán băng keo</string>
+	<key>🏔️</key>
+	<string>đỉnh núi phủ tuyết</string>
+	<key>🇪🇹</key>
+	<string>cờ Ethiopia</string>
+	<key>🤷‍♀️</key>
+	<string>người phụ nữ đang nhún vai</string>
+	<key>🇲🇺</key>
+	<string>cờ Mauritius</string>
+	<key>🇦🇹</key>
+	<string>cờ Áo</string>
+	<key>🖤</key>
+	<string>trái tim màu đen</string>
+	<key>👩‍🦯</key>
+	<string>người phụ nữ cầm gậy trắng</string>
+	<key>👱‍♂️</key>
+	<string>người đàn ông tóc vàng hoe</string>
+	<key>👨‍💼</key>
+	<string>nhân viên văn phòng nam</string>
+	<key>⛰️</key>
+	<string>ngọn núi</string>
+	<key>🇪🇺</key>
+	<string>cờ Liên minh Châu Âu</string>
+	<key>🇲🇻</key>
+	<string>cờ Maldives</string>
+	<key>🇦🇺</key>
+	<string>cờ Australia</string>
+	<key>🇲🇼</key>
+	<string>cờ Malawi</string>
+	<key>👩‍🦰</key>
+	<string>người phụ nữ tóc đỏ</string>
+	<key>🇲🇽</key>
+	<string>cờ Mexico</string>
+	<key>🇺🇾</key>
+	<string>cờ Uruguay</string>
+	<key>🇦🇼</key>
+	<string>cờ Aruba</string>
+	<key>☹️</key>
+	<string>khuôn mặt cau có</string>
+	<key>⌚️</key>
+	<string>đồng hồ</string>
+	<key>🕵️</key>
+	<string>thám tử</string>
+	<key>⛩️</key>
+	<string>Đền thờ Nhật Bản</string>
+	<key>🇲🇾</key>
+	<string>cờ Malaysia</string>
+	<key>🧎‍♀️</key>
+	<string>người phụ nữ đang quỳ</string>
+	<key>🇺🇿</key>
+	<string>cờ Uzbekistan</string>
+	<key>🇦🇽</key>
+	<string>cờ Quần đảo Aland</string>
+	<key>👩‍🦱</key>
+	<string>người phụ nữ tóc xoăn</string>
+	<key>🙇‍♂️</key>
+	<string>người đàn ông đang cúi đầu</string>
+	<key>🌦️</key>
+	<string>mặt trời sau đám mây mưa</string>
+	<key>🇲🇿</key>
+	<string>cờ Mozambique</string>
+	<key>🏖️</key>
+	<string>bãi biển với chiếc ô</string>
+	<key>👩‍🦲</key>
+	<string>người phụ nữ không có tóc</string>
+	<key>🇦🇿</key>
+	<string>cờ Azerbaijan</string>
+	<key>➕</key>
+	<string>dấu cộng</string>
+	<key>🕊️</key>
+	<string>bồ câu</string>
+	<key>➖</key>
+	<string>dấu trừ</string>
+	<key>➗</key>
+	<string>dấu chia</string>
+	<key>🗺️</key>
+	<string>bản đồ thế giới</string>
+	<key>👩‍🦳</key>
+	<string>người phụ nữ tóc trắng</string>
+	<key>7️⃣</key>
+	<string>phím số 7</string>
+	<key>🅰️</key>
+	<string>nhóm máu A</string>
+	<key>🤦‍♀️</key>
+	<string>người phụ nữ đang che mặt</string>
+	<key>🧝‍♂️</key>
+	<string>nam yêu tinh</string>
+	<key>🕷️</key>
+	<string>nhện</string>
+	<key>✳️</key>
+	<string>dấu hoa thị tám cánh</string>
+	<key>🌨️</key>
+	<string>đám mây với tuyết</string>
+	<key>🦸‍♂️</key>
+	<string>siêu anh hùng nam</string>
+	<key>➰</key>
+	<string>vòng lặp</string>
+	<key>🏘️</key>
+	<string>một nhóm những ngôi nhà</string>
+	<key>0️⃣</key>
+	<string>phím số 0</string>
+	<key>🤵‍♂️</key>
+	<string>người đàn ông mặc bộ vest</string>
+	<key>⛔️</key>
+	<string>cấm vào</string>
+	<key>👨‍👧‍👦</key>
+	<string>gia đình với bố, con trai và con gái</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>gia đình với mẹ, bố và hai con trai</string>
+	<key>🧑‍🏫</key>
+	<string>giáo viên</string>
+	<key>➿</key>
+	<string>vòng lặp đôi</string>
+	<key>㊙️</key>
+	<string>ký hiệu Tiếng Nhật nghĩa là “bí mật”</string>
+	<key>☝️</key>
+	<string>ngón trỏ chỉ lên trên</string>
+	<key>🕹️</key>
+	<string>cần điều khiển</string>
+	<key>🗑️</key>
+	<string>giỏ rác</string>
+	<key>🌪️</key>
+	<string>lốc xoáy</string>
+	<key>🧑‍🏭</key>
+	<string>công nhân nhà máy</string>
+	<key>↗️</key>
+	<string>mũi tên lên bên phải</string>
+	<key>⤵️</key>
+	<string>mũi tên phải cong xuống</string>
+	<key>🏚️</key>
+	<string>ngôi nhà bỏ hoang</string>
+	<key>©️</key>
+	<string>ký hiệu bản quyền</string>
+	<key>👨‍🏫</key>
+	<string>giáo viên nam</string>
+	<key>🗓️</key>
+	<string>lịch gáy xoắn</string>
+	<key>⏸️</key>
+	<string>biểu tượng tạm dừng</string>
+	<key>🧑‍✈️</key>
+	<string>phi công</string>
+	<key>🌬️</key>
+	<string>khuôn mặt đang thổi gió</string>
+	<key>👨‍🏭</key>
+	<string>công nhân nhà máy nam</string>
+	<key>🏜️</key>
+	<string>sa mạc</string>
+	<key>♠️</key>
+	<string>bộ bài bích</string>
+	<key>🖨️</key>
+	<string>máy in</string>
+	<key>⏱️</key>
+	<string>đồng bồ bấm giờ</string>
+	<key>👩‍🦼</key>
+	<string>người phụ nữ ngồi xe lăn điện</string>
+	<key>🗻</key>
+	<string>núi phú sĩ</string>
+	<key>🫱‍🫲</key>
+	<string>bắt tay</string>
+	<key>🗼</key>
+	<string>tháp Tokyo</string>
+	<key>🗽</key>
+	<string>Tượng nữ thần Tự do</string>
+	<key>🗾</key>
+	<string>bóng Nhật Bản</string>
+	<key>🤸‍♂️</key>
+	<string>người đàn ông đang nhào lộn</string>
+	<key>🌀</key>
+	<string>lốc xoáy</string>
+	<key>🗿</key>
+	<string>tượng Đảo Phục sinh</string>
+	<key>☁️</key>
+	<string>mây</string>
+	<key>🌁</key>
+	<string>cầu trong sương mù</string>
+	<key>😀</key>
+	<string>khuôn mặt cười tươi</string>
+	<key>👩‍🦽</key>
+	<string>người phụ nữ ngồi xe lăn tay</string>
+	<key>🌂</key>
+	<string>ô đã đóng</string>
+	<key>😁</key>
+	<string>khuôn mặt cười rạng rỡ với hai mắt híp lại</string>
+	<key>⚱️</key>
+	<string>bình đựng tro cốt</string>
+	<key>🌃</key>
+	<string>đêm có sao</string>
+	<key>😂</key>
+	<string>khuôn mặt với nước mắt vui sướng</string>
+	<key>✉️</key>
+	<string>phong bì</string>
+	<key>👨‍👧‍👧</key>
+	<string>gia đình với bố và hai con gái</string>
+	<key>🤽‍♀️</key>
+	<string>người phụ nữ đang chơi bóng nước</string>
+	<key>🌄</key>
+	<string>mặt trời mọc phía trên núi</string>
+	<key>😃</key>
+	<string>khuôn mặt cười tươi với hai mắt mở to</string>
+	<key>🌅</key>
+	<string>mặt trời mọc</string>
+	<key>😄</key>
+	<string>khuôn mặt cười tươi với hai mắt híp lại</string>
+	<key>👷‍♂️</key>
+	<string>công nhân xây dựng nam</string>
+	<key>👨‍✈️</key>
+	<string>phi công nam</string>
+	<key>🌆</key>
+	<string>khung cảnh thành phố lúc hoàng hôn</string>
+	<key>😅</key>
+	<string>khuôn mặt cười tươi với mồ hôi</string>
+	<key>🌇</key>
+	<string>mặt trời lặn phía trên tòa nhà</string>
+	<key>😆</key>
+	<string>khuôn mặt cười tươi với hai mắt nheo lại</string>
+	<key>🌈</key>
+	<string>cầu vồng</string>
+	<key>😇</key>
+	<string>khuôn mặt mỉm cười với vầng hào quang</string>
+	<key>🌉</key>
+	<string>cây cầu về đêm</string>
+	<key>😈</key>
+	<string>khuôn mặt mỉm cười có sừng</string>
+	<key>🏞️</key>
+	<string>công viên quốc gia</string>
+	<key>🌊</key>
+	<string>sóng</string>
+	<key>😉</key>
+	<string>khuôn mặt nháy mắt</string>
+	<key>🌋</key>
+	<string>núi lửa</string>
+	<key>😊</key>
+	<string>khuôn mặt mỉm cười với hai mắt híp lại</string>
+	<key>♒️</key>
+	<string>Bảo Bình</string>
+	<key>🌌</key>
+	<string>Dải Ngân hà</string>
+	<key>😋</key>
+	<string>khuôn mặt mỉm cười liếm môi</string>
+	<key>⚪️</key>
+	<string>hình tròn màu trắng</string>
+	<key>🌍</key>
+	<string>địa cầu đang hiển thị Châu Âu và Châu Phi</string>
+	<key>😌</key>
+	<string>khuôn mặt thanh thản</string>
+	<key>🧏‍♂️</key>
+	<string>Người đàn ông khiếm thính</string>
+	<key>✂️</key>
+	<string>kéo</string>
+	<key>🌎</key>
+	<string>địa cầu đang hiển thị Châu Mỹ</string>
+	<key>🤌</key>
+	<string>ngón tay chụm lại</string>
+	<key>😍</key>
+	<string>khuôn mặt đang cười có mắt hình trái tim</string>
+	<key>🌏</key>
+	<string>địa cầu đang hiển thị Châu Á và Châu Úc</string>
+	<key>🤍</key>
+	<string>trái tim màu trắng</string>
+	<key>😎</key>
+	<string>khuôn mặt mỉm cười với kính râm</string>
+	<key>🌐</key>
+	<string>địa cầu với các kinh tuyến</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>gia đình với mẹ, bố và hai con gái</string>
+	<key>🤎</key>
+	<string>trái tim màu nâu</string>
+	<key>😏</key>
+	<string>khuôn mặt cười nhếch mép</string>
+	<key>🌑</key>
+	<string>trăng non</string>
+	<key>🤏</key>
+	<string>bàn tay đang chụm</string>
+	<key>😐</key>
+	<string>khuôn mặt trung tính</string>
+	<key>🧔‍♀️</key>
+	<string>người phụ nữ có râu</string>
+	<key>🌒</key>
+	<string>trăng lưỡi liềm đầu tháng</string>
+	<key>🤐</key>
+	<string>khuôn mặt với miệng có khóa kéo</string>
+	<key>😑</key>
+	<string>khuôn mặt không biểu cảm</string>
+	<key>🙍‍♂️</key>
+	<string>người đàn ông đang cau mày</string>
+	<key>🌓</key>
+	<string>trăng thượng huyền</string>
+	<key>🤑</key>
+	<string>khuôn mặt có tiền trong miệng</string>
+	<key>😒</key>
+	<string>khuôn mặt không vui</string>
+	<key>🌔</key>
+	<string>trăng khuyết già</string>
+	<key>🤒</key>
+	<string>khuôn mặt với nhiệt kế</string>
+	<key>😓</key>
+	<string>khuôn mặt chán nản với mồ hôi</string>
+	<key>🌕</key>
+	<string>trăng tròn</string>
+	<key>🤓</key>
+	<string>khuôn mặt mỉm cười với kính</string>
+	<key>😔</key>
+	<string>khuôn mặt buồn trầm ngâm</string>
+	<key>♋️</key>
+	<string>Cự Giải</string>
+	<key>🌖</key>
+	<string>trăng khuyết</string>
+	<key>🤔</key>
+	<string>khuôn mặt đang suy nghĩ</string>
+	<key>😕</key>
+	<string>khuôn mặt bối rối</string>
+	<key>🌗</key>
+	<string>trăng hạ huyền</string>
+	<key>🤕</key>
+	<string>khuôn mặt với băng trên đầu</string>
+	<key>😖</key>
+	<string>khuôn mặt mếu máo</string>
+	<key>🌘</key>
+	<string>trăng lưỡi liềm già</string>
+	<key>🤖</key>
+	<string>khuôn mặt rô-bốt</string>
+	<key>😗</key>
+	<string>khuôn mặt đang hôn</string>
+	<key>🌙</key>
+	<string>trăng lưỡi liềm</string>
+	<key>🤗</key>
+	<string>khuôn mặt đang ôm</string>
+	<key>😘</key>
+	<string>khuôn mặt đang hôn gió</string>
+	<key>🌚</key>
+	<string>trăng non có khuôn mặt</string>
+	<key>🤘</key>
+	<string>ký hiệu cặp sừng</string>
+	<key>😙</key>
+	<string>khuôn mặt đang hôn với hai mắt híp lại</string>
+	<key>🌛</key>
+	<string>trăng thượng huyền có khuôn mặt</string>
+	<key>🤙</key>
+	<string>ký hiệu bàn tay gọi cho tôi</string>
+	<key>😚</key>
+	<string>khuôn mặt đang hôn và nhắm mắt</string>
+</dict>
+</plist>

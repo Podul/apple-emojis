@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>последна четвърт на луната с лице</string>
+	<key>🤚</key>
+	<string>задна страна на ръка</string>
+	<key>😛</key>
+	<string>лице с изплезен език</string>
+	<key>👩‍🔧</key>
+	<string>жена механик</string>
+	<key>🌝</key>
+	<string>пълнолуние с лице</string>
+	<key>🤛</key>
+	<string>юмрук наляво</string>
+	<key>😜</key>
+	<string>намигващо лице с изплезен език</string>
+	<key>🌞</key>
+	<string>слънце с лице</string>
+	<key>🤜</key>
+	<string>юмрук надясно</string>
+	<key>😝</key>
+	<string>лице с изплезен език и присвити очи</string>
+	<key>🌟</key>
+	<string>светеща звезда</string>
+	<key>🤝</key>
+	<string>ръкостискане</string>
+	<key>😞</key>
+	<string>разочаровано лице</string>
+	<key>🌠</key>
+	<string>падаща звезда</string>
+	<key>🤞</key>
+	<string>кръстосани пръсти</string>
+	<key>😟</key>
+	<string>разтревожено лице</string>
+	<key>🐈‍⬛</key>
+	<string>черна котка</string>
+	<key>🤟</key>
+	<string>жест „обичам те“</string>
+	<key>😠</key>
+	<string>ядосано лице</string>
+	<key>⚜️</key>
+	<string>хералдическа лилия</string>
+	<key>⛴️</key>
+	<string>ферибот</string>
+	<key>🤠</key>
+	<string>лице на каубой</string>
+	<key>😡</key>
+	<string>червено ядосано лице</string>
+	<key>🤡</key>
+	<string>лице на клоун</string>
+	<key>😢</key>
+	<string>плачещо лице</string>
+	<key>⬛️</key>
+	<string>черен голям квадрат</string>
+	<key>🤢</key>
+	<string>лице, на което му се повдига</string>
+	<key>😣</key>
+	<string>упорито лице</string>
+	<key>🤣</key>
+	<string>търкалящо се по пода смеещо се лице</string>
+	<key>😤</key>
+	<string>лице с излизаща от носа пара</string>
+	<key>🤤</key>
+	<string>лице с капеща лига</string>
+	<key>😥</key>
+	<string>тъжно лице, което изпитва облекчение</string>
+	<key>🤥</key>
+	<string>лъжещо лице</string>
+	<key>😦</key>
+	<string>намръщено лице с отворена уста</string>
+	<key>🤦</key>
+	<string>човек с ръка върху лицето</string>
+	<key>😧</key>
+	<string>измъчено лице</string>
+	<key>🤧</key>
+	<string>кихащо лице</string>
+	<key>😨</key>
+	<string>уплашено лице</string>
+	<key>🤨</key>
+	<string>лице с повдигната вежда</string>
+	<key>😩</key>
+	<string>изтощено лице</string>
+	<key>🤩</key>
+	<string>лице с очи-звезди</string>
+	<key>⚕️</key>
+	<string>жезъл на Асклепий</string>
+	<key>😪</key>
+	<string>сънливо лице</string>
+	<key>👁️‍🗨️</key>
+	<string>аз съм свидетел</string>
+	<key>🤪</key>
+	<string>шантаво лице</string>
+	<key>😫</key>
+	<string>разстроено лице</string>
+	<key>🌭</key>
+	<string>хотдог</string>
+	<key>🤫</key>
+	<string>шъткащо лице</string>
+	<key>😬</key>
+	<string>озъбено лице</string>
+	<key>🌮</key>
+	<string>тако</string>
+	<key>🤬</key>
+	<string>лице със символи на устата</string>
+	<key>😭</key>
+	<string>шумно плачещо лице</string>
+	<key>🌯</key>
+	<string>бурито</string>
+	<key>🤭</key>
+	<string>лице с ръка на устата и усмихнати очи</string>
+	<key>😮</key>
+	<string>изненадано лице с отворена уста</string>
+	<key>🌰</key>
+	<string>кестен</string>
+	<key>🤮</key>
+	<string>повръщащо лице</string>
+	<key>😯</key>
+	<string>изненадано лице</string>
+	<key>🌱</key>
+	<string>стръкче</string>
+	<key>🤯</key>
+	<string>експлодираща глава</string>
+	<key>😰</key>
+	<string>тревожно лице с капка пот</string>
+	<key>🌲</key>
+	<string>вечнозелено дърво</string>
+	<key>🤰</key>
+	<string>бременна жена</string>
+	<key>😱</key>
+	<string>викащо от страх лице</string>
+	<key>🌳</key>
+	<string>дърво</string>
+	<key>🤱</key>
+	<string>кърмене</string>
+	<key>😲</key>
+	<string>удивено лице</string>
+	<key>🛡️</key>
+	<string>щит</string>
+	<key>🌴</key>
+	<string>палма</string>
+	<key>🤲</key>
+	<string>допрени ръце с длани нагоре</string>
+	<key>😳</key>
+	<string>лице с широко отворени очи</string>
+	<key>🌵</key>
+	<string>кактус</string>
+	<key>🤳</key>
+	<string>селфи</string>
+	<key>😴</key>
+	<string>спящо лице</string>
+	<key>🤴</key>
+	<string>принц</string>
+	<key>😵</key>
+	<string>замаяно лице</string>
+	<key>👩‍🌾</key>
+	<string>фермерка</string>
+	<key>🌷</key>
+	<string>лале</string>
+	<key>🤵</key>
+	<string>човек със смокинг</string>
+	<key>😶</key>
+	<string>лице без уста</string>
+	<key>🌸</key>
+	<string>черешов цвят</string>
+	<key>🤶</key>
+	<string>Г-жа Коледа</string>
+	<key>😷</key>
+	<string>лице с медицинска маска</string>
+	<key>🌹</key>
+	<string>роза</string>
+	<key>🤷</key>
+	<string>човек с повдигнати рамене</string>
+	<key>😸</key>
+	<string>широко усмихнато котешко лице</string>
+	<key>🌺</key>
+	<string>хибискус</string>
+	<key>🤸</key>
+	<string>човек, който прави странично колело</string>
+	<key>😹</key>
+	<string>котешко лице със сълзи от радост</string>
+	<key>🌻</key>
+	<string>слънчоглед</string>
+	<key>🤹</key>
+	<string>човек, който жонглира</string>
+	<key>😺</key>
+	<string>щастливо котешко лице</string>
+	<key>🌼</key>
+	<string>цвете</string>
+	<key>🤺</key>
+	<string>фехтовач</string>
+	<key>😻</key>
+	<string>усмихнато котешко лице с очи-сърца</string>
+	<key>🌽</key>
+	<string>царевица</string>
+	<key>😼</key>
+	<string>самодоволно котешко лице</string>
+	<key>🇿🇦</key>
+	<string>знаме на Южна Африка</string>
+	<key>👩‍🔬</key>
+	<string>жена учен</string>
+	<key>🌾</key>
+	<string>оризов клас</string>
+	<key>🤼</key>
+	<string>хора, които се борят</string>
+	<key>😽</key>
+	<string>котешко лице с целувка</string>
+	<key>🇻🇦</key>
+	<string>знаме на Ватикана</string>
+	<key>🌿</key>
+	<string>подправка</string>
+	<key>🤽</key>
+	<string>човек, който играе водно поло</string>
+	<key>😾</key>
+	<string>нацупено котешко лице</string>
+	<key>☯️</key>
+	<string>ин-ян</string>
+	<key>🍀</key>
+	<string>четирилистна детелина</string>
+	<key>🤾</key>
+	<string>човек, който играе хандбал</string>
+	<key>😿</key>
+	<string>плачещо котешко лице</string>
+	<key>🍁</key>
+	<string>кленово листо</string>
+	<key>🤿</key>
+	<string>водолазна маска</string>
+	<key>🧑‍🍳</key>
+	<string>готвач</string>
+	<key>🇳🇦</key>
+	<string>знаме на Намибия</string>
+	<key>🙀</key>
+	<string>викащо от страх котешко лице</string>
+	<key>🧗‍♀️</key>
+	<string>катерачка</string>
+	<key>⁉️</key>
+	<string>червен удивителен и въпросителен знак</string>
+	<key>🍂</key>
+	<string>паднали листа</string>
+	<key>🥀</key>
+	<string>увяхнала роза</string>
+	<key>🙁</key>
+	<string>леко намръщено лице</string>
+	<key>🍃</key>
+	<string>шумолящи листа</string>
+	<key>🥁</key>
+	<string>барабан</string>
+	<key>🙂</key>
+	<string>леко усмихнато лице</string>
+	<key>⬆️</key>
+	<string>стрелка нагоре</string>
+	<key>🍄</key>
+	<string>гъба</string>
+	<key>🥂</key>
+	<string>удрящи се чаши</string>
+	<key>🙃</key>
+	<string>обърнато наобратно лице</string>
+	<key>5️⃣</key>
+	<string>клавиш с цифра пет</string>
+	<key>🍅</key>
+	<string>домат</string>
+	<key>🥃</key>
+	<string>водна чаша</string>
+	<key>🙄</key>
+	<string>лице с вдигнати нагоре очи</string>
+	<key>🇻🇨</key>
+	<string>знаме на Сейнт Винсент &amp; Гренадини</string>
+	<key>🇧🇦</key>
+	<string>знаме на Босна и Херцеговина</string>
+	<key>↩️</key>
+	<string>стрелка надясно, завиваща наляво</string>
+	<key>🍆</key>
+	<string>патладжан</string>
+	<key>🥄</key>
+	<string>лъжица</string>
+	<key>🙅</key>
+	<string>човек, който жестикулира „не“</string>
+	<key>🍇</key>
+	<string>грозде</string>
+	<key>🥅</key>
+	<string>мрежа на врата</string>
+	<key>🙆</key>
+	<string>човек, който жестикулира „OK“</string>
+	<key>🛣️</key>
+	<string>магистрала</string>
+	<key>🍈</key>
+	<string>пъпеш</string>
+	<key>🙇</key>
+	<string>човек, който се покланя</string>
+	<key>🇳🇨</key>
+	<string>знаме на Нова Каледония</string>
+	<key>🍉</key>
+	<string>диня</string>
+	<key>🇧🇧</key>
+	<string>знаме на Барбадос</string>
+	<key>🥇</key>
+	<string>златен медал</string>
+	<key>🙈</key>
+	<string>маймуна „не видях“</string>
+	<key>🍊</key>
+	<string>мандарина</string>
+	<key>🥈</key>
+	<string>сребърен медал</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>знаме на Шотландия</string>
+	<key>🙉</key>
+	<string>маймуна, нечуваща зло</string>
+	<key>🍋</key>
+	<string>лимон</string>
+	<key>🥉</key>
+	<string>бронзов медал</string>
+	<key>🙊</key>
+	<string>маймуна “не знам“</string>
+	<key>🍌</key>
+	<string>банан</string>
+	<key>🥊</key>
+	<string>боксова ръкавица</string>
+	<key>🇻🇪</key>
+	<string>знаме на Венецуела</string>
+	<key>🙋</key>
+	<string>човек, вдигащ една ръка</string>
+	<key>🍍</key>
+	<string>ананас</string>
+	<key>🥋</key>
+	<string>екип за бойни изкуства</string>
+	<key>🙌</key>
+	<string>вдигнати в знак на празнуване ръце</string>
+	<key>🇷🇪</key>
+	<string>знаме на Реюнион</string>
+	<key>🍎</key>
+	<string>червена ябълка</string>
+	<key>🥌</key>
+	<string>камък за кърлинг</string>
+	<key>🙍</key>
+	<string>човек, който се мръщи</string>
+	<key>🍏</key>
+	<string>зелена ябълка</string>
+	<key>🇳🇪</key>
+	<string>знаме на Нигер</string>
+	<key>🥍</key>
+	<string>бухалка и топка за лакрос</string>
+	<key>🙎</key>
+	<string>човек, който се цупи</string>
+	<key>🅾️</key>
+	<string>кръвна група O</string>
+	<key>🇧🇩</key>
+	<string>знаме на Бангладеш</string>
+	<key>🍐</key>
+	<string>круша</string>
+	<key>🥎</key>
+	<string>софтбол</string>
+	<key>🇯🇪</key>
+	<string>знаме на Джърси</string>
+	<key>🙏</key>
+	<string>притиснати една към друга ръце</string>
+	<key>🍑</key>
+	<string>праскова</string>
+	<key>🥏</key>
+	<string>летящ диск</string>
+	<key>🍒</key>
+	<string>череши</string>
+	<key>🥐</key>
+	<string>кроасан</string>
+	<key>🇳🇫</key>
+	<string>знаме на остров Норфолк</string>
+	<key>🍓</key>
+	<string>ягода</string>
+	<key>🇻🇬</key>
+	<string>знаме на Британски Вирджински острови</string>
+	<key>🇧🇪</key>
+	<string>знаме на Белгия</string>
+	<key>🥑</key>
+	<string>авокадо</string>
+	<key>🍔</key>
+	<string>хамбургер</string>
+	<key>🥒</key>
+	<string>краставица</string>
+	<key>⛑️</key>
+	<string>каска с бял кръст</string>
+	<key>🍕</key>
+	<string>пица</string>
+	<key>🥓</key>
+	<string>бекон</string>
+	<key>🇳🇬</key>
+	<string>знаме на Нигерия</string>
+	<key>🍖</key>
+	<string>месо с кост</string>
+	<key>🥔</key>
+	<string>картоф</string>
+	<key>👨‍🍳</key>
+	<string>готвач</string>
+	<key>🇧🇫</key>
+	<string>знаме на Буркина Фасо</string>
+	<key>🍗</key>
+	<string>пилешка кълка</string>
+	<key>👮‍♀️</key>
+	<string>полицайка</string>
+	<key>🥕</key>
+	<string>морков</string>
+	<key>⭐️</key>
+	<string>звезда</string>
+	<key>🍘</key>
+	<string>оризов крекер</string>
+	<key>🥖</key>
+	<string>франзела</string>
+	<key>🗝️</key>
+	<string>стар ключ</string>
+	<key>🌶️</key>
+	<string>люта чушка</string>
+	<key>🍙</key>
+	<string>оризова топка</string>
+	<key>🥗</key>
+	<string>зелена салата</string>
+	<key>🏃‍♂️</key>
+	<string>бегач</string>
+	<key>🇻🇮</key>
+	<string>знаме на Американски Вирджински острови</string>
+	<key>🇧🇬</key>
+	<string>знаме на България</string>
+	<key>🍚</key>
+	<string>сготвен ориз</string>
+	<key>🥘</key>
+	<string>тиган с храна</string>
+	<key>🍛</key>
+	<string>къри с ориз</string>
+	<key>🥙</key>
+	<string>сандвич с питка</string>
+	<key>🍜</key>
+	<string>купа, от която се издига пара</string>
+	<key>🥚</key>
+	<string>яйце</string>
+	<key>🛥️</key>
+	<string>моторна лодка</string>
+	<key>🇳🇮</key>
+	<string>знаме на Никарагуа</string>
+	<key>🍝</key>
+	<string>спагети</string>
+	<key>🥛</key>
+	<string>чаша мляко</string>
+	<key>🇧🇭</key>
+	<string>знаме на Бахрейн</string>
+	<key>🍞</key>
+	<string>хляб</string>
+	<key>🥜</key>
+	<string>фъстъци</string>
+	<key>🍟</key>
+	<string>пържени картофи</string>
+	<key>👨‍👨‍👦</key>
+	<string>семейство с двама бащи и син</string>
+	<key>🥝</key>
+	<string>киви</string>
+	<key>🇫🇮</key>
+	<string>знаме на Финландия</string>
+	<key>🤾‍♂️</key>
+	<string>мъж, който играе хандбал</string>
+	<key>🍠</key>
+	<string>печен сладък картоф</string>
+	<key>🖲️</key>
+	<string>трекбол</string>
+	<key>🥞</key>
+	<string>палачинки</string>
+	<key>🇧🇮</key>
+	<string>знаме на Бурунди</string>
+	<key>🍡</key>
+	<string>данго</string>
+	<key>🥟</key>
+	<string>дъмплинг</string>
+	<key>🍢</key>
+	<string>оден</string>
+	<key>🥠</key>
+	<string>бисквитка с късметче</string>
+	<key>🇫🇯</key>
+	<string>знаме на Фиджи</string>
+	<key>🍣</key>
+	<string>суши</string>
+	<key>🥡</key>
+	<string>кутия с храна за навън</string>
+	<key>🍤</key>
+	<string>пържена скарида</string>
+	<key>🥢</key>
+	<string>клечки за хранене</string>
+	<key>🇧🇯</key>
+	<string>знаме на Бенин</string>
+	<key>↔️</key>
+	<string>стрелка наляво-надясно</string>
+	<key>🍥</key>
+	<string>рибено роле</string>
+	<key>🥣</key>
+	<string>купа с лъжица</string>
+	<key>🍦</key>
+	<string>крем сладолед</string>
+	<key>🇿🇲</key>
+	<string>знаме на Замбия</string>
+	<key>🇫🇰</key>
+	<string>знаме на Фолкландски острови</string>
+	<key>🥤</key>
+	<string>чаша с напитка за навън</string>
+	<key>🏌️‍♀️</key>
+	<string>жена играе голф</string>
+	<key>🇳🇱</key>
+	<string>знаме на Нидерландия</string>
+	<key>🍧</key>
+	<string>леден десерт</string>
+	<key>🥥</key>
+	<string>кокос</string>
+	<key>🍨</key>
+	<string>сладолед мелба</string>
+	<key>🥦</key>
+	<string>броколи</string>
+	<key>🍩</key>
+	<string>поничка</string>
+	<key>🥧</key>
+	<string>пай</string>
+	<key>🖇️</key>
+	<string>свързани кламери</string>
+	<key>🍪</key>
+	<string>бисквитка</string>
+	<key>🥨</key>
+	<string>прецел</string>
+	<key>🇻🇳</key>
+	<string>знаме на Виетнам</string>
+	<key>💂‍♀️</key>
+	<string>пазачка</string>
+	<key>🇧🇱</key>
+	<string>знаме на Сен Бартелеми</string>
+	<key>🍫</key>
+	<string>шоколад</string>
+	<key>🇯🇲</key>
+	<string>знаме на Ямайка</string>
+	<key>🥩</key>
+	<string>пържола</string>
+	<key>🍬</key>
+	<string>бонбон</string>
+	<key>🥪</key>
+	<string>сандвич</string>
+	<key>⛹️‍♀️</key>
+	<string>баскетболистка</string>
+	<key>🍭</key>
+	<string>близалка</string>
+	<key>🇫🇲</key>
+	<string>знаме на Микронезия</string>
+	<key>🥫</key>
+	<string>консерва</string>
+	<key>🍮</key>
+	<string>яйчен крем</string>
+	<key>👨‍❤️‍👨</key>
+	<string>двама мъже със сърце</string>
+	<key>🥬</key>
+	<string>зеленолистни зеленчуци</string>
+	<key>🇧🇲</key>
+	<string>знаме на Бермудски острови</string>
+	<key>🍯</key>
+	<string>бурканче с мед</string>
+	<key>🥭</key>
+	<string>манго</string>
+	<key>🇷🇴</key>
+	<string>знаме на Румъния</string>
+	<key>🍰</key>
+	<string>бисквитена торта</string>
+	<key>🥮</key>
+	<string>китайски сладкиш</string>
+	<key>🍱</key>
+	<string>кутия за храна</string>
+	<key>🇳🇴</key>
+	<string>знаме на Норвегия</string>
+	<key>🥯</key>
+	<string>геврек</string>
+	<key>🇧🇳</key>
+	<string>знаме на Бруней</string>
+	<key>🧚‍♀️</key>
+	<string>фея</string>
+	<key>🍲</key>
+	<string>купа с храна</string>
+	<key>🇯🇴</key>
+	<string>знаме на Йордания</string>
+	<key>🥰</key>
+	<string>усмихнато лице със сърца</string>
+	<key>🍳</key>
+	<string>готвене</string>
+	<key>🥱</key>
+	<string>лице, което се прозява</string>
+	<key>🇫🇴</key>
+	<string>знаме на Фарьорски острови</string>
+	<key>🍴</key>
+	<string>вилица и нож</string>
+	<key>🥲</key>
+	<string>усмихнато лице със сълза</string>
+	<key>🇳🇵</key>
+	<string>знаме на Непал</string>
+	<key>✔️</key>
+	<string>отметка</string>
+	<key>🍵</key>
+	<string>чаена чаша без дръжка</string>
+	<key>🥳</key>
+	<string>празнуващо лице</string>
+	<key>🇧🇴</key>
+	<string>знаме на Боливия</string>
+	<key>🇯🇵</key>
+	<string>знаме на Япония</string>
+	<key>🍶</key>
+	<string>бутилка и чаша за саке</string>
+	<key>🥴</key>
+	<string>зашеметено лице</string>
+	<key>🍷</key>
+	<string>чаша за вино</string>
+	<key>🥵</key>
+	<string>горещо лице</string>
+	<key>🍸</key>
+	<string>чаша за коктейл</string>
+	<key>🥶</key>
+	<string>студено лице</string>
+	<key>🍹</key>
+	<string>тропическа напитка</string>
+	<key>🥷</key>
+	<string>нинджа</string>
+	<key>🍺</key>
+	<string>халба за бира</string>
+	<key>🥸</key>
+	<string>дегизирано лице</string>
+	<key>🚶‍♀️</key>
+	<string>жена пешеходец</string>
+	<key>🍻</key>
+	<string>удрящи се халби за бира</string>
+	<key>🥹</key>
+	<string>усмихнато лице с насълзени очи</string>
+	<key>🇳🇷</key>
+	<string>знаме на Науру</string>
+	<key>🍼</key>
+	<string>бебешко шише</string>
+	<key>🇧🇶</key>
+	<string>знаме на Бонер</string>
+	<key>🥺</key>
+	<string>молещо лице</string>
+	<key>🧑‍🍼</key>
+	<string>човек, който храни бебе</string>
+	<key>🥻</key>
+	<string>сари</string>
+	<key>🇷🇸</key>
+	<string>знаме на Сърбия</string>
+	<key>🍾</key>
+	<string>бутилка с изхвърчаща тапа</string>
+	<key>🇫🇷</key>
+	<string>знаме на Франция</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>мъж и жена се целуват</string>
+	<key>🥼</key>
+	<string>лабораторна престилка</string>
+	<key>✍️</key>
+	<string>пишеща ръка</string>
+	<key>🍿</key>
+	<string>пуканки</string>
+	<key>🥽</key>
+	<string>очила</string>
+	<key>🇧🇷</key>
+	<string>знаме на Бразилия</string>
+	<key>🗡️</key>
+	<string>кама</string>
+	<key>⏮️</key>
+	<string>символ за пропускане назад</string>
+	<key>🎀</key>
+	<string>панделка</string>
+	<key>🥾</key>
+	<string>планинска обувка</string>
+	<key>🎁</key>
+	<string>подарък</string>
+	<key>🥿</key>
+	<string>обувка без ток</string>
+	<key>🚀</key>
+	<string>ракета</string>
+	<key>🎂</key>
+	<string>торта за рожден ден</string>
+	<key>🦀</key>
+	<string>рак</string>
+	<key>🚁</key>
+	<string>хеликоптер</string>
+	<key>🇻🇺</key>
+	<string>знаме на Вануату</string>
+	<key>🇧🇸</key>
+	<string>знаме на Бахамски острови</string>
+	<key>🎃</key>
+	<string>тиквен фенер</string>
+	<key>🕵️‍♀️</key>
+	<string>жена детектив</string>
+	<key>🦁</key>
+	<string>лъв</string>
+	<key>🚂</key>
+	<string>парен локомотив</string>
+	<key>🎄</key>
+	<string>Коледно дръвче</string>
+	<key>🇷🇺</key>
+	<string>знаме на Русия</string>
+	<key>🦂</key>
+	<string>скорпион</string>
+	<key>🚃</key>
+	<string>железопътен вагон</string>
+	<key>🎅</key>
+	<string>Дядо Коледа</string>
+	<key>🦃</key>
+	<string>пуйка</string>
+	<key>🚄</key>
+	<string>високоскоростен влак</string>
+	<key>🇳🇺</key>
+	<string>знаме на Ниуе</string>
+	<key>🛩️</key>
+	<string>малък самолет</string>
+	<key>◾️</key>
+	<string>черен средно малък квадрат</string>
+	<key>🎆</key>
+	<string>заря</string>
+	<key>🇧🇹</key>
+	<string>знаме на Бутан</string>
+	<key>🦄</key>
+	<string>еднорог</string>
+	<key>🚅</key>
+	<string>високоскоростен влак с удължен нос</string>
+	<key>🎇</key>
+	<string>фойерверк</string>
+	<key>🦅</key>
+	<string>орел</string>
+	<key>🚆</key>
+	<string>влак</string>
+	<key>👱‍♀️</key>
+	<string>жена с руса коса</string>
+	<key>🎈</key>
+	<string>балон</string>
+	<key>🇿🇼</key>
+	<string>знаме на Зимбабве</string>
+	<key>🦆</key>
+	<string>патица</string>
+	<key>🚇</key>
+	<string>метро влак</string>
+	<key>😮‍💨</key>
+	<string>въздишащо лице</string>
+	<key>🎉</key>
+	<string>конфети</string>
+	<key>🦇</key>
+	<string>прилеп</string>
+	<key>🚈</key>
+	<string>наземно метро</string>
+	<key>🎊</key>
+	<string>топка с конфети</string>
+	<key>🦈</key>
+	<string>акула</string>
+	<key>🚉</key>
+	<string>станция</string>
+	<key>🇷🇼</key>
+	<string>знаме на Руанда</string>
+	<key>🎋</key>
+	<string>дърво за танабата</string>
+	<key>🦉</key>
+	<string>бухал</string>
+	<key>🚊</key>
+	<string>трамвай</string>
+	<key>🎌</key>
+	<string>кръстосани знамена</string>
+	<key>🦊</key>
+	<string>муцуна на лисица</string>
+	<key>🚋</key>
+	<string>трамваен вагон</string>
+	<key>🎍</key>
+	<string>борова украса</string>
+	<key>🇧🇻</key>
+	<string>знаме на остров Буве</string>
+	<key>🦋</key>
+	<string>пеперуда</string>
+	<key>🚌</key>
+	<string>автобус</string>
+	<key>🎎</key>
+	<string>японски кукли</string>
+	<key>🦌</key>
+	<string>елен</string>
+	<key>🚍</key>
+	<string>насрещен автобус</string>
+	<key>🎏</key>
+	<string>знаме с форма на шаран</string>
+	<key>🦍</key>
+	<string>горила</string>
+	<key>🚎</key>
+	<string>тролей</string>
+	<key>🚏</key>
+	<string>автобусна спирка</string>
+	<key>🎐</key>
+	<string>вятърни камбанки</string>
+	<key>🦎</key>
+	<string>гущер</string>
+	<key>🇧🇼</key>
+	<string>знаме на Ботсвана</string>
+	<key>🚐</key>
+	<string>минибус</string>
+	<key>♏️</key>
+	<string>Скорпион</string>
+	<key>🎑</key>
+	<string>церемония по наблюдение на луната</string>
+	<key>🦏</key>
+	<string>носорог</string>
+	<key>🚑</key>
+	<string>линейка</string>
+	<key>👨‍🍼</key>
+	<string>мъж храни бебе</string>
+	<key>⚧️</key>
+	<string>символ за трансджендър</string>
+	<key>👨‍👨‍👧</key>
+	<string>семейство с двама бащи и дъщеря</string>
+	<key>🖋️</key>
+	<string>писалка</string>
+	<key>🚒</key>
+	<string>пожарна кола</string>
+	<key>🎒</key>
+	<string>раница</string>
+	<key>🎓</key>
+	<string>абсолвентска шапка</string>
+	<key>🦐</key>
+	<string>скарида</string>
+	<key>🦑</key>
+	<string>калмар</string>
+	<key>🚓</key>
+	<string>полицейска кола</string>
+	<key>❗️</key>
+	<string>червен удивителен знак</string>
+	<key>🦒</key>
+	<string>жираф</string>
+	<key>🙇‍♀️</key>
+	<string>жена, която се покланя</string>
+	<key>🗣️</key>
+	<string>силует на говореща глава</string>
+	<key>🚔</key>
+	<string>насрещна полицейска кола</string>
+	<key>🦓</key>
+	<string>зебра</string>
+	<key>🚕</key>
+	<string>такси</string>
+	<key>🦔</key>
+	<string>таралеж</string>
+	<key>🇳🇿</key>
+	<string>знаме на Нова Зеландия</string>
+	<key>🦕</key>
+	<string>динозавър</string>
+	<key>🚖</key>
+	<string>насрещно такси</string>
+	<key>🇧🇾</key>
+	<string>знаме на Беларус</string>
+	<key>🦖</key>
+	<string>Т-Рекс</string>
+	<key>🚗</key>
+	<string>кола</string>
+	<key>🦗</key>
+	<string>щурец</string>
+	<key>🚘</key>
+	<string>насрещна кола</string>
+	<key>🦘</key>
+	<string>кенгуру</string>
+	<key>🚙</key>
+	<string>джип</string>
+	<key>🇧🇿</key>
+	<string>знаме на Белиз</string>
+	<key>🦙</key>
+	<string>лама</string>
+	<key>🚚</key>
+	<string>камион за доставки</string>
+	<key>♈️</key>
+	<string>Овен</string>
+	<key>🦚</key>
+	<string>паун</string>
+	<key>🚛</key>
+	<string>камион с ремарке</string>
+	<key>⚠️</key>
+	<string>предупреждение</string>
+	<key>🦛</key>
+	<string>хипопотам</string>
+	<key>🚜</key>
+	<string>трактор</string>
+	<key>⛸️</key>
+	<string>кънка за лед</string>
+	<key>🧘‍♂️</key>
+	<string>мъж в поза лотос</string>
+	<key>🧑‍🚀</key>
+	<string>астронавт</string>
+	<key>🦜</key>
+	<string>папагал</string>
+	<key>🚝</key>
+	<string>монорелсова железница</string>
+	<key>🦝</key>
+	<string>енот</string>
+	<key>🚞</key>
+	<string>планинска железница</string>
+	<key>🎠</key>
+	<string>кон от въртележка</string>
+	<key>🦞</key>
+	<string>омар</string>
+	<key>🚟</key>
+	<string>висяща железница</string>
+	<key>🎡</key>
+	<string>виенско колело</string>
+	<key>🦟</key>
+	<string>комар</string>
+	<key>🚠</key>
+	<string>планинска въжена линия</string>
+	<key>🎢</key>
+	<string>скоростно влакче</string>
+	<key>🦠</key>
+	<string>микроб</string>
+	<key>🚡</key>
+	<string>въздушна трамвайна линия</string>
+	<key>🧝‍♀️</key>
+	<string>жена елф</string>
+	<key>🎣</key>
+	<string>въдица с риба</string>
+	<key>🦡</key>
+	<string>язовец</string>
+	<key>🚢</key>
+	<string>кораб</string>
+	<key>🎤</key>
+	<string>микрофон</string>
+	<key>🦢</key>
+	<string>лебед</string>
+	<key>🚣</key>
+	<string>човек в лодка, който гребе</string>
+	<key>🎥</key>
+	<string>филмова камера</string>
+	<key>🦣</key>
+	<string>мамут</string>
+	<key>🚤</key>
+	<string>моторница</string>
+	<key>🎦</key>
+	<string>символ за кино</string>
+	<key>🦤</key>
+	<string>птица додо</string>
+	<key>🚥</key>
+	<string>хоризонтален светофар</string>
+	<key>⚙️</key>
+	<string>зъбно колело</string>
+	<key>🚴‍♂️</key>
+	<string>велосипедист</string>
+	<key>🎧</key>
+	<string>слушалки</string>
+	<key>🦥</key>
+	<string>ленивец</string>
+	<key>🚦</key>
+	<string>вертикален светофар</string>
+	<key>⛱️</key>
+	<string>плажен чадър</string>
+	<key>🖍️</key>
+	<string>пастел</string>
+	<key>🎨</key>
+	<string>палитра</string>
+	<key>🦦</key>
+	<string>видра</string>
+	<key>🚧</key>
+	<string>знак за строеж</string>
+	<key>🎩</key>
+	<string>цилиндър</string>
+	<key>🦧</key>
+	<string>орангутан</string>
+	<key>🚨</key>
+	<string>сирена на полицейска кола</string>
+	<key>➡️</key>
+	<string>стрелка надясно</string>
+	<key>🎪</key>
+	<string>циркова палатка</string>
+	<key>🦨</key>
+	<string>скункс</string>
+	<key>🚩</key>
+	<string>триъгълен флаг</string>
+	<key>🎫</key>
+	<string>билет</string>
+	<key>🦩</key>
+	<string>фалминго</string>
+	<key>🚪</key>
+	<string>врата</string>
+	<key>🦸‍♀️</key>
+	<string>супергероиня</string>
+	<key>🎬</key>
+	<string>филмова клапа</string>
+	<key>🦪</key>
+	<string>стрида</string>
+	<key>🚫</key>
+	<string>забранено</string>
+	<key>🎖️</key>
+	<string>военен медал</string>
+	<key>🎭</key>
+	<string>сценични изкуства</string>
+	<key>🦫</key>
+	<string>бобър</string>
+	<key>🚬</key>
+	<string>цигара</string>
+	<key>🎮</key>
+	<string>контролер за видео игри</string>
+	<key>🦬</key>
+	<string>бизон</string>
+	<key>🚭</key>
+	<string>знак „пушенето забранено“</string>
+	<key>🎯</key>
+	<string>мишена</string>
+	<key>🦭</key>
+	<string>тюлен</string>
+	<key>🚮</key>
+	<string>сумвол за изхвърляне на отпадъците в кош</string>
+	<key>☺️</key>
+	<string>усмихнато лице</string>
+	<key>🎰</key>
+	<string>слот машина</string>
+	<key>🦮</key>
+	<string>куче водач</string>
+	<key>🚯</key>
+	<string>не изхвърляйте отпадъци</string>
+	<key>⚒️</key>
+	<string>чук и кирка</string>
+	<key>🎱</key>
+	<string>билярд</string>
+	<key>🦯</key>
+	<string>бял бастун</string>
+	<key>🚰</key>
+	<string>чешма за вода</string>
+	<key>🧑‍🎄</key>
+	<string>небинарен Дядо Коледа</string>
+	<key>⛪️</key>
+	<string>църква</string>
+	<key>🎲</key>
+	<string>зарче</string>
+	<key>🤵‍♀️</key>
+	<string>жена със смокинг</string>
+	<key>⌛️</key>
+	<string>пясъчен часовник</string>
+	<key>🏋️‍♂️</key>
+	<string>щангист</string>
+	<key>🚱</key>
+	<string>негодна за пиене вода</string>
+	<key>🎳</key>
+	<string>топка за боулинг и кегли</string>
+	<key>👯‍♂️</key>
+	<string>танцуващи мъже, носещи заешки уши</string>
+	<key>👨‍🚀</key>
+	<string>астронавт</string>
+	<key>🚲</key>
+	<string>велосипед</string>
+	<key>🎴</key>
+	<string>карти за игра с цвете</string>
+	<key>🚳</key>
+	<string>велосипедите са забранени</string>
+	<key>👩‍👦‍👦</key>
+	<string>семейство с майка и двама сина</string>
+	<key>🎵</key>
+	<string>музикална нота</string>
+	<key>👨‍🤝‍👨</key>
+	<string>мъже се държат за ръка</string>
+	<key>🚴</key>
+	<string>велосипедист</string>
+	<key>🎶</key>
+	<string>музикални ноти</string>
+	<key>🦴</key>
+	<string>кокал</string>
+	<key>🚵</key>
+	<string>планински колоездач</string>
+	<key>🎷</key>
+	<string>саксофон</string>
+	<key>🦵</key>
+	<string>крак</string>
+	<key>🚶</key>
+	<string>пешеходец</string>
+	<key>🎸</key>
+	<string>китара</string>
+	<key>🦶</key>
+	<string>ходило</string>
+	<key>🚷</key>
+	<string>забранено за пешеходци</string>
+	<key>🎹</key>
+	<string>музикална клавиатура</string>
+	<key>🦷</key>
+	<string>зъб</string>
+	<key>🚸</key>
+	<string>пресичат деца</string>
+	<key>🎺</key>
+	<string>тромпет</string>
+	<key>🦸</key>
+	<string>супергерой</string>
+	<key>🚹</key>
+	<string>символ за мъже</string>
+	<key>🎻</key>
+	<string>цигулка</string>
+	<key>🦹</key>
+	<string>суперзлодей</string>
+	<key>🚺</key>
+	<string>символ за жени</string>
+	<key>🎼</key>
+	<string>нотен запис</string>
+	<key>🦺</key>
+	<string>спасителна жилетка</string>
+	<key>🚻</key>
+	<string>тоалетна</string>
+	<key>🎽</key>
+	<string>горнище за бягане</string>
+	<key>🦻</key>
+	<string>ухо със слухов апарат</string>
+	<key>🚼</key>
+	<string>символ за бебе</string>
+	<key>🎾</key>
+	<string>тенис топка</string>
+	<key>🦼</key>
+	<string>моторизирана инвалидна количка</string>
+	<key>🚽</key>
+	<string>тоалетна чиния</string>
+	<key>🎿</key>
+	<string>ски</string>
+	<key>🦽</key>
+	<string>инвалидна количка</string>
+	<key>🚾</key>
+	<string>тоалетна</string>
+	<key>🏀</key>
+	<string>баскетболна топка</string>
+	<key>🦾</key>
+	<string>механична ръка</string>
+	<key>🙅‍♂️</key>
+	<string>мъж, който жестикулира „не“</string>
+	<key>🚿</key>
+	<string>душ</string>
+	<key>🏁</key>
+	<string>кариран флаг</string>
+	<key>🦿</key>
+	<string>механичен крак</string>
+	<key>🛀</key>
+	<string>човек, който се къпе</string>
+	<key>🏂</key>
+	<string>сноубордист</string>
+	<key>🧀</key>
+	<string>парче сирене</string>
+	<key>🛁</key>
+	<string>вана</string>
+	<key>🚣‍♂️</key>
+	<string>мъж в лодка, който гребе</string>
+	<key>🏃</key>
+	<string>бегач</string>
+	<key>🧁</key>
+	<string>кексче</string>
+	<key>🛂</key>
+	<string>паспортна проверка</string>
+	<key>🏄</key>
+	<string>сърфист</string>
+	<key>🧂</key>
+	<string>сол</string>
+	<key>🛃</key>
+	<string>митница</string>
+	<key>🏅</key>
+	<string>спортен медал</string>
+	<key>🧃</key>
+	<string>кутия сок</string>
+	<key>🛄</key>
+	<string>получаване на багаж</string>
+	<key>🏆</key>
+	<string>трофей</string>
+	<key>🧄</key>
+	<string>чесън</string>
+	<key>🛅</key>
+	<string>изоставен багаж</string>
+	<key>🏇</key>
+	<string>жокей на състезателен кон</string>
+	<key>🧅</key>
+	<string>лук</string>
+	<key>✴️</key>
+	<string>звезда с осем лъча</string>
+	<key>🖼️</key>
+	<string>картина в рамка</string>
+	<key>🏈</key>
+	<string>топка за американски футбол</string>
+	<key>🧆</key>
+	<string>фалафел</string>
+	<key>🏉</key>
+	<string>ръгби топка</string>
+	<key>🧇</key>
+	<string>гофрета</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>семейство с двама бащи, син и дъщеря</string>
+	<key>🏊</key>
+	<string>плувец</string>
+	<key>🧈</key>
+	<string>масло</string>
+	<key>🧑‍⚖️</key>
+	<string>съдия</string>
+	<key>3️⃣</key>
+	<string>клавиш с цифра три</string>
+	<key>🧉</key>
+	<string>мате</string>
+	<key>🧊</key>
+	<string>лед</string>
+	<key>🧋</key>
+	<string>чай с мехурчета</string>
+	<key>🛌</key>
+	<string>спящ човек</string>
+	<key>🧛‍♂️</key>
+	<string>вампир</string>
+	<key>🧌</key>
+	<string>трол</string>
+	<key>🏏</key>
+	<string>бухалка и топка за крикет</string>
+	<key>🧍</key>
+	<string>човек, който стои изправен</string>
+	<key>🏐</key>
+	<string>волейболна топка</string>
+	<key>🧎</key>
+	<string>човек, който е коленичил</string>
+	<key>🏑</key>
+	<string>стик и топка за хокей на трева</string>
+	<key>🧏</key>
+	<string>глух човек</string>
+	<key>🛐</key>
+	<string>място за поклонение</string>
+	<key>🏒</key>
+	<string>стик и шайба за хокей на лед</string>
+	<key>🧐</key>
+	<string>лице с монокъл</string>
+	<key>🛑</key>
+	<string>осмоъгълен знак</string>
+	<key>🏓</key>
+	<string>хилка и топче за тенис на маса</string>
+	<key>🧑</key>
+	<string>възрастен</string>
+	<key>🛒</key>
+	<string>пазарска количка</string>
+	<key>🧒</key>
+	<string>дете</string>
+	<key>🧓</key>
+	<string>по-голям възрастен</string>
+	<key>🎚️</key>
+	<string>плъзгач за степен</string>
+	<key>🧔</key>
+	<string>човек с брада</string>
+	<key>🛕</key>
+	<string>хиндуистки храм</string>
+	<key>🧕</key>
+	<string>жена с шал на главата</string>
+	<key>🛖</key>
+	<string>хижа</string>
+	<key>🧖</key>
+	<string>човек в сауна</string>
+	<key>🛗</key>
+	<string>асансьор</string>
+	<key>🧗</key>
+	<string>катерач</string>
+	<key>🧘</key>
+	<string>човек в поза лотос</string>
+	<key>🧙</key>
+	<string>магьосник</string>
+	<key>🧚</key>
+	<string>фея</string>
+	<key>👩‍💻</key>
+	<string>техноложка</string>
+	<key>🧛</key>
+	<string>вампир</string>
+	<key>🛜</key>
+	<string>символ за безжична връзка</string>
+	<key>🧜</key>
+	<string>човек русалка</string>
+	<key>🛝</key>
+	<string>пързалка</string>
+	<key>🧝</key>
+	<string>елф</string>
+	<key>🛞</key>
+	<string>колело</string>
+	<key>👨‍⚖️</key>
+	<string>съдия</string>
+	<key>🏠</key>
+	<string>къща</string>
+	<key>🧞</key>
+	<string>джин</string>
+	<key>↘️</key>
+	<string>стрелка надолу-надясно</string>
+	<key>🛟</key>
+	<string>спасителен пояс</string>
+	<key>🏡</key>
+	<string>къща с градина</string>
+	<key>🧟</key>
+	<string>зомби</string>
+	<key>🤸‍♀️</key>
+	<string>жена, която прави странично колело</string>
+	<key>🏢</key>
+	<string>офис сграда</string>
+	<key>🧠</key>
+	<string>мозък</string>
+	<key>🏣</key>
+	<string>японска пощенска станция</string>
+	<key>🧡</key>
+	<string>оранжево сърце</string>
+	<key>👩‍💼</key>
+	<string>офис служителка</string>
+	<key>🏤</key>
+	<string>европейска пощенска станция</string>
+	<key>🧢</key>
+	<string>шапка с козирка</string>
+	<key>🏥</key>
+	<string>болница</string>
+	<key>🧣</key>
+	<string>шал</string>
+	<key>🏦</key>
+	<string>банка</string>
+	<key>🧤</key>
+	<string>ръкавици</string>
+	<key>🏧</key>
+	<string>знак за банкомат</string>
+	<key>🧥</key>
+	<string>палто</string>
+	<key>👷‍♀️</key>
+	<string>жена строителен работник</string>
+	<key>🏨</key>
+	<string>хотел</string>
+	<key>🧦</key>
+	<string>чорапи</string>
+	<key>🏩</key>
+	<string>любовен хотел</string>
+	<key>🧧</key>
+	<string>червен подаръчен плик</string>
+	<key>ℹ️</key>
+	<string>информационен източник</string>
+	<key>🏪</key>
+	<string>смесен магазин</string>
+	<key>🧨</key>
+	<string>пиратка</string>
+	<key>🏫</key>
+	<string>училище</string>
+	<key>🧩</key>
+	<string>парче от пъзел</string>
+	<key>🏬</key>
+	<string>универсален магазин</string>
+	<key>🧪</key>
+	<string>епруветка</string>
+	<key>🛫</key>
+	<string>излитащ самолет</string>
+	<key>🛳️</key>
+	<string>пътнически кораб</string>
+	<key>🏭</key>
+	<string>фабрика</string>
+	<key>🧫</key>
+	<string>петриева паничка</string>
+	<key>🛬</key>
+	<string>кацащ самолет</string>
+	<key>♨️</key>
+	<string>горещи извори</string>
+	<key>🏮</key>
+	<string>японски фенер</string>
+	<key>🧬</key>
+	<string>ДНК</string>
+	<key>👨‍👩‍👦</key>
+	<string>семейство с майка, баща и син</string>
+	<key>🏯</key>
+	<string>японски замък</string>
+	<key>🧭</key>
+	<string>компас</string>
+	<key>🧏‍♀️</key>
+	<string>глуха жена</string>
+	<key>🏰</key>
+	<string>европейски замък</string>
+	<key>🧮</key>
+	<string>абак</string>
+	<key>🧯</key>
+	<string>пожарогасител</string>
+	<key>⏹️</key>
+	<string>символ за спиране</string>
+	<key>🧰</key>
+	<string>кутия с инструменти</string>
+	<key>🧱</key>
+	<string>тухли</string>
+	<key>🏴</key>
+	<string>черен флаг</string>
+	<key>🧲</key>
+	<string>магнит</string>
+	<key>🙍‍♀️</key>
+	<string>жена, която се мръщи</string>
+	<key>🧳</key>
+	<string>багаж</string>
+	<key>🛴</key>
+	<string>скутер</string>
+	<key>🧴</key>
+	<string>бутилка с лосион</string>
+	<key>🛵</key>
+	<string>мотопед</string>
+	<key>👨‍👦</key>
+	<string>семейство с баща и син</string>
+	<key>🧵</key>
+	<string>конец</string>
+	<key>💆‍♂️</key>
+	<string>мъж, на когото му правят масаж на главата</string>
+	<key>🛶</key>
+	<string>кану</string>
+	<key>🏸</key>
+	<string>ракета за бадминтон и перце</string>
+	<key>🧶</key>
+	<string>прежда</string>
+	<key>🛷</key>
+	<string>шейна</string>
+	<key>🏹</key>
+	<string>лък и стрела</string>
+	<key>🧷</key>
+	<string>безопасна игла</string>
+	<key>🛸</key>
+	<string>НЛО</string>
+	<key>🏺</key>
+	<string>амфора</string>
+	<key>🧸</key>
+	<string>плюшено мече</string>
+	<key>🛹</key>
+	<string>скейтборд</string>
+	<key>🧹</key>
+	<string>метла</string>
+	<key>🛺</key>
+	<string>автоматична рикша</string>
+	<key>⏲️</key>
+	<string>таймер</string>
+	<key>🧺</key>
+	<string>кошница</string>
+	<key>🛻</key>
+	<string>пикап</string>
+	<key>🧻</key>
+	<string>ролка хартия</string>
+	<key>🛼</key>
+	<string>ролкова кънка</string>
+	<key>👨‍👧</key>
+	<string>семейство с баща и дъщеря</string>
+	<key>🧼</key>
+	<string>сапун</string>
+	<key>🧞‍♂️</key>
+	<string>джин</string>
+	<key>🧽</key>
+	<string>гъба</string>
+	<key>🎞️</key>
+	<string>филмови кадри</string>
+	<key>🧾</key>
+	<string>разписка</string>
+	<key>▪️</key>
+	<string>черен малък квадрат</string>
+	<key>🧿</key>
+	<string>амулет синьо око</string>
+	<key>☂️</key>
+	<string>чадър</string>
+	<key>🗂️</key>
+	<string>разделители с индексни картички</string>
+	<key>🦹‍♂️</key>
+	<string>суперзлодей</string>
+	<key>🏋️</key>
+	<string>щангист</string>
+	<key>◻️</key>
+	<string>бял среден квадрат</string>
+	<key>♓️</key>
+	<string>Риби</string>
+	<key>⚫️</key>
+	<string>черен кръг</string>
+	<key>⏩</key>
+	<string>символ за бързо превъртане напред</string>
+	<key>⏪</key>
+	<string>символ за превъртане назад</string>
+	<key>⏫</key>
+	<string>сочещ нагоре двоен триъгълник</string>
+	<key>⏬</key>
+	<string>сочещ надолу двоен триъгълник</string>
+	<key>🗯️</key>
+	<string>гневно балонче с текст</string>
+	<key>⏰</key>
+	<string>будилник</string>
+	<key>⏳</key>
+	<string>пясъчен часовник с течащ пясък</string>
+	<key>🧑‍🎓</key>
+	<string>студент</string>
+	<key>🧑‍🚒</key>
+	<string>пожарникар</string>
+	<key>♌️</key>
+	<string>Лъв</string>
+	<key>🗄️</key>
+	<string>шкаф за папки</string>
+	<key>🧍‍♂️</key>
+	<string>мъж, който стои изправен</string>
+	<key>🏍️</key>
+	<string>мотор</string>
+	<key>🙋‍♂️</key>
+	<string>мъж, вдигащ една ръка</string>
+	<key>👨‍👩‍👧</key>
+	<string>семейство с майка, баща и дъщеря</string>
+	<key>🇸🇦</key>
+	<string>знаме на Саудитска Арабия</string>
+	<key>⛵️</key>
+	<string>платноходка</string>
+	<key>👩‍🏫</key>
+	<string>учителка</string>
+	<key>⬜️</key>
+	<string>бял голям квадрат</string>
+	<key>🇸🇧</key>
+	<string>знаме на Соломонови острови</string>
+	<key>🇬🇦</key>
+	<string>знаме на Габон</string>
+	<key>🇨🇦</key>
+	<string>знаме на Канада</string>
+	<key>🇸🇨</key>
+	<string>знаме на Сейшели</string>
+	<key>🇬🇧</key>
+	<string>знаме на Обединеното кралство</string>
+	<key>👨‍🎓</key>
+	<string>студент</string>
+	<key>👨‍🚒</key>
+	<string>пожарникар</string>
+	<key>⚖️</key>
+	<string>везна</string>
+	<key>🇸🇩</key>
+	<string>знаме на Судан</string>
+	<key>🇨🇨</key>
+	<string>знаме на Кокосови (Килинг) острови</string>
+	<key>⏏️</key>
+	<string>символ за изваждане</string>
+	<key>🇸🇪</key>
+	<string>знаме на Швеция</string>
+	<key>🇬🇩</key>
+	<string>знаме на Гренада</string>
+	<key>👩‍🏭</key>
+	<string>работничка във фабрика</string>
+	<key>🇼🇫</key>
+	<string>знаме на Уолис &amp; Футуна</string>
+	<key>🇨🇩</key>
+	<string>знаме на Демократична република Конго</string>
+	<key>🇰🇪</key>
+	<string>знаме на Кения</string>
+	<key>🛎️</key>
+	<string>звънец</string>
+	<key>🇬🇪</key>
+	<string>знаме на Грузия</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>семейство с две майки, син и дъщеря</string>
+	<key>🇸🇬</key>
+	<string>знаме на Сингапур</string>
+	<key>🇬🇫</key>
+	<string>знаме на Френска Гвиана</string>
+	<key>🇨🇫</key>
+	<string>знаме на Централноафриканска република</string>
+	<key>🇰🇬</key>
+	<string>знаме на Киргизстан</string>
+	<key>🗳️</key>
+	<string>кутия за бюлетини</string>
+	<key>🇸🇭</key>
+	<string>знаме на Света Елена</string>
+	<key>🇬🇬</key>
+	<string>знаме на Гърнзи</string>
+	<key>🧑‍⚕️</key>
+	<string>здравен работник</string>
+	<key>🏃‍♀️</key>
+	<string>бегачка</string>
+	<key>🇨🇬</key>
+	<string>знаме на Република Конго</string>
+	<key>🇰🇭</key>
+	<string>знаме на Камбоджа</string>
+	<key>🤹‍♂️</key>
+	<string>мъж, който жонглира</string>
+	<key>🇸🇮</key>
+	<string>знаме на Словения</string>
+	<key>🇬🇭</key>
+	<string>знаме на Гана</string>
+	<key>〽️</key>
+	<string>знак за редуване на части</string>
+	<key>🇨🇭</key>
+	<string>знаме на Швейцария</string>
+	<key>🇰🇮</key>
+	<string>знаме на Кирибати</string>
+	<key>🇸🇯</key>
+	<string>знаме на Свалбард и Ян Майен</string>
+	<key>🕰️</key>
+	<string>часовник над камина</string>
+	<key>8️⃣</key>
+	<string>клавиш с цифра осем</string>
+	<key>🇬🇮</key>
+	<string>знаме на Гибралтар</string>
+	<key>🤾‍♀️</key>
+	<string>жена, която играе хандбал</string>
+	<key>🇨🇮</key>
+	<string>знаме на Кот д'Ивоар</string>
+	<key>⬇️</key>
+	<string>стрелка надолу</string>
+	<key>👩‍✈️</key>
+	<string>жена пилот</string>
+	<key>👩‍👧‍👦</key>
+	<string>семейство с майка, син и дъщеря</string>
+	<key>🇸🇰</key>
+	<string>знаме на Словакия</string>
+	<key>🌡️</key>
+	<string>термометър</string>
+	<key>↪️</key>
+	<string>стрелка наляво, завиваща надясно</string>
+	<key>🇸🇱</key>
+	<string>знаме на Сиера Леоне</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>двама мъже се целуват</string>
+	<key>🇨🇰</key>
+	<string>знаме на острови Кук</string>
+	<key>🇸🇲</key>
+	<string>знаме на Сан Марино</string>
+	<key>🇬🇱</key>
+	<string>знаме на Гренландия</string>
+	<key>🇴🇲</key>
+	<string>знаме на Оман</string>
+	<key>🇨🇱</key>
+	<string>знаме на Чили</string>
+	<key>🇰🇲</key>
+	<string>знаме на Коморски острови</string>
+	<key>🇸🇳</key>
+	<string>знаме на Сенегал</string>
+	<key>🇬🇲</key>
+	<string>знаме на Гамбия</string>
+	<key>1️⃣</key>
+	<string>клавиш с цифра едно</string>
+	<key>Ⓜ️</key>
+	<string>буква М в кръг</string>
+	<key>🇨🇲</key>
+	<string>знаме на Камерун</string>
+	<key>👨‍⚕️</key>
+	<string>здравен работник</string>
+	<key>🙎‍♂️</key>
+	<string>мъж, който се цупи</string>
+	<key>🇰🇳</key>
+	<string>знаме на Сейнт Китс &amp; Невис</string>
+	<key>🇸🇴</key>
+	<string>знаме на Сомалия</string>
+	<key>🇬🇳</key>
+	<string>знаме на Гвинея</string>
+	<key>🇨🇳</key>
+	<string>знаме на Китай</string>
+	<key>☢️</key>
+	<string>радиоактивно</string>
+	<key>🇨🇴</key>
+	<string>знаме на Колумбия</string>
+	<key>‼️</key>
+	<string>червен двоен удивителен знак</string>
+	<key>🃏</key>
+	<string>жокер</string>
+	<key>🇰🇵</key>
+	<string>знаме на Северна Корея</string>
+	<key>🇬🇵</key>
+	<string>знаме на Гваделупа</string>
+	<key>㊗️</key>
+	<string>японски знак за „поздравления“</string>
+	<key>🐿️</key>
+	<string>североамериканска катерица</string>
+	<key>🇨🇵</key>
+	<string>знаме на остров Клипертон</string>
+	<key>🇸🇷</key>
+	<string>знаме на Суринам</string>
+	<key>🏳️‍⚧️</key>
+	<string>трансджендър флаг</string>
+	<key>🇬🇶</key>
+	<string>знаме на Екваториална Гвинея</string>
+	<key>🇼🇸</key>
+	<string>знаме на Самоа</string>
+	<key>*️⃣</key>
+	<string>клавиш звездичка</string>
+	<key>🇰🇷</key>
+	<string>знаме на Южна Корея</string>
+	<key>🇸🇸</key>
+	<string>знаме на Южен Судан</string>
+	<key>🇬🇷</key>
+	<string>знаме на Гърция</string>
+	<key>🇨🇷</key>
+	<string>знаме на Коста Рика</string>
+	<key>®️</key>
+	<string>знак за регистрирана марка</string>
+	<key>🇸🇹</key>
+	<string>знаме на Сао Томе &amp; Принсипи</string>
+	<key>🇬🇸</key>
+	<string>знаме на Южна Джорджия и Южни Сандвичеви острови</string>
+	<key>↕️</key>
+	<string>стрелка нагоре-надолу</string>
+	<key>🇬🇹</key>
+	<string>знаме на Гватемала</string>
+	<key>☔️</key>
+	<string>чадър с дъждовни капки</string>
+	<key>🏳️‍🌈</key>
+	<string>флаг на дъгата</string>
+	<key>🇸🇻</key>
+	<string>знаме на Ел Салвадор</string>
+	<key>🕴️</key>
+	<string>левитиращ мъж в костюм</string>
+	<key>⛄️</key>
+	<string>снежен човек</string>
+	<key>🇬🇺</key>
+	<string>знаме на Гуам</string>
+	<key>🇨🇺</key>
+	<string>знаме на Куба</string>
+	<key>#️⃣</key>
+	<string>символ за номер</string>
+	<key>🤼‍♂️</key>
+	<string>мъже, които се борят</string>
+	<key>🌥️</key>
+	<string>слънце зад голям облак</string>
+	<key>👁️</key>
+	<string>око</string>
+	<key>🇨🇻</key>
+	<string>знаме на Кабо Верде</string>
+	<key>🍽️</key>
+	<string>вилица и нож с чиния</string>
+	<key>🇰🇼</key>
+	<string>знаме на Кувейт</string>
+	<key>🇸🇽</key>
+	<string>знаме на Сен Мартен</string>
+	<key>🇬🇼</key>
+	<string>знаме на Гвинея-Бисау</string>
+	<key>🏕️</key>
+	<string>къмпинг</string>
+	<key>🩰</key>
+	<string>балетни обувки</string>
+	<key>🇨🇼</key>
+	<string>знаме на Кюрасао</string>
+	<key>🩱</key>
+	<string>цял бански костюм</string>
+	<key>🇸🇾</key>
+	<string>знаме на Сирия</string>
+	<key>♥️</key>
+	<string>боя купа</string>
+	<key>🩲</key>
+	<string>пликчета</string>
+	<key>🕉️</key>
+	<string>символ „ом“</string>
+	<key>⚽️</key>
+	<string>футболна топка</string>
+	<key>🩳</key>
+	<string>шорти</string>
+	<key>🇨🇽</key>
+	<string>знаме на Коледен остров</string>
+	<key>🩴</key>
+	<string>сандал</string>
+	<key>🇰🇾</key>
+	<string>знаме на Кайманови острови</string>
+	<key>🇸🇿</key>
+	<string>знаме на Есватини</string>
+	<key>🩵</key>
+	<string>светлoсиньо сърце</string>
+	<key>👩‍👧‍👧</key>
+	<string>семейство с майка и две дъщери</string>
+	<key>🇬🇾</key>
+	<string>знаме на Гвиана</string>
+	<key>🩶</key>
+	<string>сиво сърце</string>
+	<key>🩷</key>
+	<string>розово сърце</string>
+	<key>🇨🇾</key>
+	<string>знаме на Кипър</string>
+	<key>🇰🇿</key>
+	<string>знаме на Казахстан</string>
+	<key>🩸</key>
+	<string>капка кръв</string>
+	<key>🩹</key>
+	<string>лепенка</string>
+	<key>🩺</key>
+	<string>стетоскоп</string>
+	<key>🇨🇿</key>
+	<string>знаме на Чехия</string>
+	<key>🩻</key>
+	<string>рентген</string>
+	<key>🩼</key>
+	<string>патерица</string>
+	<key>🕶️</key>
+	<string>слънчеви очила</string>
+	<key>🧘‍♀️</key>
+	<string>жена в поза лотос</string>
+	<key>⏯️</key>
+	<string>символ пусни/пауза</string>
+	<key>🪀</key>
+	<string>йо-йо</string>
+	<key>🌧️</key>
+	<string>облак с дъжд</string>
+	<key>🪁</key>
+	<string>хвърчило</string>
+	<key>🪂</key>
+	<string>парашут</string>
+	<key>🧑‍🎤</key>
+	<string>певец</string>
+	<key>🪃</key>
+	<string>бумеранг</string>
+	<key>🪄</key>
+	<string>магическа пръчка</string>
+	<key>🏗️</key>
+	<string>строителна конструкция</string>
+	<key>🪅</key>
+	<string>пинята</string>
+	<key>🪆</key>
+	<string>матрьошка</string>
+	<key>🚴‍♀️</key>
+	<string>велосипедистка</string>
+	<key>🪇</key>
+	<string>маракас</string>
+	<key>🐀</key>
+	<string>плъх</string>
+	<key>🪈</key>
+	<string>флейта</string>
+	<key>🐁</key>
+	<string>мишка</string>
+	<key>🐂</key>
+	<string>вол</string>
+	<key>🐃</key>
+	<string>воден бивол</string>
+	<key>🐄</key>
+	<string>крава</string>
+	<key>🅱️</key>
+	<string>кръвна група B</string>
+	<key>🐅</key>
+	<string>тигър</string>
+	<key>🐆</key>
+	<string>леопард</string>
+	<key>🐇</key>
+	<string>заек</string>
+	<key>🐈</key>
+	<string>котка</string>
+	<key>🪐</key>
+	<string>планета</string>
+	<key>♐️</key>
+	<string>Стрелец</string>
+	<key>🐉</key>
+	<string>дракон</string>
+	<key>🪑</key>
+	<string>стол</string>
+	<key>🕸️</key>
+	<string>паяжина</string>
+	<key>🐊</key>
+	<string>крокодил</string>
+	<key>🪒</key>
+	<string>бръснач</string>
+	<key>👩‍🍳</key>
+	<string>готвачка</string>
+	<key>🐋</key>
+	<string>кит</string>
+	<key>👯‍♀️</key>
+	<string>танцуващи жени, носещи заешки уши</string>
+	<key>🪓</key>
+	<string>брадва</string>
+	<key>🐌</key>
+	<string>охлюв</string>
+	<key>🪔</key>
+	<string>маслена лампа</string>
+	<key>🐍</key>
+	<string>змия</string>
+	<key>🪕</key>
+	<string>банджо</string>
+	<key>🏄‍♂️</key>
+	<string>сърфист</string>
+	<key>🌩️</key>
+	<string>облак със светкавица</string>
+	<key>🐎</key>
+	<string>кон</string>
+	<key>🪖</key>
+	<string>военна каска</string>
+	<key>🐏</key>
+	<string>овен</string>
+	<key>🪗</key>
+	<string>акордеон</string>
+	<key>🐐</key>
+	<string>коза</string>
+	<key>🪘</key>
+	<string>висок барабан</string>
+	<key>👨‍🎤</key>
+	<string>певец</string>
+	<key>🏙️</key>
+	<string>градски пейзаж</string>
+	<key>🐑</key>
+	<string>овца</string>
+	<key>🪙</key>
+	<string>монета</string>
+	<key>🐒</key>
+	<string>маймуна</string>
+	<key>🪚</key>
+	<string>ръчен трион</string>
+	<key>♉️</key>
+	<string>Телец</string>
+	<key>🐓</key>
+	<string>петел</string>
+	<key>🪛</key>
+	<string>отвертка</string>
+	<key>⚡️</key>
+	<string>светкавица</string>
+	<key>🐔</key>
+	<string>пиле</string>
+	<key>🪜</key>
+	<string>стълба</string>
+	<key>⛹️</key>
+	<string>баскетболен играч</string>
+	<key>🖥️</key>
+	<string>настолен компютър</string>
+	<key>🐕</key>
+	<string>куче</string>
+	<key>🪝</key>
+	<string>кука</string>
+	<key>🧑‍🎨</key>
+	<string>художник</string>
+	<key>🐖</key>
+	<string>прасе</string>
+	<key>🪞</key>
+	<string>огледало</string>
+	<key>🐗</key>
+	<string>глиган</string>
+	<key>🪟</key>
+	<string>прозорец</string>
+	<key>🐘</key>
+	<string>слон</string>
+	<key>🙅‍♀️</key>
+	<string>жена, която жестикулира „не“</string>
+	<key>🪠</key>
+	<string>бутало</string>
+	<key>🐙</key>
+	<string>октопод</string>
+	<key>🪡</key>
+	<string>игла за шиене</string>
+	<key>🐚</key>
+	<string>морска раковина</string>
+	<key>🪢</key>
+	<string>възел</string>
+	<key>🚣‍♀️</key>
+	<string>жена в лодка, която гребе</string>
+	<key>🐛</key>
+	<string>буболечка</string>
+	<key>🪣</key>
+	<string>кофа</string>
+	<key>🐜</key>
+	<string>мравка</string>
+	<key>🪤</key>
+	<string>капан за мишки</string>
+	<key>🐝</key>
+	<string>пчела</string>
+	<key>🪥</key>
+	<string>четка за зъби</string>
+	<key>🐞</key>
+	<string>калинка</string>
+	<key>🪦</key>
+	<string>надгробна плоча</string>
+	<key>⛲️</key>
+	<string>фонтан</string>
+	<key>🐟</key>
+	<string>риба</string>
+	<key>🪧</key>
+	<string>знак</string>
+	<key>🐠</key>
+	<string>тропическа риба</string>
+	<key>🗒️</key>
+	<string>бележник със спирала</string>
+	<key>🪨</key>
+	<string>скала</string>
+	<key>🐡</key>
+	<string>риба балон</string>
+	<key>🪩</key>
+	<string>огледална сфера</string>
+	<key>🧖‍♂️</key>
+	<string>мъж в сауна</string>
+	<key>🌫️</key>
+	<string>мъгла</string>
+	<key>🐢</key>
+	<string>костенурка</string>
+	<key>🪪</key>
+	<string>лична карта</string>
+	<key>🐣</key>
+	<string>излюпващо се пиле</string>
+	<key>🪫</key>
+	<string>изтощена батерия</string>
+	<key>🐤</key>
+	<string>пиленце</string>
+	<key>🪬</key>
+	<string>символ хамса</string>
+	<key>🐥</key>
+	<string>изправено пиле</string>
+	<key>😶‍🌫️</key>
+	<string>лице в облаци</string>
+	<key>🏛️</key>
+	<string>класическа сграда</string>
+	<key>🪭</key>
+	<string>сгъваемо ръчно ветрило</string>
+	<key>🐦</key>
+	<string>птица</string>
+	<key>🧛‍♀️</key>
+	<string>вампирка</string>
+	<key>🪮</key>
+	<string>гребен за коса</string>
+	<key>🐧</key>
+	<string>пингвин</string>
+	<key>🪯</key>
+	<string>символ кханда</string>
+	<key>🐨</key>
+	<string>лице на коала</string>
+	<key>⚓️</key>
+	<string>котва</string>
+	<key>🪰</key>
+	<string>муха</string>
+	<key>🐩</key>
+	<string>пудел</string>
+	<key>🪱</key>
+	<string>червей</string>
+	<key>🐪</key>
+	<string>камила</string>
+	<key>🪲</key>
+	<string>бръмбар</string>
+	<key>👨‍🎨</key>
+	<string>художник</string>
+	<key>🐫</key>
+	<string>двугърба камила</string>
+	<key>🪳</key>
+	<string>хлебарка</string>
+	<key>🐬</key>
+	<string>делфин</string>
+	<key>🪴</key>
+	<string>цвете в саксия</string>
+	<key>🐭</key>
+	<string>муцуна на мишка</string>
+	<key>🪵</key>
+	<string>дърва</string>
+	<key>🐮</key>
+	<string>муцуна на крава</string>
+	<key>🪶</key>
+	<string>перо</string>
+	<key>🐯</key>
+	<string>муцуна на тигър</string>
+	<key>🪷</key>
+	<string>лотос</string>
+	<key>🐕‍🦺</key>
+	<string>куче водач</string>
+	<key>🐰</key>
+	<string>муцуна на заек</string>
+	<key>🪸</key>
+	<string>корал</string>
+	<key>🐱</key>
+	<string>муцуна на котка</string>
+	<key>🪹</key>
+	<string>празно гнездо</string>
+	<key>🐲</key>
+	<string>глава на дракон</string>
+	<key>🪺</key>
+	<string>гнездо с яйца</string>
+	<key>🐳</key>
+	<string>пръскащ кит</string>
+	<key>🪻</key>
+	<string>зюмбюл</string>
+	<key>🐴</key>
+	<string>глава на кон</string>
+	<key>🪼</key>
+	<string>медуза</string>
+	<key>🐵</key>
+	<string>муцуна на маймуна</string>
+	<key>🪽</key>
+	<string>крило</string>
+	<key>🐶</key>
+	<string>муцуна на куче</string>
+	<key>🐷</key>
+	<string>муцуна на прасе</string>
+	<key>🪿</key>
+	<string>гъска</string>
+	<key>🐸</key>
+	<string>муцуна на жаба</string>
+	<key>🫀</key>
+	<string>анатомично сърце</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>знаме на Англия</string>
+	<key>🐹</key>
+	<string>муцуна на хамстер</string>
+	<key>🫁</key>
+	<string>бели дробове</string>
+	<key>🐺</key>
+	<string>вълк</string>
+	<key>🏝️</key>
+	<string>пустинен остров</string>
+	<key>🫂</key>
+	<string>хора, които се прегръщат</string>
+	<key>🐻</key>
+	<string>муцуна на мечка</string>
+	<key>🏌️‍♂️</key>
+	<string>мъж играе голф</string>
+	<key>🫃</key>
+	<string>бременен мъж</string>
+	<key>🐼</key>
+	<string>муцуна на панда</string>
+	<key>🫄</key>
+	<string>бременен човек</string>
+	<key>6️⃣</key>
+	<string>клавиш с цифра шест</string>
+	<key>🐽</key>
+	<string>нос на прасе</string>
+	<key>🫅</key>
+	<string>човек с корона</string>
+	<key>🐾</key>
+	<string>отпечатъци от лапи</string>
+	<key>👀</key>
+	<string>очи</string>
+	<key>👂</key>
+	<string>ухо</string>
+	<key>👃</key>
+	<string>нос</string>
+	<key>👄</key>
+	<string>уста</string>
+	<key>👅</key>
+	<string>език</string>
+	<key>☦️</key>
+	<string>Православен кръст</string>
+	<key>👆</key>
+	<string>обърната ръка с показалец, сочещ нагоре</string>
+	<key>👩‍🍼</key>
+	<string>жена храни бебе</string>
+	<key>🫎</key>
+	<string>муцуна на лос</string>
+	<key>♾️</key>
+	<string>безкрайност</string>
+	<key>👇</key>
+	<string>обърната ръка с показалец, сочещ надолу</string>
+	<key>🫏</key>
+	<string>магаре</string>
+	<key>👈</key>
+	<string>обърната ръка с показалец, сочещ наляво</string>
+	<key>🫐</key>
+	<string>боровинки</string>
+	<key>👉</key>
+	<string>обърната ръка с показалец, сочещ надясно</string>
+	<key>🫑</key>
+	<string>гамба</string>
+	<key>👊</key>
+	<string>стиснат юмрук</string>
+	<key>🫒</key>
+	<string>маслина</string>
+	<key>⭕️</key>
+	<string>знак за кръг</string>
+	<key>💁‍♂️</key>
+	<string>служител на информационно гише</string>
+	<key>👋</key>
+	<string>махаща ръка</string>
+	<key>🫓</key>
+	<string>плосък хляб</string>
+	<key>👌</key>
+	<string>знак с ръка за OK</string>
+	<key>🫔</key>
+	<string>тамале</string>
+	<key>👍</key>
+	<string>палец нагоре</string>
+	<key>🫕</key>
+	<string>фондю</string>
+	<key>👎</key>
+	<string>палец надолу</string>
+	<key>🫖</key>
+	<string>чайник</string>
+	<key>🏟️</key>
+	<string>стадион</string>
+	<key>👏</key>
+	<string>пляскащи ръце</string>
+	<key>🫗</key>
+	<string>изливаща се течност</string>
+	<key>💆‍♀️</key>
+	<string>жена, на която ѝ правят масаж на главата</string>
+	<key>👐</key>
+	<string>отворени ръце</string>
+	<key>🫘</key>
+	<string>бобови зърна</string>
+	<key>🐦‍⬛</key>
+	<string>черна птица</string>
+	<key>🧑‍🦯</key>
+	<string>човек с бял бастун</string>
+	<key>🫙</key>
+	<string>буркан</string>
+	<key>🧙‍♂️</key>
+	<string>мъж магьосник</string>
+	<key>👑</key>
+	<string>корона</string>
+	<key>⛏️</key>
+	<string>кирка</string>
+	<key>👒</key>
+	<string>шапка с пандела</string>
+	<key>🫚</key>
+	<string>корен джинджифил</string>
+	<key>👓</key>
+	<string>очила</string>
+	<key>🫛</key>
+	<string>грахова шушулка</string>
+	<key>👔</key>
+	<string>риза с вратовръзка</string>
+	<key>👕</key>
+	<string>тениска с яка</string>
+	<key>👖</key>
+	<string>дънки</string>
+	<key>🧞‍♀️</key>
+	<string>жена джин</string>
+	<key>👗</key>
+	<string>рокля</string>
+	<key>↙️</key>
+	<string>стрелка надолу-наляво</string>
+	<key>🧑‍🦰</key>
+	<string>човек с червена коса</string>
+	<key>🕵️‍♂️</key>
+	<string>детектив</string>
+	<key>👘</key>
+	<string>кимоно</string>
+	<key>🟠</key>
+	<string>оранжев кръг</string>
+	<key>🫠</key>
+	<string>разтапящо се лице</string>
+	<key>🟡</key>
+	<string>жълт кръг</string>
+	<key>👩‍❤️‍👨</key>
+	<string>мъж и жена със сърце</string>
+	<key>👙</key>
+	<string>бански</string>
+	<key>◀️</key>
+	<string>сочещ наляво триъгълник</string>
+	<key>🫡</key>
+	<string>поздравяващо лице</string>
+	<key>🟢</key>
+	<string>зелен кръг</string>
+	<key>👚</key>
+	<string>блуза</string>
+	<key>☘️</key>
+	<string>трилистна детелина</string>
+	<key>🫢</key>
+	<string>лице с отворени очи и ръка върху устата</string>
+	<key>🚵‍♂️</key>
+	<string>мъж планински колоездач</string>
+	<key>🟣</key>
+	<string>лилав кръг</string>
+	<key>👛</key>
+	<string>дамска чанта</string>
+	<key>🫣</key>
+	<string>лице с надничащо око</string>
+	<key>🟤</key>
+	<string>кафяв кръг</string>
+	<key>👜</key>
+	<string>ръчна чанта</string>
+	<key>⛈️</key>
+	<string>облак със светкавица и дъжд</string>
+	<key>🫤</key>
+	<string>лице с диагонална уста</string>
+	<key>🟥</key>
+	<string>червен квадрат</string>
+	<key>👝</key>
+	<string>портмоне</string>
+	<key>🫥</key>
+	<string>лице с прекъсната линия</string>
+	<key>🟦</key>
+	<string>син квадрат</string>
+	<key>👞</key>
+	<string>официална обувка</string>
+	<key>🧑‍🦱</key>
+	<string>човек с къдрава коса</string>
+	<key>🫦</key>
+	<string>прехапана устна</string>
+	<key>🟧</key>
+	<string>оранжев квадрат</string>
+	<key>🦹‍♀️</key>
+	<string>суперзлодейка</string>
+	<key>👟</key>
+	<string>обувка за тенис</string>
+	<key>🫧</key>
+	<string>мехурчета</string>
+	<key>🟨</key>
+	<string>жълт квадрат</string>
+	<key>❤️‍🔥</key>
+	<string>сърце в пламъци</string>
+	<key>👠</key>
+	<string>обувка на висок ток</string>
+	<key>🟩</key>
+	<string>зелен квадрат</string>
+	<key>🫨</key>
+	<string>треперещо лице</string>
+	<key>👡</key>
+	<string>сандал с ток</string>
+	<key>🟪</key>
+	<string>лилав квадрат</string>
+	<key>👢</key>
+	<string>ботуш с ток</string>
+	<key>🟫</key>
+	<string>кафяв квадрат</string>
+	<key>👣</key>
+	<string>следи от стъпки</string>
+	<key>🛠️</key>
+	<string>чук и гаечен ключ</string>
+	<key>📽️</key>
+	<string>филмов прожектор</string>
+	<key>👤</key>
+	<string>силует на човек</string>
+	<key>☑️</key>
+	<string>квадрат с отметка</string>
+	<key>🧑‍🦲</key>
+	<string>човек без коса</string>
+	<key>👥</key>
+	<string>силуети на двама души</string>
+	<key>👦</key>
+	<string>момче</string>
+	<key>👨‍🦯</key>
+	<string>мъж с бял бастун</string>
+	<key>👧</key>
+	<string>момиче</string>
+	<key>👰‍♂️</key>
+	<string>мъж с воал</string>
+	<key>👩‍🚀</key>
+	<string>астронавтка</string>
+	<key>🟰</key>
+	<string>знак за равно</string>
+	<key>🏴‍☠️</key>
+	<string>пиратско знаме</string>
+	<key>👨</key>
+	<string>мъж</string>
+	<key>🫰</key>
+	<string>ръка с кръстосани палец и показалец</string>
+	<key>⏺️</key>
+	<string>символ за записване</string>
+	<key>👩</key>
+	<string>жена</string>
+	<key>🫱</key>
+	<string>ръка надясно</string>
+	<key>👪</key>
+	<string>семейство</string>
+	<key>🫲</key>
+	<string>ръка наляво</string>
+	<key>👫</key>
+	<string>мъж и жена се държат за ръка</string>
+	<key>🫳</key>
+	<string>ръка с длан надолу</string>
+	<key>🧑‍🦳</key>
+	<string>човек с бяла коса</string>
+	<key>👬</key>
+	<string>двама мъже се държат за ръка</string>
+	<key>🫴</key>
+	<string>ръка с длан нагоре</string>
+	<key>👭</key>
+	<string>две жени се държат за ръка</string>
+	<key>👨‍🦰</key>
+	<string>мъж с червена коса</string>
+	<key>🫵</key>
+	<string>показалец, сочещ към зрителя</string>
+	<key>👮</key>
+	<string>полицай</string>
+	<key>🏊‍♂️</key>
+	<string>плувец</string>
+	<key>🫶</key>
+	<string>ръце във формата на сърце</string>
+	<key>👯</key>
+	<string>танцуващи хора, носещи заешки уши</string>
+	<key>🫷</key>
+	<string>бутаща наляво ръка</string>
+	<key>👰</key>
+	<string>човек с воал</string>
+	<key>🫸</key>
+	<string>бутаща надясно ръка</string>
+	<key>👱</key>
+	<string>човек с руса коса</string>
+	<key>✒️</key>
+	<string>писалка</string>
+	<key>👲</key>
+	<string>човек с китайска шапка</string>
+	<key>🧍‍♀️</key>
+	<string>жена, която стои изправена</string>
+	<key>👳</key>
+	<string>човек с тюрбан</string>
+	<key>👨‍🦱</key>
+	<string>мъж с къдрава коса</string>
+	<key>👴</key>
+	<string>възрастен мъж</string>
+	<key>🙆‍♂️</key>
+	<string>мъж, който жестикулира „OK“</string>
+	<key>👵</key>
+	<string>възрастна жена</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>семейство с майка, баща, син и дъщеря</string>
+	<key>👶</key>
+	<string>бебе</string>
+	<key>👷</key>
+	<string>строителен работник</string>
+	<key>▫️</key>
+	<string>бял малък квадрат</string>
+	<key>👸</key>
+	<string>принцеса</string>
+	<key>🛢️</key>
+	<string>варел с гориво</string>
+	<key>☃️</key>
+	<string>снежен човек със снежинки</string>
+	<key>👹</key>
+	<string>страшилище</string>
+	<key>🙋‍♀️</key>
+	<string>жена, вдигаща една ръка</string>
+	<key>👺</key>
+	<string>гоблин</string>
+	<key>👨‍🦲</key>
+	<string>мъж без коса</string>
+	<key>🇹🇦</key>
+	<string>знаме на Тристан да Куня</string>
+	<key>👻</key>
+	<string>дух</string>
+	<key>🇵🇦</key>
+	<string>знаме на Панама</string>
+	<key>👼</key>
+	<string>бебе ангел</string>
+	<key>❣️</key>
+	<string>червено сърце във вид на удивителен знак</string>
+	<key>👽</key>
+	<string>извънземно</string>
+	<key>🇱🇦</key>
+	<string>знаме на Лаос</string>
+	<key>👾</key>
+	<string>извънземно чудовище</string>
+	<key>👿</key>
+	<string>ядосано лице с рога</string>
+	<key>💀</key>
+	<string>череп</string>
+	<key>🇱🇧</key>
+	<string>знаме на Ливан</string>
+	<key>👨‍🦳</key>
+	<string>мъж с бяла коса</string>
+	<key>💁</key>
+	<string>служител на информационно гише</string>
+	<key>🇹🇨</key>
+	<string>знаме на острови Търкс &amp; Кайкос</string>
+	<key>🧜‍♂️</key>
+	<string>мъж руслака</string>
+	<key>💂</key>
+	<string>пазач</string>
+	<key>💃</key>
+	<string>танцуваща жена</string>
+	<key>◼️</key>
+	<string>черен среден квадрат</string>
+	<key>🇱🇨</key>
+	<string>знаме на Сейнт Лусия</string>
+	<key>💄</key>
+	<string>червило</string>
+	<key>🇹🇩</key>
+	<string>знаме на Чад</string>
+	<key>💅</key>
+	<string>лак за нокти</string>
+	<key>💆</key>
+	<string>човек, на когото му правят масаж на главата</string>
+	<key>💇</key>
+	<string>човек, който се подстригва</string>
+	<key>🗜️</key>
+	<string>скоба</string>
+	<key>💈</key>
+	<string>знак за бръснарница</string>
+	<key>💉</key>
+	<string>спринцовка</string>
+	<key>🇵🇪</key>
+	<string>знаме на Перу</string>
+	<key>💊</key>
+	<string>хапче</string>
+	<key>💋</key>
+	<string>отпечатък от целувка</string>
+	<key>🇹🇫</key>
+	<string>знаме на Френски южни и антарктически територии</string>
+	<key>💌</key>
+	<string>любовно писмо</string>
+	<key>👩‍❤️‍👩</key>
+	<string>две жени със сърце</string>
+	<key>🇵🇫</key>
+	<string>знаме на Френска Полинезия</string>
+	<key>🛤️</key>
+	<string>железопътни релси</string>
+	<key>💍</key>
+	<string>пръстен</string>
+	<key>🆎</key>
+	<string>кръвна група AB</string>
+	<key>🇩🇪</key>
+	<string>знаме на Германия</string>
+	<key>🈂️</key>
+	<string>японски знак за „услуга“ или „такса за обслужване“</string>
+	<key>💎</key>
+	<string>скъпоценен камък</string>
+	<key>♍️</key>
+	<string>Дева</string>
+	<key>🇹🇬</key>
+	<string>знаме на Того</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>две жени се целуват</string>
+	<key>💏</key>
+	<string>двойка,която се целува</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>хора се държат за ръка</string>
+	<key>💐</key>
+	<string>букет</string>
+	<key>⛽️</key>
+	<string>бензиноколонка</string>
+	<key>🇵🇬</key>
+	<string>знаме на Папуа Нова Гвинея</string>
+	<key>🖱️</key>
+	<string>компютърна мишка</string>
+	<key>🆑</key>
+	<string>знак „изчисти“ на английски</string>
+	<key>💑</key>
+	<string>двойка със сърце</string>
+	<key>🆒</key>
+	<string>знак cool</string>
+	<key>🇹🇭</key>
+	<string>знаме на Тайланд</string>
+	<key>💒</key>
+	<string>сватба</string>
+	<key>🆓</key>
+	<string>знак free</string>
+	<key>💓</key>
+	<string>биещо сърце</string>
+	<key>🆔</key>
+	<string>знак за идентификация</string>
+	<key>🇵🇭</key>
+	<string>знаме на Филипини</string>
+	<key>👩‍⚖️</key>
+	<string>съдийка</string>
+	<key>💔</key>
+	<string>счупено сърце</string>
+	<key>🇩🇬</key>
+	<string>знаме на Диего Гарсия</string>
+	<key>🆕</key>
+	<string>знак new</string>
+	<key>🅿️</key>
+	<string>знак за паркинг</string>
+	<key>💕</key>
+	<string>две сърца</string>
+	<key>🤹‍♀️</key>
+	<string>жена, която жонглира</string>
+	<key>🆖</key>
+	<string>знак no good</string>
+	<key>💖</key>
+	<string>блестящо сърце</string>
+	<key>🆗</key>
+	<string>знак OK</string>
+	<key>💗</key>
+	<string>растящо сърце</string>
+	<key>👳‍♂️</key>
+	<string>мъж с тюрбан</string>
+	<key>🆘</key>
+	<string>знак SOS</string>
+	<key>💘</key>
+	<string>сърце със стрела</string>
+	<key>🇱🇮</key>
+	<string>знаме на Лихтенщайн</string>
+	<key>🆙</key>
+	<string>знак up</string>
+	<key>🈯️</key>
+	<string>японски знак за „резервирано“</string>
+	<key>🇹🇯</key>
+	<string>знаме на Таджикистан</string>
+	<key>💙</key>
+	<string>синьо сърце</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>семейство с двама бащи и двама сина</string>
+	<key>🆚</key>
+	<string>знак vs в квадрат</string>
+	<key>💚</key>
+	<string>зелено сърце</string>
+	<key>🇽🇰</key>
+	<string>знаме на Косово</string>
+	<key>💛</key>
+	<string>жълто сърце</string>
+	<key>🗞️</key>
+	<string>навит вестник</string>
+	<key>💜</key>
+	<string>лилаво сърце</string>
+	<key>🇹🇰</key>
+	<string>знаме на Токелау</string>
+	<key>💝</key>
+	<string>сърце с пандела</string>
+	<key>🇵🇰</key>
+	<string>знаме на Пакистан</string>
+	<key>💞</key>
+	<string>въртящи се сърца</string>
+	<key>🇩🇯</key>
+	<string>знаме на Джибути</string>
+	<key>💟</key>
+	<string>украса със сърце</string>
+	<key>🇱🇰</key>
+	<string>знаме на Шри Ланка</string>
+	<key>🇹🇱</key>
+	<string>знаме на Източен Тимор</string>
+	<key>👩‍🤝‍👨</key>
+	<string>жена и мъж се държат за ръка</string>
+	<key>💠</key>
+	<string>форма на диамант с точка посредата</string>
+	<key>🇭🇰</key>
+	<string>знаме на Хонконг</string>
+	<key>💡</key>
+	<string>крушка</string>
+	<key>🇵🇱</key>
+	<string>знаме на Полша</string>
+	<key>🇩🇰</key>
+	<string>знаме на Дания</string>
+	<key>💢</key>
+	<string>символ за гняв</string>
+	<key>🇹🇲</key>
+	<string>знаме на Туркменистан</string>
+	<key>💣</key>
+	<string>бомба</string>
+	<key>⚗️</key>
+	<string>колба</string>
+	<key>💤</key>
+	<string>знак за сън</string>
+	<key>🇵🇲</key>
+	<string>знаме на Сен Пиер &amp; Микелон</string>
+	<key>💥</key>
+	<string>експлозия</string>
+	<key>❇️</key>
+	<string>искра</string>
+	<key>💦</key>
+	<string>водни капчици</string>
+	<key>🇹🇳</key>
+	<string>знаме на Тунис</string>
+	<key>🧑‍🦼</key>
+	<string>човек в моторизирана инвалидна количка</string>
+	<key>💧</key>
+	<string>капчица</string>
+	<key>🇭🇲</key>
+	<string>знаме на островите Хърд и Макдоналд</string>
+	<key>🇵🇳</key>
+	<string>знаме на Питкерн</string>
+	<key>💨</key>
+	<string>порив на вятър</string>
+	<key>🇩🇲</key>
+	<string>знаме на Доминика</string>
+	<key>💩</key>
+	<string>изпражнения</string>
+	<key>🙎‍♀️</key>
+	<string>жена, която се цупи</string>
+	<key>🇹🇴</key>
+	<string>знаме на Тонга</string>
+	<key>💪</key>
+	<string>стегнат бицепс</string>
+	<key>🇭🇳</key>
+	<string>знаме на Хондурас</string>
+	<key>👩‍👦</key>
+	<string>семейство с майка и син</string>
+	<key>💫</key>
+	<string>символ за замаяност</string>
+	<key>💇‍♂️</key>
+	<string>мъж, който се подстригва</string>
+	<key>💬</key>
+	<string>балонче с текст</string>
+	<key>☸️</key>
+	<string>колело на дхарма</string>
+	<key>💭</key>
+	<string>балонче с мисли</string>
+	<key>🧑‍🦽</key>
+	<string>човек в инвалидна количка</string>
+	<key>💮</key>
+	<string>бяло цвете</string>
+	<key>💯</key>
+	<string>символ за сто точки</string>
+	<key>🇩🇴</key>
+	<string>знаме на Доминиканска република</string>
+	<key>💰</key>
+	<string>кесия с пари</string>
+	<key>💱</key>
+	<string>обмяна на валута</string>
+	<key>😵‍💫</key>
+	<string>лице с очи-спирали</string>
+	<key>👩‍👧</key>
+	<string>семейство с майка и дъщеря</string>
+	<key>🧟‍♂️</key>
+	<string>мъж зомби</string>
+	<key>💲</key>
+	<string>долар</string>
+	<key>💳</key>
+	<string>кредитна карта</string>
+	<key>🇹🇷</key>
+	<string>знаме на Турция</string>
+	<key>💴</key>
+	<string>банкноти йени</string>
+	<key>💵</key>
+	<string>банкноти долари</string>
+	<key>🇵🇷</key>
+	<string>знаме на Пуерто Рико</string>
+	<key>💶</key>
+	<string>банкноти евро</string>
+	<key>🇱🇷</key>
+	<string>знаме на Либерия</string>
+	<key>💷</key>
+	<string>банкноти лири</string>
+	<key>💸</key>
+	<string>пари с криле</string>
+	<key>🇭🇷</key>
+	<string>знаме на Хърватия</string>
+	<key>🇵🇸</key>
+	<string>знаме на Палестински територии</string>
+	<key>💹</key>
+	<string>графика с възходяща тенденция и знак за йена</string>
+	<key>💺</key>
+	<string>место за сядане</string>
+	<key>🇱🇸</key>
+	<string>знаме на Лесото</string>
+	<key>🇹🇹</key>
+	<string>знаме на Тринидад &amp; Тобаго</string>
+	<key>💻</key>
+	<string>лаптоп</string>
+	<key>💼</key>
+	<string>куфарче</string>
+	<key>👨‍🦼</key>
+	<string>мъж в моторизирана инвалидна количка</string>
+	<key>🇵🇹</key>
+	<string>знаме на Португалия</string>
+	<key>💽</key>
+	<string>минидиск</string>
+	<key>🇱🇹</key>
+	<string>знаме на Литва</string>
+	<key>💾</key>
+	<string>дискета</string>
+	<key>🇭🇹</key>
+	<string>знаме на Хаити</string>
+	<key>💿</key>
+	<string>компактдиск</string>
+	<key>📀</key>
+	<string>dvd диск</string>
+	<key>🤷‍♂️</key>
+	<string>мъж с повдигнати рамене</string>
+	<key>📁</key>
+	<string>затворена папка</string>
+	<key>🇱🇺</key>
+	<string>знаме на Люксембург</string>
+	<key>☪️</key>
+	<string>звезда и полумесец</string>
+	<key>🇹🇻</key>
+	<string>знаме на Тувалу</string>
+	<key>📂</key>
+	<string>отворена папка</string>
+	<key>4️⃣</key>
+	<string>клавиш с цифра четири</string>
+	<key>🇭🇺</key>
+	<string>знаме на Унгария</string>
+	<key>👨‍🦽</key>
+	<string>мъж в инвалидна количка</string>
+	<key>📃</key>
+	<string>извита страница</string>
+	<key>🖊️</key>
+	<string>химикал</string>
+	<key>📄</key>
+	<string>страница с лицевата страна нагоре</string>
+	<key>🇱🇻</key>
+	<string>знаме на Латвия</string>
+	<key>🇹🇼</key>
+	<string>знаме на Тайван</string>
+	<key>📅</key>
+	<string>календар</string>
+	<key>🤼‍♀️</key>
+	<string>жени, които се борят</string>
+	<key>📆</key>
+	<string>календар с листчета за късане</string>
+	<key>🇵🇼</key>
+	<string>знаме на Палау</string>
+	<key>📇</key>
+	<string>картотека</string>
+	<key>📈</key>
+	<string>графика с възходяща тенденция</string>
+	<key>🧑‍🔧</key>
+	<string>механик</string>
+	<key>📉</key>
+	<string>графика с низходяща тенденция</string>
+	<key>〰️</key>
+	<string>вълнообразно тире</string>
+	<key>📊</key>
+	<string>стълбовидна диаграма</string>
+	<key>📋</key>
+	<string>клипборд</string>
+	<key>☣️</key>
+	<string>биологична опасност</string>
+	<key>📌</key>
+	<string>габърче</string>
+	<key>♻️</key>
+	<string>символ за рециклиране</string>
+	<key>📍</key>
+	<string>кръгло габърче</string>
+	<key>🇵🇾</key>
+	<string>знаме на Парагвай</string>
+	<key>⛓️</key>
+	<string>вериги</string>
+	<key>📎</key>
+	<string>кламер</string>
+	<key>🧎‍♂️</key>
+	<string>мъж, който е коленичил</string>
+	<key>🇱🇾</key>
+	<string>знаме на Либия</string>
+	<key>📏</key>
+	<string>линийка</string>
+	<key>🇹🇿</key>
+	<string>знаме на Танзания</string>
+	<key>📐</key>
+	<string>триъгълник</string>
+	<key>📑</key>
+	<string>разделители</string>
+	<key>📒</key>
+	<string>счетоводна книга</string>
+	<key>📓</key>
+	<string>тетрадка</string>
+	<key>👩‍🤝‍👩</key>
+	<string>жени се държат за ръка</string>
+	<key>📔</key>
+	<string>тефтер с украсена корица</string>
+	<key>🇩🇿</key>
+	<string>знаме на Алжир</string>
+	<key>📕</key>
+	<string>червен учебник</string>
+	<key>📖</key>
+	<string>отворена книга</string>
+	<key>📗</key>
+	<string>зелен учебник</string>
+	<key>🖌️</key>
+	<string>четка за рисуване</string>
+	<key>📘</key>
+	<string>син учебник</string>
+	<key>📙</key>
+	<string>оранжев учебник</string>
+	<key>👩‍👩‍👦</key>
+	<string>семейство с две майки и син</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>семейство с двама бащи и две дъщери</string>
+	<key>📚</key>
+	<string>книги</string>
+	<key>📛</key>
+	<string>значка с име</string>
+	<key>📜</key>
+	<string>свитък</string>
+	<key>📝</key>
+	<string>бележка</string>
+	<key>↖️</key>
+	<string>стрелка нагоре-наляво</string>
+	<key>🤦‍♂️</key>
+	<string>мъж с ръка върху лицето</string>
+	<key>📞</key>
+	<string>телефонна слушалка</string>
+	<key>👩‍🎓</key>
+	<string>студентка</string>
+	<key>👩‍🚒</key>
+	<string>пожарникарка</string>
+	<key>⤴️</key>
+	<string>стрелка надясно, завиваща нагоре</string>
+	<key>👨‍🔧</key>
+	<string>механик</string>
+	<key>📟</key>
+	<string>пейджър</string>
+	<key>☕️</key>
+	<string>гореща напитка</string>
+	<key>📠</key>
+	<string>факс</string>
+	<key>📡</key>
+	<string>сателитна антена</string>
+	<key>⛅️</key>
+	<string>слънце зад облак</string>
+	<key>📢</key>
+	<string>високоговорител</string>
+	<key>🧑‍🌾</key>
+	<string>фермер</string>
+	<key>✝️</key>
+	<string>Латински кръст</string>
+	<key>📣</key>
+	<string>мегафон</string>
+	<key>📤</key>
+	<string>изходяща тава</string>
+	<key>📥</key>
+	<string>входяща тава</string>
+	<key>📦</key>
+	<string>пакет</string>
+	<key>📧</key>
+	<string>имейл</string>
+	<key>📨</key>
+	<string>входящ плик</string>
+	<key>📩</key>
+	<string>плик със стрела</string>
+	<key>▶️</key>
+	<string>сочещ надясно триъгълник</string>
+	<key>🧑‍🔬</key>
+	<string>учен</string>
+	<key>📪</key>
+	<string>затворена пощенска кутия със спуснат флаг</string>
+	<key>☎️</key>
+	<string>телефон</string>
+	<key>🈷️</key>
+	<string>японски знак за „месечна сума“</string>
+	<key>♦️</key>
+	<string>боя каро</string>
+	<key>📫</key>
+	<string>затворена пощенска кутия с вдигнат флаг</string>
+	<key>📬</key>
+	<string>отворена пощенска кутия с вдигнат флаг</string>
+	<key>⚾️</key>
+	<string>топка за бейзбол</string>
+	<key>📭</key>
+	<string>отворена пощенска кутия със спуснат флаг</string>
+	<key>✖️</key>
+	<string>символ за умножение</string>
+	<key>📮</key>
+	<string>пощенска кутия</string>
+	<key>📯</key>
+	<string>пощенски рог</string>
+	<key>🏄‍♀️</key>
+	<string>сирфистка</string>
+	<key>📰</key>
+	<string>вестник</string>
+	<key>📱</key>
+	<string>мобилен телефон</string>
+	<key>🎗️</key>
+	<string>панделка за напомняне</string>
+	<key>📲</key>
+	<string>телефон със стрелка</string>
+	<key>📳</key>
+	<string>режим на вибрация</string>
+	<key>📴</key>
+	<string>мобилният телефон е изключен</string>
+	<key>📵</key>
+	<string>забранено използването на мобилни телефони</string>
+	<key>♟️</key>
+	<string>шахматна пешка</string>
+	<key>📶</key>
+	<string>знак за сила на сигнала</string>
+	<key>📷</key>
+	<string>фотоапарат</string>
+	<key>✏️</key>
+	<string>молив</string>
+	<key>📸</key>
+	<string>фотоапарат със светкавица</string>
+	<key>👨‍🌾</key>
+	<string>фермер</string>
+	<key>📹</key>
+	<string>видео камера</string>
+	<key>📺</key>
+	<string>телевизор</string>
+	<key>🐻‍❄️</key>
+	<string>бяла мечка</string>
+	<key>📻</key>
+	<string>радио</string>
+	<key>📼</key>
+	<string>видеокасета</string>
+	<key>☀️</key>
+	<string>слънце</string>
+	<key>📿</key>
+	<string>молитвени мъниста</string>
+	<key>👨‍🔬</key>
+	<string>учен</string>
+	<key>🔀</key>
+	<string>символ за разбъркване на песни</string>
+	<key>🈁</key>
+	<string>японски знак за дума „тук“</string>
+	<key>⚰️</key>
+	<string>ковчег</string>
+	<key>🔁</key>
+	<string>символ за повторение</string>
+	<key>🖐️</key>
+	<string>вдигната ръка с разперени пръсти</string>
+	<key>✈️</key>
+	<string>самолет</string>
+	<key>🔂</key>
+	<string>символ за повторение на една песен</string>
+	<key>🗨️</key>
+	<string>ляво балонче с текст</string>
+	<key>🔃</key>
+	<string>вертикални стрелки по часовниковата стрелка</string>
+	<key>🧖‍♀️</key>
+	<string>жена в сауна</string>
+	<key>🔄</key>
+	<string>стрелки обратно на часовниковата стрелка</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>семейство с две майки и двама сина</string>
+	<key>👩‍⚕️</key>
+	<string>здрвна работничка</string>
+	<key>™️</key>
+	<string>знак за търговска марка</string>
+	<key>🔅</key>
+	<string>символ за ниска яркост</string>
+	<key>🔆</key>
+	<string>символ за висока яркост</string>
+	<key>🎙️</key>
+	<string>студиен микрофон</string>
+	<key>🔇</key>
+	<string>говорител с изключен звук</string>
+	<key>🔈</key>
+	<string>говорител</string>
+	<key>🛰️</key>
+	<string>сателит</string>
+	<key>🔉</key>
+	<string>говорител със средна сила на звука</string>
+	<key>♑️</key>
+	<string>Козирог</string>
+	<key>🔊</key>
+	<string>говорител с висока сила на звука</string>
+	<key>🔋</key>
+	<string>батерия</string>
+	<key>🔌</key>
+	<string>електрически щепсел</string>
+	<key>👩‍👩‍👧</key>
+	<string>семейство с две майки и дъщеря</string>
+	<key>🔍</key>
+	<string>сочеща наляво лупа</string>
+	<key>🔎</key>
+	<string>сочеща надясно лупа</string>
+	<key>🔏</key>
+	<string>катинар с писалка</string>
+	<key>🔐</key>
+	<string>затворен катинар с ключ</string>
+	<key>🔑</key>
+	<string>ключ</string>
+	<key>🔒</key>
+	<string>затворен катинар</string>
+	<key>🔓</key>
+	<string>отворен катинар</string>
+	<key>♊️</key>
+	<string>Близнаци</string>
+	<key>🔔</key>
+	<string>камбанка</string>
+	<key>🔕</key>
+	<string>камбанка с изключен звук</string>
+	<key>⛺️</key>
+	<string>палатка</string>
+	<key>🔖</key>
+	<string>отметка</string>
+	<key>🔗</key>
+	<string>символ за хипервръзка</string>
+	<key>🔘</key>
+	<string>радио бутон</string>
+	<key>🔙</key>
+	<string>стрелка „назад“</string>
+	<key>🔚</key>
+	<string>стрелка „край“</string>
+	<key>🔛</key>
+	<string>стрелка „включено!“</string>
+	<key>🎛️</key>
+	<string>копчета за управление</string>
+	<key>🔜</key>
+	<string>стрелка „скоро“</string>
+	<key>🏳️</key>
+	<string>бял флаг</string>
+	<key>🔝</key>
+	<string>стрелка „нагоре“</string>
+	<key>🔞</key>
+	<string>не се позволяват лица под 18 г.</string>
+	<key>🔟</key>
+	<string>клавиш с цифра десет</string>
+	<key>⚛️</key>
+	<string>символ за атом</string>
+	<key>🔠</key>
+	<string>символ за въвеждане на главни букви</string>
+	<key>⛳️</key>
+	<string>голф дупка с флаг</string>
+	<key>🔡</key>
+	<string>символ за въвеждане на малки букви</string>
+	<key>🤽‍♂️</key>
+	<string>мъж, който играе водно поло</string>
+	<key>🔢</key>
+	<string>символ за въвеждане на числа</string>
+	<key>🔣</key>
+	<string>символ за въвеждане на символи</string>
+	<key>🔤</key>
+	<string>символ за въвеждане на букви</string>
+	<key>🔥</key>
+	<string>огън</string>
+	<key>🔦</key>
+	<string>фенерче</string>
+	<key>🔧</key>
+	<string>гаечен ключ</string>
+	<key>🔨</key>
+	<string>чук</string>
+	<key>🔩</key>
+	<string>гайка и болт</string>
+	<key>⚔️</key>
+	<string>кръстосани мечове</string>
+	<key>🔪</key>
+	<string>нож</string>
+	<key>🔫</key>
+	<string>воден пистолет</string>
+	<key>❄️</key>
+	<string>снежинка</string>
+	<key>🔬</key>
+	<string>микроскоп</string>
+	<key>💁‍♀️</key>
+	<string>служителка на информационно гише</string>
+	<key>🔭</key>
+	<string>телескоп</string>
+	<key>🔮</key>
+	<string>кристално кълбо</string>
+	<key>🧔‍♂️</key>
+	<string>мъж с брада</string>
+	<key>🔯</key>
+	<string>звезда с шест лъча и точка посредата</string>
+	<key>🔰</key>
+	<string>японски символ за начинаещ</string>
+	<key>🔱</key>
+	<string>емблема на тризъбец</string>
+	<key>🈲</key>
+	<string>японски знак за „забранено“</string>
+	<key>🏵️</key>
+	<string>розета</string>
+	<key>🔲</key>
+	<string>черен квадратен бутон</string>
+	<key>🈳</key>
+	<string>японски знак за „има свободни места“</string>
+	<key>🔳</key>
+	<string>бял квадратен бутон</string>
+	<key>🈴</key>
+	<string>японски знак за „средна оценка“</string>
+	<key>🧙‍♀️</key>
+	<string>жена магьосник</string>
+	<key>🔴</key>
+	<string>червен кръг</string>
+	<key>🈵</key>
+	<string>японски знак за „пълно, няма свободни места“</string>
+	<key>🔵</key>
+	<string>син кръг</string>
+	<key>🈶</key>
+	<string>японски знак за „не е безплатно“</string>
+	<key>🔶</key>
+	<string>голям оранжев ромб</string>
+	<key>🔷</key>
+	<string>голям син ромб</string>
+	<key>🈸</key>
+	<string>японски знак за „заявление“</string>
+	<key>🔸</key>
+	<string>малък оранжев ромб</string>
+	<key>🈹</key>
+	<string>японски знак за „отстъпка“</string>
+	<key>🔹</key>
+	<string>малък син ромб</string>
+	<key>9️⃣</key>
+	<string>клавиш с цифра девет</string>
+	<key>🈺</key>
+	<string>японски знак за „отворено“</string>
+	<key>🔺</key>
+	<string>сочещ нагоре червен триъгълник</string>
+	<key>🔻</key>
+	<string>сочещ надолу червен триъгълник</string>
+	<key>🀄️</key>
+	<string>маджонг плочка с червен дракон</string>
+	<key>🔼</key>
+	<string>сочещ нагоре триъгълник</string>
+	<key>🚵‍♀️</key>
+	<string>жена планински колоездач</string>
+	<key>☮️</key>
+	<string>символ за мир</string>
+	<key>🔽</key>
+	<string>сочещ надолу триъгълник</string>
+	<key>👨‍👦‍👦</key>
+	<string>семейство с баща и двама сина</string>
+	<key>⬅️</key>
+	<string>стрелка наляво</string>
+	<key>⛎</key>
+	<string>Змиеносец</string>
+	<key>🎟️</key>
+	<string>билет за вход</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>семейство с две майки и две дъщери</string>
+	<key>🏷️</key>
+	<string>етикет</string>
+	<key>2️⃣</key>
+	<string>клавиш с цифра две</string>
+	<key>♿️</key>
+	<string>символ за инвалидна количка</string>
+	<key>👰‍♀️</key>
+	<string>жена с воал</string>
+	<key>🗃️</key>
+	<string>кутия с папки</string>
+	<key>🕋</key>
+	<string>Кааба</string>
+	<key>🕌</key>
+	<string>джамия</string>
+	<key>🕍</key>
+	<string>синагога</string>
+	<key>🕎</key>
+	<string>менора</string>
+	<key>👩‍🎤</key>
+	<string>певица</string>
+	<key>🉐</key>
+	<string>японски знак за „оферта“</string>
+	<key>🏌️</key>
+	<string>играч на голф</string>
+	<key>🛋️</key>
+	<string>диван и лампа</string>
+	<key>🕐</key>
+	<string>един часа</string>
+	<key>🏊‍♀️</key>
+	<string>плувкиня</string>
+	<key>🉑</key>
+	<string>японски знак за „приемливо“</string>
+	<key>☠️</key>
+	<string>череп и кръстосани кости</string>
+	<key>🕑</key>
+	<string>два часа</string>
+	<key>🕒</key>
+	<string>три часа</string>
+	<key>🏋️‍♀️</key>
+	<string>щангистка</string>
+	<key>🕓</key>
+	<string>четири часа</string>
+	<key>🕔</key>
+	<string>пет часа</string>
+	<key>🕕</key>
+	<string>шест часа</string>
+	<key>🕖</key>
+	<string>седем часа</string>
+	<key>🙆‍♀️</key>
+	<string>жена, която жестикулира „OK“</string>
+	<key>🕗</key>
+	<string>осем часа</string>
+	<key>🕘</key>
+	<string>девет часа</string>
+	<key>🕙</key>
+	<string>десет часа</string>
+	<key>🕚</key>
+	<string>единайсет часа</string>
+	<key>🕛</key>
+	<string>дванайсет часа</string>
+	<key>🕜</key>
+	<string>един и трийсет</string>
+	<key>🇺🇦</key>
+	<string>знаме на Украйна</string>
+	<key>🕝</key>
+	<string>два и трийсет</string>
+	<key>🇶🇦</key>
+	<string>знаме на Катар</string>
+	<key>🕞</key>
+	<string>три и трисейт</string>
+	<key>✡️</key>
+	<string>Звездата на Давид</string>
+	<key>🇲🇦</key>
+	<string>знаме на Мароко</string>
+	<key>🕟</key>
+	<string>четири и трисейт</string>
+	<key>🧗‍♂️</key>
+	<string>катерач</string>
+	<key>🕠</key>
+	<string>пет и трийсет</string>
+	<key>🕡</key>
+	<string>шест и трийсет</string>
+	<key>🇪🇦</key>
+	<string>знаме на Сеута и Мелила</string>
+	<key>🕢</key>
+	<string>седем и трийсет</string>
+	<key>✅</key>
+	<string>символ за отметка</string>
+	<key>🕣</key>
+	<string>осем и трийсет</string>
+	<key>🧜‍♀️</key>
+	<string>русалка</string>
+	<key>🏎️</key>
+	<string>състезателна кола</string>
+	<key>🕤</key>
+	<string>девет и трийсет</string>
+	<key>🛍️</key>
+	<string>пазарски чанти</string>
+	<key>🕥</key>
+	<string>десет и трийсет</string>
+	<key>✊</key>
+	<string>вдигнат юмрук</string>
+	<key>🇲🇨</key>
+	<string>знаме на Монако</string>
+	<key>✋</key>
+	<string>вдигната ръка</string>
+	<key>🕦</key>
+	<string>единайсет и трийсет</string>
+	<key>🕧</key>
+	<string>дванайсет и трийсет</string>
+	<key>🇮🇨</key>
+	<string>знаме на Канарски острови</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>знаме на Уелс</string>
+	<key>🇾🇪</key>
+	<string>знаме на Йемен</string>
+	<key>🇪🇨</key>
+	<string>знаме на Еквадор</string>
+	<key>👩‍🎨</key>
+	<string>художничка</string>
+	<key>🇲🇩</key>
+	<string>знаме на Молдова</string>
+	<key>🇦🇨</key>
+	<string>знаме на остров Възнесение</string>
+	<key>🇮🇩</key>
+	<string>знаме на Индонезия</string>
+	<key>🇲🇪</key>
+	<string>знаме на Черна гора</string>
+	<key>🇦🇩</key>
+	<string>знаме на Андора</string>
+	<key>🇮🇪</key>
+	<string>знаме на Ирландия</string>
+	<key>🇪🇪</key>
+	<string>знаме на Естония</string>
+	<key>🇲🇫</key>
+	<string>знаме на Сен Мартен</string>
+	<key>🇺🇬</key>
+	<string>знаме на Уганда</string>
+	<key>♣️</key>
+	<string>спатия</string>
+	<key>🇦🇪</key>
+	<string>знаме на Обединени арабски емирства</string>
+	<key>🕯️</key>
+	<string>свещ</string>
+	<key>🇲🇬</key>
+	<string>знаме на Мадагаскар</string>
+	<key>🇦🇫</key>
+	<string>знаме на Афганистан</string>
+	<key>👮‍♂️</key>
+	<string>полицай</string>
+	<key>🇪🇬</key>
+	<string>знаме на Египет</string>
+	<key>🇲🇭</key>
+	<string>знаме на Маршалови острови</string>
+	<key>✨</key>
+	<string>искри</string>
+	<key>🇦🇬</key>
+	<string>знаме на Антигуа &amp; Барбуда</string>
+	<key>🛏️</key>
+	<string>легло</string>
+	<key>👳‍♀️</key>
+	<string>жена с тюрбан</string>
+	<key>🇪🇭</key>
+	<string>знаме на Западна Сахара</string>
+	<key>☄️</key>
+	<string>комета</string>
+	<key>🕺</key>
+	<string>танцуващ мъж</string>
+	<key>✌️</key>
+	<string>символ на мира с ръка</string>
+	<key>❤️</key>
+	<string>червено сърце</string>
+	<key>⏭️</key>
+	<string>символ за пропускане напред</string>
+	<key>🇦🇮</key>
+	<string>знаме на Ангила</string>
+	<key>🇲🇰</key>
+	<string>знаме на Северна Македония</string>
+	<key>◽️</key>
+	<string>бял средно малък квадрат</string>
+	<key>🇲🇱</key>
+	<string>знаме на Мали</string>
+	<key>🈚️</key>
+	<string>японски знак за „безплатно“</string>
+	<key>🇺🇲</key>
+	<string>знаме на Малки далечни острови на САЩ</string>
+	<key>🇮🇱</key>
+	<string>знаме на Израел</string>
+	<key>🇲🇲</key>
+	<string>знаме на Мианмар (Бирма)</string>
+	<key>💂‍♂️</key>
+	<string>пазач</string>
+	<key>🇺🇳</key>
+	<string>знаме на ООН</string>
+	<key>🇦🇱</key>
+	<string>знаме на Албания</string>
+	<key>🧑‍💻</key>
+	<string>технолог</string>
+	<key>🇮🇲</key>
+	<string>знаме на Остров Ман</string>
+	<key>⛹️‍♂️</key>
+	<string>баскетболист</string>
+	<key>🇲🇳</key>
+	<string>знаме на Монголия</string>
+	<key>🇦🇲</key>
+	<string>знаме на Армения</string>
+	<key>🇮🇳</key>
+	<string>знаме на Индия</string>
+	<key>❌</key>
+	<string>знак за кръст</string>
+	<key>💇‍♀️</key>
+	<string>жена, която се подстригва</string>
+	<key>❎</key>
+	<string>знак X</string>
+	<key>🇲🇴</key>
+	<string>знаме на Макао</string>
+	<key>♎️</key>
+	<string>Везни</string>
+	<key>🧚‍♂️</key>
+	<string>мъж фея</string>
+	<key>🧑‍💼</key>
+	<string>офис служител</string>
+	<key>🇮🇴</key>
+	<string>знаме на Британска индоокеанска територия</string>
+	<key>❓</key>
+	<string>червен въпросителен знак</string>
+	<key>❔</key>
+	<string>бял въпросителен знак</string>
+	<key>🇲🇵</key>
+	<string>знаме на Северни Мариански острови</string>
+	<key>❕</key>
+	<string>бял удивителен знак</string>
+	<key>🇦🇴</key>
+	<string>знаме на Ангола</string>
+	<key>🧟‍♀️</key>
+	<string>жена зомби</string>
+	<key>🖕</key>
+	<string>среден пръст</string>
+	<key>🇲🇶</key>
+	<string>знаме на Мартиника</string>
+	<key>🖖</key>
+	<string>ръка с пръсти, разделени между средния и безименния пръст</string>
+	<key>🇮🇶</key>
+	<string>знаме на Ирак</string>
+	<key>🚶‍♂️</key>
+	<string>мъж пешеходец</string>
+	<key>🇲🇷</key>
+	<string>знаме на Мавритания</string>
+	<key>🇺🇸</key>
+	<string>знаме на Съединените щати</string>
+	<key>🇦🇶</key>
+	<string>знаме на Антарктида</string>
+	<key>🇮🇷</key>
+	<string>знаме на Иран</string>
+	<key>🕳️</key>
+	<string>дупка</string>
+	<key>⌨️</key>
+	<string>клавиатура</string>
+	<key>🇾🇹</key>
+	<string>знаме на Майот</string>
+	<key>🇪🇷</key>
+	<string>знаме на Еритрея</string>
+	<key>⛷️</key>
+	<string>скиор</string>
+	<key>🇲🇸</key>
+	<string>знаме на Монсерат</string>
+	<key>🇦🇷</key>
+	<string>знаме на Аржентина</string>
+	<key>🇮🇸</key>
+	<string>знаме на Исландия</string>
+	<key>👨‍💻</key>
+	<string>технолог</string>
+	<key>🌤️</key>
+	<string>слънце зад малък облак</string>
+	<key>🇪🇸</key>
+	<string>знаме на Испания</string>
+	<key>🇲🇹</key>
+	<string>знаме на Малта</string>
+	<key>🇦🇸</key>
+	<string>знаме на Американска Самоа</string>
+	<key>🇮🇹</key>
+	<string>знаме на Италия</string>
+	<key>❤️‍🩹</key>
+	<string>превързано сърце</string>
+	<key>🏔️</key>
+	<string>планина със снежен връх</string>
+	<key>🇪🇹</key>
+	<string>знаме на Етиопия</string>
+	<key>🤷‍♀️</key>
+	<string>жена с повдигнати рамене</string>
+	<key>🇲🇺</key>
+	<string>знаме на Мавриций</string>
+	<key>🇦🇹</key>
+	<string>знаме на Австрия</string>
+	<key>🖤</key>
+	<string>черно сърце</string>
+	<key>👩‍🦯</key>
+	<string>жена с бял бастун</string>
+	<key>👱‍♂️</key>
+	<string>мъж с руса коса</string>
+	<key>👨‍💼</key>
+	<string>офис служител</string>
+	<key>⛰️</key>
+	<string>планина</string>
+	<key>🇪🇺</key>
+	<string>знаме на Европейски съюз</string>
+	<key>🇲🇻</key>
+	<string>знаме на Малдиви</string>
+	<key>🇦🇺</key>
+	<string>знаме на Австралия</string>
+	<key>🇲🇼</key>
+	<string>знаме на Малави</string>
+	<key>👩‍🦰</key>
+	<string>жена с червена коса</string>
+	<key>🇲🇽</key>
+	<string>знаме на Мексико</string>
+	<key>🇺🇾</key>
+	<string>знаме на Уругвай</string>
+	<key>🇦🇼</key>
+	<string>знаме на Аруба</string>
+	<key>☹️</key>
+	<string>намръщено лице</string>
+	<key>⌚️</key>
+	<string>часовник</string>
+	<key>🕵️</key>
+	<string>детектив</string>
+	<key>⛩️</key>
+	<string>Шинтоистки храм</string>
+	<key>🇲🇾</key>
+	<string>знаме на Малайзия</string>
+	<key>🧎‍♀️</key>
+	<string>жена, която е коленичила</string>
+	<key>🇺🇿</key>
+	<string>знаме на Узбекистан</string>
+	<key>🇦🇽</key>
+	<string>знаме на Оландски острови</string>
+	<key>👩‍🦱</key>
+	<string>жена с къдрава коса</string>
+	<key>🙇‍♂️</key>
+	<string>мъж, който се покланя</string>
+	<key>🌦️</key>
+	<string>слънце зад дъждовен облак</string>
+	<key>🇲🇿</key>
+	<string>знаме на Мозамбик</string>
+	<key>🏖️</key>
+	<string>плаж с чадър</string>
+	<key>👩‍🦲</key>
+	<string>жена без коса</string>
+	<key>🇦🇿</key>
+	<string>знаме на Азербайджан</string>
+	<key>➕</key>
+	<string>символ за плюс</string>
+	<key>🕊️</key>
+	<string>гълъб</string>
+	<key>➖</key>
+	<string>символ за минус</string>
+	<key>➗</key>
+	<string>символ за деление</string>
+	<key>🗺️</key>
+	<string>карта на света</string>
+	<key>👩‍🦳</key>
+	<string>жена с бяла коса</string>
+	<key>7️⃣</key>
+	<string>клавиш с цифра седем</string>
+	<key>🅰️</key>
+	<string>кръвна група А</string>
+	<key>🤦‍♀️</key>
+	<string>жена с ръка върху лицето</string>
+	<key>🧝‍♂️</key>
+	<string>елф</string>
+	<key>🕷️</key>
+	<string>паяк</string>
+	<key>✳️</key>
+	<string>звездичка с осем лъча</string>
+	<key>🌨️</key>
+	<string>облак със сняг</string>
+	<key>🦸‍♂️</key>
+	<string>супергерой</string>
+	<key>➰</key>
+	<string>усукана примка</string>
+	<key>🏘️</key>
+	<string>група къщи</string>
+	<key>0️⃣</key>
+	<string>клавиш с цифра нула</string>
+	<key>🤵‍♂️</key>
+	<string>мъж със смокинг</string>
+	<key>⛔️</key>
+	<string>забранен вход</string>
+	<key>👨‍👧‍👦</key>
+	<string>семейство с баща, син и дъщеря</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>семейство с майка, баща и двама сина</string>
+	<key>🧑‍🏫</key>
+	<string>учител</string>
+	<key>➿</key>
+	<string>двойно усукана примка</string>
+	<key>㊙️</key>
+	<string>японски знак за „тайна“</string>
+	<key>☝️</key>
+	<string>сочещ нагоре показалец</string>
+	<key>🕹️</key>
+	<string>джойстик</string>
+	<key>🗑️</key>
+	<string>кошче за отпадъци</string>
+	<key>🌪️</key>
+	<string>торнадо</string>
+	<key>🧑‍🏭</key>
+	<string>работник във фабрика</string>
+	<key>↗️</key>
+	<string>стрелка нагоре-надясно</string>
+	<key>⤵️</key>
+	<string>стрелка надясно, завиваща надолу</string>
+	<key>🏚️</key>
+	<string>изоставена къща</string>
+	<key>©️</key>
+	<string>знак за авторско право</string>
+	<key>👨‍🏫</key>
+	<string>учител</string>
+	<key>🗓️</key>
+	<string>календар със спирала</string>
+	<key>⏸️</key>
+	<string>символ за пауза</string>
+	<key>🧑‍✈️</key>
+	<string>пилот</string>
+	<key>🌬️</key>
+	<string>лице, което издухва вятър</string>
+	<key>👨‍🏭</key>
+	<string>работник във фабрика</string>
+	<key>🏜️</key>
+	<string>пустиня</string>
+	<key>♠️</key>
+	<string>боя пика</string>
+	<key>🖨️</key>
+	<string>принтер</string>
+	<key>⏱️</key>
+	<string>хронометър</string>
+	<key>👩‍🦼</key>
+	<string>жена в моторизирана инвалидна количка</string>
+	<key>🗻</key>
+	<string>връх Фуджи</string>
+	<key>🫱‍🫲</key>
+	<string>ръкостискане</string>
+	<key>🗼</key>
+	<string>кула Токио</string>
+	<key>🗽</key>
+	<string>Статуя на свободата</string>
+	<key>🗾</key>
+	<string>силтует на Япония</string>
+	<key>🤸‍♂️</key>
+	<string>мъж, който прави странично колело</string>
+	<key>🌀</key>
+	<string>циклон</string>
+	<key>🗿</key>
+	<string>статуя от Великденския остров</string>
+	<key>☁️</key>
+	<string>облак</string>
+	<key>🌁</key>
+	<string>мост в мъгла</string>
+	<key>😀</key>
+	<string>широко усмихнато лице</string>
+	<key>👩‍🦽</key>
+	<string>жена в инвалидна количка</string>
+	<key>🌂</key>
+	<string>затворен чадър</string>
+	<key>😁</key>
+	<string>сияещо лице с присвити очи</string>
+	<key>⚱️</key>
+	<string>погребална урна</string>
+	<key>🌃</key>
+	<string>звездна нощ</string>
+	<key>😂</key>
+	<string>лице със сълзи от радост</string>
+	<key>✉️</key>
+	<string>плик</string>
+	<key>👨‍👧‍👧</key>
+	<string>семейство с баща и две дъщери</string>
+	<key>🤽‍♀️</key>
+	<string>жена, която играе водно поло</string>
+	<key>🌄</key>
+	<string>изгрев над планини</string>
+	<key>😃</key>
+	<string>широко усмихнато лице с големи очи</string>
+	<key>🌅</key>
+	<string>изгрев</string>
+	<key>😄</key>
+	<string>широко усмихнато лице с присвити очи</string>
+	<key>👷‍♂️</key>
+	<string>строителен работник</string>
+	<key>👨‍✈️</key>
+	<string>пилот</string>
+	<key>🌆</key>
+	<string>градски пейзаж по здрач</string>
+	<key>😅</key>
+	<string>широко усмихнато лице с капка пот</string>
+	<key>🌇</key>
+	<string>залез над сгради</string>
+	<key>😆</key>
+	<string>широко усмихнато лице със затворени очи</string>
+	<key>🌈</key>
+	<string>дъга</string>
+	<key>😇</key>
+	<string>усмихнато лице с ореол</string>
+	<key>🌉</key>
+	<string>мост в нощта</string>
+	<key>😈</key>
+	<string>усмихнато лице с рога</string>
+	<key>🏞️</key>
+	<string>национален парк</string>
+	<key>🌊</key>
+	<string>вълна</string>
+	<key>😉</key>
+	<string>намигващо лице</string>
+	<key>🌋</key>
+	<string>вулкан</string>
+	<key>😊</key>
+	<string>усмихнато лице с присвити очи</string>
+	<key>♒️</key>
+	<string>Водолей</string>
+	<key>🌌</key>
+	<string>Млечният път</string>
+	<key>😋</key>
+	<string>усмихнато лице, което се облизва</string>
+	<key>⚪️</key>
+	<string>бял кръг</string>
+	<key>🌍</key>
+	<string>глобус, показващ Европа и Африка</string>
+	<key>😌</key>
+	<string>лице, което изпитва облекчение</string>
+	<key>🧏‍♂️</key>
+	<string>глух мъж</string>
+	<key>✂️</key>
+	<string>ножици</string>
+	<key>🌎</key>
+	<string>глобус, показващ Северна и Южна Америка</string>
+	<key>🤌</key>
+	<string>събрани пръсти</string>
+	<key>😍</key>
+	<string>усмихнато лице с очи-сърца</string>
+	<key>🌏</key>
+	<string>глобус, показващ Азия и Австралия</string>
+	<key>🤍</key>
+	<string>бяло сърце</string>
+	<key>😎</key>
+	<string>усмихнато лице със слънчеви очила</string>
+	<key>🌐</key>
+	<string>глобус с меридиани</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>семейство с майка, баща и две дъщери</string>
+	<key>🤎</key>
+	<string>кафяво сърце</string>
+	<key>😏</key>
+	<string>самодоволно лице</string>
+	<key>🌑</key>
+	<string>новолуние</string>
+	<key>🤏</key>
+	<string>щипеща ръка</string>
+	<key>😐</key>
+	<string>неутрално лице</string>
+	<key>🧔‍♀️</key>
+	<string>жена с брада</string>
+	<key>🌒</key>
+	<string>изгряващ полумесец</string>
+	<key>🤐</key>
+	<string>лице с цип за уста</string>
+	<key>😑</key>
+	<string>лице без емоция</string>
+	<key>🙍‍♂️</key>
+	<string>мъж, който се мръщи</string>
+	<key>🌓</key>
+	<string>първа четвърт на луната</string>
+	<key>🤑</key>
+	<string>лице с банкнота в устата</string>
+	<key>😒</key>
+	<string>недоволно лице</string>
+	<key>🌔</key>
+	<string>растяща луна</string>
+	<key>🤒</key>
+	<string>лице с термометър</string>
+	<key>😓</key>
+	<string>унило лице с капка пот</string>
+	<key>🌕</key>
+	<string>пълнолуние</string>
+	<key>🤓</key>
+	<string>усмихнато лице с очила</string>
+	<key>😔</key>
+	<string>тъжно замислено лице</string>
+	<key>♋️</key>
+	<string>Рак</string>
+	<key>🌖</key>
+	<string>намаляваща луна</string>
+	<key>🤔</key>
+	<string>замислено лице</string>
+	<key>😕</key>
+	<string>объркано лице</string>
+	<key>🌗</key>
+	<string>последна четвърт на луната</string>
+	<key>🤕</key>
+	<string>лице с бинт на главата</string>
+	<key>😖</key>
+	<string>объркано лице</string>
+	<key>🌘</key>
+	<string>залязващ полумесец</string>
+	<key>🤖</key>
+	<string>лице на робот</string>
+	<key>😗</key>
+	<string>лице с целувка</string>
+	<key>🌙</key>
+	<string>полумесец</string>
+	<key>🤗</key>
+	<string>прегръщащо лице</string>
+	<key>😘</key>
+	<string>лице изпраща въздушна целувка</string>
+	<key>🌚</key>
+	<string>новолуние с лице</string>
+	<key>🤘</key>
+	<string>знак на рога</string>
+	<key>😙</key>
+	<string>лице с целувка и присвити очи</string>
+	<key>🌛</key>
+	<string>първа четвърт на луната с лице</string>
+	<key>🤙</key>
+	<string>знак с ръка „обади ми се“</string>
+	<key>😚</key>
+	<string>лице с целувка и затворени очи</string>
+</dict>
+</plist>

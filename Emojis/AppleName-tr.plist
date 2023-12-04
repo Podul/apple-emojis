@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>yüzü olan son dördün ay</string>
+	<key>🤚</key>
+	<string>elin tersi</string>
+	<key>😛</key>
+	<string>dili dışarıda yüz</string>
+	<key>👩‍🔧</key>
+	<string>kadın tamirci</string>
+	<key>🌝</key>
+	<string>yüzü olan dolunay</string>
+	<key>🤛</key>
+	<string>sola yumruk</string>
+	<key>😜</key>
+	<string>dili dışarıda göz kırpan yüz</string>
+	<key>🌞</key>
+	<string>yüzü olan güneş</string>
+	<key>🤜</key>
+	<string>sağa yumruk</string>
+	<key>😝</key>
+	<string>dili dışarıda ve gözleri kısık yüz</string>
+	<key>🌟</key>
+	<string>parlak yıldız</string>
+	<key>🤝</key>
+	<string>tokalaşma</string>
+	<key>😞</key>
+	<string>üzgün yüz</string>
+	<key>🌠</key>
+	<string>kayan yıldız</string>
+	<key>🤞</key>
+	<string>çapraz parmaklar</string>
+	<key>😟</key>
+	<string>endişeli yüz</string>
+	<key>🐈‍⬛</key>
+	<string>kara kedi</string>
+	<key>🤟</key>
+	<string>seni seviyorum işareti</string>
+	<key>😠</key>
+	<string>kızgın yüz</string>
+	<key>⚜️</key>
+	<string>zambak sembolü</string>
+	<key>⛴️</key>
+	<string>feribot</string>
+	<key>🤠</key>
+	<string>kovboy yüzü</string>
+	<key>😡</key>
+	<string>kırmızı kızgın yüz</string>
+	<key>🤡</key>
+	<string>palyaço yüzü</string>
+	<key>😢</key>
+	<string>ağlayan yüz</string>
+	<key>⬛️</key>
+	<string>büyük siyah kare</string>
+	<key>🤢</key>
+	<string>midesi bulanmış yüz</string>
+	<key>😣</key>
+	<string>azimli yüz</string>
+	<key>🤣</key>
+	<string>gülmekten yerlere yatan yüz</string>
+	<key>😤</key>
+	<string>burnundan buhar çıkan yüz</string>
+	<key>🤤</key>
+	<string>ağzı sulanmış yüz</string>
+	<key>😥</key>
+	<string>üzgün ama rahatlamış yüz</string>
+	<key>🤥</key>
+	<string>yalancı yüz</string>
+	<key>😦</key>
+	<string>ağzı açık somurtkan yüz</string>
+	<key>🤦</key>
+	<string>eliyle yüzünü kapatan kişi</string>
+	<key>😧</key>
+	<string>sıkıntılı yüz</string>
+	<key>🤧</key>
+	<string>hapşıran yüz</string>
+	<key>😨</key>
+	<string>korku dolu yüz</string>
+	<key>🤨</key>
+	<string>tek kaşı kalkık yüz</string>
+	<key>😩</key>
+	<string>bezgin yüz</string>
+	<key>🤩</key>
+	<string>gözleri yıldız şeklinde yüz</string>
+	<key>⚕️</key>
+	<string>Asklepios’un asası</string>
+	<key>😪</key>
+	<string>uykulu yüz</string>
+	<key>👁️‍🗨️</key>
+	<string>Ben şahidim</string>
+	<key>🤪</key>
+	<string>çılgın yüz</string>
+	<key>😫</key>
+	<string>perişan yüz</string>
+	<key>🌭</key>
+	<string>sosisli sandviç</string>
+	<key>🤫</key>
+	<string>sus işareti yapan yüz</string>
+	<key>😬</key>
+	<string>suratını ekşitmiş yüz</string>
+	<key>🌮</key>
+	<string>tako</string>
+	<key>🤬</key>
+	<string>ağzında semboller olan yüz</string>
+	<key>😭</key>
+	<string>bağıra çağıra ağlayan yüz</string>
+	<key>🌯</key>
+	<string>dürüm</string>
+	<key>🤭</key>
+	<string>eliyle ağzını kapatan, gülümseyen yüz</string>
+	<key>😮</key>
+	<string>ağzı açık şaşırmış yüz</string>
+	<key>🌰</key>
+	<string>kestane</string>
+	<key>🤮</key>
+	<string>kusan yüz</string>
+	<key>😯</key>
+	<string>hayret eden yüz</string>
+	<key>🌱</key>
+	<string>fide</string>
+	<key>🤯</key>
+	<string>patlayan kafa</string>
+	<key>😰</key>
+	<string>endişeli ve terli yüz</string>
+	<key>🌲</key>
+	<string>yaprak dökmeyen ağaç</string>
+	<key>🤰</key>
+	<string>hamile kadın</string>
+	<key>😱</key>
+	<string>korkuyla bağıran yüz</string>
+	<key>🌳</key>
+	<string>ağaç</string>
+	<key>🤱</key>
+	<string>emziren kadın</string>
+	<key>😲</key>
+	<string>şaşırmış yüz</string>
+	<key>🛡️</key>
+	<string>kalkan</string>
+	<key>🌴</key>
+	<string>palmiye ağacı</string>
+	<key>🤲</key>
+	<string>dua eden eller</string>
+	<key>😳</key>
+	<string>gözleri kocaman açık yüz</string>
+	<key>🌵</key>
+	<string>kaktüs</string>
+	<key>🤳</key>
+	<string>selfie</string>
+	<key>😴</key>
+	<string>uyuyan yüz</string>
+	<key>🤴</key>
+	<string>prens</string>
+	<key>😵</key>
+	<string>sersemlemiş yüz</string>
+	<key>👩‍🌾</key>
+	<string>kadın çiftçi</string>
+	<key>🌷</key>
+	<string>lale</string>
+	<key>🤵</key>
+	<string>smokinli kişi</string>
+	<key>😶</key>
+	<string>ağzı olmayan yüz</string>
+	<key>🌸</key>
+	<string>kiraz çiçeği</string>
+	<key>🤶</key>
+	<string>Noel Anne</string>
+	<key>😷</key>
+	<string>tıbbi maskeli yüz</string>
+	<key>🌹</key>
+	<string>gül</string>
+	<key>🤷</key>
+	<string>omuz silken kişi</string>
+	<key>😸</key>
+	<string>sırıtan kedi yüzü</string>
+	<key>🌺</key>
+	<string>japon gülü</string>
+	<key>🤸</key>
+	<string>perende atan kişi</string>
+	<key>😹</key>
+	<string>mutluluk gözyaşlarına boğulmuş kedi yüzü</string>
+	<key>🌻</key>
+	<string>ayçiçeği</string>
+	<key>🤹</key>
+	<string>jonglör</string>
+	<key>😺</key>
+	<string>mutlu kedi yüzü</string>
+	<key>🌼</key>
+	<string>çiçek</string>
+	<key>🤺</key>
+	<string>eskrimci</string>
+	<key>😻</key>
+	<string>kalp şeklinde gözleri olan gülen kedi yüzü</string>
+	<key>🌽</key>
+	<string>mısır başağı</string>
+	<key>😼</key>
+	<string>sırıtan kedi yüzü</string>
+	<key>🇿🇦</key>
+	<string>Güney Afrika bayrağı</string>
+	<key>👩‍🔬</key>
+	<string>kadın bilim insanı</string>
+	<key>🌾</key>
+	<string>çeltik başağı</string>
+	<key>🤼</key>
+	<string>güreşen insanlar</string>
+	<key>😽</key>
+	<string>öpen kedi yüzü</string>
+	<key>🇻🇦</key>
+	<string>Vatikan bayrağı</string>
+	<key>🌿</key>
+	<string>bitki</string>
+	<key>🤽</key>
+	<string>su topu oynayan kişi</string>
+	<key>😾</key>
+	<string>surat asan kedi yüzü</string>
+	<key>☯️</key>
+	<string>yin yang</string>
+	<key>🍀</key>
+	<string>dört yapraklı yonca</string>
+	<key>🤾</key>
+	<string>hentbol oynayan kişi</string>
+	<key>😿</key>
+	<string>ağlayan kedi yüzü</string>
+	<key>🍁</key>
+	<string>akçaağaç yaprağı</string>
+	<key>🤿</key>
+	<string>dalgıç maskesi</string>
+	<key>🧑‍🍳</key>
+	<string>aşçı</string>
+	<key>🇳🇦</key>
+	<string>Namibya bayrağı</string>
+	<key>🙀</key>
+	<string>korkuyla bağıran kedi yüzü</string>
+	<key>🧗‍♀️</key>
+	<string>kadın kaya tırmanışçısı</string>
+	<key>⁉️</key>
+	<string>kırmızı ünlem işareti ve soru işareti</string>
+	<key>🍂</key>
+	<string>dökülen yapraklar</string>
+	<key>🥀</key>
+	<string>solmuş gül</string>
+	<key>🙁</key>
+	<string>hafif somurtan yüz</string>
+	<key>🍃</key>
+	<string>rüzgârda uçuşan yapraklar</string>
+	<key>🥁</key>
+	<string>davul</string>
+	<key>🙂</key>
+	<string>hafif gülen yüz</string>
+	<key>⬆️</key>
+	<string>yukarı ok</string>
+	<key>🍄</key>
+	<string>mantar</string>
+	<key>🥂</key>
+	<string>kadeh tokuşturma</string>
+	<key>🙃</key>
+	<string>baş aşağı yüz</string>
+	<key>5️⃣</key>
+	<string>beş rakamı olan tuş</string>
+	<key>🍅</key>
+	<string>domates</string>
+	<key>🥃</key>
+	<string>bir bardak viski</string>
+	<key>🙄</key>
+	<string>gözleri yuvarlanan yüz</string>
+	<key>🇻🇨</key>
+	<string>Saint Vincent ve Grenadinler bayrağı</string>
+	<key>🇧🇦</key>
+	<string>Bosna-Hersek bayrağı</string>
+	<key>↩️</key>
+	<string>sola kıvrılan sağ ok</string>
+	<key>🍆</key>
+	<string>patlıcan</string>
+	<key>🥄</key>
+	<string>kaşık</string>
+	<key>🙅</key>
+	<string>hayır işareti yapan kişi</string>
+	<key>🍇</key>
+	<string>üzüm</string>
+	<key>🥅</key>
+	<string>kale ağı</string>
+	<key>🙆</key>
+	<string>tamam işareti yapan kişi</string>
+	<key>🛣️</key>
+	<string>otoyol</string>
+	<key>🍈</key>
+	<string>kavun</string>
+	<key>🙇</key>
+	<string>saygıyla selamlayan kişi</string>
+	<key>🇳🇨</key>
+	<string>Yeni Kaledonya bayrağı</string>
+	<key>🍉</key>
+	<string>karpuz</string>
+	<key>🇧🇧</key>
+	<string>Barbados bayrağı</string>
+	<key>🥇</key>
+	<string>altın madalya</string>
+	<key>🙈</key>
+	<string>görmedim maymunu</string>
+	<key>🍊</key>
+	<string>mandalina</string>
+	<key>🥈</key>
+	<string>gümüş madalya</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>İskoçya bayrağı</string>
+	<key>🙉</key>
+	<string>duymadım maymunu</string>
+	<key>🍋</key>
+	<string>limon</string>
+	<key>🥉</key>
+	<string>bronz madalya</string>
+	<key>🙊</key>
+	<string>bilmiyorum maymunu</string>
+	<key>🍌</key>
+	<string>muz</string>
+	<key>🥊</key>
+	<string>boks eldiveni</string>
+	<key>🇻🇪</key>
+	<string>Venezuela bayrağı</string>
+	<key>🙋</key>
+	<string>tek elini havaya kaldıran kişi</string>
+	<key>🍍</key>
+	<string>ananas</string>
+	<key>🥋</key>
+	<string>dövüş sporları forması</string>
+	<key>🙌</key>
+	<string>kutlama amacıyla kaldırılmış eller</string>
+	<key>🇷🇪</key>
+	<string>Réunion bayrağı</string>
+	<key>🍎</key>
+	<string>kırmızı elma</string>
+	<key>🥌</key>
+	<string>körling taşı</string>
+	<key>🙍</key>
+	<string>somurtan kişi</string>
+	<key>🍏</key>
+	<string>yeşil elma</string>
+	<key>🇳🇪</key>
+	<string>Nijer bayrağı</string>
+	<key>🥍</key>
+	<string>lakros sopası ve topu</string>
+	<key>🙎</key>
+	<string>surat asan kişi</string>
+	<key>🅾️</key>
+	<string>0 kan grubu</string>
+	<key>🇧🇩</key>
+	<string>Bangladeş bayrağı</string>
+	<key>🍐</key>
+	<string>armut</string>
+	<key>🥎</key>
+	<string>softbol</string>
+	<key>🇯🇪</key>
+	<string>Jersey bayrağı</string>
+	<key>🙏</key>
+	<string>birbirine dayanmış eller</string>
+	<key>🍑</key>
+	<string>şeftali</string>
+	<key>🥏</key>
+	<string>frizbi</string>
+	<key>🍒</key>
+	<string>kiraz</string>
+	<key>🥐</key>
+	<string>kruvasan</string>
+	<key>🇳🇫</key>
+	<string>Norfolk Adası bayrağı</string>
+	<key>🍓</key>
+	<string>çilek</string>
+	<key>🇻🇬</key>
+	<string>Britanya Virjin Adaları bayrağı</string>
+	<key>🇧🇪</key>
+	<string>Belçika bayrağı</string>
+	<key>🥑</key>
+	<string>avokado</string>
+	<key>🍔</key>
+	<string>hamburger</string>
+	<key>🥒</key>
+	<string>salatalık</string>
+	<key>⛑️</key>
+	<string>beyaz haçlı kask</string>
+	<key>🍕</key>
+	<string>pizza</string>
+	<key>🥓</key>
+	<string>domuz pastırması</string>
+	<key>🇳🇬</key>
+	<string>Nijerya bayrağı</string>
+	<key>🍖</key>
+	<string>kemikli et</string>
+	<key>🥔</key>
+	<string>patates</string>
+	<key>👨‍🍳</key>
+	<string>erkek aşçı</string>
+	<key>🇧🇫</key>
+	<string>Burkina Faso bayrağı</string>
+	<key>🍗</key>
+	<string>baget</string>
+	<key>👮‍♀️</key>
+	<string>kadın polis</string>
+	<key>🥕</key>
+	<string>havuç</string>
+	<key>⭐️</key>
+	<string>yıldız</string>
+	<key>🍘</key>
+	<string>pirinç krakeri</string>
+	<key>🥖</key>
+	<string>baget</string>
+	<key>🗝️</key>
+	<string>eski anahtar</string>
+	<key>🌶️</key>
+	<string>acı biber</string>
+	<key>🍙</key>
+	<string>pirinç topu</string>
+	<key>🥗</key>
+	<string>yeşil salata</string>
+	<key>🏃‍♂️</key>
+	<string>erkek koşucu</string>
+	<key>🇻🇮</key>
+	<string>ABD Virjin Adaları bayrağı</string>
+	<key>🇧🇬</key>
+	<string>Bulgaristan bayrağı</string>
+	<key>🍚</key>
+	<string>pilav</string>
+	<key>🥘</key>
+	<string>yemekli tava</string>
+	<key>🍛</key>
+	<string>körili pilav</string>
+	<key>🥙</key>
+	<string>ekmek arası</string>
+	<key>🍜</key>
+	<string>buhar tüten kâse</string>
+	<key>🥚</key>
+	<string>yumurta</string>
+	<key>🛥️</key>
+	<string>motorlu tekne</string>
+	<key>🇳🇮</key>
+	<string>Nikaragua bayrağı</string>
+	<key>🍝</key>
+	<string>spagetti</string>
+	<key>🥛</key>
+	<string>bir bardak süt</string>
+	<key>🇧🇭</key>
+	<string>Bahreyn bayrağı</string>
+	<key>🍞</key>
+	<string>ekmek</string>
+	<key>🥜</key>
+	<string>yer fıstıkları</string>
+	<key>🍟</key>
+	<string>patates kızartması</string>
+	<key>👨‍👨‍👦</key>
+	<string>iki baba ve erkek çocuktan oluşan aile</string>
+	<key>🥝</key>
+	<string>kivi</string>
+	<key>🇫🇮</key>
+	<string>Finlandiya bayrağı</string>
+	<key>🤾‍♂️</key>
+	<string>hentbol oynayan erkek</string>
+	<key>🍠</key>
+	<string>kızarmış tatlı patates</string>
+	<key>🖲️</key>
+	<string>iztopu</string>
+	<key>🥞</key>
+	<string>krep</string>
+	<key>🇧🇮</key>
+	<string>Burundi bayrağı</string>
+	<key>🍡</key>
+	<string>japon hamur köftesi</string>
+	<key>🥟</key>
+	<string>hamur köftesi</string>
+	<key>🍢</key>
+	<string>oden</string>
+	<key>🥠</key>
+	<string>şans kurabiyesi</string>
+	<key>🇫🇯</key>
+	<string>Fiji bayrağı</string>
+	<key>🍣</key>
+	<string>suşi</string>
+	<key>🥡</key>
+	<string>yemek paketi</string>
+	<key>🍤</key>
+	<string>kızarmış karides</string>
+	<key>🥢</key>
+	<string>yemek çubukları</string>
+	<key>🇧🇯</key>
+	<string>Benin bayrağı</string>
+	<key>↔️</key>
+	<string>sola ve sağa ok</string>
+	<key>🍥</key>
+	<string>sarmal şeklinde balık köftesi</string>
+	<key>🥣</key>
+	<string>kaşıklı kâse</string>
+	<key>🍦</key>
+	<string>yumuşak dondurma</string>
+	<key>🇿🇲</key>
+	<string>Zambiya bayrağı</string>
+	<key>🇫🇰</key>
+	<string>Falkland Adaları bayrağı</string>
+	<key>🥤</key>
+	<string>tek kullanımlık bardak</string>
+	<key>🏌️‍♀️</key>
+	<string>kadın golfçü</string>
+	<key>🇳🇱</key>
+	<string>Hollanda bayrağı</string>
+	<key>🍧</key>
+	<string>rendelenmiş buz</string>
+	<key>🥥</key>
+	<string>hindistan cevizi</string>
+	<key>🍨</key>
+	<string>dondurma</string>
+	<key>🥦</key>
+	<string>brokoli</string>
+	<key>🍩</key>
+	<string>donut</string>
+	<key>🥧</key>
+	<string>turta</string>
+	<key>🖇️</key>
+	<string>iç içe geçmiş ataşlar</string>
+	<key>🍪</key>
+	<string>kurabiye</string>
+	<key>🥨</key>
+	<string>kraker</string>
+	<key>🇻🇳</key>
+	<string>Vietnam bayrağı</string>
+	<key>💂‍♀️</key>
+	<string>kadın muhafız</string>
+	<key>🇧🇱</key>
+	<string>Saint Barthélemy bayrağı</string>
+	<key>🍫</key>
+	<string>çikolata bar</string>
+	<key>🇯🇲</key>
+	<string>Jamaika bayrağı</string>
+	<key>🥩</key>
+	<string>biftek</string>
+	<key>🍬</key>
+	<string>şeker</string>
+	<key>🥪</key>
+	<string>sandviç</string>
+	<key>⛹️‍♀️</key>
+	<string>kadın basketbol oyuncusu</string>
+	<key>🍭</key>
+	<string>lolipop</string>
+	<key>🇫🇲</key>
+	<string>Mikronezya bayrağı</string>
+	<key>🥫</key>
+	<string>konserve gıda</string>
+	<key>🍮</key>
+	<string>krem karamel</string>
+	<key>👨‍❤️‍👨</key>
+	<string>âşık iki erkek</string>
+	<key>🥬</key>
+	<string>yapraklı yeşillik</string>
+	<key>🇧🇲</key>
+	<string>Bermuda bayrağı</string>
+	<key>🍯</key>
+	<string>bal kabı</string>
+	<key>🥭</key>
+	<string>mango</string>
+	<key>🇷🇴</key>
+	<string>Romanya bayrağı</string>
+	<key>🍰</key>
+	<string>pasta</string>
+	<key>🥮</key>
+	<string>ay pastası</string>
+	<key>🍱</key>
+	<string>Japon sefer tası</string>
+	<key>🇳🇴</key>
+	<string>Norveç bayrağı</string>
+	<key>🥯</key>
+	<string>simit</string>
+	<key>🇧🇳</key>
+	<string>Brunei bayrağı</string>
+	<key>🧚‍♀️</key>
+	<string>kadın peri</string>
+	<key>🍲</key>
+	<string>yemekli tencere</string>
+	<key>🇯🇴</key>
+	<string>Ürdün bayrağı</string>
+	<key>🥰</key>
+	<string>kalpli gülen yüz</string>
+	<key>🍳</key>
+	<string>yemek pişirme</string>
+	<key>🥱</key>
+	<string>esneyen yüz</string>
+	<key>🇫🇴</key>
+	<string>Faroe Adaları bayrağı</string>
+	<key>🍴</key>
+	<string>çatal bıçak</string>
+	<key>🥲</key>
+	<string>gözü yaşlı gülümseyen yüz</string>
+	<key>🇳🇵</key>
+	<string>Nepal bayrağı</string>
+	<key>✔️</key>
+	<string>onay işareti</string>
+	<key>🍵</key>
+	<string>kulpsuz fincan</string>
+	<key>🥳</key>
+	<string>eğlenen yüz</string>
+	<key>🇧🇴</key>
+	<string>Bolivya bayrağı</string>
+	<key>🇯🇵</key>
+	<string>Japonya bayrağı</string>
+	<key>🍶</key>
+	<string>sake şişesi ve fincanı</string>
+	<key>🥴</key>
+	<string>sarhoş yüz</string>
+	<key>🍷</key>
+	<string>şarap kadehi</string>
+	<key>🥵</key>
+	<string>terleyen yüz</string>
+	<key>🍸</key>
+	<string>kokteyl bardağı</string>
+	<key>🥶</key>
+	<string>üşüyen yüz</string>
+	<key>🍹</key>
+	<string>tropikal içecek</string>
+	<key>🥷</key>
+	<string>ninja</string>
+	<key>🍺</key>
+	<string>bira bardağı</string>
+	<key>🥸</key>
+	<string>maskelenmiş yüz</string>
+	<key>🚶‍♀️</key>
+	<string>kadın yaya</string>
+	<key>🍻</key>
+	<string>tokuşturulan bira bardakları</string>
+	<key>🥹</key>
+	<string>gözyaşlarını tutan gülümseyen yüz</string>
+	<key>🇳🇷</key>
+	<string>Nauru bayrağı</string>
+	<key>🍼</key>
+	<string>biberon</string>
+	<key>🇧🇶</key>
+	<string>Bonaire bayrağı</string>
+	<key>🥺</key>
+	<string>yalvaran yüz</string>
+	<key>🧑‍🍼</key>
+	<string>bebek besleyen kişi</string>
+	<key>🥻</key>
+	<string>sari</string>
+	<key>🇷🇸</key>
+	<string>Sırbistan bayrağı</string>
+	<key>🍾</key>
+	<string>patlayan şişe</string>
+	<key>🇫🇷</key>
+	<string>Fransa bayrağı</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>öpüşen kadın ile erkek</string>
+	<key>🥼</key>
+	<string>laboratuvar önlüğü</string>
+	<key>✍️</key>
+	<string>yazan el</string>
+	<key>🍿</key>
+	<string>patlamış mısır</string>
+	<key>🥽</key>
+	<string>koruyucu gözlük</string>
+	<key>🇧🇷</key>
+	<string>Brezilya bayrağı</string>
+	<key>🗡️</key>
+	<string>hançer</string>
+	<key>⏮️</key>
+	<string>geriye atlama sembolü</string>
+	<key>🎀</key>
+	<string>kurdeleden fiyonk</string>
+	<key>🥾</key>
+	<string>yürüyüş botu</string>
+	<key>🎁</key>
+	<string>hediye</string>
+	<key>🥿</key>
+	<string>düz ayakkabı</string>
+	<key>🚀</key>
+	<string>roket</string>
+	<key>🎂</key>
+	<string>doğum günü pastası</string>
+	<key>🦀</key>
+	<string>yengeç</string>
+	<key>🚁</key>
+	<string>helikopter</string>
+	<key>🇻🇺</key>
+	<string>Vanuatu bayrağı</string>
+	<key>🇧🇸</key>
+	<string>Bahamalar bayrağı</string>
+	<key>🎃</key>
+	<string>bal kabağından fener</string>
+	<key>🕵️‍♀️</key>
+	<string>kadın dedektif</string>
+	<key>🦁</key>
+	<string>aslan yüzü</string>
+	<key>🚂</key>
+	<string>buharlı lokomotif</string>
+	<key>🎄</key>
+	<string>yılbaşı ağacı</string>
+	<key>🇷🇺</key>
+	<string>Rusya bayrağı</string>
+	<key>🦂</key>
+	<string>akrep</string>
+	<key>🚃</key>
+	<string>vagon</string>
+	<key>🎅</key>
+	<string>Noel Baba</string>
+	<key>🦃</key>
+	<string>hindi</string>
+	<key>🚄</key>
+	<string>hızlı tren</string>
+	<key>🇳🇺</key>
+	<string>Niue bayrağı</string>
+	<key>🛩️</key>
+	<string>küçük uçak</string>
+	<key>◾️</key>
+	<string>orta küçük siyah kare</string>
+	<key>🎆</key>
+	<string>havai fişek</string>
+	<key>🇧🇹</key>
+	<string>Bhutan bayrağı</string>
+	<key>🦄</key>
+	<string>tek boynuzlu at</string>
+	<key>🚅</key>
+	<string>mermi uçlu hızlı tren</string>
+	<key>🎇</key>
+	<string>maytap</string>
+	<key>🦅</key>
+	<string>kartal</string>
+	<key>🚆</key>
+	<string>tren</string>
+	<key>👱‍♀️</key>
+	<string>sarı saçlı kadın</string>
+	<key>🎈</key>
+	<string>balon</string>
+	<key>🇿🇼</key>
+	<string>Zimbabve bayrağı</string>
+	<key>🦆</key>
+	<string>ördek</string>
+	<key>🚇</key>
+	<string>metro</string>
+	<key>😮‍💨</key>
+	<string>nefes veren yüz</string>
+	<key>🎉</key>
+	<string>parti patlangacı</string>
+	<key>🦇</key>
+	<string>yarasa</string>
+	<key>🚈</key>
+	<string>hafif raylı</string>
+	<key>🎊</key>
+	<string>konfeti topu</string>
+	<key>🦈</key>
+	<string>köpek balığı</string>
+	<key>🚉</key>
+	<string>istasyon</string>
+	<key>🇷🇼</key>
+	<string>Ruanda bayrağı</string>
+	<key>🎋</key>
+	<string>tanabata ağacı</string>
+	<key>🦉</key>
+	<string>baykuş</string>
+	<key>🚊</key>
+	<string>tramvay</string>
+	<key>🎌</key>
+	<string>çapraz bayraklar</string>
+	<key>🦊</key>
+	<string>tilki yüzü</string>
+	<key>🚋</key>
+	<string>tramvay</string>
+	<key>🎍</key>
+	<string>çam süsü</string>
+	<key>🇧🇻</key>
+	<string>Bouvet Adası bayrağı</string>
+	<key>🦋</key>
+	<string>kelebek</string>
+	<key>🚌</key>
+	<string>otobüs</string>
+	<key>🎎</key>
+	<string>Japon bebekleri</string>
+	<key>🦌</key>
+	<string>geyik</string>
+	<key>🚍</key>
+	<string>yaklaşan otobüs</string>
+	<key>🎏</key>
+	<string>sazan balığı flaması</string>
+	<key>🦍</key>
+	<string>goril</string>
+	<key>🚎</key>
+	<string>troleybüs</string>
+	<key>🚏</key>
+	<string>otobüs durağı</string>
+	<key>🎐</key>
+	<string>rüzgâr çanı</string>
+	<key>🦎</key>
+	<string>kertenkele</string>
+	<key>🇧🇼</key>
+	<string>Botsvana bayrağı</string>
+	<key>🚐</key>
+	<string>minibüs</string>
+	<key>♏️</key>
+	<string>Akrep burcu</string>
+	<key>🎑</key>
+	<string>ay izleme seremonisi</string>
+	<key>🦏</key>
+	<string>gergedan</string>
+	<key>🚑</key>
+	<string>ambulans</string>
+	<key>👨‍🍼</key>
+	<string>bebek besleyen erkek</string>
+	<key>⚧️</key>
+	<string>trans birey sembolü</string>
+	<key>👨‍👨‍👧</key>
+	<string>iki baba ve kız çocuktan oluşan aile</string>
+	<key>🖋️</key>
+	<string>dolma kalem</string>
+	<key>🚒</key>
+	<string>itfaiye aracı</string>
+	<key>🎒</key>
+	<string>sırt çantası</string>
+	<key>🎓</key>
+	<string>mezuniyet kepi</string>
+	<key>🦐</key>
+	<string>karides</string>
+	<key>🦑</key>
+	<string>mürekkep balığı</string>
+	<key>🚓</key>
+	<string>polis arabası</string>
+	<key>❗️</key>
+	<string>kırmızı ünlem işareti</string>
+	<key>🦒</key>
+	<string>zürafa</string>
+	<key>🙇‍♀️</key>
+	<string>saygıyla selamlayan kadın</string>
+	<key>🗣️</key>
+	<string>konuşan kafa silüeti</string>
+	<key>🚔</key>
+	<string>yaklaşan polis arabası</string>
+	<key>🦓</key>
+	<string>zebra</string>
+	<key>🚕</key>
+	<string>taksi</string>
+	<key>🦔</key>
+	<string>kirpi</string>
+	<key>🇳🇿</key>
+	<string>Yeni Zelanda bayrağı</string>
+	<key>🦕</key>
+	<string>dinozor</string>
+	<key>🚖</key>
+	<string>yaklaşan taksi</string>
+	<key>🇧🇾</key>
+	<string>Belarus bayrağı</string>
+	<key>🦖</key>
+	<string>T-Rex</string>
+	<key>🚗</key>
+	<string>araba</string>
+	<key>🦗</key>
+	<string>cırcır böceği</string>
+	<key>🚘</key>
+	<string>yaklaşan araba</string>
+	<key>🦘</key>
+	<string>kanguru</string>
+	<key>🚙</key>
+	<string>spor arazi aracı</string>
+	<key>🇧🇿</key>
+	<string>Belize bayrağı</string>
+	<key>🦙</key>
+	<string>lama</string>
+	<key>🚚</key>
+	<string>kamyonet</string>
+	<key>♈️</key>
+	<string>Koç burcu</string>
+	<key>🦚</key>
+	<string>tavus kuşu</string>
+	<key>🚛</key>
+	<string>tır</string>
+	<key>⚠️</key>
+	<string>uyarı</string>
+	<key>🦛</key>
+	<string>hipopotam</string>
+	<key>🚜</key>
+	<string>traktör</string>
+	<key>⛸️</key>
+	<string>buz pateni</string>
+	<key>🧘‍♂️</key>
+	<string>lotus pozisyonunda erkek</string>
+	<key>🧑‍🚀</key>
+	<string>astronot</string>
+	<key>🦜</key>
+	<string>papağan</string>
+	<key>🚝</key>
+	<string>monoray</string>
+	<key>🦝</key>
+	<string>rakun</string>
+	<key>🚞</key>
+	<string>dağ demiryolu</string>
+	<key>🎠</key>
+	<string>atlıkarınca atı</string>
+	<key>🦞</key>
+	<string>ıstakoz</string>
+	<key>🚟</key>
+	<string>asma demiryolu</string>
+	<key>🎡</key>
+	<string>dönme dolap</string>
+	<key>🦟</key>
+	<string>sivrisinek</string>
+	<key>🚠</key>
+	<string>dağ teleferiği</string>
+	<key>🎢</key>
+	<string>lunapark treni</string>
+	<key>🦠</key>
+	<string>mikrop</string>
+	<key>🚡</key>
+	<string>teleferik</string>
+	<key>🧝‍♀️</key>
+	<string>kadın elf</string>
+	<key>🎣</key>
+	<string>olta ve balık</string>
+	<key>🦡</key>
+	<string>porsuk</string>
+	<key>🚢</key>
+	<string>gemi</string>
+	<key>🎤</key>
+	<string>mikrofon</string>
+	<key>🦢</key>
+	<string>kuğu</string>
+	<key>🚣</key>
+	<string>botta kürek çeken kişi</string>
+	<key>🎥</key>
+	<string>film kamerası</string>
+	<key>🦣</key>
+	<string>mamut</string>
+	<key>🚤</key>
+	<string>sürat teknesi</string>
+	<key>🎦</key>
+	<string>sinema sembolü</string>
+	<key>🦤</key>
+	<string>dodo kuşu</string>
+	<key>🚥</key>
+	<string>yatay trafik ışığı</string>
+	<key>⚙️</key>
+	<string>dişli</string>
+	<key>🚴‍♂️</key>
+	<string>erkek bisikletçi</string>
+	<key>🎧</key>
+	<string>kulaklık</string>
+	<key>🦥</key>
+	<string>tembel hayvan</string>
+	<key>🚦</key>
+	<string>düşey trafik ışığı</string>
+	<key>⛱️</key>
+	<string>plaj şemsiyesi</string>
+	<key>🖍️</key>
+	<string>mum boya</string>
+	<key>🎨</key>
+	<string>ressam paleti</string>
+	<key>🦦</key>
+	<string>su samuru</string>
+	<key>🚧</key>
+	<string>inşaat işareti</string>
+	<key>🎩</key>
+	<string>silindir şapka</string>
+	<key>🦧</key>
+	<string>orangutan</string>
+	<key>🚨</key>
+	<string>polis arabası ışığı</string>
+	<key>➡️</key>
+	<string>sağ ok</string>
+	<key>🎪</key>
+	<string>sirk çadırı</string>
+	<key>🦨</key>
+	<string>kokarca</string>
+	<key>🚩</key>
+	<string>direkte üçgen bayrak</string>
+	<key>🎫</key>
+	<string>bilet</string>
+	<key>🦩</key>
+	<string>flamingo</string>
+	<key>🚪</key>
+	<string>kapı</string>
+	<key>🦸‍♀️</key>
+	<string>kadın süper kahraman</string>
+	<key>🎬</key>
+	<string>klaket</string>
+	<key>🦪</key>
+	<string>istiridye</string>
+	<key>🚫</key>
+	<string>yasak</string>
+	<key>🎖️</key>
+	<string>askeri madalya</string>
+	<key>🎭</key>
+	<string>sahne sanatları</string>
+	<key>🦫</key>
+	<string>kunduz</string>
+	<key>🚬</key>
+	<string>sigara</string>
+	<key>🎮</key>
+	<string>video oyunu kumandası</string>
+	<key>🦬</key>
+	<string>bizon</string>
+	<key>🚭</key>
+	<string>sigara içilmez işareti</string>
+	<key>🎯</key>
+	<string>tam isabet</string>
+	<key>🦭</key>
+	<string>fok</string>
+	<key>🚮</key>
+	<string>çöpü yerine atın sembolü</string>
+	<key>☺️</key>
+	<string>gülen yüz</string>
+	<key>🎰</key>
+	<string>kumar makinesi</string>
+	<key>🦮</key>
+	<string>rehber köpek</string>
+	<key>🚯</key>
+	<string>çöp atılmaz</string>
+	<key>⚒️</key>
+	<string>çekiç ve kazma</string>
+	<key>🎱</key>
+	<string>bilardo</string>
+	<key>🦯</key>
+	<string>beyaz baston</string>
+	<key>🚰</key>
+	<string>musluk</string>
+	<key>🧑‍🎄</key>
+	<string>Noel Karakteri</string>
+	<key>⛪️</key>
+	<string>kilise</string>
+	<key>🎲</key>
+	<string>oyun zarı</string>
+	<key>🤵‍♀️</key>
+	<string>smokinli kadın</string>
+	<key>⌛️</key>
+	<string>kum saati</string>
+	<key>🏋️‍♂️</key>
+	<string>erkek halterci</string>
+	<key>🚱</key>
+	<string>içilmez su</string>
+	<key>🎳</key>
+	<string>bovling topu ve lobutlar</string>
+	<key>👯‍♂️</key>
+	<string>tavşan kulak takmış dans eden erkekler</string>
+	<key>👨‍🚀</key>
+	<string>erkek astronot</string>
+	<key>🚲</key>
+	<string>bisiklet</string>
+	<key>🎴</key>
+	<string>çiçekli oyun kâğıdı</string>
+	<key>🚳</key>
+	<string>bisiklet giremez</string>
+	<key>👩‍👦‍👦</key>
+	<string>anne ve iki erkek çocuktan oluşan aile</string>
+	<key>🎵</key>
+	<string>müzik notası</string>
+	<key>👨‍🤝‍👨</key>
+	<string>el ele erkekler</string>
+	<key>🚴</key>
+	<string>bisikletçi</string>
+	<key>🎶</key>
+	<string>müzik notaları</string>
+	<key>🦴</key>
+	<string>kemik</string>
+	<key>🚵</key>
+	<string>dağ bisikletçisi</string>
+	<key>🎷</key>
+	<string>saksafon</string>
+	<key>🦵</key>
+	<string>bacak</string>
+	<key>🚶</key>
+	<string>yaya</string>
+	<key>🎸</key>
+	<string>gitar</string>
+	<key>🦶</key>
+	<string>ayak</string>
+	<key>🚷</key>
+	<string>yaya giremez</string>
+	<key>🎹</key>
+	<string>müzik klavyesi</string>
+	<key>🦷</key>
+	<string>diş</string>
+	<key>🚸</key>
+	<string>karşıdan karşıya geçen çocuklar</string>
+	<key>🎺</key>
+	<string>trompet</string>
+	<key>🦸</key>
+	<string>süper kahraman</string>
+	<key>🚹</key>
+	<string>erkekler sembolü</string>
+	<key>🎻</key>
+	<string>keman</string>
+	<key>🦹</key>
+	<string>süper kötü</string>
+	<key>🚺</key>
+	<string>kadınlar tuvaleti sembolü</string>
+	<key>🎼</key>
+	<string>sol anahtarı</string>
+	<key>🦺</key>
+	<string>güvenlik yeleği</string>
+	<key>🚻</key>
+	<string>tuvalet</string>
+	<key>🎽</key>
+	<string>koşu tişörtü</string>
+	<key>🦻</key>
+	<string>işitme cihazı olan kulak</string>
+	<key>🚼</key>
+	<string>bebek sembolü</string>
+	<key>🎾</key>
+	<string>tenis topu</string>
+	<key>🦼</key>
+	<string>elektrikli tekerlekli sandalye</string>
+	<key>🚽</key>
+	<string>klozet</string>
+	<key>🎿</key>
+	<string>kayaklar</string>
+	<key>🦽</key>
+	<string>tekerlekli sandalye</string>
+	<key>🚾</key>
+	<string>tuvalet işareti</string>
+	<key>🏀</key>
+	<string>basketbol</string>
+	<key>🦾</key>
+	<string>mekanik kol</string>
+	<key>🙅‍♂️</key>
+	<string>hayır işareti yapan erkek</string>
+	<key>🚿</key>
+	<string>duş</string>
+	<key>🏁</key>
+	<string>damalı bayrak</string>
+	<key>🦿</key>
+	<string>mekanik bacak</string>
+	<key>🛀</key>
+	<string>banyo yapan kişi</string>
+	<key>🏂</key>
+	<string>snowboard yapan kişi</string>
+	<key>🧀</key>
+	<string>peynir dilimi</string>
+	<key>🛁</key>
+	<string>küvet</string>
+	<key>🚣‍♂️</key>
+	<string>kürek çeken erkek</string>
+	<key>🏃</key>
+	<string>koşucu</string>
+	<key>🧁</key>
+	<string>kapkek</string>
+	<key>🛂</key>
+	<string>pasaport kontrolü</string>
+	<key>🏄</key>
+	<string>sörfçü</string>
+	<key>🧂</key>
+	<string>tuz</string>
+	<key>🛃</key>
+	<string>gümrük</string>
+	<key>🏅</key>
+	<string>spor madalyası</string>
+	<key>🧃</key>
+	<string>meyve suyu kutusu</string>
+	<key>🛄</key>
+	<string>bagaj teslim</string>
+	<key>🏆</key>
+	<string>kupa</string>
+	<key>🧄</key>
+	<string>sarımsak</string>
+	<key>🛅</key>
+	<string>emanet</string>
+	<key>🏇</key>
+	<string>yarış atına binmiş jokey</string>
+	<key>🧅</key>
+	<string>soğan</string>
+	<key>✴️</key>
+	<string>sekiz köşeli yıldız</string>
+	<key>🖼️</key>
+	<string>resimli çerçeve</string>
+	<key>🏈</key>
+	<string>Amerikan futbolu</string>
+	<key>🧆</key>
+	<string>falafel</string>
+	<key>🏉</key>
+	<string>ragbi</string>
+	<key>🧇</key>
+	<string>waffle</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>iki baba, bir erkek ve bir kız çocuktan oluşan aile</string>
+	<key>🏊</key>
+	<string>yüzücü</string>
+	<key>🧈</key>
+	<string>tereyağı</string>
+	<key>🧑‍⚖️</key>
+	<string>yargıç</string>
+	<key>3️⃣</key>
+	<string>üç rakamı olan tuş</string>
+	<key>🧉</key>
+	<string>mate</string>
+	<key>🧊</key>
+	<string>buz</string>
+	<key>🧋</key>
+	<string>inci çayı</string>
+	<key>🛌</key>
+	<string>uyuyan kişi</string>
+	<key>🧛‍♂️</key>
+	<string>erkek vampir</string>
+	<key>🧌</key>
+	<string>trol</string>
+	<key>🏏</key>
+	<string>kriket sopası ve topu</string>
+	<key>🧍</key>
+	<string>ayakta duran kişi</string>
+	<key>🏐</key>
+	<string>voleybol</string>
+	<key>🧎</key>
+	<string>diz üstü çökmüş kişi</string>
+	<key>🏑</key>
+	<string>hokey sopası ve topu</string>
+	<key>🧏</key>
+	<string>Sağır kişi</string>
+	<key>🛐</key>
+	<string>ibadet yeri</string>
+	<key>🏒</key>
+	<string>buz hokeyi sopası ve topu</string>
+	<key>🧐</key>
+	<string>tek cam gözlüklü yüz</string>
+	<key>🛑</key>
+	<string>sekizgen işaret</string>
+	<key>🏓</key>
+	<string>masa tenisi raketi ve topu</string>
+	<key>🧑</key>
+	<string>yetişkin</string>
+	<key>🛒</key>
+	<string>alışveriş sepeti</string>
+	<key>🧒</key>
+	<string>çocuk</string>
+	<key>🧓</key>
+	<string>yaşlı yetişkin</string>
+	<key>🎚️</key>
+	<string>seviye sürgüsü</string>
+	<key>🧔</key>
+	<string>sakallı kişi</string>
+	<key>🛕</key>
+	<string>Hindu tapınağı</string>
+	<key>🧕</key>
+	<string>başörtülü kadın</string>
+	<key>🛖</key>
+	<string>baraka</string>
+	<key>🧖</key>
+	<string>saunadaki kişi</string>
+	<key>🛗</key>
+	<string>asansör</string>
+	<key>🧗</key>
+	<string>kaya tırmanışçısı</string>
+	<key>🧘</key>
+	<string>lotus pozisyonunda kişi</string>
+	<key>🧙</key>
+	<string>büyücü</string>
+	<key>🧚</key>
+	<string>peri</string>
+	<key>👩‍💻</key>
+	<string>kadın teknolog</string>
+	<key>🧛</key>
+	<string>vampir</string>
+	<key>🛜</key>
+	<string>kablosuz sembolü</string>
+	<key>🧜</key>
+	<string>deniz kişisi</string>
+	<key>🛝</key>
+	<string>kaydırak</string>
+	<key>🧝</key>
+	<string>elf</string>
+	<key>🛞</key>
+	<string>tekerlek</string>
+	<key>👨‍⚖️</key>
+	<string>erkek yargıç</string>
+	<key>🏠</key>
+	<string>ev</string>
+	<key>🧞</key>
+	<string>cin</string>
+	<key>↘️</key>
+	<string>aşağı sağ ok</string>
+	<key>🛟</key>
+	<string>cankurtaran simidi</string>
+	<key>🏡</key>
+	<string>bahçeli ev</string>
+	<key>🧟</key>
+	<string>zombi</string>
+	<key>🤸‍♀️</key>
+	<string>perende atan kadın</string>
+	<key>🏢</key>
+	<string>ofis binası</string>
+	<key>🧠</key>
+	<string>beyin</string>
+	<key>🏣</key>
+	<string>Japon postanesi</string>
+	<key>🧡</key>
+	<string>turuncu kalp</string>
+	<key>👩‍💼</key>
+	<string>kadın ofis çalışanı</string>
+	<key>🏤</key>
+	<string>Avrupa postanesi</string>
+	<key>🧢</key>
+	<string>siperli şapka</string>
+	<key>🏥</key>
+	<string>hastane</string>
+	<key>🧣</key>
+	<string>atkı</string>
+	<key>🏦</key>
+	<string>banka</string>
+	<key>🧤</key>
+	<string>eldiven</string>
+	<key>🏧</key>
+	<string>ATM işareti</string>
+	<key>🧥</key>
+	<string>palto</string>
+	<key>👷‍♀️</key>
+	<string>kadın inşaat işçisi</string>
+	<key>🏨</key>
+	<string>otel</string>
+	<key>🧦</key>
+	<string>çorap</string>
+	<key>🏩</key>
+	<string>aşk oteli</string>
+	<key>🧧</key>
+	<string>kırmızı hediye zarfı</string>
+	<key>ℹ️</key>
+	<string>bilgi kaynağı</string>
+	<key>🏪</key>
+	<string>24 saat açık market</string>
+	<key>🧨</key>
+	<string>torpil</string>
+	<key>🏫</key>
+	<string>okul</string>
+	<key>🧩</key>
+	<string>yapboz parçası</string>
+	<key>🏬</key>
+	<string>alışveriş merkezi</string>
+	<key>🧪</key>
+	<string>deney tüpü</string>
+	<key>🛫</key>
+	<string>kalkan uçak</string>
+	<key>🛳️</key>
+	<string>yolcu gemisi</string>
+	<key>🏭</key>
+	<string>fabrika</string>
+	<key>🧫</key>
+	<string>petri kabı</string>
+	<key>🛬</key>
+	<string>uçağın inişi</string>
+	<key>♨️</key>
+	<string>kaplıca</string>
+	<key>🏮</key>
+	<string>izakaya feneri</string>
+	<key>🧬</key>
+	<string>DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>anne, baba ve erkek çocuktan oluşan aile</string>
+	<key>🏯</key>
+	<string>Japon şatosu</string>
+	<key>🧭</key>
+	<string>pusula</string>
+	<key>🧏‍♀️</key>
+	<string>Sağır kadın</string>
+	<key>🏰</key>
+	<string>Avrupa şatosu</string>
+	<key>🧮</key>
+	<string>abaküs</string>
+	<key>🧯</key>
+	<string>yangın tüpü</string>
+	<key>⏹️</key>
+	<string>durdur sembolü</string>
+	<key>🧰</key>
+	<string>alet çantası</string>
+	<key>🧱</key>
+	<string>tuğla</string>
+	<key>🏴</key>
+	<string>siyah bayrak</string>
+	<key>🧲</key>
+	<string>mıknatıs</string>
+	<key>🙍‍♀️</key>
+	<string>somurtan kadın</string>
+	<key>🧳</key>
+	<string>bavul</string>
+	<key>🛴</key>
+	<string>scooter</string>
+	<key>🧴</key>
+	<string>losyon şişesi</string>
+	<key>🛵</key>
+	<string>mopet</string>
+	<key>👨‍👦</key>
+	<string>baba ve erkek çocuktan oluşan aile</string>
+	<key>🧵</key>
+	<string>iplik</string>
+	<key>💆‍♂️</key>
+	<string>baş masajı yaptıran erkek</string>
+	<key>🛶</key>
+	<string>kano</string>
+	<key>🏸</key>
+	<string>badminton raketi ve topu</string>
+	<key>🧶</key>
+	<string>ip yumağı</string>
+	<key>🛷</key>
+	<string>kızak</string>
+	<key>🏹</key>
+	<string>ok ve yay</string>
+	<key>🧷</key>
+	<string>çengelli iğne</string>
+	<key>🛸</key>
+	<string>UFO</string>
+	<key>🏺</key>
+	<string>amfora</string>
+	<key>🧸</key>
+	<string>oyuncak ayı</string>
+	<key>🛹</key>
+	<string>kaykay</string>
+	<key>🧹</key>
+	<string>süpürge</string>
+	<key>🛺</key>
+	<string>elektrikli çekçek</string>
+	<key>⏲️</key>
+	<string>sayaç</string>
+	<key>🧺</key>
+	<string>sepet</string>
+	<key>🛻</key>
+	<string>pikap</string>
+	<key>🧻</key>
+	<string>kâğıt rulosu</string>
+	<key>🛼</key>
+	<string>paten</string>
+	<key>👨‍👧</key>
+	<string>baba ve kız çocuktan oluşan aile</string>
+	<key>🧼</key>
+	<string>sabun</string>
+	<key>🧞‍♂️</key>
+	<string>erkek cin</string>
+	<key>🧽</key>
+	<string>sünger</string>
+	<key>🎞️</key>
+	<string>film kareleri</string>
+	<key>🧾</key>
+	<string>fiş</string>
+	<key>▪️</key>
+	<string>küçük siyah kare</string>
+	<key>🧿</key>
+	<string>nazar boncuğu</string>
+	<key>☂️</key>
+	<string>şemsiye</string>
+	<key>🗂️</key>
+	<string>kartoteks bölücüleri</string>
+	<key>🦹‍♂️</key>
+	<string>erkek süper kötü</string>
+	<key>🏋️</key>
+	<string>halterci</string>
+	<key>◻️</key>
+	<string>orta beyaz kare</string>
+	<key>♓️</key>
+	<string>Balık burcu</string>
+	<key>⚫️</key>
+	<string>siyah daire</string>
+	<key>⏩</key>
+	<string>ileri sar sembolü</string>
+	<key>⏪</key>
+	<string>geri sar simgesi</string>
+	<key>⏫</key>
+	<string>yukarıyı gösteren çift üçgen</string>
+	<key>⏬</key>
+	<string>aşağıyı gösteren çift üçgen</string>
+	<key>🗯️</key>
+	<string>kızgın konuşma balonu</string>
+	<key>⏰</key>
+	<string>çalar saat</string>
+	<key>⏳</key>
+	<string>kumu akan kum saati</string>
+	<key>🧑‍🎓</key>
+	<string>öğrenci</string>
+	<key>🧑‍🚒</key>
+	<string>itfaiyeci</string>
+	<key>♌️</key>
+	<string>Aslan burcu</string>
+	<key>🗄️</key>
+	<string>dosya dolabı</string>
+	<key>🧍‍♂️</key>
+	<string>ayakta duran erkek</string>
+	<key>🏍️</key>
+	<string>motosiklet</string>
+	<key>🙋‍♂️</key>
+	<string>tek elini havaya kaldıran erkek</string>
+	<key>👨‍👩‍👧</key>
+	<string>anne, baba ve kız çocuktan oluşan aile</string>
+	<key>🇸🇦</key>
+	<string>Suudi Arabistan bayrağı</string>
+	<key>⛵️</key>
+	<string>yelkenli</string>
+	<key>👩‍🏫</key>
+	<string>kadın öğretmen</string>
+	<key>⬜️</key>
+	<string>büyük beyaz kare</string>
+	<key>🇸🇧</key>
+	<string>Solomon Adaları bayrağı</string>
+	<key>🇬🇦</key>
+	<string>Gabon bayrağı</string>
+	<key>🇨🇦</key>
+	<string>Kanada bayrağı</string>
+	<key>🇸🇨</key>
+	<string>Seyşeller bayrağı</string>
+	<key>🇬🇧</key>
+	<string>Birleşik Krallık bayrağı</string>
+	<key>👨‍🎓</key>
+	<string>erkek öğrenci</string>
+	<key>👨‍🚒</key>
+	<string>erkek itfaiyeci</string>
+	<key>⚖️</key>
+	<string>terazi</string>
+	<key>🇸🇩</key>
+	<string>Sudan bayrağı</string>
+	<key>🇨🇨</key>
+	<string>Cocos (Keeling) Adaları bayrağı</string>
+	<key>⏏️</key>
+	<string>çıkar sembolü</string>
+	<key>🇸🇪</key>
+	<string>İsveç bayrağı</string>
+	<key>🇬🇩</key>
+	<string>Grenada bayrağı</string>
+	<key>👩‍🏭</key>
+	<string>kadın fabrika işçisi</string>
+	<key>🇼🇫</key>
+	<string>Wallis ve Futuna bayrağı</string>
+	<key>🇨🇩</key>
+	<string>Demokratik Kongo Cumhuriyeti bayrağı</string>
+	<key>🇰🇪</key>
+	<string>Kenya bayrağı</string>
+	<key>🛎️</key>
+	<string>resepsiyon zili</string>
+	<key>🇬🇪</key>
+	<string>Gürcistan bayrağı</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>iki anne, bir erkek ve bir kız çocuktan oluşan aile</string>
+	<key>🇸🇬</key>
+	<string>Singapur bayrağı</string>
+	<key>🇬🇫</key>
+	<string>Fransız Guyanası bayrağı</string>
+	<key>🇨🇫</key>
+	<string>Orta Afrika Cumhuriyeti bayrağı</string>
+	<key>🇰🇬</key>
+	<string>Kırgızistan bayrağı</string>
+	<key>🗳️</key>
+	<string>oy pusulalı oy sandığı</string>
+	<key>🇸🇭</key>
+	<string>Saint Helena bayrağı</string>
+	<key>🇬🇬</key>
+	<string>Guernsey bayrağı</string>
+	<key>🧑‍⚕️</key>
+	<string>sağlık çalışanı</string>
+	<key>🏃‍♀️</key>
+	<string>kadın koşucu</string>
+	<key>🇨🇬</key>
+	<string>Kongo Cumhuriyeti bayrağı</string>
+	<key>🇰🇭</key>
+	<string>Kamboçya bayrağı</string>
+	<key>🤹‍♂️</key>
+	<string>jonglörlük yapan erkek</string>
+	<key>🇸🇮</key>
+	<string>Slovenya bayrağı</string>
+	<key>🇬🇭</key>
+	<string>Gana bayrağı</string>
+	<key>〽️</key>
+	<string>bölüm değiştirme işareti</string>
+	<key>🇨🇭</key>
+	<string>İsviçre bayrağı</string>
+	<key>🇰🇮</key>
+	<string>Kiribati bayrağı</string>
+	<key>🇸🇯</key>
+	<string>Svalbard ve Jan Mayen bayrağı</string>
+	<key>🕰️</key>
+	<string>şömine saati</string>
+	<key>8️⃣</key>
+	<string>sekiz rakamı olan tuş</string>
+	<key>🇬🇮</key>
+	<string>Cebelitarık bayrağı</string>
+	<key>🤾‍♀️</key>
+	<string>hentbol oynayan kadın</string>
+	<key>🇨🇮</key>
+	<string>Côte d’Ivoire bayrağı</string>
+	<key>⬇️</key>
+	<string>aşağı ok</string>
+	<key>👩‍✈️</key>
+	<string>kadın pilot</string>
+	<key>👩‍👧‍👦</key>
+	<string>anne, erkek çocuk ve kız çocuktan oluşan aile</string>
+	<key>🇸🇰</key>
+	<string>Slovakya bayrağı</string>
+	<key>🌡️</key>
+	<string>termometre</string>
+	<key>↪️</key>
+	<string>sağa kıvrılan sol ok</string>
+	<key>🇸🇱</key>
+	<string>Sierra Leone bayrağı</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>öpüşen iki erkek</string>
+	<key>🇨🇰</key>
+	<string>Cook Adaları bayrağı</string>
+	<key>🇸🇲</key>
+	<string>San Marino bayrağı</string>
+	<key>🇬🇱</key>
+	<string>Grönland bayrağı</string>
+	<key>🇴🇲</key>
+	<string>Umman bayrağı</string>
+	<key>🇨🇱</key>
+	<string>Şili bayrağı</string>
+	<key>🇰🇲</key>
+	<string>Komorlar bayrağı</string>
+	<key>🇸🇳</key>
+	<string>Senegal bayrağı</string>
+	<key>🇬🇲</key>
+	<string>Gambiya bayrağı</string>
+	<key>1️⃣</key>
+	<string>bir rakamı olan tuş</string>
+	<key>Ⓜ️</key>
+	<string>daire içine alınmış M</string>
+	<key>🇨🇲</key>
+	<string>Kamerun bayrağı</string>
+	<key>👨‍⚕️</key>
+	<string>erkek sağlık çalışanı</string>
+	<key>🙎‍♂️</key>
+	<string>surat asan erkek</string>
+	<key>🇰🇳</key>
+	<string>Saint Kitts ve Nevis bayrağı</string>
+	<key>🇸🇴</key>
+	<string>Somali bayrağı</string>
+	<key>🇬🇳</key>
+	<string>Gine bayrağı</string>
+	<key>🇨🇳</key>
+	<string>Çin bayrağı</string>
+	<key>☢️</key>
+	<string>radyoaktif</string>
+	<key>🇨🇴</key>
+	<string>Kolombiya bayrağı</string>
+	<key>‼️</key>
+	<string>kırmızı çift ünlem işareti</string>
+	<key>🃏</key>
+	<string>joker</string>
+	<key>🇰🇵</key>
+	<string>Kuzey Kore bayrağı</string>
+	<key>🇬🇵</key>
+	<string>Guadeloupe bayrağı</string>
+	<key>㊗️</key>
+	<string>“tebrikler” anlamına gelen Japonca sembol</string>
+	<key>🐿️</key>
+	<string>sincap</string>
+	<key>🇨🇵</key>
+	<string>Clipperton Adası bayrağı</string>
+	<key>🇸🇷</key>
+	<string>Surinam bayrağı</string>
+	<key>🏳️‍⚧️</key>
+	<string>trans birey bayrağı</string>
+	<key>🇬🇶</key>
+	<string>Ekvator Ginesi bayrağı</string>
+	<key>🇼🇸</key>
+	<string>Samoa bayrağı</string>
+	<key>*️⃣</key>
+	<string>yıldız tuşu</string>
+	<key>🇰🇷</key>
+	<string>Güney Kore bayrağı</string>
+	<key>🇸🇸</key>
+	<string>Güney Sudan bayrağı</string>
+	<key>🇬🇷</key>
+	<string>Yunanistan bayrağı</string>
+	<key>🇨🇷</key>
+	<string>Kosta Rika bayrağı</string>
+	<key>®️</key>
+	<string>tescilli marka işareti</string>
+	<key>🇸🇹</key>
+	<string>São Tomé ve Príncipe bayrağı</string>
+	<key>🇬🇸</key>
+	<string>Güney Georgia ve Güney Sandwich Adaları bayrağı</string>
+	<key>↕️</key>
+	<string>yukarı ve aşağı ok</string>
+	<key>🇬🇹</key>
+	<string>Guatemala bayrağı</string>
+	<key>☔️</key>
+	<string>yağmur damlaları altında şemsiye</string>
+	<key>🏳️‍🌈</key>
+	<string>gökkuşağı bayrağı</string>
+	<key>🇸🇻</key>
+	<string>El Salvador bayrağı</string>
+	<key>🕴️</key>
+	<string>havaya yükselen takım elbiseli adam</string>
+	<key>⛄️</key>
+	<string>kardan adam</string>
+	<key>🇬🇺</key>
+	<string>Guam bayrağı</string>
+	<key>🇨🇺</key>
+	<string>Küba bayrağı</string>
+	<key>#️⃣</key>
+	<string>kare tuşu</string>
+	<key>🤼‍♂️</key>
+	<string>güreşen erkekler</string>
+	<key>🌥️</key>
+	<string>büyük bulut arkasında güneş</string>
+	<key>👁️</key>
+	<string>göz</string>
+	<key>🇨🇻</key>
+	<string>Cape Verde bayrağı</string>
+	<key>🍽️</key>
+	<string>çatal, bıçak ve tabak</string>
+	<key>🇰🇼</key>
+	<string>Kuveyt bayrağı</string>
+	<key>🇸🇽</key>
+	<string>Sint Maarten bayrağı</string>
+	<key>🇬🇼</key>
+	<string>Gine-Bissau bayrağı</string>
+	<key>🏕️</key>
+	<string>kamp</string>
+	<key>🩰</key>
+	<string>bale ayakkabısı</string>
+	<key>🇨🇼</key>
+	<string>Curaçao bayrağı</string>
+	<key>🩱</key>
+	<string>tek parça mayo</string>
+	<key>🇸🇾</key>
+	<string>Suriye bayrağı</string>
+	<key>♥️</key>
+	<string>kupa iskambil</string>
+	<key>🩲</key>
+	<string>slip mayo</string>
+	<key>🕉️</key>
+	<string>om sembolü</string>
+	<key>⚽️</key>
+	<string>futbol topu</string>
+	<key>🩳</key>
+	<string>şort</string>
+	<key>🇨🇽</key>
+	<string>Christmas Adası bayrağı</string>
+	<key>🩴</key>
+	<string>sandalet</string>
+	<key>🇰🇾</key>
+	<string>Cayman Adaları bayrağı</string>
+	<key>🇸🇿</key>
+	<string>Esvatini bayrağı</string>
+	<key>🩵</key>
+	<string>açık mavi kalp</string>
+	<key>👩‍👧‍👧</key>
+	<string>anne ve iki kız çocuktan oluşan aile</string>
+	<key>🇬🇾</key>
+	<string>Guyana bayrağı</string>
+	<key>🩶</key>
+	<string>gri kalp</string>
+	<key>🩷</key>
+	<string>pembe kalp</string>
+	<key>🇨🇾</key>
+	<string>Kıbrıs Cumhuriyeti bayrağı</string>
+	<key>🇰🇿</key>
+	<string>Kazakistan bayrağı</string>
+	<key>🩸</key>
+	<string>kan damlası</string>
+	<key>🩹</key>
+	<string>yara bandı</string>
+	<key>🩺</key>
+	<string>stetoskop</string>
+	<key>🇨🇿</key>
+	<string>Çekya bayrağı</string>
+	<key>🩻</key>
+	<string>röntgen filmi</string>
+	<key>🩼</key>
+	<string>koltuk değneği</string>
+	<key>🕶️</key>
+	<string>güneş gözlüğü</string>
+	<key>🧘‍♀️</key>
+	<string>lotus pozisyonunda kadın</string>
+	<key>⏯️</key>
+	<string>oynat/duraklat sembolü</string>
+	<key>🪀</key>
+	<string>yo-yo</string>
+	<key>🌧️</key>
+	<string>yağmurlu bulut</string>
+	<key>🪁</key>
+	<string>uçurtma</string>
+	<key>🪂</key>
+	<string>paraşüt</string>
+	<key>🧑‍🎤</key>
+	<string>şarkıcı</string>
+	<key>🪃</key>
+	<string>bumerang</string>
+	<key>🪄</key>
+	<string>sihirli değnek</string>
+	<key>🏗️</key>
+	<string>bina inşaatı</string>
+	<key>🪅</key>
+	<string>pinyata</string>
+	<key>🪆</key>
+	<string>matruşka</string>
+	<key>🚴‍♀️</key>
+	<string>kadın bisikletçi</string>
+	<key>🪇</key>
+	<string>marakas</string>
+	<key>🐀</key>
+	<string>sıçan</string>
+	<key>🪈</key>
+	<string>flüt</string>
+	<key>🐁</key>
+	<string>fare</string>
+	<key>🐂</key>
+	<string>öküz</string>
+	<key>🐃</key>
+	<string>manda</string>
+	<key>🐄</key>
+	<string>inek</string>
+	<key>🅱️</key>
+	<string>B kan grubu</string>
+	<key>🐅</key>
+	<string>kaplan</string>
+	<key>🐆</key>
+	<string>leopar</string>
+	<key>🐇</key>
+	<string>tavşan</string>
+	<key>🐈</key>
+	<string>kedi</string>
+	<key>🪐</key>
+	<string>gezegen</string>
+	<key>♐️</key>
+	<string>Yay burcu</string>
+	<key>🐉</key>
+	<string>ejder</string>
+	<key>🪑</key>
+	<string>sandalye</string>
+	<key>🕸️</key>
+	<string>örümcek ağı</string>
+	<key>🐊</key>
+	<string>timsah</string>
+	<key>🪒</key>
+	<string>ustura</string>
+	<key>👩‍🍳</key>
+	<string>kadın aşçı</string>
+	<key>🐋</key>
+	<string>balina</string>
+	<key>👯‍♀️</key>
+	<string>tavşan kulak takmış dans eden kadınlar</string>
+	<key>🪓</key>
+	<string>balta</string>
+	<key>🐌</key>
+	<string>salyangoz</string>
+	<key>🪔</key>
+	<string>diya lamba</string>
+	<key>🐍</key>
+	<string>yılan</string>
+	<key>🪕</key>
+	<string>banço</string>
+	<key>🏄‍♂️</key>
+	<string>erkek sörfçü</string>
+	<key>🌩️</key>
+	<string>şimşekli bulut</string>
+	<key>🐎</key>
+	<string>at</string>
+	<key>🪖</key>
+	<string>asker kaskı</string>
+	<key>🐏</key>
+	<string>koç</string>
+	<key>🪗</key>
+	<string>akordiyon</string>
+	<key>🐐</key>
+	<string>keçi</string>
+	<key>🪘</key>
+	<string>tumba</string>
+	<key>👨‍🎤</key>
+	<string>erkek şarkıcı</string>
+	<key>🏙️</key>
+	<string>şehir manzarası</string>
+	<key>🐑</key>
+	<string>koyun</string>
+	<key>🪙</key>
+	<string>madeni para</string>
+	<key>🐒</key>
+	<string>maymun</string>
+	<key>🪚</key>
+	<string>testere</string>
+	<key>♉️</key>
+	<string>Boğa burcu</string>
+	<key>🐓</key>
+	<string>horoz</string>
+	<key>🪛</key>
+	<string>tornavida</string>
+	<key>⚡️</key>
+	<string>şimşek işareti</string>
+	<key>🐔</key>
+	<string>tavuk</string>
+	<key>🪜</key>
+	<string>merdiven</string>
+	<key>⛹️</key>
+	<string>basketbol oyuncusu</string>
+	<key>🖥️</key>
+	<string>masaüstü bilgisayarı</string>
+	<key>🐕</key>
+	<string>köpek</string>
+	<key>🪝</key>
+	<string>kanca</string>
+	<key>🧑‍🎨</key>
+	<string>sanatçı</string>
+	<key>🐖</key>
+	<string>domuz</string>
+	<key>🪞</key>
+	<string>ayna</string>
+	<key>🐗</key>
+	<string>yaban domuzu</string>
+	<key>🪟</key>
+	<string>pencere</string>
+	<key>🐘</key>
+	<string>fil</string>
+	<key>🙅‍♀️</key>
+	<string>hayır işareti yapan kadın</string>
+	<key>🪠</key>
+	<string>lavabo pompası</string>
+	<key>🐙</key>
+	<string>ahtapot</string>
+	<key>🪡</key>
+	<string>dikiş iğnesi</string>
+	<key>🐚</key>
+	<string>deniz kabuğu</string>
+	<key>🪢</key>
+	<string>düğüm</string>
+	<key>🚣‍♀️</key>
+	<string>kürek çeken kadın</string>
+	<key>🐛</key>
+	<string>böcek</string>
+	<key>🪣</key>
+	<string>kova</string>
+	<key>🐜</key>
+	<string>karınca</string>
+	<key>🪤</key>
+	<string>fare kapanı</string>
+	<key>🐝</key>
+	<string>arı</string>
+	<key>🪥</key>
+	<string>diş fırçası</string>
+	<key>🐞</key>
+	<string>uğur böceği</string>
+	<key>🪦</key>
+	<string>mezar taşı</string>
+	<key>⛲️</key>
+	<string>fıskiye</string>
+	<key>🐟</key>
+	<string>balık</string>
+	<key>🪧</key>
+	<string>tabela</string>
+	<key>🐠</key>
+	<string>tropikal balık</string>
+	<key>🗒️</key>
+	<string>spiralli not defteri</string>
+	<key>🪨</key>
+	<string>kaya</string>
+	<key>🐡</key>
+	<string>balon balığı</string>
+	<key>🪩</key>
+	<string>disko topu</string>
+	<key>🧖‍♂️</key>
+	<string>saunadaki erkek</string>
+	<key>🌫️</key>
+	<string>sis</string>
+	<key>🐢</key>
+	<string>kaplumbağa</string>
+	<key>🪪</key>
+	<string>kimlik kartı</string>
+	<key>🐣</key>
+	<string>yumurtadan çıkan civciv</string>
+	<key>🪫</key>
+	<string>düşük pil</string>
+	<key>🐤</key>
+	<string>civciv</string>
+	<key>🪬</key>
+	<string>Fatma’nın eli</string>
+	<key>🐥</key>
+	<string>ayakta duran civciv</string>
+	<key>😶‍🌫️</key>
+	<string>aklı bir karış havada yüz</string>
+	<key>🏛️</key>
+	<string>klasik bina</string>
+	<key>🪭</key>
+	<string>katlanır yelpaze</string>
+	<key>🐦</key>
+	<string>kuş</string>
+	<key>🧛‍♀️</key>
+	<string>kadın vampir</string>
+	<key>🪮</key>
+	<string>geniş dişli tarak</string>
+	<key>🐧</key>
+	<string>penguen</string>
+	<key>🪯</key>
+	<string>khanda sembolü</string>
+	<key>🐨</key>
+	<string>koala yüzü</string>
+	<key>⚓️</key>
+	<string>çıpa</string>
+	<key>🪰</key>
+	<string>karasinek</string>
+	<key>🐩</key>
+	<string>kaniş</string>
+	<key>🪱</key>
+	<string>solucan</string>
+	<key>🐪</key>
+	<string>deve</string>
+	<key>🪲</key>
+	<string>böcek</string>
+	<key>👨‍🎨</key>
+	<string>erkek sanatçı</string>
+	<key>🐫</key>
+	<string>çift hörgüçlü deve</string>
+	<key>🪳</key>
+	<string>hamam böceği</string>
+	<key>🐬</key>
+	<string>yunus</string>
+	<key>🪴</key>
+	<string>saksı bitkisi</string>
+	<key>🐭</key>
+	<string>fare yüzü</string>
+	<key>🪵</key>
+	<string>ahşap</string>
+	<key>🐮</key>
+	<string>inek yüzü</string>
+	<key>🪶</key>
+	<string>kuş tüyü</string>
+	<key>🐯</key>
+	<string>kaplan yüzü</string>
+	<key>🪷</key>
+	<string>lotus</string>
+	<key>🐕‍🦺</key>
+	<string>yardımcı köpek</string>
+	<key>🐰</key>
+	<string>tavşan yüzü</string>
+	<key>🪸</key>
+	<string>mercan</string>
+	<key>🐱</key>
+	<string>kedi yüzü</string>
+	<key>🪹</key>
+	<string>boş kuş yuvası</string>
+	<key>🐲</key>
+	<string>ejder kafası</string>
+	<key>🪺</key>
+	<string>yumurtalı kuş yuvası</string>
+	<key>🐳</key>
+	<string>su fışkırtan balina</string>
+	<key>🪻</key>
+	<string>sümbül</string>
+	<key>🐴</key>
+	<string>at başı</string>
+	<key>🪼</key>
+	<string>denizanası</string>
+	<key>🐵</key>
+	<string>maymun yüzü</string>
+	<key>🪽</key>
+	<string>kanat</string>
+	<key>🐶</key>
+	<string>köpek yüzü</string>
+	<key>🐷</key>
+	<string>domuz yüzü</string>
+	<key>🪿</key>
+	<string>kaz</string>
+	<key>🐸</key>
+	<string>kurbağa yüzü</string>
+	<key>🫀</key>
+	<string>anatomik kalp</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>İngiltere bayrağı</string>
+	<key>🐹</key>
+	<string>hamster yüzü</string>
+	<key>🫁</key>
+	<string>akciğer</string>
+	<key>🐺</key>
+	<string>kurt</string>
+	<key>🏝️</key>
+	<string>ıssız ada</string>
+	<key>🫂</key>
+	<string>kucaklaşan insanlar</string>
+	<key>🐻</key>
+	<string>ayı yüzü</string>
+	<key>🏌️‍♂️</key>
+	<string>erkek golfçü</string>
+	<key>🫃</key>
+	<string>hamile erkek</string>
+	<key>🐼</key>
+	<string>panda yüzü</string>
+	<key>🫄</key>
+	<string>hamile kişi</string>
+	<key>6️⃣</key>
+	<string>altı rakamı olan tuş</string>
+	<key>🐽</key>
+	<string>domuz burnu</string>
+	<key>🫅</key>
+	<string>taçlı kişi</string>
+	<key>🐾</key>
+	<string>pati izleri</string>
+	<key>👀</key>
+	<string>gözler</string>
+	<key>👂</key>
+	<string>kulak</string>
+	<key>👃</key>
+	<string>burun</string>
+	<key>👄</key>
+	<string>ağız</string>
+	<key>👅</key>
+	<string>dil</string>
+	<key>☦️</key>
+	<string>Ortodoks haçı</string>
+	<key>👆</key>
+	<string>elin tersi öne gelecek şekilde yukarı gösteren işaret parmağı</string>
+	<key>👩‍🍼</key>
+	<string>bebek besleyen kadın</string>
+	<key>🫎</key>
+	<string>sığın yüzü</string>
+	<key>♾️</key>
+	<string>sonsuzluk</string>
+	<key>👇</key>
+	<string>elin tersi öne gelecek şekilde aşağıyı gösteren işaret parmağı</string>
+	<key>🫏</key>
+	<string>eşek</string>
+	<key>👈</key>
+	<string>elin tersi öne gelecek şekilde solu gösteren işaret parmağı</string>
+	<key>🫐</key>
+	<string>yaban mersini</string>
+	<key>👉</key>
+	<string>elin tersi öne gelecek şekilde sağı gösteren işaret parmağı</string>
+	<key>🫑</key>
+	<string>dolma biber</string>
+	<key>👊</key>
+	<string>kapalı yumruk</string>
+	<key>🫒</key>
+	<string>zeytin</string>
+	<key>⭕️</key>
+	<string>daire işareti</string>
+	<key>💁‍♂️</key>
+	<string>erkek danışma görevlisi</string>
+	<key>👋</key>
+	<string>el sallama</string>
+	<key>🫓</key>
+	<string>bazlama</string>
+	<key>👌</key>
+	<string>onay el işareti</string>
+	<key>🫔</key>
+	<string>tamale</string>
+	<key>👍</key>
+	<string>kabul</string>
+	<key>🫕</key>
+	<string>fondü</string>
+	<key>👎</key>
+	<string>ret</string>
+	<key>🫖</key>
+	<string>demlik</string>
+	<key>🏟️</key>
+	<string>stadyum</string>
+	<key>👏</key>
+	<string>alkışlayan el</string>
+	<key>🫗</key>
+	<string>sıvı dökme</string>
+	<key>💆‍♀️</key>
+	<string>baş masajı yaptıran kadın</string>
+	<key>👐</key>
+	<string>açık eller</string>
+	<key>🫘</key>
+	<string>fasulye</string>
+	<key>🐦‍⬛</key>
+	<string>siyah kuş</string>
+	<key>🧑‍🦯</key>
+	<string>beyaz bastonlu kişi</string>
+	<key>🫙</key>
+	<string>kavanoz</string>
+	<key>🧙‍♂️</key>
+	<string>erkek büyücü</string>
+	<key>👑</key>
+	<string>taç</string>
+	<key>⛏️</key>
+	<string>kazma</string>
+	<key>👒</key>
+	<string>kurdeleli şapka</string>
+	<key>🫚</key>
+	<string>zencefil kökü</string>
+	<key>👓</key>
+	<string>gözlük</string>
+	<key>🫛</key>
+	<string>bezelye tanesi</string>
+	<key>👔</key>
+	<string>gömlek ve kravat</string>
+	<key>👕</key>
+	<string>polo tişört</string>
+	<key>👖</key>
+	<string>kot</string>
+	<key>🧞‍♀️</key>
+	<string>kadın cin</string>
+	<key>👗</key>
+	<string>elbise</string>
+	<key>↙️</key>
+	<string>aşağı sol ok</string>
+	<key>🧑‍🦰</key>
+	<string>kızıl saçlı kişi</string>
+	<key>🕵️‍♂️</key>
+	<string>erkek dedektif</string>
+	<key>👘</key>
+	<string>kimono</string>
+	<key>🟠</key>
+	<string>turuncu daire</string>
+	<key>🫠</key>
+	<string>eriyen yüz</string>
+	<key>🟡</key>
+	<string>sarı daire</string>
+	<key>👩‍❤️‍👨</key>
+	<string>âşık kadın ile erkek</string>
+	<key>👙</key>
+	<string>bikini</string>
+	<key>◀️</key>
+	<string>solu gösteren üçgen</string>
+	<key>🫡</key>
+	<string>selam veren yüz</string>
+	<key>🟢</key>
+	<string>yeşil daire</string>
+	<key>👚</key>
+	<string>bluz</string>
+	<key>☘️</key>
+	<string>yonca</string>
+	<key>🫢</key>
+	<string>gözleri açık ve eliyle ağzını kapatan yüz</string>
+	<key>🚵‍♂️</key>
+	<string>erkek dağ bisikletçisi</string>
+	<key>🟣</key>
+	<string>mor daire</string>
+	<key>👛</key>
+	<string>cüzdan</string>
+	<key>🫣</key>
+	<string>gizlice bakan yüz</string>
+	<key>🟤</key>
+	<string>kahverengi daire</string>
+	<key>👜</key>
+	<string>kadın çantası</string>
+	<key>⛈️</key>
+	<string>şimşekli ve yağmurlu bulut</string>
+	<key>🫤</key>
+	<string>yamuk ağızlı yüz</string>
+	<key>🟥</key>
+	<string>kırmızı kare</string>
+	<key>👝</key>
+	<string>el çantası</string>
+	<key>🫥</key>
+	<string>çevresi noktalı yüz</string>
+	<key>🟦</key>
+	<string>mavi kare</string>
+	<key>👞</key>
+	<string>klasik ayakkabı</string>
+	<key>🧑‍🦱</key>
+	<string>kıvırcık saçlı kişi</string>
+	<key>🫦</key>
+	<string>dudak ısırma</string>
+	<key>🟧</key>
+	<string>turuncu kare</string>
+	<key>🦹‍♀️</key>
+	<string>kadın süper kötü</string>
+	<key>👟</key>
+	<string>tenis ayakkabısı</string>
+	<key>🫧</key>
+	<string>baloncuk</string>
+	<key>🟨</key>
+	<string>sarı kare</string>
+	<key>❤️‍🔥</key>
+	<string>ateşli kalp</string>
+	<key>👠</key>
+	<string>topuklu ayakkabı</string>
+	<key>🟩</key>
+	<string>yeşil kare</string>
+	<key>🫨</key>
+	<string>titreyen yüz</string>
+	<key>👡</key>
+	<string>topuklu kadın terliği</string>
+	<key>🟪</key>
+	<string>mor kare</string>
+	<key>👢</key>
+	<string>topluklu çizme</string>
+	<key>🟫</key>
+	<string>kahverengi kare</string>
+	<key>👣</key>
+	<string>ayak izi</string>
+	<key>🛠️</key>
+	<string>çekiç ve somun anahtarı</string>
+	<key>📽️</key>
+	<string>film projektörü</string>
+	<key>👤</key>
+	<string>kişi silüeti</string>
+	<key>☑️</key>
+	<string>onay işaretli onay kutusu</string>
+	<key>🧑‍🦲</key>
+	<string>saçsız kişi</string>
+	<key>👥</key>
+	<string>iki kişi silüeti</string>
+	<key>👦</key>
+	<string>erkek çocuk</string>
+	<key>👨‍🦯</key>
+	<string>beyaz bastonlu erkek</string>
+	<key>👧</key>
+	<string>kız çocuk</string>
+	<key>👰‍♂️</key>
+	<string>duvaklı erkek</string>
+	<key>👩‍🚀</key>
+	<string>kadın astronot</string>
+	<key>🟰</key>
+	<string>eşittir işareti</string>
+	<key>🏴‍☠️</key>
+	<string>korsan bayrağı</string>
+	<key>👨</key>
+	<string>erkek</string>
+	<key>🫰</key>
+	<string>işaret parmağı ve baş parmağı çapraz el</string>
+	<key>⏺️</key>
+	<string>kayıt simgesi</string>
+	<key>👩</key>
+	<string>kadın</string>
+	<key>🫱</key>
+	<string>sağa dönük el</string>
+	<key>👪</key>
+	<string>aile</string>
+	<key>🫲</key>
+	<string>sola dönük el</string>
+	<key>👫</key>
+	<string>el ele kadın ve erkek</string>
+	<key>🫳</key>
+	<string>avucu aşağıya dönük el</string>
+	<key>🧑‍🦳</key>
+	<string>beyaz saçlı kişi</string>
+	<key>👬</key>
+	<string>el ele iki erkek</string>
+	<key>🫴</key>
+	<string>avucu yukarıya dönük el</string>
+	<key>👭</key>
+	<string>el ele iki kadın</string>
+	<key>👨‍🦰</key>
+	<string>kızıl saçlı erkek</string>
+	<key>🫵</key>
+	<string>bakan kişiyi gösteren işaret parmağı</string>
+	<key>👮</key>
+	<string>polis memuru</string>
+	<key>🏊‍♂️</key>
+	<string>erkek yüzücü</string>
+	<key>🫶</key>
+	<string>kalp şeklinde eller</string>
+	<key>👯</key>
+	<string>tavşan kulak takmış dans eden insanlar</string>
+	<key>🫷</key>
+	<string>sola doğru iten el</string>
+	<key>👰</key>
+	<string>duvaklı kişi</string>
+	<key>🫸</key>
+	<string>sağa doğru iten el</string>
+	<key>👱</key>
+	<string>sarı saçlı kişi</string>
+	<key>✒️</key>
+	<string>dolma kalem</string>
+	<key>👲</key>
+	<string>çin şapkalı erkek</string>
+	<key>🧍‍♀️</key>
+	<string>ayakta duran kadın</string>
+	<key>👳</key>
+	<string>sarıklı kişi</string>
+	<key>👨‍🦱</key>
+	<string>kıvırcık saçlı erkek</string>
+	<key>👴</key>
+	<string>yaşlı adam</string>
+	<key>🙆‍♂️</key>
+	<string>tamam anlamına gelen hareketi yapan erkek</string>
+	<key>👵</key>
+	<string>yaşlı kadın</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>anne, baba, erkek ve kız çocuktan oluşan aile</string>
+	<key>👶</key>
+	<string>bebek</string>
+	<key>👷</key>
+	<string>inşaat işçisi</string>
+	<key>▫️</key>
+	<string>küçük beyaz kare</string>
+	<key>👸</key>
+	<string>prenses</string>
+	<key>🛢️</key>
+	<string>varil</string>
+	<key>☃️</key>
+	<string>Kar tanecikli kardan adam</string>
+	<key>👹</key>
+	<string>dev</string>
+	<key>🙋‍♀️</key>
+	<string>tek elini havaya kaldıran kadın</string>
+	<key>👺</key>
+	<string>cin</string>
+	<key>👨‍🦲</key>
+	<string>saçsız erkek</string>
+	<key>🇹🇦</key>
+	<string>Tristan da Cunha bayrağı</string>
+	<key>👻</key>
+	<string>hayalet</string>
+	<key>🇵🇦</key>
+	<string>Panama bayrağı</string>
+	<key>👼</key>
+	<string>bebek melek</string>
+	<key>❣️</key>
+	<string>ünlem işareti şeklinde kırmızı kalp</string>
+	<key>👽</key>
+	<string>uzaylı</string>
+	<key>🇱🇦</key>
+	<string>Laos bayrağı</string>
+	<key>👾</key>
+	<string>uzaylı yaratık</string>
+	<key>👿</key>
+	<string>boynuzlu kızgın yüz</string>
+	<key>💀</key>
+	<string>kuru kafa</string>
+	<key>🇱🇧</key>
+	<string>Lübnan bayrağı</string>
+	<key>👨‍🦳</key>
+	<string>beyaz saçlı erkek</string>
+	<key>💁</key>
+	<string>danışma görevlisi</string>
+	<key>🇹🇨</key>
+	<string>Turks ve Caicos Adaları bayrağı</string>
+	<key>🧜‍♂️</key>
+	<string>deniz erkeği</string>
+	<key>💂</key>
+	<string>muhafız</string>
+	<key>💃</key>
+	<string>dans eden kadın</string>
+	<key>◼️</key>
+	<string>orta siyah kare</string>
+	<key>🇱🇨</key>
+	<string>Saint Lucia bayrağı</string>
+	<key>💄</key>
+	<string>ruj</string>
+	<key>🇹🇩</key>
+	<string>Çad bayrağı</string>
+	<key>💅</key>
+	<string>oje</string>
+	<key>💆</key>
+	<string>baş masajı yaptıran kişi</string>
+	<key>💇</key>
+	<string>saç kestiren kişi</string>
+	<key>🗜️</key>
+	<string>mengene</string>
+	<key>💈</key>
+	<string>berber direği</string>
+	<key>💉</key>
+	<string>şırınga</string>
+	<key>🇵🇪</key>
+	<string>Peru bayrağı</string>
+	<key>💊</key>
+	<string>hap</string>
+	<key>💋</key>
+	<string>dudak izi</string>
+	<key>🇹🇫</key>
+	<string>Fransız Güney Toprakları bayrağı</string>
+	<key>💌</key>
+	<string>aşk mektubu</string>
+	<key>👩‍❤️‍👩</key>
+	<string>âşık iki kadın</string>
+	<key>🇵🇫</key>
+	<string>Fransız Polinezyası bayrağı</string>
+	<key>🛤️</key>
+	<string>demiryolu hattı</string>
+	<key>💍</key>
+	<string>yüzük</string>
+	<key>🆎</key>
+	<string>AB kan grubu</string>
+	<key>🇩🇪</key>
+	<string>Almanya bayrağı</string>
+	<key>🈂️</key>
+	<string>“hizmet” veya “hizmet bedeli” anlamına gelen Japonca sembol</string>
+	<key>💎</key>
+	<string>mücevher</string>
+	<key>♍️</key>
+	<string>Başak burcu</string>
+	<key>🇹🇬</key>
+	<string>Togo bayrağı</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>öpüşen iki kadın</string>
+	<key>💏</key>
+	<string>öpüşen çift</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>el ele insanlar</string>
+	<key>💐</key>
+	<string>buket</string>
+	<key>⛽️</key>
+	<string>yakıt pompası</string>
+	<key>🇵🇬</key>
+	<string>Papua Yeni Gine bayrağı</string>
+	<key>🖱️</key>
+	<string>bilgisayar faresi</string>
+	<key>🆑</key>
+	<string>CL işareti</string>
+	<key>💑</key>
+	<string>âşık çift</string>
+	<key>🆒</key>
+	<string>COOL işareti</string>
+	<key>🇹🇭</key>
+	<string>Tayland bayrağı</string>
+	<key>💒</key>
+	<string>nikâh</string>
+	<key>🆓</key>
+	<string>üzerinde FREE yazan işaret</string>
+	<key>💓</key>
+	<string>atan kalp</string>
+	<key>🆔</key>
+	<string>kimlik işareti</string>
+	<key>🇵🇭</key>
+	<string>Filipinler bayrağı</string>
+	<key>👩‍⚖️</key>
+	<string>kadın yargıç</string>
+	<key>💔</key>
+	<string>kırık kalp</string>
+	<key>🇩🇬</key>
+	<string>Diego Garcia bayrağı</string>
+	<key>🆕</key>
+	<string>üzerinde NEW yazan işaret</string>
+	<key>🅿️</key>
+	<string>park işareti</string>
+	<key>💕</key>
+	<string>iki kalp</string>
+	<key>🤹‍♀️</key>
+	<string>jonglörlük yapan kadın</string>
+	<key>🆖</key>
+	<string>Üzerinde NG yazan işaret</string>
+	<key>💖</key>
+	<string>parlayan kalp</string>
+	<key>🆗</key>
+	<string>OK işareti</string>
+	<key>💗</key>
+	<string>büyüyen kalp</string>
+	<key>👳‍♂️</key>
+	<string>sarıklı erkek</string>
+	<key>🆘</key>
+	<string>SOS işareti</string>
+	<key>💘</key>
+	<string>ok saplanmış kalp</string>
+	<key>🇱🇮</key>
+	<string>Liechtenstein bayrağı</string>
+	<key>🆙</key>
+	<string>üzerinde UP yazan işaret</string>
+	<key>🈯️</key>
+	<string>“yer ayrılmış” anlamına gelen Japonca sembol</string>
+	<key>🇹🇯</key>
+	<string>Tacikistan bayrağı</string>
+	<key>💙</key>
+	<string>mavi kalp</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>iki baba ve iki erkek çocuktan oluşan aile</string>
+	<key>🆚</key>
+	<string>VS işareti</string>
+	<key>💚</key>
+	<string>yeşil kalp</string>
+	<key>🇽🇰</key>
+	<string>Kosova bayrağı</string>
+	<key>💛</key>
+	<string>sarı kalp</string>
+	<key>🗞️</key>
+	<string>kıvrılmış gazete</string>
+	<key>💜</key>
+	<string>mor kalp</string>
+	<key>🇹🇰</key>
+	<string>Tokelau bayrağı</string>
+	<key>💝</key>
+	<string>kurdeleli kalp</string>
+	<key>🇵🇰</key>
+	<string>Pakistan bayrağı</string>
+	<key>💞</key>
+	<string>dönen kalpler</string>
+	<key>🇩🇯</key>
+	<string>Cibuti bayrağı</string>
+	<key>💟</key>
+	<string>kalp süsü</string>
+	<key>🇱🇰</key>
+	<string>Sri Lanka bayrağı</string>
+	<key>🇹🇱</key>
+	<string>Doğu Timor bayrağı</string>
+	<key>👩‍🤝‍👨</key>
+	<string>el ele kadın ve erkek</string>
+	<key>💠</key>
+	<string>içinde nokta olan baklava şekli</string>
+	<key>🇭🇰</key>
+	<string>Hong Kong bayrağı</string>
+	<key>💡</key>
+	<string>ampul</string>
+	<key>🇵🇱</key>
+	<string>Polonya bayrağı</string>
+	<key>🇩🇰</key>
+	<string>Danimarka bayrağı</string>
+	<key>💢</key>
+	<string>öfke sembolü</string>
+	<key>🇹🇲</key>
+	<string>Türkmenistan bayrağı</string>
+	<key>💣</key>
+	<string>bomba</string>
+	<key>⚗️</key>
+	<string>damıtıcı</string>
+	<key>💤</key>
+	<string>uyuyor işareti</string>
+	<key>🇵🇲</key>
+	<string>Saint Pierre ve Miquelon bayrağı</string>
+	<key>💥</key>
+	<string>patlama</string>
+	<key>❇️</key>
+	<string>pırıltı</string>
+	<key>💦</key>
+	<string>su damlaları</string>
+	<key>🇹🇳</key>
+	<string>Tunus bayrağı</string>
+	<key>🧑‍🦼</key>
+	<string>elektrikli tekerlekli sandalyede kişi</string>
+	<key>💧</key>
+	<string>damlacık</string>
+	<key>🇭🇲</key>
+	<string>Heard ve McDonald Adaları bayrağı</string>
+	<key>🇵🇳</key>
+	<string>Pitcairn bayrağı</string>
+	<key>💨</key>
+	<string>ani rüzgâr</string>
+	<key>🇩🇲</key>
+	<string>Dominika bayrağı</string>
+	<key>💩</key>
+	<string>kaka yığını</string>
+	<key>🙎‍♀️</key>
+	<string>surat asan kadın</string>
+	<key>🇹🇴</key>
+	<string>Tonga bayrağı</string>
+	<key>💪</key>
+	<string>kasılmış pazu</string>
+	<key>🇭🇳</key>
+	<string>Honduras bayrağı</string>
+	<key>👩‍👦</key>
+	<string>anne ve erkek çocuktan oluşan aile</string>
+	<key>💫</key>
+	<string>kayan yıldız sembolü</string>
+	<key>💇‍♂️</key>
+	<string>saç kestiren erkek</string>
+	<key>💬</key>
+	<string>konuşma balonu</string>
+	<key>☸️</key>
+	<string>dharma çarkı</string>
+	<key>💭</key>
+	<string>düşünce balonu</string>
+	<key>🧑‍🦽</key>
+	<string>tekerlekli sandalyede kişi</string>
+	<key>💮</key>
+	<string>beyaz çiçek</string>
+	<key>💯</key>
+	<string>yüz puan sembolü</string>
+	<key>🇩🇴</key>
+	<string>Dominik Cumhuriyeti bayrağı</string>
+	<key>💰</key>
+	<string>para torbası</string>
+	<key>💱</key>
+	<string>kambiyo</string>
+	<key>😵‍💫</key>
+	<string>spiral gözlü yüz</string>
+	<key>👩‍👧</key>
+	<string>anne ve kız çocuktan oluşan aile</string>
+	<key>🧟‍♂️</key>
+	<string>erkek zombi</string>
+	<key>💲</key>
+	<string>dolar işareti</string>
+	<key>💳</key>
+	<string>kredi kartı</string>
+	<key>🇹🇷</key>
+	<string>Türkiye bayrağı</string>
+	<key>💴</key>
+	<string>yen banknotları</string>
+	<key>💵</key>
+	<string>dolar banknotları</string>
+	<key>🇵🇷</key>
+	<string>Porto Riko bayrağı</string>
+	<key>💶</key>
+	<string>avro banknotları</string>
+	<key>🇱🇷</key>
+	<string>Liberya bayrağı</string>
+	<key>💷</key>
+	<string>sterlin banknotları</string>
+	<key>💸</key>
+	<string>kanatlı para</string>
+	<key>🇭🇷</key>
+	<string>Hırvatistan bayrağı</string>
+	<key>🇵🇸</key>
+	<string>Filistin Toprakları bayrağı</string>
+	<key>💹</key>
+	<string>yükselme eğilimindeki ve yen işaretli grafik</string>
+	<key>💺</key>
+	<string>koltuk</string>
+	<key>🇱🇸</key>
+	<string>Lesotho bayrağı</string>
+	<key>🇹🇹</key>
+	<string>Trinidad ve Tobago bayrağı</string>
+	<key>💻</key>
+	<string>dizüstü</string>
+	<key>💼</key>
+	<string>evrak çantası</string>
+	<key>👨‍🦼</key>
+	<string>elektrikli tekerlekli sandalyede erkek</string>
+	<key>🇵🇹</key>
+	<string>Portekiz bayrağı</string>
+	<key>💽</key>
+	<string>minidisk</string>
+	<key>🇱🇹</key>
+	<string>Litvanya bayrağı</string>
+	<key>💾</key>
+	<string>disket</string>
+	<key>🇭🇹</key>
+	<string>Haiti bayrağı</string>
+	<key>💿</key>
+	<string>cd</string>
+	<key>📀</key>
+	<string>dvd</string>
+	<key>🤷‍♂️</key>
+	<string>omuz silken erkek</string>
+	<key>📁</key>
+	<string>kapalı dosya klasörü</string>
+	<key>🇱🇺</key>
+	<string>Lüksemburg bayrağı</string>
+	<key>☪️</key>
+	<string>yıldız ve hilal</string>
+	<key>🇹🇻</key>
+	<string>Tuvalu bayrağı</string>
+	<key>📂</key>
+	<string>açık dosya klasörü</string>
+	<key>4️⃣</key>
+	<string>dört rakamı olan tuş</string>
+	<key>🇭🇺</key>
+	<string>Macaristan bayrağı</string>
+	<key>👨‍🦽</key>
+	<string>tekerlekli sandalyede erkek</string>
+	<key>📃</key>
+	<string>kıvrık sayfa</string>
+	<key>🖊️</key>
+	<string>tükenmez kalem</string>
+	<key>📄</key>
+	<string>yüzü yukarıda sayfa</string>
+	<key>🇱🇻</key>
+	<string>Letonya bayrağı</string>
+	<key>🇹🇼</key>
+	<string>Tayvan bayrağı</string>
+	<key>📅</key>
+	<string>takvim</string>
+	<key>🤼‍♀️</key>
+	<string>güreşen kadınlar</string>
+	<key>📆</key>
+	<string>koparılan takvim</string>
+	<key>🇵🇼</key>
+	<string>Palau bayrağı</string>
+	<key>📇</key>
+	<string>kartoteks</string>
+	<key>📈</key>
+	<string>yükselme eğilimindeki grafik</string>
+	<key>🧑‍🔧</key>
+	<string>tamirci</string>
+	<key>📉</key>
+	<string>düşme eğilimindeki grafik</string>
+	<key>〰️</key>
+	<string>dalgalı tire</string>
+	<key>📊</key>
+	<string>çubuk grafiği</string>
+	<key>📋</key>
+	<string>pano</string>
+	<key>☣️</key>
+	<string>biyolojik tehlike</string>
+	<key>📌</key>
+	<string>raptiye</string>
+	<key>♻️</key>
+	<string>geri dönüşüm sembolü</string>
+	<key>📍</key>
+	<string>yuvarlak raptiye</string>
+	<key>🇵🇾</key>
+	<string>Paraguay bayrağı</string>
+	<key>⛓️</key>
+	<string>zincir</string>
+	<key>📎</key>
+	<string>ataş</string>
+	<key>🧎‍♂️</key>
+	<string>diz üstü çökmüş erkek</string>
+	<key>🇱🇾</key>
+	<string>Libya bayrağı</string>
+	<key>📏</key>
+	<string>düz cetvel</string>
+	<key>🇹🇿</key>
+	<string>Tanzanya bayrağı</string>
+	<key>📐</key>
+	<string>gönye</string>
+	<key>📑</key>
+	<string>yer işareti bantları</string>
+	<key>📒</key>
+	<string>muhasebe defteri</string>
+	<key>📓</key>
+	<string>kompozisyon defteri</string>
+	<key>👩‍🤝‍👩</key>
+	<string>el ele kadınlar</string>
+	<key>📔</key>
+	<string>süslü kapağı olan defter</string>
+	<key>🇩🇿</key>
+	<string>Cezayir bayrağı</string>
+	<key>📕</key>
+	<string>kırmızı ders kitabı</string>
+	<key>📖</key>
+	<string>açık kitap</string>
+	<key>📗</key>
+	<string>yeşil ders kitabı</string>
+	<key>🖌️</key>
+	<string>boya fırçası</string>
+	<key>📘</key>
+	<string>mavi ders kitabı</string>
+	<key>📙</key>
+	<string>turuncu ders kitabı</string>
+	<key>👩‍👩‍👦</key>
+	<string>iki anne ve erkek çocuktan oluşan aile</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>iki baba ve iki kız çocuktan oluşan aile</string>
+	<key>📚</key>
+	<string>kitaplar</string>
+	<key>📛</key>
+	<string>isimlik</string>
+	<key>📜</key>
+	<string>parşömen</string>
+	<key>📝</key>
+	<string>not</string>
+	<key>↖️</key>
+	<string>yukarı ve sola ok</string>
+	<key>🤦‍♂️</key>
+	<string>eliyle yüzünü kapatan erkek</string>
+	<key>📞</key>
+	<string>telefon ahizesi</string>
+	<key>👩‍🎓</key>
+	<string>kadın öğrenci</string>
+	<key>👩‍🚒</key>
+	<string>kadın itfaiyeci</string>
+	<key>⤴️</key>
+	<string>yukarı kıvrılan sağ ok</string>
+	<key>👨‍🔧</key>
+	<string>erkek tamirci</string>
+	<key>📟</key>
+	<string>çağrı cihazı</string>
+	<key>☕️</key>
+	<string>sıcak içecek</string>
+	<key>📠</key>
+	<string>faks</string>
+	<key>📡</key>
+	<string>uydu anteni</string>
+	<key>⛅️</key>
+	<string>bulutların arkasında güneş</string>
+	<key>📢</key>
+	<string>megafon</string>
+	<key>🧑‍🌾</key>
+	<string>çiftçi</string>
+	<key>✝️</key>
+	<string>Latin haçı</string>
+	<key>📣</key>
+	<string>tezahürat megafonu</string>
+	<key>📤</key>
+	<string>giden tepsisi</string>
+	<key>📥</key>
+	<string>gelen tepsisi</string>
+	<key>📦</key>
+	<string>paket</string>
+	<key>📧</key>
+	<string>e-posta</string>
+	<key>📨</key>
+	<string>gelen zarf</string>
+	<key>📩</key>
+	<string>ok işaretli zarf</string>
+	<key>▶️</key>
+	<string>sağı gösteren üçgen</string>
+	<key>🧑‍🔬</key>
+	<string>bilim insanı</string>
+	<key>📪</key>
+	<string>bayrağı aşağıda kapalı posta kutusu</string>
+	<key>☎️</key>
+	<string>sabit telefon</string>
+	<key>🈷️</key>
+	<string>“aylık miktar” anlamına gelen Japonca sembol</string>
+	<key>♦️</key>
+	<string>karo iskambil</string>
+	<key>📫</key>
+	<string>bayrağı havada kapalı posta kutusu</string>
+	<key>📬</key>
+	<string>bayrağı havada açık posta kutusu</string>
+	<key>⚾️</key>
+	<string>beyzbol</string>
+	<key>📭</key>
+	<string>bayrağı aşağıda açık posta kutusu</string>
+	<key>✖️</key>
+	<string>çarpma sembolü</string>
+	<key>📮</key>
+	<string>posta kutusu</string>
+	<key>📯</key>
+	<string>posta düdüğü</string>
+	<key>🏄‍♀️</key>
+	<string>kadın sörfçü</string>
+	<key>📰</key>
+	<string>gazete</string>
+	<key>📱</key>
+	<string>cep telefonu</string>
+	<key>🎗️</key>
+	<string>anı kurdelesi</string>
+	<key>📲</key>
+	<string>ok işaretli telefon</string>
+	<key>📳</key>
+	<string>titreşim modu</string>
+	<key>📴</key>
+	<string>cep telefonu kapalı</string>
+	<key>📵</key>
+	<string>cep telefonu kullanılmaz</string>
+	<key>♟️</key>
+	<string>satranç piyonu</string>
+	<key>📶</key>
+	<string>hücresel sinyal çubukları</string>
+	<key>📷</key>
+	<string>fotoğraf makinesi</string>
+	<key>✏️</key>
+	<string>kalem</string>
+	<key>📸</key>
+	<string>flaşlı kamera</string>
+	<key>👨‍🌾</key>
+	<string>erkek çiftçi</string>
+	<key>📹</key>
+	<string>video kamera</string>
+	<key>📺</key>
+	<string>televizyon</string>
+	<key>🐻‍❄️</key>
+	<string>kutup ayısı</string>
+	<key>📻</key>
+	<string>radyo</string>
+	<key>📼</key>
+	<string>videokaset</string>
+	<key>☀️</key>
+	<string>güneş</string>
+	<key>📿</key>
+	<string>tespih</string>
+	<key>👨‍🔬</key>
+	<string>erkek bilim insanı</string>
+	<key>🔀</key>
+	<string>parçaları karıştır sembolü</string>
+	<key>🈁</key>
+	<string>“burada” anlamına gelen Japonca kelime sembolü</string>
+	<key>⚰️</key>
+	<string>tabut</string>
+	<key>🔁</key>
+	<string>yinele sembolü</string>
+	<key>🖐️</key>
+	<string>parmakları açık havaya kalkmış el</string>
+	<key>✈️</key>
+	<string>uçak</string>
+	<key>🔂</key>
+	<string>tek parçayı yinele sembolü</string>
+	<key>🗨️</key>
+	<string>sol konuşma balonu</string>
+	<key>🔃</key>
+	<string>saat yönünde düşey oklar</string>
+	<key>🧖‍♀️</key>
+	<string>saunadaki kadın</string>
+	<key>🔄</key>
+	<string>saat yönünün tersinde oklar</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>iki anne ve iki erkek çocuktan oluşan aile</string>
+	<key>👩‍⚕️</key>
+	<string>kadın sağlık çalışanı</string>
+	<key>™️</key>
+	<string>ticari marka işareti</string>
+	<key>🔅</key>
+	<string>az parlak sembolü</string>
+	<key>🔆</key>
+	<string>çok parlak sembolü</string>
+	<key>🎙️</key>
+	<string>stüdyo mikrofonu</string>
+	<key>🔇</key>
+	<string>sessiz hoparlör</string>
+	<key>🔈</key>
+	<string>hoparlör</string>
+	<key>🛰️</key>
+	<string>uydu</string>
+	<key>🔉</key>
+	<string>orta yükseklikte sesli hoparlör</string>
+	<key>♑️</key>
+	<string>Oğlak burcu</string>
+	<key>🔊</key>
+	<string>yüksek sesli hoparlör</string>
+	<key>🔋</key>
+	<string>pil</string>
+	<key>🔌</key>
+	<string>elektrik fişi</string>
+	<key>👩‍👩‍👧</key>
+	<string>iki anne ve kız çocuktan oluşan aile</string>
+	<key>🔍</key>
+	<string>solu gösteren büyüteç</string>
+	<key>🔎</key>
+	<string>sağı gösteren büyüteç</string>
+	<key>🔏</key>
+	<string>dolma kalemli kilit</string>
+	<key>🔐</key>
+	<string>kapalı kilit ve anahtar</string>
+	<key>🔑</key>
+	<string>anahtar</string>
+	<key>🔒</key>
+	<string>kapalı kilit</string>
+	<key>🔓</key>
+	<string>açık kilit</string>
+	<key>♊️</key>
+	<string>İkizler burcu</string>
+	<key>🔔</key>
+	<string>zil</string>
+	<key>🔕</key>
+	<string>sessiz zil</string>
+	<key>⛺️</key>
+	<string>çadır</string>
+	<key>🔖</key>
+	<string>yer işareti</string>
+	<key>🔗</key>
+	<string>bağlantı sembolü</string>
+	<key>🔘</key>
+	<string>radyo düğmesi</string>
+	<key>🔙</key>
+	<string>üstünde sola doğru ok olan BACK</string>
+	<key>🔚</key>
+	<string>üstünde sola doğru ok olan END</string>
+	<key>🔛</key>
+	<string>üstünde sola ve sağa doğru ok olan ON!</string>
+	<key>🎛️</key>
+	<string>denetim düğmeleri</string>
+	<key>🔜</key>
+	<string>üstünde sağa doğru ok olan SOON</string>
+	<key>🏳️</key>
+	<string>beyaz bayrak</string>
+	<key>🔝</key>
+	<string>üstünde yukarı doğru ok olan TOP</string>
+	<key>🔞</key>
+	<string>on sekiz yaş altı sınırı</string>
+	<key>🔟</key>
+	<string>on tuşu</string>
+	<key>⚛️</key>
+	<string>atom sembolü</string>
+	<key>🔠</key>
+	<string>büyük harfler için giriş sembolü</string>
+	<key>⛳️</key>
+	<string>bayraklı golf deliği</string>
+	<key>🔡</key>
+	<string>küçük harfler için giriş sembolü</string>
+	<key>🤽‍♂️</key>
+	<string>su topu oynayan erkek</string>
+	<key>🔢</key>
+	<string>sayılar için giriş sembolü</string>
+	<key>🔣</key>
+	<string>semboller için giriş sembolü</string>
+	<key>🔤</key>
+	<string>harfler için giriş sembolü</string>
+	<key>🔥</key>
+	<string>ateş</string>
+	<key>🔦</key>
+	<string>el feneri</string>
+	<key>🔧</key>
+	<string>somun anahtarı</string>
+	<key>🔨</key>
+	<string>çekiç</string>
+	<key>🔩</key>
+	<string>somun ve cıvata</string>
+	<key>⚔️</key>
+	<string>çapraz kılıçlar</string>
+	<key>🔪</key>
+	<string>bıçak</string>
+	<key>🔫</key>
+	<string>su tabancası</string>
+	<key>❄️</key>
+	<string>kar tanesi</string>
+	<key>🔬</key>
+	<string>mikroskop</string>
+	<key>💁‍♀️</key>
+	<string>kadın danışma görevlisi</string>
+	<key>🔭</key>
+	<string>teleskop</string>
+	<key>🔮</key>
+	<string>kristal küre</string>
+	<key>🧔‍♂️</key>
+	<string>sakallı erkek</string>
+	<key>🔯</key>
+	<string>ortasında nokta olan altı köşeli yıldız</string>
+	<key>🔰</key>
+	<string>Japonca yeni başlayan sembolü</string>
+	<key>🔱</key>
+	<string>üç uçlu mızrak amblemi</string>
+	<key>🈲</key>
+	<string>“yasak” anlamına gelen Japonca sembol</string>
+	<key>🏵️</key>
+	<string>çiçek rozet</string>
+	<key>🔲</key>
+	<string>siyah kare düğme</string>
+	<key>🈳</key>
+	<string>“boş yer” anlamına gelen Japonca sembol</string>
+	<key>🔳</key>
+	<string>beyaz kare düğme</string>
+	<key>🈴</key>
+	<string>“geçer (not)” anlamına gelen Japonca sembol</string>
+	<key>🧙‍♀️</key>
+	<string>kadın büyücü</string>
+	<key>🔴</key>
+	<string>kırmızı daire</string>
+	<key>🈵</key>
+	<string>“dolu; yer yok” anlamına gelen Japonca sembol</string>
+	<key>🔵</key>
+	<string>mavi daire</string>
+	<key>🈶</key>
+	<string>“ücretsiz değil” anlamına gelen Japonca sembol</string>
+	<key>🔶</key>
+	<string>büyük turuncu baklava şekli</string>
+	<key>🔷</key>
+	<string>büyük mavi baklava şekli</string>
+	<key>🈸</key>
+	<string>“başvuru” anlamına gelen Japonca sembol</string>
+	<key>🔸</key>
+	<string>küçük turuncu baklava şekli</string>
+	<key>🈹</key>
+	<string>“indirim” anlamına gelen Japonca sembol</string>
+	<key>🔹</key>
+	<string>küçük mavi baklava şekli</string>
+	<key>9️⃣</key>
+	<string>dokuz rakamı olan tuş</string>
+	<key>🈺</key>
+	<string>“hizmete açık” anlamına gelen Japonca sembol</string>
+	<key>🔺</key>
+	<string>yukarı gösteren kırmızı üçgen</string>
+	<key>🔻</key>
+	<string>aşağı gösteren kırmızı üçgen</string>
+	<key>🀄️</key>
+	<string>kızıl ejder mahjong taşı</string>
+	<key>🔼</key>
+	<string>yukarıyı gösteren üçgen</string>
+	<key>🚵‍♀️</key>
+	<string>kadın dağ bisikletçisi</string>
+	<key>☮️</key>
+	<string>barış sembolü</string>
+	<key>🔽</key>
+	<string>aşağıyı gösteren üçgen</string>
+	<key>👨‍👦‍👦</key>
+	<string>baba ve iki erkek çocuktan oluşan aile</string>
+	<key>⬅️</key>
+	<string>sol ok</string>
+	<key>⛎</key>
+	<string>Yılancı</string>
+	<key>🎟️</key>
+	<string>giriş bileti</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>iki anne ve iki kız çocuktan oluşan aile</string>
+	<key>🏷️</key>
+	<string>etiket</string>
+	<key>2️⃣</key>
+	<string>iki rakamı olan tuş</string>
+	<key>♿️</key>
+	<string>tekerlekli sandalye sembolü</string>
+	<key>👰‍♀️</key>
+	<string>duvaklı kadın</string>
+	<key>🗃️</key>
+	<string>dosya kutusu</string>
+	<key>🕋</key>
+	<string>Kâbe</string>
+	<key>🕌</key>
+	<string>cami</string>
+	<key>🕍</key>
+	<string>sinagog</string>
+	<key>🕎</key>
+	<string>menora</string>
+	<key>👩‍🎤</key>
+	<string>kadın şarkıcı</string>
+	<key>🉐</key>
+	<string>“pazarlık” anlamına gelen Japonca sembol</string>
+	<key>🏌️</key>
+	<string>golfçü</string>
+	<key>🛋️</key>
+	<string>koltuk ve lamba</string>
+	<key>🕐</key>
+	<string>saat bir</string>
+	<key>🏊‍♀️</key>
+	<string>kadın yüzücü</string>
+	<key>🉑</key>
+	<string>“kabul edilebilir” anlamına gelen Japonca sembol</string>
+	<key>☠️</key>
+	<string>çapraz kemikler ve kafatası</string>
+	<key>🕑</key>
+	<string>saat iki</string>
+	<key>🕒</key>
+	<string>saat üç</string>
+	<key>🏋️‍♀️</key>
+	<string>kadın halterci</string>
+	<key>🕓</key>
+	<string>saat dört</string>
+	<key>🕔</key>
+	<string>saat beş</string>
+	<key>🕕</key>
+	<string>saat altı</string>
+	<key>🕖</key>
+	<string>saat yedi</string>
+	<key>🙆‍♀️</key>
+	<string>tamam anlamına gelen hareketi yapan kadın</string>
+	<key>🕗</key>
+	<string>saat sekiz</string>
+	<key>🕘</key>
+	<string>saat dokuz</string>
+	<key>🕙</key>
+	<string>saat on</string>
+	<key>🕚</key>
+	<string>saat on bir</string>
+	<key>🕛</key>
+	<string>saat on iki</string>
+	<key>🕜</key>
+	<string>bir buçuk</string>
+	<key>🇺🇦</key>
+	<string>Ukrayna bayrağı</string>
+	<key>🕝</key>
+	<string>iki buçuk</string>
+	<key>🇶🇦</key>
+	<string>Katar bayrağı</string>
+	<key>🕞</key>
+	<string>üç buçuk</string>
+	<key>✡️</key>
+	<string>Davud’un Yıldızı</string>
+	<key>🇲🇦</key>
+	<string>Fas bayrağı</string>
+	<key>🕟</key>
+	<string>dört buçuk</string>
+	<key>🧗‍♂️</key>
+	<string>erkek kaya tırmanışçısı</string>
+	<key>🕠</key>
+	<string>beş buçuk</string>
+	<key>🕡</key>
+	<string>altı buçuk</string>
+	<key>🇪🇦</key>
+	<string>Septe ve Melilla bayrağı</string>
+	<key>🕢</key>
+	<string>yedi buçuk</string>
+	<key>✅</key>
+	<string>onay işareti sembolü</string>
+	<key>🕣</key>
+	<string>sekiz buçuk</string>
+	<key>🧜‍♀️</key>
+	<string>deniz kızı</string>
+	<key>🏎️</key>
+	<string>yarış arabası</string>
+	<key>🕤</key>
+	<string>dokuz buçuk</string>
+	<key>🛍️</key>
+	<string>alışveriş çantaları</string>
+	<key>🕥</key>
+	<string>on buçuk</string>
+	<key>✊</key>
+	<string>kalkık yumruk</string>
+	<key>🇲🇨</key>
+	<string>Monako bayrağı</string>
+	<key>✋</key>
+	<string>kalkık el</string>
+	<key>🕦</key>
+	<string>on bir buçuk</string>
+	<key>🕧</key>
+	<string>on iki buçuk</string>
+	<key>🇮🇨</key>
+	<string>Kanarya Adaları bayrağı</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>Galler bayrağı</string>
+	<key>🇾🇪</key>
+	<string>Yemen bayrağı</string>
+	<key>🇪🇨</key>
+	<string>Ekvador bayrağı</string>
+	<key>👩‍🎨</key>
+	<string>kadın sanatçı</string>
+	<key>🇲🇩</key>
+	<string>Moldova bayrağı</string>
+	<key>🇦🇨</key>
+	<string>Ascension Adası bayrağı</string>
+	<key>🇮🇩</key>
+	<string>Endonezya bayrağı</string>
+	<key>🇲🇪</key>
+	<string>Karadağ bayrağı</string>
+	<key>🇦🇩</key>
+	<string>Andorra bayrağı</string>
+	<key>🇮🇪</key>
+	<string>İrlanda bayrağı</string>
+	<key>🇪🇪</key>
+	<string>Estonya bayrağı</string>
+	<key>🇲🇫</key>
+	<string>Saint Martin bayrağı</string>
+	<key>🇺🇬</key>
+	<string>Uganda bayrağı</string>
+	<key>♣️</key>
+	<string>sinek iskambil</string>
+	<key>🇦🇪</key>
+	<string>Birleşik Arap Emirlikleri bayrağı</string>
+	<key>🕯️</key>
+	<string>mum</string>
+	<key>🇲🇬</key>
+	<string>Madagaskar bayrağı</string>
+	<key>🇦🇫</key>
+	<string>Afganistan bayrağı</string>
+	<key>👮‍♂️</key>
+	<string>erkek polis</string>
+	<key>🇪🇬</key>
+	<string>Mısır bayrağı</string>
+	<key>🇲🇭</key>
+	<string>Marshall Adaları bayrağı</string>
+	<key>✨</key>
+	<string>pırıltılar</string>
+	<key>🇦🇬</key>
+	<string>Antigua ve Barbuda bayrağı</string>
+	<key>🛏️</key>
+	<string>yatak</string>
+	<key>👳‍♀️</key>
+	<string>sarıklı kadın</string>
+	<key>🇪🇭</key>
+	<string>Batı Sahra bayrağı</string>
+	<key>☄️</key>
+	<string>kuyruklu yıldız</string>
+	<key>🕺</key>
+	<string>dans eden erkek</string>
+	<key>✌️</key>
+	<string>barış işareti</string>
+	<key>❤️</key>
+	<string>kırmızı kalp</string>
+	<key>⏭️</key>
+	<string>ileriye atlama sembolü</string>
+	<key>🇦🇮</key>
+	<string>Anguilla bayrağı</string>
+	<key>🇲🇰</key>
+	<string>Kuzey Makedonya bayrağı</string>
+	<key>◽️</key>
+	<string>orta küçük beyaz kare</string>
+	<key>🇲🇱</key>
+	<string>Mali bayrağı</string>
+	<key>🈚️</key>
+	<string>“ücretsiz” anlamına gelen Japonca sembol</string>
+	<key>🇺🇲</key>
+	<string>Amerika Birleşik Devletleri Küçük Dış Adaları bayrağı</string>
+	<key>🇮🇱</key>
+	<string>İsrail bayrağı</string>
+	<key>🇲🇲</key>
+	<string>Myanmar (Burma) bayrağı</string>
+	<key>💂‍♂️</key>
+	<string>muhafız</string>
+	<key>🇺🇳</key>
+	<string>Birleşmiş Milletler bayrağı</string>
+	<key>🇦🇱</key>
+	<string>Arnavutluk bayrağı</string>
+	<key>🧑‍💻</key>
+	<string>teknolog</string>
+	<key>🇮🇲</key>
+	<string>Man Adası bayrağı</string>
+	<key>⛹️‍♂️</key>
+	<string>erkek basketbol oyuncusu</string>
+	<key>🇲🇳</key>
+	<string>Moğolistan bayrağı</string>
+	<key>🇦🇲</key>
+	<string>Ermenistan bayrağı</string>
+	<key>🇮🇳</key>
+	<string>Hindistan bayrağı</string>
+	<key>❌</key>
+	<string>çarpı işareti</string>
+	<key>💇‍♀️</key>
+	<string>saç kestiren kadın</string>
+	<key>❎</key>
+	<string>X işareti</string>
+	<key>🇲🇴</key>
+	<string>Makao bayrağı</string>
+	<key>♎️</key>
+	<string>Terazi burcu</string>
+	<key>🧚‍♂️</key>
+	<string>erkek peri</string>
+	<key>🧑‍💼</key>
+	<string>ofis çalışanı</string>
+	<key>🇮🇴</key>
+	<string>Britanya Hint Okyanusu Toprakları bayrağı</string>
+	<key>❓</key>
+	<string>kırmızı soru işareti</string>
+	<key>❔</key>
+	<string>beyaz soru işareti</string>
+	<key>🇲🇵</key>
+	<string>Kuzey Mariana Adaları bayrağı</string>
+	<key>❕</key>
+	<string>beyaz ünlem işareti</string>
+	<key>🇦🇴</key>
+	<string>Angola bayrağı</string>
+	<key>🧟‍♀️</key>
+	<string>kadın zombi</string>
+	<key>🖕</key>
+	<string>orta parmak</string>
+	<key>🇲🇶</key>
+	<string>Martinik bayrağı</string>
+	<key>🖖</key>
+	<string>orta ve yüzük parmaklarının arası açık el</string>
+	<key>🇮🇶</key>
+	<string>Irak bayrağı</string>
+	<key>🚶‍♂️</key>
+	<string>erkek yaya</string>
+	<key>🇲🇷</key>
+	<string>Moritanya bayrağı</string>
+	<key>🇺🇸</key>
+	<string>Amerika Birleşik Devletleri bayrağı</string>
+	<key>🇦🇶</key>
+	<string>Antarktika bayrağı</string>
+	<key>🇮🇷</key>
+	<string>İran bayrağı</string>
+	<key>🕳️</key>
+	<string>delik</string>
+	<key>⌨️</key>
+	<string>klavye</string>
+	<key>🇾🇹</key>
+	<string>Mayotte bayrağı</string>
+	<key>🇪🇷</key>
+	<string>Eritre bayrağı</string>
+	<key>⛷️</key>
+	<string>kayakçı</string>
+	<key>🇲🇸</key>
+	<string>Montserrat bayrağı</string>
+	<key>🇦🇷</key>
+	<string>Arjantin bayrağı</string>
+	<key>🇮🇸</key>
+	<string>İzlanda bayrağı</string>
+	<key>👨‍💻</key>
+	<string>erkek teknolog</string>
+	<key>🌤️</key>
+	<string>küçük bulut arkasında güneş</string>
+	<key>🇪🇸</key>
+	<string>İspanya bayrağı</string>
+	<key>🇲🇹</key>
+	<string>Malta bayrağı</string>
+	<key>🇦🇸</key>
+	<string>Amerikan Samoası bayrağı</string>
+	<key>🇮🇹</key>
+	<string>İtalya bayrağı</string>
+	<key>❤️‍🩹</key>
+	<string>iyileşen kalp</string>
+	<key>🏔️</key>
+	<string>karlı dağ</string>
+	<key>🇪🇹</key>
+	<string>Etiyopya bayrağı</string>
+	<key>🤷‍♀️</key>
+	<string>omuz silken kadın</string>
+	<key>🇲🇺</key>
+	<string>Mauritius bayrağı</string>
+	<key>🇦🇹</key>
+	<string>Avusturya bayrağı</string>
+	<key>🖤</key>
+	<string>siyah kalp</string>
+	<key>👩‍🦯</key>
+	<string>beyaz bastonlu kadın</string>
+	<key>👱‍♂️</key>
+	<string>sarı saçlı erkek</string>
+	<key>👨‍💼</key>
+	<string>erkek ofis çalışanı</string>
+	<key>⛰️</key>
+	<string>dağ</string>
+	<key>🇪🇺</key>
+	<string>Avrupa Birliği bayrağı</string>
+	<key>🇲🇻</key>
+	<string>Maldivler bayrağı</string>
+	<key>🇦🇺</key>
+	<string>Avustralya bayrağı</string>
+	<key>🇲🇼</key>
+	<string>Malavi bayrağı</string>
+	<key>👩‍🦰</key>
+	<string>kızıl saçlı kadın</string>
+	<key>🇲🇽</key>
+	<string>Meksika bayrağı</string>
+	<key>🇺🇾</key>
+	<string>Uruguay bayrağı</string>
+	<key>🇦🇼</key>
+	<string>Aruba bayrağı</string>
+	<key>☹️</key>
+	<string>somurtan yüz</string>
+	<key>⌚️</key>
+	<string>kol saati</string>
+	<key>🕵️</key>
+	<string>dedektif</string>
+	<key>⛩️</key>
+	<string>Şinto tapınağı</string>
+	<key>🇲🇾</key>
+	<string>Malezya bayrağı</string>
+	<key>🧎‍♀️</key>
+	<string>diz üstü çökmüş kadın</string>
+	<key>🇺🇿</key>
+	<string>Özbekistan bayrağı</string>
+	<key>🇦🇽</key>
+	<string>Åland Adaları bayrağı</string>
+	<key>👩‍🦱</key>
+	<string>kıvırcık saçlı kadın</string>
+	<key>🙇‍♂️</key>
+	<string>saygıyla selamlayan erkek</string>
+	<key>🌦️</key>
+	<string>yağmur bulutunun arkasında güneş</string>
+	<key>🇲🇿</key>
+	<string>Mozambik bayrağı</string>
+	<key>🏖️</key>
+	<string>şemsiyeli plaj</string>
+	<key>👩‍🦲</key>
+	<string>saçsız kadın</string>
+	<key>🇦🇿</key>
+	<string>Azerbaycan bayrağı</string>
+	<key>➕</key>
+	<string>artı sembolü</string>
+	<key>🕊️</key>
+	<string>güvercin</string>
+	<key>➖</key>
+	<string>eksi sembolü</string>
+	<key>➗</key>
+	<string>bölme sembolü</string>
+	<key>🗺️</key>
+	<string>dünya haritası</string>
+	<key>👩‍🦳</key>
+	<string>beyaz saçlı kadın</string>
+	<key>7️⃣</key>
+	<string>yedi rakamı olan tuş</string>
+	<key>🅰️</key>
+	<string>A kan grubu</string>
+	<key>🤦‍♀️</key>
+	<string>eliyle yüzünü kapatan kadın</string>
+	<key>🧝‍♂️</key>
+	<string>erkek elf</string>
+	<key>🕷️</key>
+	<string>örümcek</string>
+	<key>✳️</key>
+	<string>sekiz çubuklu yıldız</string>
+	<key>🌨️</key>
+	<string>karlı bulut</string>
+	<key>🦸‍♂️</key>
+	<string>erkek süper kahraman</string>
+	<key>➰</key>
+	<string>kıvrımlı halka</string>
+	<key>🏘️</key>
+	<string>bir grup ev</string>
+	<key>0️⃣</key>
+	<string>sıfır rakamı olan tuş</string>
+	<key>🤵‍♂️</key>
+	<string>smokinli erkek</string>
+	<key>⛔️</key>
+	<string>girilmez</string>
+	<key>👨‍👧‍👦</key>
+	<string>baba, erkek çocuk ve kız çocuktan oluşan aile</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>anne, baba ve iki erkek çocuktan oluşan aile</string>
+	<key>🧑‍🏫</key>
+	<string>öğretmen</string>
+	<key>➿</key>
+	<string>çift kıvrımlı halka</string>
+	<key>㊙️</key>
+	<string>“gizli” anlamına gelen Japonca sembol</string>
+	<key>☝️</key>
+	<string>yukarı gösteren işaret parmağı</string>
+	<key>🕹️</key>
+	<string>joystick</string>
+	<key>🗑️</key>
+	<string>çöp sepeti</string>
+	<key>🌪️</key>
+	<string>hortum</string>
+	<key>🧑‍🏭</key>
+	<string>fabrika işçisi</string>
+	<key>↗️</key>
+	<string>yukarı ve sağa ok</string>
+	<key>⤵️</key>
+	<string>aşağı kıvrılan sağ ok</string>
+	<key>🏚️</key>
+	<string>harabe ev</string>
+	<key>©️</key>
+	<string>telif hakkı işareti</string>
+	<key>👨‍🏫</key>
+	<string>erkek öğretmen</string>
+	<key>🗓️</key>
+	<string>spiralli takvim</string>
+	<key>⏸️</key>
+	<string>duraklat sembolü</string>
+	<key>🧑‍✈️</key>
+	<string>pilot</string>
+	<key>🌬️</key>
+	<string>rüzgâr üfleyen yüz</string>
+	<key>👨‍🏭</key>
+	<string>erkek fabrika işçisi</string>
+	<key>🏜️</key>
+	<string>çöl</string>
+	<key>♠️</key>
+	<string>maça iskambil</string>
+	<key>🖨️</key>
+	<string>yazıcı</string>
+	<key>⏱️</key>
+	<string>kronometre</string>
+	<key>👩‍🦼</key>
+	<string>elektrikli tekerlekli sandalyede kadın</string>
+	<key>🗻</key>
+	<string>Fuji dağı</string>
+	<key>🫱‍🫲</key>
+	<string>tokalaşma</string>
+	<key>🗼</key>
+	<string>Tokyo kulesi</string>
+	<key>🗽</key>
+	<string>Özgürlük Heykeli</string>
+	<key>🗾</key>
+	<string>Japonya silüeti</string>
+	<key>🤸‍♂️</key>
+	<string>perende atan erkek</string>
+	<key>🌀</key>
+	<string>siklon</string>
+	<key>🗿</key>
+	<string>Paskalya Adası heykeli</string>
+	<key>☁️</key>
+	<string>bulutlu</string>
+	<key>🌁</key>
+	<string>sis altında köprü</string>
+	<key>😀</key>
+	<string>sırıtan yüz</string>
+	<key>👩‍🦽</key>
+	<string>tekerlekli sandalyede kadın</string>
+	<key>🌂</key>
+	<string>kapalı şemsiye</string>
+	<key>😁</key>
+	<string>gülümseyen gözlerle sevinçle parlayan yüz</string>
+	<key>⚱️</key>
+	<string>ölü külü küpü</string>
+	<key>🌃</key>
+	<string>yıldızlı gece</string>
+	<key>😂</key>
+	<string>sevinç gözyaşları döken yüz</string>
+	<key>✉️</key>
+	<string>zarf</string>
+	<key>👨‍👧‍👧</key>
+	<string>baba ve iki kız çocuktan oluşan aile</string>
+	<key>🤽‍♀️</key>
+	<string>su topu oynayan kadın</string>
+	<key>🌄</key>
+	<string>dağların arasından gün doğumu</string>
+	<key>😃</key>
+	<string>gözleri fal taşı gibi açılmış sırıtan yüz</string>
+	<key>🌅</key>
+	<string>gün doğumu</string>
+	<key>😄</key>
+	<string>gözlerinin içi gülen sırıtan yüz</string>
+	<key>👷‍♂️</key>
+	<string>erkek inşaat işçisi</string>
+	<key>👨‍✈️</key>
+	<string>erkek pilot</string>
+	<key>🌆</key>
+	<string>alacakaranlıkta şehir manzarası</string>
+	<key>😅</key>
+	<string>ter döken sırıtan yüz</string>
+	<key>🌇</key>
+	<string>binaların arasından gün batımı</string>
+	<key>😆</key>
+	<string>kısık gözlerle sırıtan yüz</string>
+	<key>🌈</key>
+	<string>gökkuşağı</string>
+	<key>😇</key>
+	<string>haleli gülen yüz</string>
+	<key>🌉</key>
+	<string>gece köprü</string>
+	<key>😈</key>
+	<string>boynuzları olan gülen yüz</string>
+	<key>🏞️</key>
+	<string>ulusal park</string>
+	<key>🌊</key>
+	<string>dalga</string>
+	<key>😉</key>
+	<string>göz kırpan yüz</string>
+	<key>🌋</key>
+	<string>volkan</string>
+	<key>😊</key>
+	<string>gözlerinin içi gülen yüz</string>
+	<key>♒️</key>
+	<string>Kova burcu</string>
+	<key>🌌</key>
+	<string>Samanyolu</string>
+	<key>😋</key>
+	<string>dudaklarını yalayan gülen yüz</string>
+	<key>⚪️</key>
+	<string>beyaz daire</string>
+	<key>🌍</key>
+	<string>Avrupa’yı ve Afrika’yı gösteren yerküre</string>
+	<key>😌</key>
+	<string>rahatlamış yüz</string>
+	<key>🧏‍♂️</key>
+	<string>Sağır erkek</string>
+	<key>✂️</key>
+	<string>makas</string>
+	<key>🌎</key>
+	<string>Amerika kıtalarını gösteren yerküre</string>
+	<key>🤌</key>
+	<string>kıstırma hareketi yapan parmaklar</string>
+	<key>😍</key>
+	<string>kalp şeklinde gözleri olan gülen yüz</string>
+	<key>🌏</key>
+	<string>Asya’yı ve Avustralya’yı gösteren yerküre</string>
+	<key>🤍</key>
+	<string>beyaz kalp</string>
+	<key>😎</key>
+	<string>güneş gözlüklü gülen yüz</string>
+	<key>🌐</key>
+	<string>meridyen çizgili yerküre</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>anne, baba ve iki kız çocuktan oluşan aile</string>
+	<key>🤎</key>
+	<string>kahverengi kalp</string>
+	<key>😏</key>
+	<string>sırıtan yüz</string>
+	<key>🌑</key>
+	<string>yeni ay</string>
+	<key>🤏</key>
+	<string>kıstırma hareketi yapan el</string>
+	<key>😐</key>
+	<string>nötr yüz</string>
+	<key>🧔‍♀️</key>
+	<string>sakallı kadın</string>
+	<key>🌒</key>
+	<string>büyüyen hilal</string>
+	<key>🤐</key>
+	<string>ağzı fermuarlı yüz</string>
+	<key>😑</key>
+	<string>ifadesiz yüz</string>
+	<key>🙍‍♂️</key>
+	<string>somurtan erkek</string>
+	<key>🌓</key>
+	<string>ilk dördün ay</string>
+	<key>🤑</key>
+	<string>dilinde ve gözlerinde para işareti olan yüz</string>
+	<key>😒</key>
+	<string>neşesiz yüz</string>
+	<key>🌔</key>
+	<string>büyüyen şişkin ay</string>
+	<key>🤒</key>
+	<string>termometreli yüz</string>
+	<key>😓</key>
+	<string>ter döken üzgün yüz</string>
+	<key>🌕</key>
+	<string>dolunay</string>
+	<key>🤓</key>
+	<string>gözlüklü gülen yüz</string>
+	<key>😔</key>
+	<string>üzgün ve dalgın yüz</string>
+	<key>♋️</key>
+	<string>Yengeç burcu</string>
+	<key>🌖</key>
+	<string>küçülen şişkin ay</string>
+	<key>🤔</key>
+	<string>düşünen yüz</string>
+	<key>😕</key>
+	<string>kafası karışık yüz</string>
+	<key>🌗</key>
+	<string>son dördün ay</string>
+	<key>🤕</key>
+	<string>kafası bandajlı yüz</string>
+	<key>😖</key>
+	<string>kafası karışmış yüz</string>
+	<key>🌘</key>
+	<string>küçülen hilal</string>
+	<key>🤖</key>
+	<string>robot yüzü</string>
+	<key>😗</key>
+	<string>öpen yüz</string>
+	<key>🌙</key>
+	<string>hilal</string>
+	<key>🤗</key>
+	<string>sarılan yüz</string>
+	<key>😘</key>
+	<string>öpücük gönderen yüz</string>
+	<key>🌚</key>
+	<string>yüzü olan yeni ay</string>
+	<key>🤘</key>
+	<string>boynuz işareti</string>
+	<key>😙</key>
+	<string>gülümseyen gözlerle öpen yüz</string>
+	<key>🌛</key>
+	<string>yüzü olan ilk dördün ay</string>
+	<key>🤙</key>
+	<string>ara beni el işareti</string>
+	<key>😚</key>
+	<string>kapalı gözlerle öpen yüz</string>
+</dict>
+</plist>

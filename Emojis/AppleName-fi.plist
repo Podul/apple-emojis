@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>vähenevän puolikuun kasvot</string>
+	<key>🤚</key>
+	<string>kämmenselkä</string>
+	<key>😛</key>
+	<string>kasvot ja ulostyönnetty kieli</string>
+	<key>👩‍🔧</key>
+	<string>naismekaanikko</string>
+	<key>🌝</key>
+	<string>täydenkuun kasvot</string>
+	<key>🤛</key>
+	<string>vasemmalle osoittava nyrkki</string>
+	<key>😜</key>
+	<string>silmää iskevät kasvot ja ulostyönnetty kieli</string>
+	<key>🌞</key>
+	<string>auringon kasvot</string>
+	<key>🤜</key>
+	<string>oikealle osoittava nyrkki</string>
+	<key>😝</key>
+	<string>kasvoilla siristetyt silmät ja kieli ulkona</string>
+	<key>🌟</key>
+	<string>loistava tähti</string>
+	<key>🤝</key>
+	<string>kättely</string>
+	<key>😞</key>
+	<string>pettyneet kasvot</string>
+	<key>🌠</key>
+	<string>tähdenlento</string>
+	<key>🤞</key>
+	<string>sormet ristissä</string>
+	<key>😟</key>
+	<string>huolestuneet kasvot</string>
+	<key>🐈‍⬛</key>
+	<string>musta kissa</string>
+	<key>🤟</key>
+	<string>rakastan sinua -ele</string>
+	<key>😠</key>
+	<string>vihaiset kasvot</string>
+	<key>⚜️</key>
+	<string>ranskan lilja</string>
+	<key>⛴️</key>
+	<string>lautta</string>
+	<key>🤠</key>
+	<string>cowboyn pää</string>
+	<key>😡</key>
+	<string>punaiset vihaiset kasvot</string>
+	<key>🤡</key>
+	<string>pellen pää</string>
+	<key>😢</key>
+	<string>itkevät kasvot</string>
+	<key>⬛️</key>
+	<string>suuri musta neliö</string>
+	<key>🤢</key>
+	<string>pahoinvoivat kasvot</string>
+	<key>😣</key>
+	<string>sinnikkäät kasvot</string>
+	<key>🤣</key>
+	<string>kieriskellä lattialla kasvot nauraen</string>
+	<key>😤</key>
+	<string>kasvot ja vuotava nenä</string>
+	<key>🤤</key>
+	<string>kuolaavat kasvot</string>
+	<key>😥</key>
+	<string>surulliset, mutta helpottuneet kasvot</string>
+	<key>🤥</key>
+	<string>valehtelevat kasvot</string>
+	<key>😦</key>
+	<string>onnettomat kasvot, suu avoimena</string>
+	<key>🤦</key>
+	<string>henkilö käsi kasvoilla</string>
+	<key>😧</key>
+	<string>tuskaiset kasvot</string>
+	<key>🤧</key>
+	<string>aivastavat kasvot</string>
+	<key>😨</key>
+	<string>pelokkaat kasvot</string>
+	<key>🤨</key>
+	<string>kulmakarva kohollaan</string>
+	<key>😩</key>
+	<string>uupuneet kasvot</string>
+	<key>🤩</key>
+	<string>tähtisilmät</string>
+	<key>⚕️</key>
+	<string>Asklepioksen sauva</string>
+	<key>😪</key>
+	<string>uneliaat kasvot</string>
+	<key>👁️‍🗨️</key>
+	<string>Minä todistan</string>
+	<key>🤪</key>
+	<string>hassuttelevat kasvot</string>
+	<key>😫</key>
+	<string>järkyttyneet kasvot</string>
+	<key>🌭</key>
+	<string>hot dog</string>
+	<key>🤫</key>
+	<string>hyssyttelevät kasvot</string>
+	<key>😬</key>
+	<string>irvistävät kasvot</string>
+	<key>🌮</key>
+	<string>taco</string>
+	<key>🤬</key>
+	<string>symboleita suun edessä</string>
+	<key>😭</key>
+	<string>ääneen itkevät kasvot</string>
+	<key>🌯</key>
+	<string>burrito</string>
+	<key>🤭</key>
+	<string>kasvot, joissa hymyilevät silmät ja käsi suun edessä</string>
+	<key>😮</key>
+	<string>yllättyneet kasvot, suu avoimena</string>
+	<key>🌰</key>
+	<string>kastanja</string>
+	<key>🤮</key>
+	<string>oksentavat kasvot</string>
+	<key>😯</key>
+	<string>yllättyneet kasvot</string>
+	<key>🌱</key>
+	<string>taimi</string>
+	<key>🤯</key>
+	<string>räjähtävä pää</string>
+	<key>😰</key>
+	<string>pelokkaat hikoilevat kasvot</string>
+	<key>🌲</key>
+	<string>ikivihreä puu</string>
+	<key>🤰</key>
+	<string>raskaana oleva nainen</string>
+	<key>😱</key>
+	<string>pelosta huutavat kasvot</string>
+	<key>🌳</key>
+	<string>puu</string>
+	<key>🤱</key>
+	<string>imetys</string>
+	<key>😲</key>
+	<string>hämmästyneet kasvot</string>
+	<key>🛡️</key>
+	<string>kilpi</string>
+	<key>🌴</key>
+	<string>palmu</string>
+	<key>🤲</key>
+	<string>kämmenet ylöspäin</string>
+	<key>😳</key>
+	<string>silmät suurina olevat kasvot</string>
+	<key>🌵</key>
+	<string>kaktus</string>
+	<key>🤳</key>
+	<string>selfie</string>
+	<key>😴</key>
+	<string>nukkuvat kasvot</string>
+	<key>🤴</key>
+	<string>prinssi</string>
+	<key>😵</key>
+	<string>huimaantuneet kasvot</string>
+	<key>👩‍🌾</key>
+	<string>naismaanviljelijä</string>
+	<key>🌷</key>
+	<string>tulppaani</string>
+	<key>🤵</key>
+	<string>smokkipukuinen henkilö</string>
+	<key>😶</key>
+	<string>kasvot ilman suuta</string>
+	<key>🌸</key>
+	<string>kirsikankukka</string>
+	<key>🤶</key>
+	<string>Joulumuori</string>
+	<key>😷</key>
+	<string>kasvoilla hengityssuojain</string>
+	<key>🌹</key>
+	<string>ruusu</string>
+	<key>🤷</key>
+	<string>henkilö kohauttaa olkapäitään</string>
+	<key>😸</key>
+	<string>leveästi hymyilevän kissan naama</string>
+	<key>🌺</key>
+	<string>kiinanruusu</string>
+	<key>🤸</key>
+	<string>henkilö tekee kärrynpyörän</string>
+	<key>😹</key>
+	<string>kissan naama ja ilon kyyneleet</string>
+	<key>🌻</key>
+	<string>auringonkukka</string>
+	<key>🤹</key>
+	<string>jonglööri</string>
+	<key>😺</key>
+	<string>onnelliset kissan kasvot</string>
+	<key>🌼</key>
+	<string>kukka</string>
+	<key>🤺</key>
+	<string>miekkailija</string>
+	<key>😻</key>
+	<string>hymyilevä kissa, jolla sydämenmuotoiset silmät</string>
+	<key>🌽</key>
+	<string>maissintähkä</string>
+	<key>😼</key>
+	<string>omahyväiset kissan kasvot</string>
+	<key>🇿🇦</key>
+	<string>Etelä-Afrikan lippu</string>
+	<key>👩‍🔬</key>
+	<string>naistieteilijä</string>
+	<key>🌾</key>
+	<string>riisintähkä</string>
+	<key>🤼</key>
+	<string>painijat</string>
+	<key>😽</key>
+	<string>pussaavan kissan kasvot</string>
+	<key>🇻🇦</key>
+	<string>Vatikaanin lippu</string>
+	<key>🌿</key>
+	<string>yrtti</string>
+	<key>🤽</key>
+	<string>vesipallon pelaaja</string>
+	<key>😾</key>
+	<string>murjottava kissan pää</string>
+	<key>☯️</key>
+	<string>jin-jang</string>
+	<key>🍀</key>
+	<string>neliapila</string>
+	<key>🤾</key>
+	<string>käsipallon pelaaja</string>
+	<key>😿</key>
+	<string>itkevät kissan kasvot</string>
+	<key>🍁</key>
+	<string>vaahteranlehti</string>
+	<key>🤿</key>
+	<string>sukellusmaski</string>
+	<key>🧑‍🍳</key>
+	<string>kokki</string>
+	<key>🇳🇦</key>
+	<string>Namibian lippu</string>
+	<key>🙀</key>
+	<string>pelosta huutavan kissan kasvot</string>
+	<key>🧗‍♀️</key>
+	<string>naisvuorikiipeilijä</string>
+	<key>⁉️</key>
+	<string>punainen huuto- ja kysymysmerkki</string>
+	<key>🍂</key>
+	<string>pudonneet lehdet</string>
+	<key>🥀</key>
+	<string>nuutunut ruusu</string>
+	<key>🙁</key>
+	<string>hivenen onnettomat kasvot</string>
+	<key>🍃</key>
+	<string>tuulessa leijailevat lehdet</string>
+	<key>🥁</key>
+	<string>rumpu</string>
+	<key>🙂</key>
+	<string>hienoisesti hymyilevät kasvot</string>
+	<key>⬆️</key>
+	<string>nuoli ylös</string>
+	<key>🍄</key>
+	<string>sieni</string>
+	<key>🥂</key>
+	<string>kilisevät lasit</string>
+	<key>🙃</key>
+	<string>kasvot ylösalaisin</string>
+	<key>5️⃣</key>
+	<string>näppäin viisi</string>
+	<key>🍅</key>
+	<string>tomaatti</string>
+	<key>🥃</key>
+	<string>juomalasi</string>
+	<key>🙄</key>
+	<string>silmät ymmyrkäisinä</string>
+	<key>🇻🇨</key>
+	<string>Saint Vincent ja Grenadiinien lippu</string>
+	<key>🇧🇦</key>
+	<string>Bosnia ja Hertsegovinan lippu</string>
+	<key>↩️</key>
+	<string>vasemmalle kaartuva oikea nuoli</string>
+	<key>🍆</key>
+	<string>munakoiso</string>
+	<key>🥄</key>
+	<string>lusikka</string>
+	<key>🙅</key>
+	<string>henkilö, joka tekee ei-merkin</string>
+	<key>🍇</key>
+	<string>rypäleet</string>
+	<key>🥅</key>
+	<string>maaliverkko</string>
+	<key>🙆</key>
+	<string>henkilö, joka tekee ok-merkin</string>
+	<key>🛣️</key>
+	<string>moottoritie</string>
+	<key>🍈</key>
+	<string>meloni</string>
+	<key>🙇</key>
+	<string>kumartava henkilö</string>
+	<key>🇳🇨</key>
+	<string>Uuden-Kaledonian lippu</string>
+	<key>🍉</key>
+	<string>vesimeloni</string>
+	<key>🇧🇧</key>
+	<string>Barbadosin lippu</string>
+	<key>🥇</key>
+	<string>kultamitali</string>
+	<key>🙈</key>
+	<string>pahaa näkemätön apina</string>
+	<key>🍊</key>
+	<string>mandariini</string>
+	<key>🥈</key>
+	<string>hopeamitali</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>Skotlannin lippu</string>
+	<key>🙉</key>
+	<string>pahaa kuulematon apina</string>
+	<key>🍋</key>
+	<string>sitruuna</string>
+	<key>🥉</key>
+	<string>pronssimitali</string>
+	<key>🙊</key>
+	<string>pahaa puhumaton apina</string>
+	<key>🍌</key>
+	<string>banaani</string>
+	<key>🥊</key>
+	<string>nyrkkeilyhansikas</string>
+	<key>🇻🇪</key>
+	<string>Venezuelan lippu</string>
+	<key>🙋</key>
+	<string>henkilö käsi pystyssä</string>
+	<key>🍍</key>
+	<string>ananas</string>
+	<key>🥋</key>
+	<string>kamppailulajiasu</string>
+	<key>🙌</key>
+	<string>tuulettavat kädet</string>
+	<key>🇷🇪</key>
+	<string>Réunionin lippu</string>
+	<key>🍎</key>
+	<string>punainen omena</string>
+	<key>🥌</key>
+	<string>curlingkivi</string>
+	<key>🙍</key>
+	<string>onneton henkilö</string>
+	<key>🍏</key>
+	<string>vihreä omena</string>
+	<key>🇳🇪</key>
+	<string>Nigerin lippu</string>
+	<key>🥍</key>
+	<string>haavipallo ja -maila</string>
+	<key>🙎</key>
+	<string>murjottava henkilö</string>
+	<key>🅾️</key>
+	<string>veriryhmä O</string>
+	<key>🇧🇩</key>
+	<string>Bangladeshin lippu</string>
+	<key>🍐</key>
+	<string>päärynä</string>
+	<key>🥎</key>
+	<string>softball</string>
+	<key>🇯🇪</key>
+	<string>Jerseyn lippu</string>
+	<key>🙏</key>
+	<string>yhteen puristetut kädet</string>
+	<key>🍑</key>
+	<string>persikka</string>
+	<key>🥏</key>
+	<string>liitokiekko</string>
+	<key>🍒</key>
+	<string>kirsikat</string>
+	<key>🥐</key>
+	<string>voisarvi</string>
+	<key>🇳🇫</key>
+	<string>Norfolkinsaaren lippu</string>
+	<key>🍓</key>
+	<string>mansikka</string>
+	<key>🇻🇬</key>
+	<string>Brittiläisten Neitsytsaarten lippu</string>
+	<key>🇧🇪</key>
+	<string>Belgian lippu</string>
+	<key>🥑</key>
+	<string>avokado</string>
+	<key>🍔</key>
+	<string>hampurilainen</string>
+	<key>🥒</key>
+	<string>kurkku</string>
+	<key>⛑️</key>
+	<string>kypärä, jossa valkoinen risti</string>
+	<key>🍕</key>
+	<string>pizza</string>
+	<key>🥓</key>
+	<string>pekoni</string>
+	<key>🇳🇬</key>
+	<string>Nigerian lippu</string>
+	<key>🍖</key>
+	<string>lihaa luussa</string>
+	<key>🥔</key>
+	<string>peruna</string>
+	<key>👨‍🍳</key>
+	<string>mieskokki</string>
+	<key>🇧🇫</key>
+	<string>Burkina Fason lippu</string>
+	<key>🍗</key>
+	<string>kanankoipi</string>
+	<key>👮‍♀️</key>
+	<string>naispoliisi</string>
+	<key>🥕</key>
+	<string>porkkana</string>
+	<key>⭐️</key>
+	<string>tähti</string>
+	<key>🍘</key>
+	<string>riisikeksi</string>
+	<key>🥖</key>
+	<string>patonki</string>
+	<key>🗝️</key>
+	<string>vanha avain</string>
+	<key>🌶️</key>
+	<string>chili</string>
+	<key>🍙</key>
+	<string>riisipallo</string>
+	<key>🥗</key>
+	<string>vihreä salaatti</string>
+	<key>🏃‍♂️</key>
+	<string>miesjuoksija</string>
+	<key>🇻🇮</key>
+	<string>Yhdysvaltain Neitsytsaarten lippu</string>
+	<key>🇧🇬</key>
+	<string>Bulgarian lippu</string>
+	<key>🍚</key>
+	<string>keitetty riisi</string>
+	<key>🥘</key>
+	<string>pannuruoka</string>
+	<key>🍛</key>
+	<string>currya ja riisiä</string>
+	<key>🥙</key>
+	<string>pitaleipä</string>
+	<key>🍜</key>
+	<string>höyryävä kuppi</string>
+	<key>🥚</key>
+	<string>kananmuna</string>
+	<key>🛥️</key>
+	<string>moottorivene</string>
+	<key>🇳🇮</key>
+	<string>Nicaraguan lippu</string>
+	<key>🍝</key>
+	<string>spagetti</string>
+	<key>🥛</key>
+	<string>maitolasi</string>
+	<key>🇧🇭</key>
+	<string>Bahrainin lippu</string>
+	<key>🍞</key>
+	<string>leipä</string>
+	<key>🥜</key>
+	<string>maapähkinät</string>
+	<key>🍟</key>
+	<string>ranskalaiset perunat</string>
+	<key>👨‍👨‍👦</key>
+	<string>perhe, jossa on kaksi isää ja poika</string>
+	<key>🥝</key>
+	<string>kiivi</string>
+	<key>🇫🇮</key>
+	<string>Suomen lippu</string>
+	<key>🤾‍♂️</key>
+	<string>mies pelaa käsipalloa</string>
+	<key>🍠</key>
+	<string>paahdettu bataatti</string>
+	<key>🖲️</key>
+	<string>ohjauspallo</string>
+	<key>🥞</key>
+	<string>letut</string>
+	<key>🇧🇮</key>
+	<string>Burundin lippu</string>
+	<key>🍡</key>
+	<string>dango</string>
+	<key>🥟</key>
+	<string>taikinanyytti</string>
+	<key>🍢</key>
+	<string>oden-varras</string>
+	<key>🥠</key>
+	<string>onnenkeksi</string>
+	<key>🇫🇯</key>
+	<string>Fidžin lippu</string>
+	<key>🍣</key>
+	<string>sushi</string>
+	<key>🥡</key>
+	<string>ateriarasia</string>
+	<key>🍤</key>
+	<string>uppopaistettu katkarapu</string>
+	<key>🥢</key>
+	<string>syömäpuikot</string>
+	<key>🇧🇯</key>
+	<string>Beninin lippu</string>
+	<key>↔️</key>
+	<string>vasemmalle ja oikealle osoittava nuoli</string>
+	<key>🍥</key>
+	<string>kalamurekepihvi, jossa on pyörre</string>
+	<key>🥣</key>
+	<string>kulho ja lusikka</string>
+	<key>🍦</key>
+	<string>pehmis</string>
+	<key>🇿🇲</key>
+	<string>Sambian lippu</string>
+	<key>🇫🇰</key>
+	<string>Falklandinsaarten lippu</string>
+	<key>🥤</key>
+	<string>noutojuomakuppi</string>
+	<key>🏌️‍♀️</key>
+	<string>naisgolfaaja</string>
+	<key>🇳🇱</key>
+	<string>Alankomaiden lippu</string>
+	<key>🍧</key>
+	<string>jäähilejälkiruoka</string>
+	<key>🥥</key>
+	<string>kookospähkinä</string>
+	<key>🍨</key>
+	<string>jäätelö</string>
+	<key>🥦</key>
+	<string>parsakaali</string>
+	<key>🍩</key>
+	<string>donitsi</string>
+	<key>🥧</key>
+	<string>piirakka</string>
+	<key>🖇️</key>
+	<string>yhteen liitetyt paperiliittimet</string>
+	<key>🍪</key>
+	<string>keksi</string>
+	<key>🥨</key>
+	<string>rinkeli</string>
+	<key>🇻🇳</key>
+	<string>Vietnamin lippu</string>
+	<key>💂‍♀️</key>
+	<string>naisvartija</string>
+	<key>🇧🇱</key>
+	<string>Saint-Barthélemyn lippu</string>
+	<key>🍫</key>
+	<string>suklaalevy</string>
+	<key>🇯🇲</key>
+	<string>Jamaikan lippu</string>
+	<key>🥩</key>
+	<string>pihvi</string>
+	<key>🍬</key>
+	<string>karkki</string>
+	<key>🥪</key>
+	<string>voileipä</string>
+	<key>⛹️‍♀️</key>
+	<string>naiskoripalloilija</string>
+	<key>🍭</key>
+	<string>tikkari</string>
+	<key>🇫🇲</key>
+	<string>Mikronesian lippu</string>
+	<key>🥫</key>
+	<string>säilykeruoka</string>
+	<key>🍮</key>
+	<string>vanukas</string>
+	<key>👨‍❤️‍👨</key>
+	<string>kaksi miestä ja sydän</string>
+	<key>🥬</key>
+	<string>lehtivihannekset</string>
+	<key>🇧🇲</key>
+	<string>Bermudan lippu</string>
+	<key>🍯</key>
+	<string>hunajapurkki</string>
+	<key>🥭</key>
+	<string>mango</string>
+	<key>🇷🇴</key>
+	<string>Romanian lippu</string>
+	<key>🍰</key>
+	<string>täytekakku</string>
+	<key>🥮</key>
+	<string>kuukakku</string>
+	<key>🍱</key>
+	<string>bento-laatikko</string>
+	<key>🇳🇴</key>
+	<string>Norjan lippu</string>
+	<key>🥯</key>
+	<string>vesirinkeli</string>
+	<key>🇧🇳</key>
+	<string>Brunein lippu</string>
+	<key>🧚‍♀️</key>
+	<string>naiskeiju</string>
+	<key>🍲</key>
+	<string>kattilallinen ruokaa</string>
+	<key>🇯🇴</key>
+	<string>Jordanian lippu</string>
+	<key>🥰</key>
+	<string>hymy ja kolme sydäntä</string>
+	<key>🍳</key>
+	<string>ruoanlaitto</string>
+	<key>🥱</key>
+	<string>haukottelevat kasvot</string>
+	<key>🇫🇴</key>
+	<string>Färsaarten lippu</string>
+	<key>🍴</key>
+	<string>haarukka ja veitsi</string>
+	<key>🥲</key>
+	<string>hymy ja kyynel</string>
+	<key>🇳🇵</key>
+	<string>Nepalin lippu</string>
+	<key>✔️</key>
+	<string>valintamerkki</string>
+	<key>🍵</key>
+	<string>teekuppi ilman kahvaa</string>
+	<key>🥳</key>
+	<string>juhlivat kasvot</string>
+	<key>🇧🇴</key>
+	<string>Bolivian lippu</string>
+	<key>🇯🇵</key>
+	<string>Japanin lippu</string>
+	<key>🍶</key>
+	<string>sake-pullo ja kuppi</string>
+	<key>🥴</key>
+	<string>tokkurainen</string>
+	<key>🍷</key>
+	<string>viinilasi</string>
+	<key>🥵</key>
+	<string>kuumottava</string>
+	<key>🍸</key>
+	<string>cocktaillasi</string>
+	<key>🥶</key>
+	<string>paleleva</string>
+	<key>🍹</key>
+	<string>trooppinen juoma</string>
+	<key>🥷</key>
+	<string>ninja</string>
+	<key>🍺</key>
+	<string>oluttuoppi</string>
+	<key>🥸</key>
+	<string>naamioituneet kasvot</string>
+	<key>🚶‍♀️</key>
+	<string>naisjalankulkija</string>
+	<key>🍻</key>
+	<string>kilisevät oluttuopit</string>
+	<key>🥹</key>
+	<string>kyyneleitä pidättelevät hymyilevät kasvot</string>
+	<key>🇳🇷</key>
+	<string>Naurun lippu</string>
+	<key>🍼</key>
+	<string>tuttipullo</string>
+	<key>🇧🇶</key>
+	<string>Bonairen lippu</string>
+	<key>🥺</key>
+	<string>anova</string>
+	<key>🧑‍🍼</key>
+	<string>vauvaa syöttävä henkilö</string>
+	<key>🥻</key>
+	<string>sari</string>
+	<key>🇷🇸</key>
+	<string>Serbian lippu</string>
+	<key>🍾</key>
+	<string>pullo, jonka korkki poksahtaa</string>
+	<key>🇫🇷</key>
+	<string>Ranskan lippu</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>mies ja nainen suutelevat</string>
+	<key>🥼</key>
+	<string>laboratoriotakki</string>
+	<key>✍️</key>
+	<string>kirjoittava käsi</string>
+	<key>🍿</key>
+	<string>popcorn</string>
+	<key>🥽</key>
+	<string>suojalasit</string>
+	<key>🇧🇷</key>
+	<string>Brasilian lippu</string>
+	<key>🗡️</key>
+	<string>tikari</string>
+	<key>⏮️</key>
+	<string>ohita taaksepäin -symboli</string>
+	<key>🎀</key>
+	<string>rusetti</string>
+	<key>🥾</key>
+	<string>vaelluskenkä</string>
+	<key>🎁</key>
+	<string>lahja</string>
+	<key>🥿</key>
+	<string>tasapohjainen kenkä</string>
+	<key>🚀</key>
+	<string>raketti</string>
+	<key>🎂</key>
+	<string>syntymäpäiväkakku</string>
+	<key>🦀</key>
+	<string>rapu</string>
+	<key>🚁</key>
+	<string>helikopteri</string>
+	<key>🇻🇺</key>
+	<string>Vanuatun lippu</string>
+	<key>🇧🇸</key>
+	<string>Bahaman lippu</string>
+	<key>🎃</key>
+	<string>kurpitsalyhty</string>
+	<key>🕵️‍♀️</key>
+	<string>naisetsivä</string>
+	<key>🦁</key>
+	<string>leijonan pää</string>
+	<key>🚂</key>
+	<string>höyryveturi</string>
+	<key>🎄</key>
+	<string>joulukuusi</string>
+	<key>🇷🇺</key>
+	<string>Venäjän lippu</string>
+	<key>🦂</key>
+	<string>skorpioni</string>
+	<key>🚃</key>
+	<string>junanvaunu</string>
+	<key>🎅</key>
+	<string>Joulupukki</string>
+	<key>🦃</key>
+	<string>kalkkuna</string>
+	<key>🚄</key>
+	<string>luotijuna</string>
+	<key>🇳🇺</key>
+	<string>Niuen lippu</string>
+	<key>🛩️</key>
+	<string>pienkone</string>
+	<key>◾️</key>
+	<string>musta keskikokoinen pikkuneliö</string>
+	<key>🎆</key>
+	<string>ilotulitus</string>
+	<key>🇧🇹</key>
+	<string>Bhutanin lippu</string>
+	<key>🦄</key>
+	<string>yksisarvinen</string>
+	<key>🚅</key>
+	<string>luotijuna luodinmuotoisella nokalla</string>
+	<key>🎇</key>
+	<string>tähtisadetikku</string>
+	<key>🦅</key>
+	<string>kotka</string>
+	<key>🚆</key>
+	<string>juna</string>
+	<key>👱‍♀️</key>
+	<string>vaaleahiuksinen nainen</string>
+	<key>🎈</key>
+	<string>ilmapallo</string>
+	<key>🇿🇼</key>
+	<string>Zimbabwen lippu</string>
+	<key>🦆</key>
+	<string>sorsa</string>
+	<key>🚇</key>
+	<string>metro</string>
+	<key>😮‍💨</key>
+	<string>uloshengittävät kasvot</string>
+	<key>🎉</key>
+	<string>paukkuserpentiini</string>
+	<key>🦇</key>
+	<string>lepakko</string>
+	<key>🚈</key>
+	<string>lähijuna</string>
+	<key>🎊</key>
+	<string>konfettipallo</string>
+	<key>🦈</key>
+	<string>hai</string>
+	<key>🚉</key>
+	<string>asema</string>
+	<key>🇷🇼</key>
+	<string>Ruandan lippu</string>
+	<key>🎋</key>
+	<string>tanabata-puu</string>
+	<key>🦉</key>
+	<string>pöllö</string>
+	<key>🚊</key>
+	<string>raitiovaunu</string>
+	<key>🎌</key>
+	<string>ristikkäiset liput</string>
+	<key>🦊</key>
+	<string>ketun pää</string>
+	<key>🚋</key>
+	<string>raitiovaunu</string>
+	<key>🎍</key>
+	<string>japanilainen ovikoriste</string>
+	<key>🇧🇻</key>
+	<string>Bouvet’nsaaren lippu</string>
+	<key>🦋</key>
+	<string>perhonen</string>
+	<key>🚌</key>
+	<string>bussi</string>
+	<key>🎎</key>
+	<string>Japanilaiset nuket</string>
+	<key>🦌</key>
+	<string>peura</string>
+	<key>🚍</key>
+	<string>vastaantuleva bussi</string>
+	<key>🎏</key>
+	<string>karppiviiri</string>
+	<key>🦍</key>
+	<string>gorilla</string>
+	<key>🚎</key>
+	<string>johdinbussi</string>
+	<key>🚏</key>
+	<string>bussipysäkki</string>
+	<key>🎐</key>
+	<string>tuulikello</string>
+	<key>🦎</key>
+	<string>lisko</string>
+	<key>🇧🇼</key>
+	<string>Botswanan lippu</string>
+	<key>🚐</key>
+	<string>minibussi</string>
+	<key>♏️</key>
+	<string>Skorpioni</string>
+	<key>🎑</key>
+	<string>kuunkatseluseremonia</string>
+	<key>🦏</key>
+	<string>sarvikuono</string>
+	<key>🚑</key>
+	<string>ambulanssi</string>
+	<key>👨‍🍼</key>
+	<string>vauvaa syöttävä mies</string>
+	<key>⚧️</key>
+	<string>transsukupuolen symboli</string>
+	<key>👨‍👨‍👧</key>
+	<string>perhe, jossa on kaksi isää ja tytär</string>
+	<key>🖋️</key>
+	<string>mustekynä</string>
+	<key>🚒</key>
+	<string>paloauto</string>
+	<key>🎒</key>
+	<string>reppu</string>
+	<key>🎓</key>
+	<string>valmistujaislakki</string>
+	<key>🦐</key>
+	<string>katkarapu</string>
+	<key>🦑</key>
+	<string>kalmari</string>
+	<key>🚓</key>
+	<string>poliisiauto</string>
+	<key>❗️</key>
+	<string>punainen huutomerkki</string>
+	<key>🦒</key>
+	<string>kirahvi</string>
+	<key>🙇‍♀️</key>
+	<string>kumartava nainen</string>
+	<key>🗣️</key>
+	<string>puhuva siluettipää</string>
+	<key>🚔</key>
+	<string>vastaantuleva poliisiauto</string>
+	<key>🦓</key>
+	<string>seepra</string>
+	<key>🚕</key>
+	<string>taksi</string>
+	<key>🦔</key>
+	<string>siili</string>
+	<key>🇳🇿</key>
+	<string>Uuden-Seelannin lippu</string>
+	<key>🦕</key>
+	<string>dinosaurus</string>
+	<key>🚖</key>
+	<string>vastaantuleva taksi</string>
+	<key>🇧🇾</key>
+	<string>Valko-Venäjän lippu</string>
+	<key>🦖</key>
+	<string>T-rex</string>
+	<key>🚗</key>
+	<string>auto</string>
+	<key>🦗</key>
+	<string>sirkka</string>
+	<key>🚘</key>
+	<string>vastaantuleva auto</string>
+	<key>🦘</key>
+	<string>kenguru</string>
+	<key>🚙</key>
+	<string>katumaasturi</string>
+	<key>🇧🇿</key>
+	<string>Belizen lippu</string>
+	<key>🦙</key>
+	<string>laama</string>
+	<key>🚚</key>
+	<string>jakeluauto</string>
+	<key>♈️</key>
+	<string>Oinas</string>
+	<key>🦚</key>
+	<string>riikinkukko</string>
+	<key>🚛</key>
+	<string>kuorma-auto</string>
+	<key>⚠️</key>
+	<string>varoitus</string>
+	<key>🦛</key>
+	<string>virtahepo</string>
+	<key>🚜</key>
+	<string>traktori</string>
+	<key>⛸️</key>
+	<string>taitoluistin</string>
+	<key>🧘‍♂️</key>
+	<string>mies lootusasennossa</string>
+	<key>🧑‍🚀</key>
+	<string>astronautti</string>
+	<key>🦜</key>
+	<string>papukaija</string>
+	<key>🚝</key>
+	<string>monorail</string>
+	<key>🦝</key>
+	<string>pesukarhu</string>
+	<key>🚞</key>
+	<string>vuoristorautatie</string>
+	<key>🎠</key>
+	<string>karusellihevonen</string>
+	<key>🦞</key>
+	<string>hummeri</string>
+	<key>🚟</key>
+	<string>riippujuna</string>
+	<key>🎡</key>
+	<string>maailmanpyörä</string>
+	<key>🦟</key>
+	<string>hyttynen</string>
+	<key>🚠</key>
+	<string>köysirata</string>
+	<key>🎢</key>
+	<string>vuoristorata</string>
+	<key>🦠</key>
+	<string>mikrobi</string>
+	<key>🚡</key>
+	<string>gondolihissi</string>
+	<key>🧝‍♀️</key>
+	<string>naishaltia</string>
+	<key>🎣</key>
+	<string>onki ja kala</string>
+	<key>🦡</key>
+	<string>mäyrä</string>
+	<key>🚢</key>
+	<string>laiva</string>
+	<key>🎤</key>
+	<string>mikrofoni</string>
+	<key>🦢</key>
+	<string>joutsen</string>
+	<key>🚣</key>
+	<string>veneen soutaja</string>
+	<key>🎥</key>
+	<string>elokuvakamera</string>
+	<key>🦣</key>
+	<string>mammutti</string>
+	<key>🚤</key>
+	<string>pikavene</string>
+	<key>🎦</key>
+	<string>elokuvan symboli</string>
+	<key>🦤</key>
+	<string>dodo</string>
+	<key>🚥</key>
+	<string>vaakasuuntaiset liikennevalot</string>
+	<key>⚙️</key>
+	<string>hammasratas</string>
+	<key>🚴‍♂️</key>
+	<string>miespyöräilijä</string>
+	<key>🎧</key>
+	<string>kuulokkeet</string>
+	<key>🦥</key>
+	<string>laiskiainen</string>
+	<key>🚦</key>
+	<string>pystysuuntaiset liikennevalot</string>
+	<key>⛱️</key>
+	<string>aurinkovarjo</string>
+	<key>🖍️</key>
+	<string>väriliitu</string>
+	<key>🎨</key>
+	<string>taiteilijan paletti</string>
+	<key>🦦</key>
+	<string>saukko</string>
+	<key>🚧</key>
+	<string>rakennustyön merkki</string>
+	<key>🎩</key>
+	<string>silinterihattu</string>
+	<key>🦧</key>
+	<string>oranki</string>
+	<key>🚨</key>
+	<string>poliisiauton hälytysvalo</string>
+	<key>➡️</key>
+	<string>nuoli oikealle</string>
+	<key>🎪</key>
+	<string>sirkusteltta</string>
+	<key>🦨</key>
+	<string>haisunäätä</string>
+	<key>🚩</key>
+	<string>kolmiolippu salossa</string>
+	<key>🎫</key>
+	<string>lippu</string>
+	<key>🦩</key>
+	<string>flamingo</string>
+	<key>🚪</key>
+	<string>ovi</string>
+	<key>🦸‍♀️</key>
+	<string>naissupersankari</string>
+	<key>🎬</key>
+	<string>klaffitaulu</string>
+	<key>🦪</key>
+	<string>osteri</string>
+	<key>🚫</key>
+	<string>kielletty</string>
+	<key>🎖️</key>
+	<string>kunniamerkki</string>
+	<key>🎭</key>
+	<string>esittävät taiteet</string>
+	<key>🦫</key>
+	<string>majava</string>
+	<key>🚬</key>
+	<string>savuke</string>
+	<key>🎮</key>
+	<string>videopeliohjain</string>
+	<key>🦬</key>
+	<string>biisoni</string>
+	<key>🚭</key>
+	<string>tupakointi kielletty</string>
+	<key>🎯</key>
+	<string>napakymppi</string>
+	<key>🦭</key>
+	<string>hylje</string>
+	<key>🚮</key>
+	<string>laita roskat roskakoriin -symboli</string>
+	<key>☺️</key>
+	<string>hymyilevät kasvot</string>
+	<key>🎰</key>
+	<string>peliautomaatti</string>
+	<key>🦮</key>
+	<string>opaskoira</string>
+	<key>🚯</key>
+	<string>roskaaminen kielletty</string>
+	<key>⚒️</key>
+	<string>vasara ja hakku</string>
+	<key>🎱</key>
+	<string>biljardi</string>
+	<key>🦯</key>
+	<string>valkoinen keppi</string>
+	<key>🚰</key>
+	<string>vesihana</string>
+	<key>🧑‍🎄</key>
+	<string>joulutonttu</string>
+	<key>⛪️</key>
+	<string>kirkko</string>
+	<key>🎲</key>
+	<string>arpakuutio</string>
+	<key>🤵‍♀️</key>
+	<string>smokkipukuinen nainen</string>
+	<key>⌛️</key>
+	<string>tiimalasi</string>
+	<key>🏋️‍♂️</key>
+	<string>miespainonnostaja</string>
+	<key>🚱</key>
+	<string>vesi juomakelvotonta</string>
+	<key>🎳</key>
+	<string>keilapallo ja keilat</string>
+	<key>👯‍♂️</key>
+	<string>tanssivat miehet, joilla on kaninkorvat</string>
+	<key>👨‍🚀</key>
+	<string>miesastronautti</string>
+	<key>🚲</key>
+	<string>polkupyörä</string>
+	<key>🎴</key>
+	<string>kukkapelikortit</string>
+	<key>🚳</key>
+	<string>polkupyörällä ajo kielletty</string>
+	<key>👩‍👦‍👦</key>
+	<string>perhe, jossa on äiti ja kaksi poikaa</string>
+	<key>🎵</key>
+	<string>nuotti</string>
+	<key>👨‍🤝‍👨</key>
+	<string>miehet käsi kädessä</string>
+	<key>🚴</key>
+	<string>pyöräilijä</string>
+	<key>🎶</key>
+	<string>nuotit</string>
+	<key>🦴</key>
+	<string>luu</string>
+	<key>🚵</key>
+	<string>maastopyöräilijä</string>
+	<key>🎷</key>
+	<string>saksofoni</string>
+	<key>🦵</key>
+	<string>jalka</string>
+	<key>🚶</key>
+	<string>jalankulkija</string>
+	<key>🎸</key>
+	<string>kitara</string>
+	<key>🦶</key>
+	<string>jalkapohja</string>
+	<key>🚷</key>
+	<string>jalankulku kielletty</string>
+	<key>🎹</key>
+	<string>koskettimisto</string>
+	<key>🦷</key>
+	<string>hammas</string>
+	<key>🚸</key>
+	<string>tietä ylittävät lapset</string>
+	<key>🎺</key>
+	<string>trumpetti</string>
+	<key>🦸</key>
+	<string>supersankari</string>
+	<key>🚹</key>
+	<string>miesten symboli</string>
+	<key>🎻</key>
+	<string>viulu</string>
+	<key>🦹</key>
+	<string>superpahis</string>
+	<key>🚺</key>
+	<string>naisten symboli</string>
+	<key>🎼</key>
+	<string>partituuri</string>
+	<key>🦺</key>
+	<string>turvaliivi</string>
+	<key>🚻</key>
+	<string>käymälä</string>
+	<key>🎽</key>
+	<string>juoksupaita</string>
+	<key>🦻</key>
+	<string>kuulolaite korvassa</string>
+	<key>🚼</key>
+	<string>vauvasymboli</string>
+	<key>🎾</key>
+	<string>tennispallo</string>
+	<key>🦼</key>
+	<string>moottoroitu pyörätuoli</string>
+	<key>🚽</key>
+	<string>vessanpönttö</string>
+	<key>🎿</key>
+	<string>sukset</string>
+	<key>🦽</key>
+	<string>käsikäyttöinen pyörätuoli</string>
+	<key>🚾</key>
+	<string>vessa</string>
+	<key>🏀</key>
+	<string>koripallo</string>
+	<key>🦾</key>
+	<string>tekokäsi</string>
+	<key>🙅‍♂️</key>
+	<string>mies, joka tekee ei-merkin</string>
+	<key>🚿</key>
+	<string>suihku</string>
+	<key>🏁</key>
+	<string>ruutulippu</string>
+	<key>🦿</key>
+	<string>tekojalka</string>
+	<key>🛀</key>
+	<string>henkilö kylvyssä</string>
+	<key>🏂</key>
+	<string>lumilautailija</string>
+	<key>🧀</key>
+	<string>juustopala</string>
+	<key>🛁</key>
+	<string>kylpyamme</string>
+	<key>🚣‍♂️</key>
+	<string>venettä soutava mies</string>
+	<key>🏃</key>
+	<string>juoksija</string>
+	<key>🧁</key>
+	<string>kuppikakku</string>
+	<key>🛂</key>
+	<string>passintarkastus</string>
+	<key>🏄</key>
+	<string>surffaaja</string>
+	<key>🧂</key>
+	<string>suola</string>
+	<key>🛃</key>
+	<string>tulli</string>
+	<key>🏅</key>
+	<string>urheilumitali</string>
+	<key>🧃</key>
+	<string>pillijuoma</string>
+	<key>🛄</key>
+	<string>matkatavaroiden noutopaikka</string>
+	<key>🏆</key>
+	<string>palkinto</string>
+	<key>🧄</key>
+	<string>valkosipuli</string>
+	<key>🛅</key>
+	<string>matkatavarasäilytys</string>
+	<key>🏇</key>
+	<string>kilparatsastaja kilpahevosen selässä</string>
+	<key>🧅</key>
+	<string>sipuli</string>
+	<key>✴️</key>
+	<string>kahdeksansakarainen tähti</string>
+	<key>🖼️</key>
+	<string>kehystetty kuva</string>
+	<key>🏈</key>
+	<string>Amerikkalainen jalkapallo</string>
+	<key>🧆</key>
+	<string>falafel</string>
+	<key>🏉</key>
+	<string>rugbypallo</string>
+	<key>🧇</key>
+	<string>vohveli</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>perhe, jossa on kaksi isää, poika ja tytär</string>
+	<key>🏊</key>
+	<string>uimari</string>
+	<key>🧈</key>
+	<string>voi</string>
+	<key>🧑‍⚖️</key>
+	<string>tuomari</string>
+	<key>3️⃣</key>
+	<string>näppäin kolme</string>
+	<key>🧉</key>
+	<string>maté</string>
+	<key>🧊</key>
+	<string>jääkuutio</string>
+	<key>🧋</key>
+	<string>kuplatee</string>
+	<key>🛌</key>
+	<string>nukkuva henkilö</string>
+	<key>🧛‍♂️</key>
+	<string>miesvampyyri</string>
+	<key>🧌</key>
+	<string>peikko</string>
+	<key>🏏</key>
+	<string>krikettimaila ja -pallo</string>
+	<key>🧍</key>
+	<string>seisova henkilö</string>
+	<key>🏐</key>
+	<string>lentopallo</string>
+	<key>🧎</key>
+	<string>polvistuva henkilö</string>
+	<key>🏑</key>
+	<string>maahockeymaila ja -pallo</string>
+	<key>🧏</key>
+	<string>Kuuro ihminen</string>
+	<key>🛐</key>
+	<string>uskonnollinen kohde</string>
+	<key>🏒</key>
+	<string>jääkiekkomaila ja kiekko</string>
+	<key>🧐</key>
+	<string>kasvoilla monokkeli</string>
+	<key>🛑</key>
+	<string>kahdeksankulmainen merkki</string>
+	<key>🏓</key>
+	<string>pöytätennismaila ja -pallo</string>
+	<key>🧑</key>
+	<string>aikuinen</string>
+	<key>🛒</key>
+	<string>ostoskärry</string>
+	<key>🧒</key>
+	<string>lapsi</string>
+	<key>🧓</key>
+	<string>ikäihminen</string>
+	<key>🎚️</key>
+	<string>liukusäädin</string>
+	<key>🧔</key>
+	<string>parrakas henkilö</string>
+	<key>🛕</key>
+	<string>hindutemppeli</string>
+	<key>🧕</key>
+	<string>huivipäinen nainen</string>
+	<key>🛖</key>
+	<string>maja</string>
+	<key>🧖</key>
+	<string>saunoja</string>
+	<key>🛗</key>
+	<string>hissi</string>
+	<key>🧗</key>
+	<string>vuorikiipeilijä</string>
+	<key>🧘</key>
+	<string>henkilö lootusasennossa</string>
+	<key>🧙</key>
+	<string>maagi</string>
+	<key>🧚</key>
+	<string>keiju</string>
+	<key>👩‍💻</key>
+	<string>nais-IT-työntekijä</string>
+	<key>🧛</key>
+	<string>vampyyri</string>
+	<key>🛜</key>
+	<string>langaton-symboli</string>
+	<key>🧜</key>
+	<string>vetehinen</string>
+	<key>🛝</key>
+	<string>liukumäki</string>
+	<key>🧝</key>
+	<string>haltia</string>
+	<key>🛞</key>
+	<string>pyörä</string>
+	<key>👨‍⚖️</key>
+	<string>miestuomari</string>
+	<key>🏠</key>
+	<string>talo</string>
+	<key>🧞</key>
+	<string>pullon henki</string>
+	<key>↘️</key>
+	<string>nuoli alaoikealle</string>
+	<key>🛟</key>
+	<string>pelastusrengas</string>
+	<key>🏡</key>
+	<string>talo ja puutarha</string>
+	<key>🧟</key>
+	<string>zombi</string>
+	<key>🤸‍♀️</key>
+	<string>kärrynpyörän tekevä nainen</string>
+	<key>🏢</key>
+	<string>toimistorakennus</string>
+	<key>🧠</key>
+	<string>aivot</string>
+	<key>🏣</key>
+	<string>Japanilainen postitoimisto</string>
+	<key>🧡</key>
+	<string>oranssi sydän</string>
+	<key>👩‍💼</key>
+	<string>naistoimistotyöntekijä</string>
+	<key>🏤</key>
+	<string>Eurooppalainen postitoimisto</string>
+	<key>🧢</key>
+	<string>lippalakki</string>
+	<key>🏥</key>
+	<string>sairaala</string>
+	<key>🧣</key>
+	<string>kaulahuivi</string>
+	<key>🏦</key>
+	<string>pankki</string>
+	<key>🧤</key>
+	<string>käsineet</string>
+	<key>🏧</key>
+	<string>Raha-automaatin merkki</string>
+	<key>🧥</key>
+	<string>takki</string>
+	<key>👷‍♀️</key>
+	<string>rakennusnainen</string>
+	<key>🏨</key>
+	<string>hotelli</string>
+	<key>🧦</key>
+	<string>sukat</string>
+	<key>🏩</key>
+	<string>tuntihotelli</string>
+	<key>🧧</key>
+	<string>punainen lahjakuori</string>
+	<key>ℹ️</key>
+	<string>tietolähde</string>
+	<key>🏪</key>
+	<string>ruokakauppa</string>
+	<key>🧨</key>
+	<string>sähikäinen</string>
+	<key>🏫</key>
+	<string>koulu</string>
+	<key>🧩</key>
+	<string>palapelin pala</string>
+	<key>🏬</key>
+	<string>tavaratalo</string>
+	<key>🧪</key>
+	<string>koeputki</string>
+	<key>🛫</key>
+	<string>lentokone nousee ilmaan</string>
+	<key>🛳️</key>
+	<string>matkustajalaiva</string>
+	<key>🏭</key>
+	<string>tehdas</string>
+	<key>🧫</key>
+	<string>petrimalja</string>
+	<key>🛬</key>
+	<string>lentokone laskeutuu</string>
+	<key>♨️</key>
+	<string>kuuma lähde</string>
+	<key>🏮</key>
+	<string>izakaya-lyhty</string>
+	<key>🧬</key>
+	<string>DNA</string>
+	<key>👨‍👩‍👦</key>
+	<string>perhe, jossa on äiti, isä ja poika</string>
+	<key>🏯</key>
+	<string>Japanilainen linna</string>
+	<key>🧭</key>
+	<string>kompassi</string>
+	<key>🧏‍♀️</key>
+	<string>Kuuro nainen</string>
+	<key>🏰</key>
+	<string>Eurooppalainen linna</string>
+	<key>🧮</key>
+	<string>helmitaulu</string>
+	<key>🧯</key>
+	<string>palosammutin</string>
+	<key>⏹️</key>
+	<string>seissymboli</string>
+	<key>🧰</key>
+	<string>työkalupakki</string>
+	<key>🧱</key>
+	<string>tiilet</string>
+	<key>🏴</key>
+	<string>musta lippu</string>
+	<key>🧲</key>
+	<string>magneetti</string>
+	<key>🙍‍♀️</key>
+	<string>onneton nainen</string>
+	<key>🧳</key>
+	<string>matkalaukku</string>
+	<key>🛴</key>
+	<string>potkulauta</string>
+	<key>🧴</key>
+	<string>voidepullo</string>
+	<key>🛵</key>
+	<string>skootteri</string>
+	<key>👨‍👦</key>
+	<string>perhe, jossa on isä ja poika</string>
+	<key>🧵</key>
+	<string>lankarulla</string>
+	<key>💆‍♂️</key>
+	<string>mies, jonka päätä hierotaan</string>
+	<key>🛶</key>
+	<string>kanootti</string>
+	<key>🏸</key>
+	<string>sulkapallomaila ja -pallo</string>
+	<key>🧶</key>
+	<string>lankakerä</string>
+	<key>🛷</key>
+	<string>kelkka</string>
+	<key>🏹</key>
+	<string>jousi ja nuoli</string>
+	<key>🧷</key>
+	<string>hakaneula</string>
+	<key>🛸</key>
+	<string>UFO</string>
+	<key>🏺</key>
+	<string>amfora</string>
+	<key>🧸</key>
+	<string>nalle</string>
+	<key>🛹</key>
+	<string>rullalauta</string>
+	<key>🧹</key>
+	<string>luuta</string>
+	<key>🛺</key>
+	<string>autorikša</string>
+	<key>⏲️</key>
+	<string>ajastin</string>
+	<key>🧺</key>
+	<string>kori</string>
+	<key>🛻</key>
+	<string>lava-auto</string>
+	<key>🧻</key>
+	<string>paperirulla</string>
+	<key>🛼</key>
+	<string>rullaluistin</string>
+	<key>👨‍👧</key>
+	<string>perhe, jossa on isä ja tytär</string>
+	<key>🧼</key>
+	<string>saippua</string>
+	<key>🧞‍♂️</key>
+	<string>mieshenkiolento</string>
+	<key>🧽</key>
+	<string>pesusieni</string>
+	<key>🎞️</key>
+	<string>filmikehykset</string>
+	<key>🧾</key>
+	<string>kuitti</string>
+	<key>▪️</key>
+	<string>musta pikkuneliö</string>
+	<key>🧿</key>
+	<string>nazar-amuletti</string>
+	<key>☂️</key>
+	<string>sateenvarjo</string>
+	<key>🗂️</key>
+	<string>korttihakemiston välilehdet</string>
+	<key>🦹‍♂️</key>
+	<string>miessuperpahis</string>
+	<key>🏋️</key>
+	<string>painonnostaja</string>
+	<key>◻️</key>
+	<string>valkoinen keskikokoinen neliö</string>
+	<key>♓️</key>
+	<string>Kalat</string>
+	<key>⚫️</key>
+	<string>musta ympyrä</string>
+	<key>⏩</key>
+	<string>kelaus eteenpäin symboli</string>
+	<key>⏪</key>
+	<string>kelaa taaksepäin ‑symboli</string>
+	<key>⏫</key>
+	<string>ylöspäin osoittava tuplakolmio</string>
+	<key>⏬</key>
+	<string>alaspäin osoittava tuplakolmio</string>
+	<key>🗯️</key>
+	<string>vihainen puhekupla</string>
+	<key>⏰</key>
+	<string>herätyskello</string>
+	<key>⏳</key>
+	<string>tiimalasi, jonka hiekka valuu</string>
+	<key>🧑‍🎓</key>
+	<string>opiskelija</string>
+	<key>🧑‍🚒</key>
+	<string>pelastaja</string>
+	<key>♌️</key>
+	<string>Leijona</string>
+	<key>🗄️</key>
+	<string>arkistokaappi</string>
+	<key>🧍‍♂️</key>
+	<string>seisova mies</string>
+	<key>🏍️</key>
+	<string>moottoripyörä</string>
+	<key>🙋‍♂️</key>
+	<string>mies käsi pystyssä</string>
+	<key>👨‍👩‍👧</key>
+	<string>perhe, jossa on äiti, isä ja tytär</string>
+	<key>🇸🇦</key>
+	<string>Saudi-Arabian lippu</string>
+	<key>⛵️</key>
+	<string>purjevene</string>
+	<key>👩‍🏫</key>
+	<string>naisopettaja</string>
+	<key>⬜️</key>
+	<string>valkoinen suuri neliö</string>
+	<key>🇸🇧</key>
+	<string>Salomonsaarten lippu</string>
+	<key>🇬🇦</key>
+	<string>Gabonin lippu</string>
+	<key>🇨🇦</key>
+	<string>Kanadan lippu</string>
+	<key>🇸🇨</key>
+	<string>Seychellien lippu</string>
+	<key>🇬🇧</key>
+	<string>Ison-Britannian lippu</string>
+	<key>👨‍🎓</key>
+	<string>miesopiskelija</string>
+	<key>👨‍🚒</key>
+	<string>palomies</string>
+	<key>⚖️</key>
+	<string>vaaka</string>
+	<key>🇸🇩</key>
+	<string>Sudanin lippu</string>
+	<key>🇨🇨</key>
+	<string>Kookossaarten lippu</string>
+	<key>⏏️</key>
+	<string>poista käytöstä -symboli</string>
+	<key>🇸🇪</key>
+	<string>Ruotsin lippu</string>
+	<key>🇬🇩</key>
+	<string>Grenadan lippu</string>
+	<key>👩‍🏭</key>
+	<string>naistehdastyöntekijä</string>
+	<key>🇼🇫</key>
+	<string>Wallis ja Futunan lippu</string>
+	<key>🇨🇩</key>
+	<string>Kongon demokraattisen tasavallan lippu</string>
+	<key>🇰🇪</key>
+	<string>Kenian lippu</string>
+	<key>🛎️</key>
+	<string>vastaanottotiskin kello</string>
+	<key>🇬🇪</key>
+	<string>Georgian lippu</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>perhe, jossa on kaksi äitiä, poika ja tytär</string>
+	<key>🇸🇬</key>
+	<string>Singaporen lippu</string>
+	<key>🇬🇫</key>
+	<string>Ranskan Guayanan lippu</string>
+	<key>🇨🇫</key>
+	<string>Keski-Afrikan tasavallan lippu</string>
+	<key>🇰🇬</key>
+	<string>Kirgisian lippu</string>
+	<key>🗳️</key>
+	<string>vaaliuurna ja äänestyslipuke</string>
+	<key>🇸🇭</key>
+	<string>Saint Helenan lippu</string>
+	<key>🇬🇬</key>
+	<string>Guernseyn lippu</string>
+	<key>🧑‍⚕️</key>
+	<string>hoitotyöntekijä</string>
+	<key>🏃‍♀️</key>
+	<string>naisjuoksija</string>
+	<key>🇨🇬</key>
+	<string>Kongon tasavallan lippu</string>
+	<key>🇰🇭</key>
+	<string>Kambodžan lippu</string>
+	<key>🤹‍♂️</key>
+	<string>mies jongleeraa</string>
+	<key>🇸🇮</key>
+	<string>Slovenian lippu</string>
+	<key>🇬🇭</key>
+	<string>Ghanan lippu</string>
+	<key>〽️</key>
+	<string>osanvaihtomerkki</string>
+	<key>🇨🇭</key>
+	<string>Sveitsin lippu</string>
+	<key>🇰🇮</key>
+	<string>Kiribatin lippu</string>
+	<key>🇸🇯</key>
+	<string>Huippuvuorten ja Jan Mayenin lippu</string>
+	<key>🕰️</key>
+	<string>pöytäkello</string>
+	<key>8️⃣</key>
+	<string>näppäin kahdeksan</string>
+	<key>🇬🇮</key>
+	<string>Gibraltarin lippu</string>
+	<key>🤾‍♀️</key>
+	<string>nainen pelaa käsipalloa</string>
+	<key>🇨🇮</key>
+	<string>Côte d’Ivoiren lippu</string>
+	<key>⬇️</key>
+	<string>nuoli alas</string>
+	<key>👩‍✈️</key>
+	<string>naislentäjä</string>
+	<key>👩‍👧‍👦</key>
+	<string>perhe, jossa on äiti, poika ja tytär</string>
+	<key>🇸🇰</key>
+	<string>Slovakian lippu</string>
+	<key>🌡️</key>
+	<string>lämpömittari</string>
+	<key>↪️</key>
+	<string>oikealle kaartuva vasen nuoli</string>
+	<key>🇸🇱</key>
+	<string>Sierra Leonen lippu</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>kaksi miestä suutelee</string>
+	<key>🇨🇰</key>
+	<string>Cookinsaarten lippu</string>
+	<key>🇸🇲</key>
+	<string>San Marinon lippu</string>
+	<key>🇬🇱</key>
+	<string>Grönlannin lippu</string>
+	<key>🇴🇲</key>
+	<string>Omanin lippu</string>
+	<key>🇨🇱</key>
+	<string>Chilen lippu</string>
+	<key>🇰🇲</key>
+	<string>Komorien lippu</string>
+	<key>🇸🇳</key>
+	<string>Senegalin lippu</string>
+	<key>🇬🇲</key>
+	<string>Gambian lippu</string>
+	<key>1️⃣</key>
+	<string>näppäin yksi</string>
+	<key>Ⓜ️</key>
+	<string>ympyröity M</string>
+	<key>🇨🇲</key>
+	<string>Kamerunin lippu</string>
+	<key>👨‍⚕️</key>
+	<string>mieshoitotyöntekijä</string>
+	<key>🙎‍♂️</key>
+	<string>murjottava mies</string>
+	<key>🇰🇳</key>
+	<string>Saint Kitts ja Nevisin lippu</string>
+	<key>🇸🇴</key>
+	<string>Somalian lippu</string>
+	<key>🇬🇳</key>
+	<string>Guinean lippu</string>
+	<key>🇨🇳</key>
+	<string>Kiinan lippu</string>
+	<key>☢️</key>
+	<string>radioaktiivinen</string>
+	<key>🇨🇴</key>
+	<string>Kolumbian lippu</string>
+	<key>‼️</key>
+	<string>punainen kaksoishuutomerkki</string>
+	<key>🃏</key>
+	<string>jokeri</string>
+	<key>🇰🇵</key>
+	<string>Pohjois-Korean lippu</string>
+	<key>🇬🇵</key>
+	<string>Guadeloupen lippu</string>
+	<key>㊗️</key>
+	<string>Japanilainen merkki, joka tarkoittaa onneksi olkoon</string>
+	<key>🐿️</key>
+	<string>maaorava</string>
+	<key>🇨🇵</key>
+	<string>Clippertoninsaaren lippu</string>
+	<key>🇸🇷</key>
+	<string>Surinamen lippu</string>
+	<key>🏳️‍⚧️</key>
+	<string>translippu</string>
+	<key>🇬🇶</key>
+	<string>Päiväntasaajan Guinean lippu</string>
+	<key>🇼🇸</key>
+	<string>Samoan lippu</string>
+	<key>*️⃣</key>
+	<string>tähtinäppäin</string>
+	<key>🇰🇷</key>
+	<string>Etelä-Korean lippu</string>
+	<key>🇸🇸</key>
+	<string>Etelä-Sudanin lippu</string>
+	<key>🇬🇷</key>
+	<string>Kreikan lippu</string>
+	<key>🇨🇷</key>
+	<string>Costa Rican lippu</string>
+	<key>®️</key>
+	<string>rekisteröity tavaramerkki</string>
+	<key>🇸🇹</key>
+	<string>São Tomé ja Príncipen lippu</string>
+	<key>🇬🇸</key>
+	<string>Etelä-Georgian ja Eteläisten Sandwichsaarten lippu</string>
+	<key>↕️</key>
+	<string>nuoli ylös ja alas</string>
+	<key>🇬🇹</key>
+	<string>Guatemalan lippu</string>
+	<key>☔️</key>
+	<string>sateenvarjo ja sadepisaroita</string>
+	<key>🏳️‍🌈</key>
+	<string>sateenkaarilippu</string>
+	<key>🇸🇻</key>
+	<string>El Salvadorin lippu</string>
+	<key>🕴️</key>
+	<string>levitoiva mies puvussa</string>
+	<key>⛄️</key>
+	<string>lumiukko</string>
+	<key>🇬🇺</key>
+	<string>Guamin lippu</string>
+	<key>🇨🇺</key>
+	<string>Kuuban lippu</string>
+	<key>#️⃣</key>
+	<string>ristikkomerkki</string>
+	<key>🤼‍♂️</key>
+	<string>painivat miehet</string>
+	<key>🌥️</key>
+	<string>suuren pilven takaa häämöttävä aurinko</string>
+	<key>👁️</key>
+	<string>silmä</string>
+	<key>🇨🇻</key>
+	<string>Kap Verden lippu</string>
+	<key>🍽️</key>
+	<string>lautanen, haarukka ja veitsi</string>
+	<key>🇰🇼</key>
+	<string>Kuwaitin lippu</string>
+	<key>🇸🇽</key>
+	<string>Sint Maartenin lippu</string>
+	<key>🇬🇼</key>
+	<string>Guinea-Bissaun lippu</string>
+	<key>🏕️</key>
+	<string>leiri</string>
+	<key>🩰</key>
+	<string>balettitossut</string>
+	<key>🇨🇼</key>
+	<string>Curaçaon lippu</string>
+	<key>🩱</key>
+	<string>uimapuku</string>
+	<key>🇸🇾</key>
+	<string>Syyrian lippu</string>
+	<key>♥️</key>
+	<string>herttamerkki</string>
+	<key>🩲</key>
+	<string>uimahousut</string>
+	<key>🕉️</key>
+	<string>om-symboli</string>
+	<key>⚽️</key>
+	<string>jalkapallo</string>
+	<key>🩳</key>
+	<string>uimashortsit</string>
+	<key>🇨🇽</key>
+	<string>Joulusaaren lippu</string>
+	<key>🩴</key>
+	<string>sandaali</string>
+	<key>🇰🇾</key>
+	<string>Caymansaarten lippu</string>
+	<key>🇸🇿</key>
+	<string>Eswatinin lippu</string>
+	<key>🩵</key>
+	<string>vaaleansininen sydän</string>
+	<key>👩‍👧‍👧</key>
+	<string>perhe, jossa on äiti ja kaksi tytärtä</string>
+	<key>🇬🇾</key>
+	<string>Guyanan lippu</string>
+	<key>🩶</key>
+	<string>harmaa sydän</string>
+	<key>🩷</key>
+	<string>vaaleanpunainen sydän</string>
+	<key>🇨🇾</key>
+	<string>Kyproksen lippu</string>
+	<key>🇰🇿</key>
+	<string>Kazakstanin lippu</string>
+	<key>🩸</key>
+	<string>veripisara</string>
+	<key>🩹</key>
+	<string>laastari</string>
+	<key>🩺</key>
+	<string>stetoskooppi</string>
+	<key>🇨🇿</key>
+	<string>Tšekin lippu</string>
+	<key>🩻</key>
+	<string>Röntgen</string>
+	<key>🩼</key>
+	<string>kainalosauva</string>
+	<key>🕶️</key>
+	<string>aurinkolasit</string>
+	<key>🧘‍♀️</key>
+	<string>nainen lootusasennossa</string>
+	<key>⏯️</key>
+	<string>toisto/tauko-symboli</string>
+	<key>🪀</key>
+	<string>jojo</string>
+	<key>🌧️</key>
+	<string>pilvi ja sadetta</string>
+	<key>🪁</key>
+	<string>leija</string>
+	<key>🪂</key>
+	<string>laskuvarjo</string>
+	<key>🧑‍🎤</key>
+	<string>laulaja</string>
+	<key>🪃</key>
+	<string>bumerangi</string>
+	<key>🪄</key>
+	<string>taikasauva</string>
+	<key>🏗️</key>
+	<string>talonrakennustyömaa</string>
+	<key>🪅</key>
+	<string>piñata</string>
+	<key>🪆</key>
+	<string>maatuskanuket</string>
+	<key>🚴‍♀️</key>
+	<string>naispyöräilijä</string>
+	<key>🪇</key>
+	<string>marakassi</string>
+	<key>🐀</key>
+	<string>rotta</string>
+	<key>🪈</key>
+	<string>huilu</string>
+	<key>🐁</key>
+	<string>hiiri</string>
+	<key>🐂</key>
+	<string>härkä</string>
+	<key>🐃</key>
+	<string>vesipuhveli</string>
+	<key>🐄</key>
+	<string>lehmä</string>
+	<key>🅱️</key>
+	<string>veriryhmä B</string>
+	<key>🐅</key>
+	<string>tiikeri</string>
+	<key>🐆</key>
+	<string>leopardi</string>
+	<key>🐇</key>
+	<string>jänis</string>
+	<key>🐈</key>
+	<string>kissa</string>
+	<key>🪐</key>
+	<string>planeetta</string>
+	<key>♐️</key>
+	<string>Jousimies</string>
+	<key>🐉</key>
+	<string>lohikäärme</string>
+	<key>🪑</key>
+	<string>tuoli</string>
+	<key>🕸️</key>
+	<string>hämähäkinverkko</string>
+	<key>🐊</key>
+	<string>krokotiili</string>
+	<key>🪒</key>
+	<string>partaveitsi</string>
+	<key>👩‍🍳</key>
+	<string>naiskokki</string>
+	<key>🐋</key>
+	<string>valas</string>
+	<key>👯‍♀️</key>
+	<string>tanssivat naiset, joilla on kaninkorvat</string>
+	<key>🪓</key>
+	<string>kirves</string>
+	<key>🐌</key>
+	<string>etana</string>
+	<key>🪔</key>
+	<string>savilamppu</string>
+	<key>🐍</key>
+	<string>käärme</string>
+	<key>🪕</key>
+	<string>banjo</string>
+	<key>🏄‍♂️</key>
+	<string>miessurffaaja</string>
+	<key>🌩️</key>
+	<string>pilvi ja salama</string>
+	<key>🐎</key>
+	<string>hevonen</string>
+	<key>🪖</key>
+	<string>sotilaskypärä</string>
+	<key>🐏</key>
+	<string>pässi</string>
+	<key>🪗</key>
+	<string>harmonikka</string>
+	<key>🐐</key>
+	<string>vuohi</string>
+	<key>🪘</key>
+	<string>pystyrumpu</string>
+	<key>👨‍🎤</key>
+	<string>mieslaulaja</string>
+	<key>🏙️</key>
+	<string>kaupunkikuva</string>
+	<key>🐑</key>
+	<string>lammas</string>
+	<key>🪙</key>
+	<string>kolikko</string>
+	<key>🐒</key>
+	<string>apina</string>
+	<key>🪚</key>
+	<string>käsisaha</string>
+	<key>♉️</key>
+	<string>Härkä</string>
+	<key>🐓</key>
+	<string>kukko</string>
+	<key>🪛</key>
+	<string>ruuvimeisseli</string>
+	<key>⚡️</key>
+	<string>salama</string>
+	<key>🐔</key>
+	<string>kana</string>
+	<key>🪜</key>
+	<string>tikkaat</string>
+	<key>⛹️</key>
+	<string>koripalloilija</string>
+	<key>🖥️</key>
+	<string>pöytätietokone</string>
+	<key>🐕</key>
+	<string>koira</string>
+	<key>🪝</key>
+	<string>koukku</string>
+	<key>🧑‍🎨</key>
+	<string>taiteilija</string>
+	<key>🐖</key>
+	<string>sika</string>
+	<key>🪞</key>
+	<string>peili</string>
+	<key>🐗</key>
+	<string>villisika</string>
+	<key>🪟</key>
+	<string>ikkuna</string>
+	<key>🐘</key>
+	<string>elefantti</string>
+	<key>🙅‍♀️</key>
+	<string>nainen, joka tekee ei-merkin</string>
+	<key>🪠</key>
+	<string>viemäripumppu</string>
+	<key>🐙</key>
+	<string>mustekala</string>
+	<key>🪡</key>
+	<string>silmäneula</string>
+	<key>🐚</key>
+	<string>simpukankuori</string>
+	<key>🪢</key>
+	<string>solmu</string>
+	<key>🚣‍♀️</key>
+	<string>venettä soutava nainen</string>
+	<key>🐛</key>
+	<string>ötökkä</string>
+	<key>🪣</key>
+	<string>ämpäri</string>
+	<key>🐜</key>
+	<string>muurahainen</string>
+	<key>🪤</key>
+	<string>hiirenloukku</string>
+	<key>🐝</key>
+	<string>mehiläinen</string>
+	<key>🪥</key>
+	<string>hammasharja</string>
+	<key>🐞</key>
+	<string>leppäkerttu</string>
+	<key>🪦</key>
+	<string>hautakivi</string>
+	<key>⛲️</key>
+	<string>suihkulähde</string>
+	<key>🐟</key>
+	<string>kala</string>
+	<key>🪧</key>
+	<string>kyltti</string>
+	<key>🐠</key>
+	<string>trooppinen kala</string>
+	<key>🗒️</key>
+	<string>kierresidottu muistikirja</string>
+	<key>🪨</key>
+	<string>kivi</string>
+	<key>🐡</key>
+	<string>pallokala</string>
+	<key>🪩</key>
+	<string>peilipallo</string>
+	<key>🧖‍♂️</key>
+	<string>saunova mies</string>
+	<key>🌫️</key>
+	<string>sumu</string>
+	<key>🐢</key>
+	<string>kilpikonna</string>
+	<key>🪪</key>
+	<string>henkilökortti</string>
+	<key>🐣</key>
+	<string>kuoriutuva tipu</string>
+	<key>🪫</key>
+	<string>virta vähissä</string>
+	<key>🐤</key>
+	<string>tipu</string>
+	<key>🪬</key>
+	<string>hamsa</string>
+	<key>🐥</key>
+	<string>seisova tipu</string>
+	<key>😶‍🌫️</key>
+	<string>kasvot pilvissä</string>
+	<key>🏛️</key>
+	<string>antiikin rakennus</string>
+	<key>🪭</key>
+	<string>viuhka</string>
+	<key>🐦</key>
+	<string>lintu</string>
+	<key>🧛‍♀️</key>
+	<string>naisvampyyri</string>
+	<key>🪮</key>
+	<string>afrokampa</string>
+	<key>🐧</key>
+	<string>pingviini</string>
+	<key>🪯</key>
+	<string>khanda-symboli</string>
+	<key>🐨</key>
+	<string>koalan pää</string>
+	<key>⚓️</key>
+	<string>ankkuri</string>
+	<key>🪰</key>
+	<string>kärpänen</string>
+	<key>🐩</key>
+	<string>puudeli</string>
+	<key>🪱</key>
+	<string>mato</string>
+	<key>🐪</key>
+	<string>kameli</string>
+	<key>🪲</key>
+	<string>kovakuoriainen</string>
+	<key>👨‍🎨</key>
+	<string>miestaiteilija</string>
+	<key>🐫</key>
+	<string>kaksikyttyräinen kameli</string>
+	<key>🪳</key>
+	<string>torakka</string>
+	<key>🐬</key>
+	<string>delfiini</string>
+	<key>🪴</key>
+	<string>ruukkukasvi</string>
+	<key>🐭</key>
+	<string>hiiren pää</string>
+	<key>🪵</key>
+	<string>puupölkyt</string>
+	<key>🐮</key>
+	<string>lehmän pää</string>
+	<key>🪶</key>
+	<string>höyhen</string>
+	<key>🐯</key>
+	<string>tiikerin pää</string>
+	<key>🪷</key>
+	<string>lootus</string>
+	<key>🐕‍🦺</key>
+	<string>palvelukoira</string>
+	<key>🐰</key>
+	<string>jäniksen pää</string>
+	<key>🪸</key>
+	<string>koralli</string>
+	<key>🐱</key>
+	<string>kissan pää</string>
+	<key>🪹</key>
+	<string>tyhjä pesä</string>
+	<key>🐲</key>
+	<string>lohikäärmeen pää</string>
+	<key>🪺</key>
+	<string>pesä, jossa on munia</string>
+	<key>🐳</key>
+	<string>vettä ruiskiva valas</string>
+	<key>🪻</key>
+	<string>hyasintti</string>
+	<key>🐴</key>
+	<string>hevosen pää</string>
+	<key>🪼</key>
+	<string>meduusa</string>
+	<key>🐵</key>
+	<string>apinan pää</string>
+	<key>🪽</key>
+	<string>siipi</string>
+	<key>🐶</key>
+	<string>koiran pää</string>
+	<key>🐷</key>
+	<string>sian pää</string>
+	<key>🪿</key>
+	<string>hanhi</string>
+	<key>🐸</key>
+	<string>sammakon pää</string>
+	<key>🫀</key>
+	<string>anatominen sydän</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>Englannin lippu</string>
+	<key>🐹</key>
+	<string>hamsterin pää</string>
+	<key>🫁</key>
+	<string>keuhkot</string>
+	<key>🐺</key>
+	<string>susi</string>
+	<key>🏝️</key>
+	<string>autiosaari</string>
+	<key>🫂</key>
+	<string>halaavat henkilöt</string>
+	<key>🐻</key>
+	<string>karhun pää</string>
+	<key>🏌️‍♂️</key>
+	<string>miesgolfaaja</string>
+	<key>🫃</key>
+	<string>raskaana oleva mies</string>
+	<key>🐼</key>
+	<string>pandan pää</string>
+	<key>🫄</key>
+	<string>raskaana oleva henkilö</string>
+	<key>6️⃣</key>
+	<string>näppäin kuusi</string>
+	<key>🐽</key>
+	<string>sian kärsä</string>
+	<key>🫅</key>
+	<string>kruunupäinen henkilö</string>
+	<key>🐾</key>
+	<string>tassunjäljet</string>
+	<key>👀</key>
+	<string>silmät</string>
+	<key>👂</key>
+	<string>korva</string>
+	<key>👃</key>
+	<string>nenä</string>
+	<key>👄</key>
+	<string>suu</string>
+	<key>👅</key>
+	<string>kieli</string>
+	<key>☦️</key>
+	<string>ortodoksiristi</string>
+	<key>👆</key>
+	<string>ylös osoittava etusormi selkäpuolelta</string>
+	<key>👩‍🍼</key>
+	<string>vauvaa syöttävä nainen</string>
+	<key>🫎</key>
+	<string>hirven pää</string>
+	<key>♾️</key>
+	<string>ääretön</string>
+	<key>👇</key>
+	<string>alaspäin osoittava etusormi selkäpuolelta</string>
+	<key>🫏</key>
+	<string>aasi</string>
+	<key>👈</key>
+	<string>vasemmalle osoittava etusormi selkäpuolelta</string>
+	<key>🫐</key>
+	<string>mustikoita</string>
+	<key>👉</key>
+	<string>oikealle osoittava etusormi selkäpuolelta</string>
+	<key>🫑</key>
+	<string>paprika</string>
+	<key>👊</key>
+	<string>suljettu nyrkki</string>
+	<key>🫒</key>
+	<string>oliivi</string>
+	<key>⭕️</key>
+	<string>ympyrämerkki</string>
+	<key>💁‍♂️</key>
+	<string>neuvontapistemies</string>
+	<key>👋</key>
+	<string>vilkuttava käsi</string>
+	<key>🫓</key>
+	<string>ohutleipä</string>
+	<key>👌</key>
+	<string>OK-käsimerkki</string>
+	<key>🫔</key>
+	<string>tamale</string>
+	<key>👍</key>
+	<string>peukalo ylös</string>
+	<key>🫕</key>
+	<string>fondyy</string>
+	<key>👎</key>
+	<string>peukalo alas</string>
+	<key>🫖</key>
+	<string>teekannu</string>
+	<key>🏟️</key>
+	<string>stadion</string>
+	<key>👏</key>
+	<string>taputtavat kädet</string>
+	<key>🫗</key>
+	<string>valuva neste</string>
+	<key>💆‍♀️</key>
+	<string>nainen, jonka päätä hierotaan</string>
+	<key>👐</key>
+	<string>avoimet kädet</string>
+	<key>🫘</key>
+	<string>pavut</string>
+	<key>🐦‍⬛</key>
+	<string>musta lintu</string>
+	<key>🧑‍🦯</key>
+	<string>henkilö ja valkoinen keppi</string>
+	<key>🫙</key>
+	<string>purkki</string>
+	<key>🧙‍♂️</key>
+	<string>miesmaagi</string>
+	<key>👑</key>
+	<string>kruunu</string>
+	<key>⛏️</key>
+	<string>hakku</string>
+	<key>👒</key>
+	<string>hattu rusetilla</string>
+	<key>🫚</key>
+	<string>inkiväärijuuri</string>
+	<key>👓</key>
+	<string>silmälasit</string>
+	<key>🫛</key>
+	<string>herneenpalko</string>
+	<key>👔</key>
+	<string>paita ja solmio</string>
+	<key>👕</key>
+	<string>poolopaita</string>
+	<key>👖</key>
+	<string>farkut</string>
+	<key>🧞‍♀️</key>
+	<string>naishenkiolento</string>
+	<key>👗</key>
+	<string>mekko</string>
+	<key>↙️</key>
+	<string>nuoli alavasemmalle</string>
+	<key>🧑‍🦰</key>
+	<string>punatukkainen henkilö</string>
+	<key>🕵️‍♂️</key>
+	<string>miesetsivä</string>
+	<key>👘</key>
+	<string>kimono</string>
+	<key>🟠</key>
+	<string>oranssi ympyrä</string>
+	<key>🫠</key>
+	<string>sulavat kasvot</string>
+	<key>🟡</key>
+	<string>keltainen ympyrä</string>
+	<key>👩‍❤️‍👨</key>
+	<string>mies, nainen ja sydän</string>
+	<key>👙</key>
+	<string>bikinit</string>
+	<key>◀️</key>
+	<string>vasemmalle osoittava kolmio</string>
+	<key>🫡</key>
+	<string>kunniaa tekevät kasvot</string>
+	<key>🟢</key>
+	<string>vihreä ympyrä</string>
+	<key>👚</key>
+	<string>pusero</string>
+	<key>☘️</key>
+	<string>apila</string>
+	<key>🫢</key>
+	<string>kasvot, joissa silmät auki ja käsi suun edessä</string>
+	<key>🚵‍♂️</key>
+	<string>miesmaastopyöräilijä</string>
+	<key>🟣</key>
+	<string>violetti ympyrä</string>
+	<key>👛</key>
+	<string>kukkaro</string>
+	<key>🫣</key>
+	<string>kasvot, joista silmä kurkistaa sormien välistä</string>
+	<key>🟤</key>
+	<string>ruskea ympyrä</string>
+	<key>👜</key>
+	<string>käsilaukku</string>
+	<key>⛈️</key>
+	<string>pilvi ja salama ja sadetta</string>
+	<key>🫤</key>
+	<string>kasvot, joissa suu vinossa</string>
+	<key>🟥</key>
+	<string>punainen neliö</string>
+	<key>👝</key>
+	<string>pussi</string>
+	<key>🫥</key>
+	<string>katkoviivakasvot</string>
+	<key>🟦</key>
+	<string>sininen neliö</string>
+	<key>👞</key>
+	<string>puvunkenkä</string>
+	<key>🧑‍🦱</key>
+	<string>kiharatukkainen henkilö</string>
+	<key>🫦</key>
+	<string>huulta pureva suu</string>
+	<key>🟧</key>
+	<string>oranssi neliö</string>
+	<key>🦹‍♀️</key>
+	<string>naissuperpahis</string>
+	<key>👟</key>
+	<string>tenniskenkä</string>
+	<key>🫧</key>
+	<string>kuplat</string>
+	<key>🟨</key>
+	<string>keltainen neliö</string>
+	<key>❤️‍🔥</key>
+	<string>palava sydän</string>
+	<key>👠</key>
+	<string>korkokenkä</string>
+	<key>🟩</key>
+	<string>vihreä neliö</string>
+	<key>🫨</key>
+	<string>tärisevät kasvot</string>
+	<key>👡</key>
+	<string>korollinen sandaali</string>
+	<key>🟪</key>
+	<string>violetti neliö</string>
+	<key>👢</key>
+	<string>korollinen varsikenkä</string>
+	<key>🟫</key>
+	<string>ruskea neliö</string>
+	<key>👣</key>
+	<string>jalanjäljet</string>
+	<key>🛠️</key>
+	<string>vasara ja jakoavain</string>
+	<key>📽️</key>
+	<string>elokuvaprojektori</string>
+	<key>👤</key>
+	<string>henkilön siluetti</string>
+	<key>☑️</key>
+	<string>valintaruutu ja valintamerkki</string>
+	<key>🧑‍🦲</key>
+	<string>kalju henkilö</string>
+	<key>👥</key>
+	<string>kahden henkilön siluetti</string>
+	<key>👦</key>
+	<string>poika</string>
+	<key>👨‍🦯</key>
+	<string>mies ja valkoinen keppi</string>
+	<key>👧</key>
+	<string>tyttö</string>
+	<key>👰‍♂️</key>
+	<string>hunnutettu mies</string>
+	<key>👩‍🚀</key>
+	<string>naisastronautti</string>
+	<key>🟰</key>
+	<string>yhtäsuuruusmerkki</string>
+	<key>🏴‍☠️</key>
+	<string>merirosvolippu</string>
+	<key>👨</key>
+	<string>mies</string>
+	<key>🫰</key>
+	<string>käsi, jossa peukalo ja etusormi ristissä</string>
+	<key>⏺️</key>
+	<string>tallennussymboli</string>
+	<key>👩</key>
+	<string>nainen</string>
+	<key>🫱</key>
+	<string>oikealle osoittava käsi</string>
+	<key>👪</key>
+	<string>perhe</string>
+	<key>🫲</key>
+	<string>vasemmalle osoittava käsi</string>
+	<key>👫</key>
+	<string>mies ja nainen käsi kädessä</string>
+	<key>🫳</key>
+	<string>käsi kämmen alaspäin</string>
+	<key>🧑‍🦳</key>
+	<string>valkotukkainen henkilö</string>
+	<key>👬</key>
+	<string>kaksi miestä käsi kädessä</string>
+	<key>🫴</key>
+	<string>käsi kämmen ylöspäin</string>
+	<key>👭</key>
+	<string>kaksi naista käsi kädessä</string>
+	<key>👨‍🦰</key>
+	<string>punatukkainen mies</string>
+	<key>🫵</key>
+	<string>katsojaa kohti osoittava etusormi</string>
+	<key>👮</key>
+	<string>poliisi</string>
+	<key>🏊‍♂️</key>
+	<string>miesuimari</string>
+	<key>🫶</key>
+	<string>sydänkädet</string>
+	<key>👯</key>
+	<string>tanssijat, joilla on kaninkorvat</string>
+	<key>🫷</key>
+	<string>vasemmalle työntävä käsi</string>
+	<key>👰</key>
+	<string>hunnutettu henkilö</string>
+	<key>🫸</key>
+	<string>oikealle työntävä käsi</string>
+	<key>👱</key>
+	<string>vaaleatukkainen henkilö</string>
+	<key>✒️</key>
+	<string>mustekynä</string>
+	<key>👲</key>
+	<string>mies, jolla on kiinalainen lakki</string>
+	<key>🧍‍♀️</key>
+	<string>seisova nainen</string>
+	<key>👳</key>
+	<string>turbaanipäinen henkilö</string>
+	<key>👨‍🦱</key>
+	<string>kiharatukkainen mies</string>
+	<key>👴</key>
+	<string>vanha mies</string>
+	<key>🙆‍♂️</key>
+	<string>mies, joka tekee ok-merkin</string>
+	<key>👵</key>
+	<string>vanha nainen</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>perhe, jossa on äiti, isä, poika ja tytär</string>
+	<key>👶</key>
+	<string>vauva</string>
+	<key>👷</key>
+	<string>rakennustyöntekijä</string>
+	<key>▫️</key>
+	<string>valkoinen pikkuneliö</string>
+	<key>👸</key>
+	<string>prinsessa</string>
+	<key>🛢️</key>
+	<string>öljytynnyri</string>
+	<key>☃️</key>
+	<string>lumiukko ja lumihiutaleita</string>
+	<key>👹</key>
+	<string>hirviö</string>
+	<key>🙋‍♀️</key>
+	<string>nainen käsi pystyssä</string>
+	<key>👺</key>
+	<string>peikko</string>
+	<key>👨‍🦲</key>
+	<string>kalju mies</string>
+	<key>🇹🇦</key>
+	<string>Tristan da Cunhan lippu</string>
+	<key>👻</key>
+	<string>haamu</string>
+	<key>🇵🇦</key>
+	<string>Panaman lippu</string>
+	<key>👼</key>
+	<string>vauvaenkeli</string>
+	<key>❣️</key>
+	<string>punainen sydän huutomerkkinä</string>
+	<key>👽</key>
+	<string>avaruusolento</string>
+	<key>🇱🇦</key>
+	<string>Laosin lippu</string>
+	<key>👾</key>
+	<string>avaruushirviö</string>
+	<key>👿</key>
+	<string>vihaiset kasvot ja sarvet</string>
+	<key>💀</key>
+	<string>pääkallo</string>
+	<key>🇱🇧</key>
+	<string>Libanonin lippu</string>
+	<key>👨‍🦳</key>
+	<string>valkohiuksinen mies</string>
+	<key>💁</key>
+	<string>neuvontapisteen hoitaja</string>
+	<key>🇹🇨</key>
+	<string>Turks- ja Caicossaarten lippu</string>
+	<key>🧜‍♂️</key>
+	<string>vetehinen</string>
+	<key>💂</key>
+	<string>vartija</string>
+	<key>💃</key>
+	<string>tanssiva nainen</string>
+	<key>◼️</key>
+	<string>musta keskikokoinen neliö</string>
+	<key>🇱🇨</key>
+	<string>Saint Lucian lippu</string>
+	<key>💄</key>
+	<string>huulipuna</string>
+	<key>🇹🇩</key>
+	<string>Tšadin lippu</string>
+	<key>💅</key>
+	<string>kynsilakka</string>
+	<key>💆</key>
+	<string>henkilö, jonka päätä hierotaan</string>
+	<key>💇</key>
+	<string>henkilön hiuksia leikataan</string>
+	<key>🗜️</key>
+	<string>puristin</string>
+	<key>💈</key>
+	<string>parturipylväs</string>
+	<key>💉</key>
+	<string>ruisku</string>
+	<key>🇵🇪</key>
+	<string>Perun lippu</string>
+	<key>💊</key>
+	<string>pilleri</string>
+	<key>💋</key>
+	<string>suudelmamerkki</string>
+	<key>🇹🇫</key>
+	<string>Ranskan eteläisten alueiden lippu</string>
+	<key>💌</key>
+	<string>rakkauskirje</string>
+	<key>👩‍❤️‍👩</key>
+	<string>kaksi naista ja sydän</string>
+	<key>🇵🇫</key>
+	<string>Ranskan Polynesian lippu</string>
+	<key>🛤️</key>
+	<string>rautatie</string>
+	<key>💍</key>
+	<string>sormus</string>
+	<key>🆎</key>
+	<string>veriryhmä AB</string>
+	<key>🇩🇪</key>
+	<string>Saksan lippu</string>
+	<key>🈂️</key>
+	<string>Japanilainen merkki, joka tarkoittaa palvelua tai palvelumaksua</string>
+	<key>💎</key>
+	<string>korukivi</string>
+	<key>♍️</key>
+	<string>Neitsyt</string>
+	<key>🇹🇬</key>
+	<string>Togon lippu</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>kaksi naista suutelee</string>
+	<key>💏</key>
+	<string>suuteleva pari</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>ihmiset käsi kädessä</string>
+	<key>💐</key>
+	<string>kukkakimppu</string>
+	<key>⛽️</key>
+	<string>polttoainepumppu</string>
+	<key>🇵🇬</key>
+	<string>Papua-Uuden-Guinean lippu</string>
+	<key>🖱️</key>
+	<string>tietokoneen hiiri</string>
+	<key>🆑</key>
+	<string>CL-merkki</string>
+	<key>💑</key>
+	<string>pari, jonka välissä on sydän</string>
+	<key>🆒</key>
+	<string>cool-merkki</string>
+	<key>🇹🇭</key>
+	<string>Thaimaan lippu</string>
+	<key>💒</key>
+	<string>häät</string>
+	<key>🆓</key>
+	<string>free-merkki</string>
+	<key>💓</key>
+	<string>sykkivä sydän</string>
+	<key>🆔</key>
+	<string>henkilöllisyystodistusmerkki</string>
+	<key>🇵🇭</key>
+	<string>Filippiinien lippu</string>
+	<key>👩‍⚖️</key>
+	<string>naistuomari</string>
+	<key>💔</key>
+	<string>särkynyt sydän</string>
+	<key>🇩🇬</key>
+	<string>Diego Garcian lippu</string>
+	<key>🆕</key>
+	<string>new-merkki</string>
+	<key>🅿️</key>
+	<string>pysäköintimerkki</string>
+	<key>💕</key>
+	<string>kaksi sydäntä</string>
+	<key>🤹‍♀️</key>
+	<string>nainen jongleeraa</string>
+	<key>🆖</key>
+	<string>no good -merkki</string>
+	<key>💖</key>
+	<string>säihkyvä sydän</string>
+	<key>🆗</key>
+	<string>OK-merkki</string>
+	<key>💗</key>
+	<string>kasvava sydän</string>
+	<key>👳‍♂️</key>
+	<string>turbaanipäinen mies</string>
+	<key>🆘</key>
+	<string>SOS-merkki</string>
+	<key>💘</key>
+	<string>sydän nuolella</string>
+	<key>🇱🇮</key>
+	<string>Liechtensteinin lippu</string>
+	<key>🆙</key>
+	<string>up-merkki</string>
+	<key>🈯️</key>
+	<string>Japanilainen merkki, joka tarkoittaa varattua</string>
+	<key>🇹🇯</key>
+	<string>Tadžikistanin lippu</string>
+	<key>💙</key>
+	<string>sininen sydän</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>perhe, jossa on kaksi isää ja kaksi poikaa</string>
+	<key>🆚</key>
+	<string>neliöity vs</string>
+	<key>💚</key>
+	<string>vihreä sydän</string>
+	<key>🇽🇰</key>
+	<string>Kosovon lippu</string>
+	<key>💛</key>
+	<string>keltainen sydän</string>
+	<key>🗞️</key>
+	<string>kääritty sanomalehti</string>
+	<key>💜</key>
+	<string>purppuranvärinen sydän</string>
+	<key>🇹🇰</key>
+	<string>Tokelaun lippu</string>
+	<key>💝</key>
+	<string>sydän nauhalla</string>
+	<key>🇵🇰</key>
+	<string>Pakistanin lippu</string>
+	<key>💞</key>
+	<string>pyörivät sydämet</string>
+	<key>🇩🇯</key>
+	<string>Djiboutin lippu</string>
+	<key>💟</key>
+	<string>sydänkoriste</string>
+	<key>🇱🇰</key>
+	<string>Sri Lankan lippu</string>
+	<key>🇹🇱</key>
+	<string>Itä-Timorin lippu</string>
+	<key>👩‍🤝‍👨</key>
+	<string>nainen ja mies käsi kädessä</string>
+	<key>💠</key>
+	<string>vinoneliö, jonka sisällä on piste</string>
+	<key>🇭🇰</key>
+	<string>Hongkongin lippu</string>
+	<key>💡</key>
+	<string>hehkulamppu</string>
+	<key>🇵🇱</key>
+	<string>Puolan lippu</string>
+	<key>🇩🇰</key>
+	<string>Tanskan lippu</string>
+	<key>💢</key>
+	<string>vihaisuussymboli</string>
+	<key>🇹🇲</key>
+	<string>Turkmenistanin lippu</string>
+	<key>💣</key>
+	<string>pommi</string>
+	<key>⚗️</key>
+	<string>tislauskolvi</string>
+	<key>💤</key>
+	<string>nukkumismerkki</string>
+	<key>🇵🇲</key>
+	<string>Saint-Pierre ja Miquelonin lippu</string>
+	<key>💥</key>
+	<string>räjähdys</string>
+	<key>❇️</key>
+	<string>säihke</string>
+	<key>💦</key>
+	<string>vesipisarat</string>
+	<key>🇹🇳</key>
+	<string>Tunisian lippu</string>
+	<key>🧑‍🦼</key>
+	<string>henkilö moottoroidussa pyörätuolissa</string>
+	<key>💧</key>
+	<string>vesipisara</string>
+	<key>🇭🇲</key>
+	<string>Heard ja McDonaldinsaarten lippu</string>
+	<key>🇵🇳</key>
+	<string>Pitcairnin lippu</string>
+	<key>💨</key>
+	<string>tuulenpuuska</string>
+	<key>🇩🇲</key>
+	<string>Dominican lippu</string>
+	<key>💩</key>
+	<string>kakkakasa</string>
+	<key>🙎‍♀️</key>
+	<string>murjottava nainen</string>
+	<key>🇹🇴</key>
+	<string>Tongan lippu</string>
+	<key>💪</key>
+	<string>jännitetty hauis</string>
+	<key>🇭🇳</key>
+	<string>Hondurasin lippu</string>
+	<key>👩‍👦</key>
+	<string>perhe, jossa on äiti ja poika</string>
+	<key>💫</key>
+	<string>huimaussymboli</string>
+	<key>💇‍♂️</key>
+	<string>miehen hiuksia leikataan</string>
+	<key>💬</key>
+	<string>puhekupla</string>
+	<key>☸️</key>
+	<string>dharma-pyörä</string>
+	<key>💭</key>
+	<string>ajatuskupla</string>
+	<key>🧑‍🦽</key>
+	<string>henkilö käsikäyttöisessä pyörätuolissa</string>
+	<key>💮</key>
+	<string>valkoinen kukka</string>
+	<key>💯</key>
+	<string>sata pistettä -symboli</string>
+	<key>🇩🇴</key>
+	<string>Dominikaanisen tasavallan lippu</string>
+	<key>💰</key>
+	<string>rahasäkki</string>
+	<key>💱</key>
+	<string>valuutanvaihto</string>
+	<key>😵‍💫</key>
+	<string>silmät spiraaleina</string>
+	<key>👩‍👧</key>
+	<string>perhe, jossa on äiti ja tytär</string>
+	<key>🧟‍♂️</key>
+	<string>mieszombie</string>
+	<key>💲</key>
+	<string>dollarimerkki</string>
+	<key>💳</key>
+	<string>luottokortti</string>
+	<key>🇹🇷</key>
+	<string>Turkin lippu</string>
+	<key>💴</key>
+	<string>jenin seteleitä</string>
+	<key>💵</key>
+	<string>dollarin seteleitä</string>
+	<key>🇵🇷</key>
+	<string>Puerto Ricon lippu</string>
+	<key>💶</key>
+	<string>euron seteleitä</string>
+	<key>🇱🇷</key>
+	<string>Liberian lippu</string>
+	<key>💷</key>
+	<string>punnan seteleitä</string>
+	<key>💸</key>
+	<string>seteli, jolla on siivet</string>
+	<key>🇭🇷</key>
+	<string>Kroatian lippu</string>
+	<key>🇵🇸</key>
+	<string>Palestiinalaisalueiden lippu</string>
+	<key>💹</key>
+	<string>kaavio, jossa nouseva trendi ja jenin merkki</string>
+	<key>💺</key>
+	<string>istuin</string>
+	<key>🇱🇸</key>
+	<string>Lesothon lippu</string>
+	<key>🇹🇹</key>
+	<string>Trinidad ja Tobagon lippu</string>
+	<key>💻</key>
+	<string>kannettava tietokone</string>
+	<key>💼</key>
+	<string>salkku</string>
+	<key>👨‍🦼</key>
+	<string>mies moottoroidussa pyörätuolissa</string>
+	<key>🇵🇹</key>
+	<string>Portugalin lippu</string>
+	<key>💽</key>
+	<string>minidisc</string>
+	<key>🇱🇹</key>
+	<string>Liettuan lippu</string>
+	<key>💾</key>
+	<string>levyke</string>
+	<key>🇭🇹</key>
+	<string>Haitin lippu</string>
+	<key>💿</key>
+	<string>cd</string>
+	<key>📀</key>
+	<string>dvd</string>
+	<key>🤷‍♂️</key>
+	<string>mies kohauttaa olkapäitään</string>
+	<key>📁</key>
+	<string>suljettu arkistokansio</string>
+	<key>🇱🇺</key>
+	<string>Luxemburgin lippu</string>
+	<key>☪️</key>
+	<string>tähti ja kuunsirppi</string>
+	<key>🇹🇻</key>
+	<string>Tuvalun lippu</string>
+	<key>📂</key>
+	<string>avoin arkistokansio</string>
+	<key>4️⃣</key>
+	<string>näppäin neljä</string>
+	<key>🇭🇺</key>
+	<string>Unkarin lippu</string>
+	<key>👨‍🦽</key>
+	<string>mies käsikäyttöisessä pyörätuolissa</string>
+	<key>📃</key>
+	<string>sivu, jonka alaosa on rullalla</string>
+	<key>🖊️</key>
+	<string>kuulakärkikynä</string>
+	<key>📄</key>
+	<string>sivun tekstipuoli</string>
+	<key>🇱🇻</key>
+	<string>Latvian lippu</string>
+	<key>🇹🇼</key>
+	<string>Taiwanin lippu</string>
+	<key>📅</key>
+	<string>kalenteri</string>
+	<key>🤼‍♀️</key>
+	<string>painivat naiset</string>
+	<key>📆</key>
+	<string>repäisykalenteri</string>
+	<key>🇵🇼</key>
+	<string>Palaun lippu</string>
+	<key>📇</key>
+	<string>korttihakemisto</string>
+	<key>📈</key>
+	<string>kaavio, jossa on nouseva trendi</string>
+	<key>🧑‍🔧</key>
+	<string>mekaanikko</string>
+	<key>📉</key>
+	<string>kaavio, jossa laskeva trendi</string>
+	<key>〰️</key>
+	<string>aaltoviiva</string>
+	<key>📊</key>
+	<string>palkkikaavio</string>
+	<key>📋</key>
+	<string>kirjoituslevy</string>
+	<key>☣️</key>
+	<string>biovaara</string>
+	<key>📌</key>
+	<string>nasta</string>
+	<key>♻️</key>
+	<string>kierrätyssymboli</string>
+	<key>📍</key>
+	<string>pyöreä nasta</string>
+	<key>🇵🇾</key>
+	<string>Paraguayn lippu</string>
+	<key>⛓️</key>
+	<string>ketjut</string>
+	<key>📎</key>
+	<string>paperiliitin</string>
+	<key>🧎‍♂️</key>
+	<string>polvistuva mies</string>
+	<key>🇱🇾</key>
+	<string>Libyan lippu</string>
+	<key>📏</key>
+	<string>viivoitin</string>
+	<key>🇹🇿</key>
+	<string>Tansanian lippu</string>
+	<key>📐</key>
+	<string>kolmioviivain</string>
+	<key>📑</key>
+	<string>kirjanmerkkivälilehdet</string>
+	<key>📒</key>
+	<string>tilikirja</string>
+	<key>📓</key>
+	<string>muistiinpanokirja</string>
+	<key>👩‍🤝‍👩</key>
+	<string>naiset käsi kädessä</string>
+	<key>📔</key>
+	<string>muistikirja, jossa on koristeellinen kansi</string>
+	<key>🇩🇿</key>
+	<string>Algerian lippu</string>
+	<key>📕</key>
+	<string>punainen oppikirja</string>
+	<key>📖</key>
+	<string>avoin kirja</string>
+	<key>📗</key>
+	<string>vihreä oppikirja</string>
+	<key>🖌️</key>
+	<string>sivellin</string>
+	<key>📘</key>
+	<string>sininen oppikirja</string>
+	<key>📙</key>
+	<string>oranssi oppikirja</string>
+	<key>👩‍👩‍👦</key>
+	<string>perhe, jossa on kaksi äitiä ja poika</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>perhe, jossa on kaksi isää ja kaksi tytärtä</string>
+	<key>📚</key>
+	<string>kirjat</string>
+	<key>📛</key>
+	<string>nimilappu</string>
+	<key>📜</key>
+	<string>käärö</string>
+	<key>📝</key>
+	<string>muistio</string>
+	<key>↖️</key>
+	<string>nuoli ylävasemmalle</string>
+	<key>🤦‍♂️</key>
+	<string>mies käsi kasvoilla</string>
+	<key>📞</key>
+	<string>puhelinluuri</string>
+	<key>👩‍🎓</key>
+	<string>naisopiskelija</string>
+	<key>👩‍🚒</key>
+	<string>palonainen</string>
+	<key>⤴️</key>
+	<string>ylös kaartuva oikea nuoli</string>
+	<key>👨‍🔧</key>
+	<string>miesmekaanikko</string>
+	<key>📟</key>
+	<string>hakulaite</string>
+	<key>☕️</key>
+	<string>kuuma juoma</string>
+	<key>📠</key>
+	<string>faksi</string>
+	<key>📡</key>
+	<string>satelliittiantenni</string>
+	<key>⛅️</key>
+	<string>pilven takaa häämöttävä aurinko</string>
+	<key>📢</key>
+	<string>kovaääninen</string>
+	<key>🧑‍🌾</key>
+	<string>maanviljelijä</string>
+	<key>✝️</key>
+	<string>Latinalainen risti</string>
+	<key>📣</key>
+	<string>pauhaava megafoni</string>
+	<key>📤</key>
+	<string>lähtevät-laatikko</string>
+	<key>📥</key>
+	<string>saapuneet-laatikko</string>
+	<key>📦</key>
+	<string>paketti</string>
+	<key>📧</key>
+	<string>sähköposti</string>
+	<key>📨</key>
+	<string>saapuva kirjekuori</string>
+	<key>📩</key>
+	<string>kirjekuori ja nuoli</string>
+	<key>▶️</key>
+	<string>oikealle osoittava kolmio</string>
+	<key>🧑‍🔬</key>
+	<string>tieteilijä</string>
+	<key>📪</key>
+	<string>suljettu postilaatikko, jonka lippu on laskettu</string>
+	<key>☎️</key>
+	<string>puhelin</string>
+	<key>🈷️</key>
+	<string>Japanilainen merkki, joka tarkoittaa kuukausittaista määrää</string>
+	<key>♦️</key>
+	<string>ruutumerkki</string>
+	<key>📫</key>
+	<string>suljettu postilaatikko lippu ylhäällä</string>
+	<key>📬</key>
+	<string>auki oleva postilaatikko, jonka lippu on nostettu</string>
+	<key>⚾️</key>
+	<string>pesäpallo</string>
+	<key>📭</key>
+	<string>auki oleva postilaatikko, jonka lippu on laskettu</string>
+	<key>✖️</key>
+	<string>kertomerkki</string>
+	<key>📮</key>
+	<string>postilaatikko</string>
+	<key>📯</key>
+	<string>postitorvi</string>
+	<key>🏄‍♀️</key>
+	<string>naissurffaaja</string>
+	<key>📰</key>
+	<string>sanomalehti</string>
+	<key>📱</key>
+	<string>matkapuhelin</string>
+	<key>🎗️</key>
+	<string>muistonauha</string>
+	<key>📲</key>
+	<string>puhelin nuolella</string>
+	<key>📳</key>
+	<string>värinätila</string>
+	<key>📴</key>
+	<string>matkapuhelin pois päältä</string>
+	<key>📵</key>
+	<string>ei matkapuhelimia</string>
+	<key>♟️</key>
+	<string>šakkipelin sotilas</string>
+	<key>📶</key>
+	<string>mobiilisignaalin palkit</string>
+	<key>📷</key>
+	<string>kamera</string>
+	<key>✏️</key>
+	<string>lyijykynä</string>
+	<key>📸</key>
+	<string>kamera, jonka salama välkkyy</string>
+	<key>👨‍🌾</key>
+	<string>miesmaanviljelijä</string>
+	<key>📹</key>
+	<string>videokamera</string>
+	<key>📺</key>
+	<string>televisio</string>
+	<key>🐻‍❄️</key>
+	<string>jääkarhu</string>
+	<key>📻</key>
+	<string>radio</string>
+	<key>📼</key>
+	<string>videokasetti</string>
+	<key>☀️</key>
+	<string>aurinko</string>
+	<key>📿</key>
+	<string>rukousnauha</string>
+	<key>👨‍🔬</key>
+	<string>miestieteilijä</string>
+	<key>🔀</key>
+	<string>sekoita raitoja -symboli</string>
+	<key>🈁</key>
+	<string>Japanilainen merkki, joka tarkoittaa täällä</string>
+	<key>⚰️</key>
+	<string>arkku</string>
+	<key>🔁</key>
+	<string>uudelleentoistosymboli</string>
+	<key>🖐️</key>
+	<string>kohotettu käsi sormet harallaan</string>
+	<key>✈️</key>
+	<string>lentokone</string>
+	<key>🔂</key>
+	<string>uudelleentoista yhtä raitaa ‑symboli</string>
+	<key>🗨️</key>
+	<string>vasen puhekupla</string>
+	<key>🔃</key>
+	<string>myötäpäiväiset pystysuuntaiset nuolet</string>
+	<key>🧖‍♀️</key>
+	<string>saunova nainen</string>
+	<key>🔄</key>
+	<string>vastapäiväiset nuolet</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>perhe, jossa on kaksi äitiä ja kaksi poikaa</string>
+	<key>👩‍⚕️</key>
+	<string>naishoitotyöntekijä</string>
+	<key>™️</key>
+	<string>tavaramerkki</string>
+	<key>🔅</key>
+	<string>alhaisen kirkkauden symboli</string>
+	<key>🔆</key>
+	<string>korkean kirkkauden symboli</string>
+	<key>🎙️</key>
+	<string>studiomikrofoni</string>
+	<key>🔇</key>
+	<string>mykistetty kaiutin</string>
+	<key>🔈</key>
+	<string>kaiutin</string>
+	<key>🛰️</key>
+	<string>satelliitti</string>
+	<key>🔉</key>
+	<string>kaiutin normaalilla äänenvoimakkuudella</string>
+	<key>♑️</key>
+	<string>Kauris</string>
+	<key>🔊</key>
+	<string>kaiutin kovalla äänenvoimakkuudella</string>
+	<key>🔋</key>
+	<string>paristo</string>
+	<key>🔌</key>
+	<string>virtapistoke</string>
+	<key>👩‍👩‍👧</key>
+	<string>perhe, jossa on kaksi äitiä ja tytär</string>
+	<key>🔍</key>
+	<string>vasemmalle osoittava suurennuslasi</string>
+	<key>🔎</key>
+	<string>oikealle osoittava suurennuslasi</string>
+	<key>🔏</key>
+	<string>lukko ja mustekynä</string>
+	<key>🔐</key>
+	<string>suljettu lukko ja avain</string>
+	<key>🔑</key>
+	<string>avain</string>
+	<key>🔒</key>
+	<string>lukittu lukko</string>
+	<key>🔓</key>
+	<string>avoin lukko</string>
+	<key>♊️</key>
+	<string>Kaksoset</string>
+	<key>🔔</key>
+	<string>kello</string>
+	<key>🔕</key>
+	<string>mykistetty kello</string>
+	<key>⛺️</key>
+	<string>teltta</string>
+	<key>🔖</key>
+	<string>kirjanmerkki</string>
+	<key>🔗</key>
+	<string>linkkisymboli</string>
+	<key>🔘</key>
+	<string>valintapainike</string>
+	<key>🔙</key>
+	<string>sana BACK ja nuoli</string>
+	<key>🔚</key>
+	<string>sana END ja nuoli</string>
+	<key>🔛</key>
+	<string>sana ON huutomerkillä ja nuoli</string>
+	<key>🎛️</key>
+	<string>säätimet</string>
+	<key>🔜</key>
+	<string>sana SOON ja nuoli</string>
+	<key>🏳️</key>
+	<string>valkoinen lippu</string>
+	<key>🔝</key>
+	<string>sana TOP ja nuoli</string>
+	<key>🔞</key>
+	<string>ei alle 18-vuotiaita ‑merkki</string>
+	<key>🔟</key>
+	<string>näppäin kymmenen</string>
+	<key>⚛️</key>
+	<string>atomisymboli</string>
+	<key>🔠</key>
+	<string>syöttösymboli isoille kirjaimille</string>
+	<key>⛳️</key>
+	<string>lippu golfreiässä</string>
+	<key>🔡</key>
+	<string>syöttösymboli pienille kirjaimille</string>
+	<key>🤽‍♂️</key>
+	<string>mies pelaa vesipalloa</string>
+	<key>🔢</key>
+	<string>syöttösymboli numeroille</string>
+	<key>🔣</key>
+	<string>syöttösymboli symboleille</string>
+	<key>🔤</key>
+	<string>syöttösymboli kirjaimille</string>
+	<key>🔥</key>
+	<string>tuli</string>
+	<key>🔦</key>
+	<string>taskulamppu</string>
+	<key>🔧</key>
+	<string>jakoavain</string>
+	<key>🔨</key>
+	<string>vasara</string>
+	<key>🔩</key>
+	<string>mutteri ja pultti</string>
+	<key>⚔️</key>
+	<string>miekat ristissä</string>
+	<key>🔪</key>
+	<string>veitsi</string>
+	<key>🔫</key>
+	<string>vesipyssy</string>
+	<key>❄️</key>
+	<string>lumihiutale</string>
+	<key>🔬</key>
+	<string>mikroskooppi</string>
+	<key>💁‍♀️</key>
+	<string>neuvontapistenainen</string>
+	<key>🔭</key>
+	<string>teleskooppi</string>
+	<key>🔮</key>
+	<string>kristallipallo</string>
+	<key>🧔‍♂️</key>
+	<string>parrakas mies</string>
+	<key>🔯</key>
+	<string>kuusisakarainen tähti jossa piste keskellä</string>
+	<key>🔰</key>
+	<string>Japanilainen aloittelijan symboli</string>
+	<key>🔱</key>
+	<string>kolmikärkisymboli</string>
+	<key>🈲</key>
+	<string>Japanilainen merkki, joka tarkoittaa kiellettyä</string>
+	<key>🏵️</key>
+	<string>ruusuke</string>
+	<key>🔲</key>
+	<string>musta neliöpainike</string>
+	<key>🈳</key>
+	<string>Japanilainen merkki, joka tarkoittaa vapaata tilaa</string>
+	<key>🔳</key>
+	<string>valkoinen neliöpainike</string>
+	<key>🈴</key>
+	<string>Japanilainen merkki, joka tarkoittaa hyväksyttyä arvosanaa</string>
+	<key>🧙‍♀️</key>
+	<string>naismaagi</string>
+	<key>🔴</key>
+	<string>punainen ympyrä</string>
+	<key>🈵</key>
+	<string>Japanilainen merkki, joka tarkoittaa täynnä, ei vapaata tilaa</string>
+	<key>🔵</key>
+	<string>sininen ympyrä</string>
+	<key>🈶</key>
+	<string>Japanilainen merkki, joka tarkoittaa maksullista</string>
+	<key>🔶</key>
+	<string>suuri oranssi vinoneliö</string>
+	<key>🔷</key>
+	<string>suuri sininen vinoneliö</string>
+	<key>🈸</key>
+	<string>Japanilainen merkki, joka tarkoittaa hakemusta</string>
+	<key>🔸</key>
+	<string>pieni oranssi vinoneliö</string>
+	<key>🈹</key>
+	<string>Japanilainen merkki, joka tarkoittaa alennusta</string>
+	<key>🔹</key>
+	<string>pieni sininen vinoneliö</string>
+	<key>9️⃣</key>
+	<string>näppäin yhdeksän</string>
+	<key>🈺</key>
+	<string>Japanilainen merkki, joka tarkoittaa avoinna</string>
+	<key>🔺</key>
+	<string>ylöspäin osoittava punainen kolmio</string>
+	<key>🔻</key>
+	<string>alaspäin osoittava punainen kolmio</string>
+	<key>🀄️</key>
+	<string>mahjong-laatta punainen lohikäärme</string>
+	<key>🔼</key>
+	<string>ylös osoittava kolmio</string>
+	<key>🚵‍♀️</key>
+	<string>naismaastopyöräilijä</string>
+	<key>☮️</key>
+	<string>rauhanmerkki</string>
+	<key>🔽</key>
+	<string>alaspäin osoittava kolmio</string>
+	<key>👨‍👦‍👦</key>
+	<string>perhe, jossa on isä ja kaksi poikaa</string>
+	<key>⬅️</key>
+	<string>nuoli vasemmalle</string>
+	<key>⛎</key>
+	<string>Käärmeenkantaja</string>
+	<key>🎟️</key>
+	<string>pääsylippu</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>perhe, jossa on kaksi äitiä ja kaksi tytärtä</string>
+	<key>🏷️</key>
+	<string>nimilappu</string>
+	<key>2️⃣</key>
+	<string>näppäin kaksi</string>
+	<key>♿️</key>
+	<string>pyörätuolin symboli</string>
+	<key>👰‍♀️</key>
+	<string>hunnutettu nainen</string>
+	<key>🗃️</key>
+	<string>kortistolaatikko</string>
+	<key>🕋</key>
+	<string>Kaaba</string>
+	<key>🕌</key>
+	<string>moskeija</string>
+	<key>🕍</key>
+	<string>synagoga</string>
+	<key>🕎</key>
+	<string>menora</string>
+	<key>👩‍🎤</key>
+	<string>naislaulaja</string>
+	<key>🉐</key>
+	<string>Japanilainen merkki, joka tarkoittaa hyvää ostosta</string>
+	<key>🏌️</key>
+	<string>golfaaja</string>
+	<key>🛋️</key>
+	<string>sohva ja lamppu</string>
+	<key>🕐</key>
+	<string>kello yksi</string>
+	<key>🏊‍♀️</key>
+	<string>naisuimari</string>
+	<key>🉑</key>
+	<string>Japanilainen merkki, joka tarkoittaa hyväksyttävää</string>
+	<key>☠️</key>
+	<string>pääkallo ja luut ristissä</string>
+	<key>🕑</key>
+	<string>kello kaksi</string>
+	<key>🕒</key>
+	<string>kello kolme</string>
+	<key>🏋️‍♀️</key>
+	<string>naispainonnostaja</string>
+	<key>🕓</key>
+	<string>kello neljä</string>
+	<key>🕔</key>
+	<string>kello viisi</string>
+	<key>🕕</key>
+	<string>kello kuusi</string>
+	<key>🕖</key>
+	<string>kello seitsemän</string>
+	<key>🙆‍♀️</key>
+	<string>nainen, joka tekee ok-merkin</string>
+	<key>🕗</key>
+	<string>kello kahdeksan</string>
+	<key>🕘</key>
+	<string>kello yhdeksän</string>
+	<key>🕙</key>
+	<string>kello kymmenen</string>
+	<key>🕚</key>
+	<string>kello yksitoista</string>
+	<key>🕛</key>
+	<string>kello kaksitoista</string>
+	<key>🕜</key>
+	<string>yksi kolmekymmentä</string>
+	<key>🇺🇦</key>
+	<string>Ukrainan lippu</string>
+	<key>🕝</key>
+	<string>kaksi kolmekymmentä</string>
+	<key>🇶🇦</key>
+	<string>Qatarin lippu</string>
+	<key>🕞</key>
+	<string>kolme kolmekymmentä</string>
+	<key>✡️</key>
+	<string>Daavidin tähti</string>
+	<key>🇲🇦</key>
+	<string>Marokon lippu</string>
+	<key>🕟</key>
+	<string>neljä kolmekymmentä</string>
+	<key>🧗‍♂️</key>
+	<string>miesvuorikiipeilijä</string>
+	<key>🕠</key>
+	<string>viisi kolmekymmentä</string>
+	<key>🕡</key>
+	<string>kuusi kolmekymmentä</string>
+	<key>🇪🇦</key>
+	<string>Ceutan ja Melillan lippu</string>
+	<key>🕢</key>
+	<string>seitsemän kolmekymmentä</string>
+	<key>✅</key>
+	<string>valintamerkkisymboli</string>
+	<key>🕣</key>
+	<string>kahdeksan kolmekymmentä</string>
+	<key>🧜‍♀️</key>
+	<string>merenneito</string>
+	<key>🏎️</key>
+	<string>kilpa-auto</string>
+	<key>🕤</key>
+	<string>yhdeksän kolmekymmentä</string>
+	<key>🛍️</key>
+	<string>kauppakassit</string>
+	<key>🕥</key>
+	<string>kymmenen kolmekymmentä</string>
+	<key>✊</key>
+	<string>kohotettu nyrkki</string>
+	<key>🇲🇨</key>
+	<string>Monacon lippu</string>
+	<key>✋</key>
+	<string>kohotettu käsi</string>
+	<key>🕦</key>
+	<string>yksitoista kolmekymmentä</string>
+	<key>🕧</key>
+	<string>kaksitoista kolmekymmentä</string>
+	<key>🇮🇨</key>
+	<string>Kanariansaarten lippu</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>Walesin lippu</string>
+	<key>🇾🇪</key>
+	<string>Jemenin lippu</string>
+	<key>🇪🇨</key>
+	<string>Ecuadorin lippu</string>
+	<key>👩‍🎨</key>
+	<string>naistaiteilija</string>
+	<key>🇲🇩</key>
+	<string>Moldovan lippu</string>
+	<key>🇦🇨</key>
+	<string>Ascensionin lippu</string>
+	<key>🇮🇩</key>
+	<string>Indonesian lippu</string>
+	<key>🇲🇪</key>
+	<string>Montenegron lippu</string>
+	<key>🇦🇩</key>
+	<string>Andorran lippu</string>
+	<key>🇮🇪</key>
+	<string>Irlannin lippu</string>
+	<key>🇪🇪</key>
+	<string>Viron lippu</string>
+	<key>🇲🇫</key>
+	<string>Saint-Martinin lippu</string>
+	<key>🇺🇬</key>
+	<string>Ugandan lippu</string>
+	<key>♣️</key>
+	<string>ristimerkki</string>
+	<key>🇦🇪</key>
+	<string>Yhdistyneiden arabiemiirikuntien lippu</string>
+	<key>🕯️</key>
+	<string>kynttilä</string>
+	<key>🇲🇬</key>
+	<string>Madagaskarin lippu</string>
+	<key>🇦🇫</key>
+	<string>Afganistanin lippu</string>
+	<key>👮‍♂️</key>
+	<string>miespoliisi</string>
+	<key>🇪🇬</key>
+	<string>Egyptin lippu</string>
+	<key>🇲🇭</key>
+	<string>Marshallsaarten lippu</string>
+	<key>✨</key>
+	<string>säihkeet</string>
+	<key>🇦🇬</key>
+	<string>Antigua ja Barbudan lippu</string>
+	<key>🛏️</key>
+	<string>sänky</string>
+	<key>👳‍♀️</key>
+	<string>turbaanipäinen nainen</string>
+	<key>🇪🇭</key>
+	<string>Länsi-Saharan lippu</string>
+	<key>☄️</key>
+	<string>komeetta</string>
+	<key>🕺</key>
+	<string>tanssiva mies</string>
+	<key>✌️</key>
+	<string>rauhan käsimerkki</string>
+	<key>❤️</key>
+	<string>punainen sydän</string>
+	<key>⏭️</key>
+	<string>ohita eteenpäin -symboli</string>
+	<key>🇦🇮</key>
+	<string>Anguillan lippu</string>
+	<key>🇲🇰</key>
+	<string>Pohjois-Makedonian lippu</string>
+	<key>◽️</key>
+	<string>valkoinen keskikokoinen pikkuneliö</string>
+	<key>🇲🇱</key>
+	<string>Malin lippu</string>
+	<key>🈚️</key>
+	<string>Japanilainen merkki, joka tarkoittaa ilmaista</string>
+	<key>🇺🇲</key>
+	<string>Yhdysvaltain pienten erillissaarien lippu</string>
+	<key>🇮🇱</key>
+	<string>Israelin lippu</string>
+	<key>🇲🇲</key>
+	<string>Myanmarin (Burman) lippu</string>
+	<key>💂‍♂️</key>
+	<string>vartiomies</string>
+	<key>🇺🇳</key>
+	<string>Yhdistyneiden kansakuntien lippu</string>
+	<key>🇦🇱</key>
+	<string>Albanian lippu</string>
+	<key>🧑‍💻</key>
+	<string>teknologiatyöntekijä</string>
+	<key>🇮🇲</key>
+	<string>Mansaaren lippu</string>
+	<key>⛹️‍♂️</key>
+	<string>mieskoripalloilija</string>
+	<key>🇲🇳</key>
+	<string>Mongolian lippu</string>
+	<key>🇦🇲</key>
+	<string>Armenian lippu</string>
+	<key>🇮🇳</key>
+	<string>Intian lippu</string>
+	<key>❌</key>
+	<string>ristimerkki</string>
+	<key>💇‍♀️</key>
+	<string>naisen hiuksia leikataan</string>
+	<key>❎</key>
+	<string>X-merkki</string>
+	<key>🇲🇴</key>
+	<string>Macaon lippu</string>
+	<key>♎️</key>
+	<string>Vaaka</string>
+	<key>🧚‍♂️</key>
+	<string>mieskeiju</string>
+	<key>🧑‍💼</key>
+	<string>toimistotyöntekijä</string>
+	<key>🇮🇴</key>
+	<string>Brittiläisen Intian valtameren alueen lippu</string>
+	<key>❓</key>
+	<string>punainen kysymysmerkki</string>
+	<key>❔</key>
+	<string>valkoinen kysymysmerkki</string>
+	<key>🇲🇵</key>
+	<string>Pohjois-Mariaanien lippu</string>
+	<key>❕</key>
+	<string>valkoinen huutomerkki</string>
+	<key>🇦🇴</key>
+	<string>Angolan lippu</string>
+	<key>🧟‍♀️</key>
+	<string>naiszombie</string>
+	<key>🖕</key>
+	<string>keskisormi</string>
+	<key>🇲🇶</key>
+	<string>Martiniquen lippu</string>
+	<key>🖖</key>
+	<string>käsi, jonka sormet ovat erillään keskisormen ja nimettömän kohdalta</string>
+	<key>🇮🇶</key>
+	<string>Irakin lippu</string>
+	<key>🚶‍♂️</key>
+	<string>miesjalankulkija</string>
+	<key>🇲🇷</key>
+	<string>Mauritanian lippu</string>
+	<key>🇺🇸</key>
+	<string>Yhdysvaltain lippu</string>
+	<key>🇦🇶</key>
+	<string>Etelämantereen lippu</string>
+	<key>🇮🇷</key>
+	<string>Iranin lippu</string>
+	<key>🕳️</key>
+	<string>reikä</string>
+	<key>⌨️</key>
+	<string>näppäimistö</string>
+	<key>🇾🇹</key>
+	<string>Mayotten lippu</string>
+	<key>🇪🇷</key>
+	<string>Eritrean lippu</string>
+	<key>⛷️</key>
+	<string>hiihtäjä</string>
+	<key>🇲🇸</key>
+	<string>Montserratin lippu</string>
+	<key>🇦🇷</key>
+	<string>Argentiinan lippu</string>
+	<key>🇮🇸</key>
+	<string>Islannin lippu</string>
+	<key>👨‍💻</key>
+	<string>mies-IT-työntekijä</string>
+	<key>🌤️</key>
+	<string>pienen pilven takaa häämöttävä aurinko</string>
+	<key>🇪🇸</key>
+	<string>Espanjan lippu</string>
+	<key>🇲🇹</key>
+	<string>Maltan lippu</string>
+	<key>🇦🇸</key>
+	<string>Amerikan Samoan lippu</string>
+	<key>🇮🇹</key>
+	<string>Italian lippu</string>
+	<key>❤️‍🩹</key>
+	<string>parantuva sydän</string>
+	<key>🏔️</key>
+	<string>lumihuippuinen vuori</string>
+	<key>🇪🇹</key>
+	<string>Etiopian lippu</string>
+	<key>🤷‍♀️</key>
+	<string>nainen kohauttaa olkapäitään</string>
+	<key>🇲🇺</key>
+	<string>Mauritiuksen lippu</string>
+	<key>🇦🇹</key>
+	<string>Itävallan lippu</string>
+	<key>🖤</key>
+	<string>musta sydän</string>
+	<key>👩‍🦯</key>
+	<string>nainen ja valkoinen keppi</string>
+	<key>👱‍♂️</key>
+	<string>vaaleahiuksinen mies</string>
+	<key>👨‍💼</key>
+	<string>miestoimistotyöntekijä</string>
+	<key>⛰️</key>
+	<string>vuori</string>
+	<key>🇪🇺</key>
+	<string>Euroopan unionin lippu</string>
+	<key>🇲🇻</key>
+	<string>Malediivien lippu</string>
+	<key>🇦🇺</key>
+	<string>Australian lippu</string>
+	<key>🇲🇼</key>
+	<string>Malawin lippu</string>
+	<key>👩‍🦰</key>
+	<string>punatukkainen nainen</string>
+	<key>🇲🇽</key>
+	<string>Meksikon lippu</string>
+	<key>🇺🇾</key>
+	<string>Uruguayn lippu</string>
+	<key>🇦🇼</key>
+	<string>Aruban lippu</string>
+	<key>☹️</key>
+	<string>onnettomat kasvot</string>
+	<key>⌚️</key>
+	<string>kello</string>
+	<key>🕵️</key>
+	<string>etsivä</string>
+	<key>⛩️</key>
+	<string>Shinto-alttari</string>
+	<key>🇲🇾</key>
+	<string>Malesian lippu</string>
+	<key>🧎‍♀️</key>
+	<string>polvistuva nainen</string>
+	<key>🇺🇿</key>
+	<string>Uzbekistanin lippu</string>
+	<key>🇦🇽</key>
+	<string>Ahvenanmaan lippu</string>
+	<key>👩‍🦱</key>
+	<string>kiharatukkainen nainen</string>
+	<key>🙇‍♂️</key>
+	<string>kumartava mies</string>
+	<key>🌦️</key>
+	<string>sadepilven takaa häämöttävä aurinko</string>
+	<key>🇲🇿</key>
+	<string>Mosambikin lippu</string>
+	<key>🏖️</key>
+	<string>ranta ja aurinkovarjo</string>
+	<key>👩‍🦲</key>
+	<string>kalju nainen</string>
+	<key>🇦🇿</key>
+	<string>Azerbaidžanin lippu</string>
+	<key>➕</key>
+	<string>plusmerkki</string>
+	<key>🕊️</key>
+	<string>kyyhkynen</string>
+	<key>➖</key>
+	<string>miinusmerkki</string>
+	<key>➗</key>
+	<string>jakomerkki</string>
+	<key>🗺️</key>
+	<string>maailmankartta</string>
+	<key>👩‍🦳</key>
+	<string>valkohiuksinen nainen</string>
+	<key>7️⃣</key>
+	<string>näppäin seitsemän</string>
+	<key>🅰️</key>
+	<string>veriryhmä A</string>
+	<key>🤦‍♀️</key>
+	<string>nainen käsi kasvoilla</string>
+	<key>🧝‍♂️</key>
+	<string>mieshaltia</string>
+	<key>🕷️</key>
+	<string>hämähäkki</string>
+	<key>✳️</key>
+	<string>kahdeksanpiikkinen tähtimerkki</string>
+	<key>🌨️</key>
+	<string>pilvi ja lunta</string>
+	<key>🦸‍♂️</key>
+	<string>miessupersankari</string>
+	<key>➰</key>
+	<string>kiemurainen silmukka</string>
+	<key>🏘️</key>
+	<string>taloryhmä</string>
+	<key>0️⃣</key>
+	<string>näppäin nolla</string>
+	<key>🤵‍♂️</key>
+	<string>smokkipukuinen mies</string>
+	<key>⛔️</key>
+	<string>kielletty ajosuunta</string>
+	<key>👨‍👧‍👦</key>
+	<string>perhe, jossa on isä, poika ja tytär</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>perhe, jossa on äiti, isä ja kaksi poikaa</string>
+	<key>🧑‍🏫</key>
+	<string>opettaja</string>
+	<key>➿</key>
+	<string>kaksi kiemuraista silmukkaa</string>
+	<key>㊙️</key>
+	<string>Japanilainen merkki, joka tarkoittaa salaista</string>
+	<key>☝️</key>
+	<string>ylös osoittava etusormi</string>
+	<key>🕹️</key>
+	<string>ohjaussauva</string>
+	<key>🗑️</key>
+	<string>roskakori</string>
+	<key>🌪️</key>
+	<string>tornado</string>
+	<key>🧑‍🏭</key>
+	<string>tehdastyöntekijä</string>
+	<key>↗️</key>
+	<string>nuoli yläoikealle</string>
+	<key>⤵️</key>
+	<string>alas kaartuva oikea nuoli</string>
+	<key>🏚️</key>
+	<string>hylätty talo</string>
+	<key>©️</key>
+	<string>tekijänoikeusmerkki</string>
+	<key>👨‍🏫</key>
+	<string>miesopettaja</string>
+	<key>🗓️</key>
+	<string>kierresidottu kalenteri</string>
+	<key>⏸️</key>
+	<string>taukosymboli</string>
+	<key>🧑‍✈️</key>
+	<string>lentäjä</string>
+	<key>🌬️</key>
+	<string>tuulenhengettären pää</string>
+	<key>👨‍🏭</key>
+	<string>miestehdastyöntekijä</string>
+	<key>🏜️</key>
+	<string>aavikko</string>
+	<key>♠️</key>
+	<string>patamerkki</string>
+	<key>🖨️</key>
+	<string>tulostin</string>
+	<key>⏱️</key>
+	<string>sekuntikello</string>
+	<key>👩‍🦼</key>
+	<string>nainen moottoroidussa pyörätuolissa</string>
+	<key>🗻</key>
+	<string>fuji-vuori</string>
+	<key>🫱‍🫲</key>
+	<string>kättely</string>
+	<key>🗼</key>
+	<string>Tokyo Tower ‑torni</string>
+	<key>🗽</key>
+	<string>Vapaudenpatsas</string>
+	<key>🗾</key>
+	<string>Japanin siluetti</string>
+	<key>🤸‍♂️</key>
+	<string>kärrynpyörän tekevä mies</string>
+	<key>🌀</key>
+	<string>pyörremyrsky</string>
+	<key>🗿</key>
+	<string>Pääsiäissaaren patsas</string>
+	<key>☁️</key>
+	<string>pilvi</string>
+	<key>🌁</key>
+	<string>sumuinen silta</string>
+	<key>😀</key>
+	<string>virnistävät kasvot</string>
+	<key>👩‍🦽</key>
+	<string>nainen käsikäyttöisessä pyörätuolissa</string>
+	<key>🌂</key>
+	<string>suljettu sateenvarjo</string>
+	<key>😁</key>
+	<string>säteilevät kasvot ja hymyilevät silmät</string>
+	<key>⚱️</key>
+	<string>uurna</string>
+	<key>🌃</key>
+	<string>tähtiyö</string>
+	<key>😂</key>
+	<string>ilonkyyneleitä kasvoilla</string>
+	<key>✉️</key>
+	<string>kirjekuori</string>
+	<key>👨‍👧‍👧</key>
+	<string>perhe, jossa on isä ja kaksi tytärtä</string>
+	<key>🤽‍♀️</key>
+	<string>nainen pelaa vesipalloa</string>
+	<key>🌄</key>
+	<string>auringonnousu vuorten yllä</string>
+	<key>😃</key>
+	<string>virnistävät kasvot ja suuret silmät</string>
+	<key>🌅</key>
+	<string>auringonnousu</string>
+	<key>😄</key>
+	<string>virnistävät kasvot ja hymyilevät silmät</string>
+	<key>👷‍♂️</key>
+	<string>rakennusmies</string>
+	<key>👨‍✈️</key>
+	<string>mieslentäjä</string>
+	<key>🌆</key>
+	<string>kaupunki iltahämärässä</string>
+	<key>😅</key>
+	<string>virnistävät kasvot ja hikeä</string>
+	<key>🌇</key>
+	<string>auringonlasku rakennusten yllä</string>
+	<key>😆</key>
+	<string>virnistävät kasvot ja siristetyt silmät</string>
+	<key>🌈</key>
+	<string>sateenkaari</string>
+	<key>😇</key>
+	<string>hymyilevät kasvot ja sädekehä</string>
+	<key>🌉</key>
+	<string>silta yöllä</string>
+	<key>😈</key>
+	<string>hymyilevät kasvot ja sarvet</string>
+	<key>🏞️</key>
+	<string>kansallispuisto</string>
+	<key>🌊</key>
+	<string>aalto</string>
+	<key>😉</key>
+	<string>silmää iskevät kasvot</string>
+	<key>🌋</key>
+	<string>tulivuori</string>
+	<key>😊</key>
+	<string>hymyilevät kasvot ja hymyilevät silmät</string>
+	<key>♒️</key>
+	<string>Vesimies</string>
+	<key>🌌</key>
+	<string>Linnunrata</string>
+	<key>😋</key>
+	<string>huulia nuolevat hymyilevät kasvot</string>
+	<key>⚪️</key>
+	<string>valkoinen ympyrä</string>
+	<key>🌍</key>
+	<string>maapallo, jossa näkyy Eurooppa ja Afrikka</string>
+	<key>😌</key>
+	<string>helpottuneet kasvot</string>
+	<key>🧏‍♂️</key>
+	<string>Kuuro mies</string>
+	<key>✂️</key>
+	<string>sakset</string>
+	<key>🌎</key>
+	<string>maapallo, jossa näkyy Amerikan manner</string>
+	<key>🤌</key>
+	<string>sormet supussa</string>
+	<key>😍</key>
+	<string>hymyilevät kasvot sydämenmuotoisilla silmillä</string>
+	<key>🌏</key>
+	<string>maapallo, jossa näkyy Aasia ja Australia</string>
+	<key>🤍</key>
+	<string>valkoinen sydän</string>
+	<key>😎</key>
+	<string>hymyilevät kasvot, joilla on aurinkolasit</string>
+	<key>🌐</key>
+	<string>maapallo ja pituuspiirit</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>perhe, jossa on äiti, isä ja kaksi tytärtä</string>
+	<key>🤎</key>
+	<string>ruskea sydän</string>
+	<key>😏</key>
+	<string>omahyväiset kasvot</string>
+	<key>🌑</key>
+	<string>uusikuu</string>
+	<key>🤏</key>
+	<string>nipistävä käsi</string>
+	<key>😐</key>
+	<string>neutraalit kasvot</string>
+	<key>🧔‍♀️</key>
+	<string>parrakas nainen</string>
+	<key>🌒</key>
+	<string>kasvava kuunsirppi</string>
+	<key>🤐</key>
+	<string>kasvot ja vetoketjusuu</string>
+	<key>😑</key>
+	<string>ilmeettömät kasvot</string>
+	<key>🙍‍♂️</key>
+	<string>onneton mies</string>
+	<key>🌓</key>
+	<string>kasvava puolikuu</string>
+	<key>🤑</key>
+	<string>rahasuiset kasvot</string>
+	<key>😒</key>
+	<string>ei-huvittuneet kasvot</string>
+	<key>🌔</key>
+	<string>kasvava kupera kuu</string>
+	<key>🤒</key>
+	<string>kasvot ja kuumemittari</string>
+	<key>😓</key>
+	<string>alaspäin katsovat kasvot ja hikeä</string>
+	<key>🌕</key>
+	<string>täysikuu</string>
+	<key>🤓</key>
+	<string>hymyilevät kasvot, joilla on silmälasit</string>
+	<key>😔</key>
+	<string>surullisen mietteliäät kasvot</string>
+	<key>♋️</key>
+	<string>Rapu</string>
+	<key>🌖</key>
+	<string>vähenevä kupera kuu</string>
+	<key>🤔</key>
+	<string>miettivät kasvot</string>
+	<key>😕</key>
+	<string>hämmentyneet kasvot</string>
+	<key>🌗</key>
+	<string>vähenevä puolikuu</string>
+	<key>🤕</key>
+	<string>kasvot ja pää siteessä</string>
+	<key>😖</key>
+	<string>toivottomat kasvot</string>
+	<key>🌘</key>
+	<string>vähenevä kuunsirppi</string>
+	<key>🤖</key>
+	<string>robotin pää</string>
+	<key>😗</key>
+	<string>suutelevat kasvot</string>
+	<key>🌙</key>
+	<string>kuunsirppi</string>
+	<key>🤗</key>
+	<string>halaavat kasvot</string>
+	<key>😘</key>
+	<string>lentosuukon lähettävät kasvot</string>
+	<key>🌚</key>
+	<string>uudenkuun kasvot</string>
+	<key>🤘</key>
+	<string>pirunsarvet</string>
+	<key>😙</key>
+	<string>suutelevat kasvot ja hymyilevät silmät</string>
+	<key>🌛</key>
+	<string>kasvavan puolikuun kasvot</string>
+	<key>🤙</key>
+	<string>soita minulle käsimerkki</string>
+	<key>😚</key>
+	<string>suutelevat kasvot suljetuilla silmillä</string>
+</dict>
+</plist>

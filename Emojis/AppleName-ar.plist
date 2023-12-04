@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>القمر في الربع الأخير مع وجه</string>
+	<key>🤚</key>
+	<string>ظهر اليد</string>
+	<key>😛</key>
+	<string>وجه يخرج لسانه</string>
+	<key>👩‍🔧</key>
+	<string>ميكانيكية</string>
+	<key>🌝</key>
+	<string>بدر مع وجه</string>
+	<key>🤛</key>
+	<string>قبضة متجهة لليسار</string>
+	<key>😜</key>
+	<string>وجه يغمز ويخرج لسانه</string>
+	<key>🌞</key>
+	<string>شمس مع وجه</string>
+	<key>🤜</key>
+	<string>قبضة متجهة لليمين</string>
+	<key>😝</key>
+	<string>وجه يخرج لسانه بعينين نصف مغلقتين</string>
+	<key>🌟</key>
+	<string>نجم متألق</string>
+	<key>🤝</key>
+	<string>مصافحة بالأيدي</string>
+	<key>😞</key>
+	<string>وجه مصاب بخيبة أمل</string>
+	<key>🌠</key>
+	<string>شهاب</string>
+	<key>🤞</key>
+	<string>أصابع معقودة</string>
+	<key>😟</key>
+	<string>وجه قلق</string>
+	<key>🐈‍⬛</key>
+	<string>قطة سوداء</string>
+	<key>🤟</key>
+	<string>إشارة "أحبك"</string>
+	<key>😠</key>
+	<string>وجه غاضب</string>
+	<key>⚜️</key>
+	<string>زهرة الزنبق</string>
+	<key>⛴️</key>
+	<string>عبّارة</string>
+	<key>🤠</key>
+	<string>وجه راعي بقر</string>
+	<key>😡</key>
+	<string>وجه أحمر غاضب</string>
+	<key>🤡</key>
+	<string>وجه مهرج</string>
+	<key>😢</key>
+	<string>وجه يبكي</string>
+	<key>⬛️</key>
+	<string>مربع أسود كبير</string>
+	<key>🤢</key>
+	<string>وجه مصاب بالغثيان</string>
+	<key>😣</key>
+	<string>وجه مثابر</string>
+	<key>🤣</key>
+	<string>وجه منفجر من الضحك</string>
+	<key>😤</key>
+	<string>وجه ينفخ بخارًا من الأنف</string>
+	<key>🤤</key>
+	<string>وجه بلعاب سائل</string>
+	<key>😥</key>
+	<string>وجه حزين ولكن مرتاح</string>
+	<key>🤥</key>
+	<string>وجه كاذب</string>
+	<key>😦</key>
+	<string>وجه عبوس بفم مفتوح</string>
+	<key>🤦</key>
+	<string>شخص يغطي وجهه بيده</string>
+	<key>😧</key>
+	<string>وجه مكروب</string>
+	<key>🤧</key>
+	<string>وجه يعطس</string>
+	<key>😨</key>
+	<string>وجه خائف</string>
+	<key>🤨</key>
+	<string>وجه بحاجب مرفوع</string>
+	<key>😩</key>
+	<string>وجه منهك</string>
+	<key>🤩</key>
+	<string>وجه بعينين نجميتين</string>
+	<key>⚕️</key>
+	<string>عصا أسقولابيوس</string>
+	<key>😪</key>
+	<string>وجه نعسان</string>
+	<key>👁️‍🗨️</key>
+	<string>أنا شاهد</string>
+	<key>🤪</key>
+	<string>وجه يؤدي حركة مضحكة</string>
+	<key>😫</key>
+	<string>وجه مضطرب</string>
+	<key>🌭</key>
+	<string>هوت دوغ</string>
+	<key>🤫</key>
+	<string>وجه بإيماءة إسكات</string>
+	<key>😬</key>
+	<string>وجه متجهم</string>
+	<key>🌮</key>
+	<string>تاكو</string>
+	<key>🤬</key>
+	<string>وجه مع رموز فوق الفم</string>
+	<key>😭</key>
+	<string>وجه يبكي بصوت مرتفع</string>
+	<key>🌯</key>
+	<string>بوريتو</string>
+	<key>🤭</key>
+	<string>وجه مع يد فوق الفم وخدود متوردة وعينين مبتسمتين</string>
+	<key>😮</key>
+	<string>وجه مندهش بفم مفتوح</string>
+	<key>🌰</key>
+	<string>كستناء</string>
+	<key>🤮</key>
+	<string>وجه يتقيأ</string>
+	<key>😯</key>
+	<string>وجه مندهش</string>
+	<key>🌱</key>
+	<string>نبتة صغيرة</string>
+	<key>🤯</key>
+	<string>رأس ينفجر</string>
+	<key>😰</key>
+	<string>وجه قلق يتصبب عرقًا</string>
+	<key>🌲</key>
+	<string>شجرة دائمة الخضرة</string>
+	<key>🤰</key>
+	<string>سيدة حامل</string>
+	<key>😱</key>
+	<string>وجه يصرخ في خوف</string>
+	<key>🌳</key>
+	<string>شجرة</string>
+	<key>🤱</key>
+	<string>إرضاع من صدر الأم</string>
+	<key>😲</key>
+	<string>وجه مندهش</string>
+	<key>🛡️</key>
+	<string>درع</string>
+	<key>🌴</key>
+	<string>نخلة</string>
+	<key>🤲</key>
+	<string>راحتا يد ملتصقتان ببعضهما مفتوحتان إلى الأعلى</string>
+	<key>😳</key>
+	<string>وجه مع عينين واسعتين مفتوحتين</string>
+	<key>🌵</key>
+	<string>صبّار</string>
+	<key>🤳</key>
+	<string>سيلفي</string>
+	<key>😴</key>
+	<string>وجه نائم</string>
+	<key>🤴</key>
+	<string>أمير</string>
+	<key>😵</key>
+	<string>وجه مصاب بالدوار</string>
+	<key>👩‍🌾</key>
+	<string>مزارعة</string>
+	<key>🌷</key>
+	<string>تيوليب</string>
+	<key>🤵</key>
+	<string>شخص ببدلة سهرة</string>
+	<key>😶</key>
+	<string>وجه بدون فم</string>
+	<key>🌸</key>
+	<string>زهرة الكرز</string>
+	<key>🤶</key>
+	<string>السيدة كلوز</string>
+	<key>😷</key>
+	<string>وجه يرتدي قناعًا طبيًا</string>
+	<key>🌹</key>
+	<string>وردة</string>
+	<key>🤷</key>
+	<string>شخص يهز كتفيه</string>
+	<key>😸</key>
+	<string>وجه قط بابتسامة عريضة</string>
+	<key>🌺</key>
+	<string>كركديه</string>
+	<key>🤸</key>
+	<string>شخص يتشقلب شقلبة العجلة</string>
+	<key>😹</key>
+	<string>وجه قط بدموع الفرح</string>
+	<key>🌻</key>
+	<string>دوار الشمس</string>
+	<key>🤹</key>
+	<string>شخص يؤدي ألعاب خفة</string>
+	<key>😺</key>
+	<string>وجه قط سعيد</string>
+	<key>🌼</key>
+	<string>زهرة</string>
+	<key>🤺</key>
+	<string>مبارز سيف</string>
+	<key>😻</key>
+	<string>وجه قط مبتسم بعينين على شكل قلب</string>
+	<key>🌽</key>
+	<string>كوز ذرة</string>
+	<key>😼</key>
+	<string>وجه قط بابتسامة مصطنعة</string>
+	<key>🇿🇦</key>
+	<string>علم جنوب إفريقيا</string>
+	<key>👩‍🔬</key>
+	<string>عالمة</string>
+	<key>🌾</key>
+	<string>أعواد الأرز</string>
+	<key>🤼</key>
+	<string>شخصان يتصارعان</string>
+	<key>😽</key>
+	<string>وجه قط يعطي قبلة</string>
+	<key>🇻🇦</key>
+	<string>علم مدينة الفاتيكان</string>
+	<key>🌿</key>
+	<string>عشب</string>
+	<key>🤽</key>
+	<string>شخص يلعب كرة ماء</string>
+	<key>😾</key>
+	<string>وجه قط عبوس</string>
+	<key>☯️</key>
+	<string>يين يانغ</string>
+	<key>🍀</key>
+	<string>برسيم رباعي الأوراق</string>
+	<key>🤾</key>
+	<string>شخص يلعب كرة يد</string>
+	<key>😿</key>
+	<string>وجه قط يبكي</string>
+	<key>🍁</key>
+	<string>ورقة قيقب</string>
+	<key>🤿</key>
+	<string>قناع غوص</string>
+	<key>🧑‍🍳</key>
+	<string>طباخ</string>
+	<key>🇳🇦</key>
+	<string>علم ناميبيا</string>
+	<key>🙀</key>
+	<string>وجه قطة يصرخ في خوف</string>
+	<key>🧗‍♀️</key>
+	<string>امرأة متسلقة صخور</string>
+	<key>⁉️</key>
+	<string>علامة تعجب وعلامة استفهام حمراء</string>
+	<key>🍂</key>
+	<string>أوراق شجر متساقطة</string>
+	<key>🥀</key>
+	<string>وردة ذابلة</string>
+	<key>🙁</key>
+	<string>وجه عبوس قليلاً</string>
+	<key>🍃</key>
+	<string>أوراق شجر ترفرف مع الريح</string>
+	<key>🥁</key>
+	<string>طبلة</string>
+	<key>🙂</key>
+	<string>وجه مبتسم قليلاً</string>
+	<key>⬆️</key>
+	<string>سهم للأعلى</string>
+	<key>🍄</key>
+	<string>فطر</string>
+	<key>🥂</key>
+	<string>كأسان يدقان</string>
+	<key>🙃</key>
+	<string>وجه مقلوب لأسفل</string>
+	<key>5️⃣</key>
+	<string>مفتاح الرقم خمسة</string>
+	<key>🍅</key>
+	<string>طماطم</string>
+	<key>🥃</key>
+	<string>قدح</string>
+	<key>🙄</key>
+	<string>وجه بعينين تدوران</string>
+	<key>🇻🇨</key>
+	<string>علم سانت فنسنت وغرينادينس</string>
+	<key>🇧🇦</key>
+	<string>علم البوسنة والهرسك</string>
+	<key>↩️</key>
+	<string>سهم أيمن منحني لليسار</string>
+	<key>🍆</key>
+	<string>باذنجان</string>
+	<key>🥄</key>
+	<string>ملعقة</string>
+	<key>🙅</key>
+	<string>شخص يشير بالرفض</string>
+	<key>🍇</key>
+	<string>عنب</string>
+	<key>🥅</key>
+	<string>شبكة مرمى</string>
+	<key>🙆</key>
+	<string>شخص يشير بالموافقة</string>
+	<key>🛣️</key>
+	<string>طريق سريع</string>
+	<key>🍈</key>
+	<string>شمام</string>
+	<key>🙇</key>
+	<string>شخص ينحني</string>
+	<key>🇳🇨</key>
+	<string>علم كاليدونيا الجديدة</string>
+	<key>🍉</key>
+	<string>بطيخ</string>
+	<key>🇧🇧</key>
+	<string>علم بربادوس</string>
+	<key>🥇</key>
+	<string>ميدالية ذهبية</string>
+	<key>🙈</key>
+	<string>قرد لا يرى السوء</string>
+	<key>🍊</key>
+	<string>يوسفي</string>
+	<key>🥈</key>
+	<string>ميدالية فضية</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>علم اسكتلندا</string>
+	<key>🙉</key>
+	<string>قرد لا يسمع السوء</string>
+	<key>🍋</key>
+	<string>ليمون</string>
+	<key>🥉</key>
+	<string>ميدالية برونزية</string>
+	<key>🙊</key>
+	<string>قرد لا يتحدث بسوء</string>
+	<key>🍌</key>
+	<string>موزة</string>
+	<key>🥊</key>
+	<string>قفاز ملاكمة</string>
+	<key>🇻🇪</key>
+	<string>علم فنزويلا</string>
+	<key>🙋</key>
+	<string>شخص يرفع يدًا واحدة</string>
+	<key>🍍</key>
+	<string>أناناس</string>
+	<key>🥋</key>
+	<string>زي فنون قتالية</string>
+	<key>🙌</key>
+	<string>يدان مرتفعتان احتفالاً</string>
+	<key>🇷🇪</key>
+	<string>علم رييونين</string>
+	<key>🍎</key>
+	<string>تفاحة حمراء</string>
+	<key>🥌</key>
+	<string>حجر كيرلنغ</string>
+	<key>🙍</key>
+	<string>شخص عابس</string>
+	<key>🍏</key>
+	<string>تفاحة خضراء</string>
+	<key>🇳🇪</key>
+	<string>علم النيجر</string>
+	<key>🥍</key>
+	<string>عصا وكرة لاكروس</string>
+	<key>🙎</key>
+	<string>شخص عابس</string>
+	<key>🅾️</key>
+	<string>فصيلة دم O</string>
+	<key>🇧🇩</key>
+	<string>علم بنغلاديش</string>
+	<key>🍐</key>
+	<string>كمثرى</string>
+	<key>🥎</key>
+	<string>كرة لينة</string>
+	<key>🇯🇪</key>
+	<string>علم جيرسي</string>
+	<key>🙏</key>
+	<string>يد تضغط على يد</string>
+	<key>🍑</key>
+	<string>خوخ</string>
+	<key>🥏</key>
+	<string>قرص طائر</string>
+	<key>🍒</key>
+	<string>كرز</string>
+	<key>🥐</key>
+	<string>كرواسان</string>
+	<key>🇳🇫</key>
+	<string>علم جزيرة نورفولك</string>
+	<key>🍓</key>
+	<string>فراولة</string>
+	<key>🇻🇬</key>
+	<string>علم جزر فيرجين البريطانية</string>
+	<key>🇧🇪</key>
+	<string>علم بلجيكا</string>
+	<key>🥑</key>
+	<string>أفوكادو</string>
+	<key>🍔</key>
+	<string>همبورغر</string>
+	<key>🥒</key>
+	<string>خيار</string>
+	<key>⛑️</key>
+	<string>خوذة مع صليب أبيض</string>
+	<key>🍕</key>
+	<string>بيتزا</string>
+	<key>🥓</key>
+	<string>لحم مقدد</string>
+	<key>🇳🇬</key>
+	<string>علم نيجيريا</string>
+	<key>🍖</key>
+	<string>لحم على عظمة</string>
+	<key>🥔</key>
+	<string>بطاطس</string>
+	<key>👨‍🍳</key>
+	<string>طباخ</string>
+	<key>🇧🇫</key>
+	<string>علم بوركينا فاسو</string>
+	<key>🍗</key>
+	<string>ساق دواجن</string>
+	<key>👮‍♀️</key>
+	<string>شرطية</string>
+	<key>🥕</key>
+	<string>جزر</string>
+	<key>⭐️</key>
+	<string>نجمة</string>
+	<key>🍘</key>
+	<string>رقائق أرز</string>
+	<key>🥖</key>
+	<string>خبز فرنسي</string>
+	<key>🗝️</key>
+	<string>مفتاح قديم</string>
+	<key>🌶️</key>
+	<string>فلفل حار</string>
+	<key>🍙</key>
+	<string>كرة أرز</string>
+	<key>🥗</key>
+	<string>سلطة خضراء</string>
+	<key>🏃‍♂️</key>
+	<string>عدّاء</string>
+	<key>🇻🇮</key>
+	<string>علم جزر فيرجين الأمريكية</string>
+	<key>🇧🇬</key>
+	<string>علم بلغاريا</string>
+	<key>🍚</key>
+	<string>أرز مطبوخ</string>
+	<key>🥘</key>
+	<string>مقلاة بها طعام</string>
+	<key>🍛</key>
+	<string>أرز وكاري</string>
+	<key>🥙</key>
+	<string>سندوتش خبز بلدي</string>
+	<key>🍜</key>
+	<string>طبق يعلوه البخار</string>
+	<key>🥚</key>
+	<string>بيضة</string>
+	<key>🛥️</key>
+	<string>قارب بمحرك</string>
+	<key>🇳🇮</key>
+	<string>علم نيكاراغوا</string>
+	<key>🍝</key>
+	<string>معكرونة سباجتي</string>
+	<key>🥛</key>
+	<string>كوب حليب</string>
+	<key>🇧🇭</key>
+	<string>علم البحرين</string>
+	<key>🍞</key>
+	<string>خبز</string>
+	<key>🥜</key>
+	<string>فول سوداني</string>
+	<key>🍟</key>
+	<string>بطاطس مقلية</string>
+	<key>👨‍👨‍👦</key>
+	<string>عائلة من أبوين وابن</string>
+	<key>🥝</key>
+	<string>كيوي</string>
+	<key>🇫🇮</key>
+	<string>علم فنلندا</string>
+	<key>🤾‍♂️</key>
+	<string>رجل يلعب كرة يد</string>
+	<key>🍠</key>
+	<string>بطاطا حلوة مشوية</string>
+	<key>🖲️</key>
+	<string>كرة توجيه</string>
+	<key>🥞</key>
+	<string>فطائر مقلية</string>
+	<key>🇧🇮</key>
+	<string>علم بوروندي</string>
+	<key>🍡</key>
+	<string>دانغو</string>
+	<key>🥟</key>
+	<string>زلابية</string>
+	<key>🍢</key>
+	<string>طعام أودن</string>
+	<key>🥠</key>
+	<string>كعكة الحظ</string>
+	<key>🇫🇯</key>
+	<string>علم فيجي</string>
+	<key>🍣</key>
+	<string>سوشي</string>
+	<key>🥡</key>
+	<string>صندوق الوجبات الخارجية</string>
+	<key>🍤</key>
+	<string>روبيان مقلي</string>
+	<key>🥢</key>
+	<string>عودا طعام</string>
+	<key>🇧🇯</key>
+	<string>علم بينين</string>
+	<key>↔️</key>
+	<string>سهم يشير لليمين واليسار</string>
+	<key>🍥</key>
+	<string>فطيرة سمك على شكل دوامة</string>
+	<key>🥣</key>
+	<string>زبدية مع ملعقة</string>
+	<key>🍦</key>
+	<string>آيس كريم طري</string>
+	<key>🇿🇲</key>
+	<string>علم زامبيا</string>
+	<key>🇫🇰</key>
+	<string>علم جزر فوكلاند</string>
+	<key>🥤</key>
+	<string>كأس للمشروبات الخارجية</string>
+	<key>🏌️‍♀️</key>
+	<string>لاعبة غولف</string>
+	<key>🇳🇱</key>
+	<string>علم هولندا</string>
+	<key>🍧</key>
+	<string>ثلج مجروش</string>
+	<key>🥥</key>
+	<string>جوز هند</string>
+	<key>🍨</key>
+	<string>آيس كريم</string>
+	<key>🥦</key>
+	<string>بروكلي</string>
+	<key>🍩</key>
+	<string>كعك الدونات</string>
+	<key>🥧</key>
+	<string>فطيرة</string>
+	<key>🖇️</key>
+	<string>مشبكا ورق مرتبطان</string>
+	<key>🍪</key>
+	<string>كعكة</string>
+	<key>🥨</key>
+	<string>كعك مملح</string>
+	<key>🇻🇳</key>
+	<string>علم فيتنام</string>
+	<key>💂‍♀️</key>
+	<string>حارسة</string>
+	<key>🇧🇱</key>
+	<string>علم سان بارتليمي</string>
+	<key>🍫</key>
+	<string>لوح شوكولاتة</string>
+	<key>🇯🇲</key>
+	<string>علم جامايكا</string>
+	<key>🥩</key>
+	<string>شريحة لحم</string>
+	<key>🍬</key>
+	<string>حلوى</string>
+	<key>🥪</key>
+	<string>شطيرة</string>
+	<key>⛹️‍♀️</key>
+	<string>لاعبة كرة سلة</string>
+	<key>🍭</key>
+	<string>مصاصة</string>
+	<key>🇫🇲</key>
+	<string>علم مايكرونيزيا</string>
+	<key>🥫</key>
+	<string>طعام معلب</string>
+	<key>🍮</key>
+	<string>كاسترد</string>
+	<key>👨‍❤️‍👨</key>
+	<string>صديقان مع قلب</string>
+	<key>🥬</key>
+	<string>ضمة خضروات ورقية</string>
+	<key>🇧🇲</key>
+	<string>علم برمودا</string>
+	<key>🍯</key>
+	<string>وعاء عسل</string>
+	<key>🥭</key>
+	<string>مانجو</string>
+	<key>🇷🇴</key>
+	<string>علم رومانيا</string>
+	<key>🍰</key>
+	<string>كيك</string>
+	<key>🥮</key>
+	<string>مونكيك</string>
+	<key>🍱</key>
+	<string>علبة طعام بينتو</string>
+	<key>🇳🇴</key>
+	<string>علم النرويج</string>
+	<key>🥯</key>
+	<string>حلقة خبز</string>
+	<key>🇧🇳</key>
+	<string>علم بروناي</string>
+	<key>🧚‍♀️</key>
+	<string>كائنة خرافية</string>
+	<key>🍲</key>
+	<string>وعاء طعام</string>
+	<key>🇯🇴</key>
+	<string>علم الأردن</string>
+	<key>🥰</key>
+	<string>وجه مبتسم مع قلبين</string>
+	<key>🍳</key>
+	<string>طهي</string>
+	<key>🥱</key>
+	<string>وجه يتثاءب</string>
+	<key>🇫🇴</key>
+	<string>علم جزر فارو</string>
+	<key>🍴</key>
+	<string>شوكة وسكين</string>
+	<key>🥲</key>
+	<string>وجه مبتسم عليه دمعة</string>
+	<key>🇳🇵</key>
+	<string>علم نيبال</string>
+	<key>✔️</key>
+	<string>علامة تدقيق</string>
+	<key>🍵</key>
+	<string>فنجان شاي بدون مقبض</string>
+	<key>🥳</key>
+	<string>وجه محتفل</string>
+	<key>🇧🇴</key>
+	<string>علم بوليفيا</string>
+	<key>🇯🇵</key>
+	<string>علم اليابان</string>
+	<key>🍶</key>
+	<string>زجاجة ساكي وكوب</string>
+	<key>🥴</key>
+	<string>وجه مصاب بدوار</string>
+	<key>🍷</key>
+	<string>كأس نبيذ</string>
+	<key>🥵</key>
+	<string>وجه ساخن</string>
+	<key>🍸</key>
+	<string>كوب كوكتيل</string>
+	<key>🥶</key>
+	<string>وجه بارد</string>
+	<key>🍹</key>
+	<string>مشروب استوائي</string>
+	<key>🥷</key>
+	<string>نينجا</string>
+	<key>🍺</key>
+	<string>كوب جعة</string>
+	<key>🥸</key>
+	<string>وجه متخف</string>
+	<key>🚶‍♀️</key>
+	<string>سيدة تمشي</string>
+	<key>🍻</key>
+	<string>أقداح بيرة تدق</string>
+	<key>🥹</key>
+	<string>وجه مبتسم يحبس دموعه</string>
+	<key>🇳🇷</key>
+	<string>علم ناورو</string>
+	<key>🍼</key>
+	<string>زجاجة رضاعة</string>
+	<key>🇧🇶</key>
+	<string>علم بونير</string>
+	<key>🥺</key>
+	<string>وجه راجٍ</string>
+	<key>🧑‍🍼</key>
+	<string>شخص يرضع رضيعًا</string>
+	<key>🥻</key>
+	<string>ساري</string>
+	<key>🇷🇸</key>
+	<string>علم صربيا</string>
+	<key>🍾</key>
+	<string>زجاجة تندفع منها السدادة</string>
+	<key>🇫🇷</key>
+	<string>علم فرنسا</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>رجل وسيدة يتبادلان القبلات</string>
+	<key>🥼</key>
+	<string>معطف مختبر</string>
+	<key>✍️</key>
+	<string>يد تكتب</string>
+	<key>🍿</key>
+	<string>فشار</string>
+	<key>🥽</key>
+	<string>نظارة واقية</string>
+	<key>🇧🇷</key>
+	<string>علم البرازيل</string>
+	<key>🗡️</key>
+	<string>خنجر</string>
+	<key>⏮️</key>
+	<string>رمز تخطي للخلف</string>
+	<key>🎀</key>
+	<string>فيونكة</string>
+	<key>🥾</key>
+	<string>حذاء مشي طويل</string>
+	<key>🎁</key>
+	<string>هدية</string>
+	<key>🥿</key>
+	<string>حذاء بدون كعب</string>
+	<key>🚀</key>
+	<string>صاروخ</string>
+	<key>🎂</key>
+	<string>كعكة عيد ميلاد</string>
+	<key>🦀</key>
+	<string>سلطعون</string>
+	<key>🚁</key>
+	<string>طائرة مروحية</string>
+	<key>🇻🇺</key>
+	<string>علم فانواتو</string>
+	<key>🇧🇸</key>
+	<string>علم الباهاما</string>
+	<key>🎃</key>
+	<string>قرعة مضيئة</string>
+	<key>🕵️‍♀️</key>
+	<string>محققة</string>
+	<key>🦁</key>
+	<string>وجه أسد</string>
+	<key>🚂</key>
+	<string>قاطرة بخارية</string>
+	<key>🎄</key>
+	<string>شجرة عيد الميلاد</string>
+	<key>🇷🇺</key>
+	<string>علم روسيا</string>
+	<key>🦂</key>
+	<string>عقرب</string>
+	<key>🚃</key>
+	<string>سيارة سكة حديد</string>
+	<key>🎅</key>
+	<string>بابا نويل</string>
+	<key>🦃</key>
+	<string>ديك رومي</string>
+	<key>🚄</key>
+	<string>قطار سريع</string>
+	<key>🇳🇺</key>
+	<string>علم نيوي</string>
+	<key>🛩️</key>
+	<string>طائرة صغيرة</string>
+	<key>◾️</key>
+	<string>مربع أسود متوسط صغير</string>
+	<key>🎆</key>
+	<string>ألعاب نارية</string>
+	<key>🇧🇹</key>
+	<string>علم بوتان</string>
+	<key>🦄</key>
+	<string>أحادي القرن</string>
+	<key>🚅</key>
+	<string>قطار سريع ذو مقدمة كالطلقة</string>
+	<key>🎇</key>
+	<string>شرارة ألعاب نارية</string>
+	<key>🦅</key>
+	<string>نسر</string>
+	<key>🚆</key>
+	<string>قطار</string>
+	<key>👱‍♀️</key>
+	<string>سيدة ذات شعر أشقر</string>
+	<key>🎈</key>
+	<string>بالون</string>
+	<key>🇿🇼</key>
+	<string>علم زيمبابوي</string>
+	<key>🦆</key>
+	<string>بطة</string>
+	<key>🚇</key>
+	<string>قطار الأنفاق</string>
+	<key>😮‍💨</key>
+	<string>وجه يُخرج زفيرًا</string>
+	<key>🎉</key>
+	<string>مفرقعات حفلات</string>
+	<key>🦇</key>
+	<string>خفاش</string>
+	<key>🚈</key>
+	<string>سكة حديد خفيفة</string>
+	<key>🎊</key>
+	<string>كرة قصاصات ورقية</string>
+	<key>🦈</key>
+	<string>قرش</string>
+	<key>🚉</key>
+	<string>محطة</string>
+	<key>🇷🇼</key>
+	<string>علم رواندا</string>
+	<key>🎋</key>
+	<string>شجرة التاناباتا</string>
+	<key>🦉</key>
+	<string>بومة</string>
+	<key>🚊</key>
+	<string>ترام</string>
+	<key>🎌</key>
+	<string>علمان متقاطعان</string>
+	<key>🦊</key>
+	<string>وجه ثعلب</string>
+	<key>🚋</key>
+	<string>سيارة مترو</string>
+	<key>🎍</key>
+	<string>زينة صنوبر</string>
+	<key>🇧🇻</key>
+	<string>علم جزيرة بوفيه</string>
+	<key>🦋</key>
+	<string>فراشة</string>
+	<key>🚌</key>
+	<string>باص</string>
+	<key>🎎</key>
+	<string>دمى يابانية</string>
+	<key>🦌</key>
+	<string>ظبي</string>
+	<key>🚍</key>
+	<string>باص قادم</string>
+	<key>🎏</key>
+	<string>شريط طويل على شكل سمك الشبوط</string>
+	<key>🦍</key>
+	<string>غوريلا</string>
+	<key>🚎</key>
+	<string>باص كهربائي</string>
+	<key>🚏</key>
+	<string>موقف باصات</string>
+	<key>🎐</key>
+	<string>جرس رياح</string>
+	<key>🦎</key>
+	<string>سحلية</string>
+	<key>🇧🇼</key>
+	<string>علم بتسوانا</string>
+	<key>🚐</key>
+	<string>باص صغير</string>
+	<key>♏️</key>
+	<string>علامة برج العقرب</string>
+	<key>🎑</key>
+	<string>احتفال برؤية القمر</string>
+	<key>🦏</key>
+	<string>خراتيت</string>
+	<key>🚑</key>
+	<string>سيارة إسعاف</string>
+	<key>👨‍🍼</key>
+	<string>رجل يرضع رضيعًا</string>
+	<key>⚧️</key>
+	<string>رمز للمتحولين جنسيًا</string>
+	<key>👨‍👨‍👧</key>
+	<string>عائلة من أبوين وابنة</string>
+	<key>🖋️</key>
+	<string>قلم حبر</string>
+	<key>🚒</key>
+	<string>سيارة إطفاء</string>
+	<key>🎒</key>
+	<string>حقيبة ظهر</string>
+	<key>🎓</key>
+	<string>قبعة تخرج</string>
+	<key>🦐</key>
+	<string>روبيان</string>
+	<key>🦑</key>
+	<string>حبار</string>
+	<key>🚓</key>
+	<string>سيارة شرطة</string>
+	<key>❗️</key>
+	<string>علامة تعجب حمراء</string>
+	<key>🦒</key>
+	<string>زرافة</string>
+	<key>🙇‍♀️</key>
+	<string>سيدة تنحني</string>
+	<key>🗣️</key>
+	<string>رأس خيال تتحدث</string>
+	<key>🚔</key>
+	<string>سيارة شرطة قادمة</string>
+	<key>🦓</key>
+	<string>حمار وحشي</string>
+	<key>🚕</key>
+	<string>تاكسي</string>
+	<key>🦔</key>
+	<string>قنفذ</string>
+	<key>🇳🇿</key>
+	<string>علم نيوزيلندا</string>
+	<key>🦕</key>
+	<string>ديناصور</string>
+	<key>🚖</key>
+	<string>تاكسي قادم</string>
+	<key>🇧🇾</key>
+	<string>علم روسيا البيضاء</string>
+	<key>🦖</key>
+	<string>تي ريكس</string>
+	<key>🚗</key>
+	<string>سيارة</string>
+	<key>🦗</key>
+	<string>صرصور الليل</string>
+	<key>🚘</key>
+	<string>سيارة قادمة</string>
+	<key>🦘</key>
+	<string>كنغر</string>
+	<key>🚙</key>
+	<string>سيارة رياضية رباعية الدفع</string>
+	<key>🇧🇿</key>
+	<string>علم بليز</string>
+	<key>🦙</key>
+	<string>لاما</string>
+	<key>🚚</key>
+	<string>شاحنة تسليم</string>
+	<key>♈️</key>
+	<string>علامة برج الحمل</string>
+	<key>🦚</key>
+	<string>طاووس</string>
+	<key>🚛</key>
+	<string>شاحنة مقطورة</string>
+	<key>⚠️</key>
+	<string>تحذير</string>
+	<key>🦛</key>
+	<string>فرس نهر</string>
+	<key>🚜</key>
+	<string>جرار</string>
+	<key>⛸️</key>
+	<string>تزلج على الجليد</string>
+	<key>🧘‍♂️</key>
+	<string>رجل في وضعية التأمل</string>
+	<key>🧑‍🚀</key>
+	<string>رائد فضاء</string>
+	<key>🦜</key>
+	<string>ببغاء</string>
+	<key>🚝</key>
+	<string>مونوريل</string>
+	<key>🦝</key>
+	<string>راكون</string>
+	<key>🚞</key>
+	<string>سكك حديدية جبلية</string>
+	<key>🎠</key>
+	<string>حصان لعبة دوامة الخيل</string>
+	<key>🦞</key>
+	<string>سرطان البحر</string>
+	<key>🚟</key>
+	<string>سكة حديدية معلقة</string>
+	<key>🎡</key>
+	<string>أرجوحة العجلة الدوارة</string>
+	<key>🦟</key>
+	<string>بعوضة</string>
+	<key>🚠</key>
+	<string>سكة تليفريك جبلي</string>
+	<key>🎢</key>
+	<string>قطار ملاهي</string>
+	<key>🦠</key>
+	<string>ميكروب</string>
+	<key>🚡</key>
+	<string>ترام هوائي</string>
+	<key>🧝‍♀️</key>
+	<string>امرأة قزمة</string>
+	<key>🎣</key>
+	<string>سنارة صيد وسمكة</string>
+	<key>🦡</key>
+	<string>غرير</string>
+	<key>🚢</key>
+	<string>سفينة</string>
+	<key>🎤</key>
+	<string>ميكروفون</string>
+	<key>🦢</key>
+	<string>بجعة</string>
+	<key>🚣</key>
+	<string>شخص يجدف القارب</string>
+	<key>🎥</key>
+	<string>كاميرا سينمائية</string>
+	<key>🦣</key>
+	<string>ماموث</string>
+	<key>🚤</key>
+	<string>زورق سريع</string>
+	<key>🎦</key>
+	<string>رمز السينما</string>
+	<key>🦤</key>
+	<string>طائر دودو</string>
+	<key>🚥</key>
+	<string>إشارة مرور أفقية</string>
+	<key>⚙️</key>
+	<string>ترس</string>
+	<key>🚴‍♂️</key>
+	<string>راكب دراجة هوائية</string>
+	<key>🎧</key>
+	<string>سماعات رأس</string>
+	<key>🦥</key>
+	<string>دب كسلان</string>
+	<key>🚦</key>
+	<string>إشارة مرور عمودية</string>
+	<key>⛱️</key>
+	<string>شمسية شاطئ</string>
+	<key>🖍️</key>
+	<string>قلم تلوين شمعي</string>
+	<key>🎨</key>
+	<string>لوحة ألوان الفنان</string>
+	<key>🦦</key>
+	<string>ثعلب ماء</string>
+	<key>🚧</key>
+	<string>علامة إنشاءات</string>
+	<key>🎩</key>
+	<string>قبعة رسمية</string>
+	<key>🦧</key>
+	<string>قرد أورانغوتان</string>
+	<key>🚨</key>
+	<string>ضوء سيارة شرطة</string>
+	<key>➡️</key>
+	<string>سهم لليمين</string>
+	<key>🎪</key>
+	<string>خيمة سيرك</string>
+	<key>🦨</key>
+	<string>ظربان</string>
+	<key>🚩</key>
+	<string>علم مثلث فوق عمود</string>
+	<key>🎫</key>
+	<string>تذكرة</string>
+	<key>🦩</key>
+	<string>فلامنغو</string>
+	<key>🚪</key>
+	<string>باب</string>
+	<key>🦸‍♀️</key>
+	<string>امرأة بطلة خارقة</string>
+	<key>🎬</key>
+	<string>كلاكيت</string>
+	<key>🦪</key>
+	<string>محارة</string>
+	<key>🚫</key>
+	<string>ممنوع</string>
+	<key>🎖️</key>
+	<string>ميدالية عسكرية</string>
+	<key>🎭</key>
+	<string>فنون استعراضية</string>
+	<key>🦫</key>
+	<string>قندس</string>
+	<key>🚬</key>
+	<string>سيجارة</string>
+	<key>🎮</key>
+	<string>ذراع تحكم بألعاب الفيديو</string>
+	<key>🦬</key>
+	<string>ثور بيسون</string>
+	<key>🚭</key>
+	<string>علامة ممنوع التدخين</string>
+	<key>🎯</key>
+	<string>نقطة الهدف</string>
+	<key>🦭</key>
+	<string>فقمة</string>
+	<key>🚮</key>
+	<string>رمز وضع النفايات في مكانها</string>
+	<key>☺️</key>
+	<string>وجه مبتسم</string>
+	<key>🎰</key>
+	<string>ماكينة قمار</string>
+	<key>🦮</key>
+	<string>كلب مرافقة المكفوفين</string>
+	<key>🚯</key>
+	<string>ممنوع إلقاء القمامة</string>
+	<key>⚒️</key>
+	<string>مطرقة ومعول</string>
+	<key>🎱</key>
+	<string>بلياردو</string>
+	<key>🦯</key>
+	<string>عصا بيضاء</string>
+	<key>🚰</key>
+	<string>حنفية</string>
+	<key>🧑‍🎄</key>
+	<string>السيدة كلوز</string>
+	<key>⛪️</key>
+	<string>كنيسة</string>
+	<key>🎲</key>
+	<string>نرد اللعب</string>
+	<key>🤵‍♀️</key>
+	<string>امرأة ببدلة سهرة</string>
+	<key>⌛️</key>
+	<string>ساعة رملية</string>
+	<key>🏋️‍♂️</key>
+	<string>رافع أثقال</string>
+	<key>🚱</key>
+	<string>مياه غير صالحة للشرب</string>
+	<key>🎳</key>
+	<string>كرة وقوارير بولينغ</string>
+	<key>👯‍♂️</key>
+	<string>رجلان يرقصان ويرتديان أُذني أرنب</string>
+	<key>👨‍🚀</key>
+	<string>رائد فضاء</string>
+	<key>🚲</key>
+	<string>دراجة</string>
+	<key>🎴</key>
+	<string>أوراق لعب هانافودا</string>
+	<key>🚳</key>
+	<string>ممنوع الدراجات</string>
+	<key>👩‍👦‍👦</key>
+	<string>عائلة من أم وابنين</string>
+	<key>🎵</key>
+	<string>نغمة موسيقية</string>
+	<key>👨‍🤝‍👨</key>
+	<string>رجال يدًا بيد</string>
+	<key>🚴</key>
+	<string>راكب دراجة هوائية</string>
+	<key>🎶</key>
+	<string>نغمات موسيقية</string>
+	<key>🦴</key>
+	<string>عظمة</string>
+	<key>🚵</key>
+	<string>راكب دراجة جبلية</string>
+	<key>🎷</key>
+	<string>ساكسفون</string>
+	<key>🦵</key>
+	<string>ساق</string>
+	<key>🚶</key>
+	<string>مشاة</string>
+	<key>🎸</key>
+	<string>غيتار</string>
+	<key>🦶</key>
+	<string>قدم</string>
+	<key>🚷</key>
+	<string>ممنوع عبور المشاة</string>
+	<key>🎹</key>
+	<string>لوحة مفاتيح موسيقية</string>
+	<key>🦷</key>
+	<string>سن</string>
+	<key>🚸</key>
+	<string>عبور أطفال</string>
+	<key>🎺</key>
+	<string>بوق</string>
+	<key>🦸</key>
+	<string>بطلة خارقة</string>
+	<key>🚹</key>
+	<string>رمز الرجال</string>
+	<key>🎻</key>
+	<string>آلة الكمان</string>
+	<key>🦹</key>
+	<string>شريرة</string>
+	<key>🚺</key>
+	<string>رمز نساء</string>
+	<key>🎼</key>
+	<string>نوتة موسيقية</string>
+	<key>🦺</key>
+	<string>سترة سلامة</string>
+	<key>🚻</key>
+	<string>دورة مياه</string>
+	<key>🎽</key>
+	<string>قميص جري</string>
+	<key>🦻</key>
+	<string>أذن مع وسيلة مساعدة السمع</string>
+	<key>🚼</key>
+	<string>رمز الطفل</string>
+	<key>🎾</key>
+	<string>كرة تنس</string>
+	<key>🦼</key>
+	<string>كرسي متحرك آلي</string>
+	<key>🚽</key>
+	<string>مرحاض</string>
+	<key>🎿</key>
+	<string>مزاليج</string>
+	<key>🦽</key>
+	<string>كرسي متحرك يدوي</string>
+	<key>🚾</key>
+	<string>دورة مياه</string>
+	<key>🏀</key>
+	<string>كرة سلة</string>
+	<key>🦾</key>
+	<string>ذراع آلية</string>
+	<key>🙅‍♂️</key>
+	<string>رجل يشير بالرفض</string>
+	<key>🚿</key>
+	<string>دش</string>
+	<key>🏁</key>
+	<string>علم ذو مربعات</string>
+	<key>🦿</key>
+	<string>رجل آلية</string>
+	<key>🛀</key>
+	<string>شخص يستحم</string>
+	<key>🏂</key>
+	<string>متزلج على الجليد</string>
+	<key>🧀</key>
+	<string>قطعة جبن</string>
+	<key>🛁</key>
+	<string>حوض استحمام</string>
+	<key>🚣‍♂️</key>
+	<string>رجل يجدّف القارب</string>
+	<key>🏃</key>
+	<string>العدّاء</string>
+	<key>🧁</key>
+	<string>كب كيك</string>
+	<key>🛂</key>
+	<string>فحص جوازات السفر</string>
+	<key>🏄</key>
+	<string>راكب الأمواج</string>
+	<key>🧂</key>
+	<string>ملح</string>
+	<key>🛃</key>
+	<string>جمارك</string>
+	<key>🏅</key>
+	<string>ميدالية رياضية</string>
+	<key>🧃</key>
+	<string>صندوق عصير</string>
+	<key>🛄</key>
+	<string>استلام الأمتعة</string>
+	<key>🏆</key>
+	<string>جائزة</string>
+	<key>🧄</key>
+	<string>ثوم</string>
+	<key>🛅</key>
+	<string>حقائب متروكة</string>
+	<key>🏇</key>
+	<string>فارس على حصان سباق</string>
+	<key>🧅</key>
+	<string>بصل</string>
+	<key>✴️</key>
+	<string>نجمة ثُمانية الاتجاهات</string>
+	<key>🖼️</key>
+	<string>إطار فيه صورة</string>
+	<key>🏈</key>
+	<string>كرة قدم أمريكية</string>
+	<key>🧆</key>
+	<string>فلافل</string>
+	<key>🏉</key>
+	<string>كرة الركبي</string>
+	<key>🧇</key>
+	<string>وافل</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>عائلة من أبوين وابن وابنة</string>
+	<key>🏊</key>
+	<string>سبّاح</string>
+	<key>🧈</key>
+	<string>زبدة</string>
+	<key>🧑‍⚖️</key>
+	<string>قاض</string>
+	<key>3️⃣</key>
+	<string>مفتاح الرقم ثلاثة</string>
+	<key>🧉</key>
+	<string>متة</string>
+	<key>🧊</key>
+	<string>ثلج</string>
+	<key>🧋</key>
+	<string>شاي بوبا</string>
+	<key>🛌</key>
+	<string>شخص يغلبه النوم</string>
+	<key>🧛‍♂️</key>
+	<string>مصاص دماء</string>
+	<key>🧌</key>
+	<string>عفريت ترول</string>
+	<key>🏏</key>
+	<string>مضرب وكرة كريكت</string>
+	<key>🧍</key>
+	<string>شخص واقف</string>
+	<key>🏐</key>
+	<string>كرة طائرة</string>
+	<key>🧎</key>
+	<string>شخص على ركبه</string>
+	<key>🏑</key>
+	<string>عصا وكرة هوكي الحقل</string>
+	<key>🧏</key>
+	<string>شخص أصم</string>
+	<key>🛐</key>
+	<string>مكان عبادة</string>
+	<key>🏒</key>
+	<string>عصا وقرص هوكي الجليد</string>
+	<key>🧐</key>
+	<string>وجه بنظارة ذات عدسة واحدة</string>
+	<key>🛑</key>
+	<string>شكل ثماني</string>
+	<key>🏓</key>
+	<string>مضرب وكرة تنس طاولة</string>
+	<key>🧑</key>
+	<string>بالغة</string>
+	<key>🛒</key>
+	<string>عربة تسوق</string>
+	<key>🧒</key>
+	<string>طفل</string>
+	<key>🧓</key>
+	<string>شخص بالغ كبير في السن</string>
+	<key>🎚️</key>
+	<string>شريط تمرير المستوى</string>
+	<key>🧔</key>
+	<string>شخص ملتحٍ</string>
+	<key>🛕</key>
+	<string>معبد هندوسي</string>
+	<key>🧕</key>
+	<string>سيدة بغطاء رأس</string>
+	<key>🛖</key>
+	<string>كوخ</string>
+	<key>🧖</key>
+	<string>شخص في ساونا</string>
+	<key>🛗</key>
+	<string>مصعد</string>
+	<key>🧗</key>
+	<string>متسلق صخور</string>
+	<key>🧘</key>
+	<string>شخص في وضعية التأمل</string>
+	<key>🧙</key>
+	<string>ساحرة</string>
+	<key>🧚</key>
+	<string>كائن خرافي</string>
+	<key>👩‍💻</key>
+	<string>خبيرة تقنية</string>
+	<key>🧛</key>
+	<string>مصاص دماء</string>
+	<key>🛜</key>
+	<string>رمز شبكة لاسلكية</string>
+	<key>🧜</key>
+	<string>حورية</string>
+	<key>🛝</key>
+	<string>زلاقة في ساحة لعب</string>
+	<key>🧝</key>
+	<string>قزم</string>
+	<key>🛞</key>
+	<string>عجلة</string>
+	<key>👨‍⚖️</key>
+	<string>قاض</string>
+	<key>🏠</key>
+	<string>منزل</string>
+	<key>🧞</key>
+	<string>جني</string>
+	<key>↘️</key>
+	<string>سهم لأسفل اليمين</string>
+	<key>🛟</key>
+	<string>طوق نجاة</string>
+	<key>🏡</key>
+	<string>منزل مع حديقة</string>
+	<key>🧟</key>
+	<string>زومبي</string>
+	<key>🤸‍♀️</key>
+	<string>سيدة تتشقلب شقلبة العجلة</string>
+	<key>🏢</key>
+	<string>مبنى إداري</string>
+	<key>🧠</key>
+	<string>مخ</string>
+	<key>🏣</key>
+	<string>مكتب بريد ياباني</string>
+	<key>🧡</key>
+	<string>قلب برتقالي</string>
+	<key>👩‍💼</key>
+	<string>موظفة مكتب</string>
+	<key>🏤</key>
+	<string>مكتب بريد أوروبي</string>
+	<key>🧢</key>
+	<string>طاقية</string>
+	<key>🏥</key>
+	<string>مستشفى</string>
+	<key>🧣</key>
+	<string>وشاح</string>
+	<key>🏦</key>
+	<string>بنك</string>
+	<key>🧤</key>
+	<string>قفازات</string>
+	<key>🏧</key>
+	<string>علامة صراف آلي</string>
+	<key>🧥</key>
+	<string>معطف</string>
+	<key>👷‍♀️</key>
+	<string>عاملة بناء</string>
+	<key>🏨</key>
+	<string>فندق</string>
+	<key>🧦</key>
+	<string>جوارب</string>
+	<key>🏩</key>
+	<string>فندق غرام</string>
+	<key>🧧</key>
+	<string>ظرف هدية أحمر</string>
+	<key>ℹ️</key>
+	<string>مصدر معلومات</string>
+	<key>🏪</key>
+	<string>متجر صغير</string>
+	<key>🧨</key>
+	<string>مفرقعة</string>
+	<key>🏫</key>
+	<string>مدرسة</string>
+	<key>🧩</key>
+	<string>قطعة لعبة ألغاز</string>
+	<key>🏬</key>
+	<string>متجر متنوع الأقسام</string>
+	<key>🧪</key>
+	<string>أنبوبة مخبرية</string>
+	<key>🛫</key>
+	<string>طائرة تقلع</string>
+	<key>🛳️</key>
+	<string>سفينة ركاب</string>
+	<key>🏭</key>
+	<string>مصنع</string>
+	<key>🧫</key>
+	<string>طبق بتري</string>
+	<key>🛬</key>
+	<string>طائرة تهبط</string>
+	<key>♨️</key>
+	<string>ينابيع ساخنة</string>
+	<key>🏮</key>
+	<string>فانوس إيساكايا</string>
+	<key>🧬</key>
+	<string>حمض نووي</string>
+	<key>👨‍👩‍👦</key>
+	<string>عائلة من أم وأب وابن</string>
+	<key>🏯</key>
+	<string>قلعة يابانية</string>
+	<key>🧭</key>
+	<string>بوصلة</string>
+	<key>🧏‍♀️</key>
+	<string>امرأة صماء</string>
+	<key>🏰</key>
+	<string>قلعة أوروبية</string>
+	<key>🧮</key>
+	<string>مِعداد</string>
+	<key>🧯</key>
+	<string>طفاية حريق</string>
+	<key>⏹️</key>
+	<string>رمز إيقاف</string>
+	<key>🧰</key>
+	<string>صندوق عدّة</string>
+	<key>🧱</key>
+	<string>طوب</string>
+	<key>🏴</key>
+	<string>علم أسود</string>
+	<key>🧲</key>
+	<string>مغناطيس</string>
+	<key>🙍‍♀️</key>
+	<string>سيدة عبوسة</string>
+	<key>🧳</key>
+	<string>حقائب</string>
+	<key>🛴</key>
+	<string>سكوتر</string>
+	<key>🧴</key>
+	<string>قنينة كْريم</string>
+	<key>🛵</key>
+	<string>دراجة بخارية</string>
+	<key>👨‍👦</key>
+	<string>عائلة من أب وابن</string>
+	<key>🧵</key>
+	<string>خيط</string>
+	<key>💆‍♂️</key>
+	<string>رجل يستمتع بتدليك الرأس</string>
+	<key>🛶</key>
+	<string>زورق كانو</string>
+	<key>🏸</key>
+	<string>مضرب تنس ريشة مع كرة ريشة</string>
+	<key>🧶</key>
+	<string>كرة غَزْل</string>
+	<key>🛷</key>
+	<string>زلاجة</string>
+	<key>🏹</key>
+	<string>قوس وسهم</string>
+	<key>🧷</key>
+	<string>دبوس أمان</string>
+	<key>🛸</key>
+	<string>جسم طائر</string>
+	<key>🏺</key>
+	<string>قارورة إغريقية</string>
+	<key>🧸</key>
+	<string>دبدوب</string>
+	<key>🛹</key>
+	<string>لوح تزلج</string>
+	<key>🧹</key>
+	<string>مكنسة</string>
+	<key>🛺</key>
+	<string>ريكشا أوتوماتيكية</string>
+	<key>⏲️</key>
+	<string>ساعة مؤقتة</string>
+	<key>🧺</key>
+	<string>سلة</string>
+	<key>🛻</key>
+	<string>شاحنة نصف نقل</string>
+	<key>🧻</key>
+	<string>لفيفة مناديل ورقية</string>
+	<key>🛼</key>
+	<string>حذاء تزلج بعجلات</string>
+	<key>👨‍👧</key>
+	<string>عائلة من أب وابنة</string>
+	<key>🧼</key>
+	<string>صابونة</string>
+	<key>🧞‍♂️</key>
+	<string>رجل جني</string>
+	<key>🧽</key>
+	<string>إسفنجة</string>
+	<key>🎞️</key>
+	<string>إطارات أفلام</string>
+	<key>🧾</key>
+	<string>إيصال</string>
+	<key>▪️</key>
+	<string>مربع أسود صغير</string>
+	<key>🧿</key>
+	<string>خرزة زرقاء</string>
+	<key>☂️</key>
+	<string>مظلة</string>
+	<key>🗂️</key>
+	<string>فواصل فهرسية</string>
+	<key>🦹‍♂️</key>
+	<string>رجل شرير</string>
+	<key>🏋️</key>
+	<string>رافع أثقال</string>
+	<key>◻️</key>
+	<string>مربع أبيض متوسط</string>
+	<key>♓️</key>
+	<string>علامة برج الحوت</string>
+	<key>⚫️</key>
+	<string>دائرة سوداء</string>
+	<key>⏩</key>
+	<string>رمز تقديم سريع</string>
+	<key>⏪</key>
+	<string>رمز إرجاع</string>
+	<key>⏫</key>
+	<string>مثلثان متراكبان يشيران لأعلى</string>
+	<key>⏬</key>
+	<string>مثلثان متراكبان يشيران لأسفل</string>
+	<key>🗯️</key>
+	<string>فقاعة كلام غاضب</string>
+	<key>⏰</key>
+	<string>منبه</string>
+	<key>⏳</key>
+	<string>ساعة رملية ينساب منها الرمل</string>
+	<key>🧑‍🎓</key>
+	<string>طالب واحد</string>
+	<key>🧑‍🚒</key>
+	<string>عامل إطفاء</string>
+	<key>♌️</key>
+	<string>علامة برج الأسد</string>
+	<key>🗄️</key>
+	<string>خزانة ملفات</string>
+	<key>🧍‍♂️</key>
+	<string>رجل واقف</string>
+	<key>🏍️</key>
+	<string>دراجة نارية</string>
+	<key>🙋‍♂️</key>
+	<string>رجل يرفع يدًا واحدة</string>
+	<key>👨‍👩‍👧</key>
+	<string>عائلة من أم، أب، وابنة</string>
+	<key>🇸🇦</key>
+	<string>علم المملكة العربية السعودية</string>
+	<key>⛵️</key>
+	<string>مركب شراعي</string>
+	<key>👩‍🏫</key>
+	<string>معلمة</string>
+	<key>⬜️</key>
+	<string>مربع أبيض كبير</string>
+	<key>🇸🇧</key>
+	<string>علم جزر سليمان</string>
+	<key>🇬🇦</key>
+	<string>علم الغابون</string>
+	<key>🇨🇦</key>
+	<string>علم كندا</string>
+	<key>🇸🇨</key>
+	<string>علم سيشل</string>
+	<key>🇬🇧</key>
+	<string>علم المملكة المتحدة</string>
+	<key>👨‍🎓</key>
+	<string>طالب</string>
+	<key>👨‍🚒</key>
+	<string>عامل إطفاء</string>
+	<key>⚖️</key>
+	<string>ميزان</string>
+	<key>🇸🇩</key>
+	<string>علم السودان</string>
+	<key>🇨🇨</key>
+	<string>علم جزر كوكوس (كيلينغ)</string>
+	<key>⏏️</key>
+	<string>رمز الإخراج</string>
+	<key>🇸🇪</key>
+	<string>علم السويد</string>
+	<key>🇬🇩</key>
+	<string>علم غرينادا</string>
+	<key>👩‍🏭</key>
+	<string>عاملة مصنع</string>
+	<key>🇼🇫</key>
+	<string>علم والس وفوتونا</string>
+	<key>🇨🇩</key>
+	<string>علم جمهورية الكونغو الديمقراطية</string>
+	<key>🇰🇪</key>
+	<string>علم كينيا</string>
+	<key>🛎️</key>
+	<string>جرس خادم الفندق</string>
+	<key>🇬🇪</key>
+	<string>علم جورجيا</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>عائلة من أمين وابن وابنة</string>
+	<key>🇸🇬</key>
+	<string>علم سنغافورة</string>
+	<key>🇬🇫</key>
+	<string>علم غويانا الفرنسية</string>
+	<key>🇨🇫</key>
+	<string>علم جمهورية إفريقيا الوسطى</string>
+	<key>🇰🇬</key>
+	<string>علم قيرغيزستان</string>
+	<key>🗳️</key>
+	<string>صندوق اقتراع وورقة اقتراع</string>
+	<key>🇸🇭</key>
+	<string>علم سانت هيلينا</string>
+	<key>🇬🇬</key>
+	<string>علم غيرنزي</string>
+	<key>🧑‍⚕️</key>
+	<string>عامل بالمجال الصحي</string>
+	<key>🏃‍♀️</key>
+	<string>عدّاءة</string>
+	<key>🇨🇬</key>
+	<string>علم جمهورية الكونغو</string>
+	<key>🇰🇭</key>
+	<string>علم كمبوديا</string>
+	<key>🤹‍♂️</key>
+	<string>رجل يؤدي ألعاب خفة</string>
+	<key>🇸🇮</key>
+	<string>علم سلوفينيا</string>
+	<key>🇬🇭</key>
+	<string>علم غانا</string>
+	<key>〽️</key>
+	<string>علامة تعاقب جزئية</string>
+	<key>🇨🇭</key>
+	<string>علم سويسرا</string>
+	<key>🇰🇮</key>
+	<string>علم كيريباتي</string>
+	<key>🇸🇯</key>
+	<string>علم سفالبارد ويان ماين</string>
+	<key>🕰️</key>
+	<string>ساعة رف المدفأة</string>
+	<key>8️⃣</key>
+	<string>مفتاح الرقم ثمانية</string>
+	<key>🇬🇮</key>
+	<string>علم جبل طارق</string>
+	<key>🤾‍♀️</key>
+	<string>سيدة تلعب كرة يد</string>
+	<key>🇨🇮</key>
+	<string>علم ساحل العاج</string>
+	<key>⬇️</key>
+	<string>سهم للأسفل</string>
+	<key>👩‍✈️</key>
+	<string>طيارة</string>
+	<key>👩‍👧‍👦</key>
+	<string>عائلة من أم، ابن وابنة</string>
+	<key>🇸🇰</key>
+	<string>علم سلوفاكيا</string>
+	<key>🌡️</key>
+	<string>مقياس حرارة</string>
+	<key>↪️</key>
+	<string>سهم أيسر منحني لليمين</string>
+	<key>🇸🇱</key>
+	<string>علم سيراليون</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>رجلان يتبادلان القبلات</string>
+	<key>🇨🇰</key>
+	<string>علم جزر كوك</string>
+	<key>🇸🇲</key>
+	<string>علم سان مارينو</string>
+	<key>🇬🇱</key>
+	<string>علم غرينلاند</string>
+	<key>🇴🇲</key>
+	<string>علم عمان</string>
+	<key>🇨🇱</key>
+	<string>علم تشيلي</string>
+	<key>🇰🇲</key>
+	<string>علم جزر القمر</string>
+	<key>🇸🇳</key>
+	<string>علم السنغال</string>
+	<key>🇬🇲</key>
+	<string>علم غامبيا</string>
+	<key>1️⃣</key>
+	<string>مفتاح الرقم واحد</string>
+	<key>Ⓜ️</key>
+	<string>حرف M داخل دائرة</string>
+	<key>🇨🇲</key>
+	<string>علم الكاميرون</string>
+	<key>👨‍⚕️</key>
+	<string>عامل في مجال الصحة</string>
+	<key>🙎‍♂️</key>
+	<string>رجل عابس</string>
+	<key>🇰🇳</key>
+	<string>علم سانت كيتس ونيفيس</string>
+	<key>🇸🇴</key>
+	<string>علم الصومال</string>
+	<key>🇬🇳</key>
+	<string>علم غينيا</string>
+	<key>🇨🇳</key>
+	<string>علم الصين</string>
+	<key>☢️</key>
+	<string>إشعاعي</string>
+	<key>🇨🇴</key>
+	<string>علم كولومبيا</string>
+	<key>‼️</key>
+	<string>علامة تعجب حمراء مزدوجة</string>
+	<key>🃏</key>
+	<string>جوكر</string>
+	<key>🇰🇵</key>
+	<string>علم كوريا الشمالية</string>
+	<key>🇬🇵</key>
+	<string>علم غوادلوب</string>
+	<key>㊗️</key>
+	<string>لافتة يابانية معناها "تهانينا"</string>
+	<key>🐿️</key>
+	<string>سنجاب مخطط</string>
+	<key>🇨🇵</key>
+	<string>علم جزيرة كليبرتون</string>
+	<key>🇸🇷</key>
+	<string>علم سورينام</string>
+	<key>🏳️‍⚧️</key>
+	<string>علم للمتحولين جنسيًا</string>
+	<key>🇬🇶</key>
+	<string>علم غينيا الاستوائية</string>
+	<key>🇼🇸</key>
+	<string>علم ساموا</string>
+	<key>*️⃣</key>
+	<string>مفتاح العلامة النجمية</string>
+	<key>🇰🇷</key>
+	<string>علم كوريا الجنوبية</string>
+	<key>🇸🇸</key>
+	<string>علم جنوب السودان</string>
+	<key>🇬🇷</key>
+	<string>علم اليونان</string>
+	<key>🇨🇷</key>
+	<string>علم كوستاريكا</string>
+	<key>®️</key>
+	<string>علامة تجارية مسجلة</string>
+	<key>🇸🇹</key>
+	<string>علم سان تومي وبرينسيبي</string>
+	<key>🇬🇸</key>
+	<string>علم جورجيا الجنوبية وجزر ساندويتش الجنوبية</string>
+	<key>↕️</key>
+	<string>سهم يشير لأعلى ولأسفل</string>
+	<key>🇬🇹</key>
+	<string>علم غواتيمالا</string>
+	<key>☔️</key>
+	<string>مظلة مع قطرات مطر</string>
+	<key>🏳️‍🌈</key>
+	<string>علم قوس قزح</string>
+	<key>🇸🇻</key>
+	<string>علم السلفادور</string>
+	<key>🕴️</key>
+	<string>رجل ببدلة عمل يحلق في الهواء</string>
+	<key>⛄️</key>
+	<string>رجل ثلج</string>
+	<key>🇬🇺</key>
+	<string>علم غوام</string>
+	<key>🇨🇺</key>
+	<string>علم كوبا</string>
+	<key>#️⃣</key>
+	<string>علامة الرقم</string>
+	<key>🤼‍♂️</key>
+	<string>رجلان يتصارعان</string>
+	<key>🌥️</key>
+	<string>شمس وراء غيمة كبيرة</string>
+	<key>👁️</key>
+	<string>عين</string>
+	<key>🇨🇻</key>
+	<string>علم الرأس الأخضر</string>
+	<key>🍽️</key>
+	<string>شوكة وسكين مع طبق</string>
+	<key>🇰🇼</key>
+	<string>علم الكويت</string>
+	<key>🇸🇽</key>
+	<string>علم سانت مارتن</string>
+	<key>🇬🇼</key>
+	<string>علم غينيا بيساو</string>
+	<key>🏕️</key>
+	<string>تخييم</string>
+	<key>🩰</key>
+	<string>أحذية باليه</string>
+	<key>🇨🇼</key>
+	<string>علم كوراساو</string>
+	<key>🩱</key>
+	<string>سترة سباحة من قطعة واحدة</string>
+	<key>🇸🇾</key>
+	<string>علم سوريا</string>
+	<key>♥️</key>
+	<string>مجموعة القلب الأحمر</string>
+	<key>🩲</key>
+	<string>سروال داخلي</string>
+	<key>🕉️</key>
+	<string>رمز أوم</string>
+	<key>⚽️</key>
+	<string>كرة قدم</string>
+	<key>🩳</key>
+	<string>شورتس</string>
+	<key>🇨🇽</key>
+	<string>علم جزيرة الكريسماس</string>
+	<key>🩴</key>
+	<string>صندل</string>
+	<key>🇰🇾</key>
+	<string>علم جزر الكايمن</string>
+	<key>🇸🇿</key>
+	<string>علم إسواتيني</string>
+	<key>🩵</key>
+	<string>قلب أزرق فاتح</string>
+	<key>👩‍👧‍👧</key>
+	<string>عائلة من أم وابنتين</string>
+	<key>🇬🇾</key>
+	<string>علم غويانا</string>
+	<key>🩶</key>
+	<string>قلب رمادي</string>
+	<key>🩷</key>
+	<string>قلب زهري</string>
+	<key>🇨🇾</key>
+	<string>علم قبرص</string>
+	<key>🇰🇿</key>
+	<string>علم كازاخستان</string>
+	<key>🩸</key>
+	<string>قطرة دم</string>
+	<key>🩹</key>
+	<string>ضمادة لاصقة</string>
+	<key>🩺</key>
+	<string>سماعة طبيب</string>
+	<key>🇨🇿</key>
+	<string>علم التشيك</string>
+	<key>🩻</key>
+	<string>صورة أشعة إكس</string>
+	<key>🩼</key>
+	<string>عكاز</string>
+	<key>🕶️</key>
+	<string>نظارة شمسية</string>
+	<key>🧘‍♀️</key>
+	<string>امرأة في وضعية التأمل</string>
+	<key>⏯️</key>
+	<string>رمز تشغيل/إيقاف مؤقت</string>
+	<key>🪀</key>
+	<string>يويو</string>
+	<key>🌧️</key>
+	<string>سحابة مع مطر</string>
+	<key>🪁</key>
+	<string>طائرة ورقية</string>
+	<key>🪂</key>
+	<string>باراشوت</string>
+	<key>🧑‍🎤</key>
+	<string>مطرب</string>
+	<key>🪃</key>
+	<string>بوميرانغ</string>
+	<key>🪄</key>
+	<string>عصا سحرية</string>
+	<key>🏗️</key>
+	<string>معدات بناء</string>
+	<key>🪅</key>
+	<string>بنياتا</string>
+	<key>🪆</key>
+	<string>دمى ماتريوشكا</string>
+	<key>🚴‍♀️</key>
+	<string>راكبة دراجة هوائية</string>
+	<key>🪇</key>
+	<string>آلات ماراكا</string>
+	<key>🐀</key>
+	<string>جرذ</string>
+	<key>🪈</key>
+	<string>مزمار</string>
+	<key>🐁</key>
+	<string>فأر</string>
+	<key>🐂</key>
+	<string>ثور</string>
+	<key>🐃</key>
+	<string>جاموس الماء</string>
+	<key>🐄</key>
+	<string>بقرة</string>
+	<key>🅱️</key>
+	<string>فصيلة الدم B</string>
+	<key>🐅</key>
+	<string>نمر</string>
+	<key>🐆</key>
+	<string>فهد</string>
+	<key>🐇</key>
+	<string>أرنب</string>
+	<key>🐈</key>
+	<string>قطة</string>
+	<key>🪐</key>
+	<string>كوكب</string>
+	<key>♐️</key>
+	<string>علامة برج القوس</string>
+	<key>🐉</key>
+	<string>تنين</string>
+	<key>🪑</key>
+	<string>كرسي</string>
+	<key>🕸️</key>
+	<string>شبكة عنكبوت</string>
+	<key>🐊</key>
+	<string>تمساح</string>
+	<key>🪒</key>
+	<string>موس</string>
+	<key>👩‍🍳</key>
+	<string>طباخة</string>
+	<key>🐋</key>
+	<string>حوت</string>
+	<key>👯‍♀️</key>
+	<string>سيدتان ترقصان وترتديان أُذني أرنب</string>
+	<key>🪓</key>
+	<string>فأس</string>
+	<key>🐌</key>
+	<string>حلزون</string>
+	<key>🪔</key>
+	<string>ضوء ديا</string>
+	<key>🐍</key>
+	<string>ثعبان</string>
+	<key>🪕</key>
+	<string>آلة بانجو</string>
+	<key>🏄‍♂️</key>
+	<string>راكب أمواج</string>
+	<key>🌩️</key>
+	<string>سحابة مع برق</string>
+	<key>🐎</key>
+	<string>حصان</string>
+	<key>🪖</key>
+	<string>خوذة عسكرية</string>
+	<key>🐏</key>
+	<string>كبش</string>
+	<key>🪗</key>
+	<string>أكورديون</string>
+	<key>🐐</key>
+	<string>ماعز</string>
+	<key>🪘</key>
+	<string>طبلة طويلة</string>
+	<key>👨‍🎤</key>
+	<string>مطرب</string>
+	<key>🏙️</key>
+	<string>منظر مدينة</string>
+	<key>🐑</key>
+	<string>خروف</string>
+	<key>🪙</key>
+	<string>عملة معدنية</string>
+	<key>🐒</key>
+	<string>قرد</string>
+	<key>🪚</key>
+	<string>منشار يدوي</string>
+	<key>♉️</key>
+	<string>علامة برج الثور</string>
+	<key>🐓</key>
+	<string>ديك</string>
+	<key>🪛</key>
+	<string>مفك براغي</string>
+	<key>⚡️</key>
+	<string>صاعقة برق</string>
+	<key>🐔</key>
+	<string>دجاجة</string>
+	<key>🪜</key>
+	<string>سُلّم</string>
+	<key>⛹️</key>
+	<string>لاعب كرة سلة</string>
+	<key>🖥️</key>
+	<string>كمبيوتر مكتبي</string>
+	<key>🐕</key>
+	<string>كلب</string>
+	<key>🪝</key>
+	<string>خطاف</string>
+	<key>🧑‍🎨</key>
+	<string>فنان</string>
+	<key>🐖</key>
+	<string>خنزير</string>
+	<key>🪞</key>
+	<string>مرآة</string>
+	<key>🐗</key>
+	<string>خنزير بري</string>
+	<key>🪟</key>
+	<string>نافذة</string>
+	<key>🐘</key>
+	<string>فيل</string>
+	<key>🙅‍♀️</key>
+	<string>سيدة تشير بالرفض</string>
+	<key>🪠</key>
+	<string>كباس تسليك</string>
+	<key>🐙</key>
+	<string>أخطبوط</string>
+	<key>🪡</key>
+	<string>إبرة خياطة</string>
+	<key>🐚</key>
+	<string>صدفة بحر</string>
+	<key>🪢</key>
+	<string>عقدة</string>
+	<key>🚣‍♀️</key>
+	<string>سيدة تجدّف القارب</string>
+	<key>🐛</key>
+	<string>حشرة</string>
+	<key>🪣</key>
+	<string>دلو</string>
+	<key>🐜</key>
+	<string>نملة</string>
+	<key>🪤</key>
+	<string>مصيدة فئران</string>
+	<key>🐝</key>
+	<string>نحلة</string>
+	<key>🪥</key>
+	<string>فرشاة أسنان</string>
+	<key>🐞</key>
+	<string>دعسوقة</string>
+	<key>🪦</key>
+	<string>شاهد قبر</string>
+	<key>⛲️</key>
+	<string>نافورة</string>
+	<key>🐟</key>
+	<string>سمكة</string>
+	<key>🪧</key>
+	<string>لافتة</string>
+	<key>🐠</key>
+	<string>سمكة استوائية</string>
+	<key>🗒️</key>
+	<string>لوحة ملاحظات قابلة للطي</string>
+	<key>🪨</key>
+	<string>صخرة</string>
+	<key>🐡</key>
+	<string>سمكة منتفخة</string>
+	<key>🪩</key>
+	<string>كرة ديسكو</string>
+	<key>🧖‍♂️</key>
+	<string>رجل في ساونا</string>
+	<key>🌫️</key>
+	<string>ضباب</string>
+	<key>🐢</key>
+	<string>سلحفاة</string>
+	<key>🪪</key>
+	<string>بطاقة هوية</string>
+	<key>🐣</key>
+	<string>فرخ يخرج من البيضة</string>
+	<key>🪫</key>
+	<string>بطارية بشحن منخفض</string>
+	<key>🐤</key>
+	<string>فرخ صغير</string>
+	<key>🪬</key>
+	<string>كف خمسة وخميسة</string>
+	<key>🐥</key>
+	<string>فرخ واقف</string>
+	<key>😶‍🌫️</key>
+	<string>وجه في السحاب</string>
+	<key>🏛️</key>
+	<string>مبنى كلاسيكي</string>
+	<key>🪭</key>
+	<string>مروحة يدوية قابلة للطي</string>
+	<key>🐦</key>
+	<string>طائر</string>
+	<key>🧛‍♀️</key>
+	<string>مصاصة دماء</string>
+	<key>🪮</key>
+	<string>مشط شعر</string>
+	<key>🐧</key>
+	<string>بطريق</string>
+	<key>🪯</key>
+	<string>رمز خاندا</string>
+	<key>🐨</key>
+	<string>وجه كوالا</string>
+	<key>⚓️</key>
+	<string>مرساة</string>
+	<key>🪰</key>
+	<string>ذبابة</string>
+	<key>🐩</key>
+	<string>كلب بودل</string>
+	<key>🪱</key>
+	<string>دودة</string>
+	<key>🐪</key>
+	<string>جمل</string>
+	<key>🪲</key>
+	<string>خنفسة</string>
+	<key>👨‍🎨</key>
+	<string>فنان</string>
+	<key>🐫</key>
+	<string>جمل بسنامين</string>
+	<key>🪳</key>
+	<string>صرصور</string>
+	<key>🐬</key>
+	<string>دولفين</string>
+	<key>🪴</key>
+	<string>نبات في وعاء</string>
+	<key>🐭</key>
+	<string>وجه فأر</string>
+	<key>🪵</key>
+	<string>خشب</string>
+	<key>🐮</key>
+	<string>وجه بقرة</string>
+	<key>🪶</key>
+	<string>ريشة</string>
+	<key>🐯</key>
+	<string>وجه نمر</string>
+	<key>🪷</key>
+	<string>لوتس</string>
+	<key>🐕‍🦺</key>
+	<string>كلب خدمة</string>
+	<key>🐰</key>
+	<string>وجه أرنب</string>
+	<key>🪸</key>
+	<string>مرجان بحري</string>
+	<key>🐱</key>
+	<string>وجه قط</string>
+	<key>🪹</key>
+	<string>عش فارغ</string>
+	<key>🐲</key>
+	<string>رأس تنين</string>
+	<key>🪺</key>
+	<string>عش به بيض</string>
+	<key>🐳</key>
+	<string>حوت يبخ</string>
+	<key>🪻</key>
+	<string>زهرة ياقوتية</string>
+	<key>🐴</key>
+	<string>رأس حصان</string>
+	<key>🪼</key>
+	<string>قنديل بحر</string>
+	<key>🐵</key>
+	<string>وجه قرد</string>
+	<key>🪽</key>
+	<string>جناح</string>
+	<key>🐶</key>
+	<string>وجه كلب</string>
+	<key>🐷</key>
+	<string>وجه خنزير</string>
+	<key>🪿</key>
+	<string>إوزة</string>
+	<key>🐸</key>
+	<string>وجه ضفدع</string>
+	<key>🫀</key>
+	<string>قلب تشريحي</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>علم إنجلترا</string>
+	<key>🐹</key>
+	<string>وجه هامستر</string>
+	<key>🫁</key>
+	<string>رئتان</string>
+	<key>🐺</key>
+	<string>ذئب</string>
+	<key>🏝️</key>
+	<string>جزيرة صحراوية</string>
+	<key>🫂</key>
+	<string>أشخاص يتعانقون</string>
+	<key>🐻</key>
+	<string>وجه دب</string>
+	<key>🏌️‍♂️</key>
+	<string>لاعب غولف</string>
+	<key>🫃</key>
+	<string>رجل حامل</string>
+	<key>🐼</key>
+	<string>وجه باندا</string>
+	<key>🫄</key>
+	<string>شخص حامل</string>
+	<key>6️⃣</key>
+	<string>مفتاح الرقم ستة</string>
+	<key>🐽</key>
+	<string>أنف خنزير</string>
+	<key>🫅</key>
+	<string>شخص يرتدي تاجًا</string>
+	<key>🐾</key>
+	<string>آثار قدمي حيوان</string>
+	<key>👀</key>
+	<string>زوج من الأعين</string>
+	<key>👂</key>
+	<string>أذن</string>
+	<key>👃</key>
+	<string>أنف</string>
+	<key>👄</key>
+	<string>فم</string>
+	<key>👅</key>
+	<string>لسان</string>
+	<key>☦️</key>
+	<string>صليب أرثوذوكسي</string>
+	<key>👆</key>
+	<string>إصبع سبابة بظهر اليد تشير للأعلى</string>
+	<key>👩‍🍼</key>
+	<string>امرأة ترضع رضيعًا</string>
+	<key>🫎</key>
+	<string>وجه أيل</string>
+	<key>♾️</key>
+	<string>ما لا نهاية</string>
+	<key>👇</key>
+	<string>إصبع سبابة بظهر اليد تشير للأسفل</string>
+	<key>🫏</key>
+	<string>حمار</string>
+	<key>👈</key>
+	<string>إصبع سبابة بظهر اليد تشير لليسار</string>
+	<key>🫐</key>
+	<string>توت بري</string>
+	<key>👉</key>
+	<string>إصبع سبابة بظهر اليد تشير لليمين</string>
+	<key>🫑</key>
+	<string>فلفل حلو</string>
+	<key>👊</key>
+	<string>قبضة يد مغلقة</string>
+	<key>🫒</key>
+	<string>زيتونة</string>
+	<key>⭕️</key>
+	<string>علامة دائرية</string>
+	<key>💁‍♂️</key>
+	<string>موظف مكتب استعلامات</string>
+	<key>👋</key>
+	<string>يد تلوح</string>
+	<key>🫓</key>
+	<string>خبز مسطح</string>
+	<key>👌</key>
+	<string>رمز باليد للموافقة</string>
+	<key>🫔</key>
+	<string>تامال</string>
+	<key>👍</key>
+	<string>إبهام لأعلى</string>
+	<key>🫕</key>
+	<string>فوندو</string>
+	<key>👎</key>
+	<string>إبهام لأسفل</string>
+	<key>🫖</key>
+	<string>إبريق شاي</string>
+	<key>🏟️</key>
+	<string>استاد</string>
+	<key>👏</key>
+	<string>يدان تصفقان</string>
+	<key>🫗</key>
+	<string>يصب سائلاً</string>
+	<key>💆‍♀️</key>
+	<string>سيدة تستمتع بتدليك الرأس</string>
+	<key>👐</key>
+	<string>يدان مفتوحتان</string>
+	<key>🫘</key>
+	<string>فاصوليا</string>
+	<key>🐦‍⬛</key>
+	<string>طائر أسود</string>
+	<key>🧑‍🦯</key>
+	<string>شخص مع عصا بيضاء</string>
+	<key>🫙</key>
+	<string>مرطبان</string>
+	<key>🧙‍♂️</key>
+	<string>ساحر</string>
+	<key>👑</key>
+	<string>تاج</string>
+	<key>⛏️</key>
+	<string>معول</string>
+	<key>👒</key>
+	<string>قبعة مع ربطة</string>
+	<key>🫚</key>
+	<string>جذر زنجبيل</string>
+	<key>👓</key>
+	<string>نظارة</string>
+	<key>🫛</key>
+	<string>قرن بازلاء</string>
+	<key>👔</key>
+	<string>قميص وربطة عنق</string>
+	<key>👕</key>
+	<string>تي شيرت بولو</string>
+	<key>👖</key>
+	<string>جينز</string>
+	<key>🧞‍♀️</key>
+	<string>أمرأة جنية</string>
+	<key>👗</key>
+	<string>ثوب</string>
+	<key>↙️</key>
+	<string>سهم لأسفل اليسار</string>
+	<key>🧑‍🦰</key>
+	<string>شخص بشعر أحمر</string>
+	<key>🕵️‍♂️</key>
+	<string>محقق</string>
+	<key>👘</key>
+	<string>كيمونو</string>
+	<key>🟠</key>
+	<string>دائرة برتقالية</string>
+	<key>🫠</key>
+	<string>وجه يذوب</string>
+	<key>🟡</key>
+	<string>دائرة صفراء</string>
+	<key>👩‍❤️‍👨</key>
+	<string>رجل وسيدة مع قلب</string>
+	<key>👙</key>
+	<string>مايوه بيكيني</string>
+	<key>◀️</key>
+	<string>مثلث يشير لليسار</string>
+	<key>🫡</key>
+	<string>وجه يؤدي التحية</string>
+	<key>🟢</key>
+	<string>دائرة خضراء</string>
+	<key>👚</key>
+	<string>بلوزة</string>
+	<key>☘️</key>
+	<string>نبات النفل</string>
+	<key>🫢</key>
+	<string>وجه بعينين مفتوحتين ويد على الفم</string>
+	<key>🚵‍♂️</key>
+	<string>راكب دراجة جبلية</string>
+	<key>🟣</key>
+	<string>دائرة أرجوانية</string>
+	<key>👛</key>
+	<string>محفظة</string>
+	<key>🫣</key>
+	<string>وجه بعين تنظر خلسة</string>
+	<key>🟤</key>
+	<string>دائرة بنية</string>
+	<key>👜</key>
+	<string>حقيبة يد</string>
+	<key>⛈️</key>
+	<string>سحابة مع برق ومطر</string>
+	<key>🫤</key>
+	<string>وجه فمه بميل قُطري</string>
+	<key>🟥</key>
+	<string>مربع أحمر</string>
+	<key>👝</key>
+	<string>كيس نقود</string>
+	<key>🫥</key>
+	<string>وجه بتخطيط خارجي منقط</string>
+	<key>🟦</key>
+	<string>مربع أزرق</string>
+	<key>👞</key>
+	<string>حذاء رسمي</string>
+	<key>🧑‍🦱</key>
+	<string>شخص بشعر مجعد</string>
+	<key>🫦</key>
+	<string>عض على الشفة</string>
+	<key>🟧</key>
+	<string>مربع برتقالي</string>
+	<key>🦹‍♀️</key>
+	<string>امرأة شريرة</string>
+	<key>👟</key>
+	<string>حذاء تنس</string>
+	<key>🫧</key>
+	<string>فقاعات</string>
+	<key>🟨</key>
+	<string>مربع أصفر</string>
+	<key>❤️‍🔥</key>
+	<string>قلب على نار</string>
+	<key>👠</key>
+	<string>حذاء بكعب عال</string>
+	<key>🟩</key>
+	<string>مربع أخضر</string>
+	<key>🫨</key>
+	<string>وجه مهتز</string>
+	<key>👡</key>
+	<string>صندل بكعب عال</string>
+	<key>🟪</key>
+	<string>مربع أرجواني</string>
+	<key>👢</key>
+	<string>حذاء طويل بكعب عال</string>
+	<key>🟫</key>
+	<string>مربع بني</string>
+	<key>👣</key>
+	<string>آثار أقدام</string>
+	<key>🛠️</key>
+	<string>مطرقة ومفتاح ربط</string>
+	<key>📽️</key>
+	<string>بروجكتور أفلام</string>
+	<key>👤</key>
+	<string>صورة ظلية لشخص</string>
+	<key>☑️</key>
+	<string>مربع به علامة صح</string>
+	<key>🧑‍🦲</key>
+	<string>شخص بلا شعر</string>
+	<key>👥</key>
+	<string>صورة ظلية لشخصين</string>
+	<key>👦</key>
+	<string>ولد</string>
+	<key>👨‍🦯</key>
+	<string>رجل مع عصا بيضاء</string>
+	<key>👧</key>
+	<string>فتاة</string>
+	<key>👰‍♂️</key>
+	<string>رجل عليه طرحة</string>
+	<key>👩‍🚀</key>
+	<string>رائدة فضاء</string>
+	<key>🟰</key>
+	<string>علامة يساوي</string>
+	<key>🏴‍☠️</key>
+	<string>علم قراصنة</string>
+	<key>👨</key>
+	<string>رجل</string>
+	<key>🫰</key>
+	<string>يد بها إصبع السبابة والإبهام متقاطعان</string>
+	<key>⏺️</key>
+	<string>رمز تسجيل</string>
+	<key>👩</key>
+	<string>سيدة</string>
+	<key>🫱</key>
+	<string>يد جهة اليمين</string>
+	<key>👪</key>
+	<string>عائلة</string>
+	<key>🫲</key>
+	<string>يد جهة اليسار</string>
+	<key>👫</key>
+	<string>رجل وسيدة يدًا بيد</string>
+	<key>🫳</key>
+	<string>يد كفها لأسفل</string>
+	<key>🧑‍🦳</key>
+	<string>شخص بشعر أبيض</string>
+	<key>👬</key>
+	<string>رجلان يدًا بيد</string>
+	<key>🫴</key>
+	<string>يد كفها لأعلى</string>
+	<key>👭</key>
+	<string>سيدتان يدًا بيد</string>
+	<key>👨‍🦰</key>
+	<string>رجل بشعر أحمر</string>
+	<key>🫵</key>
+	<string>سبابة تشير إلى المشاهد</string>
+	<key>👮</key>
+	<string>شرطي</string>
+	<key>🏊‍♂️</key>
+	<string>سبّاح</string>
+	<key>🫶</key>
+	<string>يدان على شكل قلب</string>
+	<key>👯</key>
+	<string>شخصان يرقصان ويرتديان أُذني أرنب</string>
+	<key>🫷</key>
+	<string>يد تدفع لليسار</string>
+	<key>👰</key>
+	<string>شخص عليه طرحة</string>
+	<key>🫸</key>
+	<string>يد تدفع لليمين</string>
+	<key>👱</key>
+	<string>شخص بشعر أشقر</string>
+	<key>✒️</key>
+	<string>قلم حبر</string>
+	<key>👲</key>
+	<string>رجل يرتدي طاقية صينية</string>
+	<key>🧍‍♀️</key>
+	<string>امرأة واقفة</string>
+	<key>👳</key>
+	<string>شخص يرتدي عمامة</string>
+	<key>👨‍🦱</key>
+	<string>رجل بشعر مجعد</string>
+	<key>👴</key>
+	<string>رجل عجوز</string>
+	<key>🙆‍♂️</key>
+	<string>رجل يشير بالموافقة</string>
+	<key>👵</key>
+	<string>سيدة عجوز</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>عائلة من أم، وأب، وابن، وابنة</string>
+	<key>👶</key>
+	<string>طفل</string>
+	<key>👷</key>
+	<string>عامل بناء</string>
+	<key>▫️</key>
+	<string>مربع أبيض صغير</string>
+	<key>👸</key>
+	<string>أميرة</string>
+	<key>🛢️</key>
+	<string>برميل نفط</string>
+	<key>☃️</key>
+	<string>رجل ثلج مع رقاقات ثلج</string>
+	<key>👹</key>
+	<string>غول</string>
+	<key>🙋‍♀️</key>
+	<string>امرأة ترفع يدًا واحدة</string>
+	<key>👺</key>
+	<string>عفريت</string>
+	<key>👨‍🦲</key>
+	<string>رجل بلا شعر</string>
+	<key>🇹🇦</key>
+	<string>علم تريستان دا كونا</string>
+	<key>👻</key>
+	<string>شبح</string>
+	<key>🇵🇦</key>
+	<string>علم بنما</string>
+	<key>👼</key>
+	<string>طفل ملاك</string>
+	<key>❣️</key>
+	<string>قلب أحمر كعلامة تعجب</string>
+	<key>👽</key>
+	<string>كائن فضائي</string>
+	<key>🇱🇦</key>
+	<string>علم لاوس</string>
+	<key>👾</key>
+	<string>وحش فضائي</string>
+	<key>👿</key>
+	<string>وجه غاضب بقرنين</string>
+	<key>💀</key>
+	<string>جمجمة</string>
+	<key>🇱🇧</key>
+	<string>علم لبنان</string>
+	<key>👨‍🦳</key>
+	<string>رجل ذو شعر أبيض</string>
+	<key>💁</key>
+	<string>موظفة مكتب استعلامات</string>
+	<key>🇹🇨</key>
+	<string>علم جزر تركس وكايكوس</string>
+	<key>🧜‍♂️</key>
+	<string>عريس البحر</string>
+	<key>💂</key>
+	<string>حارس</string>
+	<key>💃</key>
+	<string>سيدة ترقص</string>
+	<key>◼️</key>
+	<string>مربع أسود متوسط</string>
+	<key>🇱🇨</key>
+	<string>علم سانت لوسيا</string>
+	<key>💄</key>
+	<string>أحمر شفاه</string>
+	<key>🇹🇩</key>
+	<string>علم تشاد</string>
+	<key>💅</key>
+	<string>طلاء أظافر</string>
+	<key>💆</key>
+	<string>شخص يستمتع بتدليك الرأس</string>
+	<key>💇</key>
+	<string>شخص يقص شعره</string>
+	<key>🗜️</key>
+	<string>ملزمة</string>
+	<key>💈</key>
+	<string>عامود الحلاق</string>
+	<key>💉</key>
+	<string>إبرة حقن</string>
+	<key>🇵🇪</key>
+	<string>علم بيرو</string>
+	<key>💊</key>
+	<string>قرص دواء</string>
+	<key>💋</key>
+	<string>علامة قُبلة</string>
+	<key>🇹🇫</key>
+	<string>علم المقاطعات الفرنسية الجنوبية</string>
+	<key>💌</key>
+	<string>رسالة حب</string>
+	<key>👩‍❤️‍👩</key>
+	<string>صديقتان مع قلب</string>
+	<key>🇵🇫</key>
+	<string>علم بولينيزيا الفرنسية</string>
+	<key>🛤️</key>
+	<string>شريط سكة حديد</string>
+	<key>💍</key>
+	<string>خاتم</string>
+	<key>🆎</key>
+	<string>فصيلة دم AB</string>
+	<key>🇩🇪</key>
+	<string>علم ألمانيا</string>
+	<key>🈂️</key>
+	<string>رمز ياباني معناه "خدمة" أو "رسوم خدمة"</string>
+	<key>💎</key>
+	<string>حجر كريم</string>
+	<key>♍️</key>
+	<string>علامة برج العذراء</string>
+	<key>🇹🇬</key>
+	<string>علم توغو</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>سيدتان تتبادلان القبلات</string>
+	<key>💏</key>
+	<string>زوجان يتبادلان القبلات</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>أشخاص يدًا بيد</string>
+	<key>💐</key>
+	<string>باقة زهور</string>
+	<key>⛽️</key>
+	<string>مضخة وقود</string>
+	<key>🇵🇬</key>
+	<string>علم بابوا غينيا الجديدة</string>
+	<key>🖱️</key>
+	<string>ماوس كمبيوتر</string>
+	<key>🆑</key>
+	<string>علامة CL</string>
+	<key>💑</key>
+	<string>زوج مع قلب</string>
+	<key>🆒</key>
+	<string>علامة cool</string>
+	<key>🇹🇭</key>
+	<string>علم تايلاند</string>
+	<key>💒</key>
+	<string>زفاف</string>
+	<key>🆓</key>
+	<string>علامة حرة</string>
+	<key>💓</key>
+	<string>قلب ينبض</string>
+	<key>🆔</key>
+	<string>علامة تعريف</string>
+	<key>🇵🇭</key>
+	<string>علم الفلبين</string>
+	<key>👩‍⚖️</key>
+	<string>قاضية</string>
+	<key>💔</key>
+	<string>قلب مجروح</string>
+	<key>🇩🇬</key>
+	<string>علم دييغو غارسيا</string>
+	<key>🆕</key>
+	<string>علامة NEW</string>
+	<key>🅿️</key>
+	<string>علامة موقف سيارات</string>
+	<key>💕</key>
+	<string>قلبان</string>
+	<key>🤹‍♀️</key>
+	<string>سيدة تؤدي ألعاب خفة</string>
+	<key>🆖</key>
+	<string>إشارة سيء</string>
+	<key>💖</key>
+	<string>قلب متألق</string>
+	<key>🆗</key>
+	<string>علامة الموافقة</string>
+	<key>💗</key>
+	<string>قلب يكبر</string>
+	<key>👳‍♂️</key>
+	<string>رجل يرتدي عمامة</string>
+	<key>🆘</key>
+	<string>علامة SOS</string>
+	<key>💘</key>
+	<string>قلب به سهم</string>
+	<key>🇱🇮</key>
+	<string>علم ليختنشتاين</string>
+	<key>🆙</key>
+	<string>علامة UP</string>
+	<key>🈯️</key>
+	<string>رمز ياباني معناه "محجوز"</string>
+	<key>🇹🇯</key>
+	<string>علم طاجيكستان</string>
+	<key>💙</key>
+	<string>قلب أزرق</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>عائلة من أبوين وابنين</string>
+	<key>🆚</key>
+	<string>مربع به VS</string>
+	<key>💚</key>
+	<string>قلب أخضر</string>
+	<key>🇽🇰</key>
+	<string>علم كوسوفو</string>
+	<key>💛</key>
+	<string>قلب أصفر</string>
+	<key>🗞️</key>
+	<string>صحيفة مطوية</string>
+	<key>💜</key>
+	<string>قلب أرجواني</string>
+	<key>🇹🇰</key>
+	<string>علم توكيلاو</string>
+	<key>💝</key>
+	<string>قلب بشريط</string>
+	<key>🇵🇰</key>
+	<string>علم باكستان</string>
+	<key>💞</key>
+	<string>قلوب دوارة</string>
+	<key>🇩🇯</key>
+	<string>علم جيبوتي</string>
+	<key>💟</key>
+	<string>زخرفة على شكل قلب</string>
+	<key>🇱🇰</key>
+	<string>علم سريلانكا</string>
+	<key>🇹🇱</key>
+	<string>علم تيمور الشرقية</string>
+	<key>👩‍🤝‍👨</key>
+	<string>سيدة ورجل يدًا بيد</string>
+	<key>💠</key>
+	<string>شكل ماسة مع نقطة في الداخل</string>
+	<key>🇭🇰</key>
+	<string>علم هونغ كونغ</string>
+	<key>💡</key>
+	<string>لمبة إضاءة</string>
+	<key>🇵🇱</key>
+	<string>علم بولندا</string>
+	<key>🇩🇰</key>
+	<string>علم الدنمارك</string>
+	<key>💢</key>
+	<string>رمز غضب</string>
+	<key>🇹🇲</key>
+	<string>علم تركمانستان</string>
+	<key>💣</key>
+	<string>قنبلة</string>
+	<key>⚗️</key>
+	<string>جهاز تقطير</string>
+	<key>💤</key>
+	<string>علامة نوم</string>
+	<key>🇵🇲</key>
+	<string>علم سانت بيير وميكلون</string>
+	<key>💥</key>
+	<string>انفجار</string>
+	<key>❇️</key>
+	<string>شرارة متألقة</string>
+	<key>💦</key>
+	<string>قطرات ماء</string>
+	<key>🇹🇳</key>
+	<string>علم تونس</string>
+	<key>🧑‍🦼</key>
+	<string>شخص على كرسي متحرك آلي</string>
+	<key>💧</key>
+	<string>قطرة صغيرة</string>
+	<key>🇭🇲</key>
+	<string>علم جزر هيرد وماكدونالد</string>
+	<key>🇵🇳</key>
+	<string>علم بيتكيرن</string>
+	<key>💨</key>
+	<string>هبة ريح</string>
+	<key>🇩🇲</key>
+	<string>علم دومينيكا</string>
+	<key>💩</key>
+	<string>كومة من البراز</string>
+	<key>🙎‍♀️</key>
+	<string>سيدة عابسة</string>
+	<key>🇹🇴</key>
+	<string>علم تونغا</string>
+	<key>💪</key>
+	<string>استعراض عضلة الذراع</string>
+	<key>🇭🇳</key>
+	<string>علم هندوراس</string>
+	<key>👩‍👦</key>
+	<string>عائلة من أم وابن</string>
+	<key>💫</key>
+	<string>رمز الإصابة بالدوار</string>
+	<key>💇‍♂️</key>
+	<string>رجل يحلق شعره</string>
+	<key>💬</key>
+	<string>فقاعة كلام</string>
+	<key>☸️</key>
+	<string>عجلة دارما</string>
+	<key>💭</key>
+	<string>فقاعة أفكار</string>
+	<key>🧑‍🦽</key>
+	<string>شخص على كرسي متحرك يدوي</string>
+	<key>💮</key>
+	<string>زهرة بيضاء</string>
+	<key>💯</key>
+	<string>رمز المائة نقطة</string>
+	<key>🇩🇴</key>
+	<string>علم جمهورية الدومينيكان</string>
+	<key>💰</key>
+	<string>كيس نقود</string>
+	<key>💱</key>
+	<string>تحويل عملات</string>
+	<key>😵‍💫</key>
+	<string>وَجْهٌ بِعَيْنَيْنِ دَوَّارَتَيْن</string>
+	<key>👩‍👧</key>
+	<string>عائلة من أم وابنة</string>
+	<key>🧟‍♂️</key>
+	<string>زومبي رجل</string>
+	<key>💲</key>
+	<string>علامة الدولار</string>
+	<key>💳</key>
+	<string>بطاقة ائتمان</string>
+	<key>🇹🇷</key>
+	<string>علم تركيا</string>
+	<key>💴</key>
+	<string>عملات ين نقدية</string>
+	<key>💵</key>
+	<string>عملات دولار نقدية</string>
+	<key>🇵🇷</key>
+	<string>علم بورتوريكو</string>
+	<key>💶</key>
+	<string>أوراق يورو نقدية</string>
+	<key>🇱🇷</key>
+	<string>علم ليبريا</string>
+	<key>💷</key>
+	<string>عملات جنيه إسترليني نقدية</string>
+	<key>💸</key>
+	<string>نقود لها أجنحة</string>
+	<key>🇭🇷</key>
+	<string>علم كرواتيا</string>
+	<key>🇵🇸</key>
+	<string>علم فلسطين</string>
+	<key>💹</key>
+	<string>رسم بياني بمنحنى صاعد مع علامة الين</string>
+	<key>💺</key>
+	<string>مقعد</string>
+	<key>🇱🇸</key>
+	<string>علم ليسوتو</string>
+	<key>🇹🇹</key>
+	<string>علم ترينيداد وتوباغو</string>
+	<key>💻</key>
+	<string>كمبيوتر محمول</string>
+	<key>💼</key>
+	<string>حقيبة ملفات</string>
+	<key>👨‍🦼</key>
+	<string>رجل على كرسي متحرك آلي</string>
+	<key>🇵🇹</key>
+	<string>علم البرتغال</string>
+	<key>💽</key>
+	<string>قرص صغير</string>
+	<key>🇱🇹</key>
+	<string>علم ليتوانيا</string>
+	<key>💾</key>
+	<string>قرص مرن</string>
+	<key>🇭🇹</key>
+	<string>علم هايتي</string>
+	<key>💿</key>
+	<string>cd</string>
+	<key>📀</key>
+	<string>dvd</string>
+	<key>🤷‍♂️</key>
+	<string>رجل يهز كتفيه</string>
+	<key>📁</key>
+	<string>حافظة ملفات مغلقة</string>
+	<key>🇱🇺</key>
+	<string>علم لوكسمبورغ</string>
+	<key>☪️</key>
+	<string>نجمة وهلال</string>
+	<key>🇹🇻</key>
+	<string>علم توفالو</string>
+	<key>📂</key>
+	<string>مجلد ملفات مفتوح</string>
+	<key>4️⃣</key>
+	<string>مفتاح الرقم أربعة</string>
+	<key>🇭🇺</key>
+	<string>علم هنغاريا</string>
+	<key>👨‍🦽</key>
+	<string>رجل على كرسي متحرك يدوي</string>
+	<key>📃</key>
+	<string>صفحة ملفوفة</string>
+	<key>🖊️</key>
+	<string>قلم حبر جاف</string>
+	<key>📄</key>
+	<string>صفحة وجهها لأعلى</string>
+	<key>🇱🇻</key>
+	<string>علم لاتفيا</string>
+	<key>🇹🇼</key>
+	<string>علم تايوان</string>
+	<key>📅</key>
+	<string>تقويم</string>
+	<key>🤼‍♀️</key>
+	<string>سيدتان تتصارعان</string>
+	<key>📆</key>
+	<string>تقويم تنزع أوراقه</string>
+	<key>🇵🇼</key>
+	<string>علم بالاو</string>
+	<key>📇</key>
+	<string>فهرس بطاقات</string>
+	<key>📈</key>
+	<string>رسم بياني بمنحنى صاعد</string>
+	<key>🧑‍🔧</key>
+	<string>ميكانيكي</string>
+	<key>📉</key>
+	<string>رسم بياني بمنحنى هابط</string>
+	<key>〰️</key>
+	<string>شَرطة متموجة</string>
+	<key>📊</key>
+	<string>مخطط شريطي</string>
+	<key>📋</key>
+	<string>لوح كتابة ملاحظات</string>
+	<key>☣️</key>
+	<string>خطر بيولوجي</string>
+	<key>📌</key>
+	<string>دبوس</string>
+	<key>♻️</key>
+	<string>رمز إعادة التدوير</string>
+	<key>📍</key>
+	<string>دبوس برأس مستدير</string>
+	<key>🇵🇾</key>
+	<string>علم بارغواي</string>
+	<key>⛓️</key>
+	<string>سلاسل</string>
+	<key>📎</key>
+	<string>مشبك ورق</string>
+	<key>🧎‍♂️</key>
+	<string>رجل على ركبه</string>
+	<key>🇱🇾</key>
+	<string>علم ليبيا</string>
+	<key>📏</key>
+	<string>مسطرة مستقيمة</string>
+	<key>🇹🇿</key>
+	<string>علم تنزانيا</string>
+	<key>📐</key>
+	<string>مسطرة مثلثة</string>
+	<key>📑</key>
+	<string>علامات مرجعية</string>
+	<key>📒</key>
+	<string>دفتر حسابات</string>
+	<key>📓</key>
+	<string>دفتر تأليف</string>
+	<key>👩‍🤝‍👩</key>
+	<string>سيدات يدًا بيد</string>
+	<key>📔</key>
+	<string>دفتر بغلاف مزخرف</string>
+	<key>🇩🇿</key>
+	<string>علم الجزائر</string>
+	<key>📕</key>
+	<string>كتاب أحمر</string>
+	<key>📖</key>
+	<string>كتاب مفتوح</string>
+	<key>📗</key>
+	<string>كتاب أخضر</string>
+	<key>🖌️</key>
+	<string>فرشاة رسم</string>
+	<key>📘</key>
+	<string>كتاب أزرق</string>
+	<key>📙</key>
+	<string>كتاب برتقالي</string>
+	<key>👩‍👩‍👦</key>
+	<string>عائلة من أُمَّين وابن</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>عائلة من أبوين وابنتين</string>
+	<key>📚</key>
+	<string>كتب</string>
+	<key>📛</key>
+	<string>شارة الاسم</string>
+	<key>📜</key>
+	<string>لفيفة</string>
+	<key>📝</key>
+	<string>مذكرة</string>
+	<key>↖️</key>
+	<string>سهم لأعلى اليسار</string>
+	<key>🤦‍♂️</key>
+	<string>رجل يغطي وجهه بيده</string>
+	<key>📞</key>
+	<string>سماعة هاتف</string>
+	<key>👩‍🎓</key>
+	<string>طالبة</string>
+	<key>👩‍🚒</key>
+	<string>عاملة إطفاء</string>
+	<key>⤴️</key>
+	<string>سهم أيمن منحني لأعلى</string>
+	<key>👨‍🔧</key>
+	<string>ميكانيكي</string>
+	<key>📟</key>
+	<string>جهاز نداء</string>
+	<key>☕️</key>
+	<string>شراب ساخن</string>
+	<key>📠</key>
+	<string>فاكس</string>
+	<key>📡</key>
+	<string>هوائي قمر صناعي</string>
+	<key>⛅️</key>
+	<string>شمس وراء غيمة</string>
+	<key>📢</key>
+	<string>مكبرات صوت لمخاطبة الجماهير</string>
+	<key>🧑‍🌾</key>
+	<string>مزارع</string>
+	<key>✝️</key>
+	<string>صليب لاتيني</string>
+	<key>📣</key>
+	<string>مضخم صوت</string>
+	<key>📤</key>
+	<string>علبة بريد صادر</string>
+	<key>📥</key>
+	<string>علبة بريد وارد</string>
+	<key>📦</key>
+	<string>طرد</string>
+	<key>📧</key>
+	<string>بريد إلكتروني</string>
+	<key>📨</key>
+	<string>ظرف وارد</string>
+	<key>📩</key>
+	<string>ظرف مع سهم</string>
+	<key>▶️</key>
+	<string>مثلث يشير لليمين</string>
+	<key>🧑‍🔬</key>
+	<string>عالِم</string>
+	<key>📪</key>
+	<string>صندوق بريد مغلق مع علم منخفض</string>
+	<key>☎️</key>
+	<string>هاتف</string>
+	<key>🈷️</key>
+	<string>رمز ياباني معناه "مبلغ شهري"</string>
+	<key>♦️</key>
+	<string>مجموعة الديناري</string>
+	<key>📫</key>
+	<string>صندوق بريد مغلق مع علم مرفوع</string>
+	<key>📬</key>
+	<string>صندوق بريد مفتوح مع علم مرفوع</string>
+	<key>⚾️</key>
+	<string>بيسبول</string>
+	<key>📭</key>
+	<string>صندوق بريد مفتوح مع علم منخفض</string>
+	<key>✖️</key>
+	<string>علامة الضرب</string>
+	<key>📮</key>
+	<string>صندوق بريد</string>
+	<key>📯</key>
+	<string>بوق بريد</string>
+	<key>🏄‍♀️</key>
+	<string>راكبة أمواج</string>
+	<key>📰</key>
+	<string>صحيفة</string>
+	<key>📱</key>
+	<string>الهاتف الجوال</string>
+	<key>🎗️</key>
+	<string>شريط ذكرى</string>
+	<key>📲</key>
+	<string>هاتف مع سهم</string>
+	<key>📳</key>
+	<string>وضع الاهتزاز</string>
+	<key>📴</key>
+	<string>غلق الهاتف الجوال</string>
+	<key>📵</key>
+	<string>ممنوع الهواتف الجوالة</string>
+	<key>♟️</key>
+	<string>بيدق شطرنج</string>
+	<key>📶</key>
+	<string>أشرطة إشارة خلوية</string>
+	<key>📷</key>
+	<string>كاميرا</string>
+	<key>✏️</key>
+	<string>قلم</string>
+	<key>📸</key>
+	<string>كاميرا مع فلاش</string>
+	<key>👨‍🌾</key>
+	<string>مزارع</string>
+	<key>📹</key>
+	<string>كاميرا فيديو</string>
+	<key>📺</key>
+	<string>تليفزيون</string>
+	<key>🐻‍❄️</key>
+	<string>دب قطبي</string>
+	<key>📻</key>
+	<string>راديو</string>
+	<key>📼</key>
+	<string>كاسيت فيديو</string>
+	<key>☀️</key>
+	<string>شمس</string>
+	<key>📿</key>
+	<string>مسبحة صلاة</string>
+	<key>👨‍🔬</key>
+	<string>عالم</string>
+	<key>🔀</key>
+	<string>رمز تشغيل مقاطع عشوائيًا</string>
+	<key>🈁</key>
+	<string>رمز ياباني معناه "هنا"</string>
+	<key>⚰️</key>
+	<string>تابوت</string>
+	<key>🔁</key>
+	<string>رمز تكرار</string>
+	<key>🖐️</key>
+	<string>يد مرفوعة مع مسافات فاصلة بين الأصابع</string>
+	<key>✈️</key>
+	<string>طائرة</string>
+	<key>🔂</key>
+	<string>رمز تكرار مسار واحد</string>
+	<key>🗨️</key>
+	<string>فقاعة كلام على اليسار</string>
+	<key>🔃</key>
+	<string>أسهم رأسية باتجاه عقارب الساعة</string>
+	<key>🧖‍♀️</key>
+	<string>سيدة في ساونا</string>
+	<key>🔄</key>
+	<string>أسهم بعكس اتجاه عقارب الساعة</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>عائلة من أمَّين وابنين</string>
+	<key>👩‍⚕️</key>
+	<string>عاملة في مجال الصحة</string>
+	<key>™️</key>
+	<string>رمز علامة تجارية</string>
+	<key>🔅</key>
+	<string>رمز الإضاءة المنخفضة</string>
+	<key>🔆</key>
+	<string>رمز الإضاءة العالية</string>
+	<key>🎙️</key>
+	<string>ميكروفون استوديو</string>
+	<key>🔇</key>
+	<string>سماعة خارجية مكتومة</string>
+	<key>🔈</key>
+	<string>مكبر صوت</string>
+	<key>🛰️</key>
+	<string>قمر صناعي</string>
+	<key>🔉</key>
+	<string>سماعة مع صوت متوسط</string>
+	<key>♑️</key>
+	<string>علامة برج الجدي</string>
+	<key>🔊</key>
+	<string>سماعة مع صوت عالي</string>
+	<key>🔋</key>
+	<string>بطارية</string>
+	<key>🔌</key>
+	<string>قابس كهرباء</string>
+	<key>👩‍👩‍👧</key>
+	<string>عائلة من أُمّين وابنة</string>
+	<key>🔍</key>
+	<string>عدسة مكبرة تشير إلى اليسار</string>
+	<key>🔎</key>
+	<string>عدسة مكبرة تشير إلى اليمين</string>
+	<key>🔏</key>
+	<string>قفل مع رأس قلم حبر</string>
+	<key>🔐</key>
+	<string>قفل مغلق معه مفتاح</string>
+	<key>🔑</key>
+	<string>مفتاح</string>
+	<key>🔒</key>
+	<string>قفل مغلق</string>
+	<key>🔓</key>
+	<string>قفل مفتوح</string>
+	<key>♊️</key>
+	<string>علامة برج الجوزاء</string>
+	<key>🔔</key>
+	<string>جرس</string>
+	<key>🔕</key>
+	<string>جرس مكتوم</string>
+	<key>⛺️</key>
+	<string>خيمة</string>
+	<key>🔖</key>
+	<string>إشارة مرجعية</string>
+	<key>🔗</key>
+	<string>رمز ربط</string>
+	<key>🔘</key>
+	<string>زر اختيار</string>
+	<key>🔙</key>
+	<string>سهم للخلف</string>
+	<key>🔚</key>
+	<string>سهم النهاية</string>
+	<key>🔛</key>
+	<string>سهم باتجاهين مع كلمة !ON</string>
+	<key>🎛️</key>
+	<string>مقابض التحكم</string>
+	<key>🔜</key>
+	<string>سهم مع كلمة SOON</string>
+	<key>🏳️</key>
+	<string>علم أبيض</string>
+	<key>🔝</key>
+	<string>سهم لأعلى</string>
+	<key>🔞</key>
+	<string>ممنوع الدخول لمن دون الثامنة عشرة</string>
+	<key>🔟</key>
+	<string>مفتاح الرقم عشرة</string>
+	<key>⚛️</key>
+	<string>رمز الذرّة</string>
+	<key>🔠</key>
+	<string>رمز إدخال للحروف اللاتينية الكبيرة</string>
+	<key>⛳️</key>
+	<string>حفرة غولف مع علم</string>
+	<key>🔡</key>
+	<string>رمز إدخال للحروف اللاتينية الصغيرة</string>
+	<key>🤽‍♂️</key>
+	<string>رجل يلعب كرة ماء</string>
+	<key>🔢</key>
+	<string>رمز إدخال للأرقام</string>
+	<key>🔣</key>
+	<string>رمز إدخال للرموز</string>
+	<key>🔤</key>
+	<string>رمز إدخال للحروف</string>
+	<key>🔥</key>
+	<string>نار</string>
+	<key>🔦</key>
+	<string>مصباح يدوي</string>
+	<key>🔧</key>
+	<string>مفتاح ربط</string>
+	<key>🔨</key>
+	<string>مطرقة</string>
+	<key>🔩</key>
+	<string>مسمار وصامولة</string>
+	<key>⚔️</key>
+	<string>سيفان متقاطعان</string>
+	<key>🔪</key>
+	<string>سكين</string>
+	<key>🔫</key>
+	<string>مسدس ماء</string>
+	<key>❄️</key>
+	<string>ندفة ثلج</string>
+	<key>🔬</key>
+	<string>ميكروسكوب</string>
+	<key>💁‍♀️</key>
+	<string>موظفة مكتب استعلامات</string>
+	<key>🔭</key>
+	<string>منظار</string>
+	<key>🔮</key>
+	<string>كرة بلورية</string>
+	<key>🧔‍♂️</key>
+	<string>رجل ملتحٍ</string>
+	<key>🔯</key>
+	<string>نجمة سداسية مع نقطة في المنتصف</string>
+	<key>🔰</key>
+	<string>رمز ياباني للمبتدئين</string>
+	<key>🔱</key>
+	<string>شعار رمح ثلاثي</string>
+	<key>🈲</key>
+	<string>رمز ياباني معناه "ممنوع"</string>
+	<key>🏵️</key>
+	<string>وردة</string>
+	<key>🔲</key>
+	<string>زر مربع أسود</string>
+	<key>🈳</key>
+	<string>رمز ياباني معناه "فرصة عمل"</string>
+	<key>🔳</key>
+	<string>زر مربع أبيض</string>
+	<key>🈴</key>
+	<string>رمز ياباني معناه "ناجح (درجة)"</string>
+	<key>🧙‍♀️</key>
+	<string>ساحرة</string>
+	<key>🔴</key>
+	<string>دائرة حمراء</string>
+	<key>🈵</key>
+	<string>رمز ياباني معناه "ممتلئ، لا يوجد مكان شاغر"</string>
+	<key>🔵</key>
+	<string>دائرة زرقاء</string>
+	<key>🈶</key>
+	<string>رمز ياباني معناه "غير مجاني"</string>
+	<key>🔶</key>
+	<string>ماسة برتقالية كبيرة</string>
+	<key>🔷</key>
+	<string>ماسة زرقاء كبيرة</string>
+	<key>🈸</key>
+	<string>رمز ياباني معناه "تطبيق"</string>
+	<key>🔸</key>
+	<string>ماسة برتقالية صغيرة</string>
+	<key>🈹</key>
+	<string>رمز ياباني معناه "خصم"</string>
+	<key>🔹</key>
+	<string>ماسة زرقاء صغيرة</string>
+	<key>9️⃣</key>
+	<string>مفتاح الرقم تسعة</string>
+	<key>🈺</key>
+	<string>رمز ياباني معناه "مفتوح للعمل"</string>
+	<key>🔺</key>
+	<string>مثلث أحمر متجه لأعلى</string>
+	<key>🔻</key>
+	<string>مثلث أحمر متجه لأسفل</string>
+	<key>🀄️</key>
+	<string>أحجار لعبة ماه جانج التنين الأحمر</string>
+	<key>🔼</key>
+	<string>مثلث يشير لأعلى</string>
+	<key>🚵‍♀️</key>
+	<string>راكبة دراجة جبلية</string>
+	<key>☮️</key>
+	<string>رمز السلام</string>
+	<key>🔽</key>
+	<string>مثلث متجه للأسفل</string>
+	<key>👨‍👦‍👦</key>
+	<string>عائلة من أب وابنين</string>
+	<key>⬅️</key>
+	<string>سهم لليسار</string>
+	<key>⛎</key>
+	<string>علامة برج حواء</string>
+	<key>🎟️</key>
+	<string>تذكرة دخول</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>عائلة من أُمّين وابنتين</string>
+	<key>🏷️</key>
+	<string>بطاقة منتج</string>
+	<key>2️⃣</key>
+	<string>مفتاح الرقم اثنان</string>
+	<key>♿️</key>
+	<string>رمز الكرسي المتحرك</string>
+	<key>👰‍♀️</key>
+	<string>امرأة عليها طرحة</string>
+	<key>🗃️</key>
+	<string>صندوق ملفات بطاقات</string>
+	<key>🕋</key>
+	<string>الكعبة</string>
+	<key>🕌</key>
+	<string>مسجد</string>
+	<key>🕍</key>
+	<string>معبد يهودي</string>
+	<key>🕎</key>
+	<string>مينوراه</string>
+	<key>👩‍🎤</key>
+	<string>مطربة</string>
+	<key>🉐</key>
+	<string>رمز ياباني معناه "صفقة"</string>
+	<key>🏌️</key>
+	<string>لاعب غولف</string>
+	<key>🛋️</key>
+	<string>أريكة ومصباح</string>
+	<key>🕐</key>
+	<string>الساعة الواحدة</string>
+	<key>🏊‍♀️</key>
+	<string>سبّاحة</string>
+	<key>🉑</key>
+	<string>رمز ياباني معناه "مقبول"</string>
+	<key>☠️</key>
+	<string>جمجمة وعظمتان متقاطعتان</string>
+	<key>🕑</key>
+	<string>الساعة الثانية</string>
+	<key>🕒</key>
+	<string>الساعة الثالثة</string>
+	<key>🏋️‍♀️</key>
+	<string>رافعة أثقال</string>
+	<key>🕓</key>
+	<string>الساعة الرابعة</string>
+	<key>🕔</key>
+	<string>الساعة الخامسة</string>
+	<key>🕕</key>
+	<string>الساعة السادسة</string>
+	<key>🕖</key>
+	<string>الساعة السابعة</string>
+	<key>🙆‍♀️</key>
+	<string>سيدة تشير بالموافقة</string>
+	<key>🕗</key>
+	<string>الساعة الثامنة</string>
+	<key>🕘</key>
+	<string>الساعة التاسعة</string>
+	<key>🕙</key>
+	<string>الساعة العاشرة</string>
+	<key>🕚</key>
+	<string>الساعة الحادية عشرة</string>
+	<key>🕛</key>
+	<string>الساعة الثانية عشرة</string>
+	<key>🕜</key>
+	<string>الواحدة والنصف</string>
+	<key>🇺🇦</key>
+	<string>علم أوكرانيا</string>
+	<key>🕝</key>
+	<string>الثانية والنصف</string>
+	<key>🇶🇦</key>
+	<string>علم قطر</string>
+	<key>🕞</key>
+	<string>الثالثة والنصف</string>
+	<key>✡️</key>
+	<string>نجمة داوود</string>
+	<key>🇲🇦</key>
+	<string>علم المغرب</string>
+	<key>🕟</key>
+	<string>الرابعة والنصف</string>
+	<key>🧗‍♂️</key>
+	<string>رجل متسلق صخور</string>
+	<key>🕠</key>
+	<string>الخامسة والنصف</string>
+	<key>🕡</key>
+	<string>السادسة والنصف</string>
+	<key>🇪🇦</key>
+	<string>علم سبتة ومليلية</string>
+	<key>🕢</key>
+	<string>السابعة والنصف</string>
+	<key>✅</key>
+	<string>رمز علامة تدقيق</string>
+	<key>🕣</key>
+	<string>الثامنة والنصف</string>
+	<key>🧜‍♀️</key>
+	<string>حورية بحر</string>
+	<key>🏎️</key>
+	<string>سيارة سباق</string>
+	<key>🕤</key>
+	<string>التاسعة والنصف</string>
+	<key>🛍️</key>
+	<string>حقائب تسوق</string>
+	<key>🕥</key>
+	<string>العاشرة والنصف</string>
+	<key>✊</key>
+	<string>قبضة يد مرفوعة</string>
+	<key>🇲🇨</key>
+	<string>علم موناكو</string>
+	<key>✋</key>
+	<string>يد مرفوعة</string>
+	<key>🕦</key>
+	<string>الحادية عشرة والنصف</string>
+	<key>🕧</key>
+	<string>الثانية عشرة والنصف</string>
+	<key>🇮🇨</key>
+	<string>علم جزر الكناري</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>علم ويلز</string>
+	<key>🇾🇪</key>
+	<string>علم اليمن</string>
+	<key>🇪🇨</key>
+	<string>علم الإكوادور</string>
+	<key>👩‍🎨</key>
+	<string>فنانة</string>
+	<key>🇲🇩</key>
+	<string>علم مولدوفا</string>
+	<key>🇦🇨</key>
+	<string>علم جزيرة أسينشين</string>
+	<key>🇮🇩</key>
+	<string>علم إندونيسيا</string>
+	<key>🇲🇪</key>
+	<string>علم الجبل الأسود</string>
+	<key>🇦🇩</key>
+	<string>علم أندورا</string>
+	<key>🇮🇪</key>
+	<string>علم أيرلندا</string>
+	<key>🇪🇪</key>
+	<string>علم إستونيا</string>
+	<key>🇲🇫</key>
+	<string>علم سانت مارتن</string>
+	<key>🇺🇬</key>
+	<string>علم أوغندا</string>
+	<key>♣️</key>
+	<string>مجموعة الكلفس</string>
+	<key>🇦🇪</key>
+	<string>علم الإمارات العربية المتحدة</string>
+	<key>🕯️</key>
+	<string>شمعة</string>
+	<key>🇲🇬</key>
+	<string>علم مدغشقر</string>
+	<key>🇦🇫</key>
+	<string>علم أفغانستان</string>
+	<key>👮‍♂️</key>
+	<string>شرطي</string>
+	<key>🇪🇬</key>
+	<string>علم مصر</string>
+	<key>🇲🇭</key>
+	<string>علم جزر مارشال</string>
+	<key>✨</key>
+	<string>أضواء متألقة</string>
+	<key>🇦🇬</key>
+	<string>علم أنتيغوا وبربودا</string>
+	<key>🛏️</key>
+	<string>سرير</string>
+	<key>👳‍♀️</key>
+	<string>سيدة ترتدي عمامة</string>
+	<key>🇪🇭</key>
+	<string>علم الصحراء الغربية</string>
+	<key>☄️</key>
+	<string>مُذَنَّب</string>
+	<key>🕺</key>
+	<string>رجل يرقص</string>
+	<key>✌️</key>
+	<string>علامة يد تشير بالسلام</string>
+	<key>❤️</key>
+	<string>قلب أحمر</string>
+	<key>⏭️</key>
+	<string>رمز تخطي للأمام</string>
+	<key>🇦🇮</key>
+	<string>علم أنغويلا</string>
+	<key>🇲🇰</key>
+	<string>علم مقدونيا الشمالية</string>
+	<key>◽️</key>
+	<string>مربع أبيض متوسط صغير</string>
+	<key>🇲🇱</key>
+	<string>علم مالي</string>
+	<key>🈚️</key>
+	<string>رمز ياباني معناه "مجانًا"</string>
+	<key>🇺🇲</key>
+	<string>علم جزر الولايات المتحدة الصغيرة النائية</string>
+	<key>🇮🇱</key>
+	<string>علم إسرائيل</string>
+	<key>🇲🇲</key>
+	<string>علم ميانمار (بورما)</string>
+	<key>💂‍♂️</key>
+	<string>حارس</string>
+	<key>🇺🇳</key>
+	<string>علم الأمم المتحدة</string>
+	<key>🇦🇱</key>
+	<string>علم ألبانيا</string>
+	<key>🧑‍💻</key>
+	<string>خبير تقني</string>
+	<key>🇮🇲</key>
+	<string>علم جزيرة مان</string>
+	<key>⛹️‍♂️</key>
+	<string>لاعب كرة سلة</string>
+	<key>🇲🇳</key>
+	<string>علم منغوليا</string>
+	<key>🇦🇲</key>
+	<string>علم أرمينيا</string>
+	<key>🇮🇳</key>
+	<string>علم الهند</string>
+	<key>❌</key>
+	<string>علامة تقاطع</string>
+	<key>💇‍♀️</key>
+	<string>سيدة تقص شعرها</string>
+	<key>❎</key>
+	<string>علامة X</string>
+	<key>🇲🇴</key>
+	<string>علم ماكاو</string>
+	<key>♎️</key>
+	<string>علامة برج الميزان</string>
+	<key>🧚‍♂️</key>
+	<string>كائن خرافي</string>
+	<key>🧑‍💼</key>
+	<string>موظف مكتب</string>
+	<key>🇮🇴</key>
+	<string>علم مقاطعة المحيط الهندي البريطانية</string>
+	<key>❓</key>
+	<string>علامة استفهام حمراء</string>
+	<key>❔</key>
+	<string>علامة استفهام بيضاء</string>
+	<key>🇲🇵</key>
+	<string>علم جزر ماريانا الشمالية</string>
+	<key>❕</key>
+	<string>علامة تعجب بيضاء</string>
+	<key>🇦🇴</key>
+	<string>علم أنغولا</string>
+	<key>🧟‍♀️</key>
+	<string>زومبي امرأة</string>
+	<key>🖕</key>
+	<string>إصبع الوسطى</string>
+	<key>🇲🇶</key>
+	<string>علم مارتينيك</string>
+	<key>🖖</key>
+	<string>يد مع مسافة فاصلة بين إصبعي الوسطى والبنصر.</string>
+	<key>🇮🇶</key>
+	<string>علم العراق</string>
+	<key>🚶‍♂️</key>
+	<string>رجل يمشي</string>
+	<key>🇲🇷</key>
+	<string>علم موريتانيا</string>
+	<key>🇺🇸</key>
+	<string>علم الولايات المتحدة</string>
+	<key>🇦🇶</key>
+	<string>علم أنتاركتيكا</string>
+	<key>🇮🇷</key>
+	<string>علم إيران</string>
+	<key>🕳️</key>
+	<string>حفرة</string>
+	<key>⌨️</key>
+	<string>لوحة مفاتيح</string>
+	<key>🇾🇹</key>
+	<string>علم مايوت</string>
+	<key>🇪🇷</key>
+	<string>علم إريتريا</string>
+	<key>⛷️</key>
+	<string>متزلج على الجليد</string>
+	<key>🇲🇸</key>
+	<string>علم مونتسيرات</string>
+	<key>🇦🇷</key>
+	<string>علم الأرجنتين</string>
+	<key>🇮🇸</key>
+	<string>علم آيسلندا</string>
+	<key>👨‍💻</key>
+	<string>خبير تقني</string>
+	<key>🌤️</key>
+	<string>شمس وراء غيمة صغيرة</string>
+	<key>🇪🇸</key>
+	<string>علم إسبانيا</string>
+	<key>🇲🇹</key>
+	<string>علم مالطة</string>
+	<key>🇦🇸</key>
+	<string>علم ساموا الأمريكية</string>
+	<key>🇮🇹</key>
+	<string>علم إيطاليا</string>
+	<key>❤️‍🩹</key>
+	<string>قلب مجبّر</string>
+	<key>🏔️</key>
+	<string>جبل قمته مغطاة بالثلج</string>
+	<key>🇪🇹</key>
+	<string>علم إثيوبيا</string>
+	<key>🤷‍♀️</key>
+	<string>سيدة تهز كتفيها</string>
+	<key>🇲🇺</key>
+	<string>علم موريشيوس</string>
+	<key>🇦🇹</key>
+	<string>علم النمسا</string>
+	<key>🖤</key>
+	<string>قلب أسود</string>
+	<key>👩‍🦯</key>
+	<string>امرأة مع عصا بيضاء</string>
+	<key>👱‍♂️</key>
+	<string>رجل بشعر أشقر</string>
+	<key>👨‍💼</key>
+	<string>موظف مكتب</string>
+	<key>⛰️</key>
+	<string>جبل</string>
+	<key>🇪🇺</key>
+	<string>علم الاتحاد الأوروبي</string>
+	<key>🇲🇻</key>
+	<string>علم جزر المالديف</string>
+	<key>🇦🇺</key>
+	<string>علم أستراليا</string>
+	<key>🇲🇼</key>
+	<string>علم مالاوي</string>
+	<key>👩‍🦰</key>
+	<string>سيدة بشعر أحمر</string>
+	<key>🇲🇽</key>
+	<string>علم المكسيك</string>
+	<key>🇺🇾</key>
+	<string>علم أورغواي</string>
+	<key>🇦🇼</key>
+	<string>علم أروبا</string>
+	<key>☹️</key>
+	<string>وجه عبوس</string>
+	<key>⌚️</key>
+	<string>ساعة</string>
+	<key>🕵️</key>
+	<string>محقق</string>
+	<key>⛩️</key>
+	<string>مزار جينجا</string>
+	<key>🇲🇾</key>
+	<string>علم ماليزيا</string>
+	<key>🧎‍♀️</key>
+	<string>امرأة على ركبها</string>
+	<key>🇺🇿</key>
+	<string>علم أوزبكستان</string>
+	<key>🇦🇽</key>
+	<string>علم جزر آلاند</string>
+	<key>👩‍🦱</key>
+	<string>سيدة بشعر مجعد</string>
+	<key>🙇‍♂️</key>
+	<string>رجل ينحني</string>
+	<key>🌦️</key>
+	<string>شمس وراء غيمة ممطرة</string>
+	<key>🇲🇿</key>
+	<string>علم موزمبيق</string>
+	<key>🏖️</key>
+	<string>شاطئ وشمسية</string>
+	<key>👩‍🦲</key>
+	<string>سيدة بلا شعر</string>
+	<key>🇦🇿</key>
+	<string>علم أذربيجان</string>
+	<key>➕</key>
+	<string>علامة الزائد</string>
+	<key>🕊️</key>
+	<string>حمامة</string>
+	<key>➖</key>
+	<string>علامة الناقص</string>
+	<key>➗</key>
+	<string>علامة القسمة</string>
+	<key>🗺️</key>
+	<string>خريطة العالم</string>
+	<key>👩‍🦳</key>
+	<string>سيدة ذات شعر أبيض</string>
+	<key>7️⃣</key>
+	<string>مفتاح الرقم سبعة</string>
+	<key>🅰️</key>
+	<string>فصيلة الدم A</string>
+	<key>🤦‍♀️</key>
+	<string>سيدة تغطي وجهها بيدها</string>
+	<key>🧝‍♂️</key>
+	<string>رجل قزم</string>
+	<key>🕷️</key>
+	<string>عنكبوت</string>
+	<key>✳️</key>
+	<string>علامة نجمية ثُمانية</string>
+	<key>🌨️</key>
+	<string>سحابة مع ثلج</string>
+	<key>🦸‍♂️</key>
+	<string>رجل بطل خارق</string>
+	<key>➰</key>
+	<string>حلقة متعرجة</string>
+	<key>🏘️</key>
+	<string>مجموعة منازل</string>
+	<key>0️⃣</key>
+	<string>مفتاح الرقم صفر</string>
+	<key>🤵‍♂️</key>
+	<string>رجل ببدلة سهرة</string>
+	<key>⛔️</key>
+	<string>ممنوع الدخول</string>
+	<key>👨‍👧‍👦</key>
+	<string>عائلة من أب، ابن وابنة</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>عائلة من أم وأب وابنين</string>
+	<key>🧑‍🏫</key>
+	<string>معلم</string>
+	<key>➿</key>
+	<string>حلقة متعرجة مزدوجة</string>
+	<key>㊙️</key>
+	<string>رمز ياباني معناه "سري"</string>
+	<key>☝️</key>
+	<string>إصبع سبابة تشير لأعلى</string>
+	<key>🕹️</key>
+	<string>ذراع تحكم</string>
+	<key>🗑️</key>
+	<string>سلة نفايات</string>
+	<key>🌪️</key>
+	<string>إعصار</string>
+	<key>🧑‍🏭</key>
+	<string>عامل مصنع</string>
+	<key>↗️</key>
+	<string>سهم يشير لأعلى اليمين</string>
+	<key>⤵️</key>
+	<string>سهم أيمن منحني لأسفل</string>
+	<key>🏚️</key>
+	<string>منزل مهجور</string>
+	<key>©️</key>
+	<string>علامة حقوق الملكية</string>
+	<key>👨‍🏫</key>
+	<string>معلم</string>
+	<key>🗓️</key>
+	<string>تقويم تطوى أوراقه</string>
+	<key>⏸️</key>
+	<string>رمز إيقاف مؤقت</string>
+	<key>🧑‍✈️</key>
+	<string>طيار</string>
+	<key>🌬️</key>
+	<string>وجه ينفخ رياحًا</string>
+	<key>👨‍🏭</key>
+	<string>عامل مصنع</string>
+	<key>🏜️</key>
+	<string>صحراء</string>
+	<key>♠️</key>
+	<string>مجموعة البستوني</string>
+	<key>🖨️</key>
+	<string>طابعة</string>
+	<key>⏱️</key>
+	<string>ساعة إيقاف</string>
+	<key>👩‍🦼</key>
+	<string>امرأة على كرسي متحرك آلي</string>
+	<key>🗻</key>
+	<string>جبل فوجي</string>
+	<key>🫱‍🫲</key>
+	<string>مصافحة بالأيدي</string>
+	<key>🗼</key>
+	<string>علامة برج طوكيو</string>
+	<key>🗽</key>
+	<string>تمثال الحرية</string>
+	<key>🗾</key>
+	<string>صورة ظلية لليابان</string>
+	<key>🤸‍♂️</key>
+	<string>رجل يتشقلب شقلبة العجلة</string>
+	<key>🌀</key>
+	<string>إعصار حلزوني</string>
+	<key>🗿</key>
+	<string>تمثال جزيرة القيامة</string>
+	<key>☁️</key>
+	<string>سحابة</string>
+	<key>🌁</key>
+	<string>جسر تحت الضباب</string>
+	<key>😀</key>
+	<string>وجه بابتسامة عريضة</string>
+	<key>👩‍🦽</key>
+	<string>امرأة على كرسي متحرك يدوي</string>
+	<key>🌂</key>
+	<string>مظلة مغلقة</string>
+	<key>😁</key>
+	<string>وجه لامع بعينين مبتسمتين</string>
+	<key>⚱️</key>
+	<string>جرة الجنازة</string>
+	<key>🌃</key>
+	<string>ليل ونجوم</string>
+	<key>😂</key>
+	<string>وجه عليه دموع الفرح</string>
+	<key>✉️</key>
+	<string>ظرف</string>
+	<key>👨‍👧‍👧</key>
+	<string>عائلة من أب وابنتين</string>
+	<key>🤽‍♀️</key>
+	<string>سيدة تلعب كرة ماء</string>
+	<key>🌄</key>
+	<string>الشروق فوق الجبال</string>
+	<key>😃</key>
+	<string>وجه بابتسامة عريضة وعينين كبيرتين</string>
+	<key>🌅</key>
+	<string>الشروق</string>
+	<key>😄</key>
+	<string>وجه بابتسامة عريضة وعينين مبتسمتين</string>
+	<key>👷‍♂️</key>
+	<string>عامل بناء</string>
+	<key>👨‍✈️</key>
+	<string>طيار</string>
+	<key>🌆</key>
+	<string>منظر مدينة وقت الغسق</string>
+	<key>😅</key>
+	<string>وجه بابتسامة عريضة عليه قطرة عرق</string>
+	<key>🌇</key>
+	<string>غروب فوق المباني</string>
+	<key>😆</key>
+	<string>وجه بابتسامة عريضة وعينين نصف مغلقتين</string>
+	<key>🌈</key>
+	<string>قوس قزح</string>
+	<key>😇</key>
+	<string>وجه مبتسم عليه هالة</string>
+	<key>🌉</key>
+	<string>جسر في الليل</string>
+	<key>😈</key>
+	<string>وجه مبتسم بقرنين</string>
+	<key>🏞️</key>
+	<string>متنزه قومي</string>
+	<key>🌊</key>
+	<string>موجة</string>
+	<key>😉</key>
+	<string>وجه يغمز</string>
+	<key>🌋</key>
+	<string>بركان</string>
+	<key>😊</key>
+	<string>وجه مبتسم بعينين مبتسمتين</string>
+	<key>♒️</key>
+	<string>علامة برج الدلو</string>
+	<key>🌌</key>
+	<string>درب التبانة</string>
+	<key>😋</key>
+	<string>وجه مبتسم يلعق شفتاه</string>
+	<key>⚪️</key>
+	<string>دائرة بيضاء</string>
+	<key>🌍</key>
+	<string>كرة أرضية تظهر أوروبا وإفريقيا</string>
+	<key>😌</key>
+	<string>وجه مرتاح</string>
+	<key>🧏‍♂️</key>
+	<string>رجل أصم</string>
+	<key>✂️</key>
+	<string>مقص</string>
+	<key>🌎</key>
+	<string>كرة أرضية تظهر الأمريكتين</string>
+	<key>🤌</key>
+	<string>أصابع مضمومة إلى بعضها</string>
+	<key>😍</key>
+	<string>وجه مبتسم بعينين على شكل قلب</string>
+	<key>🌏</key>
+	<string>كرة أرضية تظهر آسيا وأستراليا</string>
+	<key>🤍</key>
+	<string>قلب أبيض</string>
+	<key>😎</key>
+	<string>وجه مبتسم يرتدي نظارة شمسية</string>
+	<key>🌐</key>
+	<string>كرة أرضية تظهر خطوط الطول</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>عائلة من أم وأب وابنتين</string>
+	<key>🤎</key>
+	<string>قلب بني</string>
+	<key>😏</key>
+	<string>وجه بابتسامة مصطنعة</string>
+	<key>🌑</key>
+	<string>قمر جديد</string>
+	<key>🤏</key>
+	<string>يد تقرص</string>
+	<key>😐</key>
+	<string>وجه محايد</string>
+	<key>🧔‍♀️</key>
+	<string>امرأة ملتحية</string>
+	<key>🌒</key>
+	<string>هلال أول الشهر</string>
+	<key>🤐</key>
+	<string>وجه بفم بسحاب</string>
+	<key>😑</key>
+	<string>وجه بدون تعبيرات</string>
+	<key>🙍‍♂️</key>
+	<string>رجل عبوس</string>
+	<key>🌓</key>
+	<string>قمر في الربع الأول</string>
+	<key>🤑</key>
+	<string>وجه فمه ورقة مالية</string>
+	<key>😒</key>
+	<string>وجه غير مستمتع</string>
+	<key>🌔</key>
+	<string>قمر أحدب متزايد</string>
+	<key>🤒</key>
+	<string>وجه مع مقياس درجة حرارة</string>
+	<key>😓</key>
+	<string>وجه مغمور بالعرق</string>
+	<key>🌕</key>
+	<string>بدر</string>
+	<key>🤓</key>
+	<string>وجه مبتسم يرتدي نظارة</string>
+	<key>😔</key>
+	<string>وجه متأمل حزين</string>
+	<key>♋️</key>
+	<string>علامة برج السرطان</string>
+	<key>🌖</key>
+	<string>قمر أحدب متناقص</string>
+	<key>🤔</key>
+	<string>وجه يفكر</string>
+	<key>😕</key>
+	<string>وجه محتار</string>
+	<key>🌗</key>
+	<string>الربع الأخير من القمر</string>
+	<key>🤕</key>
+	<string>وجه مع ضمادة على الرأس</string>
+	<key>😖</key>
+	<string>وجه مرتبك</string>
+	<key>🌘</key>
+	<string>هلال آخر الشهر</string>
+	<key>🤖</key>
+	<string>وجه روبوت</string>
+	<key>😗</key>
+	<string>وجه يقبّل</string>
+	<key>🌙</key>
+	<string>قمر على شكل هلال</string>
+	<key>🤗</key>
+	<string>وجه يعانق</string>
+	<key>😘</key>
+	<string>وجه يعطي قبلة</string>
+	<key>🌚</key>
+	<string>قمر جديد مع وجه</string>
+	<key>🤘</key>
+	<string>علامة القرنين</string>
+	<key>😙</key>
+	<string>وجه يقبّل بعينين مبتسمتين</string>
+	<key>🌛</key>
+	<string>قمر في الربع الأول وله وجه</string>
+	<key>🤙</key>
+	<string>رمز باليد "اتصل بي"</string>
+	<key>😚</key>
+	<string>وجه يُقبل بعينين مغمضتين</string>
+</dict>
+</plist>

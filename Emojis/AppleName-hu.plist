@@ -1,0 +1,3750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>🌜</key>
+	<string>utolsó negyedhold arccal</string>
+	<key>🤚</key>
+	<string>kézhát</string>
+	<key>😛</key>
+	<string>kinyújtott nyelvű arc</string>
+	<key>👩‍🔧</key>
+	<string>női szerelő</string>
+	<key>🌝</key>
+	<string>telihold arccal</string>
+	<key>🤛</key>
+	<string>balra néző ököl</string>
+	<key>😜</key>
+	<string>kacsintó arc kinyújtott nyelvvel</string>
+	<key>🌞</key>
+	<string>nap arccal</string>
+	<key>🤜</key>
+	<string>jobbra néző ököl</string>
+	<key>😝</key>
+	<string>arc kinyújtott nyelvvel és hunyorító szemekkel</string>
+	<key>🌟</key>
+	<string>ragyogó csillag</string>
+	<key>🤝</key>
+	<string>kézfogás</string>
+	<key>😞</key>
+	<string>csalódott arc</string>
+	<key>🌠</key>
+	<string>hullócsillag</string>
+	<key>🤞</key>
+	<string>keresztezett ujjak</string>
+	<key>😟</key>
+	<string>aggódó arc</string>
+	<key>🐈‍⬛</key>
+	<string>fekete macska</string>
+	<key>🤟</key>
+	<string>szeretlek kézmozdulat</string>
+	<key>😠</key>
+	<string>mérges arc</string>
+	<key>⚜️</key>
+	<string>anjou-liliom</string>
+	<key>⛴️</key>
+	<string>komp</string>
+	<key>🤠</key>
+	<string>cowboy arc</string>
+	<key>😡</key>
+	<string>méregtől vörös arc</string>
+	<key>🤡</key>
+	<string>bohócarc</string>
+	<key>😢</key>
+	<string>síró arc</string>
+	<key>⬛️</key>
+	<string>nagy fekete négyzet</string>
+	<key>🤢</key>
+	<string>émelygő arc</string>
+	<key>😣</key>
+	<string>kitartó arc</string>
+	<key>🤣</key>
+	<string>padlón fetrengő nevető arc</string>
+	<key>😤</key>
+	<string>arc gőzölgő orral</string>
+	<key>🤤</key>
+	<string>nyáladzó arc</string>
+	<key>😥</key>
+	<string>szomorú, de megkönnyebbült arc</string>
+	<key>🤥</key>
+	<string>hamis arc</string>
+	<key>😦</key>
+	<string>rosszalló arc nyitott szájjal</string>
+	<key>🤦</key>
+	<string>a fejét fogó ember</string>
+	<key>😧</key>
+	<string>meggyötört arc</string>
+	<key>🤧</key>
+	<string>tüsszentő arc</string>
+	<key>😨</key>
+	<string>félős arc</string>
+	<key>🤨</key>
+	<string>arc felhúzott szemöldökökkel</string>
+	<key>😩</key>
+	<string>kimerült arc</string>
+	<key>🤩</key>
+	<string>arc csillogó szemekkel</string>
+	<key>⚕️</key>
+	<string>Aszklépiosz botja</string>
+	<key>😪</key>
+	<string>álmos arc</string>
+	<key>👁️‍🗨️</key>
+	<string>Tanú vagyok</string>
+	<key>🤪</key>
+	<string>bolondos arc</string>
+	<key>😫</key>
+	<string>kétségbeesett arc</string>
+	<key>🌭</key>
+	<string>hotdog</string>
+	<key>🤫</key>
+	<string>csendre intő arc</string>
+	<key>😬</key>
+	<string>grimaszoló arc</string>
+	<key>🌮</key>
+	<string>taco</string>
+	<key>🤬</key>
+	<string>arc, a szájon szimbólumokkal</string>
+	<key>😭</key>
+	<string>hangosan síró arc</string>
+	<key>🌯</key>
+	<string>burritó</string>
+	<key>🤭</key>
+	<string>mosolygó szemű arc egy kézzel a szája előtt</string>
+	<key>😮</key>
+	<string>meglepett arc nyitott szájjal</string>
+	<key>🌰</key>
+	<string>gesztenye</string>
+	<key>🤮</key>
+	<string>hányó arc</string>
+	<key>😯</key>
+	<string>meglepett arc</string>
+	<key>🌱</key>
+	<string>palánta</string>
+	<key>🤯</key>
+	<string>robbanó fej</string>
+	<key>😰</key>
+	<string>aggódó és izzadó arc</string>
+	<key>🌲</key>
+	<string>örökzöld fa</string>
+	<key>🤰</key>
+	<string>terhes nő</string>
+	<key>😱</key>
+	<string>félelmében ordító arc</string>
+	<key>🌳</key>
+	<string>fa</string>
+	<key>🤱</key>
+	<string>szoptatás</string>
+	<key>😲</key>
+	<string>csodálkozó arc</string>
+	<key>🛡️</key>
+	<string>pajzs</string>
+	<key>🌴</key>
+	<string>pálmafa</string>
+	<key>🤲</key>
+	<string>felfelé néző tenyerek egymás mellett</string>
+	<key>😳</key>
+	<string>arc tágra nyitott szemekkel</string>
+	<key>🌵</key>
+	<string>kaktusz</string>
+	<key>🤳</key>
+	<string>szelfi</string>
+	<key>😴</key>
+	<string>alvó arc</string>
+	<key>🤴</key>
+	<string>herceg</string>
+	<key>😵</key>
+	<string>szédülő arc</string>
+	<key>👩‍🌾</key>
+	<string>női gazda</string>
+	<key>🌷</key>
+	<string>tulipán</string>
+	<key>🤵</key>
+	<string>ember szmokingban</string>
+	<key>😶</key>
+	<string>száj nélküli arc</string>
+	<key>🌸</key>
+	<string>cseresznyevirág</string>
+	<key>🤶</key>
+	<string>télanyó</string>
+	<key>😷</key>
+	<string>műtősmaszkot viselő arc</string>
+	<key>🌹</key>
+	<string>rózsa</string>
+	<key>🤷</key>
+	<string>vállat vonó ember</string>
+	<key>😸</key>
+	<string>vigyorgó macskafej</string>
+	<key>🌺</key>
+	<string>hibiszkusz</string>
+	<key>🤸</key>
+	<string>cigánykerekező ember</string>
+	<key>😹</key>
+	<string>macskafej örömkönnyekkel</string>
+	<key>🌻</key>
+	<string>napraforgó</string>
+	<key>🤹</key>
+	<string>zsonglőrködő ember</string>
+	<key>😺</key>
+	<string>boldog macskafej</string>
+	<key>🌼</key>
+	<string>virág</string>
+	<key>🤺</key>
+	<string>vívó</string>
+	<key>😻</key>
+	<string>mosolygó macskafej szív alakú szemekkel</string>
+	<key>🌽</key>
+	<string>kukoricacső</string>
+	<key>😼</key>
+	<string>önelégült macskafej</string>
+	<key>🇿🇦</key>
+	<string>Dél-Afrika zászlója</string>
+	<key>👩‍🔬</key>
+	<string>női tudós</string>
+	<key>🌾</key>
+	<string>rizskalász</string>
+	<key>🤼</key>
+	<string>birkózó emberek</string>
+	<key>😽</key>
+	<string>puszit dobó macskafej</string>
+	<key>🇻🇦</key>
+	<string>a Vatikán zászlója</string>
+	<key>🌿</key>
+	<string>fűszernövény</string>
+	<key>🤽</key>
+	<string>vízilabdázó ember</string>
+	<key>😾</key>
+	<string>duzzogó macskafej</string>
+	<key>☯️</key>
+	<string>jin-jang</string>
+	<key>🍀</key>
+	<string>négylevelű lóhere</string>
+	<key>🤾</key>
+	<string>kézilabdázó ember</string>
+	<key>😿</key>
+	<string>síró macskafej</string>
+	<key>🍁</key>
+	<string>juharlevél</string>
+	<key>🤿</key>
+	<string>búvármaszk</string>
+	<key>🧑‍🍳</key>
+	<string>szakács</string>
+	<key>🇳🇦</key>
+	<string>Namíbia zászlója</string>
+	<key>🙀</key>
+	<string>félelmében ordító macskafej</string>
+	<key>🧗‍♀️</key>
+	<string>női sziklamászó</string>
+	<key>⁉️</key>
+	<string>piros felkiáltójel és kérdőjel</string>
+	<key>🍂</key>
+	<string>hulló levelek</string>
+	<key>🥀</key>
+	<string>elhervadt rózsa</string>
+	<key>🙁</key>
+	<string>kicsit rosszalló arc</string>
+	<key>🍃</key>
+	<string>szélben lebegő levelek</string>
+	<key>🥁</key>
+	<string>dob</string>
+	<key>🙂</key>
+	<string>kicsit mosolygó arc</string>
+	<key>⬆️</key>
+	<string>felfelé nyíl</string>
+	<key>🍄</key>
+	<string>gomba</string>
+	<key>🥂</key>
+	<string>összekoccanó poharak</string>
+	<key>🙃</key>
+	<string>arc fejjel lefelé</string>
+	<key>5️⃣</key>
+	<string>ötös billentyű</string>
+	<key>🍅</key>
+	<string>paradicsom</string>
+	<key>🥃</key>
+	<string>vizespohár</string>
+	<key>🙄</key>
+	<string>arc felfelé néző szemekkel</string>
+	<key>🇻🇨</key>
+	<string>Saint Vincent és a Grenadine-szigetek zászlója</string>
+	<key>🇧🇦</key>
+	<string>Bosznia-Hercegovina zászlója</string>
+	<key>↩️</key>
+	<string>jobbról balra kanyarodó nyíl</string>
+	<key>🍆</key>
+	<string>padlizsán</string>
+	<key>🥄</key>
+	<string>kanál</string>
+	<key>🙅</key>
+	<string>nemet mutató ember</string>
+	<key>🍇</key>
+	<string>szőlő</string>
+	<key>🥅</key>
+	<string>kapu hálóval</string>
+	<key>🙆</key>
+	<string>OK jelet mutató ember</string>
+	<key>🛣️</key>
+	<string>autópálya</string>
+	<key>🍈</key>
+	<string>sárgadinnye</string>
+	<key>🙇</key>
+	<string>meghajló ember</string>
+	<key>🇳🇨</key>
+	<string>Új-Kaledónia zászlója</string>
+	<key>🍉</key>
+	<string>görögdinnye</string>
+	<key>🇧🇧</key>
+	<string>Barbados zászlója</string>
+	<key>🥇</key>
+	<string>aranyérem</string>
+	<key>🙈</key>
+	<string>szemét befogó majom</string>
+	<key>🍊</key>
+	<string>mandarin</string>
+	<key>🥈</key>
+	<string>ezüstérem</string>
+	<key>🏴󠁧󠁢󠁳󠁣󠁴󠁿</key>
+	<string>Skócia zászlója</string>
+	<key>🙉</key>
+	<string>fülét befogó majom</string>
+	<key>🍋</key>
+	<string>citrom</string>
+	<key>🥉</key>
+	<string>bronzérem</string>
+	<key>🙊</key>
+	<string>száját befogó majom</string>
+	<key>🍌</key>
+	<string>banán</string>
+	<key>🥊</key>
+	<string>bokszkesztyű</string>
+	<key>🇻🇪</key>
+	<string>Venezuela zászlója</string>
+	<key>🙋</key>
+	<string>kezét felemelő boldog ember</string>
+	<key>🍍</key>
+	<string>ananász</string>
+	<key>🥋</key>
+	<string>harcművész-formaruha</string>
+	<key>🙌</key>
+	<string>ünneplésre felemelt kezek</string>
+	<key>🇷🇪</key>
+	<string>a Réunion-sziget zászlója</string>
+	<key>🍎</key>
+	<string>piros alma</string>
+	<key>🥌</key>
+	<string>curling kő</string>
+	<key>🙍</key>
+	<string>ember rosszalló arckifejezéssel</string>
+	<key>🍏</key>
+	<string>zöldalma</string>
+	<key>🇳🇪</key>
+	<string>Niger zászlója</string>
+	<key>🥍</key>
+	<string>lacrosse-ütő és -labda</string>
+	<key>🙎</key>
+	<string>duzzogó ember</string>
+	<key>🅾️</key>
+	<string>0-s vércsoport</string>
+	<key>🇧🇩</key>
+	<string>Banglades zászlója</string>
+	<key>🍐</key>
+	<string>körte</string>
+	<key>🥎</key>
+	<string>softball</string>
+	<key>🇯🇪</key>
+	<string>Jersey zászlója</string>
+	<key>🙏</key>
+	<string>összeérintett kezek</string>
+	<key>🍑</key>
+	<string>őszibarack</string>
+	<key>🥏</key>
+	<string>frizbi</string>
+	<key>🍒</key>
+	<string>cseresznye</string>
+	<key>🥐</key>
+	<string>croissant</string>
+	<key>🇳🇫</key>
+	<string>a Norfolk-sziget zászlója</string>
+	<key>🍓</key>
+	<string>eper</string>
+	<key>🇻🇬</key>
+	<string>a Brit Virgin-szigetek zászlója</string>
+	<key>🇧🇪</key>
+	<string>Belgium zászlója</string>
+	<key>🥑</key>
+	<string>avokádó</string>
+	<key>🍔</key>
+	<string>hamburger</string>
+	<key>🥒</key>
+	<string>uborka</string>
+	<key>⛑️</key>
+	<string>sisak fehér kereszttel</string>
+	<key>🍕</key>
+	<string>pizza</string>
+	<key>🥓</key>
+	<string>angolszalonna</string>
+	<key>🇳🇬</key>
+	<string>Nigéria zászlója</string>
+	<key>🍖</key>
+	<string>hús csonttal</string>
+	<key>🥔</key>
+	<string>burgonya</string>
+	<key>👨‍🍳</key>
+	<string>férfi szakács</string>
+	<key>🇧🇫</key>
+	<string>Burkina Faso zászlója</string>
+	<key>🍗</key>
+	<string>baromfiláb</string>
+	<key>👮‍♀️</key>
+	<string>rendőrnő</string>
+	<key>🥕</key>
+	<string>sárgarépa</string>
+	<key>⭐️</key>
+	<string>csillag</string>
+	<key>🍘</key>
+	<string>rizskeksz</string>
+	<key>🥖</key>
+	<string>franciakenyér</string>
+	<key>🗝️</key>
+	<string>régi kulcs</string>
+	<key>🌶️</key>
+	<string>erős paprika</string>
+	<key>🍙</key>
+	<string>rizsgombóc</string>
+	<key>🥗</key>
+	<string>zöldsaláta</string>
+	<key>🏃‍♂️</key>
+	<string>férfi futó</string>
+	<key>🇻🇮</key>
+	<string>az Amerikai Virgin-szigetek zászlója</string>
+	<key>🇧🇬</key>
+	<string>Bulgária zászlója</string>
+	<key>🍚</key>
+	<string>főtt rizs</string>
+	<key>🥘</key>
+	<string>serpenyős étel</string>
+	<key>🍛</key>
+	<string>curry és rizs</string>
+	<key>🥙</key>
+	<string>pitaszendvics</string>
+	<key>🍜</key>
+	<string>gőzölgő tál</string>
+	<key>🥚</key>
+	<string>tojás</string>
+	<key>🛥️</key>
+	<string>motorcsónak</string>
+	<key>🇳🇮</key>
+	<string>Nicaragua zászlója</string>
+	<key>🍝</key>
+	<string>spagetti</string>
+	<key>🥛</key>
+	<string>pohár tej</string>
+	<key>🇧🇭</key>
+	<string>Bahrein zászlója</string>
+	<key>🍞</key>
+	<string>kenyér</string>
+	<key>🥜</key>
+	<string>földimogyoró</string>
+	<key>🍟</key>
+	<string>hasábburgonya</string>
+	<key>👨‍👨‍👦</key>
+	<string>család két apával és fiúval</string>
+	<key>🥝</key>
+	<string>kiwi</string>
+	<key>🇫🇮</key>
+	<string>Finnország zászlója</string>
+	<key>🤾‍♂️</key>
+	<string>kézilabdázó férfi</string>
+	<key>🍠</key>
+	<string>sült édesburgonya</string>
+	<key>🖲️</key>
+	<string>trackball</string>
+	<key>🥞</key>
+	<string>palacsinta</string>
+	<key>🇧🇮</key>
+	<string>Burundi zászlója</string>
+	<key>🍡</key>
+	<string>dango</string>
+	<key>🥟</key>
+	<string>gombóc</string>
+	<key>🍢</key>
+	<string>oden</string>
+	<key>🥠</key>
+	<string>szerencsesüti</string>
+	<key>🇫🇯</key>
+	<string>a Fidzsi-szigetek zászlója</string>
+	<key>🍣</key>
+	<string>szusi</string>
+	<key>🥡</key>
+	<string>elviteles doboz</string>
+	<key>🍤</key>
+	<string>sült garnéla</string>
+	<key>🥢</key>
+	<string>evőpálcikák</string>
+	<key>🇧🇯</key>
+	<string>Benin zászlója</string>
+	<key>↔️</key>
+	<string>balra és jobbra mutató nyíl</string>
+	<key>🍥</key>
+	<string>halpogácsa csavart mintával</string>
+	<key>🥣</key>
+	<string>tál kanállal</string>
+	<key>🍦</key>
+	<string>fagylalt</string>
+	<key>🇿🇲</key>
+	<string>Zambia zászlója</string>
+	<key>🇫🇰</key>
+	<string>a Falkland-szigetek zászlója</string>
+	<key>🥤</key>
+	<string>elviteles pohár</string>
+	<key>🏌️‍♀️</key>
+	<string>női golfozó</string>
+	<key>🇳🇱</key>
+	<string>Hollandia zászlója</string>
+	<key>🍧</key>
+	<string>jégkása</string>
+	<key>🥥</key>
+	<string>kókusz</string>
+	<key>🍨</key>
+	<string>fagylalt</string>
+	<key>🥦</key>
+	<string>brokkoli</string>
+	<key>🍩</key>
+	<string>fánk</string>
+	<key>🥧</key>
+	<string>pite</string>
+	<key>🖇️</key>
+	<string>összekapcsolt iratkapcsok</string>
+	<key>🍪</key>
+	<string>süti</string>
+	<key>🥨</key>
+	<string>sós perec</string>
+	<key>🇻🇳</key>
+	<string>Vietnám zászlója</string>
+	<key>💂‍♀️</key>
+	<string>női őr</string>
+	<key>🇧🇱</key>
+	<string>Saint Barthélemy zászlója</string>
+	<key>🍫</key>
+	<string>táblacsoki</string>
+	<key>🇯🇲</key>
+	<string>Jamaica zászlója</string>
+	<key>🥩</key>
+	<string>steak</string>
+	<key>🍬</key>
+	<string>cukorka</string>
+	<key>🥪</key>
+	<string>szendvics</string>
+	<key>⛹️‍♀️</key>
+	<string>női kosárlabda-játékos</string>
+	<key>🍭</key>
+	<string>nyalóka</string>
+	<key>🇫🇲</key>
+	<string>Mikronézia zászlója</string>
+	<key>🥫</key>
+	<string>konzervétel</string>
+	<key>🍮</key>
+	<string>sodó</string>
+	<key>👨‍❤️‍👨</key>
+	<string>két férfi szívvel</string>
+	<key>🥬</key>
+	<string>levélzöldség</string>
+	<key>🇧🇲</key>
+	<string>Bermuda zászlója</string>
+	<key>🍯</key>
+	<string>mézesbödön</string>
+	<key>🥭</key>
+	<string>mangó</string>
+	<key>🇷🇴</key>
+	<string>Románia zászlója</string>
+	<key>🍰</key>
+	<string>torta</string>
+	<key>🥮</key>
+	<string>holdsütemény</string>
+	<key>🍱</key>
+	<string>bento doboz</string>
+	<key>🇳🇴</key>
+	<string>Norvégia zászlója</string>
+	<key>🥯</key>
+	<string>bagel</string>
+	<key>🇧🇳</key>
+	<string>Brunei zászlója</string>
+	<key>🧚‍♀️</key>
+	<string>női tündér</string>
+	<key>🍲</key>
+	<string>egy tál étel</string>
+	<key>🇯🇴</key>
+	<string>Jordánia zászlója</string>
+	<key>🥰</key>
+	<string>mosolygó arc szívekkel</string>
+	<key>🍳</key>
+	<string>főzés</string>
+	<key>🥱</key>
+	<string>ásító arc</string>
+	<key>🇫🇴</key>
+	<string>a Feröer szigetek zászlója</string>
+	<key>🍴</key>
+	<string>villa és kés</string>
+	<key>🥲</key>
+	<string>mosolygó arc könnycseppel</string>
+	<key>🇳🇵</key>
+	<string>Nepál zászlója</string>
+	<key>✔️</key>
+	<string>pipa</string>
+	<key>🍵</key>
+	<string>teáscsésze fül nélkül</string>
+	<key>🥳</key>
+	<string>partiarc</string>
+	<key>🇧🇴</key>
+	<string>Bolívia zászlója</string>
+	<key>🇯🇵</key>
+	<string>Japán zászlója</string>
+	<key>🍶</key>
+	<string>szakés üveg és pohár</string>
+	<key>🥴</key>
+	<string>kábult arc</string>
+	<key>🍷</key>
+	<string>borospohár</string>
+	<key>🥵</key>
+	<string>izzadó arc</string>
+	<key>🍸</key>
+	<string>koktélpohár</string>
+	<key>🥶</key>
+	<string>fázós arc</string>
+	<key>🍹</key>
+	<string>trópusi ital</string>
+	<key>🥷</key>
+	<string>nindzsa</string>
+	<key>🍺</key>
+	<string>söröskorsó</string>
+	<key>🥸</key>
+	<string>álarcos arc</string>
+	<key>🚶‍♀️</key>
+	<string>női gyalogos</string>
+	<key>🍻</key>
+	<string>koccintó söröskorsók</string>
+	<key>🥹</key>
+	<string>könnyeket visszatartó, mosolygó arc</string>
+	<key>🇳🇷</key>
+	<string>Nauru zászlója</string>
+	<key>🍼</key>
+	<string>cumisüveg</string>
+	<key>🇧🇶</key>
+	<string>Bonaire zászlója</string>
+	<key>🥺</key>
+	<string>könyörgő arc</string>
+	<key>🧑‍🍼</key>
+	<string>csecsemőt etető ember</string>
+	<key>🥻</key>
+	<string>szári</string>
+	<key>🇷🇸</key>
+	<string>Szerbia zászlója</string>
+	<key>🍾</key>
+	<string>üveg kilövő dugóval</string>
+	<key>🇫🇷</key>
+	<string>Franciaország zászlója</string>
+	<key>👩‍❤️‍💋‍👨</key>
+	<string>csókolózó férfi és nő</string>
+	<key>🥼</key>
+	<string>laboratóriumi köpeny</string>
+	<key>✍️</key>
+	<string>író kéz</string>
+	<key>🍿</key>
+	<string>pattogatott kukorica</string>
+	<key>🥽</key>
+	<string>védőszemüveg</string>
+	<key>🇧🇷</key>
+	<string>Brazília zászlója</string>
+	<key>🗡️</key>
+	<string>tőr</string>
+	<key>⏮️</key>
+	<string>visszafelé léptetés jele</string>
+	<key>🎀</key>
+	<string>szalagmasni</string>
+	<key>🥾</key>
+	<string>túrabakancs</string>
+	<key>🎁</key>
+	<string>ajándék</string>
+	<key>🥿</key>
+	<string>lapossarkú cipő</string>
+	<key>🚀</key>
+	<string>rakéta</string>
+	<key>🎂</key>
+	<string>születésnapi torta</string>
+	<key>🦀</key>
+	<string>rák</string>
+	<key>🚁</key>
+	<string>helikopter</string>
+	<key>🇻🇺</key>
+	<string>Vanuatu zászlója</string>
+	<key>🇧🇸</key>
+	<string>a Bahama-szigetek zászlója</string>
+	<key>🎃</key>
+	<string>töklámpás</string>
+	<key>🕵️‍♀️</key>
+	<string>női detektív</string>
+	<key>🦁</key>
+	<string>oroszlánfej</string>
+	<key>🚂</key>
+	<string>gőzmozdony</string>
+	<key>🎄</key>
+	<string>Karácsonyfa</string>
+	<key>🇷🇺</key>
+	<string>Oroszország zászlója</string>
+	<key>🦂</key>
+	<string>skorpió</string>
+	<key>🚃</key>
+	<string>vasúti kocsi</string>
+	<key>🎅</key>
+	<string>Mikulás</string>
+	<key>🦃</key>
+	<string>pulyka</string>
+	<key>🚄</key>
+	<string>nagysebességű vonat</string>
+	<key>🇳🇺</key>
+	<string>Niue zászlója</string>
+	<key>🛩️</key>
+	<string>kis repülőgép</string>
+	<key>◾️</key>
+	<string>közepesen kicsi fekete négyzet</string>
+	<key>🎆</key>
+	<string>tűzijáték</string>
+	<key>🇧🇹</key>
+	<string>Bhután zászlója</string>
+	<key>🦄</key>
+	<string>egyszarvú</string>
+	<key>🚅</key>
+	<string>áramvonalas elejű, nagysebességű vonat</string>
+	<key>🎇</key>
+	<string>csillagszóró</string>
+	<key>🦅</key>
+	<string>sas</string>
+	<key>🚆</key>
+	<string>vonat</string>
+	<key>👱‍♀️</key>
+	<string>szőke hajú nő</string>
+	<key>🎈</key>
+	<string>lufi</string>
+	<key>🇿🇼</key>
+	<string>Zimbabwe zászlója</string>
+	<key>🦆</key>
+	<string>kacsa</string>
+	<key>🚇</key>
+	<string>metró</string>
+	<key>😮‍💨</key>
+	<string>levegőt kifújó arc</string>
+	<key>🎉</key>
+	<string>partipuska</string>
+	<key>🦇</key>
+	<string>denevér</string>
+	<key>🚈</key>
+	<string>könnyűvasút</string>
+	<key>🎊</key>
+	<string>konfettigömb</string>
+	<key>🦈</key>
+	<string>cápa</string>
+	<key>🚉</key>
+	<string>állomás</string>
+	<key>🇷🇼</key>
+	<string>Ruanda zászlója</string>
+	<key>🎋</key>
+	<string>tanabata fa</string>
+	<key>🦉</key>
+	<string>bagoly</string>
+	<key>🚊</key>
+	<string>villamos</string>
+	<key>🎌</key>
+	<string>keresztezett zászlók</string>
+	<key>🦊</key>
+	<string>rókafej</string>
+	<key>🚋</key>
+	<string>villamoskocsi</string>
+	<key>🎍</key>
+	<string>fenyődekoráció</string>
+	<key>🇧🇻</key>
+	<string>Bouvet-sziget zászlója</string>
+	<key>🦋</key>
+	<string>pillangó</string>
+	<key>🚌</key>
+	<string>busz</string>
+	<key>🎎</key>
+	<string>Japán babák</string>
+	<key>🦌</key>
+	<string>szarvas</string>
+	<key>🚍</key>
+	<string>közeledő busz</string>
+	<key>🎏</key>
+	<string>pontyzászló</string>
+	<key>🦍</key>
+	<string>gorilla</string>
+	<key>🚎</key>
+	<string>trolibusz</string>
+	<key>🚏</key>
+	<string>buszmegálló</string>
+	<key>🎐</key>
+	<string>szélcsengő</string>
+	<key>🦎</key>
+	<string>gyík</string>
+	<key>🇧🇼</key>
+	<string>Botswana zászlója</string>
+	<key>🚐</key>
+	<string>kisbusz</string>
+	<key>♏️</key>
+	<string>skorpió</string>
+	<key>🎑</key>
+	<string>holdnézési ceremónia</string>
+	<key>🦏</key>
+	<string>orrszarvú</string>
+	<key>🚑</key>
+	<string>mentő</string>
+	<key>👨‍🍼</key>
+	<string>csecsemőt etető férfi</string>
+	<key>⚧️</key>
+	<string>transznemű szimbólum</string>
+	<key>👨‍👨‍👧</key>
+	<string>család két apával és lánnyal</string>
+	<key>🖋️</key>
+	<string>töltőtoll</string>
+	<key>🚒</key>
+	<string>tűzoltóautó</string>
+	<key>🎒</key>
+	<string>hátizsák</string>
+	<key>🎓</key>
+	<string>talársapka</string>
+	<key>🦐</key>
+	<string>garnéla</string>
+	<key>🦑</key>
+	<string>tintahal</string>
+	<key>🚓</key>
+	<string>rendőrautó</string>
+	<key>❗️</key>
+	<string>piros felkiáltójel</string>
+	<key>🦒</key>
+	<string>zsiráf</string>
+	<key>🙇‍♀️</key>
+	<string>meghajló nő</string>
+	<key>🗣️</key>
+	<string>beszélő fej körvonala</string>
+	<key>🚔</key>
+	<string>közeledő rendőrautó</string>
+	<key>🦓</key>
+	<string>zebra</string>
+	<key>🚕</key>
+	<string>taxi</string>
+	<key>🦔</key>
+	<string>sündisznó</string>
+	<key>🇳🇿</key>
+	<string>Új-Zéland zászlója</string>
+	<key>🦕</key>
+	<string>dinoszaurusz</string>
+	<key>🚖</key>
+	<string>közeledő taxi</string>
+	<key>🇧🇾</key>
+	<string>Belarusz zászlója</string>
+	<key>🦖</key>
+	<string>T-Rex</string>
+	<key>🚗</key>
+	<string>autó</string>
+	<key>🦗</key>
+	<string>tücsök</string>
+	<key>🚘</key>
+	<string>közeledő autó</string>
+	<key>🦘</key>
+	<string>kenguru</string>
+	<key>🚙</key>
+	<string>SUV</string>
+	<key>🇧🇿</key>
+	<string>Belize zászlója</string>
+	<key>🦙</key>
+	<string>láma</string>
+	<key>🚚</key>
+	<string>kisteherautó</string>
+	<key>♈️</key>
+	<string>Kos</string>
+	<key>🦚</key>
+	<string>páva</string>
+	<key>🚛</key>
+	<string>nyergesvontató</string>
+	<key>⚠️</key>
+	<string>figyelmeztetés</string>
+	<key>🦛</key>
+	<string>víziló</string>
+	<key>🚜</key>
+	<string>traktor</string>
+	<key>⛸️</key>
+	<string>jégkorcsolya</string>
+	<key>🧘‍♂️</key>
+	<string>férfi lótuszülésben</string>
+	<key>🧑‍🚀</key>
+	<string>űrhajós</string>
+	<key>🦜</key>
+	<string>papagáj</string>
+	<key>🚝</key>
+	<string>mágnesvasút</string>
+	<key>🦝</key>
+	<string>mosómedve</string>
+	<key>🚞</key>
+	<string>hegyi vasút</string>
+	<key>🎠</key>
+	<string>körhintaló</string>
+	<key>🦞</key>
+	<string>homár</string>
+	<key>🚟</key>
+	<string>függővasút</string>
+	<key>🎡</key>
+	<string>óriáskerék</string>
+	<key>🦟</key>
+	<string>szúnyog</string>
+	<key>🚠</key>
+	<string>hegyi felvonó</string>
+	<key>🎢</key>
+	<string>hullámvasút</string>
+	<key>🦠</key>
+	<string>mikroba</string>
+	<key>🚡</key>
+	<string>felvonó</string>
+	<key>🧝‍♀️</key>
+	<string>női tünde</string>
+	<key>🎣</key>
+	<string>horgászbot és hal</string>
+	<key>🦡</key>
+	<string>borz</string>
+	<key>🚢</key>
+	<string>hajó</string>
+	<key>🎤</key>
+	<string>mikrofon</string>
+	<key>🦢</key>
+	<string>hattyú</string>
+	<key>🚣</key>
+	<string>csónakban evező ember</string>
+	<key>🎥</key>
+	<string>filmkamera</string>
+	<key>🦣</key>
+	<string>mamut</string>
+	<key>🚤</key>
+	<string>motorcsónak</string>
+	<key>🎦</key>
+	<string>mozi jele</string>
+	<key>🦤</key>
+	<string>dodómadár</string>
+	<key>🚥</key>
+	<string>vízszintes közlekedési lámpa</string>
+	<key>⚙️</key>
+	<string>fogaskerék</string>
+	<key>🚴‍♂️</key>
+	<string>férfi biciklis</string>
+	<key>🎧</key>
+	<string>fejhallgató</string>
+	<key>🦥</key>
+	<string>lajhár</string>
+	<key>🚦</key>
+	<string>függőleges közlekedési lámpa</string>
+	<key>⛱️</key>
+	<string>strandernyő</string>
+	<key>🖍️</key>
+	<string>zsírkréta</string>
+	<key>🎨</key>
+	<string>festőpaletta</string>
+	<key>🦦</key>
+	<string>vidra</string>
+	<key>🚧</key>
+	<string>építkezésjel</string>
+	<key>🎩</key>
+	<string>cilinder</string>
+	<key>🦧</key>
+	<string>orangután</string>
+	<key>🚨</key>
+	<string>rendőrautó villogója</string>
+	<key>➡️</key>
+	<string>jobbra nyíl</string>
+	<key>🎪</key>
+	<string>cirkuszi sátor</string>
+	<key>🦨</key>
+	<string>borz</string>
+	<key>🚩</key>
+	<string>háromszög alakú zászló rúdon</string>
+	<key>🎫</key>
+	<string>jegy</string>
+	<key>🦩</key>
+	<string>flamingó</string>
+	<key>🚪</key>
+	<string>ajtó</string>
+	<key>🦸‍♀️</key>
+	<string>női szuperhős</string>
+	<key>🎬</key>
+	<string>csapó</string>
+	<key>🦪</key>
+	<string>osztriga</string>
+	<key>🚫</key>
+	<string>tiltott</string>
+	<key>🎖️</key>
+	<string>katonai kitüntetés</string>
+	<key>🎭</key>
+	<string>előadó-művészet</string>
+	<key>🦫</key>
+	<string>hód</string>
+	<key>🚬</key>
+	<string>cigaretta</string>
+	<key>🎮</key>
+	<string>videojáték-vezérlő</string>
+	<key>🦬</key>
+	<string>bölény</string>
+	<key>🚭</key>
+	<string>tilos a dohányzás jel</string>
+	<key>🎯</key>
+	<string>céltábla közepe</string>
+	<key>🦭</key>
+	<string>fóka</string>
+	<key>🚮</key>
+	<string>szemét helye jel</string>
+	<key>☺️</key>
+	<string>mosolygó arc</string>
+	<key>🎰</key>
+	<string>játékgép</string>
+	<key>🦮</key>
+	<string>vakvezető kutya</string>
+	<key>🚯</key>
+	<string>tilos szemetelni</string>
+	<key>⚒️</key>
+	<string>kalapács és csákány</string>
+	<key>🎱</key>
+	<string>biliárd</string>
+	<key>🦯</key>
+	<string>fehér bot</string>
+	<key>🚰</key>
+	<string>vízcsap</string>
+	<key>🧑‍🎄</key>
+	<string>Mikulás</string>
+	<key>⛪️</key>
+	<string>templom</string>
+	<key>🎲</key>
+	<string>dobókocka</string>
+	<key>🤵‍♀️</key>
+	<string>nő szmokingban</string>
+	<key>⌛️</key>
+	<string>homokóra</string>
+	<key>🏋️‍♂️</key>
+	<string>férfi súlyemelő</string>
+	<key>🚱</key>
+	<string>nem ivóvíz</string>
+	<key>🎳</key>
+	<string>bowlinggolyó és -bábuk</string>
+	<key>👯‍♂️</key>
+	<string>nyuszifüleket viselő táncoló férfiak</string>
+	<key>👨‍🚀</key>
+	<string>férfi űrhajós</string>
+	<key>🚲</key>
+	<string>kerékpár</string>
+	<key>🎴</key>
+	<string>virágos kártya</string>
+	<key>🚳</key>
+	<string>kerékpárral tilos</string>
+	<key>👩‍👦‍👦</key>
+	<string>család anyával és két fiúval</string>
+	<key>🎵</key>
+	<string>hangjegy</string>
+	<key>👨‍🤝‍👨</key>
+	<string>egymás kezét fogó férfiak</string>
+	<key>🚴</key>
+	<string>biciklis</string>
+	<key>🎶</key>
+	<string>hangjegyek</string>
+	<key>🦴</key>
+	<string>csont</string>
+	<key>🚵</key>
+	<string>hegyikerékpáros</string>
+	<key>🎷</key>
+	<string>szaxofon</string>
+	<key>🦵</key>
+	<string>láb</string>
+	<key>🚶</key>
+	<string>gyalogos</string>
+	<key>🎸</key>
+	<string>gitár</string>
+	<key>🦶</key>
+	<string>lábfej</string>
+	<key>🚷</key>
+	<string>gyalogosan tilos</string>
+	<key>🎹</key>
+	<string>zenei billentyűzet</string>
+	<key>🦷</key>
+	<string>fog</string>
+	<key>🚸</key>
+	<string>gyerekek kelnek át az úton</string>
+	<key>🎺</key>
+	<string>trombita</string>
+	<key>🦸</key>
+	<string>szuperhős</string>
+	<key>🚹</key>
+	<string>férfiak jele</string>
+	<key>🎻</key>
+	<string>hegedű</string>
+	<key>🦹</key>
+	<string>szupergonosz</string>
+	<key>🚺</key>
+	<string>nők jele</string>
+	<key>🎼</key>
+	<string>kotta</string>
+	<key>🦺</key>
+	<string>biztonsági mellény</string>
+	<key>🚻</key>
+	<string>mosdó</string>
+	<key>🎽</key>
+	<string>futópóló</string>
+	<key>🦻</key>
+	<string>fül hallókészülékkel</string>
+	<key>🚼</key>
+	<string>csecsemő piktogram</string>
+	<key>🎾</key>
+	<string>teniszlabda</string>
+	<key>🦼</key>
+	<string>motoros kerekesszék</string>
+	<key>🚽</key>
+	<string>wc</string>
+	<key>🎿</key>
+	<string>sífelszerelés</string>
+	<key>🦽</key>
+	<string>kézi hajtású kerekesszék</string>
+	<key>🚾</key>
+	<string>vízöblítéses wc</string>
+	<key>🏀</key>
+	<string>kosárlabda</string>
+	<key>🦾</key>
+	<string>mechanikus kar</string>
+	<key>🙅‍♂️</key>
+	<string>nemet mutató férfi</string>
+	<key>🚿</key>
+	<string>zuhanyzó</string>
+	<key>🏁</key>
+	<string>kockás zászló</string>
+	<key>🦿</key>
+	<string>mechanikus láb</string>
+	<key>🛀</key>
+	<string>fürdő ember</string>
+	<key>🏂</key>
+	<string>hódeszkás</string>
+	<key>🧀</key>
+	<string>sajtszelet</string>
+	<key>🛁</key>
+	<string>fürdőkád</string>
+	<key>🚣‍♂️</key>
+	<string>csónakban evező férfi</string>
+	<key>🏃</key>
+	<string>futó</string>
+	<key>🧁</key>
+	<string>cupcake</string>
+	<key>🛂</key>
+	<string>útlevél-ellenőrzés</string>
+	<key>🏄</key>
+	<string>szörfös</string>
+	<key>🧂</key>
+	<string>só</string>
+	<key>🛃</key>
+	<string>vám</string>
+	<key>🏅</key>
+	<string>sportkitüntetés</string>
+	<key>🧃</key>
+	<string>gyümölcsleves doboz</string>
+	<key>🛄</key>
+	<string>poggyászfelvétel</string>
+	<key>🏆</key>
+	<string>trófea</string>
+	<key>🧄</key>
+	<string>fokhagyma</string>
+	<key>🛅</key>
+	<string>csomagmegőrző</string>
+	<key>🏇</key>
+	<string>zsoké versenylovon</string>
+	<key>🧅</key>
+	<string>hagyma</string>
+	<key>✴️</key>
+	<string>nyolcágú csillag</string>
+	<key>🖼️</key>
+	<string>keret képpel</string>
+	<key>🏈</key>
+	<string>Amerikai futball</string>
+	<key>🧆</key>
+	<string>falafel</string>
+	<key>🏉</key>
+	<string>rögbilabda</string>
+	<key>🧇</key>
+	<string>gofri</string>
+	<key>👨‍👨‍👧‍👦</key>
+	<string>család két apával, fiúval és lánnyal</string>
+	<key>🏊</key>
+	<string>úszó</string>
+	<key>🧈</key>
+	<string>vaj</string>
+	<key>🧑‍⚖️</key>
+	<string>bíró</string>
+	<key>3️⃣</key>
+	<string>hármas billentyű</string>
+	<key>🧉</key>
+	<string>maté tea</string>
+	<key>🧊</key>
+	<string>jég</string>
+	<key>🧋</key>
+	<string>bobatea</string>
+	<key>🛌</key>
+	<string>alvó ember</string>
+	<key>🧛‍♂️</key>
+	<string>férfi vámpír</string>
+	<key>🧌</key>
+	<string>troll</string>
+	<key>🏏</key>
+	<string>krikettütő és -labda</string>
+	<key>🧍</key>
+	<string>álló ember</string>
+	<key>🏐</key>
+	<string>röplabda</string>
+	<key>🧎</key>
+	<string>térdelő ember</string>
+	<key>🏑</key>
+	<string>gyephokiütő és -labda</string>
+	<key>🧏</key>
+	<string>Süket ember</string>
+	<key>🛐</key>
+	<string>vallási hely</string>
+	<key>🏒</key>
+	<string>jéghokiütő és -korong</string>
+	<key>🧐</key>
+	<string>arc monoklival</string>
+	<key>🛑</key>
+	<string>nyolcszögű jel</string>
+	<key>🏓</key>
+	<string>pingpongütő és -labda</string>
+	<key>🧑</key>
+	<string>felnőtt</string>
+	<key>🛒</key>
+	<string>bevásárlókocsi</string>
+	<key>🧒</key>
+	<string>gyermek</string>
+	<key>🧓</key>
+	<string>idősebb felnőtt</string>
+	<key>🎚️</key>
+	<string>szintcsúszka</string>
+	<key>🧔</key>
+	<string>szakállas ember</string>
+	<key>🛕</key>
+	<string>hindu templom</string>
+	<key>🧕</key>
+	<string>fejkendős nő</string>
+	<key>🛖</key>
+	<string>kunyhó</string>
+	<key>🧖</key>
+	<string>szaunázó ember</string>
+	<key>🛗</key>
+	<string>lift</string>
+	<key>🧗</key>
+	<string>sziklamászó</string>
+	<key>🧘</key>
+	<string>ember lótuszülésben</string>
+	<key>🧙</key>
+	<string>mágus</string>
+	<key>🧚</key>
+	<string>tündér</string>
+	<key>👩‍💻</key>
+	<string>női technológus</string>
+	<key>🧛</key>
+	<string>vámpír</string>
+	<key>🛜</key>
+	<string>vezeték nélküli kapcsolat szimbóluma</string>
+	<key>🧜</key>
+	<string>habszemély</string>
+	<key>🛝</key>
+	<string>játszótéri csúszda</string>
+	<key>🧝</key>
+	<string>tünde</string>
+	<key>🛞</key>
+	<string>kerék</string>
+	<key>👨‍⚖️</key>
+	<string>férfi bíró</string>
+	<key>🏠</key>
+	<string>ház</string>
+	<key>🧞</key>
+	<string>dzsinn</string>
+	<key>↘️</key>
+	<string>lefelé és jobbra mutató nyíl</string>
+	<key>🛟</key>
+	<string>mentőöv</string>
+	<key>🏡</key>
+	<string>ház kerttel</string>
+	<key>🧟</key>
+	<string>zombi</string>
+	<key>🤸‍♀️</key>
+	<string>cigánykerekező nő</string>
+	<key>🏢</key>
+	<string>irodaépület</string>
+	<key>🧠</key>
+	<string>agy</string>
+	<key>🏣</key>
+	<string>Japán posta</string>
+	<key>🧡</key>
+	<string>narancssárga szív</string>
+	<key>👩‍💼</key>
+	<string>női irodai dolgozó</string>
+	<key>🏤</key>
+	<string>Európai posta</string>
+	<key>🧢</key>
+	<string>sildes sapka</string>
+	<key>🏥</key>
+	<string>kórház</string>
+	<key>🧣</key>
+	<string>sál</string>
+	<key>🏦</key>
+	<string>bank</string>
+	<key>🧤</key>
+	<string>kesztyű</string>
+	<key>🏧</key>
+	<string>ATM jele</string>
+	<key>🧥</key>
+	<string>kabát</string>
+	<key>👷‍♀️</key>
+	<string>női építőmunkás</string>
+	<key>🏨</key>
+	<string>szálloda</string>
+	<key>🧦</key>
+	<string>zoknik</string>
+	<key>🏩</key>
+	<string>szerelmi fészek</string>
+	<key>🧧</key>
+	<string>vörös ajándékboríték</string>
+	<key>ℹ️</key>
+	<string>információforrás</string>
+	<key>🏪</key>
+	<string>kisbolt</string>
+	<key>🧨</key>
+	<string>petárda</string>
+	<key>🏫</key>
+	<string>iskola</string>
+	<key>🧩</key>
+	<string>kirakósdarab</string>
+	<key>🏬</key>
+	<string>nagyáruház</string>
+	<key>🧪</key>
+	<string>kémcső</string>
+	<key>🛫</key>
+	<string>felszálló repülőgép</string>
+	<key>🛳️</key>
+	<string>személyszállító hajó</string>
+	<key>🏭</key>
+	<string>gyár</string>
+	<key>🧫</key>
+	<string>Petri-csésze</string>
+	<key>🛬</key>
+	<string>leszálló repülőgép</string>
+	<key>♨️</key>
+	<string>meleg forrásvíz</string>
+	<key>🏮</key>
+	<string>izakaya lámpás</string>
+	<key>🧬</key>
+	<string>DNS</string>
+	<key>👨‍👩‍👦</key>
+	<string>család anyával, apával és fiúval</string>
+	<key>🏯</key>
+	<string>japán kastély</string>
+	<key>🧭</key>
+	<string>iránytű</string>
+	<key>🧏‍♀️</key>
+	<string>Süket nő</string>
+	<key>🏰</key>
+	<string>Európai vár</string>
+	<key>🧮</key>
+	<string>abakusz</string>
+	<key>🧯</key>
+	<string>poroltó</string>
+	<key>⏹️</key>
+	<string>leállítás jele</string>
+	<key>🧰</key>
+	<string>szerszámosláda</string>
+	<key>🧱</key>
+	<string>téglák</string>
+	<key>🏴</key>
+	<string>fekete zászló</string>
+	<key>🧲</key>
+	<string>mágnes</string>
+	<key>🙍‍♀️</key>
+	<string>komor nő</string>
+	<key>🧳</key>
+	<string>utazótáska</string>
+	<key>🛴</key>
+	<string>roller</string>
+	<key>🧴</key>
+	<string>testápolóflakon</string>
+	<key>🛵</key>
+	<string>robogó</string>
+	<key>👨‍👦</key>
+	<string>család apával és fiúval</string>
+	<key>🧵</key>
+	<string>cérna</string>
+	<key>💆‍♂️</key>
+	<string>fejmasszázst kapó férfi</string>
+	<key>🛶</key>
+	<string>kenu</string>
+	<key>🏸</key>
+	<string>tollasütő és tollaslabda</string>
+	<key>🧶</key>
+	<string>fonal</string>
+	<key>🛷</key>
+	<string>szánkó</string>
+	<key>🏹</key>
+	<string>nyíl és íj</string>
+	<key>🧷</key>
+	<string>biztosítótű</string>
+	<key>🛸</key>
+	<string>UFÓ</string>
+	<key>🏺</key>
+	<string>amfora</string>
+	<key>🧸</key>
+	<string>játékmackó</string>
+	<key>🛹</key>
+	<string>gördeszka</string>
+	<key>🧹</key>
+	<string>seprű</string>
+	<key>🛺</key>
+	<string>motoros riksa</string>
+	<key>⏲️</key>
+	<string>időzítő</string>
+	<key>🧺</key>
+	<string>kosár</string>
+	<key>🛻</key>
+	<string>kisteherautó</string>
+	<key>🧻</key>
+	<string>papírtekercs</string>
+	<key>🛼</key>
+	<string>görkorcsolya</string>
+	<key>👨‍👧</key>
+	<string>család apával és lánnyal</string>
+	<key>🧼</key>
+	<string>szappan</string>
+	<key>🧞‍♂️</key>
+	<string>férfi dzsinn</string>
+	<key>🧽</key>
+	<string>szivacs</string>
+	<key>🎞️</key>
+	<string>filmképkockák</string>
+	<key>🧾</key>
+	<string>nyugta</string>
+	<key>▪️</key>
+	<string>kicsi fekete négyzet</string>
+	<key>🧿</key>
+	<string>nazar amulett</string>
+	<key>☂️</key>
+	<string>esernyő</string>
+	<key>🗂️</key>
+	<string>kartotékelválasztók</string>
+	<key>🦹‍♂️</key>
+	<string>férfi szupergonosz</string>
+	<key>🏋️</key>
+	<string>súlyemelő</string>
+	<key>◻️</key>
+	<string>közepes, fehér négyzet</string>
+	<key>♓️</key>
+	<string>Halak</string>
+	<key>⚫️</key>
+	<string>fekete kör</string>
+	<key>⏩</key>
+	<string>előretekerés jele</string>
+	<key>⏪</key>
+	<string>visszatekerés jele</string>
+	<key>⏫</key>
+	<string>felfelé mutató dupla háromszög</string>
+	<key>⏬</key>
+	<string>lefelé mutató dupla háromszög</string>
+	<key>🗯️</key>
+	<string>mérges beszédbuborék</string>
+	<key>⏰</key>
+	<string>ébresztőóra</string>
+	<key>⏳</key>
+	<string>homokóra pergő homokkal</string>
+	<key>🧑‍🎓</key>
+	<string>tanuló</string>
+	<key>🧑‍🚒</key>
+	<string>tűzoltó</string>
+	<key>♌️</key>
+	<string>Oroszlán</string>
+	<key>🗄️</key>
+	<string>iratszekrény</string>
+	<key>🧍‍♂️</key>
+	<string>álló férfi</string>
+	<key>🏍️</key>
+	<string>motorkerékpár</string>
+	<key>🙋‍♂️</key>
+	<string>egyik kezét felemelő férfi</string>
+	<key>👨‍👩‍👧</key>
+	<string>család anyával, apával és lánnyal</string>
+	<key>🇸🇦</key>
+	<string>Szaúd-Arábia zászlója</string>
+	<key>⛵️</key>
+	<string>vitorláshajó</string>
+	<key>👩‍🏫</key>
+	<string>női tanár</string>
+	<key>⬜️</key>
+	<string>nagy, fehér négyzet</string>
+	<key>🇸🇧</key>
+	<string>a Salamon-szigetek zászlója</string>
+	<key>🇬🇦</key>
+	<string>Gabon zászlója</string>
+	<key>🇨🇦</key>
+	<string>Kanada zászlója</string>
+	<key>🇸🇨</key>
+	<string>a Seychelle-szigetek zászlója</string>
+	<key>🇬🇧</key>
+	<string>az Egyesült Királyság zászlója</string>
+	<key>👨‍🎓</key>
+	<string>férfi tanuló</string>
+	<key>👨‍🚒</key>
+	<string>férfi tűzoltó</string>
+	<key>⚖️</key>
+	<string>mérleg</string>
+	<key>🇸🇩</key>
+	<string>Szudán zászlója</string>
+	<key>🇨🇨</key>
+	<string>a Kókusz (Keeling)-szigetek zászlója</string>
+	<key>⏏️</key>
+	<string>kiadás jele</string>
+	<key>🇸🇪</key>
+	<string>Svédország zászlója</string>
+	<key>🇬🇩</key>
+	<string>Grenada zászlója</string>
+	<key>👩‍🏭</key>
+	<string>női gyári munkás</string>
+	<key>🇼🇫</key>
+	<string>Wallis és Futuna zászlója</string>
+	<key>🇨🇩</key>
+	<string>a Kongói Demokratikus Köztársaság zászlója</string>
+	<key>🇰🇪</key>
+	<string>Kenya zászlója</string>
+	<key>🛎️</key>
+	<string>személyzethívó csengő</string>
+	<key>🇬🇪</key>
+	<string>Grúzia zászlója</string>
+	<key>👩‍👩‍👧‍👦</key>
+	<string>család két anyával, fiúval és lánnyal</string>
+	<key>🇸🇬</key>
+	<string>Szingapúr zászlója</string>
+	<key>🇬🇫</key>
+	<string>Francia Guyana zászlója</string>
+	<key>🇨🇫</key>
+	<string>a Közép-afrikai Köztársaság zászlója</string>
+	<key>🇰🇬</key>
+	<string>Kirgizisztán zászlója</string>
+	<key>🗳️</key>
+	<string>szavazatgyűjtő doboz szavazattal</string>
+	<key>🇸🇭</key>
+	<string>Szent Ilona zászlója</string>
+	<key>🇬🇬</key>
+	<string>Guernsey zászlója</string>
+	<key>🧑‍⚕️</key>
+	<string>egészségügyi dolgozó</string>
+	<key>🏃‍♀️</key>
+	<string>női futó</string>
+	<key>🇨🇬</key>
+	<string>a Kongói Köztársaság zászlója</string>
+	<key>🇰🇭</key>
+	<string>Kambodzsa zászlója</string>
+	<key>🤹‍♂️</key>
+	<string>zsonglőrködő férfi</string>
+	<key>🇸🇮</key>
+	<string>Szlovénia zászlója</string>
+	<key>🇬🇭</key>
+	<string>Ghána zászlója</string>
+	<key>〽️</key>
+	<string>részváltó jel</string>
+	<key>🇨🇭</key>
+	<string>Svájc zászlója</string>
+	<key>🇰🇮</key>
+	<string>Kiribati zászlója</string>
+	<key>🇸🇯</key>
+	<string>Spitzbergák és Jan Mayen-sziget zászlója</string>
+	<key>🕰️</key>
+	<string>kandallóra helyezhető óra</string>
+	<key>8️⃣</key>
+	<string>nyolcas billentyű</string>
+	<key>🇬🇮</key>
+	<string>Gibraltár zászlója</string>
+	<key>🤾‍♀️</key>
+	<string>kézilabdázó nő</string>
+	<key>🇨🇮</key>
+	<string>Côte d’Ivoire zászlója</string>
+	<key>⬇️</key>
+	<string>lefelé nyíl</string>
+	<key>👩‍✈️</key>
+	<string>női pilóta</string>
+	<key>👩‍👧‍👦</key>
+	<string>család anyával, fiúval és lánnyal</string>
+	<key>🇸🇰</key>
+	<string>Szlovákia zászlója</string>
+	<key>🌡️</key>
+	<string>hőmérő</string>
+	<key>↪️</key>
+	<string>balról jobbra kanyarodó nyíl</string>
+	<key>🇸🇱</key>
+	<string>Sierra Leone zászlója</string>
+	<key>👨‍❤️‍💋‍👨</key>
+	<string>két csókolózó férfi</string>
+	<key>🇨🇰</key>
+	<string>a Cook-szigetek zászlója</string>
+	<key>🇸🇲</key>
+	<string>San Marino zászlója</string>
+	<key>🇬🇱</key>
+	<string>Grönland zászlója</string>
+	<key>🇴🇲</key>
+	<string>Omán zászlója</string>
+	<key>🇨🇱</key>
+	<string>Chile zászlója</string>
+	<key>🇰🇲</key>
+	<string>a Comore-szigetek zászlója</string>
+	<key>🇸🇳</key>
+	<string>Szenegál zászlója</string>
+	<key>🇬🇲</key>
+	<string>Gambia zászlója</string>
+	<key>1️⃣</key>
+	<string>egyes billentyű</string>
+	<key>Ⓜ️</key>
+	<string>körbe zárt M</string>
+	<key>🇨🇲</key>
+	<string>Kamerun zászlója</string>
+	<key>👨‍⚕️</key>
+	<string>férfi egészségügyi dolgozó</string>
+	<key>🙎‍♂️</key>
+	<string>duzzogó férfi</string>
+	<key>🇰🇳</key>
+	<string>Saint Kitts és Nevis zászlója</string>
+	<key>🇸🇴</key>
+	<string>Szomália zászlója</string>
+	<key>🇬🇳</key>
+	<string>Guinea zászlója</string>
+	<key>🇨🇳</key>
+	<string>Kína zászlója</string>
+	<key>☢️</key>
+	<string>radioaktív</string>
+	<key>🇨🇴</key>
+	<string>Kolumbia zászlója</string>
+	<key>‼️</key>
+	<string>piros dupla felkiáltójel</string>
+	<key>🃏</key>
+	<string>dzsóker</string>
+	<key>🇰🇵</key>
+	<string>Észak-Korea zászlója</string>
+	<key>🇬🇵</key>
+	<string>Guadeloupe zászlója</string>
+	<key>㊗️</key>
+	<string>japán írásjel, jelentése: „gratuláció”</string>
+	<key>🐿️</key>
+	<string>mókus</string>
+	<key>🇨🇵</key>
+	<string>Clipperton-sziget zászlója</string>
+	<key>🇸🇷</key>
+	<string>Suriname zászlója</string>
+	<key>🏳️‍⚧️</key>
+	<string>transznemű zászló</string>
+	<key>🇬🇶</key>
+	<string>Egyenlítői-Guinea zászlója</string>
+	<key>🇼🇸</key>
+	<string>Szamoa zászlója</string>
+	<key>*️⃣</key>
+	<string>csillagbillentyű</string>
+	<key>🇰🇷</key>
+	<string>Dél-Korea zászlója</string>
+	<key>🇸🇸</key>
+	<string>Dél-Szudán zászlója</string>
+	<key>🇬🇷</key>
+	<string>Görögország zászlója</string>
+	<key>🇨🇷</key>
+	<string>Costa Rica zászlója</string>
+	<key>®️</key>
+	<string>bejegyzett jel</string>
+	<key>🇸🇹</key>
+	<string>São Tomé és Príncipe zászlója</string>
+	<key>🇬🇸</key>
+	<string>Déli-Georgia és a Déli-Sandwich-szigetek zászlója</string>
+	<key>↕️</key>
+	<string>felfelé és lefelé mutató nyíl</string>
+	<key>🇬🇹</key>
+	<string>Guatemala zászlója</string>
+	<key>☔️</key>
+	<string>esernyő esőcseppekkel</string>
+	<key>🏳️‍🌈</key>
+	<string>szivárványszínű zászló</string>
+	<key>🇸🇻</key>
+	<string>El Salvador zászlója</string>
+	<key>🕴️</key>
+	<string>lebegő öltönyös férfi</string>
+	<key>⛄️</key>
+	<string>hóember</string>
+	<key>🇬🇺</key>
+	<string>Guam zászlója</string>
+	<key>🇨🇺</key>
+	<string>Kuba zászlója</string>
+	<key>#️⃣</key>
+	<string>számjel</string>
+	<key>🤼‍♂️</key>
+	<string>birkózó férfiak</string>
+	<key>🌥️</key>
+	<string>nap nagy felhő mögött</string>
+	<key>👁️</key>
+	<string>szem</string>
+	<key>🇨🇻</key>
+	<string>Zöld-foki-szigetek zászlója</string>
+	<key>🍽️</key>
+	<string>villa és kés tányérral</string>
+	<key>🇰🇼</key>
+	<string>Kuvait zászlója</string>
+	<key>🇸🇽</key>
+	<string>Sint Maarten zászlója</string>
+	<key>🇬🇼</key>
+	<string>Bissau-Guinea zászlója</string>
+	<key>🏕️</key>
+	<string>kempingezés</string>
+	<key>🩰</key>
+	<string>balettcipő</string>
+	<key>🇨🇼</key>
+	<string>Curaçao zászlója</string>
+	<key>🩱</key>
+	<string>egyrészes úszódressz</string>
+	<key>🇸🇾</key>
+	<string>Szíria zászlója</string>
+	<key>♥️</key>
+	<string>kőr</string>
+	<key>🩲</key>
+	<string>alsónadrág</string>
+	<key>🕉️</key>
+	<string>om jele</string>
+	<key>⚽️</key>
+	<string>futball-labda</string>
+	<key>🩳</key>
+	<string>rövidnadrág</string>
+	<key>🇨🇽</key>
+	<string>a Karácsony-sziget zászlója</string>
+	<key>🩴</key>
+	<string>szandál</string>
+	<key>🇰🇾</key>
+	<string>a Kajmán-szigetek zászlója</string>
+	<key>🇸🇿</key>
+	<string>Szváziföld zászlója</string>
+	<key>🩵</key>
+	<string>világoskék szív</string>
+	<key>👩‍👧‍👧</key>
+	<string>család anyával és két lánnyal</string>
+	<key>🇬🇾</key>
+	<string>Guyana zászlója</string>
+	<key>🩶</key>
+	<string>szürke szív</string>
+	<key>🩷</key>
+	<string>rózsaszín szív</string>
+	<key>🇨🇾</key>
+	<string>Ciprus zászlója</string>
+	<key>🇰🇿</key>
+	<string>Kazahsztán zászlója</string>
+	<key>🩸</key>
+	<string>vércsepp</string>
+	<key>🩹</key>
+	<string>ragtapasz</string>
+	<key>🩺</key>
+	<string>sztetoszkóp</string>
+	<key>🇨🇿</key>
+	<string>Csehország zászlója</string>
+	<key>🩻</key>
+	<string>röntgen</string>
+	<key>🩼</key>
+	<string>mankó</string>
+	<key>🕶️</key>
+	<string>napszemüveg</string>
+	<key>🧘‍♀️</key>
+	<string>nő lótuszülésben</string>
+	<key>⏯️</key>
+	<string>lejátszás/szüneteltetés jele</string>
+	<key>🪀</key>
+	<string>jojó</string>
+	<key>🌧️</key>
+	<string>felhő esővel</string>
+	<key>🪁</key>
+	<string>papírsárkány</string>
+	<key>🪂</key>
+	<string>ejtőernyő</string>
+	<key>🧑‍🎤</key>
+	<string>énekes</string>
+	<key>🪃</key>
+	<string>bumeráng</string>
+	<key>🪄</key>
+	<string>varázspálca</string>
+	<key>🏗️</key>
+	<string>építkezés</string>
+	<key>🪅</key>
+	<string>piñata</string>
+	<key>🪆</key>
+	<string>egymásba helyezhető babák</string>
+	<key>🚴‍♀️</key>
+	<string>női biciklis</string>
+	<key>🪇</key>
+	<string>rumbatök</string>
+	<key>🐀</key>
+	<string>patkány</string>
+	<key>🪈</key>
+	<string>fuvola</string>
+	<key>🐁</key>
+	<string>egér</string>
+	<key>🐂</key>
+	<string>ökör</string>
+	<key>🐃</key>
+	<string>vízi bivaly</string>
+	<key>🐄</key>
+	<string>tehén</string>
+	<key>🅱️</key>
+	<string>B-s vércsoport</string>
+	<key>🐅</key>
+	<string>tigris</string>
+	<key>🐆</key>
+	<string>leopárd</string>
+	<key>🐇</key>
+	<string>nyúl</string>
+	<key>🐈</key>
+	<string>macska</string>
+	<key>🪐</key>
+	<string>bolygó</string>
+	<key>♐️</key>
+	<string>Nyilas</string>
+	<key>🐉</key>
+	<string>sárkány</string>
+	<key>🪑</key>
+	<string>szék</string>
+	<key>🕸️</key>
+	<string>pókháló</string>
+	<key>🐊</key>
+	<string>krokodil</string>
+	<key>🪒</key>
+	<string>borotva</string>
+	<key>👩‍🍳</key>
+	<string>női szakács</string>
+	<key>🐋</key>
+	<string>bálna</string>
+	<key>👯‍♀️</key>
+	<string>nyuszifüleket viselő táncoló nők</string>
+	<key>🪓</key>
+	<string>fejsze</string>
+	<key>🐌</key>
+	<string>csiga</string>
+	<key>🪔</key>
+	<string>diya mécses</string>
+	<key>🐍</key>
+	<string>kígyó</string>
+	<key>🪕</key>
+	<string>bendzsó</string>
+	<key>🏄‍♂️</key>
+	<string>férfi szörfös</string>
+	<key>🌩️</key>
+	<string>felhő villámmal</string>
+	<key>🐎</key>
+	<string>ló</string>
+	<key>🪖</key>
+	<string>katonai sisak</string>
+	<key>🐏</key>
+	<string>kos</string>
+	<key>🪗</key>
+	<string>harmonika</string>
+	<key>🐐</key>
+	<string>kecske</string>
+	<key>🪘</key>
+	<string>állódob</string>
+	<key>👨‍🎤</key>
+	<string>férfi énekes</string>
+	<key>🏙️</key>
+	<string>városkép</string>
+	<key>🐑</key>
+	<string>bárány</string>
+	<key>🪙</key>
+	<string>pénzérme</string>
+	<key>🐒</key>
+	<string>majom</string>
+	<key>🪚</key>
+	<string>fűrész</string>
+	<key>♉️</key>
+	<string>Bika</string>
+	<key>🐓</key>
+	<string>kakas</string>
+	<key>🪛</key>
+	<string>csavarhúzó</string>
+	<key>⚡️</key>
+	<string>villám</string>
+	<key>🐔</key>
+	<string>csirke</string>
+	<key>🪜</key>
+	<string>létra</string>
+	<key>⛹️</key>
+	<string>kosárlabda-játékos</string>
+	<key>🖥️</key>
+	<string>asztali számítógép</string>
+	<key>🐕</key>
+	<string>kutya</string>
+	<key>🪝</key>
+	<string>kampó</string>
+	<key>🧑‍🎨</key>
+	<string>művész</string>
+	<key>🐖</key>
+	<string>malac</string>
+	<key>🪞</key>
+	<string>tükör</string>
+	<key>🐗</key>
+	<string>vaddisznó</string>
+	<key>🪟</key>
+	<string>ablak</string>
+	<key>🐘</key>
+	<string>elefánt</string>
+	<key>🙅‍♀️</key>
+	<string>nemet mutató nő</string>
+	<key>🪠</key>
+	<string>pumpa</string>
+	<key>🐙</key>
+	<string>polip</string>
+	<key>🪡</key>
+	<string>varrótű</string>
+	<key>🐚</key>
+	<string>kagylóhéj</string>
+	<key>🪢</key>
+	<string>csomó</string>
+	<key>🚣‍♀️</key>
+	<string>csónakban evező nő</string>
+	<key>🐛</key>
+	<string>bogár</string>
+	<key>🪣</key>
+	<string>vödör</string>
+	<key>🐜</key>
+	<string>hangya</string>
+	<key>🪤</key>
+	<string>egérfogó</string>
+	<key>🐝</key>
+	<string>méh</string>
+	<key>🪥</key>
+	<string>fogkefe</string>
+	<key>🐞</key>
+	<string>katicabogár</string>
+	<key>🪦</key>
+	<string>sírkő</string>
+	<key>⛲️</key>
+	<string>szökőkút</string>
+	<key>🐟</key>
+	<string>hal</string>
+	<key>🪧</key>
+	<string>jel</string>
+	<key>🐠</key>
+	<string>trópusi hal</string>
+	<key>🗒️</key>
+	<string>spirálfűzésű jegyzettömb</string>
+	<key>🪨</key>
+	<string>szikla</string>
+	<key>🐡</key>
+	<string>gömbhal</string>
+	<key>🪩</key>
+	<string>diszkógömb</string>
+	<key>🧖‍♂️</key>
+	<string>szaunában lévő férfi</string>
+	<key>🌫️</key>
+	<string>köd</string>
+	<key>🐢</key>
+	<string>teknős</string>
+	<key>🪪</key>
+	<string>személyazonosító igazolvány</string>
+	<key>🐣</key>
+	<string>kikelő csibe</string>
+	<key>🪫</key>
+	<string>alacsony töltöttség</string>
+	<key>🐤</key>
+	<string>csibe</string>
+	<key>🪬</key>
+	<string>hamsza</string>
+	<key>🐥</key>
+	<string>naposcsibe</string>
+	<key>😶‍🌫️</key>
+	<string>arc a felhők között</string>
+	<key>🏛️</key>
+	<string>klasszikus épület</string>
+	<key>🪭</key>
+	<string>összecsukható kézi legyező</string>
+	<key>🐦</key>
+	<string>madár</string>
+	<key>🧛‍♀️</key>
+	<string>női vámpír</string>
+	<key>🪮</key>
+	<string>afrofésű</string>
+	<key>🐧</key>
+	<string>pingvin</string>
+	<key>🪯</key>
+	<string>khanda szimbólum</string>
+	<key>🐨</key>
+	<string>kolalafej</string>
+	<key>⚓️</key>
+	<string>horgony</string>
+	<key>🪰</key>
+	<string>légy</string>
+	<key>🐩</key>
+	<string>uszkár</string>
+	<key>🪱</key>
+	<string>kukac</string>
+	<key>🐪</key>
+	<string>teve</string>
+	<key>🪲</key>
+	<string>bogár</string>
+	<key>👨‍🎨</key>
+	<string>férfi művész</string>
+	<key>🐫</key>
+	<string>kétpúpú teve</string>
+	<key>🪳</key>
+	<string>csótány</string>
+	<key>🐬</key>
+	<string>delfin</string>
+	<key>🪴</key>
+	<string>cserepes növény</string>
+	<key>🐭</key>
+	<string>egérfej</string>
+	<key>🪵</key>
+	<string>fa</string>
+	<key>🐮</key>
+	<string>tehénfej</string>
+	<key>🪶</key>
+	<string>toll</string>
+	<key>🐯</key>
+	<string>tigrisfej</string>
+	<key>🪷</key>
+	<string>lótusz</string>
+	<key>🐕‍🦺</key>
+	<string>segítőkutya</string>
+	<key>🐰</key>
+	<string>nyúlfej</string>
+	<key>🪸</key>
+	<string>korall</string>
+	<key>🐱</key>
+	<string>macskafej</string>
+	<key>🪹</key>
+	<string>üres fészek</string>
+	<key>🐲</key>
+	<string>sárkányfej</string>
+	<key>🪺</key>
+	<string>fészek tojásokkal</string>
+	<key>🐳</key>
+	<string>fröcskölő bálna</string>
+	<key>🪻</key>
+	<string>jácint</string>
+	<key>🐴</key>
+	<string>lófej</string>
+	<key>🪼</key>
+	<string>medúza</string>
+	<key>🐵</key>
+	<string>majomarc</string>
+	<key>🪽</key>
+	<string>szárny</string>
+	<key>🐶</key>
+	<string>kutyafej</string>
+	<key>🐷</key>
+	<string>disznófej</string>
+	<key>🪿</key>
+	<string>liba</string>
+	<key>🐸</key>
+	<string>békafej</string>
+	<key>🫀</key>
+	<string>anatómiai szív</string>
+	<key>🏴󠁧󠁢󠁥󠁮󠁧󠁿</key>
+	<string>Anglia zászlója</string>
+	<key>🐹</key>
+	<string>hörcsögfej</string>
+	<key>🫁</key>
+	<string>tüdő</string>
+	<key>🐺</key>
+	<string>farkas</string>
+	<key>🏝️</key>
+	<string>lakatlan sziget</string>
+	<key>🫂</key>
+	<string>ölelkező emberek</string>
+	<key>🐻</key>
+	<string>medvefej</string>
+	<key>🏌️‍♂️</key>
+	<string>férfi golfozó</string>
+	<key>🫃</key>
+	<string>terhes férfi</string>
+	<key>🐼</key>
+	<string>pandafej</string>
+	<key>🫄</key>
+	<string>terhes ember</string>
+	<key>6️⃣</key>
+	<string>hatos billentyű</string>
+	<key>🐽</key>
+	<string>disznóorr</string>
+	<key>🫅</key>
+	<string>ember koronával</string>
+	<key>🐾</key>
+	<string>mancsnyomok</string>
+	<key>👀</key>
+	<string>szem</string>
+	<key>👂</key>
+	<string>fül</string>
+	<key>👃</key>
+	<string>orr</string>
+	<key>👄</key>
+	<string>száj</string>
+	<key>👅</key>
+	<string>nyelv</string>
+	<key>☦️</key>
+	<string>Ortodox kereszt</string>
+	<key>👆</key>
+	<string>kézhát felfelé mutató mutatóujjal</string>
+	<key>👩‍🍼</key>
+	<string>csecsemőt etető nő</string>
+	<key>🫎</key>
+	<string>jávorszarvasfej</string>
+	<key>♾️</key>
+	<string>végtelen</string>
+	<key>👇</key>
+	<string>kézhát lefelé mutató mutatóujjal</string>
+	<key>🫏</key>
+	<string>szamár</string>
+	<key>👈</key>
+	<string>kézhát balra mutató mutatóujjal</string>
+	<key>🫐</key>
+	<string>áfonyák</string>
+	<key>👉</key>
+	<string>kézhát jobbra mutató mutatóujjal</string>
+	<key>🫑</key>
+	<string>paprika</string>
+	<key>👊</key>
+	<string>összeszorított ököl</string>
+	<key>🫒</key>
+	<string>olajbogyó</string>
+	<key>⭕️</key>
+	<string>körjel</string>
+	<key>💁‍♂️</key>
+	<string>információs pultnál ülő férfi</string>
+	<key>👋</key>
+	<string>integető kéz</string>
+	<key>🫓</key>
+	<string>kenyérlepény</string>
+	<key>👌</key>
+	<string>OK jelet mutató kéz</string>
+	<key>🫔</key>
+	<string>tamale</string>
+	<key>👍</key>
+	<string>felfelé mutató hüvelykujj</string>
+	<key>🫕</key>
+	<string>fondü</string>
+	<key>👎</key>
+	<string>lefelé mutató hüvelykujj</string>
+	<key>🫖</key>
+	<string>teáskanna</string>
+	<key>🏟️</key>
+	<string>stadion</string>
+	<key>👏</key>
+	<string>tapsoló kezek</string>
+	<key>🫗</key>
+	<string>kiömlő folyadék</string>
+	<key>💆‍♀️</key>
+	<string>fejmasszázst kapó nő</string>
+	<key>👐</key>
+	<string>nyitott kezek</string>
+	<key>🫘</key>
+	<string>babszemek</string>
+	<key>🐦‍⬛</key>
+	<string>fekete madár</string>
+	<key>🧑‍🦯</key>
+	<string>ember fehérbottal</string>
+	<key>🫙</key>
+	<string>befőttesüveg</string>
+	<key>🧙‍♂️</key>
+	<string>férfi mágus</string>
+	<key>👑</key>
+	<string>korona</string>
+	<key>⛏️</key>
+	<string>csákány</string>
+	<key>👒</key>
+	<string>kalap masnival</string>
+	<key>🫚</key>
+	<string>gyömbér</string>
+	<key>👓</key>
+	<string>szemüveg</string>
+	<key>🫛</key>
+	<string>borsóhüvely</string>
+	<key>👔</key>
+	<string>ing és nyakkendő</string>
+	<key>👕</key>
+	<string>pólótrikó</string>
+	<key>👖</key>
+	<string>farmernadrág</string>
+	<key>🧞‍♀️</key>
+	<string>női dzsinn</string>
+	<key>👗</key>
+	<string>ruha</string>
+	<key>↙️</key>
+	<string>lefelé és balra mutató nyíl</string>
+	<key>🧑‍🦰</key>
+	<string>vörös hajú ember</string>
+	<key>🕵️‍♂️</key>
+	<string>férfi detektív</string>
+	<key>👘</key>
+	<string>kimonó</string>
+	<key>🟠</key>
+	<string>narancssárga kör</string>
+	<key>🫠</key>
+	<string>olvadó arc</string>
+	<key>🟡</key>
+	<string>sárga kör</string>
+	<key>👩‍❤️‍👨</key>
+	<string>férfi és nő szívvel</string>
+	<key>👙</key>
+	<string>bikini</string>
+	<key>◀️</key>
+	<string>balra mutató háromszög</string>
+	<key>🫡</key>
+	<string>tisztelgő arc</string>
+	<key>🟢</key>
+	<string>zöld kör</string>
+	<key>👚</key>
+	<string>blúz</string>
+	<key>☘️</key>
+	<string>lóhere</string>
+	<key>🫢</key>
+	<string>nyitott szemű arc kézzel a szája előtt</string>
+	<key>🚵‍♂️</key>
+	<string>férfi hegyikerékpáros</string>
+	<key>🟣</key>
+	<string>lila kör</string>
+	<key>👛</key>
+	<string>retikül</string>
+	<key>🫣</key>
+	<string>kukucskáló szemű arc</string>
+	<key>🟤</key>
+	<string>barna kör</string>
+	<key>👜</key>
+	<string>kézitáska</string>
+	<key>⛈️</key>
+	<string>felhő villámmal és esővel</string>
+	<key>🫤</key>
+	<string>arc ferde szájjal</string>
+	<key>🟥</key>
+	<string>piros négyzet</string>
+	<key>👝</key>
+	<string>erszény</string>
+	<key>🫥</key>
+	<string>arc szaggatott körvonallal</string>
+	<key>🟦</key>
+	<string>kék négyzet</string>
+	<key>👞</key>
+	<string>elegáns cipő</string>
+	<key>🧑‍🦱</key>
+	<string>göndör hajú ember</string>
+	<key>🫦</key>
+	<string>ajkát harapdáló száj</string>
+	<key>🟧</key>
+	<string>narancssárga négyzet</string>
+	<key>🦹‍♀️</key>
+	<string>női szupergonosz</string>
+	<key>👟</key>
+	<string>teniszcipő</string>
+	<key>🫧</key>
+	<string>buborékok</string>
+	<key>🟨</key>
+	<string>sárga négyzet</string>
+	<key>❤️‍🔥</key>
+	<string>lángoló szív</string>
+	<key>👠</key>
+	<string>magas sarkú cipő</string>
+	<key>🟩</key>
+	<string>zöld négyzet</string>
+	<key>🫨</key>
+	<string>rázkódó arc</string>
+	<key>👡</key>
+	<string>magas sarkú szandál</string>
+	<key>🟪</key>
+	<string>lila négyzet</string>
+	<key>👢</key>
+	<string>magas sarkú csizmák</string>
+	<key>🟫</key>
+	<string>barna négyzet</string>
+	<key>👣</key>
+	<string>lábnyomok</string>
+	<key>🛠️</key>
+	<string>kalapács és fogó</string>
+	<key>📽️</key>
+	<string>filmvetítő</string>
+	<key>👤</key>
+	<string>ember körvonala</string>
+	<key>☑️</key>
+	<string>kipipált négyzet</string>
+	<key>🧑‍🦲</key>
+	<string>haj nélküli ember</string>
+	<key>👥</key>
+	<string>két ember körvonala</string>
+	<key>👦</key>
+	<string>fiú</string>
+	<key>👨‍🦯</key>
+	<string>férfi fehérbottal</string>
+	<key>👧</key>
+	<string>lány</string>
+	<key>👰‍♂️</key>
+	<string>férfi fátyollal</string>
+	<key>👩‍🚀</key>
+	<string>női űrhajós</string>
+	<key>🟰</key>
+	<string>egyenlőségjel</string>
+	<key>🏴‍☠️</key>
+	<string>kalózzászló</string>
+	<key>👨</key>
+	<string>férfi</string>
+	<key>🫰</key>
+	<string>kéz keresztbe tett hüvelyk- és mutatóujjal</string>
+	<key>⏺️</key>
+	<string>felvétel jele</string>
+	<key>👩</key>
+	<string>nő</string>
+	<key>🫱</key>
+	<string>jobbra fordított kéz</string>
+	<key>👪</key>
+	<string>család</string>
+	<key>🫲</key>
+	<string>balra fordított kéz</string>
+	<key>👫</key>
+	<string>egymás kezét fogó férfi és nő</string>
+	<key>🫳</key>
+	<string>kéz lefelé fordított tenyérrel</string>
+	<key>🧑‍🦳</key>
+	<string>ősz hajú ember</string>
+	<key>👬</key>
+	<string>egymás kezét fogó két férfi</string>
+	<key>🫴</key>
+	<string>kéz felfelé fordított tenyérrel</string>
+	<key>👭</key>
+	<string>két egymás kezét fogó nő</string>
+	<key>👨‍🦰</key>
+	<string>férfi vörös hajjal</string>
+	<key>🫵</key>
+	<string>megtekintőre irányuló mutatóujj</string>
+	<key>👮</key>
+	<string>rendőrtiszt</string>
+	<key>🏊‍♂️</key>
+	<string>férfi úszó</string>
+	<key>🫶</key>
+	<string>szívet formáló kezek</string>
+	<key>👯</key>
+	<string>nyuszifüleket viselő táncoló emberek</string>
+	<key>🫷</key>
+	<string>balra toló kéz</string>
+	<key>👰</key>
+	<string>ember fátyollal</string>
+	<key>🫸</key>
+	<string>jobbra toló kéz</string>
+	<key>👱</key>
+	<string>szőke hajú ember</string>
+	<key>✒️</key>
+	<string>töltőtoll</string>
+	<key>👲</key>
+	<string>férfi kínai kalappal</string>
+	<key>🧍‍♀️</key>
+	<string>álló nő</string>
+	<key>👳</key>
+	<string>ember turbánban</string>
+	<key>👨‍🦱</key>
+	<string>férfi göndör hajjal</string>
+	<key>👴</key>
+	<string>idős férfi</string>
+	<key>🙆‍♂️</key>
+	<string>OK jelet mutató férfi</string>
+	<key>👵</key>
+	<string>idős nő</string>
+	<key>👨‍👩‍👧‍👦</key>
+	<string>család anyával, apával, fiúval és lánnyal</string>
+	<key>👶</key>
+	<string>csecsemő</string>
+	<key>👷</key>
+	<string>építőmunkás</string>
+	<key>▫️</key>
+	<string>kicsi, fehér négyzet</string>
+	<key>👸</key>
+	<string>hercegnő</string>
+	<key>🛢️</key>
+	<string>olajoshordó</string>
+	<key>☃️</key>
+	<string>hóember hópelyhekkel</string>
+	<key>👹</key>
+	<string>japán óriás</string>
+	<key>🙋‍♀️</key>
+	<string>egyik kezét felemelő nő</string>
+	<key>👺</key>
+	<string>kobold</string>
+	<key>👨‍🦲</key>
+	<string>férfi haj nélkül</string>
+	<key>🇹🇦</key>
+	<string>Tristan da Cunha zászlója</string>
+	<key>👻</key>
+	<string>szellem</string>
+	<key>🇵🇦</key>
+	<string>Panama zászlója</string>
+	<key>👼</key>
+	<string>baba angyal</string>
+	<key>❣️</key>
+	<string>piros szív felkiáltójelként</string>
+	<key>👽</key>
+	<string>földönkívüli</string>
+	<key>🇱🇦</key>
+	<string>Laosz zászlója</string>
+	<key>👾</key>
+	<string>földönkívüli szörny</string>
+	<key>👿</key>
+	<string>mérges arc szarvakkal</string>
+	<key>💀</key>
+	<string>koponya</string>
+	<key>🇱🇧</key>
+	<string>Libanon zászlója</string>
+	<key>👨‍🦳</key>
+	<string>fehér hajú férfi</string>
+	<key>💁</key>
+	<string>információs pultnál ülő ember</string>
+	<key>🇹🇨</key>
+	<string>a Turks- és Caicos-szigetek zászlója</string>
+	<key>🧜‍♂️</key>
+	<string>hablegény</string>
+	<key>💂</key>
+	<string>őr</string>
+	<key>💃</key>
+	<string>táncoló nő</string>
+	<key>◼️</key>
+	<string>közepes fekete négyzet</string>
+	<key>🇱🇨</key>
+	<string>Saint Lucia zászlója</string>
+	<key>💄</key>
+	<string>rúzs</string>
+	<key>🇹🇩</key>
+	<string>Csád zászlója</string>
+	<key>💅</key>
+	<string>körömlakk</string>
+	<key>💆</key>
+	<string>fejmasszázst kapó ember</string>
+	<key>💇</key>
+	<string>ember, akinek a haját vágják</string>
+	<key>🗜️</key>
+	<string>szorító</string>
+	<key>💈</key>
+	<string>borbélytábla</string>
+	<key>💉</key>
+	<string>fecskendő</string>
+	<key>🇵🇪</key>
+	<string>Peru zászlója</string>
+	<key>💊</key>
+	<string>tabletta</string>
+	<key>💋</key>
+	<string>csókjel</string>
+	<key>🇹🇫</key>
+	<string>Francia Déli Területek zászlója</string>
+	<key>💌</key>
+	<string>szerelmes levél</string>
+	<key>👩‍❤️‍👩</key>
+	<string>két nő szívvel</string>
+	<key>🇵🇫</key>
+	<string>Francia-Polinézia zászlója</string>
+	<key>🛤️</key>
+	<string>vasúti sín</string>
+	<key>💍</key>
+	<string>gyűrű</string>
+	<key>🆎</key>
+	<string>AB-s vércsoport</string>
+	<key>🇩🇪</key>
+	<string>Németország zászlója</string>
+	<key>🈂️</key>
+	<string>japán írásjel, jelentése: „szervizdíj”</string>
+	<key>💎</key>
+	<string>drágakő</string>
+	<key>♍️</key>
+	<string>Szűz</string>
+	<key>🇹🇬</key>
+	<string>Togo zászlója</string>
+	<key>👩‍❤️‍💋‍👩</key>
+	<string>két csókolózó nő</string>
+	<key>💏</key>
+	<string>csókolózó pár</string>
+	<key>🧑‍🤝‍🧑</key>
+	<string>egymás kezét fogó emberek</string>
+	<key>💐</key>
+	<string>csokor</string>
+	<key>⛽️</key>
+	<string>üzemanyagtöltő pumpa</string>
+	<key>🇵🇬</key>
+	<string>Pápua Új-Guinea zászlója</string>
+	<key>🖱️</key>
+	<string>számítógépegér</string>
+	<key>🆑</key>
+	<string>CL-jel</string>
+	<key>💑</key>
+	<string>pár szívvel</string>
+	<key>🆒</key>
+	<string>„cool” jel</string>
+	<key>🇹🇭</key>
+	<string>Thaiföld zászlója</string>
+	<key>💒</key>
+	<string>esküvő</string>
+	<key>🆓</key>
+	<string>„free” jel</string>
+	<key>💓</key>
+	<string>dobogó szív</string>
+	<key>🆔</key>
+	<string>azonosítójel</string>
+	<key>🇵🇭</key>
+	<string>a Fülöp-szigetek zászlója</string>
+	<key>👩‍⚖️</key>
+	<string>női bíró</string>
+	<key>💔</key>
+	<string>összetört szív</string>
+	<key>🇩🇬</key>
+	<string>Diego Garcia zászlója</string>
+	<key>🆕</key>
+	<string>„new” jel</string>
+	<key>🅿️</key>
+	<string>parkolójel</string>
+	<key>💕</key>
+	<string>két szív</string>
+	<key>🤹‍♀️</key>
+	<string>zsonglőrködő nő</string>
+	<key>🆖</key>
+	<string>„no good” jel</string>
+	<key>💖</key>
+	<string>csillogó szív</string>
+	<key>🆗</key>
+	<string>OK jel</string>
+	<key>💗</key>
+	<string>növekvő szív</string>
+	<key>👳‍♂️</key>
+	<string>turbános férfi</string>
+	<key>🆘</key>
+	<string>SOS-jel</string>
+	<key>💘</key>
+	<string>szív nyíllal</string>
+	<key>🇱🇮</key>
+	<string>Liechtenstein zászlója</string>
+	<key>🆙</key>
+	<string>„up” jel</string>
+	<key>🈯️</key>
+	<string>japán írásjel, jelentése: „foglalt”</string>
+	<key>🇹🇯</key>
+	<string>Tádzsikisztán zászlója</string>
+	<key>💙</key>
+	<string>kék szív</string>
+	<key>👨‍👨‍👦‍👦</key>
+	<string>család két apával és két fiúval</string>
+	<key>🆚</key>
+	<string>bekeretezett vs felirat</string>
+	<key>💚</key>
+	<string>zöld szív</string>
+	<key>🇽🇰</key>
+	<string>Koszovó zászlója</string>
+	<key>💛</key>
+	<string>sárga szív</string>
+	<key>🗞️</key>
+	<string>feltekert újság</string>
+	<key>💜</key>
+	<string>bíbor szív</string>
+	<key>🇹🇰</key>
+	<string>Tokelau zászlója</string>
+	<key>💝</key>
+	<string>szív szalaggal</string>
+	<key>🇵🇰</key>
+	<string>Pakisztán zászlója</string>
+	<key>💞</key>
+	<string>forgó szívek</string>
+	<key>🇩🇯</key>
+	<string>Dzsibuti zászlója</string>
+	<key>💟</key>
+	<string>szív dekoráció</string>
+	<key>🇱🇰</key>
+	<string>Srí Lanka zászlója</string>
+	<key>🇹🇱</key>
+	<string>Kelet-Timor zászlója</string>
+	<key>👩‍🤝‍👨</key>
+	<string>egymás kezét fogó nő és férfi</string>
+	<key>💠</key>
+	<string>rombusz alak a belsejében ponttal</string>
+	<key>🇭🇰</key>
+	<string>Hongkong zászlója</string>
+	<key>💡</key>
+	<string>villanykörte</string>
+	<key>🇵🇱</key>
+	<string>Lengyelország zászlója</string>
+	<key>🇩🇰</key>
+	<string>Dánia zászlója</string>
+	<key>💢</key>
+	<string>harag szimbólum</string>
+	<key>🇹🇲</key>
+	<string>Türkmenisztán zászlója</string>
+	<key>💣</key>
+	<string>bomba</string>
+	<key>⚗️</key>
+	<string>lombik</string>
+	<key>💤</key>
+	<string>alvásjel</string>
+	<key>🇵🇲</key>
+	<string>Saint-Pierre és Miquelon zászlója</string>
+	<key>💥</key>
+	<string>robbanás</string>
+	<key>❇️</key>
+	<string>szikra</string>
+	<key>💦</key>
+	<string>vízcseppek</string>
+	<key>🇹🇳</key>
+	<string>Tunézia zászlója</string>
+	<key>🧑‍🦼</key>
+	<string>motoros kerekesszékben ülő ember</string>
+	<key>💧</key>
+	<string>csepp</string>
+	<key>🇭🇲</key>
+	<string>Heard-sziget és McDonald-szigetek zászlója</string>
+	<key>🇵🇳</key>
+	<string>Pitcairn zászlója</string>
+	<key>💨</key>
+	<string>szélroham</string>
+	<key>🇩🇲</key>
+	<string>Dominika zászlója</string>
+	<key>💩</key>
+	<string>kakikupac</string>
+	<key>🙎‍♀️</key>
+	<string>duzzogó nő</string>
+	<key>🇹🇴</key>
+	<string>Tonga zászlója</string>
+	<key>💪</key>
+	<string>megfeszített bicepsz</string>
+	<key>🇭🇳</key>
+	<string>Honduras zászlója</string>
+	<key>👩‍👦</key>
+	<string>család anyával és fiúval</string>
+	<key>💫</key>
+	<string>szédülés jel</string>
+	<key>💇‍♂️</key>
+	<string>férfi, akinek a haját vágják</string>
+	<key>💬</key>
+	<string>szövegbuborék</string>
+	<key>☸️</key>
+	<string>dharmacsakra</string>
+	<key>💭</key>
+	<string>gondolatbuborék</string>
+	<key>🧑‍🦽</key>
+	<string>kézi hajtású kerekesszékben ülő ember</string>
+	<key>💮</key>
+	<string>fehér virág</string>
+	<key>💯</key>
+	<string>százpontos szimbólum</string>
+	<key>🇩🇴</key>
+	<string>a Dominikai Köztársaság zászlója</string>
+	<key>💰</key>
+	<string>pénzeszsák</string>
+	<key>💱</key>
+	<string>pénznemváltás</string>
+	<key>😵‍💫</key>
+	<string>arc spirálszemekkel</string>
+	<key>👩‍👧</key>
+	<string>család anyával és lánnyal</string>
+	<key>🧟‍♂️</key>
+	<string>férfi zombi</string>
+	<key>💲</key>
+	<string>dollárjel</string>
+	<key>💳</key>
+	<string>hitelkártya</string>
+	<key>🇹🇷</key>
+	<string>Törökország zászlója</string>
+	<key>💴</key>
+	<string>jenbankjegyek</string>
+	<key>💵</key>
+	<string>dollárbankjegyek</string>
+	<key>🇵🇷</key>
+	<string>Puerto Rico zászlója</string>
+	<key>💶</key>
+	<string>euróbankjegyek</string>
+	<key>🇱🇷</key>
+	<string>Libéria zászlója</string>
+	<key>💷</key>
+	<string>fontbankjegyek</string>
+	<key>💸</key>
+	<string>szárnyas pénz</string>
+	<key>🇭🇷</key>
+	<string>Horvátország zászlója</string>
+	<key>🇵🇸</key>
+	<string>a Palesztin Területek zászlója</string>
+	<key>💹</key>
+	<string>felfelé ívelő diagram és jen jel</string>
+	<key>💺</key>
+	<string>ülés</string>
+	<key>🇱🇸</key>
+	<string>Lesotho zászlója</string>
+	<key>🇹🇹</key>
+	<string>Trinidad és Tobago zászlója</string>
+	<key>💻</key>
+	<string>laptop</string>
+	<key>💼</key>
+	<string>táska</string>
+	<key>👨‍🦼</key>
+	<string>motoros kerekesszékben ülő férfi</string>
+	<key>🇵🇹</key>
+	<string>Portugália zászlója</string>
+	<key>💽</key>
+	<string>minidisc</string>
+	<key>🇱🇹</key>
+	<string>Litvánia zászlója</string>
+	<key>💾</key>
+	<string>hajlékonylemez</string>
+	<key>🇭🇹</key>
+	<string>Haiti zászlója</string>
+	<key>💿</key>
+	<string>cd</string>
+	<key>📀</key>
+	<string>dvd</string>
+	<key>🤷‍♂️</key>
+	<string>vállat vonó férfi</string>
+	<key>📁</key>
+	<string>zárt mappa</string>
+	<key>🇱🇺</key>
+	<string>Luxemburg zászlója</string>
+	<key>☪️</key>
+	<string>csillag és fogyó hold</string>
+	<key>🇹🇻</key>
+	<string>Tuvalu zászlója</string>
+	<key>📂</key>
+	<string>nyitott mappa</string>
+	<key>4️⃣</key>
+	<string>négyes billentyű</string>
+	<key>🇭🇺</key>
+	<string>Magyarország zászlója</string>
+	<key>👨‍🦽</key>
+	<string>kézi hajtású kerekesszékben ülő férfi</string>
+	<key>📃</key>
+	<string>pöndörödő oldal</string>
+	<key>🖊️</key>
+	<string>golyóstoll</string>
+	<key>📄</key>
+	<string>felfelé néző oldal</string>
+	<key>🇱🇻</key>
+	<string>Lettország zászlója</string>
+	<key>🇹🇼</key>
+	<string>Tajvan zászlója</string>
+	<key>📅</key>
+	<string>naptár</string>
+	<key>🤼‍♀️</key>
+	<string>birkózó nők</string>
+	<key>📆</key>
+	<string>letéphető naptár</string>
+	<key>🇵🇼</key>
+	<string>Palau zászlója</string>
+	<key>📇</key>
+	<string>kartoték</string>
+	<key>📈</key>
+	<string>diagram felfelé ívelő grafikonnal</string>
+	<key>🧑‍🔧</key>
+	<string>szerelő</string>
+	<key>📉</key>
+	<string>lefelé tendáló diagram</string>
+	<key>〰️</key>
+	<string>hullámos vonal</string>
+	<key>📊</key>
+	<string>oszlopdiagram</string>
+	<key>📋</key>
+	<string>vágólap</string>
+	<key>☣️</key>
+	<string>biológiai veszély</string>
+	<key>📌</key>
+	<string>rajzszög</string>
+	<key>♻️</key>
+	<string>újrahasznosítás jele</string>
+	<key>📍</key>
+	<string>kerek rajzszög</string>
+	<key>🇵🇾</key>
+	<string>Paraguay zászlója</string>
+	<key>⛓️</key>
+	<string>lánc</string>
+	<key>📎</key>
+	<string>gemkapocs</string>
+	<key>🧎‍♂️</key>
+	<string>térdelő férfi</string>
+	<key>🇱🇾</key>
+	<string>Líbia zászlója</string>
+	<key>📏</key>
+	<string>egyenes vonalzó</string>
+	<key>🇹🇿</key>
+	<string>Tanzánia zászlója</string>
+	<key>📐</key>
+	<string>háromszög alakú vonalzó</string>
+	<key>📑</key>
+	<string>könyvjelzőlapok</string>
+	<key>📒</key>
+	<string>főkönyv</string>
+	<key>📓</key>
+	<string>kompozíciós jegyzettömb</string>
+	<key>👩‍🤝‍👩</key>
+	<string>egymás kezét fogó nők</string>
+	<key>📔</key>
+	<string>jegyzetfüzet dekoratív borítóval</string>
+	<key>🇩🇿</key>
+	<string>Algéria zászlója</string>
+	<key>📕</key>
+	<string>vörös szövegkönyv</string>
+	<key>📖</key>
+	<string>nyitott könyv</string>
+	<key>📗</key>
+	<string>zöld szövegkönyv</string>
+	<key>🖌️</key>
+	<string>festőecset</string>
+	<key>📘</key>
+	<string>kék szövegkönyv</string>
+	<key>📙</key>
+	<string>narancssárga szövegkönyv</string>
+	<key>👩‍👩‍👦</key>
+	<string>család két anyával és fiúval</string>
+	<key>👨‍👨‍👧‍👧</key>
+	<string>család két apával és két lánnyal</string>
+	<key>📚</key>
+	<string>könyvek</string>
+	<key>📛</key>
+	<string>névtábla</string>
+	<key>📜</key>
+	<string>tekercs</string>
+	<key>📝</key>
+	<string>jegyzet</string>
+	<key>↖️</key>
+	<string>felfelé és balra mutató nyíl</string>
+	<key>🤦‍♂️</key>
+	<string>fejét fogó férfi</string>
+	<key>📞</key>
+	<string>telefonkagyló</string>
+	<key>👩‍🎓</key>
+	<string>női tanuló</string>
+	<key>👩‍🚒</key>
+	<string>női tűzoltó</string>
+	<key>⤴️</key>
+	<string>jobbra mutató, felfelé görbülő nyíl</string>
+	<key>👨‍🔧</key>
+	<string>férfi szerelő</string>
+	<key>📟</key>
+	<string>csipogó</string>
+	<key>☕️</key>
+	<string>forró ital</string>
+	<key>📠</key>
+	<string>fax</string>
+	<key>📡</key>
+	<string>műholdantenna</string>
+	<key>⛅️</key>
+	<string>nap felhő mögött</string>
+	<key>📢</key>
+	<string>hangosbemondó</string>
+	<key>🧑‍🌾</key>
+	<string>gazda</string>
+	<key>✝️</key>
+	<string>Kereszt</string>
+	<key>📣</key>
+	<string>megafon</string>
+	<key>📤</key>
+	<string>kimenő levelek tálcája</string>
+	<key>📥</key>
+	<string>bejövő levelek tálcája</string>
+	<key>📦</key>
+	<string>csomag</string>
+	<key>📧</key>
+	<string>e-mail</string>
+	<key>📨</key>
+	<string>bejövő boríték</string>
+	<key>📩</key>
+	<string>boríték nyíllal</string>
+	<key>▶️</key>
+	<string>jobbra mutató háromszög</string>
+	<key>🧑‍🔬</key>
+	<string>tudós</string>
+	<key>📪</key>
+	<string>csukott postaláda leengedett zászlóval</string>
+	<key>☎️</key>
+	<string>telefon</string>
+	<key>🈷️</key>
+	<string>japán írásjel, jelentése: „havi összeg”</string>
+	<key>♦️</key>
+	<string>káró</string>
+	<key>📫</key>
+	<string>csukott postaláda felemelt zászlóval</string>
+	<key>📬</key>
+	<string>nyitott postaláda felhajtott zászlóval</string>
+	<key>⚾️</key>
+	<string>baseball</string>
+	<key>📭</key>
+	<string>nyitott postaláda leengedett zászlóval</string>
+	<key>✖️</key>
+	<string>szorzásjel</string>
+	<key>📮</key>
+	<string>postaláda</string>
+	<key>📯</key>
+	<string>postakürt</string>
+	<key>🏄‍♀️</key>
+	<string>női szörfös</string>
+	<key>📰</key>
+	<string>újság</string>
+	<key>📱</key>
+	<string>mobiltelefon</string>
+	<key>🎗️</key>
+	<string>emlékszalag</string>
+	<key>📲</key>
+	<string>telefon nyíllal</string>
+	<key>📳</key>
+	<string>rezgő mód</string>
+	<key>📴</key>
+	<string>kikapcsolt mobiltelefon</string>
+	<key>📵</key>
+	<string>a mobiltelefonálás tilos</string>
+	<key>♟️</key>
+	<string>gyalog</string>
+	<key>📶</key>
+	<string>térerőt jelző sávok</string>
+	<key>📷</key>
+	<string>fényképezőgép</string>
+	<key>✏️</key>
+	<string>ceruza</string>
+	<key>📸</key>
+	<string>fényképezőgép vakuval</string>
+	<key>👨‍🌾</key>
+	<string>férfi gazda</string>
+	<key>📹</key>
+	<string>videokamera</string>
+	<key>📺</key>
+	<string>televízió</string>
+	<key>🐻‍❄️</key>
+	<string>jegesmedve</string>
+	<key>📻</key>
+	<string>rádió</string>
+	<key>📼</key>
+	<string>videokazetta</string>
+	<key>☀️</key>
+	<string>nap</string>
+	<key>📿</key>
+	<string>imagyöngy</string>
+	<key>👨‍🔬</key>
+	<string>férfi tudós</string>
+	<key>🔀</key>
+	<string>sávok keverésének jele</string>
+	<key>🈁</key>
+	<string>japán szó, jelentése: „itt”</string>
+	<key>⚰️</key>
+	<string>koporsó</string>
+	<key>🔁</key>
+	<string>ismétlés jele</string>
+	<key>🖐️</key>
+	<string>széttárt ujjú kéz</string>
+	<key>✈️</key>
+	<string>repülőgép</string>
+	<key>🔂</key>
+	<string>egy sáv ismétlésének jele</string>
+	<key>🗨️</key>
+	<string>balra forduló beszédbuborék</string>
+	<key>🔃</key>
+	<string>óramutató járásával megegyező irányú, függőleges nyilak</string>
+	<key>🧖‍♀️</key>
+	<string>szaunában lévő nő</string>
+	<key>🔄</key>
+	<string>óramutató járásával ellentétes irányú nyilak</string>
+	<key>👩‍👩‍👦‍👦</key>
+	<string>család két anyával és két fiúval</string>
+	<key>👩‍⚕️</key>
+	<string>női egészségügyi dolgozó</string>
+	<key>™️</key>
+	<string>védjegyjel</string>
+	<key>🔅</key>
+	<string>alacsony fényerő jele</string>
+	<key>🔆</key>
+	<string>magas fényerő jele</string>
+	<key>🎙️</key>
+	<string>stúdiómikrofon</string>
+	<key>🔇</key>
+	<string>némított hangszóró</string>
+	<key>🔈</key>
+	<string>hangszóró</string>
+	<key>🛰️</key>
+	<string>műhold</string>
+	<key>🔉</key>
+	<string>hangszóró közepes hangerővel</string>
+	<key>♑️</key>
+	<string>Bak</string>
+	<key>🔊</key>
+	<string>hangszóró magas hangerővel</string>
+	<key>🔋</key>
+	<string>akkumulátor</string>
+	<key>🔌</key>
+	<string>elektromos csatlakozó</string>
+	<key>👩‍👩‍👧</key>
+	<string>család két anyával és lánnyal</string>
+	<key>🔍</key>
+	<string>balra mutató nagyító</string>
+	<key>🔎</key>
+	<string>jobbra mutató nagyító</string>
+	<key>🔏</key>
+	<string>lakat töltőtollal</string>
+	<key>🔐</key>
+	<string>zárt lakat kulccsal</string>
+	<key>🔑</key>
+	<string>kulcs</string>
+	<key>🔒</key>
+	<string>zárt lakat</string>
+	<key>🔓</key>
+	<string>nyitott lakat</string>
+	<key>♊️</key>
+	<string>Ikrek</string>
+	<key>🔔</key>
+	<string>csengő</string>
+	<key>🔕</key>
+	<string>némított csengő</string>
+	<key>⛺️</key>
+	<string>sátor</string>
+	<key>🔖</key>
+	<string>könyvjelző</string>
+	<key>🔗</key>
+	<string>láncszem szimbólum</string>
+	<key>🔘</key>
+	<string>rádiógomb</string>
+	<key>🔙</key>
+	<string>back feliratú nyíl</string>
+	<key>🔚</key>
+	<string>end feliratú nyíl</string>
+	<key>🔛</key>
+	<string>on! feliratú nyíl</string>
+	<key>🎛️</key>
+	<string>vezérlőgombok</string>
+	<key>🔜</key>
+	<string>soon feliratú nyíl</string>
+	<key>🏳️</key>
+	<string>fehér zászló</string>
+	<key>🔝</key>
+	<string>top feliratú nyíl</string>
+	<key>🔞</key>
+	<string>18 év alattiaknak tilos</string>
+	<key>🔟</key>
+	<string>tízes billentyű</string>
+	<key>⚛️</key>
+	<string>atomszimbólum</string>
+	<key>🔠</key>
+	<string>nagybetűk beviteli jele</string>
+	<key>⛳️</key>
+	<string>golflyuk zászlóval</string>
+	<key>🔡</key>
+	<string>kisbetűk beviteli jele</string>
+	<key>🤽‍♂️</key>
+	<string>vízilabdázó férfi</string>
+	<key>🔢</key>
+	<string>számok beviteli jele</string>
+	<key>🔣</key>
+	<string>szimbólumok beviteli jele</string>
+	<key>🔤</key>
+	<string>betűk beviteli jele</string>
+	<key>🔥</key>
+	<string>tűz</string>
+	<key>🔦</key>
+	<string>zseblámpa</string>
+	<key>🔧</key>
+	<string>csavarkulcs</string>
+	<key>🔨</key>
+	<string>kalapács</string>
+	<key>🔩</key>
+	<string>csavar és anya</string>
+	<key>⚔️</key>
+	<string>keresztezett kardok</string>
+	<key>🔪</key>
+	<string>kés</string>
+	<key>🔫</key>
+	<string>vízipisztoly</string>
+	<key>❄️</key>
+	<string>hópehely</string>
+	<key>🔬</key>
+	<string>mikroszkóp</string>
+	<key>💁‍♀️</key>
+	<string>információs pultnál ülő nő</string>
+	<key>🔭</key>
+	<string>teleszkóp</string>
+	<key>🔮</key>
+	<string>kristálygömb</string>
+	<key>🧔‍♂️</key>
+	<string>szakállas férfi</string>
+	<key>🔯</key>
+	<string>hatágú csillag közepén ponttal</string>
+	<key>🔰</key>
+	<string>japán „kezdő” jel</string>
+	<key>🔱</key>
+	<string>szigony</string>
+	<key>🈲</key>
+	<string>japán írásjel, jelentése: „tiltott”</string>
+	<key>🏵️</key>
+	<string>rozetta</string>
+	<key>🔲</key>
+	<string>fekete szögletes gomb</string>
+	<key>🈳</key>
+	<string>japán írásjel, jelentése: „kiadó szoba”</string>
+	<key>🔳</key>
+	<string>szögletes fehér gomb</string>
+	<key>🈴</key>
+	<string>japán írásjel, jelentése: „átment (osztályzat)”</string>
+	<key>🧙‍♀️</key>
+	<string>női mágus</string>
+	<key>🔴</key>
+	<string>piros kör</string>
+	<key>🈵</key>
+	<string>japán írásjel, jelentése: „megtelt, nincs kiadó szoba”</string>
+	<key>🔵</key>
+	<string>kék kör</string>
+	<key>🈶</key>
+	<string>japán írásjel, jelentése: „nem ingyenes”</string>
+	<key>🔶</key>
+	<string>nagy narancssárga rombusz</string>
+	<key>🔷</key>
+	<string>nagy kék rombusz</string>
+	<key>🈸</key>
+	<string>japán írásjel, jelentése: „űrlap”</string>
+	<key>🔸</key>
+	<string>kis narancssárga rombusz</string>
+	<key>🈹</key>
+	<string>japán írásjel, jelentése: „árleszállítás”</string>
+	<key>🔹</key>
+	<string>kis kék rombusz</string>
+	<key>9️⃣</key>
+	<string>kilences billentyű</string>
+	<key>🈺</key>
+	<string>japán írásjel, jelentése: „az üzlet nyitva”</string>
+	<key>🔺</key>
+	<string>vörös felfelé mutató háromszög</string>
+	<key>🔻</key>
+	<string>vörös lefelé mutató háromszög</string>
+	<key>🀄️</key>
+	<string>madzsongkő, vörös sárkány</string>
+	<key>🔼</key>
+	<string>felfele mutató háromszög</string>
+	<key>🚵‍♀️</key>
+	<string>női hegyikerékpáros</string>
+	<key>☮️</key>
+	<string>béke jele</string>
+	<key>🔽</key>
+	<string>lefelé mutató háromszög</string>
+	<key>👨‍👦‍👦</key>
+	<string>család apával és két fiúval</string>
+	<key>⬅️</key>
+	<string>balra nyíl</string>
+	<key>⛎</key>
+	<string>Ophiuchus</string>
+	<key>🎟️</key>
+	<string>belépőjegy</string>
+	<key>👩‍👩‍👧‍👧</key>
+	<string>család két anyával és két lánnyal</string>
+	<key>🏷️</key>
+	<string>címke</string>
+	<key>2️⃣</key>
+	<string>kettes billentyű</string>
+	<key>♿️</key>
+	<string>kerekesszék jele</string>
+	<key>👰‍♀️</key>
+	<string>nő fátyollal</string>
+	<key>🗃️</key>
+	<string>kartotékdoboz</string>
+	<key>🕋</key>
+	<string>Kába</string>
+	<key>🕌</key>
+	<string>mecset</string>
+	<key>🕍</key>
+	<string>zsinagóga</string>
+	<key>🕎</key>
+	<string>menóra</string>
+	<key>👩‍🎤</key>
+	<string>női énekes</string>
+	<key>🉐</key>
+	<string>japán írásjel, jelentése: „alkudozás”</string>
+	<key>🏌️</key>
+	<string>golfozó</string>
+	<key>🛋️</key>
+	<string>kanapé és lámpa</string>
+	<key>🕐</key>
+	<string>egy óra</string>
+	<key>🏊‍♀️</key>
+	<string>női úszó</string>
+	<key>🉑</key>
+	<string>japán írásjel, jelentése: „elfogadható”</string>
+	<key>☠️</key>
+	<string>koponya és lábszárcsontok</string>
+	<key>🕑</key>
+	<string>két óra</string>
+	<key>🕒</key>
+	<string>három óra</string>
+	<key>🏋️‍♀️</key>
+	<string>női súlyemelő</string>
+	<key>🕓</key>
+	<string>négy óra</string>
+	<key>🕔</key>
+	<string>öt óra</string>
+	<key>🕕</key>
+	<string>hat óra</string>
+	<key>🕖</key>
+	<string>hét óra</string>
+	<key>🙆‍♀️</key>
+	<string>OK jelet mutató nő</string>
+	<key>🕗</key>
+	<string>nyolc óra</string>
+	<key>🕘</key>
+	<string>kilenc óra</string>
+	<key>🕙</key>
+	<string>tíz óra</string>
+	<key>🕚</key>
+	<string>tizenegy óra</string>
+	<key>🕛</key>
+	<string>tizenkét óra</string>
+	<key>🕜</key>
+	<string>fél kettő</string>
+	<key>🇺🇦</key>
+	<string>Ukrajna zászlója</string>
+	<key>🕝</key>
+	<string>fél három</string>
+	<key>🇶🇦</key>
+	<string>Katar zászlója</string>
+	<key>🕞</key>
+	<string>fél négy</string>
+	<key>✡️</key>
+	<string>Dávidcsillag</string>
+	<key>🇲🇦</key>
+	<string>Marokkó zászlója</string>
+	<key>🕟</key>
+	<string>fél öt</string>
+	<key>🧗‍♂️</key>
+	<string>férfi sziklamászó</string>
+	<key>🕠</key>
+	<string>fél hat</string>
+	<key>🕡</key>
+	<string>fél hét</string>
+	<key>🇪🇦</key>
+	<string>Ceuta és Melilla zászlója</string>
+	<key>🕢</key>
+	<string>fél nyolc</string>
+	<key>✅</key>
+	<string>pipa szimbólum</string>
+	<key>🕣</key>
+	<string>fél kilenc</string>
+	<key>🧜‍♀️</key>
+	<string>hableány</string>
+	<key>🏎️</key>
+	<string>versenyautó</string>
+	<key>🕤</key>
+	<string>fél tíz</string>
+	<key>🛍️</key>
+	<string>bevásárlótáska</string>
+	<key>🕥</key>
+	<string>fél tizenegy</string>
+	<key>✊</key>
+	<string>felemelt ököl</string>
+	<key>🇲🇨</key>
+	<string>Monaco zászlója</string>
+	<key>✋</key>
+	<string>felemelt kéz</string>
+	<key>🕦</key>
+	<string>fél tizenkettő</string>
+	<key>🕧</key>
+	<string>fél egy</string>
+	<key>🇮🇨</key>
+	<string>a Kanári-szigetek zászlója</string>
+	<key>🏴󠁧󠁢󠁷󠁬󠁳󠁿</key>
+	<string>Wales zászlója</string>
+	<key>🇾🇪</key>
+	<string>Jemen zászlója</string>
+	<key>🇪🇨</key>
+	<string>Ecuador zászlója</string>
+	<key>👩‍🎨</key>
+	<string>női művész</string>
+	<key>🇲🇩</key>
+	<string>Moldova zászlója</string>
+	<key>🇦🇨</key>
+	<string>az Ascension-sziget zászlaja</string>
+	<key>🇮🇩</key>
+	<string>Indonézia zászlója</string>
+	<key>🇲🇪</key>
+	<string>Montenegró zászlója</string>
+	<key>🇦🇩</key>
+	<string>Andorra zászlója</string>
+	<key>🇮🇪</key>
+	<string>Írország zászlója</string>
+	<key>🇪🇪</key>
+	<string>Észtország zászlója</string>
+	<key>🇲🇫</key>
+	<string>Saint-Martin zászlója</string>
+	<key>🇺🇬</key>
+	<string>Uganda zászlója</string>
+	<key>♣️</key>
+	<string>treff</string>
+	<key>🇦🇪</key>
+	<string>az Egyesült Arab Emírségek zászlója</string>
+	<key>🕯️</key>
+	<string>gyertya</string>
+	<key>🇲🇬</key>
+	<string>Madagaszkár zászlója</string>
+	<key>🇦🇫</key>
+	<string>Afganisztán zászlója</string>
+	<key>👮‍♂️</key>
+	<string>rendőr</string>
+	<key>🇪🇬</key>
+	<string>Egyiptom zászlója</string>
+	<key>🇲🇭</key>
+	<string>a Marshall-szigetek zászlója</string>
+	<key>✨</key>
+	<string>szikrák</string>
+	<key>🇦🇬</key>
+	<string>Antigua és Barbuda zászlója</string>
+	<key>🛏️</key>
+	<string>ágy</string>
+	<key>👳‍♀️</key>
+	<string>turbános nő</string>
+	<key>🇪🇭</key>
+	<string>Nyugat-Szahara zászlója</string>
+	<key>☄️</key>
+	<string>üstökös</string>
+	<key>🕺</key>
+	<string>táncoló férfi</string>
+	<key>✌️</key>
+	<string>békejel kézzel</string>
+	<key>❤️</key>
+	<string>piros szív</string>
+	<key>⏭️</key>
+	<string>előrefelé léptetés jele</string>
+	<key>🇦🇮</key>
+	<string>Anguilla zászlója</string>
+	<key>🇲🇰</key>
+	<string>Észak-Macedónia zászlója</string>
+	<key>◽️</key>
+	<string>közepesen kicsi, fehér négyzet</string>
+	<key>🇲🇱</key>
+	<string>Mali zászlója</string>
+	<key>🈚️</key>
+	<string>japán írásjel, jelentése: „ingyenes”</string>
+	<key>🇺🇲</key>
+	<string>USA lakatlan külbirtokainak zászlója</string>
+	<key>🇮🇱</key>
+	<string>Izrael zászlója</string>
+	<key>🇲🇲</key>
+	<string>Mianmar (Burma) zászlója</string>
+	<key>💂‍♂️</key>
+	<string>őr</string>
+	<key>🇺🇳</key>
+	<string>az Egyesült Nemzetek Szervezete zászlója</string>
+	<key>🇦🇱</key>
+	<string>Albánia zászlója</string>
+	<key>🧑‍💻</key>
+	<string>technológus</string>
+	<key>🇮🇲</key>
+	<string>a Man-sziget zászlója</string>
+	<key>⛹️‍♂️</key>
+	<string>férfi kosárlabda-játékos</string>
+	<key>🇲🇳</key>
+	<string>Mongólia zászlója</string>
+	<key>🇦🇲</key>
+	<string>Örményország zászlója</string>
+	<key>🇮🇳</key>
+	<string>India zászlója</string>
+	<key>❌</key>
+	<string>keresztjel</string>
+	<key>💇‍♀️</key>
+	<string>nő, akinek a haját vágják</string>
+	<key>❎</key>
+	<string>X jel</string>
+	<key>🇲🇴</key>
+	<string>Makaó zászlója</string>
+	<key>♎️</key>
+	<string>Mérleg</string>
+	<key>🧚‍♂️</key>
+	<string>férfi tündér</string>
+	<key>🧑‍💼</key>
+	<string>irodai dolgozó</string>
+	<key>🇮🇴</key>
+	<string>a Brit Indiai-óceáni terület zászlója</string>
+	<key>❓</key>
+	<string>piros kérdőjel</string>
+	<key>❔</key>
+	<string>fehér kérdőjel</string>
+	<key>🇲🇵</key>
+	<string>az Északi-Mariana-szigetek zászlója</string>
+	<key>❕</key>
+	<string>fehér felkiáltójel</string>
+	<key>🇦🇴</key>
+	<string>Angola zászlója</string>
+	<key>🧟‍♀️</key>
+	<string>női zombi</string>
+	<key>🖕</key>
+	<string>középső ujj</string>
+	<key>🇲🇶</key>
+	<string>Martinique zászlója</string>
+	<key>🖖</key>
+	<string>kéz, a középső- és gyűrűsujj között elválasztott ujjakkal</string>
+	<key>🇮🇶</key>
+	<string>Irak zászlója</string>
+	<key>🚶‍♂️</key>
+	<string>férfi gyalogos</string>
+	<key>🇲🇷</key>
+	<string>Mauritania zászlója</string>
+	<key>🇺🇸</key>
+	<string>az Egyesült Államok zászlója</string>
+	<key>🇦🇶</key>
+	<string>Antarktisz zászlója</string>
+	<key>🇮🇷</key>
+	<string>Irán zászlója</string>
+	<key>🕳️</key>
+	<string>lyuk</string>
+	<key>⌨️</key>
+	<string>billentyűzet</string>
+	<key>🇾🇹</key>
+	<string>Mayotte zászlója</string>
+	<key>🇪🇷</key>
+	<string>Eritrea zászlója</string>
+	<key>⛷️</key>
+	<string>síelő</string>
+	<key>🇲🇸</key>
+	<string>Montserrat zászlója</string>
+	<key>🇦🇷</key>
+	<string>Argentína zászlója</string>
+	<key>🇮🇸</key>
+	<string>Izland zászlója</string>
+	<key>👨‍💻</key>
+	<string>férfi technológus</string>
+	<key>🌤️</key>
+	<string>nap kis felhő mögött</string>
+	<key>🇪🇸</key>
+	<string>Spanyolország zászlója</string>
+	<key>🇲🇹</key>
+	<string>Málta zászlója</string>
+	<key>🇦🇸</key>
+	<string>Amerikai Szamoa zászlója</string>
+	<key>🇮🇹</key>
+	<string>Olaszország zászlója</string>
+	<key>❤️‍🩹</key>
+	<string>gyógyuló szív</string>
+	<key>🏔️</key>
+	<string>hófedte hegycsúcs</string>
+	<key>🇪🇹</key>
+	<string>Etiópia zászlója</string>
+	<key>🤷‍♀️</key>
+	<string>vállat vonó nő</string>
+	<key>🇲🇺</key>
+	<string>Mauritius zászlója</string>
+	<key>🇦🇹</key>
+	<string>Ausztria zászlója</string>
+	<key>🖤</key>
+	<string>fekete szív</string>
+	<key>👩‍🦯</key>
+	<string>nő fehérbottal</string>
+	<key>👱‍♂️</key>
+	<string>szőke hajú férfi</string>
+	<key>👨‍💼</key>
+	<string>férfi irodai dolgozó</string>
+	<key>⛰️</key>
+	<string>hegy</string>
+	<key>🇪🇺</key>
+	<string>Az Európai Unió zászlója</string>
+	<key>🇲🇻</key>
+	<string>a Maldív-szigetek zászlója</string>
+	<key>🇦🇺</key>
+	<string>Ausztrália zászlója</string>
+	<key>🇲🇼</key>
+	<string>Malawi zászlója</string>
+	<key>👩‍🦰</key>
+	<string>nő vörös hajjal</string>
+	<key>🇲🇽</key>
+	<string>Mexikó zászlója</string>
+	<key>🇺🇾</key>
+	<string>Uruguay zászlója</string>
+	<key>🇦🇼</key>
+	<string>Aruba zászlója</string>
+	<key>☹️</key>
+	<string>rosszalló arc</string>
+	<key>⌚️</key>
+	<string>óra</string>
+	<key>🕵️</key>
+	<string>detektív</string>
+	<key>⛩️</key>
+	<string>Sintó szentély</string>
+	<key>🇲🇾</key>
+	<string>Malajzia zászlója</string>
+	<key>🧎‍♀️</key>
+	<string>térdelő nő</string>
+	<key>🇺🇿</key>
+	<string>Üzbegisztán zászlója</string>
+	<key>🇦🇽</key>
+	<string>az Åland-szigetek zászlója</string>
+	<key>👩‍🦱</key>
+	<string>nő göndör hajjal</string>
+	<key>🙇‍♂️</key>
+	<string>meghajló férfi</string>
+	<key>🌦️</key>
+	<string>nap esőfelhő mögött</string>
+	<key>🇲🇿</key>
+	<string>Mozambik zászlója</string>
+	<key>🏖️</key>
+	<string>strand ernyővel</string>
+	<key>👩‍🦲</key>
+	<string>nő haj nélkül</string>
+	<key>🇦🇿</key>
+	<string>Azerbajdzsán zászlója</string>
+	<key>➕</key>
+	<string>pluszjel</string>
+	<key>🕊️</key>
+	<string>galamb</string>
+	<key>➖</key>
+	<string>mínuszjel</string>
+	<key>➗</key>
+	<string>osztásjel</string>
+	<key>🗺️</key>
+	<string>világtérkép</string>
+	<key>👩‍🦳</key>
+	<string>fehér hajú nő</string>
+	<key>7️⃣</key>
+	<string>hetes billentyű</string>
+	<key>🅰️</key>
+	<string>A-s vércsoport</string>
+	<key>🤦‍♀️</key>
+	<string>a fejét fogó nő</string>
+	<key>🧝‍♂️</key>
+	<string>férfi tünde</string>
+	<key>🕷️</key>
+	<string>pók</string>
+	<key>✳️</key>
+	<string>nyolcágú aszteriszk</string>
+	<key>🌨️</key>
+	<string>felhő hóval</string>
+	<key>🦸‍♂️</key>
+	<string>férfi szuperhős</string>
+	<key>➰</key>
+	<string>fodros hurok</string>
+	<key>🏘️</key>
+	<string>háztömb</string>
+	<key>0️⃣</key>
+	<string>nullás billentyű</string>
+	<key>🤵‍♂️</key>
+	<string>férfi szmokingban</string>
+	<key>⛔️</key>
+	<string>tilos a belépés</string>
+	<key>👨‍👧‍👦</key>
+	<string>család apával, fiúval és lánnyal</string>
+	<key>👨‍👩‍👦‍👦</key>
+	<string>család anyával, apával és két fiúval</string>
+	<key>🧑‍🏫</key>
+	<string>tanár</string>
+	<key>➿</key>
+	<string>dupla fodros hurok</string>
+	<key>㊙️</key>
+	<string>japán írásjel, jelentése: „titok”</string>
+	<key>☝️</key>
+	<string>felfelé mutató mutatóujj</string>
+	<key>🕹️</key>
+	<string>joystick</string>
+	<key>🗑️</key>
+	<string>szemeteskosár</string>
+	<key>🌪️</key>
+	<string>tornádó</string>
+	<key>🧑‍🏭</key>
+	<string>gyári munkás</string>
+	<key>↗️</key>
+	<string>felfelé és jobbra mutató nyíl</string>
+	<key>⤵️</key>
+	<string>jobbra mutató, lefelé görbülő nyíl</string>
+	<key>🏚️</key>
+	<string>elhagyott ház</string>
+	<key>©️</key>
+	<string>copyrightjel</string>
+	<key>👨‍🏫</key>
+	<string>férfi tanár</string>
+	<key>🗓️</key>
+	<string>spirálfűzésű naptár</string>
+	<key>⏸️</key>
+	<string>szünetjel</string>
+	<key>🧑‍✈️</key>
+	<string>pilóta</string>
+	<key>🌬️</key>
+	<string>szelet fújó arc</string>
+	<key>👨‍🏭</key>
+	<string>férfi gyári munkás</string>
+	<key>🏜️</key>
+	<string>sivatag</string>
+	<key>♠️</key>
+	<string>pikk</string>
+	<key>🖨️</key>
+	<string>nyomtató</string>
+	<key>⏱️</key>
+	<string>stopperóra</string>
+	<key>👩‍🦼</key>
+	<string>motoros kerekesszékben ülő nő</string>
+	<key>🗻</key>
+	<string>Fudzsi</string>
+	<key>🫱‍🫲</key>
+	<string>kézfogás</string>
+	<key>🗼</key>
+	<string>Tokiói torony</string>
+	<key>🗽</key>
+	<string>Szabadság-szobor</string>
+	<key>🗾</key>
+	<string>Japán körvonala</string>
+	<key>🤸‍♂️</key>
+	<string>cigánykerekező férfi</string>
+	<key>🌀</key>
+	<string>ciklon</string>
+	<key>🗿</key>
+	<string>húsvét-szigeti szobor</string>
+	<key>☁️</key>
+	<string>felhő</string>
+	<key>🌁</key>
+	<string>ködös híd</string>
+	<key>😀</key>
+	<string>vigyorgó arc</string>
+	<key>👩‍🦽</key>
+	<string>kézi hajtású kerekesszékben ülő nő</string>
+	<key>🌂</key>
+	<string>zárt esernyő</string>
+	<key>😁</key>
+	<string>sugárzó arc mosolygó szemekkel</string>
+	<key>⚱️</key>
+	<string>temetkezési urna</string>
+	<key>🌃</key>
+	<string>csillagos éjszaka</string>
+	<key>😂</key>
+	<string>arc örömkönnyekkel</string>
+	<key>✉️</key>
+	<string>boríték</string>
+	<key>👨‍👧‍👧</key>
+	<string>család apával és két lánnyal</string>
+	<key>🤽‍♀️</key>
+	<string>vízilabdázó nő</string>
+	<key>🌄</key>
+	<string>napfelkelte a hegyek felett</string>
+	<key>😃</key>
+	<string>vigyorgó arc nagy szemekkel</string>
+	<key>🌅</key>
+	<string>napfelkelte</string>
+	<key>😄</key>
+	<string>vigyorgó arc nevető szemekkel</string>
+	<key>👷‍♂️</key>
+	<string>férfi építőmunkás</string>
+	<key>👨‍✈️</key>
+	<string>férfi pilóta</string>
+	<key>🌆</key>
+	<string>városkép alkonyatkor</string>
+	<key>😅</key>
+	<string>vigyorgó arc verejtékkel</string>
+	<key>🌇</key>
+	<string>napnyugta az épületek felett</string>
+	<key>😆</key>
+	<string>vigyorgó arc hunyorító szemekkel</string>
+	<key>🌈</key>
+	<string>szivárvány</string>
+	<key>😇</key>
+	<string>mosolygó arc glóriával</string>
+	<key>🌉</key>
+	<string>éjszakai híd</string>
+	<key>😈</key>
+	<string>mosolygó arc szarvakkal</string>
+	<key>🏞️</key>
+	<string>nemzeti park</string>
+	<key>🌊</key>
+	<string>hullám</string>
+	<key>😉</key>
+	<string>kacsintó arc</string>
+	<key>🌋</key>
+	<string>vulkán</string>
+	<key>😊</key>
+	<string>mosolygó arc mosolygó szemekkel</string>
+	<key>♒️</key>
+	<string>Vízöntő</string>
+	<key>🌌</key>
+	<string>Tejút</string>
+	<key>😋</key>
+	<string>mosolygó, száját nyaló arc</string>
+	<key>⚪️</key>
+	<string>fehér kör</string>
+	<key>🌍</key>
+	<string>földgömb Európával és Afrikával</string>
+	<key>😌</key>
+	<string>megkönnyebbült arc</string>
+	<key>🧏‍♂️</key>
+	<string>Süket férfi</string>
+	<key>✂️</key>
+	<string>olló</string>
+	<key>🌎</key>
+	<string>földgömb Amerikával</string>
+	<key>🤌</key>
+	<string>összecsípett ujjak</string>
+	<key>😍</key>
+	<string>mosolygó arc szív alakú szemekkel</string>
+	<key>🌏</key>
+	<string>földgömb Ázsiával és Ausztráliával</string>
+	<key>🤍</key>
+	<string>fehér szív</string>
+	<key>😎</key>
+	<string>mosolygó arc napszemüveggel</string>
+	<key>🌐</key>
+	<string>földgömb szélességi körökkel</string>
+	<key>👨‍👩‍👧‍👧</key>
+	<string>család anyával, apával és két lánnyal</string>
+	<key>🤎</key>
+	<string>barna szív</string>
+	<key>😏</key>
+	<string>önelégült arc</string>
+	<key>🌑</key>
+	<string>újhold</string>
+	<key>🤏</key>
+	<string>csípő mozdulatot végző kéz</string>
+	<key>😐</key>
+	<string>semleges arc</string>
+	<key>🧔‍♀️</key>
+	<string>szakállas nő</string>
+	<key>🌒</key>
+	<string>növekvő holdsarló</string>
+	<key>🤐</key>
+	<string>arc cipzárszájjal</string>
+	<key>😑</key>
+	<string>kifejezéstelen arc</string>
+	<key>🙍‍♂️</key>
+	<string>komor férfi</string>
+	<key>🌓</key>
+	<string>első negyedhold</string>
+	<key>🤑</key>
+	<string>pénzszájú arc</string>
+	<key>😒</key>
+	<string>unott arc</string>
+	<key>🌔</key>
+	<string>növekvő hold</string>
+	<key>🤒</key>
+	<string>arc hőmérővel</string>
+	<key>😓</key>
+	<string>lehangolt arc verejtékkel</string>
+	<key>🌕</key>
+	<string>telihold</string>
+	<key>🤓</key>
+	<string>mosolygó arc szemüveggel</string>
+	<key>😔</key>
+	<string>szomorú, töprengő arc</string>
+	<key>♋️</key>
+	<string>Rák</string>
+	<key>🌖</key>
+	<string>fogyó hold</string>
+	<key>🤔</key>
+	<string>gondolkodó arc</string>
+	<key>😕</key>
+	<string>zavarodott arc</string>
+	<key>🌗</key>
+	<string>utolsó negyedhold</string>
+	<key>🤕</key>
+	<string>arc bekötött fejjel</string>
+	<key>😖</key>
+	<string>zavarban lévő arc</string>
+	<key>🌘</key>
+	<string>fogyó holdsarló</string>
+	<key>🤖</key>
+	<string>robotfej</string>
+	<key>😗</key>
+	<string>pusziló arc</string>
+	<key>🌙</key>
+	<string>fogyó hold</string>
+	<key>🤗</key>
+	<string>arc átölelve</string>
+	<key>😘</key>
+	<string>puszit dobó arc</string>
+	<key>🌚</key>
+	<string>újhold arccal</string>
+	<key>🤘</key>
+	<string>szarvakat formázó kéz</string>
+	<key>😙</key>
+	<string>puszit dobó arc mosolygó szemekkel</string>
+	<key>🌛</key>
+	<string>első negyedhold arccal</string>
+	<key>🤙</key>
+	<string>hívj fel kézjel</string>
+	<key>😚</key>
+	<string>puszit dobó arc becsukott szemekkel</string>
+</dict>
+</plist>
